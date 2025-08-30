@@ -1,0 +1,820 @@
+{
+  "movie_id": "MOV1393",
+  "scenes": [
+    {
+      "location": "VAUDEVILLE THEATER",
+      "time": "NIGHT",
+      "characters": [
+        "TRIXIE FRIGANZA",
+        "JOE FRISCO",
+        "SAUL",
+        "SECOND MAN",
+        "JOE PENNER",
+        "WILLIE HOWARD",
+        "IRISHMAN",
+        "CUT TO",
+        "THIRD MAN",
+        "EDDIE",
+        "HELEN BRODERICK",
+        "FIRST MAN",
+        "EDDIE FOY, JR.",
+        "ROBERT L. RIPLEY",
+        "WINTER GARDEN",
+        "FOURTH MAN",
+        "JIM BARTON",
+        "MARK HELLINGER",
+        "SYLVIA HOWARD",
+        "QUICK DISSOLVE TO",
+        "RUTH",
+        "JIM",
+        "FADE OUT",
+        "WALTER WINCHELL",
+        "DISSOLVE TO",
+        "MONSTER BENEFIT",
+        "RESUME",
+        "RUTH'S VOICE",
+        "ANN SEYMOUR",
+        "MARGE",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A black signboard at the edge of the stage reads ETON AND in white Art Deco type. A piano plays. The voice of RUTH begins warbling the verse of \"If I Could Be With You (One To-Night)\" a pop tune by Henry Creamer and Jimmy Johnson. We PAN from the signboard, across the stage, past Ruth's accompanist EDDIE FARRELL, and HOLD ON Ruth, a sad-eyed j singer in a sexy black dress who stands in front of the g piano, a scarf in her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(sings) I'm so blue I don't know what to do All day through I'm pining just for you I did wrong when I let you go away And now I grieve about you night and day I'm unhappy and dissatisfied But I'd be happy if I had you by my side... As Ruth begins the refrain, an unseen orchestra joins in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(sings) If I could be with you I'd love you strong If I could be with you I'd love you long I want you to know that I wouldn't go Until I told you, honey, that I loved you so Eddie sings the second half of the refrain, not nearly as Ruth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(sings) If I was free to do the things with you If I could do the things I know I'd do I'm telling you true I'd be anything but blue If I could be with you Ruth takes the second refrain in a faster, rhythmically c tempo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "\f(sings) If I could be with you I'd love you strong If I could be with you I'd love you long I want you to know that I wouldn't go Until I told you, honey, that I loved you so If I could be with you one hour tonight If I was free to do the things I might I'm telling you I'd be anything but blue If I could be with you For just one hour If I could be with you Ruth bows to the audience as they APPLAUD. She gestures t who rises and bows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruth's agents enter the room looking for her: Tall Anglo- and heavily-accented Jewish cigar-smoker SAUL. Ruth is ou changing clothes behind a screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Oh, Ruth! Ruth!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH'S VOICE",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Hey, Ruth!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH'S VOICE",
+          "text": "Hello! Sit down, make yourselves at home. I'll be out in a second. Saul strikes a match on the wall and lights his cigar whi takes a seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "You certainly wowed 'em tonight, Ruthie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "\fYou certainly did! Five curtain calls and they could've rung up again. (sits) But I don't blame you, honey. Leave 'em hungry. Ruth emerges in a plain white dress. The agents rise to g",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Hello, Ruth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Hello, boys!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Hello, Ruth!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "To what do I owe the honor of this visit? Unwrap the bad news.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "You worrying about bad news after...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "You worrying! Mm-mm! Such a performer! It is to laughing, ain't it, Jim? Heh! The office wants to give you a new roof. Such a roof! Mm-mm! Starting with the Palace, headline billing. Even the Colonel'1ll tell you to sign.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "All right, all right. Let's have the \"put--\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "(laughs) Cute, ain't it? It's no \"but,\" Ruthie -- it's a \"because\"!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, because what -- ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "(hesitant) Well, be-- Because of your partner. They don't want Farrell -- and you don't need him. Oh, why should we beat around the \fbush?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "They don't want Eddie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "They don't want Eddie -- that's the truth, straight from the suspenders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, what's the matter with him? Why don't they want him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "(holds up two fingers) I can tell you in just two words what's the matter with him: (counts off) Im - possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(upset) Well, if they don't want Eddie Farrell, they can't have me. She retreats to her dressing table and sits, fixing her h powdering her nose. The agents follow and stand on either her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Never mind the display of temperature! But, listen, it's for your own good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Ruth, it ain't us, it's the office. They don't want him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "You don't understand. I couldn't break with Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Oh, I got it. Love certainly makes the world go ‘round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Oh, I know Eddie's no wonder but he's young and he'll develop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure, he'll develop lockjaw the way he tries to sing. The agents walk off in disgust. Ruth rises and confronts while Jim takes a seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Please, Saul, listen. I can talk to you as a friend. Let us lay off a couple of months. I'm working with Eddie. I'll give him poise and polish and I'll show him how to wear clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Say, what's going on here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Aw, he has the makings. I'll teach him how to sell a song and all you have to do is to book us into the Strand and have the office catch the act.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Yeah, I know. And in Newark, you'll want us to look at you in Trenton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Yeah, and in Trenton, you'll want us to go to Poughkeepsie. And in my condition --!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Say, Saul, with your drag up in that office, you won't have any trouble stalling them off a few months. Tell 'em -- aw, tell ‘em my health's bad. Tell them anything. (voice breaking) I don't care anything about the money. I want Eddie to come through and I know he can do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "A few months?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "A few months. What's the difference?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Say, it's a big difference between you and \fEddie. You're marvelous. And he's, uh, er Say, Jim. What's the opposite of marvelous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "(with a dismissive wave) That's Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE OUT",
+          "text": "TITLE (to a slow instrumental version of \"If I Could Be W Eddie hitched his wagon to a star -- and was on his way to success.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruth plays piano and looks admiringly at Eddie who, with the piano bench, stands next to her, singing a line from Waltz,\" a ballad by Al Dubin and Joe Burke:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(sings) Kiss me, sweetheart",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(stops playing) Oh, that's much better, darling. But when you sing the word \"sweetheart\" open your mouth. Don't sing through your nose. And try this little slur of mine: (sings and plays) Ki-iss me, swee-ee-eetheart (speaks) Now, you try it. But Eddie grabs her hands lovingly and sits beside her on bench.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Oh, say, honey, you're great to work with me like this. But I don't kid myself. I know you don't need me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "\fDon't need you? Why, I wouldn't go on without you. And if you ask me, you're getting along wonderful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "On the level? Say, if ever I do get anywhere",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Well ... you figure it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, as long as I have you by my side, I'm happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Oh ho. That sounds like a music cue, doesn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "It is. She begins to play.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(sings) This waltz is the Kiss Waltz (rises and sings as if onstage) Telling us both what to do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie, in a tuxedo, stands onstage with Ruth beside him l proudly as he completes the song:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(sings) Kiss me, sweetheart, kiss me While I dance the Kiss Waltz with you Eddie bows twice to the audience's APPLAUSE, then turns t They exchange bows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruth and Eddie exit out the Stage Door. A crowd of young push past Ruth to get to Eddie and surround him, chatteri excitedly. Agents Jim and Saul arrive from the opposite d from the girls and stare at the scene. Eddie signs autographs and chats with his adoring fans wh bemused Ruth shakes her head and walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Can you beat it? Six months ago that guy was a bust!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "And now he's a natural.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Yeah, a natural imitation of Ruth Eton. She taught him everything. And such a matinee idol! Mm! The crowd disperses and Eddie greets Jim and Saul with ha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Hello, Saul!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Hello, Eddie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Hello, Jim!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Hello, Eddie! Oh, say, Eddie. If we're not breaking into your social life",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Hey, listen, Eddie, we've got to talk to you. It's important.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Shienfeld is putting on his new Ritz Revue and we got a swell offer for you. You've been in vaudeville long enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Say, I'd like to be with that outfit. Think we ought to take it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "It ain't a \"we\" proposition, Eddie. They want you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "They don't want Ruth?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Pre-zactly!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Well, what'll I do with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Say, why should you worry about her? She can take care of herself. She don't do anything anymore in the act anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Well, she's got to live.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIM",
+          "text": "Oh, don't worry. Ruth can play the small time just as long as she likes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(almost persuaded) Well, I guess that could be arranged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAUL",
+          "text": "Say, why should you worry? You've got your own troubles. You know how this business is. Today, you're upstairs. And tomorrow -- who knows? -- you're in the cellar, ain't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(convinced) Well, I guess you're right. You know, I've always wanted to be with that-- The three men start talking simultaneously as they walk o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE OUT",
+          "text": "TITLE (to a fast instrumental version of \"If I Could Be Ruth learned that on Broadway the billing was over when the cooing stopped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruth opens the doors to her kitchen and turns to see a fr photo of Eddie on a table beside her chair in the living sits in the chair, picks up the photo, stares at it a mom it down, then turns away sadly, burying her head in her s Ruth's roommate MARGE enters, carrying packages.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Hello, Ruth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(tries to get a grip) Hello, Marge. Marge puts the packages in the kitchen and returns to the to discard her purse, hat and coat. Marge is a low-paid, cracking chorus girl, always on the lookout for a man or",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Well, here I am -- all tired out. I've been from five-and-ten cent store to five-and-ten cent store. Just couldn't find a fur coat to fit me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(laughs) Gee, I wish I had your disposition. What are all the bundles?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "(pulls out a card table) Rations, dearie, rations. It looks like a hard winter -- we might as well eat while we can. Throughout the following, Marge sets up the table next to covers it with a tablecloth, brings cups, food, a chair,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Fix something for yourself. I'm not hungry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Oh, I've brought some swell corned beef. (off Eddie's photo) I thought it'd be a change from that ham o' yours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(takes photo and stares at it) Aw, Eddie was all right until success went to his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Yeah, it went to the place where it had the most room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Somehow I - I just can't work without him. Ruth puts the photo back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Aw, come on, brace up! Come on, show me the chinaware, will ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(faint grin, head down) Aw, I'll get over it, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Sure. Love 'em, tease 'em, and give 'em the ozone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "That's all right when you're playing with numbers. But when you've just got one who's ... been everything to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Say, you sound like a page out of \"True Confessions\"!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, I feel worse. And think how hard I \fworked with him. That's gratitude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Yeah, when you first knew him, he couldn't carry a tune if it had a handle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "And this is the thanks I get for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Oh, you'll get over it. I've had more knocks in this racket than a crosstown bus. And I been in this game since the Big Dipper was just a drinking cup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(chuckles) It's the woman who pays. Marge brings a coffee pot to the table and sits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Well, why don't you stop paying and do some playing? Say, you know, you've passed up more offers this week -- and for what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, I just can't get him out of my mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Oh, that ungrateful double-crosser... Say do you know if you were drowning, he'd turn a hose on you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Well, I'm not drowning yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Yeah. With those eyes and that shape, you'll always be able to stand up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Maybe it would be better if I tried to forget him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Better? You're speaking mildly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "\fWill you help me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Will I help you? Can Lindbergh fly? Marge forks some corned beef onto a plate for Ruth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Come on, eat some of this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Mmmm. It does smell good. Ruth moves closer to the table, puts a napkin in her lap, her tea, etc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Listen, after you've huddled up with this corned beef, you'll have a better outlook on life. And after we finish, we'll put on some powder and go gunning for big game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(laughs) I believe you will help me to forget him after all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "Forget him? Say, you'll forget that that ivory-tickler ever existed. Ruth sips her tea thoughtfully as we",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE OUT",
+          "text": "sugars INSERT (to a sad instrumental version of \"If I Could Be W A newspaper article. The headlines read: Eddie Farrell, Revue Star Suddenly Loses Voice Broadway Playboy Stricken At Party The article, next to a photo of Eddie, reads: Eddie Farrell, famous tenor who had \fbeen touring the Inter-Mountain Circuit and other well-known vaudeville circuits, was suddenly stricken at a theatrical party given by Florenz Shufield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "[We know we're on a train because we hear TRAIN SOUND EFF a porter enters after the first line and wanders around i background. ] Four men, all faceless show-biz types, sit around while o them deals out four hands of playing cards atop some suit The FIRST MAN reads a newspaper which presumably contains above article.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST MAN",
+          "text": "Well, there's the guy that got just what was coming to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND MAN",
+          "text": "It's the old story. Wine, women, and sauerkraut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD MAN",
+          "text": "In other words, the boy went the way of all fish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST MAN",
+          "text": "This paper said it started with a case of laryngitis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD MAN",
+          "text": "Well, that ham would drink anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOURTH MAN",
+          "text": "(dealing the cards) Eddie's no ham. You can cure a ham.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND MAN",
+          "text": "And what a terrible deal he gave that Eton girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST MAN",
+          "text": "I should say so. She taught him everything he knew. Nothing but a stooge piano player \ftill she straightened him out. The men begin to play. The game is bridge:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOURTH MAN",
+          "text": "Pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD MAN",
+          "text": "One club.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST MAN",
+          "text": "One no-trump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD MAN",
+          "text": "Well, just the same, boys, don't forget to be at that benefit Sunday night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOURTH MAN",
+          "text": "Don't worry, we'll be there with bells.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND MAN",
+          "text": "Never mind the belles. That's what put Farrell on the bum. Two diamonds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE OUT",
+          "text": "INSERT (to a rousing FANFARE): A page of the program for the Sunday night benefit:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSTER BENEFIT",
+          "text": "for EDDIE FARRELL The following guest artists will positively appear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "and other well-known artists [sic] at the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WINTER GARDEN",
+          "text": "Broadway and 51st Street New York City",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A full house. The orchestra leader conducts the rousing F The music stops as the show's tuxedoed MASTER OF CEREMONI onstage. THE M.C. Ladies and gentlemen. We have waited as long as possible. I regret very much to announce that all the stars to appear, none have shown up. Your money will be refunded at the box office. However, before you go, I wish to state that we have with us tonight a very unexpected guest performer. A girl none of us can forget. Eddie Farrell's old partner, Miss Ruth Eton. The audience APPLAUDS. THE M.C. Thank you. The M.C. turns and beckons to Ruth offstage. THE M.C. Oh, Ruthie? (to the audience) Miss Eton. MUSIC begins, lights go down, the M.C. retreats. Ruth, dressed in ordinary street clothes, walks to center her head down, her purse and gloves in her hand. She paus out at the audience sadly ... and sings the verse and one of the torch song \"Don't Tell Him What Happened To Me\" (b De Sylva, Lew Brown and Ray Henderson) in one long glorio",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "throat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(sings) I loved him, I lost him He craved a thrill I can't forget him I love him still It's over, all over And yet I find That he's always on my mind Tell me where he is, tell me where he goes Tell me what he does, tell me who he knows But don't tell him what happened to me If he says his life now is like a song Tell him he was right, tell him I was wrong But don't tell him what happened to me Let him remember me As I used to be When his love for me Made me strong and free Ask him if the new kisses are divine Ask him if they thrill just as much as mine But don't tell him what happened to me EDDIE watching from the wings. He clutches his laryngitic and expresses guilt and remorse. ON RUTH as she sings another half refrain of the song:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(sings, clutches her purse) Let him remember me As I used to be When his love for me Made me strong and free I wonder if the new kisses are divine I wonder if they thrill just as much as mine Oh, don't tell him what happened to me The MUSIC ends. Ruth, head bowed, walks off. The audience and rises -- whether to begin a standing ovation or to go not entirely clear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's dark. A single stage lamp provides all the illuminat IRISHMAN, in overalls, sweeps the floor with a broom as a emotionally-drained Ruth walks past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IRISHMAN",
+          "text": "(pleasantly) Good night, ma'am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "(listlessly) Good night. The Irishman walks off as Eddie, hat in hand, emerges fro curtains and steps in Ruth's path. She pauses, looks up, recognizes him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Yes, it's me. They stand alone in the darkened backstage with the one l glowing between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Hello, Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(genuinely) Yes, I had to see you. As much as you must hate me for the way I've treated you. But I got what was coming to me. And I see now that I deserved it. Those fair-weather friends of mine certainly put the skids under me plenty. Just think of it. Not one of them showed up. Gee, Ruth, you were great. Ruth can't meet his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(lightly) I used to play the piano pretty well in your act. Didn't I? I mean, as piano players go. Well, maybe ... maybe I could \fcome back. Ruth looks straight at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Farrell's the name. He offers his hand. She takes it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "Come up tomorrow for an audition? Relieved, Eddie holds her hand in both of his.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Can I bring the ring?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "What ring?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "We're two-thirds married now, aren't we?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUTH",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Well, I'm willing, the preacher's willing He doesn't need to finish. Ruth grins and puts her head t shoulder. Eddie embraces her. We hear a jaunty version of Could Be With You\" as we",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1394"
+    }
+  ]
+}

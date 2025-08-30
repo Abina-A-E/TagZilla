@@ -1,0 +1,1477 @@
+{
+  "movie_id": "MOV240",
+  "scenes": [
+    {
+      "location": "ROCHESTER RADISSON HOTEL ROOM",
+      "time": "DAWN",
+      "characters": [
+        "SALLY, (0.C.)",
+        "18.",
+        "VOICE, (0.C.)",
+        "BARRY",
+        "MATCH CUT TO",
+        "COUSINEAU, (0.C.)",
+        "DUDE, (0.C.)",
+        "NOHO HANK, (V.0O.)",
+        "VICTOR, (V.0.)",
+        "FUCHES, (V.0.)",
+        "VICTOR, (V.0O.)",
+        "FUCKING FUCK",
+        "CONTINUED",
+        "TREVOR",
+        "NOT GETTING ME KILLED YOU STUPID",
+        "YES.",
+        "ANTONIO",
+        "_ SALLY",
+        "27.",
+        "VICTOR",
+        "RYAN",
+        "23.",
+        "NOHO HANK",
+        "36.",
+        "JERMAINE",
+        "ERIC",
+        "SONG",
+        "NOHO HANK, (V.0.)",
+        "20.",
+        "S APARTMENT",
+        "FUCHES, (V.O.)",
+        "NOHO HANK, (V.O.)",
+        "SALLY",
+        "COUSINEAU",
+        "NOW.",
+        "NOHO HANK, (0.C.)",
+        "FUCHES, (V.0O.)",
+        "DISSOLVE TO",
+        "TREVOR, (0.C.)",
+        "RICK",
+        "PAZER",
+        "WAITRESS",
+        "FUCHES"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A window gives a perfect view of the far from perfect downtown Rochester, NY. Barry emerges from the bathroom, removing earplugs. He pa his jacket, he's missing something. He searches the floor ...And as he does we begin to see SOMETHING'S OFF: BULLET HOLES that have sent spiderwebs up the window. Barry find what he's looking for: a GLOCK with a silencer. He racks bolt, checks the chamber, unscrews the silencer and stows both parts in his jacket... ...A couple of more steps reveal a DEAD LAWYER IN HIS PAJAMAS slumped under the window. Barry nudges the body w his foot. He heads for the door. MUSIC: \"You Are a Runner and I Am My Father's Son\" by Wol Parade. TITLES START TO FADE UP, as Barry takes one last look aro the room, then nods. \"All set.\" Barry opens the door...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATCH CUT TO",
+          "text": "INT. BARRY’S APARTMENT - CLEVELAND - MORNING ...and enters his apartment. Barry wheels his rollercase into a sparse apartment, looking like any other jet-lagge guy back from a business trip. LATER - Barry is eating a bowl of cereal while playing Ca Crush on his cell. LATER - Barry is doing push-ups on a yoga mat. (CONTINUED )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LATER - Barry watching a show on his laptop while eating Wendy's. An Eminem poster is taped up on the wall behind him. Next to it are framed citations from military servic LATER -- Barry having a private dance to Ugly Kid Joe's \" Hate Everything About You.\" LATER - Barry taking a shower. LATER - Barry turns out the lights and sits on his couch. stares out the window at the snowy, low rent neighborhood glowing orange from the street lights. Barry is one lonely dude. CUT TO BLACK. END TITLES. Beat, then...a cell rings. INT. BARRY’S APARTMENT - CLEVELAND - DUSK Barry is asleep on the couch. He stirs. Rummages for his cell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(into cell) Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.O.)",
+          "text": "(over cell, no-bullshit) You back in Cleveland?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "We can say bye-bye to Rochester lawyer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Good. Were you asleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "It’s five in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0.)",
+          "text": "You never know with you guys. Some of you can sleep, others can’t. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Then I won't keep you too long: Are you familiar with the Chechen Brotherhood?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Chechen mob out in LA. Ever since the Balkin war ended these guys have moved over here to take up turf. Real deal shit here, Barry. Shot caller’s a guy named Goran Pazar... Barry shuffles over to the coffee maker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "LA is far.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "This guy is big. This whole thing is very very big. This could be the dream, Barry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "When do you need me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Your flight to LA leaves in five hours. I'll have a car waiting for you at the airport.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Will the car at LAX be nice?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0.)",
+          "text": "It'll be whatever car my guy can get on short notice. Oh, and you're not flying to LAX, you're flying into Ontario.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Fucking Ontario? Why because it's cheaper?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0.)",
+          "text": "No, because it's smarter. We have to cover our tracks. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "That's like a two hour drive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "Gotta cover our tracks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "How much cheaper was it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "Safe travels, call me when you get there. Barry pours coffee. It's totally because it's cheaper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry drags his rollercase loudly down the stairs, causin his landlord, VICTOR (late 50's) to peek out to make sure one is hacking apart the stairs with an ax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Hey Vic. I got a convention in Albuquerque. I'll be gone for a couple of days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VICTOR",
+          "text": "I don't even know why you pay rent, Belkin. I wish you had a pet or even a plant I could take care of. But you know what? You don't. Barry nods. A true, weird observation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the roof of the parking structure. A PLANE ROARS over Barry as he searches for his car, referencing his cell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(checking license plates) BDX-7563. BDX-7563. He finds the car. It's a shitty Camry. BARRY (cont'd) Really? Barry’s cell rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "You find the car? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Nice, right? Listen, when you meet Goran, don’t be afraid sell yourself a bit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Why do I need to do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "I’m thinking specifically about Canton. That police officer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "The guy whose dick I set on fire?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "I think that would be something Goran would be intrigued by. Just so he’s aware, ya know, you’1l go there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Why can’t I just listen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Obviously you have to listen. I'm not saying don't listen. I’m just saying he’s the type of person that the dick-fire could tip things in our favor. If it presents itself try to fit it into the conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "But that’s not something I’d want to do again. That cop’s wife was crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Chechen Brotherhood, Barry. This is big. INT. BARRY’S CAR - LATER (MOVING) Barry inches along in traffic, pissed he forgot to bring sunglasses. A MOTORCYCLE ZOOMS past him, weaving between slow moving cars. It's annoying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A modest house with super nice cars in the driveway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry is lead through the house by NOHO HANK (twenties, dressed conservatively in a golf shirt and khaki pants, y with a tattoo on his neck).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "Goran will be out in a sec. We’re gonna do this in the pool house if that’s okay with you. His daughter has some friends over. They pass a group of TEN YEAR OLD GIRLS watching that Dis Channel show “Jessie”. They are all dressed like Jessie. NOHO HANK (cont'd) He’s meditating right now. Do you know TM?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "TM? No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "You don’t practice? Goran is very devoted to it. He was very persistent that I try it, but, uh, I did not like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goran Pazer (fifties, small but imposing) stands amid the pool equipment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAZER",
+          "text": "What it does, really, is relax your brain so that you can achieve pure consciousness. You don’t know it but you only live your life on the surface, right. You’re doing it right now. But with transcendental meditation you go beneath the surface and experience all kinds of wonderful shit. The shit that was always there since you were a just a little baby, but you didn’t realize it. (MORE) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PAZER (cont'd) I have a guy who can teach it to you. Noho Hank does it and...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "Changed my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAZER",
+          "text": "Changed his life. You should do it. Barry doesn’t know how to respond to this bullshit. Pazer abruptly grows morose, which Noho Hank takes as his cue t start their presentation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "We contacted Fuches because we have a confidential situation. (lifts up laptop) Can you see this okay? This is Ryan Madison. On the screen a drivers license picture of RYAN MADISON, thirties, good looking Midwestern dude. NOHO HANK (cont'd) He is a physical trainer in Silver Lake. He works with Goran’s wife Natalie. They’ve been training together for... Noho Hank looks at Pazer for an estimate, but his boss is lost in a grim reverie. NOHO HANK (cont'd) ...two, three years? Give or take? Over the past month these sessions became more frequent. Goran asked me to follow her and I became aware that they were taking up ina Holiday Inn in Studio City. I snuck a lipstick camera in the room and got this. On the laptop we see grainy footage of Ryan and NATALIE (thirties, ex-Penthouse Pet) fucking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAZER",
+          "text": "Why would I want to see this? Turn that off. TURN IT OFF.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "I wanted to give him the whole -- (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAZER",
+          "text": "He gets it. You already said they are taking up in a hotel, why show the footage? You are just impressed with yourself for planting the camera. Trash that footage. The fuck?! Barry wants to wrap this up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You want him gone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "We’d pay you a --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Fuches takes care of the money, you don’t give me anything. I just need his picture and address and it’11l be done within the next couple of days. I like to do a bit of recon just to make it clean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "That sounds good. And Goran would like him to suffer. We want him to suffer, yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I once set a guys dick on fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAZER",
+          "text": "What?? Why? Who'd want that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "Can't you just shoot him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Well, yeah, but if you want him to suffer --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "Being shot is very painful. Have you been shot? I have. It's like crazy painful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAZER",
+          "text": "Anything is better than setting his dick on fire. I'm not a fucking child. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pazer grabs a little plastic oar and starts beating it against the wall like a child. Noho Hank calmly notes it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "I'll walk you out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You don't have to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "I want to. It's polite. INT. BARRY’S HOTEL ROOM - DAY Total shit hole. As Barry stands at the door, visualizing mouse crawling on him in his sleep, his cell rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "You in the hotel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Nice right? Just talked to CB, they said it went great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Oh yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "This is going to open up all kinds of doors for us. They need a greedy partner taken out, or a kidnapping, whatever, they call us. Keeps their hands clean. We could become their go to guy. And then, Russian and Asian mobs...who knows where we go from here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You keep saying \"we\", \"us\". Seems like this is good for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.O.)",
+          "text": "That’s very disrespectful, Barry. I got you in a position that other people would kill to be in. Pun intended.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(his boss sucks) 2eeMO.. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Barry hangs up. He sits on the edge of the bed. Again, Ba is one lonely dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-- Early morning: Barry exits a UPS store with a FED EX b tucked under his arm, morning cup of coffee in his hand. gets in his Camry, opens the FED EX box and dumps a GLOCK and TwO CLIPS onto his lap. -- Barry sits in the Camry, gazing out at...the plate-gla front window of a gym. In the window, the guy from the photo, Ryan Madison wears a shirt that says “Trainer”, he an older woman adjust a treadmill. --Barry maintains a three car length behind Ryan’s truck. -- Barry’s Camry follows Ryan’s truck onto the freeway, headed from Silverlake toward Burbank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry pulls up across the street from a non-descript building, watches Ryan approach the entrance. Out in front are about a dozen people, all smoking, drink coffee and chatting. Ryan nods hello, heads inside. The others extinguish thei cigarettes and head in after him. Barry keeps watching as a black Escalade pulls up in fron of the building, noses into a parking spot blocked off wi two ORANGE CONES. A YOUNG BLONDE GUY (TREVOR, 20’S) waves at the Escalade a pulls the cones so it can take the space. A MAN IN A VEST emerges from the Escalade. Trevor hands h a coffee, and follows him inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry sits in the Camry. He checks his watch. He opens th door and climbs out. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry walks down the alleyway next to the building, spots side entrance that is propped open, he heads toward it wh he spots... A WOMAN (SALLY, 30’s, midwestern cute) in the alley, sobb and mumbling to herself. Barry looks around, not sure what to do. He takes a step toward her when she wheels on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Give my daughter the shot!! Give her the-- Barry instinctively drops into a defensive pose. Sally is startled to see him. SALLY (cont'd) What are you doing out here? who are you? Shit, I lost my place. Damnit! Just then Trevor pops his head out the side door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TREVOR",
+          "text": "Sally, he’s ready for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Shit. (to Barry) Thanks a lot... She stomps in side, leaving a confused Barry in the alley",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Standing in front of a black background, Sally speaks to good looking guy, RICK, 20’s, who sits on a stool behind large wooden box which serves as a sort of counter. SALLY (cont'd) Excuse me? It’s after ten. Give my daughter the pain shot please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "(as a “nurse”) Mrs. Greenway, I was going to. WIDEN TO REVEAL: We’re in a SMALL THEATER. A group of people sit in the seats watching Sally and Rick perform a scene from Terms of Endearment. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "ANGLE: from the back of the theater, Barry watches from t shadows. Next to him is a large framed portrait of a wise looking older man. Its labeled “Arthur Moss, Founder.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Oh good, go ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Just a few minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU, (0.C.)",
+          "text": "Bullshit! They stop. Sally looks mortified. COUSINEAU (0.C.) (cont'd) Bullshit! It's false, Sally.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "I got thrown off right before I was about to go on. I was outside going through my checklist when I got interrupted by--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU, (0.C.)",
+          "text": "I don't give a shit! Even your excuses are false, Sally. As this heats up, Barry tries to peek over the heads of t other students to get a better look at Cousineau. COUSINEAU (0.C.) (cont'd) What is it that you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "For my daughter to get the shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU, (0.C.)",
+          "text": "Not Aurora! You! Little Sally Dale from Joplin, Missouri. What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "To be an actress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU, (0.C.)",
+          "text": "Again, I don't believe you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "(starting to cry) It's all I've ever wanted in the world. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU, (0.C.)",
+          "text": "Then why are stinking up my stage with lies!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "(angry, tears pouring) That is not fair, Gene --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU, (0.C.)",
+          "text": "Don't think, finish the scene. Sally takes a beat, realizing what he's done, then wheels around to Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Will you please, it's after ten. It's after ten! I don't see why she has to have this pain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Ma'am, it's not my patient",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "It's time for her shot. Do you understand? Do something. (starts to really lose it) All she had to do was hold on until ten and it's past ten! She's in pain. My daughter is in pain! Give her the shot. Do you understand? Give her the shot! Give my daughter the shot! Rick looks “concerned”, nods, heads off stage. SALLY (cont'd) Thank you very much. Thank you. Sally looks down, solemnly, then looks up. SALLY (cont'd) And, scene. The class erupts in applause. GENE COUSINEAU, 50’s, acting teacher extraordinaire, boun up on stage and hugs her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "(to Sally) I'm sorry I had to do that. I love you. (MORE) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "COUSINEAU (cont'd) (to students) As the beautiful Sally just demonstrated, this class is about LIFE. I want you to make a LIFE for yourself up on this stage. Give her another hand, she deserves your praise. Barry’s intrigued by this, when...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE, (0.C.)",
+          "text": "Hey, man... Barry turns and is face to face with RYAN, who stands two feet from him holding a script.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I haven’t seen you here before. Are you new to this class?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Uh. I was...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I’m Ryan. Ryan Madison. He holds out his hand to shake. Barry hesitates, then... shakes his hand. RYAN (cont'd) I was supposed to put up a scene with Matt Kennedy, but he got a catering gig. Everyone else has a partner. Can you help me out? Ryan holds the script pages out to Barry, who doesn’t kno what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TREVOR, (0.C.)",
+          "text": "Ryan Madison and Matt Kennedy! Barry turns to see Cousineau and EVERYONE IN THE THEATER STARING at him and Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Ryan, you’re up. Where’s Kennedy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Not here. (points) I’m going to do the scene with him. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "(to Barry) Who are you? Everyone stares at Barry. Finally...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I’m Barry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan, now wearing a rasta wig, sits at a table with some Chinese food boxes on it. Upstage, Sally and a couple oth women in the class stand on wooden boxes pretending to da “sexily”. Barry enters, holding a script. We quickly realize this i rendition of a scene from True Romance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "(as “Drexl”) Grab a seat there, boy. Want some dinner? Grab yourself an eggroll. We got everything here froma diddle-eyed joe to a damned-if-I- know. Long beat. Barry looks at his script pages, then...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(as “Clarence” ) No thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "No thanks? What does that mean? Means you ate before you came on down here? All full? Is that it? Nah, I don't think so. I think you're too scared to be eatin'. See, if I asked you if you wanted some dinner and you grabbed an eggroll and started to chow down, I'd say to myself 'This motherfucker's carryin' on like he ain't got a care in the world. Who knows, maybe he don't Maybe this fool's such a bad motherfucker, he don't got to worry about nothin'. He jus' sit down, eat my Chinese, watch my TV.' (MORE) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "RYAN (cont'd) See? You ain't even sat down yet. On that TV there, since you been in the room, is a woman with her titties hangin' out, and you ain't even bothered to look. You jus' been starin' at me. Now, I know I'm pretty, but I ain't as pretty as a couple a titties. Another long beat, then...Barry realizes it’s time to tak an envelope from his pocket and drop it on the table. Bea Then...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(as Clarence) I'm not eatin' ‘cause I'm not hungry. I'm not sittin''cause I'm not stayin'. I'm not lookin' at the movie 'cause I saw it seven years ago. It's The Mack with Max Julian, Carol Speed and Richard Pryor, written by Bobby Poole, directed by Michael Campus, and released by Cinema Releasing Company in nineteen-seventy-four. I'm not scared of you. I just don't like you. In that envelope is some payoff money. That price is non-negotiable. What's in that envelope is for my peace of mind. My peace of mind is worth that much. Not one penny more. Not one penny more. Ryan picks up the envelope and looks inside, acts surpris at what he sees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "It’s empty. Barry stands there. Then, Ryan very “dramatically” stares at Barry. Suddenly, knocks the table over and lunges at Barry, cocks a fist b as if to punch him in the face but right before he throws the punch he stops, breaks character. RYAN (cont'd) And, scene! The class all applaud. Cousineau stares at the two on sta nodding. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "(to Barry) What’s your name again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Barry",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Barry what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Belkin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Well, Barry Belkin, you've used up your free audit. If you want to return to my class Thursday you'll have to prepare a monologue. (smiles) You know who you two reminded me of? 1976. I was playing Hamlet on the road and do you know who was my Horatio? A little known actor named Tom Hanks. The students react. That's insane. COUSINEAU (cont'd) I saw Tom at Gelson's a couple of weeks ago and told him about you guys. He said when he gets the time he'd love to pop by and say hello. (knowingly ) If that's okay with you. Holy shit! As the students freak out, Barry tries to snea away but can't. He's literally trapped in a spotlight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry exits the theater, starts to head for his car when.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY, (0.C.)",
+          "text": "Hey! Barry! Barry turns to see Sally standing with several other smok actors who drink coffee. She heads over to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Hey. I just want to say sorry for snapping at you back there. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "18.",
+          "text": "SALLY (cont'd) I had just started going through my character checklist, and I was right in the middle of thinking about my rape, and how to use it in the scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Your ra--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "I was raped by my father’s friend. It’s why I have social anxiety. And body issues. It’s probably why I got my breasts done. I use my rape a lot. Anyway, I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Oh. Oka--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Don't worry about what happened in there. I sucked the first time I went up. You'll just get better the more you do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I don't think I'm going to --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "What are you gonna do for your monologue? I did the scene from The Blind Side when Sandy Bullock interrupts football practice. \"This team is your family. You protect his blind side.\" Do you remember that? It won her an Oscar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Uh -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "What would be a good mono for you? Let's go brainstorm. C'mon a bunch of us are going to Residuals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "What’s Residuals?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A Studio City watering-hole serving starving actors for decades. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Signed head-shots of up-and-comers and never-was’es cover the walls, along with scores of residual checks in the amount of pennies. Barry sits with a handful of folk from the class chatting animatedly, Sally using up most of the oxygen in the conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "What if you did Brad Pitt from Fight Club, where he explains the rules of the fight club. That's good one. Or Brad from Twelve Monkeys when he's in the mental institution with Bruce? So great. You could be all jittery and do his eye tick. He got an Oscar nom for that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERMAINE",
+          "text": "Or you could do Alec Baldwin's scene from Glengarry Glenross. That's what I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ERIC",
+          "text": "Hey me too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDE, (0.C.)",
+          "text": "Me too!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Did you just move here, Barry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Uh yeah. I'm from Cleveland.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Welcome to L.A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Are you guys all from here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Eric is from Florida, Jermaine is from Denver, Antonio there is from Puerto Rico. You have a day job yet? Lydia can hook you up at Islands if you want to wait tables. My girlfriend dates the manager of the Standard, so if you have bartending experience, or you lie and say you do, I can get you a gig there. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I’m okay. I have a job. Sales. Auto parts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "That’s cool. I walk dogs. Ryan’s a personal trainer... A Hispanic guy approaches, hands Sally a drink. SALLY (cont'd) ...and Antonio here is a night security guard at a Budweiser plant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Oh, that’s cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANTONIO",
+          "text": "No. It sucks. But it’s just my job, it’s not who I am. You know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yeah. I think so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANTONIO",
+          "text": "And now I have my days free to audition. I go in for a lot of cops and teachers. You know CSI? I was this close to being a dead body on that show. Next time I’m going to book it. And after that... (full of inspiration) I will play someone who is alive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "It’s about talent for sure, but mostly it’s about passion. Do you think Meryl Streep and Caley Cuoco became stars just because they were the best? No. They just wanted it the most. There’s always a million reasons not to do something, Barry. But if you want it, go for it. She smiles at Barry. She is pretty damn cute. \"JOURNAL OF ARDENCY\" BY CLASS ACTRESS comes on. SALLY (cont'd) I fucking love this song (to Barry) C'mon. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I don't dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Bullshit, yeah you do. I can tell you wanna dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(she's right) Sorry...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "(laughs) No pressure. You'll know where to find me. WE FOLLOW SALLY as she skips out to the dance floor. The rest of the group follow her, leaving Barry alone with a super drunk Ryan. Barry's attention is split between doin his job and watching Sally dance. BARRY POV: SLOMO of Sally looking over at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SONG",
+          "text": "You think I'm livin', I'm livin',I'm livin' it up/In the spotlight. Barry is pretty sure she's flirting with him. This never happens on a job. Somewhere in his brain a voice is sayin \"Enjoy this\" Then: Ryan pukes on Barry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan stumbles out and pukes again. TWO HIPSTERS smoking applaud. Barry approaches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You okay, dude? RYAN . Can you get me an Uber?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALLY, (0.C.)",
+          "text": "Barry, can you please drive him home? Barry turns to see Sally standing behind him. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ SALLY",
+          "text": "Those Uber drivers are creeps. My friend Michelle and I were seriously almost murdered by one in Echo Park. (to Barry) Good night. Looking forward to your monologue. She gives him a kiss. It’s right on the line between friendly and sexual. She laughs at the puke on his shirt heads back inside. Barry is now alone in the parking lot with the guy he's supposed to kill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Lemme get my car. INT. BARRY’S CAR - NIGHT Barry drives with the windows down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Barrry...I like you, man. You’re like the cool quiet guy, just kind of sitting there checking it all out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I guess so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I should be like that. I talk too much. I mean, not like Sally. She talks way way too much. But I get in trouble sometimes. You’re cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "So did you always know you wanted to be an actor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "No. Got drafted by the Cubs when I was seventeen. But instead of going into single-A ball I went to UM on a baseball scholarship, first game, torn rotator cuff. Done-zo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "That’s too bad. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "It’s weird. I had my whole life mapped out, double A, triple A, the bigs...And then in a second it was just gone. But then when I was in rehab, I took a theater class, and that was it, man. A whole different door opened. You know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(mulls, then...) Maybe. Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "And now since I know my way around the gym, I train. It pays the bills until I make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Sally said she walks dogs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Well, “walks dogs.” You know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "No. I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "She’s a party girl. So, you know... Shit, see? I talk too much. You said you did auto parts? You like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I don’t know. It’s fine. I guess it’s like you being a trainer. I’m good at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "So you hate it. (beat ) Take a left here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "S APARTMENT",
+          "text": "Barry’s Camry is parked in front of a modest apartment complex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "That's my place there but quick, I wanna show you something... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Ryan tumbles out of the car and leans against the trunk. points to the twinkling lights of houses high in the hill of Studio City. RYAN (cont'd) There. See that? The day Ryan Madison gets a lead on a TV series, he’s going to buy a house up there. People say George Clooney lives off of Mulholland, but that's bullshit. He lives in the hills of Studio City. That's where it's at, man. Barry mulls this for a beat. RYAN (cont'd) Ryan’s not my real name. It’s Richard Krempf. I changed it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I don’t mind Ryan Madison.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "You should change your name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Because, Barry Belkin is too plain. It sounds like an accountant or something. You want something people can remember, like Barry Block. Right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Barry Block. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Cuz when I look at you I think... block... Barry doesn't know how to takes this. RYAN (cont'd) Yeah, that sounds cooler. (beat ) I think Sally likes you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yeah? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "And don’t worry about that shit I told you earlier. She’s a good girl. (beat ) I’ve never gone there if it makes a difference. But I am fucking a client of mine. Married lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You should be careful. Her husband might find out. Could be bad for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "No. No one’s gonna find out. But I feel bad about it. Bad karma, man. Right? I’m gonna stop. (beat ) You’re the only person who knows, and you’re cool, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Sure. I’m cool. Ryan stares off at the houses, growing emotional. He drunkenly hugs Barry. Barry knows this is not a romantic gesture; this is just a lonely guy reaching out to anothe lonely guy. LIPSTICK CAM FOOTAGE -- Barry and Ryan hugging by the boa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK, (0.C.)",
+          "text": "What the fuck? REVEAL: Noho Hank and THICK NECK (twenties, tatted up monster) are in a BMW down the street, casing Ryan's hous Noho Hank has the lipstick cam awkwardly attached to his steering wheel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE TO",
+          "text": "INT. BARRY’S HOTEL ROOM - MORNING Light peeks around the drawn curtains. Barry’s fast aslee His cell rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VICTOR, (V.0.)",
+          "text": "Belkin. It's Vic. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yeah Vic?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VICTOR, (V.0.)",
+          "text": "You got a minute?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "What's up Vic?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VICTOR, (V.0O.)",
+          "text": "Your apartment blew up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "What? My apartment blew up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VICTOR, (V.0.)",
+          "text": "This morning. Woke up the whole city. We are on the news. Did you leave the gas on or something? Barry gets another call. He looks at his cell: FUCHES. Fu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Gotta go, Vic. (switches over.) Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES, (V.0O.)",
+          "text": "Open your door. Barry isn't sure he heard him right. FUCHES (V.0.) (cont'd) Open. Your. Door. AT THE DOOR: Barry cautiously opens the door, revealing FUCHES (50's, suave in a cheap suit). He stares at Barry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You're Fuches? MOMENTS LATER: They sits across from each other, Barry on the bed and Fuches in a chair that's a little too big for him. He's smaller than his voice lets on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "Do you know why we are meeting face to face for the first time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Because I fucked up. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "Because you fucked up, Barry. CB is furious. And I told them I'd come here and personally fix this issue. That's how important their business is to me. But clearly it's not that important to you though, right? Now: what happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I tailed him day one, and he went to this acting class, and it’s kind of hard to explain but I ended up doing a scene with him from True Romance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "True Romance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "What scene?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You know the movie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "Yes, I know the movie very well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "You know the scene where Clarence gives Drexl the empty envelope?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "Where they fight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "We stopped right before that part.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "So to clarify, you and your mark performed a scene from True Romance in front of a class full of people who all now know your face?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I know, I know. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry can' know why. 28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "You know they got video of you two hugging? You're alone on an empty street -- this is how it was described to me -- at his front door...hugging! Like two buddies! (beat, mounting anger) What the fuck?! (beat ) Why didn't you burn him and go home? t explain or make an excuse, he honestly doesn't FUCHES (cont'd) Well fuck it. You're going to call CB and explain the hug away. Say you know it looks bad but that it's part of your style. You get off on knowing your mark before you kill them or some shit. Calm their fears and then do the guy and fuck off back to Cleveland.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I have nothing left in Cleveland.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "(dialing number ) That's your fault. Here: Fuches hands his cell to Barry. As Fuches paces the room, Noho Hank answers --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK, (V.O.)",
+          "text": "This is Hank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Hi it's Barry Belkin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK, (V.0O.)",
+          "text": "(happy he's reaching out) Hey man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Hey. Did you blow up my apartment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK, (V.O.)",
+          "text": "Look, I don't think I conveyed in our meeting why we can't handle Ryan in-house. Goran doesn't want CB's fingerprint on this in any way. (MORE) (CONTINUED )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "NOHO HANK (V.0.) (cont'd) A guy dies and people ask questions and if our fingerprints are on it, then people make assumptions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Goran doesn't want people to know his wife is fucking someone else. I got it. Did you blow up my apartment? Fuches words \"No one gives a fuck about your apartment!\" motions for him to wrap it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK, (V.0.)",
+          "text": "When Goran saw the footage from my lipstick cam of you and Ryan hugging, he felt like you needed a nudge. Usually a nudge is more discreet: a picture of your kids sleeping, video of your wife blindfolded imploring you to do the job. But, we looked into it, and you don't really have any of those things, so we had to blow up your apartment, which incidentally my guy thought was empty. Fuches notices something on Barry's open laptop. He squin at it, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "(for Fuches' benefit) Alright. That hug is part of my... style. I, uh, get off on knowing my marks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "That doesn't sound like it's true. Barry does a slow burn toward Fuches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Look, I'll finish it tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOHO HANK",
+          "text": "That's great. Great great. Thanks for reaching out Barry. I appreciate it and Goran does to. Look forward to talking once it's done. Good day. As he hangs up, Fuches approaches with his laptop, seethi (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "(re: laptop) \"The Top Ten Most Stirring Monologues in Movie History?\" Barry tries to grab the laptop, but Fuches keeps it away. FUCHES (cont'd) You motherfucker. You liked that class.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "No, I was just...I, uh,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCHES",
+          "text": "..want to become an actor? Don’t take this the wrong way Barry but you are unexceptional. It’s actually exceptional how unexceptional you are. Don’t blow that. You know, to do your job you need to be unknown, not known. You know when they say some actor has “it”? Like Lesley Ann Warren had “it”. That’s not what you want. You want to have “who?” You want to have “what?” You don’t want to show up to burn a guy and have people saying “Hey that’s the guy from the chicken commercial.” Because eventually that'll get you killed. But really, I don’t even give a shit about that. This speaks to a larger issue, Barry. This is about",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCKING FUCK",
+          "text": "Fuches hurls the laptop across the room. He gets into Barry's face. FUCHES (cont'd) Get that class out of your head. You're stuck with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "STUDENTS file out, light up, smoke and chat. REVEAL: Barry is once again watching the theater from his Camry across the street. Barry’s POV: Sally, Ryan and the other actors emerge from the front of the theater, say their good-byes and dispers (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Ryan and Sally walk down the street for a bit, and then part. Now's the time. Let's get this over with. Barry hops out his car to follow Ryan when he spots Cousineau saunter ou of the theater, heading to his Escalade. Barry watches Cousineau struggle adjusting his seat. He looks at Ryan, then Cousineau. Then: INT. COUSINEAU’S ESCALADE - CONTINUOUS Finally getting the seat how he likes it, Cousineau start the car when TAP TAP TAP! A startled Cousineau looks up to see Barry tapping at his window. Barry waves. Cousineau rolls down the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Excuse me, Mr Cousineau.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "You weren’t in class.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Yeah. I can’t do it. I have to leave town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Sorry to hear that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Mr. Cousineau. I was just wondering, do you think I was good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Good at what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Good at acting. Cousineau gives this question some real thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "No Barry. I don’t. To be honest, your performance ran the gamut from teak to oak to pine. It was wooden and boring. Do you know why? Because acting is truth. And I saw no truth in any of what you did. It was lies. It was artifice. To be an actor, you need to show an audience what’s in here. (MORE) (CONTINUED )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cousineau Cousineau Silence. 32. COUSINEAU (cont'd) (points to Barry’s chest) You understand? No bullshit. I hate bullshit. I won’t stand for it. And I can spot it like that. (snaps his fingers) I didn’t believe you, Barry. So you’re better off going back to whatever nook of the world you call home. Hollywood is no place for phonies. turns back to his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "I kill people for a living. stops -- BARRY (cont'd) I mean real people. More than a hundred I think. And that’s not counting any target defeats from the service. And I was good; I just took to it I guess. I did two deployments, met and lost my best friends, and, uh, then came home... I’m going to sell frozen yogurt when I know how to do all this stuff? I ended up hooking up with this lawyer, and he says he has a job for me. He gives me a picture of a guy, I don't know what this guy did but a day later I’m ona roof waiting for him to go to his car in this alley, and I tap him and I walk away. And the next day there’s a bunch of money in an envelope, and a few days later I get another call...it was easy. So I kept doing it. And that was seven years ago. And the weirdest part is, I never feel bad. Is that strange, that I can do that to human beings with lives and families, and it’s just...whatever? Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "What’s that from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "What? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cousineau 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Is that from the first Rambo? Richard Crenna's monologue at the end of the second act? Crenna's a friend by the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "It’s not from anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "So you improvised that? Because just now...I believed you. The story is a bit of nonsense-- alley snipers and that jazz -- but there was some truth there. Huh. Interesting. Do you have an agent?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Uh...kinda...can I take your class?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Possibly. I need to know that you'll work hard and be a good citizen. And my class isn’t cheap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "That’s not a problem. I can pay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "It’s cash only. And you pay in advance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "That’s not a problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Next class is tomorrow. Here. Two PM. We start on time. Barry... what’s your last name, again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Block. Barry Block.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUSINEAU",
+          "text": "Gene Cousineau. I look forward to the journey. gets back into his car, and drives away. Barry is elated...then looks around. The spell is broken where did Ryan go? Shit. Barry runs to his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan's truck turns a corner and PASSES Barry's Camry, REVEALING Barry waiting. He watches Ryan park on the stre Barry puts on his gloves, primes the Glock and steps out his car...WE FOLLOW HIM as he approaches the truck...as h gets closer the engine grows ominously louder...he can he music playing from inside...he moves around to the driver side and abruptly stops -- Ryan is dead. A bullet hole in his head. Barry follows th hole in his head to the bullet hole in the windshield, wh means the shot must have come from... Barry peers ACROSS THE STREET and sees Noho Hank and Thic Neck in a BMW. Leaning out of the back window is LUCKY. H has a rifle with a silencer pointed at Barry. LIPSTICK CAM FOOTAGE: Barry stares dumbly at the camera f across the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOW.",
+          "text": "THIS IS ONE SHOT: AS LUCKY FIRES Barry quickly and collectively responds with his Glock. Instead of retreati behind Ryan's car, Barry walks toward the BMW: a TWO SHOT BURST takes out Lucky, a TWO SHOT BURST takes out Noho Ha This happens so fast that Thick Neck barely has time to process it before Barry is at the drivers side window and SHOOTS HIM THREE TIMES, the last is a head shot THAT SEND BRAINS ALL OVER THE INTERIOR OF THE CAR. This all happens incredibly fast and it's violent and unsettling and doesn't affect Barry at all. He calmly wal away, instinctively dissembling his gun and tossing piece in a trash can, a storm drain, throws the car keys into s bushes, etc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car is silent, Noho Hank and Thick Neck lay motionles Through the windshield, we see Barry disappearing down th street...THEN FOCUS ON NOHO HANK'S LIPSTICK CAM, still attached to the steering wheel...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Barry walks casually down the street; just a guy out for late night walk. He spots TWAINS DINER across the street. \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The place is sparsely populated. Barry sits at booth. A WAITRESS brings him a menu.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Thanks. As Barry checks out the menu, POLICE CARS and AMBULANCES SCREAM to a halt across the street. Their lights strobe t inside of the diner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "God, I wonder what's goin' on over there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "Can I get a coffee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "That's all you want? Okay. The Waitress puts his order in and then settles in at the counter. Barry notices she's going over sides from a script.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "What do you have there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "I've got an audition tomorrow. (smiles) I'm an actor. Barry smiles back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRY",
+          "text": "So am I. \"JOURNAL OF ARDENCY\" kicks back in as WE: CUT TO BLACK. CREDITS. (CONTINUED)",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_241"
+    }
+  ]
+}

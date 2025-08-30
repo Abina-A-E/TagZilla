@@ -1,0 +1,4749 @@
+{
+  "movie_id": "MOV963",
+  "scenes": [
+    {
+      "location": "DAN'S BEDROOM",
+      "time": "DAY",
+      "characters": [
+        "OOOF",
+        "KIMBERLY",
+        "MORTY, (CONT'D)",
+        "STECKLE",
+        "ALEK",
+        "SAMMY",
+        "SALESMAN",
+        "THEO",
+        "YEAH",
+        "MY BOYFRIEND.",
+        "TEDDY K, GODAMMIT",
+        "64.",
+        "NICE",
+        "DEBRA",
+        "YOUNG EXEC",
+        "MORTY",
+        "SUV DRIVER",
+        "SALESWOMAN",
+        "KALB",
+        "OWW",
+        "DAN",
+        "DAN 7",
+        "DAD",
+        "CARTER",
+        "DAMMIT",
+        "ENRIQUE, (0.S.)",
+        "DAAAD",
+        "ALEX",
+        "NOSED BRAT",
+        "WITH",
+        "SURPRISE",
+        "DAN, (0.8.)",
+        "IT LOOKS LIKE",
+        "DIVORCE LAWYER",
+        "JANA",
+        "PORSCHE DEALER",
+        "RE-JEC-TION",
+        "CARTER, (0.S.)",
+        "CORWIN",
+        "NEWS ANCHOR",
+        "STECKLE, (0.S.)",
+        "WITH WHO",
+        "LOAN OFFICER",
+        "76.",
+        "MAINTENANCE GUY",
+        "PETEY",
+        "LOUIE",
+        "79.",
+        "ALEX, (0.8.)",
+        "OBSTETRICIAN",
+        "WAITER",
+        "ANN",
+        "18,",
+        "EVERYONE",
+        "EXT, SOHO STREET",
+        "100.",
+        "ENRIQUE",
+        "104,",
+        "E",
+        "ALICIA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "DAN FOREMAN, age 51, gets out of bed. His wife Ann, 46, mumbles, doesn’t open her eyes. EXT. DAN’S HOUSE - NIGHT A light goes on in a window. INT. DAN’S BATHROOM - EARLY MORNING - NIGHT Dan shaves, showers, it’s still dark outside. He looks at the grey in his hair. INT. DAN’S BEDROOM ~ EARLY MORNING - NIGHT Dan gets dressed in the dark. Puts on his tie. Kisses Ann on the forehead. Behind Ann is a picture of Dan‘s family. Dan tiptoes out. INT. DAN’'S KITCHEN - EARLY MORNING - NIGHT Dan drinks coffee. On a small TV behind him, a business channel is on. We see anti-WTO riots. Bill Gates. Images computer chips being manufactured in India. Dan turns the SOUND UP as a new story comes on, the GLOBECOM logo with MERGER RUMORS as a headline.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS ANCHOR",
+          "text": "After months of speculation, analysts expect an announcement this week that Globecom International will acquire Waterman Publishing and its flagship magazine, Sports America. Dan’s attention is caught.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The man at the helm of Globecom, billionaire media magnate Teddy K, has been on a spending spree recently -- acquiring a food service company, a cable operator, and two telecommunications providers in deals totaling more than 13 billion dollars. (pause) And, how did one lucky ferret owner come to own the largest dog-treat manufacturer on the east coast? Dan turns off the TV. He dumps the used coffee grains in trash, where he sees the box for...a “Home Pregnancy Test Kit”. He lifts it out of the garbage. Glances over at a picture of his daughter Alex in tennis gear on the fridge Fear washes over his face. Lights sweep over the window. A car horn BEEPS. Dan looks at his watch. EXT. DAN‘’S HOUSE, SUBURBS ~ EARLY MORNING - NIGHT Dan gets in a cab. EXT. AIRPORT —- MORNING A plane takes off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan gets out of a rental car. INT. KALB’S OFFICE - DAY EUGENE KALB is sixty-something, the CEO of Kalb Automotiv He shakes hands with Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Thanks for the Lakers tickets. The seats were great, and I’m sick of my damn luxury box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I hope Taylor had a fun birthday party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smiles) My grandson had a terrific time. But I still don‘t want to advertise in the magazine. My son-in-law tells me people don’t read anymore. Too much effort moving the eyes back and forth. We're putting our budget into TV, radio and internet. A pause. We’re ready for Dan to launch into a big pitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "“Okay?” What does that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I‘m not going to try to sell you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Why the hell not? You're a salesman, aren‘t you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yes. I’m just not a very good one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "I‘1l say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(laughs) But I am going to ask you one favor. Dan takes an issue of SPORTS AMERICA magazine out of his briefcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I'm going to leave you an issue of the magazine. And I'll personally send you a new one every week. I‘ll call you again in a few weeks, and if you want to, we'll talk. There’s a pretty good article comparing today’s quarterbacks with Jonny Unitas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "There’s no comparison. Unitas would kick their butts. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fKALB (cont'd) (holds up magazine) So this is your sales pitch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. I've worked at the Magazine for over twenty years, and I believe in it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Good for you. You worried about all these rumors that your parent company's gonna be sold?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Not really. Can't see how it would affect me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Well, hopefully it won't. {gets up) You know, that Teddy K. character offered to buy my business a few years ago. Wanted to merge us with Pep Boys. I told him to screw himself...who knows, Maybe I was dumb. My son-in-law says I'ma dinosaur.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hey, don’t knock the dinosaurs. They ruled the earth for millions of years. They must have been doing something right. Kalb laughs. The two of them shake hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSEUP ON a DINOSAUR, or, more accurately, a cell-phone shaped like a dinosaur, held by CARTER DURYEA, 26, executive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "We will never be able to reach this significant, untapped market unless we learn to think like them. In point of fact, less than .05 percent of all cell phone users are currently beneath the age of five years old. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "a young \fCARTER (cont'd) The Triceratops phone, the T-Rex phone, and the Pterodactyl phone are going to change all that. And...each phone will have its own unique ring. The cell phone ROARS like a dinosaur.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(little kid voice) Mommy...I want one...buy me one for Christmas... At the end of the conference table sits STECKLE, the boss this group of young marketing execs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "P.F.G., Carter. P.F.G.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG EXEC",
+          "text": "(whispers to Carter) What's P.F.G?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Pretty frigging good. Carter makes the phone ROAR again. Steckle looks up from checking the email on his handheld blackberry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Gentlemen, ladies, I have an announcement to make. It’s on. Teddy K. has busted his move, and we are taking over Waterman Publishing. The room ERUPTS IN APPLAUSE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "The man has vision. He’s a maniac. And I guess it’s okay for me to tell you, Teddy K has personally asked me to go over there and turn around marketing in the magazine division. So, if you'll excuse me. Carry on. Steckle gets up and leaves the meeting. Everyone starts talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG EXEC",
+          "text": "(excited, to Carter) Waterman Publishing -- wow -- \f6. CARTER a Yeah, yeah, yeah —- Carter hurries out the door. INT. GLOBECOM HALLWAY — DAY Carter follows Steckle down the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Mark! Mark! He catches up with him, dodging past other people in the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Okay, so you're taking me with you. You have to take me with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Carter, I'm gonna take that place and whip its fat ass into shape... And...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "And? : ~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "And I want you to come run ad sales at Sports America.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I knew it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "The magazine's a cash cow. It's the cornerstone. I mentioned your name to Teddy K. He liked what you did with cell phones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wait, hold up. Teddy K. knows my name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "I’m going to tell you something and i don’t want it to go to your head. (pause) You‘re being groomed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I’m being groomed? (pause) Mark, thank you. I am going to kick so much ass for you. I will take no prisoners. I will be your ninja assassin!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(cheerful) Wow, you're the new me! (beat, dead serious) No. I’m the new me. (smiles) Congratulations! Steckle walks off. Carter gives a KARATE KICK. INT. ALEX’S BEDROOM - NIGHT ALEX, Dan’s 18 year old daughter, lies in bed, awake. She has a tennis ball in her hand. She tosses it up in the ai catches it with the same hand, repeating the motion over over. EXT. DAN’S HOUSE - NIGHT A cab pulls up, drops Dan off. INT. DAN‘S KITCHEN - NIGHT Going through the kitchen. Dan pauses, looks into the wastebasket. The pregnancy kit is gone. INT. DAN’S HOUSE, CORRIDOR - NIGHT Dan goes down the hall, opens a door, looks into his 16 y old daughter JANA's room. She’s sleeping. He closes the door again. Continues down the hall, takes a deep breath, and leoks in on Alex's room. INT. ALEX’S BEDROOM - NIGHT ALEX looks up from her bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Hey, Dad. \f8. DAN wot! Hey, button. What are you doing awake?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(shrugs) Couldn't sleep,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Couldn’t sleep? Why? You worrying about something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Not really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Cause if you are worried about something...you know you can always talk to me. Remember, when you were little, we made a deal, we'd always be honest with each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(laughs) Yeah...I actually am a little tired. We’re still Playing tomorrow, right? —_",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Alright, I’1l see you then. (turns off the light) Love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(stands there a moment) Love you too. He closes the door, heading to his bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan‘s wife ANN, 46, looks up as Dan changes out of his tr clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "What time is it? Hi, sweetheart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Little after three. Sorry I woke you up. Go back to sleep. Dan gets in bed beside her. He kisses her shoulder. She kisses him back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "You're not tired?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Not really....Honey, does umm...does Alex have a new boyfriend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Uh, no, not that I know of. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Well...no reason. What about that Myron kid?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "(kisses him) I think they’re just friends. (pause) I‘m pregnant --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What?! (pause) I'm sorry, I thought you said you were pregnant. (she nods) You can’t be pregnant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "I know, but I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "But -- How did that happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Well, I think you were there too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "No, honey. You’re done with all that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "That's what Dr. Steinberg said, but...I guess he was wrong. \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Are you sure? (she nods) Holy crap...holy crap! Does it feel like a boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Right now it feels like a stomach flu.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You can't be serious. Are you serious? (beat) Alright...alright. This is going to be fine. When he's twenty-one, I’ll be...seventy-two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Three.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Three.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Holy crap. Dan lays back in bed, staring anxiously up at the ceiling",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER, (0.S.)",
+          "text": "I am so excited. Carter is lying in bed with his (newlywed) wife Kimberly. He's on his back. She’s facing away from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I am just so damn excited. Is this excitement contagious, or what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I’m being groomed. I am being groomed. Do you understand what that means? \fil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "That you‘re a chimpanzee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "It means...well, it means we’re on the road. It’s all falling into place. We can get a bigger house. We can have kids. I mean, we have a life going on here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "Carter, it’s three AM. How much more enthusiasm are we looking at here? Fifteen minutes? An hour?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I don’t know, I’m sorry, it’s just...Teddy K. knows my name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "Are you even qualified for this job?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What? Sure. Selling cell phones, selling ad space, it’s all the same crap. Anyway, it’s just a stepping stone. EXT. CARTER’S HOUSE - NIGHT The lone light goes off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU. on computer monitor (spatially same as house) showing of GlobeCom's takeover of Waterman Publishing. PULL OUT t reveal everyone freaking out in office. MORTY, middle age dapper, and morbid, is saying to anyone who will listen ( the moment, THEO, another salesman):",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "We're all going to get fired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THEO",
+          "text": "Anything's possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "It's not possible, it’s probable. \f12. LOUIE, barrel chested, frenetic, comes down the hall with ALICIA, a sales woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "Have you heard about this Teddy K guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Everyone’s heard of him --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "I hear he’s an albino, but he covers it up with makeup!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Hey, Alicia! Alicia? Are you fired yet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "What? No! Why, are you fired? INT. DAN’S OFFICE - DAY A placard on the desk reads DAN FOREMAN -- VP AD SALES. D office has a great view of the city. It’s decorated with memorabilia from Dan’s more than twenty years at Sports America. Dan sits with his boss, ENRIQUE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I‘m sorry, are you -- are you saying I’m fired?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "Not yet, not yet, Dan. But I can’t predict the future. The thing is, you‘re not head of ad sales anymore. Carter Duryea is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Who the hell is Carter Duryea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "Some hotshot from GlobeCom. This is a bummer, Dan. A real bummer. But you’re lucky. A lot of people are getting canned immediately, across the company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Are you getting fired? \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "Me? No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "We had our biggest year ever this year. My team works incredibly hard. I'm not going to put up with this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "You have to put up with it. I mean, what are you gonna do, start somewhere new? You're not a kid anymore. You know how tough it is out there. Places are cutting back, they’re not looking for guys like you who make a decent salary. Hey, I’m as pissed off about this as you are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "So then why are you smiling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "I'm not smiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Your lips are curling up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "They do that naturally, Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan’s older daughter, Alex, walks into the Waterman Publishing building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex gets into an elevator. She's holding a tennis racket Behind her, Carter HURRIES towards the elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hold up! Please. Alex uses her racket to hold the door open. \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter and Alex are alone in the elevator. Alex pushes th button for the 47th floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "47. Going to the Sports America offices?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "+.-What are you, an intern?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "No. My Dad works there...Are you interning there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I'm starting a new job there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Oh. Cool. Congratulations. That’s awesome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Thank you. (pause) To be honest, I’m scared shitless. I have no idea what I'm doing. Alex laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Don’t tell anyone, okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(laughs) Okay. I won't. She smiles at him. He smiles back. The elevator reaches t floor, the door opens, and Carter's expression turns to o of confidence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "After you. INT. SPORTS AMERICA OFFICE, BY DAN’S OFFICE - DAY Theo, a salesman, passes by Dan. \f15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THEO",
+          "text": "Dan, your daughter’s here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "She is? Dan starts down the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Hey, Boss, what’s this takeover gonna mean for our stock options?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I have no idea. And don’t call me “Boss”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "From the other direction comes Carter, led by DEBRA, the receptionist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBRA",
+          "text": "(kissing ass) So nice to meet you, Mr. Colon‘’s very excited to work with you -- As Dan passes Morty’s office, Morty yells to Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Dan, you hear anything new? Are we all fired?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(distracted) Can’t talk now, Morty -- His head turned towards Morty, DAN WALKS RIGHT INTO CARTE It's a real COLLISION. Debra gives a GASP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Sorry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, I’m sorry. You alright?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I'm fine. It was my fault. You okay? \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I think so. No broken bones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Alright, then. No harm, no foul. Dan moves on towards the reception area.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan walks up to Alex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Hey, Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hey, champ. What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Umm, tennis, remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Oh, yeah. Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Is today no good for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(beat) No, it’s fine. Heck with it. Let’s go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Alex are playing tennis on a rooftop court. Alex SERVES. Dan gets a racket on it, but just barely. The bal goes FLYING. In fact, she is an awesome tennis player, running Dan rag around the court. Dan tries to reach a crosscourt shot an tumbles to the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "You okay? Dan looks over at his daughter, and dees some PUSHUPS. AFTER their match, they sit on a bench. Dan is drenched. \f17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "You sort of sucked today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I was holding back, to build up your confidence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah right. You're gettin’ old.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Dad, remember how I was saying maybe I’d want to transfer to NYU? Well...I got in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "To NYU? Sweetheart, that’s fantastic! (beat) But that means...you'd have to live in the city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah...I want to study creative writing, and NYU has a great program.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "How about the tennis team?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Dad...I’m not going to be a professional tennis player.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Well look, button, it’s almost as tough being a writer. Living in the city, I don’t think it’s such a great idea. It can be really lonely, you need street smarts. I just don’t think it’s a great idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "But I want to try living in the city. I know NYU’s a lot more expensive. But it would be such a good experience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. It is more expensive, but... (pause) It’s your education, that’s the most important thing...We can Manage it. She hugs him, elated. Over Alex’s shoulder, Dan’s face falls, the pressure getting the best of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(laughs) Yech, you're like drenched. When Alex pulls back, he smiles for her sake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Enrique is going down the hall, showing Carter around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "This is Morty Wexler. Morty, Carter Duryea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You're on the Ford account, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Correct.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Great to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "You too. I'm really looking forward to working with you! Enrique and Carter move on. Louie comes out of his office",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "(in a mincing voice, imitating Morty) “I'm really looking forward to working with you.” Louie makes an “ass-kissing” sound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Bite me. Further down the hall, Enrique leads Carter towards DAN’S OFFICE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "We have a terrific office for you, great view. But it’s not cleared out yet. Enrique takes Carter into DAN’S OFFICE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "Not bad, hunh? Excuse me a second, I’m just going to use the little boy‘s room. Enrique leaves Carter in Dan’s comfortable office. Carter looks at the view.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(impressed) Tasty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan comes back into the office, showered and clean after game. INT. DAN’S OFFICE - DAY Carter is still waiting for Enrique. He is glancing at Da FAMILY PHOTOS, as well as photos of Dan with sports stars etc. when Dan comes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh! Sorry, this is your office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. (beat) You‘re the guy I bumped into.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yes. You must be Dan Foreman. (smiles) Hi, I’m Carter Duryea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You're Carter Duryea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yes. Great to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Carter Duryea who's coming in to run ad sales?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Correct. Carter puts his hand out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "How old are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Me? I’m twenty-six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You’re twenty-six... Dan shakes his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "++-and you're my new boss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I guess so... (wincing) Hey, that’s some...Kung-Fu Grip you've got there. Dan lets go of his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "So what kind of experience do you have in ad sales?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Not much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "How much?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "None.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "None, Well, that’s not much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I'm a fast learner. So now you know how old I am. How old are you? 20. \f21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I’m fifty-one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wow, that’s -- that’s crazy. You're one year older than my father. Enrique comes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "Great, you two have met!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah, we’re good pals already. (smiles) Well, nice to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Un-hunh. It was a pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "Dan, you want this door closed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah, why don’t you go ahead and close it. They exit, Enrique closing the deor behind them. Dan picks up an AUTOGRAPHED BASEBALL. Across the room is a silver trophy-plate reading \"1987 — SALESMAN OF THE YEAR”. He takes aim, and WHIPS THE BALL AT THE PLATE, SENDING IT FLYING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A plate reading DAN FOREMAN, VICE PRESIDENT AD SALES is s out of its holder as MOVING MEN transfer Dan’s stuff to a smaller office. Dan steps into his new office, watching t boxes pile up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter walks with a well-dressed man, an uncle, perhaps? man looks proud of him. \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "It was pretty unexpected. It’s like a pretty big promotion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PORSCHE DEALER",
+          "text": "Wow! That's fantastic! Way to go. The camera reveals that he is in a Porsche dealership. Th man accompanying him is a salesman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PORSCHE DEALER",
+          "text": "(stops in front of a car) So, the Boxster S-type has more guts. You’ll sure feel the extra horsepower. But if you really want to go, I’d say take the Nine Eleven Carrerra.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(considers) T‘ll take the Nine Eleven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter tries out the stereo. The cup holders. The seat warmer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter ZOOMS out of the lot in a new, black Porsche Carre INT. PORSCHE 911 — DAY",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NICE",
+          "text": "Carter is checking himself out in the mirror, distracted, when --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An SUV SLAMS into the front of his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The AIRBAG SLAMS Carter back into his seat. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Mmmff --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Porsche sits there, its front left side CRUMPLED. The suv driver puts down his cellphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUV DRIVER",
+          "text": "I'll call you back. (calls out) Jackass! EXT. CARTER’S HOUSE - NIGHT The damaged Porsche pulls up into Carter‘s driveway. Cart gets out, his arm in a sling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter walks in, noticing a couple of SUITCASES by the do Kimberly is standing there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hi. I uh...I hurt my arm. But I’m okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "I’m glad you‘re okay. Carter... She nods to the suitcases.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Kim...Kimmy...Again? Come on. Seven months. We've been married seven months. I know things have been a bit off. I’ve been putting in crazy hours at my job. I know we should have -- we should have gone on a real honeymoon, that was my fault. I should have -- TI should have shut off that cell phone -- that thing was ringing off the hook! The good thing is, I can change. This has been a great lesson to me. Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don’t try to sell me, Carter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(plowing on) Kim, I love you. I want to have children with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "But I don’t want to have children with you. I don’t even know if I want to have children, period. I told you that. I told you on our second date.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I thought you were joking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "Carter...is this really such a surprise to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "---Are you...sleeping with someone else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "++-I was. But I broke up with him. Carter bursts out laughing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wow, that must have been rough on him! She goes and picks up her bags.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KIMBERLY",
+          "text": "I'll be at my parents. They're really excited to have me back. Carter covers his face. We hear a HEARTBEAT. INT. OBSTETRICIAN‘S OFFICE — DAY 24. Dan stares nervously at Ann as the obstetrician listens f the baby’s heartbeat with a “stereo” stethoscope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OBSTETRICIAN",
+          "text": "We're gonna hear two heartbeats now, that strong slower one is yours, mom. \f25. Dan listens as A STRONG, STEADY HEARTBEAT is heard over t scope’s amplifier. The obstetrician fishes around. A QUIETER, FASTER HEARTBEAT is heard beside the bass drum Ann's pulse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OBSTETRICIAN",
+          "text": "And that...that’s your baby’s heartbeat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Oh my God... Ann smiles, looking up at Dan, who is looking pale.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OBSTETRICIAN",
+          "text": "Nice strong heartbeat. That’s your new baby, Dan. Dan looks stressed out. Subjectively, with Dan, we hear a IRREGULAR beat joining the other beats. He tries to smile grimacing instead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Dan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Are you okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah...that's...fantastic...I’m -- I just feel a little -- you know -- CUT TO: Dan‘s shirt is open, and the doctor is listening DAN‘S HEARTBEAT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OBSTETRICIAN",
+          "text": "Well, you are having a little bit of arrhythmia. Have you been drinking a lot of caffeine? Are you under a lot of stress?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Well...I did sort of get demoted at work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OBSTETRICIAN",
+          "text": "Ah. \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "You what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "{nods, tries to smile) We'll talk. Ann looks shocked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU McDonalds wrapper on the passenger seat. Carter sits alone in his Porsche outside his house. He reclines the car seat as far back as it will go (which isn’t far). He curls up to try to sleep in the Porsche.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A Grande cup of STARBUCKS coffee is drained by Carter. Carter's assistant, SAMMY, comes up to him holding a new",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMMY",
+          "text": "Another?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah, don’t even ask, just keep it coming. Carter starts on the next cappuccino as he goes to the he ef a long conference table. The entire sales team, as wel as everyone's secretaries, and even a couple of the janitorial staff, are gathered. Dan sits among the rest o the sales team.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "How was everyone's weekend? Good? {puts his face in his hand) I'm sorry, that was... An uncomfortable pause, as Carter gathers himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "All right! I'd like to thank everyone for joining me. As most of you know, my name’s Carter Duryea and I am really excited to be working with such a great group of people. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CARTER (cont'd) Like Teddy K. says, what makes Globecom great...is the men and women...of Globecom -- is it like a thousand degrees in here, or is it me? (beat) It’s me. Morty looks at Dan, concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Now I’ve been given an agenda here, and you’re gonna learn this about me, I’m a machine... (Carter blanks) What was I saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "An agenda?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Agenda, yes. In order to achieve the goals that have been set out for us, we are going to have to increase ad pages by 20 percent. There is a MURMUR in the room. Carter sucks down some mor coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(whispers. to Louie) Shit, I knew it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "{with disbelief) Twenty percent? Carter, only a start up magazine can do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Well I think this team can do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(tentative) Uh. . «How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(automatic) Well, Morty --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(cuts him off) Good question. And the answer... (an epiphany) »-.is synergy. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fSilence. 28. CARTER (cont'd) To take it to the next level, we need to team up, we need to synchronize, we need to synergize! We're not alone here. We're not alone! We are now part of one of the biggest multimedia and brand hame companies in the universe. Let’s take advantage of that. Did you know that one of our sister companies makes Krispity Krunch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "So we talk to our brothers and sisters at Krispity Krunch, and we make a deal to supply Sports Factoids for their boxes, so when Joe Couch Potato is snacking, what does he see? Sports America Krispity Krunch Sports Factoids! He's definitely getting more Krispity Krunch, and he’s definitely not getting Krunch ‘n‘ Krackle, which looks and tastes exactly the same, but has no sports Factoids. Krispity Krunch is so pleased with the idea that they guarantee twenty-six pages a year. Besides which, they know Teddy kK. Is gonna be pissed if they don’t pony up. Bingo -- synergy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Isn‘t that cheating?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hell no! And you know what else? We also own Starline Cell Phones. What do we put on their browser?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Factoids?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yes! Factoids! Synergy! You know what else? Box scores! And ads! We make a deal where one-hundred thousand hits on the internet has an equivalent value of one ad page in our hard copy. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CARTER (cont'd) Are you getting it, people? The Magazine is now just a sort of portal to a synergized world of cross-promotion! Let’s open things wide here, people! Let’s get psyched! Come on, let’s take the plunge, let’s embrace something new! (pointing) Louie, are you psyched about this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "++»I’m psyched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Okay. Alicia, are you psyched?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Absolutely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You...what’s your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAINTENANCE GUY",
+          "text": "Hector. I’m in maintenance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh. That’s cool. Hector, I know you‘re psyched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAINTENANCE GUY",
+          "text": "I’M PSYCHED!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Alright, Hector’s psyched! And if Hector'’s psyched, then I‘m psyched! I am psyched for this team! Who else is psyched! People call out “I’m psyched!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(leans over to Louie) Who do you think will be the first to get canned?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "(whispers ) My bet’s on Dan. He’s prehistoric. \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter and Dan sit at a sushi restaurant. Carter’s LEG BOUNCES with nervous energy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I’m glad you could join me for lunch, Dan. Do you like sushi?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I'll stick with the teriyaki.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You should try some! The spicy tuna roll is awesome here. Here, try it! Carter holds out his plate, which is covered with sushi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Get that. Get that. Go fishin’ man. Dan looks at it a moment, then takes a bite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(hates it) Mmm ~- yeah. Really...raw.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(talks over him) So I wanted to talk to you, because the increase in ad pages is only part of the equation in terms of achieving the bottom line my bosses want me to hit. I'm also going to have to get rid of 300 K salary from the sales team, immediately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Carter, I don’t make that much money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I know what you make, Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Alright. Well. (gets up) I wish you told me I was fired before I ate the goddam fish. \f31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey, hold on a second, I’m not letting you go here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You're not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No. Look, you're an excellent salesman, you ran a good team, and I think there’s the potential for you to be an awesome wing man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "An awesome wing man. Well, Carter, I can see the benefit to you in having an awesome wing man. But what's the benefit to me, at this point in my career, in being an awesome wing man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Well, one benefit, at this point in your career, is you get to keep your job. That‘s a pretty good benefit, don’t you think? Dan stands there, considering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The salesman are hushed, as SWEARING is heard from down t hall, behind the closed door of Carter’s (Dan’s old) offi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE, (0.S.)",
+          "text": "Are you smiling? You're smiling at me -- you think this is funny! Enrique emerges from Carter's office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "That A-HOLE. We'll see how soon this place goes down the SHITTER without me! That LITTLE, SNOT-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOSED BRAT",
+          "text": "Enrigue STORMS past where Morty and Dan are drinking coff Morty raises his eyebrows at Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Maybe there is justice in the world. \f32. Enrique pushes past a group of eavesdropping salespeople his way to the elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENRIQUE",
+          "text": "You enjoying yourselves? Great. As Enrique leaves, Alicia and Theo do a little high-five. INT. CARTER‘S (DAN’S OLD) OFFICE - DAY Having just fired Enrique, Carter sags, leaning his head against the closed door. MUSIC RISES over the following montage. INT. DAN’S NEW OFFICE - DAY Dan puts a copy of the magazine into a Fedex packet to se to EUGENE KALB in Los Angeles, Sammy, Carter’s twenty-something assistant, appears at hi door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMMY",
+          "text": "(snappy) Carter's ready for you. INT. CARTER‘S (DAN’S OLD) OFFICE ~ DAY The office is empty and stark, absent the clutter of Dan’ pictures and memorabilia. Carter hands Dan a booklet of forms in the Globecom blue color.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Dan, I'd like you to fill this out, please -- Carter sees Dan glance at the lone photo on his shelf -- picture of Kimberly. Carter turns the picture over on it’ face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "It’s a 360 evaluation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "And that is? \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "It’s a self-evaluation. They call it 360 because it’s supposed to be from every angle. It’s corporate policy. It‘d be great if you have it on Monday. Carter pats Dan on the arm, dismissing him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter addresses a group of buyers, Dan at his side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "If you want to get aggressive, if you want to reach that core demographic --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I believe --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(cuts him off) Not now, Dan. (to buyers) Sports America is the top magazine, boys twelve to eighteen, in the country. Dan deflates a little. INT. CARTER'S (DAN’S OLD) OFFICE ~ NIGHT Late at night. A janitor goes by as Carter works late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSEUP PROFILE Carter runs against a jungle background. a moment it looks as if he’s out in the wild. He has a ph to his ear. KIM’S VOICE (0.S.) Hi, leave me a message! Or don’t. BEEP. We PULL BACK, revealing Carter is jogging on a treadmill his flat-screen TV, which has a nature show on. \f34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(leaving message) Hi, it’s me. I mean, you know it’s me, I guess I'm...filling up the old mailbox...anyway, call me back. Or don’t. He hangs up. Looks at the phone again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter squats in front of a fish tank with a single goldf in it. He TAPS the tank, trying to get the fish's attenti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Here boy. Here boy. Here. INT. CARTER’'S HOUSE — DAY Carter is back on the treadmill, calling an old friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, hi, Mrs. Charneski, is Jeff there? Oh, he did? Okay, well, please tell him Carter said hi. INT. DAN’S HOUSE, SUBURBS Dan sits watching TV. The PHONE RINGS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter waves at the goldfish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Here boy. HEY. The fish is oblivious. INT. DAN’S HOUSE - NIGHT Dan sits eating popcorn, watching TV. The phone rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER, (0.S.)",
+          "text": "‘Hey, Dan! Carter here. \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER, (0.S.)",
+          "text": "(chuckles ) Carter Duryea. Listen, I’d like to get the group together tomorrow and go over some business development ideas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Tomorrow's Sunday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER, (0.S.)",
+          "text": "Right! We'd get a great jump on the week. I‘m not talking the whole day, just the afternoon, meet at noon, I’11 order some sushi, it‘ll be fun. Great! Carter hangs up. Dan looks at the phone, shocked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan walks up to the building on Sunday, looking angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan walks into the Sports America office. It’s empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter sits at his desk, pressing his fingers into his ey",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE, (0.S.)",
+          "text": "What the hell are you doing? From Carter’s POV, we see Steckle in double.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Uh, nothing, just...seeing stars. You ever do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Yeah, when I was three.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What are you doing here on a Sunday? \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Sunday is a fun day to kick some ass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Absolutely. Hey, my team’s coming in. Dan Foreman’s here, you should meet him,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Yeah, I'd rather not get personally involved. Didn't we decide to let him go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, I let go of Enrique Colon instead, remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Oh, yeah, that's right. Dida little “Colon Cleansing”. Get it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(laughs) That's good. Hey, you want to have dinner tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Wish I could, but I‘m flying to Berlin to meet with some of our satellite guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(disappointed) Oh. That‘s too bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Why? Something wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, just... (beat) Ah, my wife and I are having a few problems...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Okay, gotta go. Look, you’re gonna have to riff some more people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Riff them? \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Reduction in forces. Shitcan them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Listen, I -- I think we can get pages up, so we don’t have to riff anyone yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Fine. But sooner or later, we all have to deal with reality. Steckle leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Night. A group of salesmen are leaving the imposed Sunday meeting. Carter stands outside the door, still full of energy, saying goodbye as everyone finally leaves to go h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Great work, thanks for coming in! Night, Morty! Night Louie! What are you guys up to? Want to go out for a beer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "I‘d love to, but I'm a recovering alcoholic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh. Better not then. Morty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "I'd better get home for dinner. My wife is slowly poisoning me to death, and she gets very angry if I‘m late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(beat) Okay. No problemo. Alicia?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "No, I have to get home and do my hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey, Dan, want to grab a beer? \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I have to go have dinner with my family. (joking) You want to have dinner with my family?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(quickly) Sure! That would be great! Thanks a lot! Just let me get my stuff together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hey, wait -- But Carter is already off. Dan is surprised and annoyed t Carter is taking him up on his mock offer. EXT. DAN’S HOUSE, SUBURBS - NIGHT Carter’s unwashed, dented Porsche pulls up to the house. Carter has a lead foot on the brakes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Who taught you how to drive?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Uh, no one,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "No kidding. INT. DAN’S HOUSE, LIVING ROOM - NIGHT Ann comes out from the kitchen as Dan and Carter come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Now this is a house! I mean, like a home-type house, you know what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yes. Sweetheart, this is Carter Duryea from the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "(fake smile) Oh. Hello. Nice to meet you. \f39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hi, Mrs. Foreman. Thanks so much for having me in your home. Carter HUGS Ann, who is taken by surprise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Uhh -- You're very welcome. I hope you like baked ziti.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I love baked ziti. Baked ziti. Exactly! That is exactly what I need. Fantastic. Home cooking. Awesome. INT. DAN‘’S HOUSE, KITCHEN - NIGHT Ann and Dan are in the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Is there something wrong with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Clearly. Let’s just feed him and get him the hell out of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "He really is young. At least, a lot younger than you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Thanks for that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "I did the numbers on NYU today. Do you know how expensive that school is? Plus living expenses. Plus Jana‘s oxthodonture. Plus baby costs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hey, don’t worry about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "That’s not actually a solution to a problem: “Don’t worry about it.” I think we might have to take out a second mortgage. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Maybe I should go into the living room and ask my boss for a raise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter is looking at framed family photos on the mantle. stares at the happy photographs, his expression is as if trying to decipher runes. Alex comes down the stairs, followed by Jana. Alex stops short.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, hi! TI was just looking at you in these photographs, and you were, you've -~ I never actually introduced myself in the elevator. I’m Carter Duryea -~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I know who you are. Does my Dad know you're here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Your Dad invited me for dinner. Technically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Who‘s this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "This is Dad‘s new boss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "You can’t be Dad’s new boss. You’re too young.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "He’s also “scared shitless”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey. Good memory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Plus you’re too cute to be Dad’s boss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Really? Thanks. \f41. The PHONE RINGS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "(yells) I‘VE GOT IT! She RUNS UPSTAIRS to answer, leaving Alex and Carter alon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "So, how's it going? Alex looks at him like he’s weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I‘m okay. What are you doing here, really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Really? My wife left me, and today’s the anniversary of our first date, and I found the idea of going home to my house to be too depressing, so I sort of leeched ento your Dad and invited myself over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "...You‘re sort of a bizarrely honest guy, hunh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Not really. Just with you, for some reason. Most people would probably say I’m an anal-retentive, emotionally guarded asshole. The two of them stand there a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(pause) You want to play foosball?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Okay. Just let me...change. INT. DAN’S HOUSE, KITCHEN - NIGHT Ann is opening the oven. \fDan GRABS 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You think Alex can cope with living in New York on her own?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "T’m less worried about her coping with it than I am about you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah, frankly I'd rather keep her under house arrest with a homing device on her ankle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "So then why’d you agree to it without even talking to me? And why is your teenage boss here? And why de I feel so nauseous -- I hardiy had any morning sickness the first two times! I’m sick of it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Alright, alright, calm down...let me get that -- THE HOT CASSEROLE DISH with his BARE HANDS --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWW",
+          "text": "He DROPS THE CASSEROLE, SHATTERING IT on the floor, splas tomato sauce on his pants. Ann just looks at him. Then she leans over to be sick in sink. INT. DAN’S HOUSE, GARAGE - NIGHT Alex is kicking Carter’s ass at FOOSBALL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I’m just not that into tennis anymore, and what I’m really not into is being “the tennis jock,” you know? It’s like people don’t even invite me to parties because they think I’m in training. Also there's this rumor going around that I’m a lesbian. \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "That sucks. I mean -- not being a lesbian, but --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Well, I'm not. (she smashes the ball) It would be one thing if I was going to go pro and make a ton of money, but I'm not at that level. I've played girls who are that level, and I’m not. Not that I'd want to be, really. Their lives have peaked by the time they’re like twenty-one. Carter retrieves the ball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Sometimes I wonder if my life has peaked at 26. If it’s all downhill from here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "It probably is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah, probably. INT. DAN'’S HOUSE, LIVING ROOM - NIGHT Dan is at the door, paying a pizza delivery guy-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Thanks. Keep the change. He closes the door with his foot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(calls upstairs) DINNER’S READY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "(from upstairs) I’M ON AN IMPORTANT CALL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN 7",
+          "text": "Your what? Dan puts down the pizzas, picks up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hi, this is Mr. Foreman. Who is this, and how old are you? (pause) Alright, Will, I just wanted to say that if you ever give my daughter an alcoholic beverage or a joint, I will hunt you down and neuter you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "Dan hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "DINNER‘S READY. INT. DAN’S HOUSE, GARAGE - NIGHT Dan comes into the rec room. Sees Carter and Alex RALLYIN",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "There you are. You kids ready to come inside for dinner? Dan pauses, realizing he’s just called his boss a “kid”, his face. Alex and Carter look at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A family tableau. Everyone talking and eating at the same time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Mmm. Great pizza. Where'd you get it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "It's from a wonderful little Italian restaurant called Dominoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "So are you really Dad’s boss? woot \f45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(swallows, glances at Dan) We're more -- colleagues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(takes another slice) That’s not true. He’s the boss man. I'm the wing man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Are you married? You’re wearing a wedding ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah. Sort of. Yes. Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "So you're like...prematurely old.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Jana, would you pass the pizza?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I've got it. Carter REACHES FOR THE PIZZA at the same time as Jana, KNOCKING OVER A SODA. It SPILLS ONTO DAN‘S LAP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Sorry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "That’s okay. Never mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Let me -- Carter tries to WIPE DAN'S LAP with his napkin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Carter, only my wife is allowed to touch me there. Now excuse me. I have to change my pants. Again. Dan leaves the dining room. Carter smiles sheepishly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(to Carter) Good job. \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter is leaving the house, waving goodbye. Dan and Ann in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Bye, thank you so much, that was a great dinner! ‘Terrific pepperoni.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "You’re very welcome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Goodbye. Go home. Dan shuts the door. EXT. DAN‘S HOUSE, SUBURBS - NIGHT",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(to the shut door) Thanks again. Carter turns, goes back to his car. Behind him, ALEX IS WATCHING HIM from the window. He glan back over his shoulder, and she DUCKS BEHIND THE DRAPE. INT. DAN’S HOUSE - NIGHT Alex looks a little puzzled with herself. Shé looks again as... EXT. DAN’S HOUSE - NIGHT Carter pulls out jerkily from the house. INT. CARTER’S HOUSE - NIGHT Carter stands in his empty living room. He tips a table l gently, balancing it until it falls off the table. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex moves into her dorm. Dan unloads her stuff out of hi station wagon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A couple of movers help Carter move into his new apartmen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan carries a box past a POSTER OF A CANNABIS LEAF on ano student's door. He frowns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex walks Dan out to his car. The two of them HUG.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Here’s some pepper spray. Dan hands her some pepper spray on a chain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Thanks, that's sweet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Oh, and I’ve installed surveillance devices throughout the dorm so I can tell if you're doing anything bad,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Okay. Be careful. Dan turns his face away, hiding his emotion, and quickly into his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ann and Dan walk into a bank MORTGAGE LOAN office. \f48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Ann are in the BANK LOAN OFFICE, filling out form for a second mortgage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOAN OFFICER",
+          "text": "Sign here, here, and here, and you’ve got your second mortgage. Dan looks at Ann. She smiles at him, a bit ruefully. Dan SIGNS. INT. DIVORCE LAWYER’S OFFICE - DAY Carter SIGNS papers. Carter is sitting in a LAWYER’S OFFICE, filling out forms his divorce.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIVORCE LAWYER",
+          "text": "Sign there, there...and there. And it's official... Carter FINISHES SIGNING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIVORCE LAWYER",
+          "text": "You're divorced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter is in Dan’s office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Alright, two things. First, Steckle wants to organize a company basketball league. I’m captain of the sales team. You’re power forward. Second, I heard you're taking the Rums of Jamaica guys to a Knicks game on Wednesday night. You should have run that by me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Run it by you? They‘re my clients.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, they’re GlobeCom clients. So we're taking them to the Globecom luxury suite. \f49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "These aren’t luxury suite kind of guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Dan, everyone is a luxury suite kind of guy. The suite’s being used on Wednesday -- Teddy K's hosting Bill Clinton, Jay-Z and Kofi Annan -- so we'll take them to a concert on Thursday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "A concert?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "The thing is, we need to get them to up their buy for this year by eighteen pages. We have to start kicking some ass here, or I have to let some people go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Why do you say “let them go?” They don’t want to go. Why don’t you just say “fire them?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Because it sounds better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Not to the person getting fired it doesn’t. Carter looks at Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lights on the marquee read TONIGHT: LEGALLY DEDD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A well-stocked corporate luxury suite, high above the con floor. Dan, Carter, Morty, Louie, and a couple of other sales people shmooze their guests from Rums of Jamaica as HARDCORE HIP-HOP PLAYS BENEATH THEM. A waitress in hip-ho gear serves drinks. CORWIN, mid-fifties, black, from Philadelphia, not Jamaic is the head ad buyer for Rums of Jamaica. \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Apparently, he was shot twelve times, and pronounced “legally dead”, hence the name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "Someone should tell him it’s spelled D-e-a-d.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "They're afraid to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "He has a number one song out right now. He's a protege of Fifty Cent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Why don’t they call him “Nickel?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "(laughs) In twenty years, your jokes haven’t improved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Anyone want another rum and coke? Corwin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "Nope, I’m okay. But I am glad it’s all Jamaican rum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, this is Petey from K-JAM sneakers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PETEY",
+          "text": "I’m excited to talk to you about the possibility of a cross— promotion where if you buy a certain amount of Jamaican rum, you get a discount on running shoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "Un-hunh...sounds like a great fit. Get a lot of drunk people running around. Hey, Dan, you want to go get some air? . \f51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Sure. I’1l be back in a bit, Carter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No problem. But don’t be too long, we got chimichangas on the way!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Corwin walk on the street outside MSG.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Sorry about this concert. They wouldn‘t let me just get normal seats for the Knicks game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "That's okay. Dan, I’ve been instructed not to advertise in Sports America any more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(shocked) What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "We were bought out last year by a company called Continental Brands. Apparently, the company that bought us and the company that bought you guys are having a feud over wireless communications in Europe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Wireless communications? What the hell does that have to do with our business?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CORWIN",
+          "text": "Nothing. But we have this corporate policy now. I just found out about it, or I wouldn’t have yanked your chain by coming here tonight. (sighs) I'm sorry, Dan. \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Carter sit in a bar. Carter drinks beer. Dan drin scotch on the rocks. The drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "We'll get those ad pages back. We'll just have to work a little harder to fill ‘em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You don‘t get it. Steckle gave me a bottom line. We had to increase pages this quarter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "..-Dan, I have to...I have to fire Louie and Morty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "No you don’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah, I do. We’ve got Alicia, Pete, and Harry on the Ford account. So Morty is a logical choice. And the new woman at Pepsi thinks Louie’s a sexist, guess why? He called her sugartits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "That idiot. Look, you can't fire those guys. These are my guys. They‘ve been with me for eight years -- I hired them at the same time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I know. That’s why they have big, bloated salaries, that are not commensurate with what they bring in. I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(pause) I've been here twenty-three years. My salary’s higher than theirs. Why don’t you just fire me? \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(angry) You want me to fire you Dan? Because I could. (heated) You have a family that loves you. You have a new kid on the way. I look at you sometimes, and it’s like... (pause) You have people who need you. You really want to put them in jeopardy for Morty and Louie? Dan looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan comes up the stairs, the alcohol apparent in his plod walk. Dan looks in at Jana’s room. His younger daughter sleeps peacefully. INT. DAN’S BEDROOM - NIGHT Late at night. Dan sits on his bed. Ann reaches up and touches him on the shoulder. Then he gets in beside Ann. She pulls him closer. He puts his hand on her belly. Ann closes her eyes. Dan's eyes stay open. INT. CARTER’S (DAN’S OLD) OFFICE - MORNING Carter is sleeping on his couch. Dan comes into the offic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What are you, living here now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What? What time is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Seven AM. Look, I’ve been thinking all night. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DAN (cont'd) And...if it has to be done...I should be the one to do it. INT. DAN’S NEW OFFICE - DAY Morty and Louie sit on Dan’s couch as Dan closes the blin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Guys, I feel...really terrible about what I’m about to say, but...I’m afraid you‘re both being...let go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "Being let go? What does that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "It means...you’re fired. Believe me, if I had any choice in the matter...I just thought you should hear it from me, because I’m the one who hired you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "Wait a minute, are you getting fired too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "...-No. This...this isn’t my decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "Oh, so...it’s not your decision so you’re not to blame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I didn't say that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "I can’t believe this. You were -- you were like a brother to me. I would have stepped in front of a bus for you, you piece of shit. You know, you've become a real corporate asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Louie --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIE",
+          "text": "I tell you what, if you see my friend Dan, tell him I was looking for him. \f55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Louie! Louie leaves. Dan looks shocked,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Dan...what the hell am I going to tell my wife? I mean...she already wears the pants. Now she’s gonna wear the tie and jacket too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Morty...I‘m sorry. Morty starts to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "I know this must have been hard for you. You were a good boss, Dan. I mean it. You always treated everyone with respect. And...well I appreciate it. They shake hands. Dan avoids his eyes. Morty leaves, Dan stands at the interior window. Tries to open the blinds. Can’t bring himself to. INT. CARTER‘’S (DAN’S OLD) OFFICE - DAY Carter is sitting on an exercise bike, peddling. Dan come in, hands Carter something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What’s this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "My 360 self-evaluation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "++-You’ve rated yourself \"Does not meet expectations.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. Dan turns and leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Morty leaves the office, carrying a bedraggled houseplant \f56. Colleagues shake his hand, hug him goodbye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT, SOHO STREET",
+          "text": "Carter walks down the street in Soho, checking out stores He sees Alex sitting at a cafe alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter comes over to Alex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey! What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Oh, hey! Nothing, just reading. I'm going to NYU now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Awesome, you did it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "How about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I rented an apartment. In Tribeca.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEK",
+          "text": "That‘’s awesome. (pause) Do you drink coffee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, usually I just hook up to an Iv. EXT. CAFE TABLE — DAY (LATER) (WO EMPTY ESPRESSO CUPS sit next to the FULL ONE Carter i nursing. Carter is sitting with Alex at the cafe table, his leg bouncing nervously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "You sure can pound back the caffeine. Is that why your leg is shaking like that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Your wedding ring’s gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Uh, yeah. I am officially the first guy from my high-school class to get a divorce.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Oh. Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "That's okay. If I look at it honestly, it’s been coming since... pretty much our second date. So umm..-how’s school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Pretty good! (pause, less upbeat) Pretty good. I mean, it’s sort of hard to get to know people, coming in as a transfer. Everybody has already joined their clique and they’re not sure if they can admit one more. My creative writing classes are cool, though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Creative writing, hunh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah, I guess I've always been interested in stories. Escaping into someone else’s life. Because mine seemed pretty boring. I’m cursed with a functional family. Of course writing isn’t exactly practical, so I’m thinking of getting a double major in business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, man, don’t do that. Stick with writing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "You know, sometimes you seem sort of bummed out with your career or something, which is weird because you‘re so successful. 57. \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, I‘m not bummed out. It’s pretty much what I have in life, you know, my career. That and a dented Porsche.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Well your family must be really proud of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(shrugs) My mom is, maybe, I don‘t know. She was sort of a hippy, so she’s not so into the corporate stuff. And my dad left home when I was four, so...I don’t know the guy. His parents had money, but he was this “artist”, in quotes, he was kind of a druggy, he was in this cult for a while-- hey, let’s get out of here, you want to maybe...go for a walk or something? Now that you know my entire life story?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Sure, but there’s not much left to talk about. She smiles at him. He smiles, enjoying being kidded.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": ".--Right. EXT. SOHO STREET -— DAY Alex and Carter walk down the street, talking nonstop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex and Carter walk down the street in Chinatown, past a fish market. They try to avoid the fish guts on the pavement. Carter is making Alex laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex and Carter come out of an Italian restaurant in Litt Italy. Alex kisses him, stopping him in his tracks. \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Right. Carter looks a little stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Umm, you want to see my dorm room, maybe? Carter laughs nervously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Look, don't get the wrong idea, it’s not like I uh...have guys up to my dorm room often. Or ever, actually... Carter takes a breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "«.+.Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex leads Carter down the hall towards her room. Music blares out from various rooms as they go past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I_am having a major college flashback.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Come on, old man. (opens a door) My roommate's out tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh. I was...really looking forward to meeting her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah, she's...only mildly chemically imbalanced, \f60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A college dorm room, half of which is Alex’s, half of whi is decorated primarily in black.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Ta-daa!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wow. This is awesome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah, it's okay. Alex takes off her scarf by a “GLOBECOM” banner which has been graffitied to read ‘GLOBECOM SUCKS.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Umm...SO..-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "So...yeah...I heard this...this rumor that alcohol impairs your judgement -- She starts UNBUTTONING CARTER'S SHIRT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hold on -- wait -~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(stops) Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Umm...I wish you weren‘t so beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I’m not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Actually, you are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Thank you. Attempting to set the mood, Alex light some incense -- Pu on some music -- Turns on a lamp, drapes a tie-dyed shirt over it -- MELLOW LIGHT fills the room. \fél.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(gently) Well I...I think everything's perfect now...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Then why are you still talking? They kiss. Alex starts to laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I was just thinking how my dad said he put surveillance devices all over the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Uh, yeah...that‘s very funny... He glances up at the ceiling as she PULLS HIM ONTO THE BE cur TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan WATCHING SOMETHING. Widen out -- He is drinking coffe watching as around him there is PANDEMONIUM. Moving men a all over, packing up people’s offices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(to moving man) Where to now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You‘re all going to the 29th floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I hear there's great air- conditioning on that floor. INT. HALL BY DAN’S OFFICE - DAY Carter comes down the hall, sees Dan, and halts for a sec in fear (he has just slept with Dan’s daughter), then wav to him, overcompensating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(almost shouts) Hi, Dan! How was your commute? (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CARTER (cont'd) Boy, can you believe they’re moving our offices again? Hey, our first hoops league game is gonna be against the 51st floor, corporate VP‘s -- which is now apparently gonna be this floor!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What’s wrong with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What? Me? Nothing. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You’re acting jumpy. You switch from Mocha to crack?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You are really, really, paranoid, you know that?! Crack. Ha-ha! Carter turns a corner, flattens himself against the wall, EXHALES. MUSIC RISES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter picks Alex up for a date in his Porsche. The Porsche has finally been fixed. Alex steps out of the dorm to meet him in a LONG, SEXY DR Carter looks smitten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter and Alex play tennis. Alex is drinking a soda whil hitting with Carter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You know, that’s completely demoralizing. Alex laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Sorry. \f63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ann and Dan are constructing a crib in Alex’s room. Dan i getting frustrated, trying to jam a spindle into a socket",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Den‘t force it. Don‘t force it. Dan forces it, and the bottom of the crib FALLS with a CR",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(looks at her) Don‘t say it. INT. DAN’S HOUSE, KITCHEN - NIGHT Ann writes CHECKS for various BILLS, while in the backgro Dan leaves a message for Alex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hi there, Alex, haven't talked to you in a few days, give us a call. (hangs up, presses redial) ...Okay, guess you have your cellphone off. Give us a call. (to Ann) Should I try again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Yeah, maybe the first twenty times were a fluke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter slaps down a CREDIT CARD for a fancy lunch with Al",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan puts down his credit card, buying a cart full of BULK ITEMS at Target with Ann. INT. CARTER’S 2ND NEW OFFICE - DAY Carter closes his blinds. Carter fires a member of the sales team.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALESMAN",
+          "text": "(stunned) «+eI’m fired?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I’m sorry. Then another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALESWOMAN",
+          "text": "But I’ve worked here for five years? Carter reaches over and grabs some tissues, and hands the to... Sammy, his eager assistant. Sammy, who has been fired as well, is crying. He blows hi nose and shakes Carter's hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMMY",
+          "text": "It’s been an honor. Carter pats Sammy on the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chairs and desks pile up in the hall, as moving men break down the empty office spaces caused by layoffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter runs in place by his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alicia pauses, seeing Carter running in place through his window. INT. CARTER’S 2ND NEW OFFICE - DAY Carter locks over, realizes he’s being watched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Snow falls outside the building. \f65. EXT. CENTRAL PARK — DAY Snow blankets the city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BALLS BOUNCING. Night. AN INDOOR BASKETBALL COURT. First game of the company league. The Sports America ad sales team is in gray jerseys with SALES RATS on them. The corporate VP team, which includes Steckle, is in slick GLOBECOM TROTTERS jerseys. Dan is sliding a bulky knee brace over his leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Jeez, you gonna be okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I'll be fine. What's that guy doing here? He's one of the moving men. Dan nods to a 6'6” guy who’s on Steckle‘s team. The movin man DUNKS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I guess Steckle recruited him for the corporate VP team.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Well that's fair. (locks up at basket) Wonder if I can still dunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You could dunk?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. Can‘t you? You're only 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE, (0.S.)",
+          "text": "Heads up! Carter FLINCHES as Steckle pretends to whip a ball at him Carter chuckles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(to Carter) Word on the street is that Teddy K’s on the prowl. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "STECKLE (cont'd) Soon as he gets back from his ‘round the world balloon trip he’s gonna go munch on Continental Brands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Great. Maybe they’ll advertise in our magazines again. Carter flinches as Steckle focuses on Dan like a shark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "I’m sorry, who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Mark, this is Dan Foreman. Dan just closed the Toys R Us deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Carter’s being modest, he did most of the work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "That’s beautiful, maybe you two should get a room. Dan’s face gets red.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "You pussies ready to be schooled? Carter tries to laugh it off as Steckle dribbles away. Da looks pissed. THE GAME STARTS. Steckle and Dan match up. The 6’6” moving man is a ringer. But so’s Dan. The moving man dominates inside, while Dan knocks down outside shots Steckle gets more and more pissed, as Dan takes him to school. The big man starts to double-team Dan. Dan BANGS down underneath the basket, GRABBING A REBOUND, is REJECTED by the big moving man. The VP TEAM CHEERS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(in Dan's face) YEEAAAH! Not in my house! A look of annoyance at Steckle crosses Carter's face. \f67. At the other end, Steckle passes to the big man. Dan goes double team him, and he passes back to Steckle who hits a EASY LAYUP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Sweetness! You can’t guard me! Dan swallows his anger. Next trip upcourt, Dan gets double teamed. He makes a nea pass to Carter, who makes an open layup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yes! Carter and Dan share a moment, pointing at each other acr the court.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(to Theo) I'll take big man. Next trip down the court, Dan guards the big guy. He is U IN HIS JOCKSTRAP, keeping within a foot of him at all tim 6'6” MOVING MAN Hey, ease up old man, don’t have a heart attack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What’s the matter, big man, can’t take a little D? Dan KNOCKS a pass away from him. At the other end, Dan ge the ball back on a pass, starts to SHOOT when Steckle BLOCKS/FOULS him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RE-JEC-TION",
+          "text": "Dan glares at Steckle. The VP team runs upcourt. Steckle STREAKS DOWN THE COURT, going up for an EASY LAYUP, when Dan RUNS UP from out of nowhere, BLOCKING THE SHOT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Not in my house. Dan sprints down to the other end, catching a pass and go for THE DUNK. Dan's team cheers. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Dunk it! DAN SKIES...ALMOST MAKING IT... BUT THE BALL CATCHES THE RIM INSTEAD, causing Dan to LOSE BALANCE. Dan COMES DOWN AWKWARDLY, SLAMMING into the court. Dan hops up quickly, his shoulder GROTESQUELY out of join",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, shit. Everyone looks a little disgusted. Steckle stifles a laugh. EXT. DAN’S 2ND OFFICE WINDOW - DAY We see Dan’s smaller new office from OUTSIDE the building Dan is making a phone call. He comes up to the window, hi arm in a sling. On the other end of the line is Alex’s answering machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX, (0.8.)",
+          "text": "Hi, you've reached Alex’s cell. Please leave a message. Dan hangs up the phone. We dolly over to see CARTER standing at the window in his adjoining office. Carter is staring at the city, musing. Carter turns and sits down at his desk. INT. CARTER’S 2ND NEW OFFICE - DAY Carter's screen saver is the GlobeCom logo. He hits a button, and a picture of ALEX fills the screen. Carter sits looking at the photo, an intimate closeup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN, (0.8.)",
+          "text": "So what‘s her name? Carter hits a button and gets rid of the picture of Alex. Dan is at the door — he hasn’t seen it. \f69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(freaked) What? Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "The fish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh. It’s uh...it’s a he, and his name‘s Buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Doesn‘t he want a friend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "He had a friend, but...he ate him. How’s your shoulder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Keeps popping out. You mind? (Carter nods) Tell me something, when you were eighteen, did you ever return your parents’ phone calls?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Uh, well, they never called, but I guess I would have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "My older daughter won’t call me back. I feel like going to NYU and kidnapping her, so I can stop worrying about her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Well, that, that sounds like a not great idea. Anyway, Alex seems -- from the very brief time I met her - - to be pretty savvy. (in a reverie) I wouldn‘t worry about her too much. She’s a terrific, smart woman. Girl. Young lady. whatever. My point is, she can handle herself. (pause) You seem to have a really great marriage...How do you do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You just pick the right one to be in the foxhole with. And then... (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DAN (cont'd) when you‘’re outside of the foxhole, you keep your dick in your pants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wow, that'’s...poetic. Dan nods. Carter smiles. INT. DAN’S HOUSE, LIVING ROOM - DAY A FOOTBALL-SHAPED CAKE with HAPPY FIFTY-~SECOND BIRTHDAY written on it is placed on the table by Ann. Ann's pregnancy is very visible now. A SURPRISE PARTY is in the works. The living room is full We see people from work -- Alicia, Theo, etc. among the crowd. Carter comes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey, Theo, how’s it -- Theo mumbles hello as he blows past Carter. Carter finds himself standing by a preteen kid holding a wrapped basketball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(with present) Hey, where do I put this? The kid points to a gifts table. Carter stands around a moment, trying to bond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "This party's a rager, hunh? The kid nods unenthusiastically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Okay. Carter heads over to the gifts table. EXT. DAN’S HOUSE, SUBURBS - DAY Dan's Volvo station wagon drives towards the house. \f71. INT. DAN’S STATION WAGON - DAY Dan drives towards the house with Jana.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Are you still glad you decided not to have a birthday party?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yup. I’m not in the mood this year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Well, Mom says you could use a little fun. She says you should lighten up for the sake of your health.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "She does, does she? Looking towards his house, Dan sees a little MOVEMENT beh one of the drapes. INT. DAN’S HOUSE, LIVING ROOM —- DAY Alex pulls away from peeking out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "They're here! Everybody hide! EXT. DAN’S HOUSE - DAY Dan and Jana get out of the car. Dan pauses, looking towa the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You go ahead, I just want to put an envelope in the mailbox. Dan watches Jana go ahead into the house. Then he TAKES O HIS COAT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jana comes in, excited. \f72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Quiet -- he’s coming in ina minute! Everyone hide! Everyone hides. EXT. DAN’S HOUSE ~ DAY Dan is now TAKING OFF HIS SHIRT. He KICKS OFF HIS SHOBS. INT. DAN’S HOUSE, LIVING ROOM - DAY We hear the FRONT DOOR OPEN. Everyone leaps up and YELLS:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURPRISE",
+          "text": "We see everyone's face register SHOCK. Ann DROPS THE’ CAM she was holding. REVERSE from their POV Dan is standing at the door in his UNDERPANTS, SMILING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Wow! What a surprise! Dan MOONS the partygoers. Everypne SHRIEKS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "(horrified)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAAAD",
+          "text": "INT. DAN’S HOUSE, KITCHEN - DAY LATER. Dan, fully clothed now, drinks punch, chatting wit some friends, when Morty comes over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Morty! Good to see you! Thanks for coming. How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Not so good. Not so good. I mean, psychologically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Oh. I’m sorry. \f73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "That‘s okay. Anyway, my wife got a promotion. I’m hoping she’1l raise my allowance. (pats Dan on shoulder) But this is good punch. Morty walks off. INT. CARTER'’S PORSCHE, DRIVEWAY - DAY Carter and Alex sit in Carter’s Porsche.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I better get back inside, they’re going to notice I’m missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah, I just wanted to give you a gift. Carter hands her a box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "It’s not my birthday. She opens it. It‘s a pendant with small diamonds in it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Holy shit, are these real diamonds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, they’re cubic zyrkonium. Yeah, they're real.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "These are too much, I can’t take them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, I'm sorry --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I feel funny, I -~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, don’t feel --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "It’s sweet. Very sweet. \f74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh. Good, thanks. They kiss. Then they both quickly look over at the house where the party is going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Alex, I've really been thinking, and...you’re the kind of person who's good to be in a foxhole with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "But we‘re not in a foxhole. We're in a Porsche. INT. LIVING ROOM -— DAY The party is in swing. Dan is unwrapping presents -- most shoulder braces, boxes of Ben Gay, etc, as people cheer. looks out the window. EXT. DAN’S HOUSE, SUBURBS - DAY Carter and Alex walk back to the party, holding hands for moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan sees Carter and Alex holding hands. Then they break apart as they approach the house. Dan looks like he's had the wind knocked out of him. Did just see what he thought he saw?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The elevator door opens, Carter steps in, and Dan stops t elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Hey, I thought maybe we could have lunch today. Go over some stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I'd love to, but I already have a lunch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Oh yeah? With who? \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(beat) With Wally Hebert from Proctor and Gamble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Den’t you want your wing man along?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Uh, not today. The elevator closes, leaving Dan there. The other elevato opens, some people step out. A beat. Dan steps in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter hails a cab. From the building lobby, Dan is WATCH HIM. Dan hails a cab too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter goes inside a trendy restaurant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter joins Alex at a table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Sorry I‘m late. It’s really been a hell of a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "That’s okay. But I have a three o'clock class.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan is on the street outside the restaurant. Trying toe s hidden, Dan looks through the restaurant window. He FREEZ as he sees CARTER AND ALEX sitting inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter and Alex’s waiter comes over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey, you're wearing the necklace!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah. (makes a face) I feel like an imposter. I mean, it’s great, but --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "An imposter? You look beautiful, doesn‘t she look beautiful?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "She does -- now we have three specials today. Avocado soup with Awapuhi oil. Calamari fritti with awapuhi. We have bluefin tuna with jalapeno, drizzled with awapuhi. We also have poached Maine lobster -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "May I get a side of awapuhi oil with that, please? Alex laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan walks by the maitre d’. MAITRE D’ (smiles) Welcome, may I help you? Dan walks right past. At the table, the waiter is still reading the specials.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(locking up) Holy shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(freaked) Dad?! Dan stands there, glowering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "Hi, is there going to be a third? \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I have just one question. Are you sleeping with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "I'm gonna go get you folks some bread. The waiter retreats.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Dan, this isn’t what it looks like.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Oh, really? What does it look like? Tell me. WHAT DO YOU THINK",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Well...it probably looks like some kind of...tawdry, sleazy affair, kind of thing, but --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Alex, I asked you a question. Are you sleeping with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "What do you want me to say, Dad? Alex looks down at her plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(to Carter) Get up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Get up. A beat. Carter gets up. Dan PUNCHES HIM IN THE EYE, sending Carter FLYING BACKWAR OVER HIS CHAIR. People in the restaurant GASP. Dan WINCES, holding his hurt shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Dad! Stop! It’s not his fault! \f78. The maitre d’ comes over. MAITRE D’ Sir, I don't think you ahould --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(wheels on him) You’d better back off before I drop kick you across this restaurant. The maitre d' veers away. Carter is on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oww -- Jesus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(to Carter) You are a piece of shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Dan, I love her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I love her. (to Alex) I love you. Alex hides her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You love her? She’s my daughter!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "She‘s in college. She's a college student. I took out a frigging Second mortgage so she could go there! Three years ago I was paying orthodonture bills for her! Alex starts to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "i i i k",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(to Alex) This guy? You had to sleep with him? : Dan turns and walks out of the restaurant. Alex gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan leaves the restaurant, followed by Alex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Dad! Dad! Wait! I’m sorry, it’s not -- this had nothing to do with you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "He's my boss, Alex!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "That’s not...I wasn't thinking of that. It just happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "We made a deal, remember? We made a deal to always be honest with each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Dad, I was five years old when we made that deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. I liked you better then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "That’s an awful -- an awful thing to say -~ wait, don’t walk away from me, let’s talk -- let’s talk about this --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Why? You clearly don't need my advice about anything. Dan walks off, leaving Alex crying. MUSIC RISES. \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan sits down on a bench. Takes off his tie. He looks shattered. EXT. DOWNTOWN STREET — DAY Carter walks towards NYU, his eye blossoming purple.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter comes in. Alex and her roommate are there. ALEX’S ROOMMATE Hey, Carter, wow, that’s some shiner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Could we have some privacy, Maya? ALEX’S ROOMMATE Sure. Absolutely. The roommate leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Have a seat. You want some ice for that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yes, please. Alex goes to a mini-fridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Umm, we don't have any ice left. But here, this soda‘s cold. She hands Carter a cold soda, which he puts on his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "So, umm...sorry about my timing there, with uh...the L word. It just sort of slipped out. But I’ve been thinking about it a lot, and that’s how I feel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Umm -- that’s really sweet. \f81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I mean it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I know you probably think you do. But I’ve been thinking too, and I'm -- I'm doing a double major.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(nodding) Yeah...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "And I’m taking anthropology classes on top of that. I've got a lot going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah...absolutely...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I’m not really ready for a big commitment. Carter tries to play it off like something positive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yes. Absolutely. That‘s what I'm talking about. Look, when I said I loved you I didn’t mean that I wanted to...interfere with your classes, I mean...I’m not talking about marriage or anything. Yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Carter, I’ve had a great time, and I think you’re a really great guy, but...You’re on the rebound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I‘m not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "It wasn’t all that long ago that your wife left you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "That was the best thing that ever happened to me. \f82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Well...good. But then it’s a good thing whether you're with me or not. And I...I think we should stop seeing each other. Carter assumes the same cajoling expression he had when K left him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Alex. Aleeex... Alex looks Carter in the eyes. She looks open, vulnerable The look freezes Carter. He drops the sell job he had bee trying to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I just want to tell you... (beat) I’ve enjoyed talking to you more than pretty much anyone in my entire life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(swallows ) Thank you...Me too. Carter nods. Turns and leaves Alex's dorm room. The sound of the door opening transitions us to... INT. DAN’S HOUSE, LIVING ROOM - NIGHT Dan comes into the living room, looking exhausted. Jana comes down from the top of the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Dad?! Where have you been? Your cell phone was off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Why? What is it? (beat) Where’s mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Jana park Dan’s Volvo. \f83. Dan RUNS out, ahead of Jana, SLAMMING the car door behind him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan comes in, finds Ann lying peacefully in a hospital be",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "There you are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "I'm fine. The baby’s fine. I hada little scare. There was some bleeding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What was it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "A uterine tear. It sounds bad, but it's okay. I just need some rest. Dan controls himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Sorry. I’m just glad you’re okay. He wipes his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I just...I don't know what the hell I would do if anything ever happened to you. I think I would pack it in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANN",
+          "text": "Well, I’m afraid you're gonna be stuck with me for a while. She kisses his hand. For the first time that day, Dan becomes calm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Late at night. Dan sits by Ann‘s bed as she sleeps. The door opens, and Alex comes in. \f84. She looks at her mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Is she okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(whispers) Yeah. Sleeping. He puts his finger over his lips. Gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Alex sit in a small waiting area. Dan has a paper cup of coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I broke up with Carter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Why? Because of me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "No. Because of me. Anyway, I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "For what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Lying to you. Hiding stuff from you, Dan picks at the lid of the coffee cup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "I should tell you, Carter didn‘t seduce me. If anything, it was the other way around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Please, I don’t need the details -- (beat) Unless, I mean, you want to tell me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Uh, no. Not particularly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Good. \f85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "You probably think I'm disgusting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Disgusting? Why on earth would I think that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "«-I didn’t know you took out a second mortgage. I don’t have to go to NYU. SUNY’s fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "No --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Its fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(firm) No. You're staying at NYU... Dan gathers himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Look, Alex, you’re a...a smart woman. You can handle yourself. And what I'm saying is...I‘m going to try, okay? To...be whatever kind of father I should now be for you. I’m not saying I can pull it off, but...I’'m gonna try and... adjust.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(touched) Dad...you don’t have to change.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah...I do. Dan pats her on the shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "High angle shot on the city. Taxis, buses, people going b from skyscraper perspective. \f86. INT. ASSISTANTS’ DESKS - DAY Three computer screens pop to \"TEDDY K. IS COMING”, one a the other. A saleswoman reacts with surprise as Teddy K's jovial fac pops onto her screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Moving men lift out the table. They set up the room. Plug stuff in. Set up a podium. Steckle appears. Greets some of Teddy K’s staff. More and more people fill the space.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About a HUNDRED-FIFTY PEOPLE are JAMMED into the room, including Theo, Alicia and the remaining sales staff. TEDDY K emerges from the elevator bank, with his beautifu somewhat robotic assistant at his side. It’s hard to tell how old he is. He could be a mature-looking 40, or a youn looking 60. The crowd parts before him, staring, amazed, at the great man. Teddy is naturally charming, working the room. TEDDY K. Hil How are ya! Good to see ya! (to secretary) Nice brooch! (joking to assistant) We must be paying her too much money ! Teddy moves into the conference room, SHAKING PEOPLE’S HA GIVING HIGH-FIVES. TEDDY K. (greeting people) Hi, hi, how are you, hi. Teddy's assistant whispers in his ear as he approaches Steckle. \f87. TEDDY K‘S ASSISTANT (in Teddy’s ear) Mark Steckle. TEDDY K. (smiles at Steckle) Mark Steckle! How are ya?! Steckle beams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Hi, Teddy! TEDDY K. How ya doin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Very psyched! Steckle leads him through the crowd, stopping by Carter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Oh, this is Carter Duryea. TEDDY K. Oh, yes, cell phones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Thanks! I’m with Sports America now. TEDDY K. That's the flagship. (pauses) What happened to your eye?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Yeah, what did happen? All eyes are on Carter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, I...fell asleep at my computer. (mimes it) Bang. Right on the monitor. TEDDY K. Well...those things can be dangerous! Teddy laughs, which is the cue for everyone else to laugh \f88. TEDDY kK. Well keep up the good work! Keep in touch! Teddy K. gives Carter the thumbs up sign, and moves on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(whispers to Carter) I wouldn't be surprised if he announces another takeover today. Teddy stands at a podium. He looks out at the crowd, as everyone settles in their seats. TEDDY K. Synergy. The room lights go down. Teddy is bathed in the blue glow from a rear~projected Globecom logo behind him. Carter looks over to see Dan, who comes out of the elevat He is in yesterday’s clothes, having spent the night at t hospital. TEDDY K. What exactly does it mean? Why does a business swim with it, and sink without it, in this new ocean of megabytes, streaming video, and satellites? Dan makes his way into the crowd. TEDDY K. There are vast differences between us. On a person to person level, on a national level, on a global level. Every day, the world becomes more complex. The crowd gazes at Teddy, mesmerized. TEDDY K. And to survive in a complex world, we need complex bonds to interface with it. The audience hangs on his words. Dan watches him with narrowed eyes. TEDDY K. What we're. building here. Is it a company, or is it an economy? (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fTEDDY K. (cont'd) Is it a new country, with no_ national boundaries, a new democracy of the consumer? A new democracy with a new electorate. Twenty-four hour music videos in Kuala Lumpur. Computers with parts manufactured in Japan, Greenland, Idaho and India. A soft- drink ad going out simultaneously to seven continents? The Dalai Llama eating Krispity Krunch while uploading prayers onto the net? (pauses) In this room. In this room, I see this. Teddy K. Holds up his hands, FINGERS EXTENDED. TEDDY K. What we're trying to get to is this. 89. Wiggles them. Teddy K, INTERLACES HIS FINGERS, mimicking the GLOBECOM CORPORATE LOGO. TEDDY K. (smiles) This is unbreakable. This is inevitable. Woman‘’s World magazine. Why not a Woman’s World channel? Across the world. Computers. Why not a weekly computers section in Sports America magazine? Someone in the audience LAUGHS. It’s Dan. All heads turn towards him. He looks a little surprised at himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Uh, excuse me. Excuse me. TEDDY K. (puzzled) Yes? There is murmuring in crowd. \f90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I‘m sorry. My uh...My name’s Dan Foreman. I...I work for Sports America...and...I’m not sure I understand what you're talking about. Carter looks at Dan, shocked. Dan proceeds, tentatively.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What I mean is, what do computers have to do with sports? Are you literally saying there should be a section in the magazine about computers? Who’s going to want to read that? Steckle shoots Dan a look of DEEP HATRED.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "And I'm not sure I understand how the way the world is changing is actually going to change how we do business. I mean, we still are selling a product which someone hopefully needs, right? We're still just human beings, with other human beings as customers. Dan picks up steam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "And I can't see how this company is like its own country. I mean, just because we sell all different kinds of things, that doesn’t mean we should operate by our own laws, does it? Besides which, countries, at least democratic ones, have some obligations to their citizens, don't they? So how doe layoffs and bottom-line thinking fit into that? There is a long pause. TEDDY K. .».-Dan Foreman. Teddy nods gravely. \fgl. TEDDY K. +..Sports America...you ask some excellent questions. (nods) Some excellent, excellent questions. (mulling it over) I’m glad you asked them. (pause) And I‘m leaving it to you... (gazes at the crowd sternly) «+.to all of you, to answer them. And now, unfortunately... (to his assistant) Absolutely. Teddy K. LEAVES THE ROOM, followed by his assistant. There is a pause. Everyone is silent. Then Steckle starts APPLAUDING TEDDY kK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YEAH",
+          "text": "Everyone else in the room JOINS HIM in applauding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "TEDDY Kit! Dan walks out through the back of the crowd, who are all facing away from him, towards the departing Teddy K. INT. DAN‘S OFFICE - DAY Dan sits behind his desk. Carter comes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh my God. Oh my God, Dan. Steckle comes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Good, you’re both in here. (points at Carter) You I‘11 deal with in a second. (to Dan) You. Have you lost your frigging mind? \f92.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Well, he...he said they were excellent questions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Dan -~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Okay, you think this is funny. You think it’s funny to disrespect a great man. Do you know who you were talking to just now? Teddy K!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEDDY K, GODAMMIT",
+          "text": "(pause) Look, we‘ve been carrying your fat, bloated salary for way too long. I want you out of this building within the next ten minutes. Now I’m gonna go to my office and smoke a nice cuban cigar, and try to forget you ever existed. (to Carter) In my office. Now. Steckle turns to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Mark...Don‘t fire him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "He busts his ass, Mark...and...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(aggressive) And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Nothing. Dan looks down, embarrassed and defeated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just...if you fire him... (pause) You have to fire me too. Dan looks at Carter, surprised. \f93.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "---I’m sorry. Let me get something straight. You’re throwing yourself in with him? With this useless, over the hill loser? Think here, think what you're doing, because if you're not careful, you're gonna end up like him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I guess...I guess...that would be okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(beat) Alright. Then you’re fired too, you little shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "»+.That’s too bad, because...you're going to lose a huge client Dan and I were working on. It was going to save the year for us. Without it, Magazine’s pretty deep in the red.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Oh yeah? What client is that? Pause. Carter glances at Dan. Dan looks at Steckle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "+..You think we’re going to tell you? Steckle stares at Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "...You're bluffing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I don‘t bluff...I’m not that good a salesman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(beat) Okay, well I don't give a crap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I think Teddy K. will. See, I’m gonna call him, and tell him you drove his most profitable magazine, his flagship, into the ground. And he’1l listen to me. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CARTER (cont'd) (beat) He likes what I did with cell phones. Steckle looks from Carter to Dan. It's a standoff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "You have 24 hours. Or you're both gone. Steckle leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(beat) Any ideas? Dan thinks...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "«--One.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Los Angeles. Dan and Carter get out of their rental car. Carter looks nervous. Dan smiles at him reassuringly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Carter walk towards the Kalb Automotive building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You got all your research? {Carter nods) Alright. Follow my lead. He pats Carter on the arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan hands a copy of SPORTS AMERICA to Morton Kalb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Thought I’d bring you this in person again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Thanks. How are your daughters? \f95.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "They‘re great, thanks. And your grandkids?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "They’re fine. My son-in-law has my oldest, Ralphie, enrolled ina computer camp, whatever that is. Carter approaches, laughing a little too loud. Kalb looks him as if noticing him for the first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I'd like to introduce my boss, Carter Duryea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Your boss? He looks more like your nephew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Well I’ve...been learning a lot from Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "What happened to your eye?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "That's one of the things he’s learned from me. An uncomfortable pause. Carter tries to laugh this off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Are you saying you punched him in the eye? Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "We don’t really have to get into this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Please, I'm...rather curious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(to Carter) Why did I hit you? Carter gives Dan a look. What the hell is Dan thinking?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(pauses, then shrugs) +.-He called me a dinosaur. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fDAN (cont'd) Said I was out of date, and I'd better step in line. Dan looks at Carter. Carter’s eyes widen a touch. Kalb looks surprised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "So you slugged him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "It was a fair fight. {to Carter) Right? Carter picks up the ball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Right. (taking out a folder) Mr. Kalb, you have a truly impressive business. I've been looking inte all the details, new franchise openings, market awareness, customer demographics --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "I’m sorry, you got into a fistfight because he called you a dinosaur?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I don’t know what happened. I just snapped. There’s only so much a man can put up with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "Hunh. And...if you’re his boss, why didn’t you fire him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(pause) He’s my best salesman. Now I’ve been looking at a cross-promotion we could do with Krispity-Krunch --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(cuts him off) Carter, that’s okay. Mr. Kalb, I don’t want to go into facts and figures right now. You know them all anyway. Let me just ask you, what's your hesitation about advertising in the magazine? \f97. Kalb watches the two of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "..-My hesitation is that our advertising budget is already overextended. My son-in-law spent a lot of money on cable and on- line, and, frankly, we’re not getting the bang for the buck that we hoped for. He wants to plow more money into it, but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "++ But? Kalb looks from Carter to Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "But he is such an asshole. Kalb’s anger spills out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "I built this business, and I know more about running it than he ever “~ will. And I know that when I make a mistake, it doesn’t pay to retrench. I’m going to restructure our whole advertising plan. Starting with a major buy in your magazine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "That’s great news, Mr. Kalb! Thank you,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Thank you so much! : Dan and Kalb shake hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "(to Carter) i Oh, and...I don’t give a shit about 5 Krispity Krunch. Let's just stick to the magazine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kalb walks Dan towards the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KALB",
+          "text": "om (to Dan) So you really slugged him? i i \f98.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yup. (snaps his fingers) Carter. Carter follows him out. EXT. BRIDGE, CORPORATE CAMPUS -— DAY Dan and Carter arrive at the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "That was awesome! You were amazing! I mean, that was actually...fun!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(laughs) What Kalb really needed was to see an old fart who beat the crap out of a kid half his age. And you know what the best thing is? It’s the right thing for him to do. It’s gonna improve his business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(stops) +-.You actually...you actually believe in this stuff, don’t you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(stops) Course I do. Why the hell else would I do it? Dan walks off down the bridge, doing a little dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dan and Carter get off the elevator, still on a high. Ali sees them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Dan, where have you been?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "We were in Los Angeles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "We made a huge sale. \f99.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Congratulations. So did Teddy k. He sold the company! To Calcor Communications!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "What? That can’t be! carter and Dan stand there, speechless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter and Dan come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Mark! What happened? I thought you said Teddy K was going to buy another company!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "That‘s what they told me, but ~- he sold us...I’m out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wait, you’re out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Yeah. They’re reorganizing the whole place. (to Carter) You‘re out too. Carter looks stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "(to Dan) I think you’re in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I‘m in what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "Your old job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "My old job? Running the department?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STECKLE",
+          "text": "That’s the rumor. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "100.",
+          "text": "STECKLE (cont'd) (he sits back, shattered) The whole thing seems so arbitrary. I feel used.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(pause) Yeah. Kinda tough to know you’re replaceable, hunh? He looks at both of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "I‘m sorry you lost your jobs. MUSIC RISES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter sits on the street outside his apartment. He thinks. INT. DAN’S FIRST OFFICE - DAY Dan stands in his old office. The walls are empty. He has boxes cf his stuff piled in the middle of the room",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter walks towards the camera in his business suit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WITH",
+          "text": "INT. DAN’S FIRST OFFICE - DAY Dan puts all his old memorabilia, pictures, etc. back up the shelves and walls, taking posession of his office aga",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter walks closer to the camera as the music CRESCENDOE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The elevator BINGS, and Carter steps through the doors in the office. \f101. He is dressed in sweats and jeans, looking like a kid for first time in the movie. He walks down the hall, looking around, looking a little lost. INT. DAN’S OFFICE - DAY Dan is back in his old office. He stands as Carter comes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hi, Dan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Carter. Come on in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Nice office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Thanks. Have a seat. Carter sits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "So. How have you been the last month?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I’ve been good, thanks. It’s been...pretty strange not having to get up and go into work in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. Well that’s what I wanted to talk to you about. (pause) I want to offer you a job. We definitely...had our moments. But I think you’re a good manager, and a good salesman, and I'd like you to come here and be my second in command.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(surprised) Dan...I really appreciate that, more than you know. And if I knew this was what I wanted to do, there’s no one I could learn more from than you. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CARTER (cont'd) But I’m not sure what I want to do for a living. I’m not sure I want to work at a big place. I thought I did. I thought I had everything mapped out. But...I’m not really sure what I want to do with my life. I just know I want it to mean something to me, like this means something to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Do you think I’m being stupid?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(pause) »..No, I don’t. I think that sounds right. Carter nods. He settles back. Pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "So how's...the family?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Ann's good. Baby’s coming Tuesday after next Tuesday. Caesarian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Wow. That’s amazing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "It sure is. (pause) And the girls...the girls are both good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I'm glad. Please...give them all my best. Carter gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Sc what are you going to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "I’ve saved up a bit of money, I’m going to travel. \f103.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "That'll be fun. Carter stands there for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Umm. ..Dan...thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "«+-For what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "For...I guess for showing me a few things. No one ever took the time to umm...give me a hard time before. Or to teach me anything...actually worth learning. See, I never really had a... Carter takes a breath. He scowls a bit, FIGHTING BACK THE EMOTION which has snuc on him. Dan looks down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "---Sorry. You know what I’m saying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": ".. Alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Listen, Carter. I want to tell you something. You’re gonna be okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "You think so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. I know it. You’re a good man. Carter stands there. It’s the first time he’s ever heard this. Carter goes over to Dan and HUGS him. Dan awkwardly pats Carter on the back. Then he HUGS Carte \fThey release the hug. Carter rubs his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Don’t be a stranger. They shake hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "104,",
+          "text": "Carter steps out if the elevator and sees Morty waiting t get on among a group of office workers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hey, Morty! You're back!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Yeah! Back in the saddle! Look at you, you’re -- you look like a delivery guy. (turns) Hey, do you know Dan’s daughter Alex? As some people move through Carter sees Alex approaching. She's carrying her tennis gear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "(shocked) Oh -~ hi, yeah -- what are you -- what are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(shocked) Oh -- I’m just...surprising my dad, seeing if he wants to play tennis...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(oblivious) Alex is a fantastic tennis player. She was a junior champ, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Oh, really, you...you play tennis, hunh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "(smiles) +.-Yeah. So, umm...how’s it going? \f105.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Good, I’m actually uh...leaving town. Think I might try and teach, or...open an awapuhi store. I don't know. You...doing good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah, I’m...just...working on some short stories...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "That’s...that'’s great. Morty looks from one to the other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Well, I got a raise! Dan got mea raise, which is a good thing, because my wife just got laid off. Timing’s everything in life, right? Another elevator door opens. People get in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY, (CONT'D)",
+          "text": "(getting in elevator) Take care, Carter!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Yeah, you too, Morty. Nice to...nice to see both of you again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Yeah, it was really good to see you, Carter. Alex gets in the elevator. As the doors close, she lifts hand in a goodbye to Carter. Carter turns and walks away from the elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And PUSH IN towards the hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alex and Jana are sitting in the waiting room. Dan comes out, dressed in hospital blues. He looks exhausted. \f106. Jana and Alex hurry over to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANA",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "++-Well. I am delighted to say... (he smiles) ++-You have a baby sister. Dan grins. Jana hugs him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALEX",
+          "text": "Are you happy Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah. I’m psyched. Alex and Dan smile at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carter runs in place. At first, it is framed to look as if Carter is jogging on treadmill in front of his TV again. A cell phone rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "Hello? Hey, Dan! Oh my God! That’s great! Got a name yet? (beat) That's fantastic. What? (pause) No, that's because I'm jogging. Carter jogs away from the camera, revealing he is on a be",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARTER",
+          "text": "No, I'm outside. I’m actually jogging...outside. Carter jogs off down the beach. His conversation continue as music rises. THE END.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_965"
+    }
+  ]
+}

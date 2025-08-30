@@ -1,0 +1,2360 @@
+{
+  "movie_id": "MOV2331",
+  "scenes": [
+    {
+      "location": "HOTEL-NIGHT",
+      "time": "MORNING",
+      "characters": [
+        "NATASHA",
+        "DAVID",
+        "GRIERSON",
+        "COP",
+        "WHITNEY",
+        "THE END",
+        "GUARD",
+        "GENE",
+        "ASHTON",
+        "INT. DOUGLAS'S HOUSE- MORNING",
+        "GIRL",
+        "INT HOME BEDROOM- NIGHT",
+        "CLARK",
+        "JANE",
+        "INT. BOOK STORE DAY",
+        "INT. BANK 1937 L.A. DAY",
+        "PHONE",
+        "BRIDGET",
+        "FERGUSON",
+        "INT. HOTEL NIGHT",
+        "MAN",
+        "BERNTEIN",
+        "DOUGLAS",
+        "INT. BAR- NIGHT",
+        "BELL BOY",
+        "TOM",
+        "HILLARY",
+        "COMPUTER",
+        "EXT. STREET DAY",
+        "FULLER",
+        "DRIVER",
+        "WOMAN",
+        "EXT. OUTSIDE HOTEL NIGHT",
+        "BOY",
+        "BARTENDER",
+        "INT"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FULLER",
+          "text": "They say, \"Ignorance is bliss.\" For the first time in my agree. I wish I had never uncovered the awful truth. I kn once they find out, they will try to silence me. That is written this all down for you in this letter.  You*re the one whom I can tell this to.  The only one who could poss understand. Good luck, my friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "I hope you enjoyed your stay with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENE",
+          "text": "Mr. Fuller, nice having you here tonight. Your usual tabl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "No thanks. Gene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Her name's Erika. She's from Toledo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "Ashton, would you do me a favor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "You'd like to meet her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "I want you to keep this letter. Somebody will ask for it. named Douglas Hall. Remember, it's crucial that he receiv",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "It's a walk in the park.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Going home, Mr. Fuller?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "Yes, Charlie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "We're out of cat food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "Yes, I'll buy some in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "You've been smoking again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Download complete. Link to simulation terminated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "One martini.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "You forgot the olive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "We're out of olives. How about some pretzels?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "No thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "Please leave a message at the tone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "Douglas, it's me. Listen, I've stumbled onto something  incredible. This changes everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "I don't know. I don't even know how to begin. What are yo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "You have new messages. You have 3 new messages.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "First new message Five twenty-five a.m. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HILLARY",
+          "text": "Douglas, it's Hilary. Don't forget to call Marshall. Lega screaming for the contract.  I'll have a notary come to t office at lunch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "Next new message Five forty-eight a.m. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HILLARY",
+          "text": "It's me again. Please call me as soon as you get up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "Next new message Six thirteen a.m. McBAIN Mr. Douglas Hall, this is Detective McBain, LAPD.  I'd ap a callback, please. My phone number is 555-7876.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BERNTEIN",
+          "text": "I'm Detective Zev Bernstein. Sorry to drag you out of bed early.  This is Detective McBain. McBAIN Mr. Hall? Thanks for coming down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Where is he? McBAIN Can I get you some coffee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No. McBAIN We found him in an alley at Spring and Grand. Looks like into some guy who wasn't just asking for a quarter. Carve like a ham. Took everything Wallet, credit cards. Got a real kick out of it. What's y connection to the old man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I worked with him for 6 years. He was may boss. My friend McBAIN Hey, cigarette?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I don't smoke. McBAIN We found these on him.  Traced the prescription. Accordin doctor.  Fuller listed you to call in case of medical  emergencies. He had no next of kin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No he didn't. McBAIN Sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I think he would've told me. McBAIN Have any idea who killed him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Everybody liked him. McBAIN Mind if I tag along?  Or we can continue in my office, if more convenient.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "That's fine. McBain, What do you do for a paycheck, anyway?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Computer software. Would you mind taking care of the car morning? McBAIN Must make some decent bucks, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I make a living.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "This was his apartment. McBAIN You could be home already.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What? McBAIN I see these signs every time I leave work - \" You could b already. Apartment living in downtown.\" Never expected it look anything like this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "This company was Fuller's life. He worked and lived here. McBAIN So what exactly do your people do here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I don't think you wouldn't be interested. McBAIN I'm paid to be interested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Computer research. Fuller was onto a  whole new frontier. sensitive material.  Not at liberty to discuss it. McBAIN A lot of money involved. This apartment must be worth a f million dollars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "One of the perks of the job. McBAIN This job has a whole lot of perks. (A woman comes in)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I just talked to him 2 days ago. I can't believe he' gone name is Jane Fuller. Hannon was my father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm sorry. I'm Douglas Hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "You are the one he always wanted me to meet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Really? He never mentioned to me that he had a daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "he didn't? I just arrived from Paris this morning. I was to meet him. But then I heard. McBAIN My condolences, Miss Fuller. I'm Detective McBain, LAPD. to ask you some questions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "of course. McBAIN Would you excuse us, Mr. Hall?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Sure. Have we ever met before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "No, that's not possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You look very familiar. Nice to meet you, Miss Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Hey, Whitney. How you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Sliced him up like an animal. And for what?  He was the E of our generation. It's a waste.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What the hell happened while I was away?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "He was jacking into the system a lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "I thought you knew. You didn't know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No, I thought we were months away from the first trial ru",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "We are. But you know, he was taking a big chance.  What w supposed to do? You know how he is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Any complications?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "None that I know of yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Did he ever tell you he had a daughter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Because I just met her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "You're kidding me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "John, I need the number of that cab company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUARD",
+          "text": "No need, sir. She went to the Omni Hotel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Doug? McBAIN Detective McBain. Sorry to disappoint you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "I'll find Doug. McBAIN Actually it's you I want to have a few word with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "What for? McBAIN Want me to catch your boss's killer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Of course. McBAIN The whole thing's a giant computer game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "No not at all, it doesn't need a user to interact with it function. Its units are fully-formed, self-learning cyber McBAIN Units?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Electronic, simulated characters. They populate the syste think they work, they eat, McBAIN They fuck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Let's just say that they're modeled after us.  Right now a working prototype Los Angeles, circa 1937. McBAIN Why '37?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Fuller wanted to start by recreating the era of his youth see, while my mind is jacked in, I'm walking around exper 1937. My body stays here and holds the consciousness of t program link unit. McBAIN You think one of them units crawled up an extension cord killed its maker?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Miss Fuller checked in yet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Glad I caught you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Mr. Hall. What are you doing here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Well, it's about your father. Actually.  You said you spo him a few days ago.  Can you tell me anything about that  conversation?  Did he seem strange to you at all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Well, he'd been under a lot of stress lately. He asked me to the States, so I could help with the company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Help him run it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Shut it down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I worked with him for 6 years. If he wanted to shut it do would've told me about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "He didn't tell you about me. But I wish he had.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "It's nice to see you again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Sorry I'm late. Have you had a chance to look through the paperwork?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes, I have. And I think we have a very strong case. The should be yours in no time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "What do you mean strong case?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "What  I'm saying is , your father changed his will in fav the employees.  In fact you aren't mentioned in the origi either.  But as I said, I think we have a very strong cas",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Who will heard the board now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Douglas Hall. McBAIN Not bad. Owner of a &2 billion enterprise. Strange, Fulle amend his will just a couple days before he died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I was on a airplane when it happened. McBAIN According to the security guard, Fuller left the office a thirty p.m., 30 minutes after your plane arrived. Autopsy that he died around midnight.  You had time to catch up w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "But I didn't. I went straight home. McBAIN Didn't talk to him? No, e-mails, no faxes, no even messag",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "None of the above. McBAIN You know, that's funny. We checked Fuller's phone records made a call with his calling card at 11:02p.m.b Your home I'd appreciate it if you didn't leave for a couple of day get that game fixed. It*s missing a spring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "Restore. To restore messages, press \"rewind\" now.  Yester two forty-five p.m. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "I managed to reschedule...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "Yesterday at 5:14p.m.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Hello, Mr. Hall",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHONE",
+          "text": "Yesterday at 11:02p.m.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FULLER",
+          "text": "Douglas, it's me. Listen, I've stumbled onto something incredible. This changed everything. I'm here in some bar and 7th. In case something happens to me, I left you a ma in the system. I gave it to.. How did you find me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm trying to get into Fuller's files.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "For what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He left a message for me the night he died.  He knew some wanted to kill him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Did you tell the police?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He also said he left a message for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Douglas, please. This is my stuff, okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "So these are the units that Fuller interacted with when h down there.  Maybe he wanted me to go in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "If you're thinking what I think you're thinking.  Don't e think about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I need your help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "No, no, no. I won't help you. You're taking a serious ris",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I have to get in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "you could die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "The police think I killed him. They may be right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Everything points to me.  To be perfectly honest, I don't the truth is anymore.  Either I did murder Fuller and I c remember, or I'm being framed.  The one clue I have is in machine. I need your help if I'm going to find it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "I'll set it for an hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Set the timer for 120 minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Set for 60 is better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "120 minutes, Whit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "60 is safer. I'm setting it at 60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Whit, 1-2-0.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "120 minutes. Engage timer. Preparing user for download in simulation. Ready for download.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Mr. Grierson, 117 West Whinston, Pasadena.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Transference beginning. Download complete.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "You owe me $12.05. Listen young man! I do not have all da",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "Ferguson, anything wrong? John, are you okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "I'm terribly sorry, ma'am. Someone will be right with you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "John? Cigarette?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No, thanks. Don't smoke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "Since when? Listen John. Why don't you break for lunch? G fresh air.  You look terrible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Extra! Extra! Zeppelin blast kills 35!  You want one, mis It's 5 cents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "How much to Pasadena?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "90 cents. If I forget to turn the meter on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "So this is it, 177 Whinston.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "It's gonna be a few minutes. Do you mind waiting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "It'll be a pleasure, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Tell me if you need any help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Thank you. You own this place?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I mean, it's not much but it's mine. You looking for anyt particular?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Interested in a scientist. Wrote a couple of books about  semiconductors and the limitation of the 64-bit microchip",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Microchip. Semiconductors. What year?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Early seventies? His name was Hannon Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Hannon Fuller. 1870. No I can't say I've ever heard of Ha Fuller. 1870, Microchips. But I'm not much of a  technica person, you know. You been here before? You look kind of  familiar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "name's Douglas Hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Douglas Hall. It doesn't ring a bell. Guess you just have those faces familiar faces. Oh, it's late. I'd like to cl now. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Of course. Pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Pleasure to meet you, Mr. Hall. EXT. 1257 Palo Alto Road DAY",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "1257 Palo Alto Road, la Cienega Heights. I guess that's i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Excuse me. I'm looking for Bridget Manilla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "What do you want her for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I want to ask her some questions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "She's got a job now. I'm her mother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Can you tell me where I can find her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "You a copper?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Now, listen. She ain't doing nothing wrong no more.  If y cause her no trouble, you'll find her at Wilshire Grand H",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm looking for Bridget Manilla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "She's over there, second from the end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Bridget? I got your name from a good friend of mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIDGET",
+          "text": "Come  bask later. I'm really busy right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "his name's fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIDGET",
+          "text": "The manager's very tough on us. You'll have to wait till duty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I really don't think I can wait that long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIDGET",
+          "text": "Go talk to Ashton over at the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Excuse me. I'm looking for Ashton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Right there. Ashton, some guy wants you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "You're a lucky man. I just opened. Oh my. Something wrong",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Bridget just sent me over here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "What can I do you for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You know a gentleman named Hannon Fuller?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Gin martini up, one olive and likes them frigid as an Esk",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "talked to him recently?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm his friend. He didn't come home last night. And his w concerned.  My name is Douglas hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Concerned wives? I can't help you with that. How about so fancy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "So did... Does Fuller come here frequently?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "You could say that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What does he do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "What everybody does Drinks, dances, has a good time.  Especially has a good t really goes for the girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Girls?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Thought you said you knew him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Yeah, I thought I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Are you in a hurry or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Didn't happen to talk to Fuller the night before last, di",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Yes, I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Did he mention my name? Did he give you something for me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "What would that be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "A message or a note, maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "No, sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Did you see him talking to anybody else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "I'm a very busy man. Listen, if you like, I can arrange s for you too.  You see anything you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Can you tell me where the bathroom is , please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "You all right? You sure? All right, take it easy. Hey, ma it easy.  I told you, 120 minutes. It's too long. You're pushing your luck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "The memory transference with your link it froze. Started  overlapping! Thought I'd be shooting hoops with Ferguson rest of my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FERGUSON",
+          "text": "You got a smoke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FERGUSON",
+          "text": "Thank you. Mind if I ask you a question? Can you tell me am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "It works?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Oh, it works.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "How about Anston? My bartender?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He's got  much better haircut than you. Much better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "I wish I could see it for myself. How's the lighting? Tex",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Colorization needs work, but the units don't notice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "What are they like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "They're as real as you and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "You see the old man was right! All those years of work! D find out what he was doing there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Yeah, He was having sex with girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "You're kidding me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUARD",
+          "text": "Excuse me , Mr. Hall?  A man in the lobby says he needs t to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Thanks. Have him call my office in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUARD",
+          "text": "He says it's urgent.  He's a friend of Mr. Fuller's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You're a friend of Fuller's?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOM",
+          "text": "You're Hall, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "How can I help you, Mr. Tom Jones. You know, like the sin How about some privacy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What do you want to talk about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOM",
+          "text": "About the night the old man died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'll be right back, Joe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "So where'd you meet Fuller?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOM",
+          "text": "in my bar the other night. Waiting for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Is that what you wanted to talk to me about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOM",
+          "text": "I want to talk about money now. Something in the seven fi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOM",
+          "text": "Come on. You think you can get away with it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Get away with what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOM",
+          "text": "You took the old man, asshole! Listen to me. He was at th You pick him up, leave together. Next day he's an obit. Y the math, asshole!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "Omni Hotel. How can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Miss Jane Fuller, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "hello? Who is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "The night your father was killed, he tried to reach me. H to meet at some bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He left someone was after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Did you talk to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I know how strange this sounds. I can't remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "What do you mean, you can't remember? Did you talk to the detective about this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No, but the bartender will, if I don't pay up. I know how this sounds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "You can't just plug your brain into this machine and not to be affected by it please walk away from this before yo hurt too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Why do I get the feeling we've met before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Maybe, we have, in another life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What are you doing in Paris? What*s that other life like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I don't want to talk about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I guess I don't want you to lose interest in me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You don't have to worry about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Let's dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Me? Mo, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Yes, come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I buy all my shoes in left pairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "It's easy. I'll show you the steps. You're doing pretty g a man with no right foot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "must've picked it up in another life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "You know that feeling you have that we met before? It's t with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Why is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "They say that deja vu is usually a sign of love at first",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBAIN Don't make any sudden moves. What it's usually all about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBAIN Is that your car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Those are my plates. McBAIN No, shit? That's from a security camera in your garage in office building the night Fuller was killed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm not sure. I don't understand. McBAIN That makes one of us.  Fuller wants to shut down the proj and you sliced him up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I think it's time I call my attorney. McBAIN You say you left your office at 10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I was working late with Whitney. I told you that. McBAIN Anybody with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No. McBAIN You're picking up bad habits left and right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Must be the stress. McBAIN Then you'll need a carton. Mane's Tom Jones. Said he saw picture in the news paper.  Said you looked like the guy left the bar with that night.  We took his statement. Sai be in touch. Someone reached out and touched him first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Looks like you found an alibi. You're free to go for now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What did you tell him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "The truth. We met for a drink, one thing led to another, the night together. Your picture was on the news. He saw thought you were good for quick cash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I saw the pictures. The guy was slaughtered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "He was an ex- con.  Who knows what else he did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Just because I don't remember it doesn't mean I didn't do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "You're not a killer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Your father stumbled onto something. He left me a message has something to do with this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "So what are you going to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Jack back in and find out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I'll call the police.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I need to talk to you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I told you! I'll call the police.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Listen! I know why you pass out from time to time. I know wake up and have no idea where you are. What did you do 3 ago? Any idea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "When did it first happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "First time? About 4 weeks ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "And the last episode was 3 nights ago? It lasts for about hours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "My wife thinks I have some kind of secret love life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What about memory flashes, deja vu?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I was in World War I. I'm still having these nightmares.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm talking about fantasies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I do have them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "In these fantasies, you're having sex with young girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "When I wake up, I even have a perfume smell all over me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Real or imagined?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "According to my wife, it's pretty real. I found this. A c days ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Your size?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I'm married over 35 years now. And not once have I cheate wife.  Not once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Let's have a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You've been here before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "No, I can't afford places like this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "my treat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELL BOY",
+          "text": "Good evening, Mr. Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "That's you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "Excuse me, sir. Members only.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "Mr. Fuller, your usual table?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "He is with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRL",
+          "text": "Hi, honey bear. I'll be with you in 5 minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Let's talk, \" honey bear\" You remember her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Of course not. She's mistaken me for someone else. Or som else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I want you to look around and tell me what you remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I don't know, Mr. Hall. I'd rather go home. I don't feel well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You have the feeling you've been here before? Please try remember. Do you recognized anybody?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I'm trying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Her? What's her name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I think her name Erika, I believe. I believe her name is",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Do you remember did you talk to her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "I'm not sure. And that one looks familiar too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Bridget. Her name's Bridget.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "Bridget. Oh Yes. I remember Bridget.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Did you give her something to give me? Did you give her a or a note?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIERSON",
+          "text": "The man behind the bar. You're right. I wrote a letter. A it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "You looking for anything special? What are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "My name's Ferguson. I'm a bank teller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "I'm Clark Gable. I talked to the Ferguson guy. He doesn't thing.  I need to talk to Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He's upstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Cut the crap! You think I don't know what's going in? I n see him I need to talk to him again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You read the letter. I need to know what's in the letter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Everything. When I read it, I thought it was a gag. The w sham. Fat chance. but I'm not stupid, Mr. Hall. I watched Ferguson do the old switcheroo. That stuff about going to ends of the earth\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "I did exactly what the letter said. I chose a place I'd n to.  I tried to drive to Tucson. I figured, what the hell been to the countryside.  And I took that car out on the I was going over 50 through that desert. After a while, i the only car on the road. It was just me, the heat and th I did exactly what the letter said. \"Don't follow any roa and don't stop for anything. Not even barricades.\" But ju I should've been getting closer to the city. Something wa right. There was no movement, no life. Everything was sti quiet. And then I got out of the car. And what I saw scar the depths of my miserable soul. It was true. It was all It ain't real. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Why would Fuller write about the limitations of the simul I know them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "I'm asking the questions now. I want to know why would yo through this? Why are you fucking with our minds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You weren't supposed to find out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Well I did. Now I want you to show me what is real. Is th Is that real blood? How do you like having your life fuck",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Damn, what's going on? Where's the letter? INT. THE 13Th FLOOR",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Snap out of it. You won't hit me again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Did you yank me back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Yeah, barely, man. Just barely. You didn't start the time couldn't engage. What are you doing this alone for anyway",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He tried to kill me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Ashton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Jesus!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "he found out his world isn't real. This is a mistake. Thi project, this experiment. We are screwing with people's l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Now you're talking crazy. I know you just had a bad fucki",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Bad fucking trip? These people are real. They are as real and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Yeah, that's because we designed them that way.  In the e they're just a bunch of electronic circuits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I tell you something else. I'm shutting this bad fucking right down.  I'm telling everybody tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "You can't do that. You're talking about 6 years of our li All of us.  You can't just pull the plug and go home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm looking for Jane Fuller. Receptionist I'm sorry, she's no longer with us. McBAIN the lady vanished. Any idea where to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Why would I? McBAIN Hannon Fuller doesn't have a daughter. I think I made the mistake.  \"Never trust a beautiful woman.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Who is she, then? McBAIN We don't know. It took us a couple days to contact the Fr authorities.  Guess what? They never heard of her either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Do you remember me? Miss Fuller checked out.  Did you dri anywhere? I'm looking for her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "No can do. Company rules. EXT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Hello! My name's Douglas hall. I'm looking for a young wo named Jane Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "I think you picked the wrong house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Maybe she's going under another name. She's about 5'8\". B hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "What do you want from her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Excuse me, I'm looking for Natasha Molinaro.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARK",
+          "text": "Over there on register 4.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "$7.01 Just slide it through. Want cash back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "Why don't you take a picture? It'll last longer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Must be deja vu or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "Paper or plastic?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "plastic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "there you go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "Mr. Hall. You forgot your credit card.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "No problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Sorry about staring at you in there. You must get that a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "Yeah,  but mostly from the wrong kinds of guys. You're no here, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What makes you ask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "Well, it's just I don't know I just had this funny feelin we met before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Maybe in another life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "yeah, I guess that would explain it. Anyway, I got to get my daily grind, so. Maybe I'll see you around sometime.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATASHA",
+          "text": "7.28 Out of 10. Here's your change. Thank you very much. McBAIN Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Natasha Molinaro.. 27 single. Changes job like other chan underwear. Came from Austin, Texas, made some money model Left school without a degree. Her roommate has no idea wh was doing yesterday or the day before. Looks like Molinar doesn't have an alibi. McBAIN What else did the roommate say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Says lately, Natasha hasn't been feeling well. She's been some sort of amnesia attacks. Going out all night sleepin day. Thought she was using drugs. McBAIN Did she have a history of drugs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Nope. She's clean. McBAIN Hey Bernie? Good work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "look, I can explain. I'm sorry. I need to see you Fuller'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I know the truth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Where are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "You could call it the end of the world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "How many simulated worlds like this are there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Thousands. Yours is the only one that ever created a simu within the simulation. Something we never expected.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "So you had to kill Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "No. I was sent in after his death. I was to pretend to be daughter, inherit the company. And shut it down. But he t us. He changed his will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "If you didn't kill Fuller. Who did?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I stabbed him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "But it wasn't you. It was your user. He downloaded into y Manipulated you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Like a puppet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "A puppet doesn't have a soul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I can't have a soul any more than Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "But you do. Fuller did. That's I never expected that. We  programmed this world so no one in it could learn the tru you and Fuller did. Don't you see what that means?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "There's just one little flaw in your thesis.  None of thi real. You pull the plug. I disappear. And nothing I ever nothing I ever do will ever matter. Why don't you find my I'm sure he's a much better catch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I told you about my other life. I was referring to my hus He's your user.  He killed Fuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "I'm his program link. A reflection of his character profi fell in love with a decent man. But he ...something happe him. He began to use the simulation as his own personal  playground. Like Fuller with the girls. He made himself a and it corrupted him. he began to enjoy the killings. He abusive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "What do you mean? I'm  not even real. You can fall in lov dream.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "You're more real to me than anything I've ever known. EXT. STREET NIGHT Whitney  is in1937.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Nice driving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "There was something in the road and I had to swerve and I control.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "You drunk?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "I don't drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "License and registration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Look, I didn't jack in  I left it at home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Why don't you look in the glove box? Need a light?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Hey I got it. Here you go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "You ought to get this car looked at as soon as you can. I leaking oil.  That could be dangerous. Be a little more c huh?  You want to turn off the car and step out, please? the car, sir. Right now, please.  Open the trunk, please, Hands in the air. Step away from the trunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Check man, It's Douglas!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Back up! I said back the hell up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITNEY",
+          "text": "Hey, this is a joke.  (Whitney is hit by a car)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUARD",
+          "text": "Sorry to bother you, Mr. Hall, but Mr. Whitney's in the b and he is acting kind of strange.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Hold on, I'll be right down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "This is Jane Fuller. I need to speak with Detective McBai McBAIN You've got a lot of explaining to do.  Or should I say, \" Molinaro\"? INT. The 13th FLOOR",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "How are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "All these pictures, this is your world?  I never imagined could be so beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "How did you do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "...thing I remember, I was dumping Ferguson in the trunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "He jacked in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Who's Jack? Hey, what did you do to the world?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Turn it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Put it back. Don't do that! Put it back! What did I do? W you?  Look at this ! You're really a God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "No Ashton, I'm not really a God. I'm just like you.  Just of electricity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "It's all smoke and mirrors. Just like your world. We're n but a simulation on some computer. It's like a machine. L arcade game.  You've got your players and you put your ni This one pitches.  This one runs around the bases. Pre-  programmed movements generated by electrical energy.  We' improved on this model since then. The players can beat t out of and try to drown some other, which is always fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "But the letter said",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Everything was fake? The letter was meant for me.  Fuller talking about my world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "So what are you saying? You're saying there's another wor top of this one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "I don't understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Fuller found out about it. They killed him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "Why didn't they kill you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Maybe they will. Maybe that's why you're pointing a gun a I*m sorry, Ashton. We're stuck here. You and me. And the us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASHTON",
+          "text": "So this is where I was born.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "And this is where you die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "How much longer do you have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "10 minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Hi honey. I'm home. Did you miss me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "When did you download into him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "Obviously, not soon enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I was just doing my job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "Sure you were.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "He's shutting down the system, isn't he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "Aside from his devilish good looks, what's so special abo guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "He reminds me of you. The way you used to be. I'm still t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "I'm still the same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "No you're not. Why did you butcher those people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "Because it was fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "You've lost your mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "You're the one who's fucking sick! Falling in love with a simulation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I was just having some fun. Just like you did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "I think you're lying. Just remember, he's a part of me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "That's not true. It's okay. Just pretend you're fucking h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVID",
+          "text": "I guess I'm just jealous. McBAIN You're okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "What the hell took you so long? McBAIN How'd you know he7d try to kill you?  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I knew when he was planning to download. He's dead? McBAIN A bullet will do that to you. So, is somebody going to un now? Do me a favor, will you? When you get back to wherev come from just leave us alone down here, okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Where am I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Come, I'll show you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Jane, we're getting hungry!  Tell Regina we're waiting fo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Okay dad. My father Fuller was modeled after him.  There' many things I have to tell you about, Doug.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2331"
+    }
+  ]
+}

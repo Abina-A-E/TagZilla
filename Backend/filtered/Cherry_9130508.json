@@ -1,0 +1,5833 @@
+{
+  "movie_id": "MOV433",
+  "scenes": [
+    {
+      "location": "CHURCHYARD",
+      "time": "AFTERNOON",
+      "characters": [
+        "UNCLE ERNEST, (O.S.)",
+        "GOOD PLAY, DONALD",
+        "NO PROBLEM.",
+        "MENU MAN, (CONT'D)",
+        "DOG WOMAN",
+        "MAMMY, (O.S.)",
+        "MAN",
+        "RED",
+        "MALE VOICE, (O.S.)",
+        "MAN 4",
+        "COMPUTER",
+        "FADE OUT",
+        "DR KIRK",
+        "LEILA, (O.S.)",
+        "FADE TO BLACK",
+        "DARCY",
+        "CUSTOMER",
+        "ALL",
+        "FADE IN",
+        "LEILA, (CONT'D)",
+        "DONALD",
+        "LEILA",
+        "UNCLE ERNEST, (CONT'D)",
+        "CLERK",
+        "MOMMY AND DADDY",
+        "EVY, (CONT'D)",
+        "NURSE, (CONT'D)",
+        "DON'T CALL ME OLD.",
+        "PAXIL.",
+        "CU",
+        "WAITER",
+        "YOU",
+        "MAN 3, (CONT'D)",
+        "BOY",
+        "'F'",
+        "INT. LEILA'S LOFT-- MORNING",
+        "MAN, WOMAN, BIRTH, DEATH, INFINITY.",
+        "DARCY, (CONT'D)",
+        "MAN 2",
+        "PREACHER, (CONT'D)",
+        "DOTTIE AND DARCY",
+        "EDDIE, (O.S.)",
+        "MENU MAN, (O.S.)",
+        "EDDIE, (CONT'D)",
+        "DOTTIE",
+        "SLAPPY, (CONT'D)",
+        "EVY AND LEILA, (O.S.)",
+        "EVY",
+        "OMITTED",
+        "PREACHER",
+        "JACK",
+        "ANGRY VOICE, (V.O.)",
+        "FATHER OF GROOM",
+        "LEILA/EVY",
+        "MENU MAN",
+        "DISSOLVE TO",
+        "MAN 1",
+        "BEGIN CREDITS",
+        "FART",
+        "BARTENDER",
+        "MAN, (CONT'D)",
+        "DARCY, (O.S.)",
+        "MAMMY",
+        "SLAPPY",
+        "DR. KIRK, (O.S.)",
+        "COMPUTER, (CONT'D)",
+        "MAN 3",
+        "BLACK AND WHITE/DREAMY",
+        "LEILA/KIRK",
+        "CUT TO",
+        "EDDIE",
+        "DR. KIRK, (CONT'D)",
+        "GINGERBREAD MAN",
+        "EVY, (O.S.)",
+        "DR. KIRK",
+        "MAMMY, (CONT'D)",
+        "VOICE, (O.S.)",
+        "DOTTIE, (O.S.)",
+        "NURSE",
+        "MOTHER OF GROOM",
+        "WHAT",
+        "UNCLE ERNEST",
+        "MAN 5",
+        "EXT/INT. LEILA'S LOFT"
+      ],
+      "dialogues": [
+        {
+          "speaker": "CU",
+          "text": "Three people, one after the other, rush by in a blur.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A stiff WIND.  A BRIDE angrily drags her ass out of a chu Trees bend their bare, twisted limbs as if to lynch her: The men--tall, aristocratic UNCLE ERNEST and MAMMY, his g",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Well, his note claims he's ... dead. A scowling Ernest rips it out of his hand. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(beat) But he signed it, right? The answer's written on Mammy's sympathetic face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (CONT'D)",
+          "text": "And he dotted the \"I\" in his name with a little happy fac Can't argue with the facts. From ABOVE we see the young bride.  Her uncles stand arou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "On my parents' grave, before God, never again will I let Uncle Ernest steps forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Nonsense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'll die first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "You'll go to Harvard first. The camera WIDENS to reveal a trail of clothes leading do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BEGIN CREDITS",
+          "text": "In total darkness we HEAR the sound of a hand slamming do Turn around to find Leila, now 29 years old, and still so",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "'Morning, Paxil. She pulls the Post-It off his head and reads it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "\"Brunch.\"  Okay, boy.  Okay.   Leila sits on the side of the bed, rubs her eyes, and the Paxil sits attentively on the bed while we HEAR Leila bru",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (O.S.)",
+          "text": "You want to go to the park later? Paxil BARKS his approval, as Leila returns, pets his head",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Good boy. Her LOFT is a bit of a shambles: books everywhere, lots o Leila slaps the Post-It next to another on the fridge tha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (O.S.)",
+          "text": "Hey, it's me.  Saturday night.  Around...10:30, I think. Leila walks towards the bedroom to change.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "With Paxil in tow, Leila heads out. There are delivery me",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A few more menus are littered on the outside stoop, and a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila drags a somewhat reluctant Paxil up the steps of an",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The door opens on Mammy's generous face.  He's eleven yea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Hello, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Hi, Mammy. After a big hug, Mammy leads them inside.  He is wearing They walk into the living room of a beautifully appointed",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "(to Mammy) How is he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I hate that.  I'm right here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(smiling) I know you are. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I'm not dead yet.  I still have...relations. Ernest notices the dog cowering behind Leila.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (CONT'D)",
+          "text": "And I don't recall inviting YOU to brunch.  (beat) In civilized countries you would BE brunch. Paxil makes himself even smaller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I promised him a walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "We all know how seriously you take your promises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Don't start, Ernest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Who's starting? Leila comes to peek over his shoulder, as Mammy heads to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(childlike) What do you do exactly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I push the little beans around on the little table until",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You're quite a grouchy Uncle, aren't you? Leila produces a bag of fresh coffee beans from Zabar's a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eggs Benedict and Bolivian coffee for all.  Mammy enters",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "So where's the other one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Um. (mid-chew) She and Donald are doing something...wedding related.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Ah, yes.  The Donald.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "He's a very nice boy.  Good family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Dumb as toast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "(scolding) He's about to be our son-in-law.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Still a chowderhead.  Must be great in the sheets.  Off Mammy's scandalized look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (CONT'D)",
+          "text": "What?  Like you both haven't thought the same thing. (to Leila) -- well, you probably haven't, -- (to Mammy) But I know you have. Mammy energetically clears his plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "You are a vile and rude old man. Ernest yells out after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila sits alone on a bench reading The New York Times, w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Listen to this: \"Researchers announced that male dogs rai (Leila looks down sympathetically) That's so sad.  Paxil looks up, troubled.  A rubber kick-ball rolls over",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE, (O.S.)",
+          "text": "Yours? A startled Leila looks up as a MAN joins her on the bench",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Me, uh, no. (indicating Paxil) Mine. Paxil. Regards the dog. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Very...fuzzy head.  There is an awkward pause as the Man beats himself up ove",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(being polite) Yours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "My sister's.  I borrow her on Sundays. Silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN, (CONT'D)",
+          "text": "The closest my wife and I got was two canaries and a hams (long beat, sadly) She kept the hamster. (beat) Freddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I actually...don't do this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "The...talking to you part.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You seem very nice and everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "But I think it's better this way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Of course.  They resume their non-talking.  After a bit...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN, (CONT'D)",
+          "text": "She's a lesbian now, my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "(smiles) No.  I'm just bitter.  She's actually with some giant guy Leila indulges him with a slight smile.  More silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN, (CONT'D)",
+          "text": "We, uh, were just about to leave.  I don't suppose you wo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I wouldn't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "You would?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No. I just wondered why you thought I wouldn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "So you won't. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm actually pretty busy.  Not now, of course, but -- wel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Sure. The disappointed man heads off towards his niece. After a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN, (CONT'D)",
+          "text": "So why'd you name your dog after an anti-depressant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Look at him! He gives her a puzzled look, the dog gives him a puzzled",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila stirs a pot of macaroni and cheese, while talking o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No, I'm not trying to sell you anything...I understand th She pulls the phone away from her ear, and looks at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As before, except Leila is now seated.  The CAMERA takes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (O.S.)",
+          "text": "Mrs. Barrows?  My name is Leila Sweet.  You mistakenly ca Leila leans back in her seat and sighs.  She notices a fr INSERT: two pensive little girls sitting on the Alice in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PULL OUT from Leila, as a young girl, sitting next to Evy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOMMY AND DADDY",
+          "text": "There was a farmer had a dog and Bingo was his name-o.  (turning to the girls) We can't hear you... CU: little Evy and Leila, mouthing the words through thei",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALL",
+          "text": "B-I-N-G-O, B-I-N-G-O, B-I-N-G-O, and Bingo was his name-- As the car passes out of frame we hear the SCREECH of tir The CAMERA finds a billboard welcoming visitors to the sp",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU Leila's face as she remembers.  Widen to show the phon She slaps it on the refrigerator next to the others, and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to Paxil) C'mon boy.   As they exit, we move in on the note: \"HAVE A CHILD\". ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila again scoops up an unwanted pile of delivery menus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy digs into her bagel and lox.  Leila toys with biscott",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Can I ask you something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Shoot. Leila begins to speak and then notices something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Is that my shirt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Oh, yeah.  How does it look?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It looks like...my shirt!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Sorry.  I was all out. (beat) Is that what you wanted to ask me? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No.   (beat) Look. we both had the same odd, orphaned upbringing, righ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Emphasis on \"odd\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So how come I dysfunctioned and you didn't? Evy doesn't look up from her breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Sex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I thought that might be it.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Uh, huh. Beat. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well, I've decided to have some. Evy's eyes go wide. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Oh, god.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Actually, I NEED to have some.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Oh, God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I want to have a child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "But...why? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm going to ask you some questions and you have to answe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Waiter! A waiter approaches the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Like, what exactly does it mean to be, you know, \"good in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "Naked and peppy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "She's not asking you.  Go away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "You called me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Oh, right.  I'll have a really huge Bloody Mary.  Hold th The waiter glances at his watch.  It's ten in the morning",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "(to Leila) And for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Am I the kind of person you would have sex with?  You kno",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITER",
+          "text": "(to Evy) This a trick question, right?. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Tell you what.  Skip the drink.  We'll take a check.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You didn't finish your food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy and Leila skate side by side and talk about Leila's s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "This is not a pretty mental picture?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Gee, thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "'Cause you know, it's one thing to talk about, another to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(sternly) Maybe that's because you're trying too hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(still thinking) No, really.  I can't even get your clothes off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Leila walks on as Evy follows. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Okay, sorry.  It's just funny, Leila.  I mean, for ten ye",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Just the part that gets you pregnant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "That's the last chapter.  First you've got dinner, drinks Leila makes a face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "When that gets old, you marry one of them.  Say, in my ca (pointedly) ...next Saturday. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Could we back up a bit?  Like to \"hello\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "This is really basic stuff, Leila.  I mean like \"Girl 101",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I guess I missed class.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Well, then, let's see.  Okay.  You know there are working",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(deadpan) The penace. The girls share a smile as they walk on, away from the ca",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Why don't I find you a professional.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ESTABLISHING SHOT of the luncheonette-type shop directly",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two WAITRESSES (late teens) sit in a booth, slacking.  DA Leila plods in and looks back out the window towards the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Nellie's Deli is killing us. Darcy discreetly hides the Nellie's Deli cappuccino she h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Bummer. With trepidation, Dottie turns over a card.  Darcy squint",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "The Ten of Rods!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Looks like the bartender at \"Vivisection\".  (off Dottie's shocked look) What?  Leila goes behind the counter and brings the coffee pot f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(prompting) 'Good morning, Boss.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE AND DARCY",
+          "text": "(rote, sing-song) Good morning, Boss. Darcy tries the cream pitcher.  It's empty.  She hands it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Remind me to nominate you employee of the month. Leila heads towards the kitchen. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "'Remind' you?  Isn't that what's it's job?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Post-It's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Prozac's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAXIL.",
+          "text": "Darcy calls out after her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Oh, your sister called.  Who's Beverly Kirk? Leila comes out with a tray of fresh muffins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I don't know.  Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Because you got an appointment with her in, like, ten min An exasperated Leila rushes to put the muffins out.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY, (CONT'D)",
+          "text": "Shrink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "The hole in your stomach? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "\"Ulcer,\" Dottie.  And no. The girls continue to stare. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "She's an OB/GYN.  Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Ah, that hole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "There could be customers, Darcy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(innocently) He usually doesn't come until three. Leila takes a deep breath as she approaches their booth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Look, girls.  You may as well know, since it could impact (finger quotes) \"Work\" lives:  I've decided to have...a child.  The girls look at each other in wide-eyed wonder. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "WHAT?!  Am I so repulsive? They can't stop staring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "But, Leila, you're sort of a virgin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Yes, Dottie, I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Maybe we should have a long talk when you get back. Leila looks at Darcy's orange hair and belly-button ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "That's just...too scary.  Leila walks to the front of the shop for her coat.  The g",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Can I get you anything else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I may not be back in time to serve you your lunch. Leila leaves quickly.  Darcy pushes away her mug of coffe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "The real hole's in her heart... She's like one of those r",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "You don't know the word 'donut'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(shrugging) Pardon me for not taking \"Food\" at Haavaard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INSERT: on a plaque which reads \"DR. BEVERLY KIRK, OB-GYN Leila stands outside the office door, gathering her coura",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila is writing the great American novel on the medical",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Make sure you lose the panties. Leila cringes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "You're not wearing panties?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I am wearing 'underwear.' You don't see men wearing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Panties?  Maybe in a perfect world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Fine.  (looking over her chart) Job?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "(tapping the chart with her pen) Occupation? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(with dignity) I run a muffin shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Gee.  That's what I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Panties.  Muffins ... Anything else we need to worry abou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I find it offensive, so naturally I don't say it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Oh, goodie.  What's it begin with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(hesitating)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "(pretending to make a chart entry) \"Panties\", \"Muffin\"...and \"Fuck\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No ... I rather like 'fuck.' At least it's in the Oxford",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "(wincing) You had to look it up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Shouldn't I be getting undressed? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Oh sure.  The doctor will be beating the door down any mi Leaving:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE, (CONT'D)",
+          "text": "How many letters that 'f' word have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(reluctant) Four. Pondering, Nurse leaves.  Leila looks around.  On one wal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila is now wearing the blue robe, sitting on the exam t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Holding the back of the blue gown closed over her beautif",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila, her face resting in a stirrup, sleeping.  A White",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(looking down) Sorry.  That's why there's no clock in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(extending a glove) I'm Dr...Kirk. They look at each other in astonishment.  Not only are hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(dazed) As in... 'Beverly'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(equally dazed) Yes, well.  My mother claims it's British. Couldn't be more awkward. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "This really is quite the horrifying coincidence.  I could Fighting closed the back of her examination gown. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Thank you.  That won't be necessary...Horrifying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Not, of course, what I meant at all.  Embarrassing is wha She looks down at her gown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I thought they were supposed to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Not...here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Should I turn it around?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(uncomfortable smile) We'll manage.  He looks over her overly long chart, fumbles it.  He's a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "(after several pages, finally cutting to the chase) So.  You'd like to start a family.  That's lovely.   (beat) And I noticed you answered the sex question... 'No.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Yes. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(gently) But, of course, gender isn't a Yes or No question...well,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I was trying to be helpful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I see. He studies her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "And how long have you and your ... partner been trying to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I ... don't have a donor.   (beat) As yet. Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Artificial insemination?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(primly) No thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Right.   (beat) I tell you what.  Let's start with a routine exam, and th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "All of them? He looks up in response, only to be distracted by the new",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Sorry.  I was bored. For Dr. Kirk, what she's written is apparently so fraught",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "It can be erased.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "You wrote this? ... It's...It's... Words fail him.  He's completely floored.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's from Ben Casey.  Not even a real doctor.  Not even a Not to Dr. Kirk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "There used to be symbols... He takes the Magic Marker and draws the symbols for Man a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I can't remember the one for 'Birth.' Kirk wracks his brain for the answer, while Leila waits p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Um, Doctor...? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "(snapping out of it) Yes, of course.  Sorry. He goes to her, gingerly pulls down the gown, puts a stet",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I'm having trouble finding... ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Your ears are on your... Points to his neck.  With dignity, Dr. Kirk fixes his ste",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Quite right.  He pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "Would you be more comfortable if the nurse were present?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "NO!  No, thank you. She is definitely stealing a look back at him as he again",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Darcy rests in a booth painting her nails black while Dot",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "What did she say? Leila moves back and forth behind the counter, straighten",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "The doctor was a Man named 'Beverly.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "That must have been a big hit in the school yard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He was soft-spoken and kind.  Naturally,  I didn't know h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Was he single? Leila cleans up the sugar that Dottie spills at every sta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(appalled) How should I know?  He's a doctor, not a dating service. (off their stares) Yes, he's single.  Okay? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Aren't you leaving something out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What?  I went to the doctor.  I bought a kit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "I hope it includes a DICK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Good Lord, Darcy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Leila, you haven't even had a date like this whole decade",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You're counting...? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "You need to have sex to have a child, Leila...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "...unless this cloning thing takes off...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Thank you both for your interest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "And even if you pay for it, you need a date to have sex. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I don't want to talk about this anymore.  It's private. Leila goes to the kitchen to get a trash bag.  She peeks",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Go back to your coven.  A MAN (30's)enters the shop.  He's wearing a baseball cap",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Yuk.  It's the Customer. Dottie sighs and walks behind the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(pouring his coffee, cheerful) Welcome to Sweet's Muffin Shop.  Would you like to hear a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "What's YOUR problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Leila wants us to be nicer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "All right, Dottie.  Let me hear a list of your muffins to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Cranberry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "I'll have one of those.  The Customer removes his leather jacket.  There's a flesh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(dumbfounded by patch) What happened?  You get shot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "It's a nicotine patch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(disgusted) Like you don't get enough from smoking. Customer shakes his head in amazement, as Leila crosses. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "Hey, Leila. Barely a glance, as Leila shovels uneaten muffins into th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Hello. Leila grabs her coat and drags the bag towards the side d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "See you tomorrow, Dottie.  Will you lock up? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "You want to come out with us tonight?  We're gonna get ta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Thank you.  I already have...plans.  She hurries out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "All I said was \"hey\".  (mopey) It's like I'm invisible. Dottie and Darcy look at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Music cue starts.  Dr. Kirk stands at an easel in his off",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CRANE UP from Dottie and Darcy locking up the shop to Lei",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A deserted corner of a seedy street.  A RUSTY BLUE CHEVRO",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila steps out of her bathroom and reads the results of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The nurse enters the now empty office.  She angrily tears",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila approaches the brownstone and heads up the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila enters the library.  An open laptop sits on the eta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(looking around) Mammy?  Uncle Ernest? A voice from another room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY, (O.S.)",
+          "text": "We're in the bath, dear.  Won't be a sec. Leila sits by the computer, scared of it.  She touches th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Welcome to the Web.  Do you wish to browse?  Press \"Y\" or Leila starts.  The computer is talking to her in a slight",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER, (CONT'D)",
+          "text": "Do you wish to access a conference on the subject of your Leila presses \"Y\".  A bulletin board of topics currently",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER, (CONT'D)",
+          "text": "If you are unable to select a topic, would you like assis Leila presses \"Y\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER, (CONT'D)",
+          "text": "Do you have an interest in gardening,  politics, film, mu Leila stares at the screen in horror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER, (CONT'D)",
+          "text": "(with attitude) Do you have an interest? No response.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER, (CONT'D)",
+          "text": "(more attitude) Do you have a problem? No response.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER, (CONT'D)",
+          "text": "(almost mad) What's wrong with you? Leila abruptly closes the lid of the laptop -- which then Mammy and Ernest approach from behind in robes that refle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "I'm sorry, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to Ernest) That thing yelled at me. Ernest grumbles his way to turn off the beeping computer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Can't imagine why.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "(trying to avoid a potential situation) Honey, can I fix you a snack?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No thanks, Mammy.  I should go to work soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Hah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "(warning) Ernest. Mammy heads for the kitchen. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "The word just comes out of her mouth funny. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to Mammy) I saw Evy yesterday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "And how is your sister?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "She's working on another fish story for the magazine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "One uses the Ivy League education I paid for to write abo Mammy returns with milk and cookies, to Leila's dismay. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I think she's getting cold feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Perfectly natural.  Which reminds me.  We absolutely must Mammy searches in the sideboard drawer for a tape measure",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Please... not today, Mammy. Mammy starts measuring Leila's hips, her waist, her bust.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I understand you've got a new doctor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Are there any secrets in this family?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "How did you find him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Evy found him. (to Mammy) I'm a size six, OK? Mammy measures the distance from the nape of Leila's neck",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "So far, except for the rise, the exact same as Evy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Mammy, I'm four inches taller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "That's okay. Now let me just measure your rise...for the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "(wounded) Fine.  Provide your own panties.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I know how you found the doctor, but how did you find him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Competent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Bullshit.  He's a hunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "How would you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(indicating computer) Evy E-mailed his file.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "If you can't give it up for a cute, single doctor -- I'll",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "He's not trying to pressure you, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Yes I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Let me remind you all, I am not marriage-minded.  I hate",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "No, you don't.  You were a beautiful bride. Horrified at his own indiscretion, Mammy puts his hand ov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "WHAT!?  You can say it.  I was dumped at the altar.  Stoo The two uncles stare at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Immaculately?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Vaginally. (beat) As soon as I can figure out how.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Not another dime to Harvard, Mammy.  Hear me?  Not one re",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU: Leila's face as she looks on with fascination and hor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY, (O.S.)",
+          "text": "The worst thing you can do is cozy it in there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY, (O.S.)",
+          "text": "When I say push, push hard.  And don't freak out if there",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE, (O.S.)",
+          "text": "Won't it hurt?  TURN AROUND to reveal Darcy, covered in a barber's smock,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Only for a second.  Just make sure you get all the way th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Got it. Leila shudders and looks back down at something she's bee",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUSTOMER",
+          "text": "Have you got any cream?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Check the fridge. Customer walks to the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "We're out. Customer makes a u-turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY, (CONT'D)",
+          "text": "OK.  Ready?  One, two, three, GO! Dottie closes her eyes and pushes the needle through Darc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY, (CONT'D)",
+          "text": "Ohhh!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Gross!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Good.  Now just leave it there for a minute or two until Leila looks up from her papers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Tell me if you think I've got this right. (reading) \"Attractive, intelligent, self-employed woman, not-thirty Leila looks up.  The girls, one with a needle through her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A line of men stretches from the door down the stairs, fo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU of a primping, Italian, God's-gift-to-women type.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 1",
+          "text": "So the deal is, I put the doggie in the pound for ya -- a (off an unseen nod) I'm in. Evy sits across the table from prospective candidates.  W",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "You mentioned in your questionnaire that you had four chi Turn around on...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 2",
+          "text": "Oh, as \"in touch\" as the next guy, I suppose.  You know t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "So your wife has custody? Blank stare from Man 2.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "You know, custody?  Divorce?  You are divorced? Blank stare from Man 2.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 3",
+          "text": "I almost didn't come over.  The whole thing seemed so, I Evy looks up at Mr. Perfect and then, hopefully, across a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 3, (CONT'D)",
+          "text": "I thought maybe, I had been chosen to help.  That the Vir",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 4",
+          "text": "I'm just really horny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man 5 is on the television monitor in Leila's bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 5",
+          "text": "Truth is, ma'am, I'm hangin' fat and low.  Wanna see? OFF-CAMERA VOICES, Evy and Leila.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY AND LEILA, (O.S.)",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 5",
+          "text": "And I do not shoot blanks.    (confidentially) Full metal jacket. Man 5 drops his two front teeth for emphasis, and winks. Fast forward on the tape.  Stop on WOMAN 1, a lesbian.  F",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (O.S.)",
+          "text": "Do you speak English?   (beat) Do you speak at all?   Man 7 sits with a shit-eating grin. Pull back on Leila, disgusted, as she turns off the tape",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila walks out to the kitchen for a glass of milk.  She Her intercom BUZZES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(into intercom) I'm sorry -- no more men.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MALE VOICE, (O.S.)",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No interviews.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MALE VOICE, (O.S.)",
+          "text": "Don't want one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Who are you? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MALE VOICE, (O.S.)",
+          "text": "Slappy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well -- I didn't order anything.  And stop leaving menus!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MALE VOICE, (O.S.)",
+          "text": "Not food, \"Slappy\"!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What's \"Slappy\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MALE VOICE, (O.S.)",
+          "text": "Look out your window. Leila goes tentatively to her window, opens it and looks POV Leila:  a grown man with a red wig, a bulbous nose, a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What are you supposed to be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY",
+          "text": "Whaddya mean, what?  I'm Slappy the Clown! She gives an exaggerated shrug.  He blasts his big HORN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY, (CONT'D)",
+          "text": "Nothing ringing a bell? He squirts water from his lapel.  She shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY, (CONT'D)",
+          "text": "Come on...you were a kid once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Not everyone knows who you are Mr. Narcissistic Bad Dress",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY",
+          "text": "What kind of childhood did you have that you don't know S",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I heard of him.  I thought he was cuter. (beat) And I don't like your name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY",
+          "text": "Yeah, well, all the good ones are trademarked.  Slappy produces a bouquet of paper flowers from his sleev",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY, (CONT'D)",
+          "text": "I brought you these.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Don't you frighten the children?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY",
+          "text": "I just wanted to thank you for referring all those calls A window opens on the floor below Leila's.  A man leans o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Hey you, Tickles.  Fuck off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY",
+          "text": "It's Slappy, pal. And eat me.  The man's window slams shut.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLAPPY, (CONT'D)",
+          "text": "(to Leila) So...well, thanks.  Go back to your...whatever you were d Slappy is about to say something else, decides against it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila starts to close the window when she sees Menu Man w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU -- Bottom of the outer door to Leila's building.  A bu With her free hand Leila reaches up and pushes open the d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN, (O.S.)",
+          "text": "Ow. Leila looks through the door and sees Menu Man hopping ar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN, (CONT'D)",
+          "text": "Get away from me, lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm sorry.  I just...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "What? In the light, Leila can't help noticing that she has bean",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I just don't want any menus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Did I ask you if you wanted any menus, lady?  I didn't as",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well, I don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Good.  Because I don't want to crawl around like a reptil",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(innocently) I'm really sorry about that.  It was an accident.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Accident?  Lady, you hit me in the head with a door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Oh, don't be so dramatic.  I barely bumped you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "You took aim!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Did not. Menu Man pulls open the door. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Put your head by the door, here.  Let me give you a littl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Do you want some ice for that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "I want to know what you were doing in your pajamas on the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(defensively) Oh, poor you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Damn right, poor me.  If I don't hand these out, I don't",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well, if you had bothered to read my sign, none of this w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "I read your sign.  I ignored it.  That's how I make money",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Which is another thing.  Aren't you a bit ... attractive",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "What's that supposed to mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Nothing.  Except you could be, like... a supermodel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Then I definitely couldn't eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "That was a joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "You do? Beat. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So what do you want to be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "According to my MFA, I am a poet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(brightening) Really?  I love poetry.  Say one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "What am I. A jukebox?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "C'mon.  It'll be fun. Leila starts to chase him down the steps when she notices",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "We can go have coffee and muffins. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Do you think I need a date?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The abandoned Boy and Girl rest on an embankment over tra",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Through the window, we can see Leila and the Menu Man in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU:  Lots of different symbols, drawn, and then scratched Darcy studies the drawing which lies on the front table,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Dottie, that's so sad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Not only can't you say \"donut\" -- you can barely draw one",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(indignant) That's not mine.  And it wasn't here last night. Darcy shushes her when she notices Leila and the Menu Man They attempt to pick up a dreadlock to get a better look",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What're you looking at?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Oh.  Yes.  He's quite remarkably handsome.  But he doesn'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "After all these years, how'd you ...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He's a friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "She means how'd you find a friend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "On the street -- he's a starving artist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "That explains the donut. Leila stands, looking as dignified as she can in her paja",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's not a donut, and I have to take it somewhere.  When",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Don't worry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "And then, you know, show him the ropes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Uh, what ropes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "The ropes around here.  I promised him a job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "We don't have ropes around here, Leila.  If we did, we'd",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What you do.  Do you think he can handle it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila has a stare-down with a mean looking ten year old b Nurse looks up, barely containing her glee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "The Doctor will see you now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Menu Man pokes at the muffin in front of him and eyes it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "We're supposed to tell you what to do around here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "I'm listening. Menu Man walks behind the counter to the kitchen.  The gi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "As you can see, business is not an issue.  But there is s (beat) That would be the Boss. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "You have to tell her about the birds and the bees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Or barring that, how to get boned.  He begins to gather pots, pans and ingredients from the s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Consider it done. The girls exchange a look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "You did her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "She's been clued.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Right here? Menu Man begins to make himself a fabulous-looking omelet",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "(enjoying himself) Right here.  Six hours of good, hard, honest...talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Wuz that a slam?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "She was a bit confused about \"penis\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Who isn't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Straight up?  You guys make the worst muffins I've ever t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "The Customer likes them. They look in the Customer's direction.  He's slumped over",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kirk opens the door to find Leila standing there.  She's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I don't have an appointment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Please.  Come in. He ushers her into his office, and gives her a hand towel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I apologize about Timmy.  He's mad at his mother for bein",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(looking at her wet clothes) Me too. Leila hands Kirk the cardboard symbol, now dripping and l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Here, it's...birth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "You found it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm sorry it's so messy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Usually is. Kirk delicately transports the wet card towards the easel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "Circles.  I don't remember circles.  He erases the \"?\" next to \"Birth\" on his reworked design,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "So...  Still doesn't look right.  He crosses to his desk and pic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "I've got your exam results back and everything looks...no",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(cheerfully) I'm normal? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Well, not \"normal\" -- that sounds like \"average\" -- which (beat) If you want to. (beat) Would you like a grapefruit juice? Kirk tries to calm himself down.  Leila shakes her head a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Ulcer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Ulcer.  Yes.  You mentioned that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You have read my chart then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I'm nearly through it.  You have wonderful penmanship.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I suppose I was a little...thorough. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "No.  No.  I learned you have very good... teeth. (adding quickly) Not that it matters to me, of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Good thing you're not my dentist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "And that you had a fine education.  Which you used to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(with dignity) Proprietor.  Muffins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(getting worked up) And that your height and weight are perfect, not to menti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Oh, and your heart.  You have a good one -- I mean, I hea Kirk braves an uncertain glance at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "Would you go out with me? Decidedly pregnant pause. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I really can't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "Of course not.  I'm sorry. Kirk looks like he wants to crawl in a hole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No.  It's just that I had a date once.  A wedding date.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "I shouldn't have asked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's okay.  But I made this vow never to do that again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "\"That\" being me, specifically?  Just to be clear? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Exactly.  No.  I mean, I don't, \"go out\" with anyone.  No",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "Intercourse? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You got pretty far in my chart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Sorry.  If there were scissors present, Kirk would cut out his to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I was actually referring to love and marriage.  Those two Kirk's eyes go wide.  Dare he dream?  The nurse, as usual",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "That's not birth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA/KIRK",
+          "text": "What!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Birth's not a donut.  It's an upside-down triangle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Your source?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "The Web.  Yours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "A...poet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "I think we have a loser.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Thank you, Jean. Nurse puts some files on the table by the door and exits",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(suddenly self-conscious) I should go now.  Timmy's probably out there...squirting Leila rushes out.  Kirk looks perplexed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila heads through the waiting room on her way out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FART",
+          "text": "Leila freezes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE, (CONT'D)",
+          "text": "That's it, isn't it?  The \"F\" word.  Fart.  FART.  FART. Where's that door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The abandoned Boy and Girl, both exhausted, descend the s The CAMERA finds the dog lying in the street, just before",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dr. Kirk strolls under the street lamps of a deserted New A YOUNG COUPLE hops out.  They're beautifully dressed and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOG WOMAN",
+          "text": "Not without the children! She dives back into the limo and returns holding FIVE STU",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(calling out) Wait.   Dr. Kirk waits for the woman to spin back around, but the Dr. Kirk looks back and forth between the dog and the res He sets the mutt next to the door, so it can be found by",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "Tough break, pooch.  The others are ordering steak. He begins to walk away, but turns to look back at the dog He stands there for an inordinately long time--wrestling",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The place is mostly empty.  Dr. Kirk puts the dog on the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "(after a suitable silence) What's with the guard dog?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "He wasn't as...pretty as the collies.  So they dumped him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Who dumped him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "His rich, indifferent owners.  Didn't even know he was go (looking up) Some people shouldn't have dogs and others, who truly des",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Like for instance...? Dr. Kirk has to think about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "...orphans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Okay.  Orphans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Orphans do not have beautiful dogs with bows on their hea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "What about Annie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "She's an exception. (beat) And she's a cartoon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "So what are you having? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "What's good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "What's 'good'?  Gee, scotch is good.  Vodka.  Gin is inte",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Sorry.  I don't know that much about drinking.  I guess I The bartender stares at him with a bottle in each hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy lets herself in with a key. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Hello?  Leila? No answer.  Evy unloads a shopping bag of goodies in Leila's kitchen:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "Hi, Postum. Paxil stands on his hind legs.  Evy scoops a few oysters",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "They're oysters.  You'll like 'em.  The phone rings.  Evy answers on the portable and heads f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "Hello?  Hello? (long beat) You have the wrong number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy enters still on the phone, and fishes around in Leila",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "I said, you have the wrong number. (beat) OK.  What kind of clown do you want. (beat) Nope, sorry.  He died in a freak piГ±ata accident.  But t She hangs up, stuffs the scarf she has snared into her ba",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy puts the phone down, writes \"I fed myself\" on a Post-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy enters the muffin shop, not particularly surprised to Customer is unusually perky, as he devours an actual lunc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Where'd he get...food? Dottie motions toward the kitchen where Menu Man kneads a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "Who's he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "A stray.  Leila adopted him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(to Menu Man) Hey, who are you? Menu Man looks up, biceps rippling, chest hair glistening",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Strictly \"need-to-know\" basis. Her peek at Menu Man says \"Mysterious AND Cute\".  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(to girls) Have you guys seen Leila?  She's not upstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Tight ship, as always.  This place is like the Microsoft Dottie beams until a glance from Darcy lets her know that",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "(to Darcy) Nice 'do. Rack focus past the dripping Darcy to Menu Man.  A seriou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mammy ducks his head in the refrigerator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "You're skin and bones.  I'm making you a Tin Roof. Leila sits on a stool at the kitchen \"island\".  Mammy pul",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY, (CONT'D)",
+          "text": "It's your Uncle's favorite.  Every bite could kill him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Mammy, you're kind of like a woman, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "It's a good thing I love you, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No, you know what I mean.  You're...softer than Uncle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Thank you, sweetie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You still have sex with him, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "You are aware that normal people don't talk like this? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well, when you do, does a big bell go off or something, b Mammy kisses the top of her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "It's just in a different key, dear.  Wait for the right s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They take their sundaes into the living room, where Uncle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(jokingly, to Mammy) So how is he, really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(without looking up) Funny. Leila plops down next to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I hired somebody new at the muffin shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Bankruptcy lawyer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "More of a poet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Really, dear, a poet?  What kind?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "What kind?  There are no kinds.  There are good ones and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "There are rich ones and poor ones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Name a rich one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Alright, there are dead ones and live ones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "All the dead ones are good ones.  Plus I expect my niece (to Leila) He is alive, isn't he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He's poor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "There.  Case closed. (of Mammy's Tin Roof) Did you ever think that I might want one of those? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PAN past Leila as she reads to her dozing Uncles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "...Concern about an overheating economy and inflationary",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "measures, economists warn that the stock market is likely Ernest is sound asleep, Mammy tucked in against his shoul",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila drags herself in, dog-tired and reading her mail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Paxil, you fed yourself.  What a great dog. Leila hits the playback on her answering machine as she s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY VOICE, (V.O.)",
+          "text": "You may think your little crack about the piГ±ata acciden As Leila stares at the phone, a voice comes from the stre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE, (O.S.)",
+          "text": "Hello?  Hello?  Are you there? Leila crosses to the window and looks down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's the Gingerbread Man, carrying a shopping bag. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINGERBREAD MAN",
+          "text": "It's me.  Slappy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You're not Slappy.  He's got...a face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINGERBREAD MAN",
+          "text": "Okay, so I'm -- the Gingerbread Man.  Look.  Do you think",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINGERBREAD MAN",
+          "text": "Why do I want to, or why should you let me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well, both.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINGERBREAD MAN",
+          "text": "I want to because it's late, and this is New York, and ap A familiar face leans out an upstairs window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Hey you.  Ginger Snap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Fuck off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINGERBREAD MAN",
+          "text": "O-kay  (to Leila) And...you should let me because...because I'm a cookie, f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Do you have a business card?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila holds the card.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINGERBREAD MAN",
+          "text": "(pointing to the card) Eddie.  Head clown. Paxil comes up for a sniff. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Paxil.  Head dog.   (beat) I'm Leila.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Like the song?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "There's a song? Eddie shakes his head and motions towards the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Do you think I could, uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Oh sure, help yourself.   Eddie heads off with his shopping bag. Leila sniffs at the odd stuff in the dog's food bowl.  Sh Leila hides the magazines behind her back with one hand a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(eyeing Leila's bowl) What're you having? Leila shoves it aside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I changed my mind.  Would you, uh, like...anything?  At a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Do you have anything along the lines of...Tequila.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "There's a bottle of scotch, but it's ten years old.  And A disarming smile from Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Nothing. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(re- cupboard) It's up there. Leila stashes the pornos as he retrieves the bottle -- ve",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Looks like you could use some too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I haven't had any since I was eighteen.  Alcohol.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Twelve steps?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Three.  I got dumped.  I got depressed.  I drank a gallon (flustered) For it.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "What kind of peckerhead would dump a babe like you?  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I bet you say that to all the girls. Leila bolts her drink. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila sits very still, a spoon hanging precariously from",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Uh, Luxembourg. Eddie sits very still, a spoon hanging precariously from",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "G-Gabon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "\"N\".  Okay, Nepal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Lesotho. Leila raises her eyebrows.  That was a good one.  She thi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "\"O\".  There aren't any \"o\"s. Eddie hands her a shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Drink up. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Wait.  Okinawa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Not a country.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(pouty) I know.  I thought you wouldn't. She takes the spoon off her nose. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "That's another shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No fair.  You've done this before. Leila downs her drink and watches as Eddie heads to the f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "More ice. Eddie reaches for the ice, but pulls out and admires the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (CONT'D)",
+          "text": "For someone who doesn't drink you don't drink the best. Leila is now officially wasted.  She semi-staggers to a m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(more pouty) No I'm not.  I don't even know how it got there.  But we We hear the POP of a champagne cork, some rummaging aroun",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (O.S.)",
+          "text": "\"I fed myself\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Good for you. Eddie brings two glasses to the couch, along with another",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "\"Have a girl\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm trying, okay?  Don't pressure me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(suddenly serious) You're married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Yuk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Gay? Leila shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (CONT'D)",
+          "text": "Help me out here, Leila.  Leila puts down the glass and begins to kiss her own hand",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "That's my sex life. (beat) I'm a total...virgin.   She moves closer to him on the couch, as his eyes go wide",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Show me what to do. Not quite sure what she means, but completely turned on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Well, your mouth was a little...slack.  You might want to He demonstrates a great, taut kiss on his own hand.  Leil",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Show me.  Eddie leans over and kisses her with enthusiasm.  When th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "You'll do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Camera pans Leila's loft, past the living area, past an e Leila, who lies sprawled on her bed.  Her eyes crack open INSERT: \"I undressed myself\" Bleary-eyed and nauseous, she stumbles out of bed and hea INSERT: \"No.  We didn't.\" Paxil walks in and looks at her plaintively.  He, too, ha INSERT: \"Oman\". ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila, looking positively green, sits opposite Dr. Kirk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "So you didn't actually...have sex, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Not according to the evidence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "GOOD!  I mean, well most people like to at least remember",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He barely touched me.  I mean, this man -- this live, cut",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "hangover, and a Post-It stuck on my head. (beat) Intact. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "So he's a fool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Actually, he's a clown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Subtle distinction. Leila takes off her sunglasses, and leans in. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I want tips.  Hard tips.  Hard as bullets.  Right between",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Tips?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Positions.  Good ones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "You do realize that I'm not a fertility expert?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You're expert enough.  I want to know where to put what f Huge pause. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "And I have to answer you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You're my doctor. If only that weren't true. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Yes.  Well, there is a school of thought which believes t Kirk nods discreetly towards the dog.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "All fours...helping to...retaining, uh, sperm, near the..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Sperm near the cervix.  Check.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "And then...after...you might want to roll over on one's..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Good.  So that your long...your, uh...are up in the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "My legs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "That would be fine. Nowhere near as embarrassed as Kirk, but getting there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Straight up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Hugging your... Awkwardly gesturing. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "My breasts?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "And -- gravity takes over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So that's it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "That's it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Doesn't sound like much fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Speak for yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Could I use your bathroom?  I need to throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila returns to a spotless apartment; a far cry from the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Mammy.  What are you doing?  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Orderly home, orderly life.  Really, dear, this is quite",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Could you stop?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Last few.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I mean it Mammy.  Please!  Every time I make a mess, you She succeeds in wrestling away the plate, which she drops",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Bad night, dear? Mammy cleans up the mess with a broom.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I got drunk and kissed a clown. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "But that's wonderful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I went to the doctor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "You don't need a doctor. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I got worse at the doctor's. Mammy comes over and tucks her head against his shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "It's about love, isn't it?  That sickly blue sheen under Mammy takes her hand, massages it earnestly.  Leila retra",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's alcohol.  Not love.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Nothing wrong with a splash of champagne in moderation an",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What about a tidal wave of scotch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Washes away the inhibitions.  Very instrumental in the be Mammy takes Leila's hand again.  Suddenly:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY, (CONT'D)",
+          "text": "Oh, Lord, your Uncle.  The fitting! Mammy jumps into action. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What's \"the fitting?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Baby sister's big day?  Maid of honor?  I left Ernest in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "The final.  When was the first?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Well, honey, you're not the bride. (quickly) Of course you will be one.  Again.  Where's everyone's ja He finds his on a chair. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Look, just bring me a dress.  I don't care if it fits.   Hustling her out the door. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Yumi Katsura waits for no one.   (gossipy) She outfitted The Nutcracker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Crawling up Madison Avenue in heavy traffic, Uncle Ernest",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I don't see how one person can forget about another perso",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Twenty minutes, tops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Forty bucks, minimum. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Where's Evy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "You tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(shrugging) She's not in the mood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's her wedding.  I'm not in the mood. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "The important thing is, the only thing is, there's going Uncle Ernest glowers at him.  Mammy stares straight on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What about her dress?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "You tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Tell me what. Uncle Ernest stares straight on.  Leila looks back and fo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "(appalled) No.  Absolutely not.  I don't wear gowns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "You can and you will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's an expensive wedding cake of a store, adorned with c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "(smoothing ruffled feathers) Don't worry, you're more or less the same size.  Except f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(practically barfing) Please.  The scotch...this language?  I'd rather die. She tries to leave.  They yank her back in. A refined WOMAN--more like a mother of the bride than a s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Is this the joyful bride?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Do I detect a few jitters?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "You detect a bottle of scotch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Where's the dumb dress?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Please forgive my extra niece.  She pooh-poohs love and m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "(knowingly) Ah, the single sister of the bride.  Poor child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "For this 'poor' child, we'll also need something white.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Ernest...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "(reassuringly) Don't worry.  When a young woman puts on a wedding dress,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "To the tune of \"Going to the Chapel\" as if it were spit o The clerk yanks Leila into a white lace push-up bustier. White slips, crinolines, shoes, stockings, gloves, garter",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mammy takes all kinds of time selecting accessories.  He'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The clerk demonstrates how Leila should dive into the dre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Reestablish harp muzak.  Leila is presented to Uncle Erne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The abandoned Boy and Girl emerge from the shadows to swi PAN OVER to find Leila on the stoop, wearing wraparounds, Leila looks up as a gladiator walks down the street towar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Spartacus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "It's me.  Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Oh.  You look like Spartacus.  But then, you look like a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Why are you taking vitamins?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So I don't catch cold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Why're you crying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Because I barfed on my sister's wed- ding dress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(sympathetically) I get puked on all the time.  Nobody ever cries about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well I am. (beat) You're trying to make me say that I'm crying, I'm really (decisively) But I'm afraid that's not it.  It's that I threw up on my (beat) If you barf on it, they make you buy it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Bastards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bartender hands a drink to the ever-present Drunk Guy on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (O.S.)",
+          "text": "...One look I'm talking about -- one -- and suddenly I'm Swing around to find Dr. Kirk in his cups.  The bar is mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "No. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "Except this was more like a good, nice hopeful toad...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "We're still talking about the virgin, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "More like -- a great, big, thundering speed ball of a rus",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Lust?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Dread.  The kind of dread that perfect women inspire.  Th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "(an \"I wouldn't know\" shrug) I'm married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "She writes five TV show words on my blackboard, and I run",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "(heads for the drunk guy) Let it out. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila's head rests on Spartacus' shoulder -- his cape aro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I don't completely remember last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You were toast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I guess I should thank you for being such a gentleman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You were a little bit unconscious.  They have laws about",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Gee, you're like a perfect clown. Eddie looks at her meaningfully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "I'm not a clown now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No.  You're a vulcanized gladiator.  I saw the movie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Touch my chest. She runs her hand over his rubberized bod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So cold and synthetic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "But inside I'm a man.  If you prick me do I not bleed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(fishing) If you...bite me will I not hang upside down in caves? Hand to his scabbard. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Let's draw the sword.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "You would be so shamelessly used?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "I'm Spartacus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(my hero) You really deserve to wear the skirt. CRANE UP as he sweeps her into his arms and heads up the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dr. Kirk is a few more sheets to the wind.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "And you know who chose that dappled grey leather jacket i Bartender shakes his head hopelessly.  While Kirk drones",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I did.  To save my poor, overworked mother sixty-nine buc Bartender heads towards the Drunk Guy at the end of the b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I dragged my ass around school looking like a roan.  Or i Dr. Kirk stops in mid-ramble.  He looks up at the Bartend",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR KIRK",
+          "text": "Hey, would you like to be my buddy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "You're not a natural at this, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I'm a gynecologist.  I don't meet guys. (beat) You know that guy who says \"I'm not a doctor but I play o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Yeah?  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Well, screw him.  If I didn't have fifty-seven precious n Bartender leans over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "So what's your name anyway?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "It's Beverly. Bartender bolts a drink of his own. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Well -- Beverly -- has this been a fair representation of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Who cares?  To her I'm just a head with a glove.     ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Right. (beat) I assume, being a Doctor, you have access to a stomach pu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(oblivious, looking at his drink) Hey this one's good.  What's it called?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "A Manhattan. Kirk finishes his drink and fishes in the glass for desse CU: the gleaming, red cherry. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CAMERA at floor level looks through the legs of the telev Leila, incongruously attired in a sexy nightgown and sock",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "See that?  I could have done that.  I would have done tha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(beat) And that? -- That's the one I was gonna use. An odd expression creases her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "I wouldn't have done that.  God, I can't believe anyone d She sits on the bed, still watching, still brushing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "You have to admit, there's something comical about the wh She switches off the video and heads back to the bathroom",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (O.S.)",
+          "text": "So all of a sudden he's Mr. Serious. Paxil sits faithfully, none the wiser. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A QUARTERBACK drops back and heaves a long spiral down th As the teams trot back to their huddles, Donald looks ove",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GOOD PLAY, DONALD",
+          "text": "Resuming a previous conversation, intimate, sisterly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "(to Leila, prompting) So what happened then?  I need details.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Then...he took off his helmet and shield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "And...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "And...he kissed me.  A lot.  All over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "You were awake?  Leila nods. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "That's so great. (leaning closer) Okay.  Breastplate -- on or off?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "God, it's like high school. (beat) Did he take it out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Eventually.  It got stuck in the loincloth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Did you touch it? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I laughed at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(incredulous) No you didn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He took it out.  I laughed.  He left.  That's all. Leila starts to crack up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "That's all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well.  I sorta said it looked like a dog balloon. (beat) A dachshund.  They completely lose it.   Donald makes a diving catch in the endzone with a defende",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (O.S.)",
+          "text": "He's quite graceful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (O.S.)",
+          "text": "And rich.  And gorgeous.  And perfect in bed. Donald finishes his endzone dance and sees his fiancГ©e a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "(to Leila) Isn't she great? Evy is sobbing on Leila's shoulder. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Darcy collects two BLT's from Menu Man and delivers them Leila enters and looks around, followed by Evy, looking m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Hi, Boss.  Haven't seen you in a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Who are these people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Customers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "When did we get...customers? Dottie indicates Menu Man, who walks out from behind the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Here's the deal, Harvard.  From now on, the menu's whatev",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "Hey.  I'm a lawyer.  Who is this guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "He hates that question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to Evy) How would you know? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "I get no salary, but ten percent of the gross.  We're clo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "(an attempt at wit) Somebody put the \"dick\" in dictator. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Quiet, junior.  I do all the shopping, I eat for free and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "Are you wanted or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(disgusted) Good one, Donald.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "I'm just asking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He's a poet.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Say \"yes\", Boss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Can you get them here by 6:00 a.m.? Nose rings...set and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Doubtful.  Very, very doubtful.  So.  Who's hungry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "I could eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "What about you?  I don't know how to price your meal. TURN AROUND to find Eddie, as \"The Defender\", approaching",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Leila?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Ah, Eddie. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Listen, I don't know what got into me last night.  I'm ju",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Some clown!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's a long story.  Darcy crosses to ogle the Defender.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "So this is Slappy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "The good names are taken. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "(to Leila) You're not really going through with it, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "(to Dottie) Are you nuts? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "That's what I do, Dottie.  I go through with things.  Usu (hustling him out the door) Could we, uh...? Pulls him outside. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They stand just beyond the door. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Leila, you know, I'm beginning to feel a little bit...obj A small HAND tugs on the Defender's cape.  Then two small",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Defender? Eddie turns to find the Twinkie-eating kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(sarcastic) Oh good.  Children.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Are you really the Defender?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Sure.  Why not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Then you gotta help her.  She's sick. CLOSE ON: the little girl. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU: Little girl's mouth with a thermometer in it. Dr. Kirk takes and reads it, drops it in a beaker of disi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "How is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Mildly hypothermic.  A little weak.  She'll be fine. Eddie scrubs out his cape in the sink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "They always feel better after they throw up on me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Who are you again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Head clown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Ah. Jack goes to the blackboard and stares at the words and s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "(to Red) Somebody must be worried about you.  What's your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I'm Jack.  She's Red.  Nobody's worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I see. Kirk picks up the phone. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "(like he can see out of the back of his head) You call the cops, or anyone like the cops, we're gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(putting down the phone) Wouldn't think of it. Kirk goes over to Red, taking from Eddie the speculum he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I bet your mommy... (quick glance at Eddie) Really misses you. Do you remember your address?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "She zipped her lips. Trying to connect...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Really?  You know I used to do that, too.  I once zipped (leaning in) So, where's the secret key?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "(matter-of-factly) It's a zipper, not a lock. Point taken. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Okay.  Then what about you?  What's your address?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Same as hers.  We're twins. As Jack puts his arm around her, it's pretty hard to miss",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Great.  That makes it easy.  So where do you and your...s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Nowhere. They take a moment to soak that one in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Well, on that note... Eddie hops off the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (CONT'D)",
+          "text": "See ya, kids.  Bye Leila, doc.   (mock heroic) Somewhere there's a wrong to be righted. Eddie exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Is he your boyfriend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I don't have boyfriends, Jack. Kirk looks hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "He's not really a Superhero, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Not by a long stretch. Leila looks hurt.  Kirk turns back to Red.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "So... Red spies the stuffed dog on the cabinet and runs over to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "...my dog.  I was going to mention him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "That's HER dog.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Okay. (to Red) Then will you take good care of him?  Even if he's not a Jack and Red play with the dog.  (NOTE: We will never aga",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "They've got to have parents somewhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "They've barely got names. Leila looks at Kirk, then at the children.  She reaches a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Jack, Red -- you're staying with me tonight.  Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "You got cable?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila enters, holding a sleeping Red in her arms.  Kirk f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Let me just tuck her in.  Jack, your room's down the hall Leila carries Red into her bedroom.  Kirk stays behind wi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "(nonchalant) I'm just gonna wait and make sure everything's cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I understand. Jack walks around the living room picking up stuff, putti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "You never know what's gonna happen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "That's true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I'm not even that tired. Kirk goes over to the stalling Jack. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "You're a brave guy, Jack.  You took good care of your sis They shake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I was thinking, though.  What if Red wakes up and you're Jack looks at him with a glimmer of hope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I know you'd rather have your own room, but do you think, Jack muses for about a second, and then books into the be",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila looks down at the sleeping kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Please do not get S.I.D.S., or ringworm, or sleep apnea o TURN AROUND to find Paxil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Paxil.  You watch them. Leila starts to leave...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "No sleeping. Paxil looks up to the challenge. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kirk admires the mobile in the living room, as Leila retu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Asleep? Leila nods.  Kirk spins the hanging sculpture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "This is nice.  It's like a little story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "When Evy and I were kids we used to think our father was",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(pointedly) Not everyone's a star. A beat, as Leila moves to the couch. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What's gonna to happen to them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I don't know.  I'll make some calls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I think they should stay here for a while.  It'll be good",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "What about your...mission?  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I can postpone that.  Still, I think Eddie's an excellent",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "And people are quick to criticize genetic engineering.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "All right, seriously then. I'd have to say the...clown in Rolling now...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "You don't \"practice\" on children, Leila.  And you don't p Leila crosses to the corner. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Is that a medical opinion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "No.  Would you like one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Umm.  Kirk chases her as she moves over to the \"safety\" of her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Life isn't a balance sheet, Leila.  Babies don't offset d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Really?  Then why did I come.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "For some sort of permission.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I wasn't aware you needed a note from your doctor to lose",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "No.  People manage to do that all the time.  But you want",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "When I was about four, my mother was pregnant with my lit Leila turns her back on him and fiddles with the mobile. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So? Close behind her...in her ear... ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "So she told me she loved me more than anything and that I Beat. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "The reason I know -- I mean absolutely know -- that you c Leila starts to turn... ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Why are you doing this to me?  Kirk gives her a passionate and unexpected kiss.  For a m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Please...I can't. Long silence.  Kirk moves away.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Look, I told you from the beginning...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I know.  You don't do love. (beat) You asked about a medical opinion -- here it is.  The onl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm sorry. A long look at her.  Then, with finality:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Know what?  Me too. He snags his jacket and heads for the door. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT/INT. LEILA'S LOFT",
+          "text": "The Twins watch from the window as Dr. Kirk hails a cab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. LEILA'S LOFT-- MORNING",
+          "text": "CU: Leila's face as she sleeps, not all that comfortably, TURN AROUND to find Jack and Red staring at her, bright-e",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What do you want? Beat. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Meat loaf. Leila ponders her first parental decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two bowls of oatmeal hit the table in front of the kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "What a rip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Sorry.  Orders. Dottie looks over her shoulder at Menu Man, who smiles an",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Get up on the stupid side of the bed this morning, Harvar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Oh, excuse me, Mr. Perfect.  Not all of us had mothers, y",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Like I did? Jack calls out from the booth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Can we get some coffee here? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Okay. Menu Man scowls at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "(sternly, to kids) Decaf. As Leila looks back for approval, Evy emerges from Menu M",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Evy?  Deer in the headlights.  Stunned looks from everyone in t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Oh.  Ah.  Very awkward moment. (motions towards the back room) The, uh, room back there...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(clears throat) I thought maybe I should, uh.  Right.  Here's the funny p Evy heads for the door.  Blank stares from the crowd, inc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Fuck it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy and Leila walk down the street carrying shopping bags",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Passing fling.  That's all.  A little pre-meal snack.  Wh Evy and Leila walk out of frame as Evy's voice drifts awa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Busy day in the waiting room.  The Supersoaker kid and hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "This is not a toy.  Okay?  Do you understand?  You could He holds out the vagina to Nurse -- who refuses to take i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "Where's Mrs. Peters? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Exam Room B. Kirk looks around for a place to stow the vagina, settlin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Ten minutes, kids.  Then we're out of here.  Okay? Jack and Red sit patiently in the corner.  Kirk departs as the SuperSoaker kid gets off a squirt in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I don't like guns.  Guns scare girls. Not as much as Jack scares him. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila reads Dante to Uncle Ernest and Mammy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(with an increasingly disgusted expression) \"We now had left him, passing on our way, when I beheld t She looks up to find her uncles asleep in their chairs, h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU: Kirk's unhappy face, staring straight ahead. Shot widens to include Red on his left and Jack on his ri Bartender and Drunk Guy take it all in with a shake of th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila sits with Paxil talking on the portable phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Listen, Eddie.  I appreciate what you...almost did to me (about to sign off) Oh, by the way.  A Mrs. Schwartz is looking for two clown We hear the sound of Eddie's answering machine beep. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jack attempts to show Menu Man that he can flip a pancake Dottie does a Tarot reading for a completely terrified Re Red runs over to hug his leg, but catches him in a sensit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Ow. Red looks sad.  Kirk tussles her head. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "It's okay, honey.   (eye contact with Leila) Even...metaphorical.  Jack joins the group.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "You two ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I thought they could stay with me tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "That's not the arrangement, Leila.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well I don't really think they need to spend another nigh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Certainly not when they could be listening to bedtime sto Leila drops down to kid level.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "How 'bout it, guys.  Do you want to stay here?  I rented Oh, yeah...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Well.  That's very...average. Also dropping down to kid level. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "I bought a trampoline. The one-up battle begins. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to the kids) You can have popcorn and cocoa.  As much as you want. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(to the kids) How 'bout Whoppers and beer? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'll let you stay up all night.   (to Kirk) Plus I have a dog. Hard to top that. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I'll let you drive. Not that hard.  They stand up and go nose to nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm sorry I ever let you talk to me in the park that day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "For the record, you didn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "And you shouldn't have kissed me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Why?  No fright wig?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Well I'm keeping Jack and Red.  I found 'em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "They're not your kids, Leila.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Yeah, well.  They're not anybody's kids.  As shame and regret cloud her face, she looks around the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Wait.  That's not what I meant. (calling after) Red! Red and Jack have already taken Menu Man by the hand and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pouring rain at the ALICE IN WONDERLAND STATUE of Leila's Red and Jack sit with Leila under Alice's big toadstool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Why are you mad at the doctor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I'm not mad at him, Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Scared?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "He's the best one.  He helped my sister.  And he shook my",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "It's just that I made a promise to myself, Jack.  And kee",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RED",
+          "text": "(beat) Why? Leila looks down at her in shock.  She's never looked sad",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Beautiful sunshine falls on the same church Leila didn't",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the accoutrements of an imminent marriage: ribbon-wrap Widen to include Evy at the mirror adjusting her bustier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Your breasts are bigger than mine.  That pisses me off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "They're Mother's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(looking down) So whose are these?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Donald's. Evy makes a face.  Leila looks gorgeous in a clingy silk-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Something borrowed. Leila looks around the room for...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Something...blue. They smile simultaneously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA/EVY",
+          "text": "(pointing at each other)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Something...barfed on. (brightly) My dress! Evy reaches into her purse and takes a nip from a flask o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "Something old?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mammy paces outside the closed dressing room door, occasi Uncle Ernest, resplendent in his morning coat, finds him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Oh God.  Not girl talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Let them be.  This is a precious time for sisters. Ignoring all that, Ernest goes up and beats on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Ten minutes. As he walks away, Ernest taps on his digital watch and ho",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (CONT'D)",
+          "text": "I liked time better when it ticked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evy continues with her preparations, though at a decidedl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "So how did you know that Donald was...the one? Evy eyes her skeptically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "I mean, I could tell he was the one who was...tall.  And",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Well that doesn't jump right out at you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Smart?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Hah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "What, then? Evy thinks long and hard. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "We just belong together.  (reversing tone) And I resent your implication.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Donald's going to be a huge success... and he loves me to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uncle Ernest returns in high dither, tapping his damn wat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Tell me this, Mammy.  How did two old queers wind up with",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "God's little joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Well they're a pain in the butt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Of course they are, dear.  But one must be kind and encou Menu Man, stunning in a suit, emerges from yet another do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Your turn.  We tried. He exits a side door. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(of the children) What are these?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Grandchildren.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Oh good.  Ernest takes the dress and leads Red down the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (CONT'D)",
+          "text": "Mammy.  If they're not out of there in two minutes, break They disappear around a corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (O.S.)",
+          "text": "But ALL the girls are wearing white dresses.  That's the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila and Evy are both plopped on the floor passing the f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "I could be making a big mistake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Me too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "This isn't about you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Sorry. Long pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Leila, is this how you felt before you... almost got marr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "No.  I felt beautiful.  I felt perfect.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Well that fucked up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Thanks. Evy ponders. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "No.  That's good.  See, you were really happy and the guy One more pass of the flask while the sisters try to diges",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mammy retreats to the hallway as Ernest emerges from his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Stubborn little monster.  She won't put the dress on or t Kirk enters the hallway from the church.  Red rushes to h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "Here.  Let me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Be my guest. Kirk takes the dress into Red's room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST, (CONT'D)",
+          "text": "Do we know any of these people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "That's Dr. Beverly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mammy peeks out at the gathering congregation.  The groom We spot a few familiar faces -- among them, Dottie, Darcy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A moment later the door to the Bride's room opens.  All e",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Oh my God, you look like an angel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Could we get on with this? Ernest walks Evy into the church.  Now another door opens",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Red, you're beautiful. She glances uncertainly at Kirk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "So are you. Mammy claps his hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Okay.  All in your places with sunshiny faces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(to Red) C'mon pumpkin  Kirk walks Red into the chapel.  Mammy lingers a moment,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leila enters the staging area behind a curtain to find Er",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Leila? Leila takes her by the hand and they walk to the corner o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY, (CONT'D)",
+          "text": "Shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Evy?    Evy grabs Leila's sleeve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "I forgot to write my vows.  We're supposed to write vows. Evy scoots across the back of the church, swipes a pen fr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Hey, little Harvard. Evy makes a tiny, plaintive noise and quickens her pace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Oh no.  No no no no no.  Ernest, who will give Evy away, looks in bewilderment tow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "I'm amazed they still let heterosexuals marry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(beat) Is the groom at least here, this time? Mammy POV: Donald and the Best Man (previously seen as Qu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Oh, he's here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "When Evy divorces him and remarries, do you realize we'll",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "Your pessimism has no place at this ceremony. The Wedding March begins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Menu Man, as usher, escorts Mammy, as mother of the bride The wedding procession begins: Jack and Red as flower chi At the altar, Ernest hands Evy off to the groom--still yu Evy, Donald, Leila and Best Man, stand before the PREACHE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "(quietly) Would you agree that the eyes are the windows to the soul",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "Uh.  Absolutely, Father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Perhaps your bride would like a glimpse of your soul now. Donald grins, and then looks concerned.  He has no clue. As he speaks the following to the congregation, Preacher",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER, (CONT'D)",
+          "text": "Dearly beloved.  We are gathered here in the sight of God Pause.  Then to the Best Man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER, (CONT'D)",
+          "text": "You too. The Best Man hands over his shades.  Donald gives Evy a l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "(whispers) Rough night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Before we recite the traditional vows, I understand the b Preacher nods to Donald, who stands there, stiff as ice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "Why do I have to go first?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Just read what you've written, son. Donald opens his paper and works on his dry-mouth.  Vario",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "(loudly) I love you deeply.  Like the deep...snow. He folds his paper.  He's done.  SILENCE.  Stunned reacti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Sometimes the heart is too full for words. Best Man claps Donald on the shoulder.  Sounded good to h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER, (CONT'D)",
+          "text": "And the bride's declaration? Evy pulls a page from the guest book out of her bustier,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Ah, forget it.  Let's just move on. (to Donald, incredulous) Deep snow? Preacher gathers himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Well, then...If any man can show just cause why they may All present hold their breath in holy terror.  Except the Preacher looks out over his half-moon glasses.  We see Ki",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER, (CONT'D)",
+          "text": "Anyone? He turns his attention back to the couple.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER, (CONT'D)",
+          "text": "No.  (beat) Then I require and charge you both, as you will answer at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(to herself) Oh boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "This part is largely rhetorical. (gathers himself) Wilt thou, Donald, have this woman to thy wedded wife?  W",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "I do.  Wilt. Best Man chuckles: Wilt?  What a riot.  Preacher looks up",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Wilt thou, Evy, have this man to thy wedded husband?  Wil",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Could you go over that \"dreadful day of judgment\" part ag",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Just say \"I will\", dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Mmmmm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Or \"I do\". Evy, alarmed looks at Leila. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(quietly) Or...something else. Gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(clearing throat) Seems like...such a narrow range of choices. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "(to the assemblage) Who is this woman?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "The sister. Evy teeters on the precipice. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Is it too late to -- forever -- not --hold my peace? The Preacher can't answer while he tries to unravel the g",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Um... ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I mean...to speak now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "Yes. Menu Man rises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "And you are...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "A poet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "I thought he was the cook?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "Go on, Harvard. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to Donald, in an insane rush) I know this is really tricky timing and everything -- God",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "(to Evy) Tell me what? Evy shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "That you're not, \"the one\", Donald.  I mean, you're certa (to Evy) You're not...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(back to Donald) And I think it would be better off for all concerned if y",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Is she drunk?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "A little scotch, Reverend, sorry -- I think they call it (beat) But I know what it looks like.  I've seen its reflection. Begin to PUSH IN on Kirk standing at the rear doors of th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "All it has to do is glance somewhere...and it bounces and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "(to Preacher) When did this become her moment? Preacher shrugs. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Your's too, Donald.  The moment when you realize that you Find the groom's parents in the front pew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FATHER OF GROOM",
+          "text": "That makes it unanimous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER OF GROOM",
+          "text": "Lewis!  You're his father!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FATHER OF GROOM",
+          "text": "What!  She writes about fish.  She's a fish writer. Back up front.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Love's -- well, I don't know what love is -- but I know w (acting out her metaphors) It's...this thing.  And it gets under your skin, and...an",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MENU MAN",
+          "text": "\"And what in me is dark illumines.\" Preacher is impressed; Evy melts a little. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Wow, that's good.  Very...medieval.  But no, I was going Raised eyebrows all around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "An unholy hairball.  Which festers and rots and grows eno Leila searches the church for Kirk who looks up with a gl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "...well, that your sister shouldn't marry the man she int (beat) That's all.  A resigned and disappointed Kirk walks away towards the e Dottie and Darcy look at each other, briefly consider the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "Thank you, thank you. (sarcastically) At least we still have our dignity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(to Donald, sincerely) But she's right, you know -- if you think about it -- the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONALD",
+          "text": "I understand.  I just don't know where to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVY",
+          "text": "(quietly) Don't go anywhere.  We're unmarried, not dead.  Maybe we Par-ty.  He and the Best Man high five each other.  Menu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "(to crowd) You'll all get your presents back, Federal Express.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Well then, if there are no more completely inappropriate",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "Wait.  There's actually one more thing. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Of course there is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "When I was 17, I stood outside this same church and swore Leila looks out towards the back doors.  The congregation The CAMERA TRACKS past Ernest and Mammy as they turn thei",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Because the longer the wall stood, the higher it got... The CAMERA moves past Eddie dressed as a giant Bumblebee",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "...and the higher it got, the fewer people even tried to Past Customer who points to himself in hopes that Leila i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "It's pretty easy for us to create our own sad destinies w The back of the church is empty...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "(raising her voice) ...THAT ARE HIDING OUT THERE BEHIND THE CURTAINS. Leila turns to the Preacher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "What do you think, Reverend?  I promised God that no one",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Will it involve further speech?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "(to the back of the church) How about it, Beverly?  WILL YOU LOVE ME? Gasps from the groom's side. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PREACHER",
+          "text": "Beverly?  Not in my church.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "He's a man, Reverend, a good and kind man.  But even if h (to back) Will you comfort, and keep me, Beverly, in sickness and d No answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA, (CONT'D)",
+          "text": "Beverly?  Kirk peeks around the curtain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "(mock serious) Are you a virgin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "As a matter of fact...  Applause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CU: Kirk gives Leila a long, passionate kiss, while an or Widen to see the smiling faces of the wedding parties, cl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "What are you doing?  Nobody's married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMMY",
+          "text": "We may never get this close again.  So kiss me darling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE ERNEST",
+          "text": "Are you insane?  Jack emerges from the pack and grabs the bag of rice from",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I don't like rice.  Rice kills birds. Everybody cracks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "While Bob Marley sings his heart out, we watch a party in BARTENDER and DRUNK GUY pour drinks for everybody. JACK takes a nip off the gin and tonic he is delivering t CUSTOMER smokes at his usual stool. MENU MAN and DONALD arm-wrestle to the death, to the appa DARCY is all over EDDIE, now mostly out of his Bumblebee MAMMY is everywhere at once, cleaning up. DOTTIE is painting RED's nails some scary color, as... LEILA and KIRK survey their domain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK",
+          "text": "I've got something for you. Kirk smiles and produces a beautiful silver star on a cha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KIRK, (CONT'D)",
+          "text": "It's Birth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEILA",
+          "text": "I've got something for you, too.  Leila gently takes his hand and leads him towards the doo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Hey, where are you guys going? Darcy has come up for air just long enough to say...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARCY",
+          "text": "Boy, you're dumb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOTTIE",
+          "text": "Pardon me for not taking \"Love\" at Ha-a-arvard. As Marley wails, the CAMERA pulls back and out of the muf",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_434"
+    }
+  ]
+}

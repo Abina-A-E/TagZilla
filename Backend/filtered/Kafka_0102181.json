@@ -1,0 +1,90 @@
+{
+  "movie_id": "MOV1055",
+  "scenes": [
+    {
+      "time": "MORNING",
+      "characters": [
+        "WATERFRONT WHARVES",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "WATERFRONT WHARVES",
+          "text": "The Assistants sit on a big packing crate, brushing soot their suits, shaking dust out of their hair, fiddling wit the rips in their jackets and trousers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We could go back to the office. Explain ourselves to the Chief Clerk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They'd drive us away.  That Kafka's made things very hot for us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I understand he was wounded in the lung.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sulky) It doesn't matter.  It's too late for all of us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looks at O.) What's to become of us now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oskar has a long think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looks at L.) Amerika.  That's the place to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ludwig jumps off the box and gapes at Oskar, tremendously impressed by this brainstorm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everyone in Amerika has a toaster in their building!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oskar jumps down from the box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then that's the place for us!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amerika for us!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amerika!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And, linking arms, they do a strange dance along the quay",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1057"
+    }
+  ]
+}

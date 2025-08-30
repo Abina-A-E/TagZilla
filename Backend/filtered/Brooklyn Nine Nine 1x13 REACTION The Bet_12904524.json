@@ -1,0 +1,1720 @@
+{
+  "movie_id": "MOV373",
+  "scenes": [
+    {
+      "location": "CEREMONIAL HALL",
+      "time": "MORNING, (D1)",
+      "characters": [
+        "END OF SHOW",
+        "ROSA",
+        "HOLT, (0.S.)",
+        "GERBER",
+        "DELIVERY GUY",
+        "PERP",
+        "INT.",
+        "CONTINUED",
+        "GINA",
+        "BAR",
+        "28.",
+        "END OF COLD OPEN",
+        "SCULLY",
+        "YOUTH CHOIR",
+        "SHARON",
+        "HOLT",
+        "TERRY",
+        "A33",
+        "YOUNG AMY",
+        "CHARLES",
+        "ACT ONE",
+        "HITCHCOCK",
+        "REC ROOM",
+        "ACT TWO",
+        "END OF ACT THREE",
+        "AMY",
+        "JAKE",
+        "CHOIR BOY YOUTH CHOIR",
+        "JAKE, (CONT'D)",
+        "DR. NASH",
+        "END ACT ONE",
+        "END ACT TWO",
+        "PHOTOGRAPHER",
+        "ACT THREE",
+        "ACT FOUR",
+        "B33"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "JAKE, HOLT, and CHARLES are in the wings of a small stage area. They look dapper in their dress blues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "(can you believe it?) Charles! Medal of Valor!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I know!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "For getting shot in the butt!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "For “exceptional acts of heroism or voluntary risk of personal safety.” But you know, six of one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "This is one of the NYPD’s highest honors. Today is your day, Detective Boyle. Charles smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ON THE STAGE, DEPUTY CHIEF GERBER stands at the podium. Charles can be seen in the wings glowing with pride. Jake and Holt stand behind him, supportive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GERBER",
+          "text": "Heroism can’t be measured by a piece of metal, but it’s the best we can do to recognize brave officers who put their lives on the line. It is my great honor to present the Medal of Valor to Detective Charles Boyle... Charles walks on stage. The crowd, including AMY, TERRY, ROSA, GINA, SCULLY, AND HITCHCOCK applaud politely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GERBER",
+          "text": "-.--and Sergeant Peanut Butter! The crowd ERUPTS as A POLICE HORSE is lead onto the stage Jake turns to Holt, delighted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Oh my god, Charles is getting the same prize as a horse. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 2.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "At least Boyle was announced first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Because the horse outranks him! This is amazing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "That's enough, Peralta. This is a huge honor, and nothing can take that away from him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "The horse is pooping on the stage! Sergeant Peanut Butter is pooping on the stage! The horse NEIGHS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "That is unfortunate. They both give a weak thumbs-up to Charles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END OF COLD OPEN",
+          "text": "\fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 3.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy, Rosa, Terry, Hitchcock, and Scully work at their des Jake walks up to Amy, and they stare each other down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Peralta.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Santiago. The bet ends today. Are you ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I was born ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "-- to lose. The whole question was, “are you ready to lose?” And you said you were born that way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Twist my words all you want -- I’m winning this bet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HITCHCOCK",
+          "text": "What bet? What are you guys talking about? Everyone turns to him in disbelief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Seriously? “The bet?” Scoreboard in the briefing room. It comes up all the time. What are you doing all day?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HITCHCOCK",
+          "text": "Nothing. Why, you wanna hang out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "A year ago today, Peralta and I made a bet to prove who’s a better detective. Whoever makes more felony arrests wins. 4 INT. BRIEFING ROOM — FLASHBACK —- ONE YEAR AGO (FBD) 4 The squad minus Holt is gathered. Jake and Amy argue.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What are the stakes? And don’t say money, because I know you’re in debt. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 4.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "If you knew anything about me, you'd say “crushing debt.” I’11 bet whatever, because I’m not losing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "What about your car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Not the ‘stang! That thing’s a date- * magnet. I mean, how many girls have you made out with in that car -- six?! (then) Bight?!!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "I’m gonna win, so sure: let’s bet the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Jakey, no! Thor would never wager his hammer. Neil Patrick Harris would never wager his showmanship! Losing that car would be the worst thing in the world for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "(to Amy) What’s the worst thing in the world for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Being one of those girls in Jake's Mustang.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Then it’s settled: if Peralta loses, Santiago gets his car. If Santiago loses, she goes on a date in said car. They SHAKE on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "That’s a very firm handshake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "(steely) I took a seminar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "And now the score is all tied up. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 5.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "But not for long. In eight hours, I will win and then I will take Santiago on the worst date in the history of the world. (to Amy) You made your bed and now you’re going to lie in it. Don’t worry, “bed” is just metaphorical. Or is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I’m not worried, ‘cause tonight I’m driving home in your car. And then I’m driving to the junkyard, where I will have it smushed into a metal cube, which I will use as a cold, sharp ottoman. Captain Holt exits his office. Charles hobbles after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Attention. After today’s shift, I’d like everyone to join me at the bar for drinks in honor of Detective Boyle and his Medal of Valor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Oh my god, is Peanut Butter gonna be there? That horse is a damn hero.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Peanut Butter will not be joining us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "He’s being féted at the United Nations. Holt returns to his office. Jake and Amy look at each oth then sprint after him. Jake pushes A CHAIR at Amy, then throws A PEN, then swipes A STACK OF PAPERS off GINA’S De",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Rolly chair! Pen! Gina’s desk! He slams the door behind him. 6 INT. HOLT’S OFFICE — CONTINUOUS (D2) 6 Jake locks the door behind him. Amy struggles to open it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Hello, sir, you look very stoic today. Like a majestic old tree--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "I’m not going to give you more cases so you can win your bet with Santiago. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 6. 6 10",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "What?! Oh, right the bet, I totally forgot--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Granted, this “friendly competition” has led to you and Santiago putting in more hours and arresting more perps. Especially this last week. INT. BULLPEN — FLASHBACK — MONDAY (FBD) 7 Amy walks in with A PERP. Jake stares. She CHANGES a numb on the DRY ERASE BOARD. She’s up by one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Up by one, Peralta! Anything you want to say to your car before you never see it again? “Bye bye?” “I love you?” “I'm sorry I let Santiago sell you for parts?” INT. BULLPEN — FLASHBACK - TUESDAY (FBD) 8 Jake walks in with A PERP. Amy watches. They are TIED on the board. Jake erases and then adds one to his side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Oh hi, Santiago. Do you have any dietary restrictions that Medieval Times should know about? I’m booking us a table in the middle of the jousting ring! INT. BULLPEN — FLASHBACK — WEDNESDAY (FBD) 9 Amy walks in with ANOTHER PERP. Jake watches. She erases the number and puts herself up by one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "(on the phone) Yes, 3-1-1? What’s the safest way to set a car on fire? INT. HOLT’S OFFICE - BACK TO SCENE (D2) 10",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Both of you have done exemplary work, which I appreciate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "And I can see that by the absolutely no indicators on your face. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 7. 10 11",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "However, you are colleagues. And the fallout from this bet has the potential to put a strain on your professional relationship.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Only if I lose. I’m a terrible sport. *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Cases will be assigned as they always are. Dismissed. Jake exits. Amy busts in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Captain! You look--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "No. INT. BULLPEN - CHARLES’ DESK - LATER (D2) 11",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Charles pours water into a slow drip (Chemex type) COFFEE MIXER. Rosa enters. Holt and Gina are nearby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Rosa, hey, would like to have a cup of coffee with me? I got some gorgeous new coffee beans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "(gritted teeth) Sure. That sounds great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "It is great. First, we weigh out exactly 24 grams of coarsely-ground beanage. It should have the consistency of Tunisian sand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Isn’t that like your fifth cup today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I’m trying to counteract the drowsiness from my pain meds. I took a double dose after the incident at the ceremony. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 8. 12 INT. CEREMONIAL HALL ~— FLASHBACK (D1) 12 Charles and Peanut Butter stand in front of 10 PHOTOGRAPH",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHOTOGRAPHER",
+          "text": "Bring Peanut Butter forward. Forward. Forward. Can the little guy just take a big step back, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "My name is Boyle! I won the same Medal as this horse! Aaaaaaaarrrgghhh! He steps backwards and IMMEDIATELY FALLS OFF THE STAGE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "The footage of my fall lead the local news, so who’s the hero now, Peanut Butter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Peanut Butter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Gina, you're just trying to hurt me to distract yourself from your own internal pain. Also, you should use less * conditioner, because that’s a flat mess. * Charles exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "What is going on with Boyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "His pain meds are making him weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Ohhhh. This happened to my dad when he got his vasectomy un-reversed. You get all relaxed and you have no filter, so you drop truth bombs all over everyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Hm. That explains the elevator. 14 INT. ELEVATOR —- FLASHBACK - 30 MINUTES AGO (D2) 14 Charles on the elevator. Holt gets on. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 9. 14 15 16",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Hello, Captain. I’m worried you don’t find me interesting. I wish there were a third person in here. I’m going to pretend someone texted me. (making texting sound) Bloop! He pulls out his phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Gina, please keep an eye on Boyle today. He’s going to say something to the wrong person and get himself punched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "For sure. I would love to see Charles get punched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Try again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "I will keep Charles from getting punched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake walks in a PERP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Up by two, Santiago. I hope you got your cats a sitter tonight, because I'd hate for them to be lonely while we’re out on our date, having the time of my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I don’t have cats. I live alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Cool brag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "You know who doesn’t live alone? The Bardon twins, whom I just busted for a B&E. Tie ballgame. Reveal: TWO TWINS in the holding cell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "They have the same DNA -- they should only count as one! \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 10. 17 INT. HOLT’S OFFICE — LATER (D2) 17 Terry enters. Holt sits at his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Sergeant Jeffords, I’m honored to give you back your gun. You are officially cleared for active duty. Holt solemnly presents TERRY'S GUN to him. Terry takes it with equal gravitas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Thank you, sir. It’s good to be back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "I sent Gina out to get a congratulatory card. He hands Terry A CARD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "“Through rain, hail, sleet, and snow, you never fail to deliver. Thanks for being a great mailwoman.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "She did not look very hard. But you * understand the sentiment. *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yes, sir. I assure you, I can’t wait to * get out there and kick crime in the ass. * Terry’s phone RINGS. Holt nods at him and he picks it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Hey baby. Yeah, I can do a quick story. (to Holt, hushed) At nap time, I tell my twins about a tiny princess who rides on a sparrow’s back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Childhood is a time of whimsy. Dismissed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy hurries in with A PERP in tow. She is out of breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Ladies and Gentlemen, I present Carl Laudson, who stole 3000 dollars! Santiago takes the lead with one minute left! Suck it, Peralta! \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "(unconcerned) Oh no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "That’s right ‘oh no’-- (realizing) Oh no, you don’t seem worried. Why aren't you worried?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Bring in the johns! Jake stands. A UNIFORMED COP brings in TEN JOHNS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "I ran a prostitution sting through Vice, and arrested thirty guys for soliciting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "That’s not a felony.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "It is if it’s your second offense. Which is the case for ten of these gentlemen. Little trivia -- four of them are actually named John! Ironic. Anyhoo, ten more for Peralta. Accept your fate!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Never! *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Five... four... three... two... one! It's over. Jake wins! Amy loses! He hits play on A BOOMBOX: “Celebrate” by Kool & the Gang PLAYS. Jake’s given everyone noisemakers, confetti, etc. flips the DRY ERASE BOARD, it reads: “PERALTA WINS.” Amy sits, defeated. Jake drops to one knee and produces A RIN",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Amy Santiago, you have made me the happiest man on Earth. Will you go on the worst date ever with me? You have to * say yes!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "-..Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "She said yes! She said yes!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END ACT ONE",
+          "text": "\fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 12. 19",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake is in his Mustang. He lays on his HORN, yelling. NEIGHBORS and PASSERS-BY stop and look, annoyed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Amy Santiago! Date Time! Time to date! (to a passing gawker) Hi there. Sorry, I’m taken. The woman who lives in that apartment loves me. Amy sticks her head out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Peralta, this outfit is ridiculous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Should’ve thought of that before you spent all year losing our bet. Chop chop, there’s a lot of embarrassing to do and not a lot of hours to do it in. Jake lays on his HORN again. Amy exits. She is wearing a very puffy, bright blue dress with a big bow on the butt. She looks like she just stepped out of a ‘90s Bat Mitzvah",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Happy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Yes! You look like every girl I ever had a crush on at every Bat Mitzvah. Let me see the bow. She turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Just like Jenny Gildenhorn. I wish you had braces. Should we get you braces? No -- that’s too much. Jake exits the car. He looks quite handsome in a tuxedo.. until he walks around to open Amy’s door and we see that wearing cargo shorts and sneakers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Nice shorts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Thank you. Believe it or not: they weren’t that expensive. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 13. 19 20 21",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Do I really have to wear this all night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "You know the rules. The date begins now and ends at midnight. I decide what you wear, what you eat, and where we go. Oh, and there’s one last rule. He takes Amy’s hands and looks deep into her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "No matter what happens, you’re not allowed to fall in love with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Won't be a problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "(opening her car door) M‘ lady?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake drives away and we reveal his car is dragging CANS a has A SIGN that reads: 'Just Lost A Bet.' INT. BAR —- SAME (N2) 21 Gina, Terry, Holt, and Rosa are drinking at a table. Char talks to Chief Gerber. *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GERBER",
+          "text": "Detective Boyle. I just stopped by to * say congratulations. Your medal was well- * deserved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Thank you, sir. Your breath is terrible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Charles, can I speak with you? She leads Charles away, turning back to Gerber as she goe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Thank you for coming, Mr. President. *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Where’s Rosa? I haven’t seen her all night. Did you know my wife pays me alimony? \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Okay...let’s take a seat. I’m gonna keep an eye on you tonight, little buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Thanks! ANGLE ON: SHARON, Terry's wife, enters and he waves her o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Hey, you made it! Captain, I’d like you to meet my wife, Sharon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "I’ve heard so much about you. It’s wonderful to finally meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "And you. Your husband is a hero. If you ask me, he should’ve been up there with Detective Boyle today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "For saving my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "He means metaphorically -- like, saving him from paperwork. Paper cuts are a slow death, baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "No, I was referring to how he threw his body at the emotionally disturbed criminal who was trying to kill me. 22X EXT. RAIL YARDS - NIGHT (FLASHBACK FROM “CHRISTMAS” ) Haimes points a gun at Holt, when TERRY TACKLES HIM!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Nooooo00000000!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "He did what?! You’re back in the field?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Ah. I have caused a problem. I think I am...getting a text message. (quietly) \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 15. 23 24",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Bloop. (then) There it is. He moves a step away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "Why is this the first I’m hearing about this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "I thought I told you. Remember, you were half asleep, watching the news and the babies were crying and I said real low, 'Hey baby, I'm back in the field. You want something to eat?' And you were like, 'What?' and I was like, ‘Something to eat?' And you said, 'Sure' -- and I brought you an oatmeal cookie? Remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "You are a piece of work, Terrance. Sharon storms off, annoyed. Terry turns to Holt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Aw damn. She called me Terrance! I’m * doomed. * Terry DOWNS a DOUBLE WHISKEY in one gulp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "God, I wished I weighed less. This isn’t even making me warm. Terry walks off after Sharon. *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake and Amy arrive at the bar. Jake holds up A BULLHORN, presses the SIREN for a beat, then speaks into it:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Attention, everyone! Obviously, this is Charles’ night. But forget about that for a second, and admire, take pictures, and comment on every aspect of-- (waving hands in front of Amy) this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Ugh. Permission to go to the bathroom? \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "24 25 26",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Granted. First of three. Use them wisely. Amy exits. Jake sidles up next to Charles at the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Congrats again, buddy, I really am proud of you. Still wearing the medal, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Yes, I want women to be impressed by me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Allllright... Well, sorry I can’t stay, but I’ve got a terrible night planned for Amy. First up, the mall Photo Studio for our official date portrait. The picture will be the two of us playing one saxophone. Then, a dinner of peel-and- eat shrimp at a dangerously cheap seafood restaurant. And then: I have contracted a youth choir to serenade us. *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT.",
+          "text": "Jake Jake stands in front of a YOUTH CHOIR.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Okay, let’s hear it. conducts the choir as they sing the “Hallelujah” chorus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUTH CHOIR",
+          "text": "Saaaaan-tiago! Santiago! Santiago! Saaaaan-tiago! You su-u-ck so bad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "They're gonna sing to her at midnight in the middle of Times Square. She and 5000 German tourists will remember that moment for the rest of their lives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Jake, do you know why little boys pull little girls’ pigtails on the playground?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "‘Cause they’re so easy to grab, they’re begging to be pulled. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 17. 26 27",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Because they like the girls and it’s the only way they know how to get their attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "...What are you saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "All of this teasing and this elaborate date... somewhere, down deep, you like Amy. Like: “like her,” like her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Okay, that’s straight-up insane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "How much did you spend on tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Don’t worry about it. Fourteen hundred dollars. But it’s all on credit cards, so really, five dollars a month for the next 2000 years. I do not like Amy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "You’re putting a lot of effort into a joke. Why don’t you just sit down and have a real conversation with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Charles, you live in your ex-wife’s new boyfriend’s basement. I don’t think I’m gonna take advice from you. Jake walks away. Charles calls after him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I’m ashamed of my living situation!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gina walks up to Rosa, who is drinking in the corner by t payphone, making herself small against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Hey, you hiding? I love hiding. Who are we hiding from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "I’m avoiding Boyle and his truth bombs. 26 27",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 18. 28 29 30 INT. BAR —- FLASHBACK - 20 MINUTES AGO (N2) 28 Charles talks to Hitchcock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I sometimes worry I’m going to become you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "He keeps saying he wants to talk to me. I’m afraid he’s going to tell me he loves me or propose or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "He should smelt the bullets from his butt and make you a ring. (fanning her eyes) Oh my god, I’m gonna cry...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Boyle dove in front of those bullets for me. I can’t be mean to him -- I watched him make coffee for 28 minutes this morning. But I also don’t want to lead him on...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Well, Holt told me not to let him get hurt tonight, so I will keep him away from you. Charles walks up. Rosa scurries away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Have you seen Rosa?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Rosa died eight years ago. Let’s get you a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake stands in the center of the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Attention, everyone! We are about to leave, but now, for the first time as winner and loser, Santiago and I will perform the steerage jig from the film, “Titanic,” which we have in no way practiced. A POLKA starts playing. Charles asides to Jake: \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Romantic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "No. Embarrassing. (then, to the crowd) Please note, when Amy blushes, it starts at the tippy-top of her ears so watch for that! Jake walks up to Amy and starts spinning her around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I hate your guts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Channel that passion into the dance, baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Peralta. Holt motions for Jake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Scully. Tag in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCULLY",
+          "text": "Okay! Jake crosses to Holt. Scully starts jigging his ass off around Amy. Scully and Amy’s dance plays out in the background during the following:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "One of our informants just called. We’ve been tracking a crew that lifts cargo from Laguardia. The CI knows where the trucks unload, and I need you to go stake out the drop-site. Jake looks over to Amy dancing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Sir, I’m right in the middle of this date and I can’t reschedule. I have far, far too many non-refundable deposits. I’m renting a tiger cub by the hour!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "For what? \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Don’t even know. Waiting for inspiration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "This is not a negotiation. Go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Fine. But I’m taking Santiago, so the minute we’re done we’re back to the date. (to Amy) Darling? Brief pause. Duty calls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Thank god. They head out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCULLY",
+          "text": "Gina! Tag in!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Not even if it would cure cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END ACT TWO",
+          "text": "\fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 31 32",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake and Amy are back in their regular clothes. They sit the car. Jake looks through BINOCULARS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I’m so happy to be out of that dress. It was weirdly hot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Oh yeah, it was a cotton-plastic blend. But don’t get too comfortable. We’re gonna catch these guys and get right back to the worst night of your life. Jake reads a text on his phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Ugh. I have to cancel our theater reservation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I don’t even want to know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Then I’1l tell you! It was an interactive musical called, “Uncle Milton’s Crazy Armenian Funeral.” You were going to be dragged on stage to play the nanny he died in bed with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Ha ha. I’m so happy LaGuardia was robbed tonight. Hopefully, someone will also rob JFK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Don’t worry, there’s plenty of date left, including a grand finale at midnight. INT. REC ROOM — FLASHBACK (D2) A33 The choir is rehearsing. ONE LITTLE BOY sings in high falsetto, while the choir backs him up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHOIR BOY YOUTH CHOIR",
+          "text": "For you suck at detective Santiago, Santiago, work, Amy! Santiago... 21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "B33",
+          "text": "33",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "It’s gonna be great. For me and the * kids. They get to stay up so late! * A TRUCK pulls up. Jake and Amy perk up... but it rolls on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Is that the truck? Please let it be-- Nope. “Artisanal Soft Serve.” Thanks a lot, Brooklyn! INT. BAR —- SAME (N2) 33 Terry and Sharon talk it out at a quiet corner table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "Why would you go back in the field and not tell me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "You don’t tell me everything you do. Like when you bought our girls those fur vests!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "You love those vests!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah, because they’re adorable! But I wasn’t consulted. (off her look) Baby, I’m sorry. Captain’s life was in danger and I just did what I had to do. It was an impulse decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "I guess I can kind of understand that. Holt walks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Sharon, I have to apologize. I want to assure you that the call to put Sergeant Jeffords in the field wasn’t some spur of the moment, impulse decision. It’s been in the works for a few months now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "Months? Terry said it just happened. You need to get your stories lined up. Sharon glares at Terry and storms off again. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Perhaps I should stop talking to your wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "That’s a good call. Terry chases after Sharon, frustrated. 34 INT. JAKE’S CAR - A LITTLE LATER (N2) 34 Jake and Amy, still on the stakeout. Jake checks his watc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Ten pm. These wonderful thugs have saved me another hour of humiliation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Yeah, well, I’m not giving up. There's still time for us to get back to the worst date of your life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Hmmm no. Nothing will ever be worse than the date I had with my aunt’s dentist...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy sits across from DOCTOR NASH, a dentist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. NASH",
+          "text": "Here -- try some of this! He offers a bite of food on his fork, then uses the fork a SPOON to hold her mouth open and look at her teeth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. NASH",
+          "text": "Well, dessert is out of the question. Amy looks concerned. 36 INT. JAKE’S CAR - BACK TO SCENE (N2) 36 Jake and Amy laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What was your worst date ever?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "It's like a fifty-way tie. Recently I went out with a lady who thought our president’s name was “The Rock Obama.” Jake notices something. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Hey, those people left the door open. I bet that roof has a better vantage point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "And I bet it doesn’t smell like old cheese.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Hey. That’s offensive. It’s old meat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Holt notices Sharon near the coat-check, berating Terry:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "What else don't I know, Terrance? Are you cooking meth? Are you breakin' bad? How many phones do you have? Holt approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "I’m sorry. I need to clarify something I said earlier. Technically, Sergeant Jeffords was correct when he said his choice to go back in the field that night was an impulse decision. He didn’t even take the time to stop and gear up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "WHAT?! You weren't wearing your vest?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Oh goodness. Ohhhhhh my. I shouldn’t have said that. I feel I may have made things worse. Charles bursts upon the scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Wait! I can fix this, Ray. (off Holt’s look) Sorry, butt meds, Ray. Can’t stop saying Ray. Ray Ray Ray Ray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Now’s not a good time, Boyle-- Sharon puts her hand over Terry’s mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "Hush. I want to hear this. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Boyle, let’s not-- Charles puts his hand over Holt’s mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Hush. Truth time: (to Sharon) We love your husband. He’s a great cop. We will do anything to protect him. And you have incredibly attractive hands. Terry smiles, smug. Charles whips around to face him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "And you! What the hell are you doing, lying to your wife?! Unless you want to move into my ex-wife’s new boyfriend's basement with me, you have to man up. Don’t you ever keep anything from this beautiful woman again! (then to Sharon) Seriously, you are beautiful. And if he ever lies to you again, you can call me. Terry turns to Sharon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "I’m sorry, honey. I just didn’t want to worry you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHARON",
+          "text": "Hey. I’m always gonna worry about you. But if you say you’re ready, then get your ass back in the field. (off Terry's smile) But next time you keep something from me, I will leave you for this short earnest man and his ex-wife’s new boyfriend's apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I know you’re kidding, but Hercules is actually a very good landlord. Sometimes when they go on nice vacations, I’m allowed to use the hot tub.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake looks out over the city, heroically. Then, a la Batm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sleep well, Brooklyn, for tonight I am your guardian. * \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "(then) I don’t know how Batman does it. This is so scary. Jake jumps down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Hey, can you hand me the binoculars? They’re in my stakeout bag. She reaches into his bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Your stakeout bag is 98 percent nuts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Yeah, I get snacky. Nuts are great for you, they don’t have any fat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Jake, that’s not true at all. That is waaaay off base. They eat nuts for a beat. Amy notices something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I think a pigeon just flew out of your car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Oh. Yeah, the windows don’t go up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I don’t know why I fought so hard to get that car -- it’s kind of a piece of crap. Honestly, why are you so into it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "You really want to know? It reminds me of my first time. Amy puts her hands over her ears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Ewwww...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "No, not that, my first arrest. Get your disgusting mind out of the gutter. (then) I was two days out of the academy. I’m super nervous. I see a guy run out of a bodega with a handful of cash. 10/25/13 26. 38 \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 27. 38 39 40",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "I chase him, on foot, for 11 blocks before I catch up to him. I take him down and cuff him against the hood of a car. A green ‘68 Mustang. I look over... ‘for sale’ sign in the window. It was the best day of my life. So TI bought the car. (off her smile) And that’s when the debt began.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "“Crushing debt.” (off his smile) I remember my first arrest. I was seven. INT. AMY'S CHILDHOOD BEDROOM —- FLASHBACK - 1989 (FBD) YOUNG AMY has HER DOLL bust A TRANSFORMER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG AMY",
+          "text": "There are two ways this can go down: the easy way or the hard way. The Transformer bolts. Her Doll shoots it in the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG AMY",
+          "text": "Oh yeah?! BAM! BAM! BAM! BAM!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "The doll was in the right -- the robot was resisting arrest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "That's what I said. And the judge, a stuffed owl, agreed. He was later disbarred for accepting bribes. I was a weird kid. Jake smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "You know, I don’t think we’ve ever just sat down and had a real conversation. It’s kind of nice. Nut? Jake nods. She tosses one in his mouth. He catches it. tries to flip one in her mouth and fails miserably.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Dude. Are you trying to catch it in your nose? 38 39",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I got it. I got it. Jake's phone RINGS and he checks it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "It's Holt. Keep practicing. (answering phone) Peralta.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Good news, I found someone from the night shift to relieve you on your stakeout. Jake checks his watch and thinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "+-.-I can still make it to Times Square... Jake looks back at Amy. She throws nuts in the air and catches them. She misses every one. A beat, then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Eh, that’s okay, Captain. Don’t send the relief team. We’re already here, and I’m kind of curious to see what happens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake walks back to Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What did Holt want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Just checking in. How you doing -- any better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yup -- watch. She throws a BUNCH OF NUTS into the air and catches three",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "The key is volume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Awesome. Volume me! She throws a HANDFUL OF NUTS at his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "28.",
+          "text": "\fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 29. 43 44",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake and Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Tell me the truth, if you’d won my car would you really have destroyed it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "No. I was gonna drive it...so I could learn stick. It would’ve been like... Amy mimes using a stick and makes grinding noises. Jake covers his ears and laughs, tortured.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Errreggggh. Clunk! Errrrrr. Clunk. Errrr. Oh no, I just scraped off the fender! Erreggh... A TRUCK pulls up on the street below. Jake puts his hand Amy’s arm, pointing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Look. There’s our guy. The truck backs up against a loading dock. TWO GUYS get o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What’s the play here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Just follow my lead. Give me the ring. (then) Now give me some nuts. (intense) I’m snacky. She takes it off and hands it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As the guys unload boxes from the truck, Jake walks up, looking at a map program on his phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "You know what, honey, fine! I’11 ask the guy, will that make you happy?! He approaches one of the thugs. \f44 BROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Excuse me, sir --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERP",
+          "text": "We’re kinda busy here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "My girlfriend thinks we're lost.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "No. I know we’re lost. I think he’s an idiot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Idiot?! You know why we’re out here in the middle of the night, Susan? Jake pulls out the ring. The SECOND GUY walks over, curio",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "I was going to propose to you at midnight on the Brooklyn Bridge, where we met.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Brooklyn Bridge?! We met on the Manhattan Bridge! You dumb moron!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "You know what? This is over. Say goodbye to this ring and everything it stood for! Jake throws the ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Oh! You son of a bitch! The two men hurry over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERP",
+          "text": "Hey! Stop yelling!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Don’t tell Susan what to-- Now! Amy and Jake pull out their guns and say:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE, (CONT'D)",
+          "text": "Get down! NYPD! You’re under arrest! As they cuff the perps:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Nice work. 30. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "You, too. Alright, let’s go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Uhhh, actually, I really need to find that ring -- it cost a fortune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rosa is getting her coat. Charles enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Hey, I need to talk to you. Rosa looks around and realizes she’s trapped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Uh oh. It’s happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Remember when I took those bullets for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Okay, let’s do this. You're sweet, but-- He takes a deep breath, then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I didn't know it was you. When I jumped in front of the bullets, I didn’t know who I was protecting. I just saw a gun and an NYPD vest so I dove on instinct. Rosa is stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "You’ve been extra nice to me because you thought I risked my life for you, but I only did what every good cop would do. When you finally go out with me, and you will, it’ll be because I do things that only Charles Boyle would do. Charles turns on his heels and walks away, proud. Rosa is impressed. A beat later, he comes back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Um, actually, I left my coat in -- it’s blue, calf-length. You know what? I don’t need it. He turns and walks away again, then returns. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 32. 45 46 47",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "But it is really cold. It’s -- I see it -- can we just switch? They awkwardly switch places. INT. HOLT’S OFFICE — THE NEXT MORNING (D3) 46 Amy talks with Holt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "Excellent job on the stakeout last night. I’m glad to see you two still work well together despite that ridiculous bet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Thanks. Me too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT",
+          "text": "And I appreciate you turning down the relief team. I’m not sure they would’ve been able to make that bust.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yeah... right... relief team. Amy turns to exit and looks at Jake at his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Charles enters. Gina walks up to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Hey, Charles, what do you think about Scully's shirt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "I think it’s really elegant. REVEAL: Scully is wearing a purple, suede shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "He looks like an eggplant. (calling off) Captain Holt, Charles is back to normal, can I go home now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOLT, (0.S.)",
+          "text": "No. It’s nine am. Gina walks away. Rosa passes. \fBROOKLYN NINE-NINE \"The Bet\" Shooting Draft 10/25/13 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHARLES",
+          "text": "Hey Rosa, I got a new shipment of beans. They’re exquisite. Want a cup?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Not even a little bit. Charles smiles. She smiles and exits. 48 INT. BULLPEN - JAKE'S DESK — CONTINUOUS (D3) 48 Amy walks up to Jake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "So... sorry you lost so much money last night. Guess you can add it to your list of bad dates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Nah, it goes on the good date list. You know -- ‘cause we caught the bad guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "That's a very mature way to look at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Well, I’m a very mature man. A DELIVERY GUY enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DELIVERY GUY",
+          "text": "Package for Amy Santiago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "That’s me...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Oh no! No, no, no, I forgot to cancel-- The Delivery Guy hits play on a BOOMBOX and strips for Am",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DELIVERY GUY",
+          "text": "Special Delivery from Jake Peralta...to say, “Thanks for last night.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "I’‘1l take this bullet for you, Amy! Jake jumps between Amy and the Stripper, who GRINDS on hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKE",
+          "text": "Ew! I deserve a Medal of Valor for this!",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_374"
+    }
+  ]
+}

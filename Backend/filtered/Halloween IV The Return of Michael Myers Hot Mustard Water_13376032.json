@@ -1,0 +1,3920 @@
+{
+  "movie_id": "MOV831",
+  "scenes": [
+    {
+      "location": "ABANDONED FARM",
+      "time": "AFTERNOON",
+      "characters": [
+        "THROUGH BROKEN WINDOW",
+        "COP",
+        "RACHEL",
+        "MAN 2",
+        "REPORTER",
+        "CUT TO BLACK",
+        "GUARD",
+        "BOY 1",
+        "WADE",
+        "GUY",
+        "KID 2",
+        "MICHAEL",
+        "VOICE",
+        "GIRL",
+        "RACHAEL",
+        "JAMIE",
+        "CUT TO",
+        "THROUGH GARAGE WINDOW",
+        "THROUGH BUSHES",
+        "JAMIE'S GONE",
+        "LOOMIS",
+        "LOGAN",
+        "DR. HOFFMAN",
+        "RESUME ON MAN AND WOMAN",
+        "MEEKER",
+        "NORMAL VIEW",
+        "GUY 2",
+        "BUCKY",
+        "MAN",
+        "MECHANIC",
+        "BRADY",
+        "AL",
+        "RICHARD",
+        "NURSE",
+        "KID 1",
+        "SUPERIMPOSE",
+        "MICHAEL'S HAND BREAKS THROUGH THE DRIVERS SIDE WINDOW",
+        "ATTENDANT",
+        "THROUGH WINDOW",
+        "HANK",
+        "LINDSAY",
+        "AHHHHHH",
+        "KELLY",
+        "KID",
+        "HALLOWEEN",
+        "WOMAN",
+        "EARL",
+        "JACKIE",
+        "FRANK",
+        "MAN 1",
+        "SAYER",
+        "BOY",
+        "RACHEL APPEARS,",
+        "BOY 2",
+        "HADDONFIELD. HOME OF THE HUSKERS.\"",
+        "DARLENE"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A large, run down farm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A cardboard skeleton nailed to the wall of a shed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A bed sheet in the form of a ghost. It's gently swaying  back and forth in the wind. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A half finished barn. A tumbleweed blows by the screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A scarecrow with a pumpkin for a head. It sits on a  tractor, an axe by his side. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A fence. A sharp piece of farm equipment is hanging from  it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A Halloween style weathervane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An ambulance appears in the distance, it's headlights  barely penetrating the wall of darkness. It's a large and lonely road, surrounded on either side by a thick wall of towering trees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We are looking in on the two PEOPLE in front. They're bot men in their thirties or forties. They don't talk to each other, just stare straight ahead. We see movement through the tiny window at the back. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The ambulance pulls up to the gate. The driver honks the  horn. A GUARD comes running out of a building. He turns o his flashlight, looks inside the ambulance, then at his  clipboard. He waves them through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUARD",
+          "text": "Okay.  Go on through. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Another GUARD pushes a button on a control panel and the  doors slide open. A MAN AND WOMAN rush in, wet. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "All metal objects into the tray.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They put the objects into the tray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "Purpose of visit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "A patient pickup and transfer to Smith's Grove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "You're late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yeah.  Should be on the road. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "Yeah, ha, hell of a night huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Real charmer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "I'll take you down there. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "All right.  The man and woman follow the attendant through hallways.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "First time here, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Hope it's the last. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "You never get used to the faces.  Never.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Jesus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "Jesus ain't got nothing to do with this place. Come on.  They step into an elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "Yeah this is where society dumps its worst nightmares.   Yeah the one your picking up-just thinking about him give me the willies.  Yeah, a decade ago, Halloween night he  murdered 16 people, maybe more-trying to get to his siste Nearly got her too.  But his doctor, of all people, shot  him six times.  Then he set him on fire.  Both of them  nearly burned to death.  Yeah, I'll be glad to see this o gone. Oh yes in deedie.  He opens the elevator door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTENDANT",
+          "text": "Welcome to Hell. The scene switches to a person all bandaged up laying in hospital bed. A NURSE talks to DR. HOFFMAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Doctor? The transfer personal are here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Smith's Grove?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "I'm Dr. Hoffman, Medical Administrator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Has he been prepped?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Ready to go.  Who signs for him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Outside. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "(To woman)  Check him out.  The man and the Dr. Hoffman both leave the room while the woman goes to check out the patient. She feels for his  blood pressure and then his hand falls out from under the sheet.  The scene then goes to the Dr. and the man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "I'd assumed Dr. Loomis would be here.  Michael Myers was  his patient. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "If Loomis read memos he's be here. Fortunately his positi is more ceremonial then medical. My hope is that he's  either transfer, retire, or die. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "All right.  Lets move him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael is being wheeled out to the ambulance.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Watch it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "I can safely say that Michael Myers is now in your hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yeah.  Well I guess your happy to see him go. They put Myers in and close the doors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Night Doc. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Drive Carefully.  They drive off, leaving Hoffman standing there. He's glad Michael Meyers is finally away from him. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The woman and man are talking, an unconscious Michael  Meyers between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Did Hoffman say anything about living relatives?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yeah A niece living in his home town. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael's hand. It slowly grips his blanket. The terror h awakened...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "And? She's too young to be his legal ward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "So the state owns him? Great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "You know I still don't understand... Suddenly, Michael's hand shoots forward, grabbing his hea The woman screams as Michael repeatedly pushes the man's  head into a wall. Blood smears along the wall. The woman  sinks down onto the floor, screaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "No! Michael digs his finger deep into the man's skull, drawin blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JAMIE LLOYD, Laurie's nine year old daughter, sits on the couch, staring out the window. An ambulance sits outside. Jamie is very pretty with dark hair. SUNDAY, the family  dog, sits next to her. RACHEL, the Corruthers' only  daughter, comes into the living room. She's about 16, 17. Her blond hair falls around her shoulders. She sits down  next to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Kido. It's four in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I can't sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What is this? Four nights in a row?  You going for a reco here?  The seven year olds insomniacs hall of fame?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Do you love me Rachel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, serious questions tonight.  Of course I love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Like a sister?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, sometimes it's...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Like a real sister?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We're not real sisters Jamie, but that doesn't mean I lov you any less. Jamie looks out the window and sees that the ambulance is gone. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Sure it does. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I know you miss your parents, its hasn't been that long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "It's been eleven months. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Your mother used to baby-sit me when I was your age.  I b you didn't know that. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Your lucky.  I wish she could do the same for me. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on Jamie, lets go back to bed.  Come on Sunday.  She calls Sunday and he follows them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Sleep tight.  We'll have French toast for breakfast, okay Come on Sunday. Night night.  She leaves, closing the door behind her. The window is  open, band wind blows inside, chilling the room. Jamie  walks over to close it, and as she does, she passes her  vanity, with a large mirror in the center surrounded by t mirrors on both sides. Thunder lights up the room, and  Michael, mask in place, is seen in the mirror. Jamie  doesn't notice.  Jamie closes the window and looks around. She walks to th closet and opens it. She sits on the floor and picks up a box. She takes off the lid and goes through the various  pictures inside. She comes to a picture and pulls it out. It's a picture of Laurie holding a pumpkin, smiling. Jami begins to cry. Thunder rumbles outside. Jamie puts the  picture back in the box and closes the closet door. She  walks over to her bed and gets on her knees, about to pra",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Now, I lay me down to sleep I pray the lord my soul to  keep, if I should die before I wake I pray the lord my so to take.  God bless Mr. and Mrs. Corruthers. God bless  Rachel, God Bless Sunday, god bless me. And god bless Mom and Daddy in heaven.  Amen.  She's about to crawl into bed when the closet door creaks open. Strange. Jamie slowly stands up and walks over to t closet. She grabs the door and opens it. On the floor is  her doll. She picks it up and sets it on a shelf. Jamie  turns, but a creak noise behind her grabs her attention.  She looks back into the closet, but of course nothing is  there. She stands for a minute, her mind in overdrive. Sh dismisses the noise and closes the door. She walks to her bed as thunder rumbles in the distance.  Again, the closet door creaks open. Jamie just stands  there. Why is the door opening? She slowly heads towards  the closet, her eyes roaming the room. Suddenly, a hand  snakes out from under the bed and grabs Jamie! She scream ans falls to the floor. Her tiny hands flail about on the floor, trying to find a handhold. She kicks and gets her  foot free. She races towards the door. At the bed, a figu sits up and turns to face us, even though he is bathed in darkness. Lighting cracks outside, and the room is  illuminated. It's Michael! Jamie screams and runs to her  door, but it won't open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Help! Help me, please!  Michael stands up. He has a knife in his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Help me! Somebody help me! She finally gets the door open, only to reveal... MICHAEL knife high in the air, prepared to strike. Jamie screams  and backs up in fear as Michael advances.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A door flies open and DARLENE, Jamie's foster-mother, run out into the hall, closely followed by RICHARD, Jamie's  foster-father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Darlene flings the closet open to find Jamie, eyes closed clutching the box full of pictures. Darlene drops to her  knees and embraces Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Oh dear God. Its all right...a bad dream, just a nasty ol dream. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "It's okay..it's okay.  Richard takes Jamie in his arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Your gonna be fine. Just fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're house is a nice red brick with two stories. Looks to be early Victorian style. In the streets, children rid bikes and walk. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Darlene is making eggs. Richard bends down to pick up his coffee and his tie dips into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Dammit, Darlene. Darlene looks over and sees his tie, wet. The phone rings",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Clean one in the laundry room next to your blue slacks.  (Picks up phone) Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Honey, this tie has a spot on it, I can't wear this today I got a 10:30 with Chuck. Rachel comes into the kitchen and begins opening cabinets and pulling out stuff. She goes over to where Darlene is  talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "(into phone)  Hang on Mrs. Pierce.  (to Richard)  Not that tie, on the other side.  (to Rachel)  That's not the only thing your eating Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Mom, I'm on a diet. You want an oinker for a daughter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Found it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "(into phone)  Sorry. Do you suppose Susan could just bring her crutches Oh, stupid question. Tell her I hope  she feels better.  (hangs up)  Susan's mother, she can't baby-sit tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Susan broke her ankle last night at the ice rink  (turns to Rachel)  Rachel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Mom, please",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "You'll have to watch Jamie tonight. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Not tonight. I've got that date with Brady. You know how  important that is. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Well tonight is very important for your father and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Can't you find somebody else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Its too late. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What am I supposed to tell Brady? Sorry, but I've got to  baby-sit my foster sister, go and have fun by yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Its not exactly the end of the world, for goodness sake Jamie appears in the doorway. Rachel doesn't notice her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Sure it is. I think tonight Brady was ready to make a  commitment.  But now my future relationship, my engagemen my marriage, my children, your grandchildren, have all be wiped out because I have to baby sit tonight. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I'm sorry I ruined everything. If I wasn't here you could go out.  She runs off. Rachel groans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Good job Rachel. That little girl needs all the love we c give her right now and all you can do is think about  yourself. Rachel gets up and heads out of the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's a knock at the door. It opens and Rachel comes  inside. Jamie sits on the bed, petting Sunday. Rachel sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, I'm sorry. I didn't mean it like that. I can go ou with Brady tomorrow night. Its no big deal. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "But you wanted to go out tonight. It's my fault that you  can't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well tonight we're going to do something better. We're  going to go trick-or-treating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I don't want to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "It's Halloween. I mean don't you want to get dresses up i a really scary costume and get some candy?  Jamie just sits there. Rachel has to try a different  tactic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "How about this afternoon I pick you up from school and we go get ice cream?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Double scoops?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(laughs) Double scoops. Now lets get some breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DR. LOOMIS walks down the hallway, limping. He has burn  scars on his face and hand. He walks to a door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hoffman sits at his desk, typing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Why wasn't I notified?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "You know damn well about what.  You let them take it out here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "For Christ sakes. Spare me the speech. I've listened to i for a decade.  The fact is that Michael Myers was a feder patient, and a federal prisoner therefore he is subject t federal law.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "We're not talking about any ordinary prisoner Hoffman! We are talking about evil on two legs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "I can see this is useless. Loomis Do you know what today is? Do you know the date? Everyday look at myself in the mirror and everyday I remember. Loo at me Hoffman, take a good look.  He holds up his hand and indicates his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "I don't want to have anyone live through that night again",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "I've said this before. I think your the one who needs  medical help. His phone rings. He answers it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Yes, Dr. Hoffman...I see...I see...thank you.  He hangs up. He looks at Loomis, not sure how to say this",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Apparently there was an accident. Just south of Mill Cree near the... But Loomis isn't listening. He bolts to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Loomis! Loomis!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Road flares are lit and tossed on the ground. Police tape is strung up. Loomis's car comes roaring down the road. I pulls up to the accident scene. An OFFICER waves them, on The car comes to a stop and Loomis and Dr. Hoffman climb  out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Is that it?  He points to the overturned ambulance in the pond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Yes.  A COP comes over to them. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "When did this happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Sometime in the night. They probably lost the road in the storm. Come down the embankment. It happens. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "An accident?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Do you believe that? He starts walking towards the pond. Dr. Hoffman can't  believe Loomis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Why shouldn't I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "How many people in the bus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Four plus Myers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "How many bodies did you find? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "It's hard to tell, there all chewed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Loomis, it's over. Leave it alone.  Loomis just stands there for a minute, then walks into th pond. The water is not very high, and Loomis uses his can for support. He walks to the back of the ambulance and  looks inside. Everything is bloody. The bed is tipped and splattered with blood. Loomis knows what happened. He  knows. Loomis turns away from the scene of bloody carnage and walks back to shore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "He's gone. He was here, and he's gone. Dr. HOFFMAN Did you find any other bodies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Not yet. There's a lot of ground to cover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "You won't find him. He's done all this. Now he's escaped. Dr. HOFFMAN You don't know that. Michael could have been thrown from  the bus. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "I've seen bodies thrown 50-60 feet from a crash site. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Look, even if by some miracle Michael is conscience, his  muscles would be totally useless.  Give the troopers a  chance to search. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Your talking about him as if he were a human being. That  part of him died years ago. He begins walking back to his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. HOFFMAN",
+          "text": "Now where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Haddonfield. It's a four hour drive. You can reach me  through the local police. If you didn't find him in four  hours, I'm sure I will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A MECHANIC works underneath a car. He calls out to anothe mechanic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MECHANIC",
+          "text": "Hey, Gar! How about a 9/16 wrench over here?! He gets no response. He wipes off his hands with a rag an slides out from underneath the car. He gasps. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "stands above him, pole in hand. He smashes it into the  mechanic's stomach, killing him instantly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis's car pulls up to the gas station. Loomis turns th car off and gets outside. He yells out to the gas station",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Hey! Hey there! Hello?  No response. Loomis grabs the gas nozzle. He bends his  license plate back and unscrews the cap lid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THROUGH GARAGE WINDOW",
+          "text": "Someone is watching Loomis as he pumps gas. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He finishes pumping the gas and places the nozzle back on the pump. He reaches into his coat for his wallet. He wal into the garage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis searches through the garage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Hello? Hello? Is anybody here? Hello? Hello? Loomis passes a big hook, and suddenly there's a rattling behind him. He turns to see the mechanic, tied up with  chains, dead. Loomis races outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis races for the small store next to the garage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis throws open the door and looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Is anybody here?  No response. Loomis pulls out his small gun. He spots a  phone behind the counter. He races to it, but stops when sees the dead waitress laying on the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "God in heaven.  He looks at the phone, but it's broken. Loomis glances  around the store, and sees a pay phone on the back wall. walks over to it and grabs the phone. The cord has been  ripped out. Suddenly, he feels eyes on his back. He turns",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Michael?  And sure enough, there is Michael, wearing a pair of  coveralls, standing in the doorway to the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Why now? You waited 10 years. I knew this day would come. Don't go to Haddonfield.  He takes a step closer to Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "If you want another victim take me, but leave those peopl in peace. Please Michael...God Damn you... He raises the gun and fires two or three times before  realizing Michael is gone... He rushes to the window and  peers outside. He hears a car door slam close.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis comes outside and looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Michael?! Suddenly, the garage door breaks open as the towing truck comes roaring outside. Loomis takes aim and fires, but hi bullets do nothing to stop the truck. Loomis jumps out of the way. The truck hits one of the pumps, tossing it into the air. Fire erupts, engulfing the other pump, then  Loomis's car. A huge explosion ensues. Loomis jumps behin some barrels. The truck takes off down the road. The fire spreads to the electrical pole and blows the fuse box. Th wires snap free. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bell rings and all the children come pouring out. The all wear costumes, except Jamie. She goes over to a rack  and grabs her lunch box. Three KIDS surround her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY 1",
+          "text": "Hey Jamie! Where's your costume?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY 2",
+          "text": "Where's your mask? Or are you wearing it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I don't need to wear a stupid costume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY 1",
+          "text": "That's because everyday is Halloween at Jamie's house.  Right Jamie. Because your uncle is the bogeyman. The kids start chanting bogeyman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRL",
+          "text": "How come your mommy didn't make you a costume?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY 2",
+          "text": "How could she? Her mommy's dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY 1",
+          "text": "Jamie's Mommy's a mummy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Stop it okay? Stop it She starts walking away. The kids begin chanting, \"Jamie' an orphan.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Stop it. Please Stop it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie runs outside, but the kids' chants still haunt her. She runs over to a tree and begins crying. She immediatel stops. JAMIE. You're okay. You're okay.  A car pulls up. Rachel sticks her arm out and waves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie!  Jamie turns. Rachel notices that something is wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, are you okay? Jamie gets in the car and they drive off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie sits in between Rachel and her friend Lindsay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You remember Lindsay don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "Hi Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Hi. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You ready for some Ice Cream?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I wanna go trick-or-treating like the other kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "But I thought you didn't want to go trick-or-treating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "You know Rach, Discount Mart is having a sale on Hallowee costumes. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No. Brady's working there till 6:00 today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "I know! Don't you want to talk to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I don't want to look pushy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "You won't look pushy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well I don't want to come on too strong. A guy hates a gi to come on strong. Fragile egos and all of that. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "You won't come on too strong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well I don't want to seem desperate or anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "Fact it Rach, you are desperate. (silence) Your just goin to go in and buy a costume for Jamie. Perfectly legit. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I don't know. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "Well do I drop you off at the Discount Mart or the Dairy  Queen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "The Discount Mart. Can we get Ice Cream after?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You bet.   They continue driving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WADE, a teen around Rachel's age, tries on sunglasses,  looking into a mirror. But he's really staring at KELLY, beautiful blond teen with looks that could kill. The only problem is she's Sheriff Meeker's daughter. BRADY, Rachel boyfriend, and another GUY are by Wade. Brady stands behi a counter while the guy stands next to Wade. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Hey Wade, why don't you go ahead and make your move?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WADE",
+          "text": "Don't rush me Brady. Timings got to be premo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Yeah well, money talks and bullshit walks. you know what mean?  He throws a wad of bills onto the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Double or nothing you don't ask Kelly out. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "All right, ten bucks. Lets see it.  Wade and the guy place their money on the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "He's not gonna do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Chicken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Don't forget man, she's Sheriff Meeker's daughter",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WADE",
+          "text": "Her Daddy don't scare me.  He makes his way over to Kelly, who is standing on a step stool, placing bottles onto a shelf. Wade coughs to get h attention. She turns and looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Fuck off Wade. Wade turns to Brady and the guy, hurt. Kelly goes back to shelving bottles. Brady and the guy start laughing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lindsay's car pulls up to the curb and stops. Rachel and  Jamie get out. Rachel calls to Lindsay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Call me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINDSAY",
+          "text": "Okay, bye. They go inside and Lindsay drives off. We see a familiar  tow truck sitting opposite the Discount Mart...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brady immediately spots Rachel and Jamie as they walk  inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Rachel! What are you doing here? I thought I was supposed to pick you up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie needs a Halloween costume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "You do? Okay. Go down aisle A. We've got the best costume in the whole town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Come on Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "In a second.  Jamie heads for the costumes aisle while Rachel talks to  Brady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We need to talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Okay sure. What about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Its about tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Jamie, wandering the aisles. There are all sorts of masks She passes by a white one. She looks through the racks an sees a clown costume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel, I found the perfect costume come see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Rachel and Brady kissing. Rachel pulls away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "My parents baby-sitter canceled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "So I have to watch Jamie tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "When did you find this out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "This morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Well you found out this morning? Why didn't you tell me  before? I mean it's 5 o'clock now Rachel...shit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Don't get angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "I'm not angry it's just  Kelly looks over. A plan is forming in her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Can I come over after Jamie's asleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "My parents are going to come home early tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I don't know Brady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Okay, I guess. I'll call you later.  He walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Jamie looks at herself in the mirror with the costume. On another aisle, a burned hand reaches down and grabs the  white mask. Jamie continues to look into the mirror, when suddenly her image changes to a little boy in a clown  costume holding a knife. She steps back in fear and bumps into Michael. He pulls on the white mask. He reaches out  for her and Jamie screams. She backs up into the mirror,  shattering it. Shards of glass go flying. Jamie sinks to  the ground. Rachel comes running over, and Michael is no  where to be seen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, what happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "It was the nightmare man",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "He's coming to get me Rachel.  Kelly walks over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Your okay. You probably saw a mask and it scared you. At  least your not cut. Come on, lets go home. Brady, Wade, and the Guy come over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Everything okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "She'll be fine. They get up and leave. Nobody notices Michael's reflectio in a broken piece of glass...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis walks down the road, beat. His throat is parched a his feet are tired, but he marches on. A station wagon  speeds down the road, and Loomis tries to flag it down, b it speeds past him. A car speeds past him, then stops. It full of CHEERLEADERS and a GUY",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Come on old man! Loomis begins hobbling towards the car while the  cheerleaders shout at him to hurry. As he gets closer, th car takes off, making dust fly into the air. We can hear  the people laughing. Loomis stands in the road, rejected. Suddenly, there's a honk behind him. He turns to see a  truck, PETE SAYER at the wheel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAYER",
+          "text": "Get in here old man. Loomis walks over to the truck and gets in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A very old, beat up truck. Sayer is an old, eccentric man living in his own fantasy land.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anything for a fellow pilgrim. Sometimes we need help  getting where we want to be. (sneezes) Reverend Jackson  Pete Sayer of Dumon County, please to make your aquanauts",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "How far are you going, Mr. Sayer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAYER",
+          "text": "Gods Country, Promise Land. Where are you heading Mr..ah",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Loomis. Haddonfield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAYER",
+          "text": "Car trouble?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Sort of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAYER",
+          "text": "Your hunting it, ain't ya? Yeah, your hunting it all righ just like me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "What are you hunting, Mr. Sayer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAYER",
+          "text": "Apocalypse, end of the world, Armageddon. Its always got face and a name.  He takes a drink of the liquor. Hunting the bastard for 30 years give or take. Come close time or two. Too damn close. You can't kill damnation Mr. it don't die like a man dies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "I know that Mr. Sayer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAYER",
+          "text": "Oh your a pilgrim all right. I saw it on your face back  there in the dust. I saw it clear as Breasts and blue sue shoes. Would you like a drink? (Hands Loomis the bottle w takes it.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's Halloween night, and the children are out. But not a are collecting treats. A few KIDS throw toilet paper over tree, then run away laughing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Richard and Darlene are at the front door, getting ready leave. Jamie is in the kitchen scraping off a plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Okay Jamie, we're leaving. Where's Rach?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I don't know. Rachel comes into the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Here I am. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Come on, hon. He takes Jamie's hand and leads her into the foyer. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "How do we look?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You guys always look great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "We'll be at the Fallbrooks. The number's next to the phon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I know, and next to that is the police, hospital, fire, a probably National Guard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I want you two to have fun tonight. Make sure Jamie's in  bed by 9:30. Rachel opens the door and her parents step outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THROUGH BUSHES",
+          "text": "Richard and Darlene are at the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You're gonna be late. You don't want to blow your  promotion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Don't make fun. Tonight is the difference between vacatio in Bermuda, or spending another two weeks in Cleveland wi your grandmother. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "So hurry up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Bye. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Good luck, Dad.  They leave. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie turns to Rachel, barely containing her excitement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel, can I go get my costume on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, hurry up.  Jamie hurries upstairs. Rachel makes sure she's upstairs, then walks into the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THROUGH WINDOW",
+          "text": "Rachel walks into the living room. The POV walks past the brick wall to the other window. Rachel is sitting in a  chair, phone to her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Is Brady there? (pause) He's not back from work yet? (pause) Okay...Well when he comes in could you tell him to drop b at about eight. I should be home by then. (pause) This is Rachel. Okay, bye.  Rachel hangs up, depressed. She calls up to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on Jamie, your gonna miss all the good Candy. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie sits on her bed, clown costume on. She pulls on the small face mask, which looks like a dorkier version's of  Robin's mask. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel gets up off the chair and moves out of our line of site.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on Jamie. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Jamie come running down the steps. She opens the  front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Come on Rachel!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Coming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I thought you said you were ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I'm ready. I'm ready. Okay, let's go. They leave the house, Jamie excited. Rachel closes the  door. And off they go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's making his way upstairs. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The box full of pictures has been thrown down, all the  pictures scattered. A burnt hand comes into view, and  starts going through the pictures. They are pictures of  Laurie and Jamie at an earlier age.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis comes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Ah, I need to speak with Sheriff Bracket. HANK, the cop on duty, turns from his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Well then, you'll have to travel about 3 thousand miles  south of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Bracket retired in '81. Went to St. Petersburg",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Oh. Well, who's the new Sheriff? BEN MEEKER, the new sheriff of Haddonfield, walks over to Loomis. He's a man in his early forties with an air of  power. Not a man whom who should cross.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "I am. Ben Meeker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Oh, Sheriff Meeker, my name is Dr. ...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Loomis. Folks around here aren't likely to forget your  face. At least not cops. So what brings you back here aft 10 years?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Michael Myers has escaped from Ridgemont. He's here in  Haddonfield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "That's impossible. Michael Myers is an invalid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "He's here, Sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "10 years ago he tried to kill Laurie Strode, and now he  wants her daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Are you talking about Jamie Lloyd?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Where ever she is, that little girl is in mortal danger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Myers has been locked up since before she was born. He's  never laid eyes on her.  He turns his back, and starts to move off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Six bodies, Sheriff! That's what I have seen between here and Ridgemont. A filling station in flames. I'm telling y Michael Myers is here in this town. He's here to kill tha little girl and anybody that gets in his way. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Hank, call the troopers and check his story out.  (to Loomis )  And assuming what you say is true..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Its true, Sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "All right, all right. Its true, what the hell can we do t avoid a repeat of what happened 10 years ago?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Find this little girl, get her somewhere safe. Call the  local T.V. station. Tell them to get people off the stree and behind locked doors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Can't get long distance, Sheriff. Operator says the lines are down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "All right, lets go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "When he makes that call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "All right. Pierce, do it. Lets check on this little girl. He and Loomis leave the station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie is at a house, getting candy. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Thanks!  She takes off to the next house. Rachel can hardly keep u",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, wait for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "This is great Rachel. Come on.  She takes off for the next house. Rachel is less than  enthused. She slowly makes her way to the next house, a m of kids running past her. Jamie is already at the next  house. She knocks on the door. A WOMAN answers the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Trick-or-treat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "My what a cute little clown. Lets see what I have for you There you are, sweetheart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "You're welcome. They get back on the sidewalk. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Had enough?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No way! Halloween's great. Can we stay out all night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Forget it kido. We're home by eight o'clock.  They cross the street and meet a group of four kids, one whom is the boy who teased Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KID 1",
+          "text": "Look, there's Jamie. Jamie and Rachel stop. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KID 1",
+          "text": "That clown costume is really cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KID 2",
+          "text": "Yeah. Nobody notices Michael, standing across the street, hidde in the shadows of the garage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KID 1",
+          "text": "Hey wanna go with us? Jamie looks to Rachel for permission.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Go ahead. The kids run to another house. It's a brick house with tw stories, an attic, and a basement. The kids ring the  doorbell. The door opens to reveal Kelly Meeker, wearing long T-shirt that says, \"Good cops do it by the book.\" Sh sees Rachel and glances back into the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Hi Rachel. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hi. Kelly starts to give the kids candy, a big smile on her  face. Rachel glances back into the house and sees Brady  come down the stairs. Rachel can't believe it. As the kid start to leave, Rachel turns in disgust and follows. Brad comes racing out of the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Rachel! Rachel! Kelly stops him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Just a second. He races off after Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Rachel, I've got an expl-- I've got an explanation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You don't owe me anything. Jamie walks on with the rest of the kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KID",
+          "text": "Hey Jamie come with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Okay! Jamie follows the other kids, leaving Rachel and Brady to argue.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Just leave me alone and lets forget it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "No, you don't understand.  He glances over at Kelly standing in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "I mean, you blew off our date at last minute. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "So you hop on to the next best thing? I thought you were  different from other guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "I am different, it's just that I just got pissed  off...that's all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh really? Well, I'll just let you get back to little Ms. Hot panties.  She starts to walk away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Rachel! But Rachel doesn't care.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie!  Brady puts his hands behind his head and watches Rachel g He messed up big time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Brady, are you coming in or what? Brady takes one more glance at Rachel then goes back  inside. Rachel looks around for Jamie, but doesn't see he or the kids she was with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie! Jamie! Great Rachel, just great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A very noisy bar, just like any other. A T.V. positioned  behind the bar is turned on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "By order of the Sheriff's office, all citizens of  Haddonfield are asked to clear the streets. EARL, the store's proprietor, watches the news.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Everybody shut up a goddamn minute. Shut up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "All businesses are asked to close as soon as possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "What's all that shot about, Earl?  Earl picks up a phone and starts dialing the police stati",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Not like 'ol Ben Meeker do something like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Sure ain't. Martians could land on Ben's doorstep, all he do is spit once and get himself a shot gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Who you calling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Police station. I ain't closing down with out a good  goddamn reason.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY 2",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "It just rang.  He hangs up and takes a swig of a beer. Then he's off. He looks at the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Well, come on. Jackie, watch the register for me, hun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "You got it Earl. As Earl and the other men leave, all the other people in  the bar stop what they are doing and follow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Earl and the other pile out of the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "What's going down?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY 2",
+          "text": "Where are we going Earl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "We're going to Ben's. The phone never just rings at a  police station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "No way. No how.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY 2",
+          "text": "Wake up the Sheriff. They all get in their trucks and rive off. A hillbilly mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The door opens and Meeker comes in, holding a shotgun.  Loomis is right behind him. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The door opens and Loomis steps inside. He tries the ligh switch. Nothing. Loomis isn't surprised. He looks around. That's when he spots the pictures on the ground. He bends down and picks them up. As he does this, he notices  something even worse. Meeker comes inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "He's been here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "How do you know?  Loomis looks at the closet. Meeker follows his gaze. In t closet is Sunday, dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "This is starting to spook me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Least I'm not alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Meeker and Loomis come down the stairs. LOGAN, a deputy  with blond hair in his late thirties, stands in the livin room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Logan, I want you to stay here in case the family gets  back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Right here, Ben.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "You look sharp. You understand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "No problem, Sheriff. Loomis and Meeker leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BUCKY, an electrician, opens a fuse box. He tries a fuse  switches. Nothing. He pops a piece of gum in his mouth. H glances up, and sees Michael, standing behind his truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BUCKY",
+          "text": "Hey you! This is city property. No trespassing. He walks over to Michael, who just stands there, bathed i darkness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BUCKY",
+          "text": "What are you, deaf? Don't try that Halloween shit with me All right, I'm on the telephone to the police right now.  Don't you even think about leaving.  He turns and begins to walk towards the phone. Michael  begins following. Bucky turns and Michael grabs his shirt and belt, and throws him through the air. Bucky lands on power unit, and sparks fly. The whole place buzzes while  Bucky screams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lights go off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bucky continues to fry, while sparks shoot up into the ai Michael turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lights flicker, then go off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A huge explosion rips the beams, and then all is quiet.  Poor Bucky is fried to a crisp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The kids are still trick-or-treating, but their parents  drive up in cars and collect them. The kids complain, but the parents are very firm. Meanwhile, Rachel wanders the streets. She stops in the  middle of a street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie! No response. Rachel begins walking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THROUGH BROKEN WINDOW",
+          "text": "He is breathing heavily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She sighs and moves on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie is lost and alone, scared. She is in the bad part o town, and has no one to go to. Suddenly, a noise behind  her. She turns around. A bush is moving. But is it the  wind, or something far more sinister?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel? Is that you? Is that you? Jamie turns away, very frightened. She starts walking.  Behind her, on a porch, is a grinning jack-o-lantern.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel is also scared, but trying not to show it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie? Jamie! She stops walking, and hears a branch snap behind her. Sh glances behind her. She sighs and starts walking again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie? She looks past a house into an alley. It's a dead end. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie? Rachel sighs. She could be anywhere. Rachel glances the  other way and sees a dirt road. But that's not what  attracts her attention. It's the man that does. His upper body is shrouded in smoke. He begins walking towards  Rachel. She backs away and runs down the alley. She jumps onto the tire and grabs a hold of the fence. She begins t climb it, going as fast as she can. When she reaches the  top she jumps down to the ground, and takes off running.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh God! She runs down an alley and jumps over a small fence  separating two lawns. She runs onto the sidewalk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(scared) Jamie. She takes off running.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie walks down a dark street. She hears rustling behind her. She turns around and looks behind her at all the tre and the old house. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Whoever you are, I have a really big dog with me and he  bites. In the background, Rachel comes running across a lawn.  Jamie turns and sees Rachel. Rachel rushes over to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie! Where have you been? Don't ever go off on your own at night again okay? Not ever.  They hug, both glad for the company. Suddenly, headlights illuminate them. They look over to see a cop car. Meeker  and Loomis get out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Rachel, Jamie. Thank God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Get in the car. Come on, quick. Rachel and Jamie hurry to the car and get in the back.  Meeker makes his way over to the driver's side. Loomis is about to get in when he sees HIM. Michael, standing acros the street, hidden behind a row of bushes. Meeker spots h too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Is that him? Is that him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Yes. Across the street behind Meeker another Michael appears.  Meeker turns and spots him. Then a third Michael appears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Oh Christ. Doc...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Dear God.  Loomis pulls out his gun. Which Michael is real. He takes aim and is about to fire when:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Hey! Don't shoot! The other two also pull of their masks, and run away,  laughing and taunting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Get home dammit. There's a curfew. If I catch your asses, it'll be a weekend in jail. You all right Doc? Come on,  we'll get to the station and get these kids safe. In the car, Jamie begins to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay. Meeker and Loomis get in the car and drive off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "(on CB)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come in Pierce. Behind them stands the real Michael Myers, watching,  waiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The whole place has been wrecked. papers and equipment ha been strewn about. Meeker and Loomis survey the  destruction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Oh Christ. They wouldn't have given up without a fight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "They didn't know what they were fighting. Meeker makes his way deeper into the station. He stops wh he spots Hank, stabbed and cut in so many places. He can' believe his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "How can a man do this Loomis? Tell me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "It isn't a man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "What is he? Tell me! What the hell are we dealing with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Evil. With that, Loomis exits the police station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel and Jamie are still in the car, Jamie sleeping. Th three trucks full of hill billies drive up, and Jamie wak up. Meeker and Loomis come out of the police station as t hillbillies pile out of the trucks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "What in Sam Hill is going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Go on home Earl. It's police business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "What the hell did this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Looks to me like your out of business. Now I want some  answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "I haven't got the time or the patience to argue with you. Now go home to your families where you belong.  The men start talking and cause a big commotion. Loomis  decides to end it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "It was Michael Myers. He's come home to kill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Let it be Earl. Let the police handle it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Like the last time? How many people killed back then? How many kids?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Al here lost his boy 10 years back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "Well not this time, Ben. I'll handle this my own way. We' gonna fry his ass.  The others agree and head for the trucks. Meeker turns on Loomis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "You son of a bitch, you just created a lynch mob.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "You haven't got a police force! These men may be the only defense you've got. The men get in their trucks and drive off. Meeker watches them go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "God help us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Logan runs out of the house, closing the door behind him. He runs to his car and climbs inside. He grabs his CB.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "132 to 133 this is 134.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "This is 132, over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Ben-uh-I just heard about the station. The camera pans back to show Michael's burned hand  clutching the backseat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Go to my house. We'll call the state force from there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "I'll be there in 5 minutes.  He starts the car and pulls out of the driveway. As his c speeds down the road, the Corruthers' car enters their  driveway. Darlene gets out, afraid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Honey, I don't think their home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "How do you know their not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "Because the lights are all out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I told them to be here by nine. Its not 9:30 yet. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "We should call the fire department.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I'm not calling the fire department. They run inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Earl's truck goes down the road. The hillbillies search.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "There he is...I've seen his face right there Al, in those bushes. They all climb out of the truck and take aim at some  bushes. The bushes move and all the hillbillies open fire For what seems like hours the hillbillies shoot, until  they're positive he's dead. They rush over to the bushes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Shit, Earl. It's Ted Holster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "You dumb son of a bitch, you said you saw Myers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kelly and Brady are on the floor, making out. Brady slide Kelly's shirt up to reveal her panties. They're kissing  passionately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Lets go upstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "No, I think we're doing just fine here.  Kelly takes off her shirt, revealing her bra.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Oh, I think I'm in Heaven.  Kelly giggles. Brady takes off his shirt. Kelly slowly  reaches behind her back and begins to remove it. She does it slowly, coyly. She slides one strap off, then the othe She hides her breasts and leans down, and Brady's hands a all over her. Suddenly, headlights appear on the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Oh shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "It's my dad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Your dad? Your dad!!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The cop car pulls in the driveway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kelly and Brady are hastily getting dressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "God, if he catches us like this he's going to skin you  alive for starters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "What? Kelly grabs her bra and stuffs it underneath a couch  cushion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Come on. Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The foursome have piled out of the car and are headed  towards the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Where's that Deputy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Be here in a minute. They go inside. A few seconds later, Logan pulls up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brady sits down in a chair. Kelly tosses him a magazine. pretends to read it. Meeker and the others come inside.  Rachel sees Brady and knows exactly what happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Rachel, take your sister upstairs. First door on the righ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Dad, what's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Kelly, I want you to close and lock all the downstairs  windows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Just do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Where's the radio?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Right through the kitchen you'll see the basement stairs. (to Brady)  Brady, you know how to use a gun?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Yes sir. Meeker goes to the gun cabinet, and pulls out a shot gun, hands it to Brady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Think you can handle that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Yeah, um, you want to tell me what's happening?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Yeah, when I have time.  Logan comes inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "You got your riot gun?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Yeah in the trunk of my squad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Go get it.  He grabs a box full of bullets and hands them to Brady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Take these.  He then gives Brady the toolbox.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Okay, you got a hammer and roofing nails. I want you up i the attic securing it so that nobody can get in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "You know, if something's happening, I should just go call my parents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Just get up in the attic.  As Brady turns to go up to the attic, Meeker stops him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Oh yeah, I catch you groping my daughter I'll use that sh gun on you. You understand? Brady nods and heads for the stairs, more than a little  scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Logan walks out to his car. He sees that the one of the  back seat doors is open. He closes it, only a little  worried. He goes to his trunk and opens it. He pulls out  his riot gun and closes the trunk. He heads for the house",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Get the outside shutters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "What are we doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Making sure that no one can get in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Isn't this all a little paranoid?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "If you'd seen that police station you wouldn't even ask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brady stops at the doorway and looks in at Rachel and  Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Are you two okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We've been better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Michael Myers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Who's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "10 years ago? Halloween? He's Jamie's uncle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "The kids at school were right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Um, I'm gonna be outside, upstairs in the attic. Logan is out fixing the shutters and Brady goes into the  attic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "That's all the windows, Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "All right. Good Good.  Logan I want you right here by the front door. This is the dead bolt key.  He locks the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Now I pad locked the back door, this is the only way in a out of this house. You got that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Got it Ben. He turns to Kelly, who's just standing there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Why don't you go make some coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "All right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brady is nailing a window shut. Suddenly, he hits his  finger with a hammer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Oh shit!  He hears a noise coming from some dark corner of the atti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Hello?...Who's there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie and Rachel lay on the bed, trying to go to sleep. B after all they've been through, it might be a while befor either of them get a good nights rest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Can we go home soon Rachel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Real soon, Jamie. Now shh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis and Meeker walk over to the radio. Meeker sits dow in front of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "How's it powered?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Batteries. I planned the generator for the house next wee I wished I hadn't waited.  (into radio)  This is squawk 79er zero of Haddonfield broadcasting on t state police emergency frequency. Can anyone hear me?  He gets nothing but static, so he switches frequencies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Can anyone here me?  (Static)  Dammit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Logan sits in the rocking chair, shotgun in his hands. He slowly rocks back and forth. Kelly is in the kitchen maki coffee. Rachel comes down the stairs and walks over to  Logan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Everything all right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie's sleeping. When can we go home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "State police will get here soon. Not long after that. Don worry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I'm trying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "It won't be long. Myers face appears in the next room. You can barely see i but Logan senses its presence and turns to look. But  Michael has already disappeared from view.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis and Meeker are listening to the radio, trying to  contact help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "I hear someone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "This is Frank Bute over in Tuckerville you got some kind emergency?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Oh Christ. This is Ben Meeker. Sheriff over in Haddonfiel Our phone and power lines are down and we have a killer  running lose in the street. Michael Myers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Is this some kind of Halloween prank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "This is no joke. We need those troopers and we need them  now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "All right. I'll get those troopers right away, hang on I' need some information.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "I'm not going anywhere Mr. Bute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis comes up the stairs. He meets Rachel, who is just  entering the living room. He inquires about Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Rachel, is your sister all right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "She's fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Good.  (to Logan)  Sheriff's radioed for help. they'll be here soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Hell of a night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Its not over yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "The Corruther's house. That's where Jamie lives, that's  where he'll go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Leave Myers for the state boys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "The state police won't know how to stop him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Do you? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Maybe nobody knows how to stop him, but I've got to try. Loomis leaves to go find Michael. Logan closes and locks  the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel goes into the kitchen and Kelly is searching for  something. She's checking all the cabinets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Are you looking for this?  She hands Kelly a pack of sugar. Kelly takes it and goes  over to the coffee. Kelly seems sad. She tries to patch  things up between her and Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "I didn't know you and Brady had anything okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You knew. You just didn't care.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "He's not married. Besides, I've got a right to do what's  best for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Don't you mean what you do best?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Wise up to what men want Rachel, or Brady won't be the la man you lose to another woman. Rachel picks up a cup of coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Have some coffee.  She pours it all over Kelly's shirt. Kelly gasps, surpris at Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Meeker is listening to the radio. It suddenly comes alive with the hillbillies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 1",
+          "text": "Over at Alan gateways, shot Ted Holster by mistake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 2",
+          "text": "Well is he dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN 1",
+          "text": "Yeah, he's dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Oh Christ. Rachel comes down the stairs and stands behind him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "04'd out there, this is Ben Meeker...Answer me dammit.  All he gets is static. Nobody out there wants to take  responsibility.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Sheriff, what is going on out there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "All right Rachel, you stay by this radio. The state boys  will send word once their in route. When that word comes  you go tell deputy Logan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Now you understand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Uh huh. Meeker heads for the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Meeker walks over to the door. Logan stands up. Meeker ge the key and starts unlocking the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "I'll be out on gateway and I doubt I'll be back before th troopers get here. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOGAN",
+          "text": "Maybe you ought to wait here till they do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Hey. I got a town full of beer bellies running around in  the dark with shotguns. Who's gonna be next? Somebody's  wife? Somebody's kid?  He cocks his gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "I can't stand by for that. He opens the door and leaves. Logan closes the door,  worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie sits up in bed. She looks around, but doesn't see  Rachel. She gets worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel is listening to the radio. She hears a creak behin her. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Upstairs Kelly is done making coffee and brings it in to  Logan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "I thought you might like some coffee.  He continues to rock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Pretty boring out here. I wish they'd fix the power.  She sets the coffee down on the table. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KELLY",
+          "text": "Least we'd have some MTV while we wait for the calvary. She picks up some matches and lights one. Carefully, so n to extinguish the flame, she lights the candle. And she  screams. Logan's dead body is in the corner, blood  splattered on his face. Kelly turns to the man in the  chair. He stands up and turns to her. It's MICHAEL! He slowly advances for her. Kelly screams and backs up.  Michael brings the shotgun back and rams it right through Kelly, lifting her up and ramming her against the wall. T shotgun enters the wall, pinning Kelly's lifeless body  against it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel is listening to the radio. It suddenly crackles an Frank Bute comes on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Haddonfield, we should have cars dispatched in 5 minutes. ETA 35 minutes, Over.  Rachel grabs the mike and brings it up to her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ah, okay, great. We'll be waiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Ah ten-four over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ah, over and out. Rachel puts the mike down and heads for the stairs. She  looks behind her one last time to make sure Frank doesn't decide to speak again. Then she goes up the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel looks around. Logan's rocking chair is empty. She  isn't bothered by this and shouts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Deputy Logan?  When she receives no reply, Rachel's happy demeanor  evaporates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Deputy?  She looks around and sees Deputy Logan's bloodied corpse the table. She turns and sees Kelly's lifeless corpse  dangling from the wall. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ahhhhhhhhhh!!!!! She heads for the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie!!! Jamie!! She starts up the stairs but trips. She quickly gets up a sprints the rest of the way up. She reaches the door to t bedroom and looks inside. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh God! Oh God! Rachel goes hysterical. She runs down the stairs and bump into Brady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "What the hell is going on? Rachel starts back up the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I've gotta find Jamie. Brady grabs her and starts pulling her toward the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "No, no, we have to get out of here right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Not without Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Look.  He point to Logan's corpse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "You think she stands a chance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "She's not dead! Brady rushes over to the door and tries to open it. But  it's locked and the key is nowhere to be found.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Is there another key?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I don't know! Brady rushes over to Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Get out of the way, get out of the way.  He raises the shotgun and shoots the door twice. He rushe over to the door. He touches the knob but pulls it away  quickly. He goes back over to Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Its metal, god dammit its metal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What does that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "We're trapped in this house. They start up the stairs. Rachel looks up and sees Jamie  come out of a door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Oh Rachel!  Rachael runs up the stairs to Jamie and hugs her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Rachel! Rachel releases Jamie and runs to the stairs. She looks  down. Michael is in the living room, standing behind the  fireplace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Get back!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "No. You son of a bitch! Brady aims the gun at Michael, who is slowly walking up t steps. He pulls the trigger. Nothing happens. No bullet  comes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady! Come with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Go!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Get up there Rachel!  Brady fumbles with the bullets, not able to get them in t shotgun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Shit! Michael continues climbing the stairs, with each step  getting closer...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Get up there Rachel!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady! Come with us! Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Go! Brady has one bullet in, he tries to hurriedly put in  another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Brady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Go!  Brady puts the bullet in and snaps the chamber closed. He turns to aim, but Michael is already upon him. Michael  grabs Brady by the shoulders. Brady fires, but the shot  goes wide and hits the wall. Michael throws Brady against the wall. He hits hard and slumps down. Jamie tries to pu Rachel away. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Come on.  Brady looks up at Rachel. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRADY",
+          "text": "Shit. He grabs the shotgun and stands up. He hits Michael on th head with the butt of the gun. He swings again but Michae grabs the gun. They struggle for a second before Michael  slams it into Brady's face. Brady falls back onto the  floor. Michael tosses the gun over the railing. It lands  with a thud on the living room floor.  Brady stands up and walks over to Michael. His nose is  bleeding. He rears back his hand and punches Michael righ in the face. Brady pulls back his arm and takes another  swing, but Michael grabs it. He pulls back and we hear  bones crunching. Brady screams in agony. With his other  hand, Michael grabs Brady's throat and starts to lift him off the floor...  Michael releases Brady's hand and wraps his other hand  around Brady's throat. Brady tries to spit in Michael's  face, but he misses and it lands off to the side. Michael starts pushing his finger into Brady's cheek. Brady screa in agony. Michael's finger digs deeper into Brady's cheek We hear a crunching sound. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel and Jamie stop at the platform to the attic. Rache looks back and shouts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Leave us alone, just leave us alone.   They run up the rest of the stairs. Rachel looks around a sees a suitcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie! Rachel throws the suitcase onto the platform. Jamie grabs something and throws it down too. They continue picking u items and throwing them onto the platform until it's  cluttered with junk. Rachel grabs Jamie and moves her  farther into the attic. Michael reaches the platform, but he's blocked by all the junk. Jamie lets out a small gasp when she hears Michael. Rache looks around. She starts pushing Jamie in a certain  direction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Go! Go! Michael is starting to clear a path through all the stuff in his way...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on! Come on! Michael has cleared a path and starts walking up the very few steps that are left... Rachel and Jamie come to a window, but it's locked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel!  Michael stops for a second. He notices a tin can full of  knives. He grabs the biggest, sharpest one and continues  toward Jamie and Rachel...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, get down. Get down.  Rachel grabs a suitcase and uses it to smash out the  window. She throws the suitcase out onto the roof and ben down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Get on my back Jamie. Get on, hold on. Jamie climbs onto Rachel's back. Very carefully, Rachel  steps out of the window and onto the roof.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel looks down and sees how far she is to the ground. they fall and hit the pavement, they're dead. She grabs  onto a pipe jutting up from the roof and uses it to pulls herself up. Slowly, she moves her way up the roof. Every  few seconds Jamie looks behind them to see if Michael is  following. Rachel reaches the very top of the roof. She tries to rea for the arched part of the roof, but misses. She tries  again, but still doesn't make it. As she reaches out agai a shingle her foot was on comes loose and they go sliding back down the roof. Rachel grabs onto the pipe to stop he descent. Jamie starts to slide off her back. Rachel grabs her and pulls her up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Grab on, Jamie. Jamie gets onto Rachel's back. Rachel starts up the roof  once again. This time, she grabs a black cord to steady  her. Jamie gets off Rachel's back and looks behind them.  She screams. Michael is pulling himself up onto the roof. Rachel grabs Jamie, and, using the cord, climbs over to the far side o the roof. Rachel lifts Jamie up and over. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I'm gonna lower you to the chimney, okay Jamie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I can't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well try dammit! She starts to lower Jamie. Suddenly, Michael appears!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel!  Jamie slips and slides down to the chimney. Rachel looks  behind her and takes a swipe at her with his knife. Rache barely dodges. By this time, Jamie is already to the  chimney. Michael takes another swipe at Rachel. Rachel  rolls down the roof and hits the chimney. She gets up and faces Jamie. She gets the cord and ties it around Jamie. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I'm gonna lower you down Jamie okay?  Jamie climbs over the edge. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I've got you come on, go down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Rachel! Rachel I've got you Jamie.  She starts to slowly lower Jamie down the side of the  house. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I've got you, I've got you.  Jamie is dangling above the ground, her clown mask pushed to the side of her neck. She struggles, her legs flailing in the air. Rachel continues to lower Jamie when Michael suddenly  appears! She lets go of the cable, making Jamie drop abou halfway down. Rachel rolls out of the way as Michael take a swipe at her with his knife. He places his hand on the  chimney for support. He again takes a swipe at Rachel,  causing her to roll to the edge of the roof. Michael slowly heads for her. Rachel dangles above the  ground, her hands holding onto the roof for dear life. Sh starts to slowly move to the side, away from Michael.  Jamie grabs onto the ledge of the house and hoists hersel onto it. Michael swings his knife at Rachel, causing her to lose h grip. She plummets to the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ahhhhhhhhhhh! THUD! Michael stands there, breathing heavily, just stari at Rachel's unmoving body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Jamie climbs the rest of the way down and runs over to  Rachel. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Oh please come alive Rachel, please come alive. You can't be dead. Come alive Rachel! Jamie lays her head on Rachel's shoulder and begins  sobbing. Michael appears at the side of the house. Jamie  glances over at him, then at Rachel. She looks back at  Michael and begins to run. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Help! Please, somebody help me! Help! Please! Somebody he me! Jamie runs by house after house, calling for help. She  looks behind her, sees Michael appear from behind a bush, and runs faster. She trips, gets back up, and continues  running.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Rachel, laying on the ground. She moves slightly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Jamie. She's no longer running. She's walking slowly,  looking around. Suddenly, she sees something off screen a begins running. But, before she gets anywhere, she runs  into Dr. Loomis. He grabs her, tries to comfort her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "What are you doing out here alone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Everybody's dead. I just wanna go home. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Oh no you can't. I've just been there. That's the first  place he'll look for you. Where's the school house? Where is the school house? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "It's over there. She points to somewhere behind Loomis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Come on. Come we'll be safe there. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dr. Loomis and Jamie walk over to the doors. Loomis grabs Jamie and holds her tight as he raises his gun and fires  four times at the door. He and Jamie walk up the steps.  When he opens the door, the alarms go off. Dr. Loomis and Jamie enter the school, closing the door behind them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Loomis and Jamie walk up the steps. Loomis tries the firs door he comes across, but it's locked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "We'll hear sirens soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Then we'll be safe?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Yeah.  He tries another door, but it's locked too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You don't believe that do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "No.  They hug. Loomis turns to leave when Michael appears,  grabbing Loomis and throwing him through a door, breaking the glass and the door. Jamie screams and runs down the  hall, trying to open the doors. She comes to the last doo and tries to open it, but it's locked. She pounds on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Oh, oh. Somebody help me! She walks over to the end of the hall and crouches, putti her arms over her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No. She begins sobbing. When nothing happens, she looks down  the hall. There's no sign of Michael. Jamie slowly stands up. She looks around her, not believing that Michael is  really gone. She starts to slowly walk down the hall,  peering into every corner, every dark room. Michael could be anywhere. She comes to split in the hallway. On one  side, stairs leading down to an entrance and another  hallway. On the other, stairs leading to the second floor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Ahhhhhhhhh! Michael stands on the steps, knife in hand. Jamie begins run down the other steps but she trips and tumbles down t steps, landing with a soft thud. She looks up at the top the stairs and she sees Michael begin to slowly descend  them. Jamie starts to crawl away, but Michael's hand grab her leg, pulling her back. She screams just as",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL APPEARS,",
+          "text": "a fire extinguisher in her hand. She begins to spray  Michael with it. He is instantly covered in smoke. He hol his hands up, trying to ward it off. Rachel continues  spraying Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A truck with Earl, Al and two other hillbillies comes dow the road. One guy bangs on the roof to get Earl's  attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "In the school. Pull over Earl.  They pull up to the school. They all pile out of the truc when Rachel comes out, carrying Jamie. They rush over to  her. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "What's going on here? We heard the alarm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "He's inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Jesus. Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "In the school. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael is gone...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They all discuss what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Let's get this bastard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No! He'll kill you too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We have to get out of Haddonfield, the state police at on their way let them handle it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "I don't know about you Earl, but that makes sense to me.  Lets get the hell out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "He's not our patient. Let the troopers have him. That's  what they get paid for.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Screw it. Lets get out of here. Al. Al takes Jamie from Rachel while the others pile into the truck. Al opens the passenger side door and put Jamie dow next to Earl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The truck flies along the road, the hillbillies lights  shining into the night. They pass a sign saying \"WELCOME",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie sits in Rachel's lap, both tired and hungry. Earl  glances at them, then back at the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two hillbillies have their guns and lights propped up on  the roof of the truck, keeping an eye out. Al sits by the tailgate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Earl reaches for the CB. He talks into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Okay everybody, listen up. I've got Rachel Corruthers and her sister in the truck, and I'm taking them outta town  route 410. State police are on the way. Got that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Got it Earl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Okay, out. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long line of cop cars comes speeding down the road,  sirens blazing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel looks at Jamie, happy to have her safe. Earl looks out the front window and sees the long line of cop cars. turns to Rachel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Here comes the calvary now. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One hillbilly swings his flashlight back and forth while  the other fires his shotgun into the night. All the cars by except one. It stops and waits for Earl to pull up. Th COP gets out of his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Coming outta Haddonfield?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Yeah right outta the elementary school, taking these kids to safety.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Okay, there's a highway patrol substation about 4 miles  down the highway. You'll see the turnoff signs. Now we've got officers on duty, they'll take care of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "Thanks.  Earl puts his foot on the gas and drives away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Earl looks over at Rachel and Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL",
+          "text": "You'll be okay.  Rachel tries to manage a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Al sits near the tailgate, watching the road behind them. The other two hillbillies keep their eyes on the road ahe of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We are seeing from behind Earl. The road ahead is foggy a nothing is certain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The tailgate. Suddenly, Michael's hand appear, then the  other one with the knife. He begins to haul himself up in the bed of the truck. None of them notice Michael until  it's too late. One hillbilly turns, and tries to hit  Michael with his shotgun, but Michael grabs it and stabs  him in the back with the knife. Michael throws his body down just as Al gets up. Michael  stabs him in the side, and throws his body against the  tailgate. The tailgate busts open and Al's and the  hillbilly's bodies go tumbling off the truck and onto the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel, Earl, and Jamie are completely oblivious to what' happening to the three hillbillies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael throws the last hillbilly off of the truck. He go rolling down the hill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Earl is getting nervous. He heard some noises. He looks o the back window when",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL'S HAND BREAKS THROUGH THE DRIVERS SIDE WINDOW",
+          "text": "and latch on to Earl's neck. His fingers dig deep into  Earl's neck, drawing blood. Jamie and Rachel scream as  Michael twists Earl's neck open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The truck swerves dangerously, Michael on the roof.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie falls into the floorboard, screaming. Rachel pushes Earl's body aside and gets behind the wheel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It swerves, Michael still clinging to the top.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel opens the door and pushes Earl's body out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Earl's lifeless body flies out of the truck and rolls dow the hill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel reaches over to the door and closes it. Jamie stil hides in the floorboards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael swings his hand inside the truck, trying to grab  Rachel. She whips the wheel this way and that, trying to  make Michael fall off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael's hand swings into the truck. Rachel tries to avo it while maintaining control over the truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael swerves from side to side, barely hanging on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel jerks the wheel to the right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael almost falls off, but he manages to keep his grip",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel jerks the wheel, causing Jamie to fall into the  floorboard and hit her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie! Rachel continues to jerk the wheel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It moves to the right, then the left. Michael's body is  thrown every which way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael's hand reaches into the truck and grabs hold of  Rachel's sweater. Rachel fights free, but Michael rips he sweater. She screams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It swerves all over the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael's face smashes into the front windshield. Rachel  screams and pushes down on the brakes. Jamie falls back  into the floorboards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael goes flying off the truck. He rolls onto the road",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie slowly peeks over the seat. Rachel looks out the  window and sees Michael slowly stand up. She messes with  the gear shift.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Die you son of a bitch.  She steps on the gas, and the truck goes forward at a fas rate, knocking into Michael. He goes flying into the air  and lands on the ground near a mine. The truck rolls down the hill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachel presses the brakes, praying that the truck will  stop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The truck comes to a stop. Through the window we see Rach sigh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The police cars comes speeding down the road, heading for Rachel and Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael's hand. It still has a grip on the knife. Slowly, the grip loosens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie stares at Michael, fascinated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Jamie, I want you to stay right here in the truck. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Meeker is the first one to arrive. Rachel races over to  him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Sheriff Meeker, we killed him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Calm down. Calm down. Are you all right? Are you all righ Rachel nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Where's Jamie? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Jamie. She kneels down beside Michael. She takes his hand and holds it, looking at the scars caused by the fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Jamie! Get away!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Don't touch him Jamie! Jamie drops his hand and turns to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael's hand. It grabs the knife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NORMAL VIEW",
+          "text": "Michael sits up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "Get down! Jamie jumps to the ground just as Michael gets to his fee Meeker pulls the trigger on his shotgun and BAM! a bullet hits Michael dead on. He's knocked back. The other cops a hillbillies open fire, creating a dazzling display of  light. Bullet after bullet slams into Michael, causing hi to step back. A few bullets hit the ground around Michael but most hit home. Rachel covers her ears as the sounds o bullets being fired echoes all around her. Meeker takes  aim, and fires, his bullet knocking Michael back. More an more bullets rain down on Michael, causing one of the mos terrifying killers ever to stumble backwards, until he  slips and falls down an abandoned mine shaft, hopefully t his death. The guns go quiet as everybody realizes that Michael is  gone. Meeker breaths deeply, satisfied. No human could ha survived that onslaught of bullets. No one. Wood and dirt crumble into the mine, burying Michael. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everything is quiet. Peaceful. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Richard and Darlene hug Jamie and Rachel when they walk i escorted by Meeker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Oh, babies. Meeker walks over to the front door and opens it. Loomis  limps in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "It's over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "Yes. Michael Myers is in hell, buried, where he belongs. Meeker sits down in a chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEEKER",
+          "text": "These kids aren't likely to forget.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "They've survived this ordeal, they'll survive it's memory Rachel is completely exhausted, dried blood caked to her  face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "I'm going to take Jamie upstairs.  She puts her hand on Richard's knee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "(cont'd)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stay with Rachel.  (to Jamie) Come on honey. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Darlene turns on the water, letting it fill the tub.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The person looks at a darkened room, then down the hall. turns right and looks into a small bathroom. A pair of  scissors lays on the sink. They're picked up by someone o screen. The POV returns to the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The tub is halfway full. Darlene, in a robe, lays two  towels down on the edge  of the tub.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Suddenly, a mask slides onto the person's face. We are no only seeing through the two eye holes. We make our way to the end of the hall. We turn, and stare at Darlene, hunch over the tub. She looks over at the person.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DARLENE",
+          "text": "(o.s.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ahhhhhhhh!!! Loomis comes hobbling up the steps, then stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "No. No! Jamie stands at the top of the stairs, a bloody pair of  scissors held in her hand. Her costume is flecked with  blood...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "No! No! No! No! He raises his gun to shoot her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOMIS",
+          "text": "No! Suddenly, Meeker jumps at him, knocking the gun out of hi hand. Loomis falls to the ground, sobbing. Meeker grabs h gun and points it, but can only stare when he sees that  it's Jamie. Richard comes up the stairs, quickly followed by Rachel. They both stop, stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie. She raises the scissors into the air.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_833"
+    }
+  ]
+}

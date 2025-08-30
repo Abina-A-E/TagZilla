@@ -1,0 +1,2977 @@
+{
+  "movie_id": "MOV2510",
+  "scenes": [
+    {
+      "location": "TOWN",
+      "characters": [
+        "NIGHT TIME",
+        "EXT. RAY'S PLACE",
+        "UPSTAIRS",
+        "FADE OUT"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "He walks through a town, passing various stores and the g bustle of the people there. He notices a baby in a pram l out on the sidewalk, then sees the mother is in an alleyw what looks like a drug deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris reads a closure notice on the door. A police car ro up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok. When'd the mill close?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ahh 3 years this August. If ya lookin  for work you might wanna try Aberdeen,  that's the closest mill work you're  gonna find around here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's too bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nah just simple economics. Y'know we  have a really nice casino here, the  wild cherry. You wanna make some money  maybe you wanna go on down there and  try your luck at the blackjack tables.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nah I don't think so. Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris turns around and the sheriff notices his name on a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're Chris Vaughn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sheriff chuckles and steps out of the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well hell, I know all about you Chris.  I know your folks, I'm sheriff Stan  Watkins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They shake hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ralston get outta the car, you're lookin  at a real soldier here pay some respect.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welcome home soldier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Here Chris, (opens the back door) We'll  give ya a ride up to your folks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nah I'm fine thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I insist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey it's my pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I won't take no for an answer (jokingly  reaches for his gun). HEY! Get in the  car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris raises his hands and the sheriff chuckles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did I scare ya with that one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lil bit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya. Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You were gone a while huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "8 years. Harstad was sheriff back then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harstad, yeah. Sad story. About 5 months  back he fell asleep at the wheel and  uhhh... hit a tree. Good man, good man  and a good sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks for the ride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No problem, and uh Chris (hands him  a piece of paper). It's election month...  I'm your man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris takes the paper and smiles. He walks up the lane to the house, a simple white building clad in wood. A lady d in a police uniform comes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lil' brother.. You come over here and  gimme a hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They laugh together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You look great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey, I couldn't let you be the only  one looking good in uniform. Hey ma!  Chris is here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's with the tent? (points to a tent  set up on the lawn).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, that's for Pete.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look at you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris hugs his mother, Connie. A man slowly emerges from front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How long do we have ya for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "For good. I'm home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really? You're not kiddin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They hug again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welcome back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The family are eating takeaway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wish you would have told me you were  coming I would've cooked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what are you gonna do now that you're  home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I was planning on working at the  mill, your letters never mentioned that  it was closed. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We didn't wanna bother you with our  problems when your father got laid off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got my business, you saw the furniture  outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I substitute at the elementary school,  Michelle pitches in. We try to keep  things simple.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A kid walks in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete! This is your Uncle Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey Pete.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sit down, say hello. Last time he saw  you you were barely walking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And now I'm camping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I said you could sleep on the couch.  It was Chris' room first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your tent's gonna take on water. I could  show ya how to rig it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Doesn't look like it's gonna rain to  me Colonel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete, cmon sit down, have somethin to  eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "First of all I was a sergeant. I worked  for a living.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you ever smoke anybody?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Y'know, Papa's still got your gun locked  up in the garage. Think you could teach  me how to shoot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I figured that'd be scrap metal by now  dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I'm still hoping that you'll melt  that thing down on your own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sorry Pete.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whatever. I'm outta here Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, be back by ten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ten thirty (as he walks out)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ten!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Remind you of anyone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We can see from the window that it's raining heavily outs Chris sets about unpacking his things. Pete comes in look wet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok it rained. Happy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. Why dontcha crash on the floor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok, I'll crash on the floor, you crash  on the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "uh uh. (starts walking out)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete. (hands him a towel). Keep ya dry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you really kill people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A crappy camper van rolls up. A man steps out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray Ray! Ahaaa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello puddin'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is that? (points to the van)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's the lovemachine. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Girls actually get in there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good. Clean livin. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wanna beer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. Believe it or not I quit drinkin.  I'll take a soda though. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whoah. (spots a tattoo of a guitar on  Ray's arm).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya like that? When you left town it  gave me the idea that I should do something  with my life too so uhh I went down  to Seattle, got a guitar and became  all about music. And then pretty soon  I was about music and drugs, n pretty  soon I was basically just about drugs.  Ended up doin 2 years for B+E.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nahh, look at me now though right? I  been clean and sober for 14 months,  doing construction and renewing those  supportive and healthy friendships from  my past. Matter of fact I talked to  the bastards, told em you were back  and they asked me to politely remind  you that kick off's in twenty minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A group of guys are there waiting, one of them holding a They salute as Chris walks up. They all laugh. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Playin ball?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's play ball!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray go deep go deep! (as Ray runs off  he throws the ball into Ray's back).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Spotting a sign that reads 'HAMILTON  FIELD') When did that happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His parents hadn't left him the mill  more than 2 minutes before he shut it  down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "a voice shouts 'HEADS UP' Chris catches a fast ball throw behind. Jay steps out of his vehicle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cause I opened my Casino.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still got a gut huh Jay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still got your reflexes. What, you get  tired of being all that you can be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm still all I can be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really? I'll just have to see about  that. What brings you home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I just wanna relax, catch my breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You? Relax?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Another truck with a few guys on it pulls up",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A football game ensues, there are two teams. Jay's guys v guys. On the sidelines Pete pulls up on a small motorcycl notices Pete hanging around with kids smoking. It comes d to the last play, the teams are huddled into two groups t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If we score here we win right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alright boys, last play. We need to  put this to rest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just give me the ball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got it. On the first hut!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok Vaughn, last chance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris gets the ball and throws it. An opponent comes in h and tackles him low. He collapses. Ray runs for the ball gets clotheslined by Jay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's game!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Chris) Sorry about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's cool man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris Helps Ray onto his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welcome home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good to be back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See ya round. Hey, if you're not doing  anythin later on you could come by the  casino. I'll introduce ya to some nice  girls, drinks are on me. Whaddya say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See ya tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay speeds off in his car. Pete rolls up on his bike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey Sarge, good game. Maybe next time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hold up. Maybe next time I won't see  you with the bleachers smoking weed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welcome home buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you have to be native american  to own a casino?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh Hamilton's one sixteenth black man  now. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just so you guys know, I'm gonna triple  my money tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea, like last time. Wound up selling  your body for bus fare. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He had to walk! ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They all laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nobody's gonna have any problems finding  this place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's the subtle attention to aesthetics  that I find most impressive, blends  in with the mountains SO nicely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The place is packed with gambling tables and attractive w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not bad huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Isn't it wonderful? All your gambling  needs under one great big roof. You  got your ATM machine, tellers to cash  your paycheck, and when you're here  you don't gotta worry about those lil  things like child support, rent, the  laws of mathematical probability.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gentlemen, Mr Hamilton would like to  invite you to the VIP lounge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, 'Mister' Hamilton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Heyyy, the dream team!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nice place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah well. Welcome to my world. Look  tonight, all the drinks are on the house.  If you need a line of credit, say how  much. And if you need a lil female companionship...  done. Alright? Have a good time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where you goin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you worry about me, I've got a  few things to do. Enjoy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just remember, nothin in here's free.  C'mon, this place is nothin but fake  boobs and real assholes if ya ask me.  Just water for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Here's to you Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They all down some drinks. They lead Chris down a corrido",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't say we never did nothin' for ya!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't worry, everybody's a lil scared  the first time. Get in there, sit back  and enjoy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris' friends have led him to a stripping booth, his fri inserts the money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you're not back by morning we'll  send a search party for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bye! No drinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His friends leave, closing the door behind them. A screen goes up and a striptease begins. The lady is dre in the style of a firewoman and has a pole in the center stage. She dances around the pole and removes clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you from here or just visiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lil of both, I grew up here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you've seen all the old faces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Could say that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your voice sounds very familiar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lights come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deni..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The screen goes down again, Chris leaves the booth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look who's back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So, good surprise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Told you it was better than gambling.  You met Candy? (A girl is dancing on  their table)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey Candy. (to the guys) Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "6! Easy 6 for a win! ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To some girls) We can do a 6.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To Chris) We're gettin killed out here.  I need you to put 200 down for the bet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, hell no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look at them (Nods to girls).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Five hundred on 6?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, I'm in. Boom! Gimme some dice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris notices something odd, he looks concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lookin' for a 6.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jimmy. Don't roll. Gimme the dice. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lookin' for a 6. Ohhhhh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The dice have landed and it's a 7. Jimmy hangs his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To the croupier) You're good, but I  saw it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Saw what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I saw the switch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey this is a clean game asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's see about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris puts a load of money on the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bet you I'll roll a seven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's not your roll sir. SIR! It's not  your roll. Call security.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris has taken the dice. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Put your bets down on the pass line.  These dice are comin up seven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris, why don't we just let it go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, we gonna let it ride Jimmy. The  dice are comin up seven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's not your roll sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris rolls the dice and sure enough it's a seven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No folks, no payout. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To croupier) Why don't you just take  care of that bet and we're even.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I would but it wasn't a legitimate  bet, you're not the shooter. It's not  your (Chris shoves him) ROLL sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is there a problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea, the problem is your dice are loaded.  Does your boss know about this? Just  gimme my money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The security guy grabs Chris around the neck. Chris elbow and throws him onto the table. The croupier takes a fight stance. Jimmy taps Chris on the shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on, let's go! let's go!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "More security men appear, one of them knocks Jimmy out. A fight breaks out, Ray gets knocked out. Chris beats off s security men before taking an electric shock to the neck a baton to the face. Chris wakes up on a table under a li",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Sees the tag around Chris' neck) Special  forces? I'll take that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris grabs him by the neck but they beat him down again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you doin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Has a scalpel in his hand) Special  forces... special treatment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He rips open Chris' shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This guy knows Hamilton!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A struggle ensues and Chris' chest is cut up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Chris is crawling, badly hurt. A truck stops direc in front of him. Chris passes out again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To Chris' family) Folks, he's pretty  banged up, inside and out. Whoever did  this left him for dead. A lesser man  wouldn't have survived.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm gonna need a statement from him  Doctor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's in no condition to give you one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll also need a copy of your write-up  along with toxicoloy, blood alcohol  level and so on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you talkin about Stan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm just tryin to get some facts here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh come on you need to be out arresting  whoever tried to kill my brother not  testing his BLOOD. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm just doing my job Michelle. Ok?  I understand how you feel. But we still  don't know yet who started all of this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well it wasn't Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just find out who did this to him Stan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll do my best Mr Vaughn. I really  will. In the meantime I have to file  a full report. You lemme know when I  can talk to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The doctor nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's gonna be fine Michelle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray goes into a room and takes a big bunch of flowers fro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BEAUTIFUL flowers!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you, they're for my best friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey sarge, so much for our VIP... status.  Don't they teach you any fighting skills  in the army.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How did you do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not good. But I tell you, that guy was  feelin me this morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris begins to laugh but is in pain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Some homecoming hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know if you've noticed but this  aint exactly home any more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris has returned home. He's still in bad shape and his help him out of the car. He insists on taking the steps b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's some old crutches in the garage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A montage ensues with Chris on the couch, sometimes with other times with Pete. Chris is recovering, and is exerci by the end of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris pulls the cover off an old truck. He smiles and get He starts the engine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Changed the plugs a while back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Appreciate that Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I might've had serious issues with your  career choice but just didn't seem fair  to take it out on an innocent truck.  Where you headin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was goin into town to get some supplies.  Wanna come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya whole life, all you wanted to do  was get outta here. What made you come  back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gonna think I'm crazy. I been thinking  about the mill. When I was a kid goin  to visit you at work, the smell of that  fresh-cut cedar. You remember that smell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mmm I remember a lotta nice things before  the mill closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When did they go outta business? (Nods  to a closed supply store).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Closed about six months ago. There's  a home depot about fifteen minutes up  the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And that? (Nods to an adult XXX shop)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't ask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay pulls up in his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey. First of all I wanna say thanks.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "For what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's been fired, and his gaming permit's  been pulled. I don't know how my security  cameras didn't catch that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay starts to help Chris taking wood off the truck but Ch throws it back on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They miss a lot at your place don't  they Jay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look Chris I hate seein ya like this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your boys did it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wait wait... so they got a little rough,  they were a bit edgy. Understandably.  You don't know what kind of assholes  they have to put up with on a daily  basis. Look, they've been reprimanded.  They say you went nuts man. I'm sorry.  I know the proper term vets use is post  traumatic stress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the fuck are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whatever it was, you tore my place apart  and it wasn't easy for me to get my  guys agree not to press charges. Look  Chris, if you had a problem... shouldn't  you have come to me? Look, I wanna bring  you inside. Chris I wanna make you head  of security. Whaddya say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah well. I guess you probably need time  to think about it. This is for you.  It's a little something to help you  get... Y'know..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He puts down an envelope with money in it. Chris gives it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on man, don't be like that. I came  all the way out here to your house just  to see you get back on your feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm goin to the sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry you feel that way. I'll see  ya round Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An officer is on the phone ignoring him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sheriff comes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well hey Chris. Good to see you up and  about, you're lookin spiffy. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm here to press charges. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well this isn't about that incident  at the casino a while back is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea, it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cause that matter's closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you look into it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They did an internal investigation.  That's good enough for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An internal investigation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris, I know you're familiar with the  term 'no fly zone'. Hmm? Cause that's  what the casino is. Since the mill closed  down that casino is the main source  of revenue in this town. So, case closed  basically. I'll see ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not gonna let this stand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me? What did you say to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I said I'm not gonna let this stand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're lucky to be alive right now,  that's all you need to be concentrating  on. This is my town ok, I'm the sheriff  here. I'll tell you what will stand,  not the other way around. Now please  get out of my building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deni is at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This belongs to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She hands him a leather jacket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I appreciate that, I thought this was  history.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Coulda left it in the trash but I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deni? Nice to see you dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi Mrs Vaughn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I talk to you outside for a second.  Mom I'll be right back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How you been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Been better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Talked to the sheriff yet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I went down to the police station  and I talked to somebody with a badge.  Sure as hell didn't seem like much of  a sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's up for re-election you know. Maybe  you could take his job. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Somebody ought to. How about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sunshine and pine trees. Been readin  these books, teach you how to cultivate  happiness. Books on the future, go with  the flow, that sorta thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is it workin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have my moments.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So the casino huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yep. Been there almost a year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Treatin you good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lot better than it treated you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I like that. Jay Hamilton's done well  for himself hasn't he.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea, he's a real go-getter that one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Must be. I heard he got you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lasted about 8 minutes, a long long  time ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You still work for him though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rent's gotta be paid Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Suppose so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hope to see you around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She begins to drive off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks for the jacket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She toots the horn as she goes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Connie is on the phone. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And where is he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Vaughn's truck pulls up at speed. They enter a garage is on a stretcher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's ok mom he's stabilised. (To Chris)  It was close. Crystal Meth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry. I never did it before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's true. We mighta kinda pushed him  into it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris approaches the kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where'd you get the drugs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not really sure...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stop. Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "From the security guys workin at the  casino.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris gets into his truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris, wait. Call the police.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, that won't do any good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris speeds off. He pulls up at their home and enters th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is Pete ok?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He'll be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris is searching about and forces open a cupboard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you doin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris pulls out a shotgun and loads it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw Chris not like this. Chris listen  to me. If you go outta here with that  gun, they're gonna.. ne... Chris!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris drives to the casino, he cocks the shotgun but deci to leave it in the truck. Instead he takes a piece of woo the back of his truck. He enters the casino with it. He s a fruit machine. A guard comes up and Chris beats him. A scene breaks out with Chris beating the guards and genera trashing the place. He takes back his special forces dogt the guard who stole it. Chris hurls his piece of wood at VIP lounge window, smashing it to pieces. Jay emerges fro it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Guess that changes our relationship  a bit huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris leaves. As he drives off in his truck, police cars with sirens going. He pulls over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You should NOT have come looking for  trouble. Keep your hands up, get out  of the vehicle now Chris! NOW!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I advise you to give this offer more  than a little serious thought. If you  go to trial you stand to do 18 years.  This is a sweet plea, normally they  wouldn't even put it on the table but  your military record can't be ignored.  Three months home arrest, some community  service. Pretty generous offer Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But I'd have to plead guilty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look at it from the other side. There's  over a dozen witnesses, none of em are  gonna paint a very flattering picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see a montage of casino workers badmouthing Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He started bustin up the machines...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There was a gunshot..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Went crazy...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Complete psychopath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're only offering me this deal just  to keep me quiet. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I still say you should take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wasn't wrong. And I won't say I was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Our job is to keep order. But there  was no chance of that. Me and my men  we were just tryin to control him. He  was highly trained, violent, very dangerous  person. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So dangerous, so violent, so highly  trained that he despatched six of the  casino staff single handedly. His weapon  of choice a simple piece of cedar. Which  in his hand became a devastating force  with one aim, to hurt people, destroy  property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He went directly for everything. He  just came in and took over the place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You said he broke your arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea that's correct, my right forearm.  Both bones with a single shot. It was  crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know, toss out a coupla drunks now  and then. Guys try to grope the girls,  but ah nothing with this sort of violence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did he give you any kind of advanced  warning? A chance to defend yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We tussled, but he's a big guy. He was  on a mission. Besides, he seemed to  be too busy enjoying himself from what  I could see. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So from what you saw, it seemed like  he had some kinda purpose?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think he had a point to prove yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was emptyin machines when Mr Vaugh  came in and started swingin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was tryin to get outta there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr Crow, you may present your client's  case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To his lawyer) You're fired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your honor, I'd like to plead my own  case. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Order, order. Mr Vaughn, if you choose  to represent yourself and not be represented  by legal counsel you realise that you  can't then claim a mistrial on that  basis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Very well Mr Vaughn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't deny anything that was said  here today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Does that mean you're changing your  plea to guilty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not guilty of anything. Except standing  up for myself when the law wouldn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Objection. He's trying to introduce  prior events your honor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sustained. Mr Vaughn stay on point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I grew up in this town. People used  to walk tall in this town, they wouldn't  have traded the mill for a crooked casino.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr Vaughn we're not here to listen to  civic speeches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And they wouldn't have stood around  while drugs were being sold to kids.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Objection.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sustained. Mr Vaughn you're close to  being held in contempt. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was justified in what I did, and if  you acquit me of these charges I'm gonna  run for sheriff. And if elected, I'm  gonna fix this town. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Order, order. Mr Vaughn you are now  charged with contempt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And I will make sure that THIS (He opens  his shirt revealing huge scarring) never  happens to anyone again without punishing  those who did it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I order the jury to ignore what they  have just seen. Mr Vaughn take your  seat. Order! Order!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr Forman, has the jury reached a verdict?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We have your honor. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will the defendant please rise. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We find the defendant Chris Vaughn not  guilty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The crowd breaks into cheer. Chris takes a tag from his p of cedar wood which is laying on the evidence table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The crowds fade away with chants of 'Sheriff Vaughn'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris pulls up to the station in his police truck, it's c he's now the sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Watkins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well you won the election, congratulations.  We do have a tradition of professional  courtesy up here, and I can personally  vouch for each and every one of these  men. They're good deputies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're all fired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris takes a look around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay is speeding along in a sportscar. He is pulled over b police truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "License and registration please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're joking right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "License and registration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay hands it over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's the problem sheriff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You. And the drugs you're pedalling  out of your casino.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh. Only thing that's going on in my  casino right now is reconstruction.  You took care of that. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea that's right and I plan on taking  care of everything else too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you can, try to think this through.  A casino is a license to print money.  Why would I jeopardise that by selling  drugs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cause you owned the town Jay. It's changed  now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really? See the only thing that I think  has changed around here is that every  morning you get to wake up and put on  that nifty lil badge. But underneath  that badge is the same guy that couldn't  make it playing college football, apparently  couldn't make it in the army and not  gonna make it as a cop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is that right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yea, and if you push too hard you're  gonna be a man who doesn't live to see  40. License please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris hands it over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir get your tail lights fixed, it's  your last warning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's wrong with my tail lights?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris smashes up the back end of Jay's car with his trust of cedar wood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're broken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mornin sheriff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mornin deputy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris tosses Ray a badge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, nope, no. Come on man you know I  hate cops. You been sheriff 2 minutes  and I'm already startin to hate you.  I'm a convicted felon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got a lil pull around here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh now you're a CROOKED cop doing favours  for friends. That's how it starts. See  next thing you know you'll be taking  bribes, setting up roadblocks, frisking  dudes crotches. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you done? Ray I need your help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh don't do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need you to take me to drugs school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I get to wear a uniform?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A montage ensues, with Chris and Ray busting various drug",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're SURE you're not carrying anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't have shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Officer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Search him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh. Spread your legs, arms down. Been  workin out? Nothin there. Ohhhh somebody  needs a BATH!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now you read me my rights and take me  in. And I call my lawyer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "K. I have a hunch there may be somethin  else in here (Pats the dealer's truck).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Could be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Music plays while the two chop up the dealer's car into p while laughing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's clean. Guess we gotta move to plan  B.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Screw you, I do have a bit of information  for you. It's not just me actually,  there's a whole lotta people in on this  one. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Spit it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're gonna get hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris is in the room with a shotgun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why does it always have to be your fight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You might need this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. I put my guns down a long time ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're just being stubborn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You and me both boy. Chris, listen.  You be careful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Booth is locked up, Ray is taunting him through a loudspe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Please step away from the vehicle. Now  Mr Booth are you still upset over that  body cavity search? WOOOOOOOO! I forgot,  you got no vehicle. Please disperse,  there is nothing to s...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris has walked in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I talk to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Over here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm gonna stay with him tonight. I need  you to take care of my parent's place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You think they're gonna take it that  far?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris hands him the shotgun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm with you man, I'll check in later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NIGHT TIME",
+          "text": "Deni comes into the police station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't shoot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi. How's the food around here? Brought  you special treats. Salmon, Fried Chicken,  Potato Salad. You got cups?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you have to work tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hmm I quit. I figured you know, you  were making some changes around here,  I could make a few myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris grabs her and they kiss. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray is on the couch and has just woken to a noise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's Pete. Want something to eat?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No I'm good man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I gotta get a bigger bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no you don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay calls a number on his celphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm hungry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Got leftovers...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mm mmm, I want pancakes, and eggs, and  bacon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A loud explosion happens, it's Chris' police truck outsid",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WOOOOOOOOOOOO! I told you Vaughn! Uh  ohhhh. Who needs to step away from the  vehicle now Vaughn? Truck for truck  baby, that's right, truck for a truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris steps towards the front of the building but men out open fire, Chris ducks for cover. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To Deni) Get down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete, somethin's burnin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Men with machine guns are still firing at the police stat Deni's screaming, Booth is cheering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Take that and get in there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris gives Deni a pistol.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pete?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray steps into the kitchen but gunmen have infiltrated th A fight breaks out and Pete flees. Ray jumps onto the bac a gunman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris shoots up the floor with a shotgun and breaks a hol it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray stabs the gunman with a potato peeler and knocks him with a frying pan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To Deni) Come here. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They get down into the hole in the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When I say 'now' start shooting, over  there. Stay low.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Booth is now under fire and is scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Vaughn you gotta get me outta here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two other gunmen in stocking masks are holding the family upstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know who you are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The gunman takes off his mask and hits him with a pistol.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Calling downstairs) Burke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Check it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He goes downstairs to find Burke dead on the kitchen floo follows traces of blood across the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris is making his way towards Booth under fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "C'mon! Get me outta here man!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's it worth to you? Where's the  lab?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Screw you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gunshots hit near booth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok! Ok! Hamilton's operation is at the  mill ok! It's at the mill now get me  outta here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The gunman enters a room, Ray is there pointing a shotgun him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drop it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stay down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Booth is standing and gets shot dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray shoots the gunman, who falls to the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ray!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stay down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Booth is dead so Chris leaves him there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To gunman's body on the floor) Hey..  you okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UPSTAIRS",
+          "text": "Gunman 2 looks away for a second and Michelle kicks him d the stairs. As he tumbles down Ray reloads his shotgun. T begin firing at each other, taking cover behind the furni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tried to warn ya Chris. Didn't want  this to happen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One of the men outside has a canister. Watkins gives him nod and he begins walking towards the station. Chris is b the floor and shoots him in the legs. The two remaining m open fire again. Another gunman tries to approach but he' in the legs as well. Watkins enters the station and fires at the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come get some! WOOOOOOOOO!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deni! Now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deni fires off some shots. Watkins is distracted by the s Chris appears in the floor hole and blasts Watkins at clo with a shotgun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deni.... Deni. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris climbs out of the hole and they hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shots are still being fired in the lounge. Ray and the gu begin to wrestle. Ray wins and punches the man repeatedly has come back to the house and tries to pull Ray off the Ray mistakenly hits Chris in the face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris helps Ray over to a chair, Ray has taken a shot to leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The injured gunman from the kitchen appears brandishing a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You stabbed me... with a potato peeler??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris and Ray hold up their hands. He aims at Ray but he' in the back of the head by Dad who is approaching down th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gonna be ok?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dad nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris is in a police car driving at speed. He approaches mill and busts through the locked gates. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The mill is dark, Chris is finding his way around using a He finds Jay sitting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get up Jay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just a sec. Remember we used to play  hide n seek up here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay hits a metal saw which resonates making a metallic so",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That was my favourite sound. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay stands up and holds up his hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look... Chris... just...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay hits a switch on the floor which opens a hatch. Chris into the hatch but hangs onto the saw which is swinging o it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay hits more switches, powering up the machinery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You wanna know what my new favourite  sound's gonna be? The sound of you screaming  like a little bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jay hits Chris in the stomach with a pole a few times. Ch grabs the pole and they both fall. Chris has hurt his leg stumbles off into the woods. Jay grabs an axe and goes af him, he swings the axe but misses and they both fall down earthy embankment. At the bottom they come to their sense begin fighting again, Jay with his axe and Chris with a l ripped off a tree. Chris knocks Jay out by hitting him ha the legs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're right Jay, this does change our  relationship. This is my town, you're  under arrest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chris and Ray are packing everything, the place is boarde",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That oughta do it. WHAT are you doin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gettin some souvenirs, I'm gonna miss  the place!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's how it starts. Next you'll be  accepting bribes, setting speed traps  all over town, cuttin up trucks. Not  to mention the cavity searches. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Speakin of which, do you think Jay's  got a casino in the pen? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Could be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Runnin the shower tower with the felons.  He's probably blowin on somebody's dice  right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They laugh as they drive off. The mill makes a horn noise",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's lunch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go pick my old man and grab somethin  to eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm with ya buddy.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2511"
+    }
+  ]
+}

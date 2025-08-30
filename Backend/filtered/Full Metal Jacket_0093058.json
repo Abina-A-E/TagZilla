@@ -1,0 +1,4874 @@
+{
+  "movie_id": "MOV743",
+  "scenes": [
+    {
+      "location": "BARBERSHOP- -PARRIS",
+      "time": "- NIGHT",
+      "characters": [
+        "DAVE",
+        "PICKETT",
+        "FADE",
+        "BANG",
+        "INT.",
+        "PERKINS",
+        "CLEVES",
+        "CAMERAMAN",
+        "P.T.",
+        "P.T..",
+        "STORK",
+        "TOUCHDOWN",
+        "FADE TO BLACK",
+        "BARRACKS",
+        "SERGEANT",
+        "HUE",
+        "FADE IN",
+        "ANIMAL MOTHER",
+        "OBSTACLE",
+        "EARL.",
+        "LT. CLEVES",
+        "ANIMAL",
+        "COWBOY",
+        "HOOKER",
+        "LATRINES",
+        "DOC JAY",
+        "RECRUITS",
+        "M-I-C-K-E-Y",
+        "COLONEL",
+        "HALLWAY",
+        "EIGHTBALL",
+        "DONLON",
+        "RUINS",
+        "DOORGUNNER",
+        "ADAMS",
+        "ARVN",
+        "T.H.E. ROCK",
+        "PIMP.",
+        "SNIPER",
+        "PYLE",
+        "DOC",
+        "M-I-C-K-E-Y M-O-U-S-E",
+        "PARADE DECK- -DAY",
+        "HELICOPTER- -DUSK",
+        "REPORTER",
+        "RECRU1TS",
+        "A",
+        "PRACTICE FIELD- -SUNSET",
+        "LOCKHART",
+        "MARINE",
+        "I",
+        "MOTHER",
+        "CRAZY EARL",
+        "RAFTERMAN",
+        "DUTY GUARD",
+        "TEENAGE HOOKER",
+        "\"TOUGH ONE\" OBSTACLE- -DAY",
+        "CHILI",
+        "DELTA SIX",
+        "DISSOLVE TO",
+        "MURPHY",
+        "EXT. OBSTACLE COURSE",
+        "JOKER, COWBOY",
+        "EXT.",
+        "ISLAND MARINE BASE- -",
+        "M-O-U-S-E.",
+        "FIELD- -DAY",
+        "AK-47,",
+        "BUILDING",
+        "TAYLOR",
+        "CRAZY",
+        "M-I-C-K-E-Y- M-O-U-S-E",
+        "IN",
+        "PAYBACK",
+        "MASTER",
+        "DAY",
+        "BASE-",
+        "JOKER",
+        "CITY--NIGHT.",
+        "MARINE PLATOON",
+        "HARTMAN",
+        "SCENE FADES TO BLACK",
+        "SNOWBALL",
+        "RECRURTS",
+        "PUGIL-STICK CIRCLE- -DAY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "DAY",
+          "text": "Marine recruits having their heads shaved with electric clippers. The hair piles up on the floor. 2 INT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRACKS",
+          "text": "Marine recruits stand at attention in front of their bunks. Master Gunnery Sergeant HARTMAN walks along the line of blank-faced recruits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I am Gunnery Sergeant Hartman, your Senior Drill Instructor. From now on, you will speak only when spoken to, and the first and last words out of your filthy sewers will be \"Sir!\" Do you maggots understand that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(in unison) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! I can't hear you. Sound off like you gota pair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(louder ) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "If you ladies leave my island, if you survive recruit training ... you will be a weapon, you will be a minister of death, praying for war. But until that day you are pukes! You're the lowest form of life on Earth. You are not even human fucking beings! You are nothing but unorganized grabasstic pieces of amphibian shit! Because I am hard, you will not like me. But the more you hate me, the more you will learn. I am hard, but I am fair! There is no racial bigotry here! I do not look down on niggers, kikes, wops or greasers. Here you are all equally worthless! And my orders are to weed out all non-hackers who do not pack the gear to serve in my beloved Corps! Do you maggots understand that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(in unison) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! I can't hear you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(louder ) Sir, yes, sir! Sergeant HARTMAN stops in front of a black recruit, Private SNOWBALL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What's your name, scumbag?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "(shouting) Sir, Private Brown, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! From now on you're Private Snowball! Do you like that name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "(shouting) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Well, there's one thing that you won't like, Private Snowball! They don't serve fried chicken and watermelon on a daily basis in my mess hall!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(whispering) Is that you, John Wayne? Is this me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Who said that? Who the fuck said that? Who's the slimy little communist shit twinkle-toed cocksucker down here, who just signed his own death warrant? Nobody, huh?! The fairy fucking godmother said it! Out-fucking- standing! I will P.T. you all until \fyou fucking die! I'll P.T. you until your assholes are sucking buttermilk. Sergeant HARTMAN grabs cowboy by the shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Was it you, you scroungy little fuck, huh?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You little piece of shit! You look like a fucking worm! I'll bet it was you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, I said it, sir! Sergeant HARTMAN steps up to JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Well no shit. What have we got here, a fucking comedian? Private Joker? I admire your honesty. Hell, I like you. You can come over to my house and fuck my sister. Sergeant HARTMAN purnches JOKER in the stomach. JOKER sags to his knees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You little scumbag! I've got your name! I've got your ass! You will not laugh! You will not cry! You will learn by the numbers. I will teach you. Now get up! Get on your feet! You had best unfuck yourself or I will unscrew your head and shit down your neck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Private Joker, why did you join my beloved Corps?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, to kill, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "So you're a killer!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Let me see your war face!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You've got a war face? Aaaaaaaagh! That's a war face. Now let me see your war face!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Aaaaaaaagh!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! You didn't convince me! Let me see your real war face!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Aaaaaaaaaaaaaaaaagh !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You didn't scare me! Work on it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, yes, sir! Sergeant HARTMAN speaks into cowboy's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What's your excuse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, excuse for \fwhat, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I'm asking the fucking questions here, Private. Do you understand?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Well thank you very much! Can I be in charge for a while?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Are you shook up? Are you nervous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, I am, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Do I make you nervous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Sir, what? Were you about to call me an asshole?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "How tall are you, Private?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, five foot nine, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Five foot nine? I didn't know they stacked shit that high! You trying to squeeze an inch in on me somewhere, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, no, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! It looks to me like the best part of you ran down the crack of your mama's ass and ended up as a brown stain on the mattress! I think you've been cheated!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Where in hell are you from anyway, Private?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, Texas, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Holy dogshit! Texas! Only steers and queers come from Texas, Private Cowboy! And you don't look much like a steer to me, so that kinda narrows it down! Do you suck dicks!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Are you a peter-puffer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I'll bet you're the kind of guy that would fuck a person in the ass and not even have the goddam common courtesy to give him a reach- around! I'll be watching you! Sergeant HARTMAN walks down the line to another recruit, a tall, overtweight boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Did your parents have any children that lived?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I'll bet they regret that! You're so ugly you could be a modern art masterpiece! What's your name, fatbody?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, Leonard Lawrence, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Lawrence? Lawrence, what, of Arabia?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "That name sounds like royalty! Are you royalty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Do you suck dicks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! I'll bet you could suck a golf ball through a garden hose!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I don't like the name Lawrence! Only faggots and sailors are called Lawrence! From now on you're Gomer Pyle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir! PYLE has the \ftrace of a strange smile on his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Do you think I'm cute, Private Pyle? Do you think I'm funny?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Then wipe that disgusting grin off your face!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Well, any fucking time, sweetheart!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, I'm trying, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle, I'm gonna give you three seconds--excactly three fucking seconds--to wipe that stupid-looking grin off your face, or I will gouge out your eyeballs and skull-fuck you! One! Two! Three! PYLE purses his lips but continues to smile involuntarily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, I can't help it, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! Get on your knees, scumbag! PYLE gets down on his FEnees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Now choke yourself! PYLE places his hands around his throat as if to choke himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goddamn it, with my hand, numbnuts! ! PYLE reaches for HARTMAN's hand. HARTMAN jerks it away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Don't pull my fucking hand over there! I said choke yourself! Now lean forward and choke yourself! PYLE leans forward so that his neck rests in HARTMAN's open hand. HARTMAN chokes PYLE. PYLE gags and starts to turn red in the face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Are you through grinning?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(barely able to speak) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! I can't hear you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(gasping) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! I still can't hear you! Sound offlike you got a pair!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(gagging) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "That's enough! Get on your feet! HARTMAN releases PYLE's throat. PYLE gets to his feet, \fbreathing heavily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle, you had best square your ass away and start shitting me Tiffany cuff links . or I will definitely fuck you up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The training platoon is double-timing in formation. HARTMAN is calling cadence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "right, left, right, left! Left, right, left, right, left! Left, right, left, right, left!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(narration) Parris Island, South Carolina.... the United States Marine Corps Recruit Depot. An eight- week college for the phony-tough and the crazy-brave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Mama and Papa were laying in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(chanting in. cadence) Mama and Papa were laying in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Mama rolled over, this is what she said...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Mama rolled over, this is what she said...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Ah, gimme some...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "\fAh, gimme some...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Ah, gimme some...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Ah, gimme some...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "P.T..",
+          "text": "REcRuITs P.T.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "P.T.",
+          "text": "REcRuITs P.T.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Good for you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Good for you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "And good for me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "And good for me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Mmm, good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Mmm, good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Up in the morning to the rising sun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Up in the morning to the rising sun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Gotta run all day... \f4 EXT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRACTICE FIELD- -SUNSET",
+          "text": "Recruits, silhouetted against the sun, climbing ropes, nets and ladders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "...till the running's done!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Gotta run all day till the running's done!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Ho Chi Minh is a son-of-a-bitch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Ho Chi Minh is a son-of-a-bitch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Got the blueballs, crabs and the seven-year- itch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Got the blueballs, crabs and the seven-year- itch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN marches the platoon across a wide expanse of asphalt. The recruits carry rifles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Left, right, left, right, left! To your left shoulder hut! Left, right, left! Port hut!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Left, right! Platoon ... halt! Left shoulder hut!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "momentarily places his rifle on the wrong shoulder and immediately corrects himself: \fHARTMAN spots this and walks up to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle, what are you trying to do to my beloved Corps?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, I don't know, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You are dumb, Private Pyle, but do you expect me to believe that you don't know left from right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Then you did that on purpose! You want to be different!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir. HARTMAN slaps PYLE hard across the left cheek.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What side was that, Private Pyle?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, left side, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Are you sure, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir! HARTMAN SlaPS pnE hard across the right cheek, Knocking his cap off:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What side was that, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, right side, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Don't fuck with me again, Pyle! Pick up your fucking cover!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARADE DECK- -DAY",
+          "text": "HARTMAN marching the platoon. - bringing up the rear is PYLE, his fatigue pants down around his ankles; he is sucking his thumb and he carries his rifle muzzle down. 7 INT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRACKS",
+          "text": "HARTMAN walks along the line of recruits in skivvies holding their rifles and standing at attention in. front of their bunks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Tonight ... you pukes will sleep with your rifles! You will give your rifle a girl's name! Because this is the only pussy you people are going to get! Your days of finger-banging old Mary Jane Rottencrotch through her pretty pink panties are over! You're married to this piece, this weapon of iron and wood! And you will be faithful! Port ... hut! Prepare to mount! Mount! On HARTMAN's command the platoon mount their bunks with their rifles and lie on their backs at attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "\fPort... hut! The recruits snap their rifles to the port arms position. over their chests.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Pray!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(in unison) This is my rifle. There are many like it, but this one is mine. My rifle is my best friend. It is my life. I must master it, as I must master my life. Without me my rifle is useless. Without my rifle, I am useless. I must fire my rifle true. I must shoot straighter than my enemy who is trying to kill me. I must shoot him before he shoots me. I will. Before God I swear this creed. My rifle and myself are defenders of my country. We are the masters of our enemy. We are the saviours of my life. So be it .. . until there is no enemy but peace. Amen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Order . . . hut! The recruits snap their rifles down to their sides.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "At ease! HARTMAN turns off the barracks lights.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Good night, ladies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(in unison) \fGood night, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "(to duty guard) Hit it, sweetheart!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUTY GUARD",
+          "text": "Sir, aye-aye, sir! 8",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN drills the platoon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Right shoulder ... hut! This is not your daddy's shotgun, Cowboy. Left shoulder hut! Move your rifle around your head, not your head around your rifle. Port ... hut! Four inches from your chest, Pyle! Four inches!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN marches the recruits through the squad bay. Their rifles are at shoulder arms and their left hands clutch their genitals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "This is my rifle! This is my gun!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "This is for fighting! This is for fun!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "This is my rifle! This is my gun!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "This is my rifle! This is my gun! They repeat this over and over again as they march up and down the squad bay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN marching the platoon, calling cadence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OBSTACLE",
+          "text": "Hand over hand the recruits swing along the \"Armstretcher.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Ten fucking seconds! It should take you no more than ten fucking seconds to negotiate this obstacle! Quickly, move it out! There ain't one swinging dick private in this pla- toon's gonna graduate until they can get this obstacle down to less than ten fuck- ing seconds! 12 EXT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "\"TOUGH ONE\" OBSTACLE- -DAY",
+          "text": "HARTMAN watches as the recruits climb ropes and ladders to a high wooden tower above the platform 13 EXT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUGIL-STICK CIRCLE- -DAY",
+          "text": "PYLE and another recruit, wearing football-style helmets, batter each other with pugil sticks. The recruits are formed up around them in a cir- cle. They cheer as PYLE is beaten, to the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRURTS",
+          "text": "waiting in two lines for their turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Next two privates! Quickly! The next two recruits struggle over the obstacle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "\fGet over that goddamn obstacle! Move it! Next two privates! Quickly! Hurry up! Get up there! JOKER and another recruit go over easily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Joker, are you a killer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Let me hear your war cry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Aaaaaaaaaaaaagh!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Next two privates, go! PYLE and another recruit. PYLE is hopeless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Quickly! Get your fat ass over there, Private Pyle! Oh, that's right, Private Pyle ... don't make any fucking effort to get to the top of the fucking obstacle! If God wanted you up there He would have miracled your ass up there by now, wouldn't He?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Get your fat ass up there, Pyle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What the hell is the matter with you anyway? I'll bet you if there was some pussy up there on top of \fthat obstacle you could get up there! Couldn't you?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir! PYLE drops heavily to the groulzd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Your ass looks like about a hundred and fifty pounds of chewed bubble gum, Pyle. Do you know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Recruits are doing pull-ups. HARTMAN watches JOKER finishing many, many of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "One for the Corps! Get up there! Pull! JOKER finally drops to the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I guess the Corps don't get theirs. Get up there, Pyle! PYLE tries to do a pull-up but can't get to the top of the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Pull! Pull, Pyle, pull! One pull-up, Pyle! Come on, pull! You gotta be shitting me, Pyle! Get your ass up there! Do you mean to tell me that you cannot do one single pull-up? PYLE, exhausted from his efforts, drops to the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You are a worthless \fpiece of shit, Pyle!! Get out of my face! Get up there, Snowball!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PYLE climbs a high obstacle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Get up here, fatboy! Quickly! Move it up! Move it up, Pyle! Move it up! You climb obstacles like old people fuck. Do you know that, Private Pyle? Get up here! You're too slow! Move it, move it! Private Pyle, what- ever you do, don't fall down! That would break my fucking heart! Quickly! PYLE freezes at the top.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Up and over! Up and over! Well, what in the fuck are you waiting for, Private Pyle? Get up and over! Move it, move it, move it! Are you quitting on me? Well, are you! Then quit you slimy fucking walrus-looking piece of shit! Get the fuck off my obstacle! Get the fuck down off of my obstacle! Now! PYLE climbs back down his side of the obstacle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Move it! I'm gonna rip your balls off so you cannot contaminate the rest of the world! I will motivate you, Private Pyle, if it short- dicks every cannibal on the Congo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The platoon is irregularly strung out on a road nearing the end of a rapid, forced march. PYLE is at the end of the line ready to drop. \fSupported by JOKER, PYLE Staggers along as HARTMAN bellows at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Pick'em up and set'em down, Pyle! Quickly! Move it up! Were you born a fat slimy scumbag, you piece of shit, Private Pyle? Or did you have to work on it? Move it up! Quickly! Hustle up! The fucking war will be over by the time we get out there, won't it, Private Pyle? HARTMAN gives PYLE a shove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Move it! PYLE gasps for breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Are you going to fucking die, Pyle? Are you going to die on me!! Do it now! Move it up! Hustle it up! Quickly, quickly, quickly! Do you feel dizzy? Do you feel faint? Jesus H. Christ, I think you've got a hard-on!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The platoon tries to run, through the mud. PYLE half carried by JOKER and COWBOY falls taking JOKER down with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Quickly ladies! Assholes and elbows! Move it out! Get up there! Move it! Move it, move it, move it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN and two Junior Drill Instructors stride into the Squad Bay. The lights go on. HARTMAN \fbangs loudly on an empty metal garbage can which he carries into the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Reveille! Reveille! Reveille! Drop your cocks and grab your socks! Today is Sunday! Divine worship at zero-eight-hundred! Get your bunks made and get your uniforms on. Police call will commence in two minutes! HARTMAN stops in front of JOKER's bunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Cowboy! Private Joker!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "As soon as you finish your bunks, I want you two turds to clean the head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(in unison) Sir, aye-aye, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I want that head so sanitary and squared away that the Virgin Mary herself would be proud to go in there and take a dump!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(in unison) Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Joker, do you believe in the Virgin Mary?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\fSir, no, sir! HARTMAN throws down the garbage can with a loud bang.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Joker, I don't believe I heard you correctly!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, the private said \"No, sir, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Why, you little maggot! You make me want to vomit ! HARTMAN slaps JOKER, hard, across the cheek.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You goddam communist heathen, you had best sound off that you love the Virgin Mary... or I'm gonna stomp your guts out! Now you do love the Virgin Mary, don't you?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, negative, sir!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Joker, are you trying to offend me?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, negative, sir!!! Sir, the private believes that any answer he gives will be wrong! And the Senior Drill Instructor will beat him harder if he reverses himself, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Who's your squad leader, scumbag?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, the private's squad leader is Private Snowball, sir!!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Private Snowball! SNOWBALL double-times up to HARTMAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "Sir, Private Snowball reporting as ordered, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Snowball, you're fired! Private Joker is promoted to squad leader!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "Sir, aye-aye, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Private Pyle reporting as ordered, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle, from now on Private Joker is your new squad leader, and you will bunk with him! He'll teach you everything. He'll teach you how to pee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Joker is silly and he's ignorant, but he's got guts, and guts is enough. Now, you ladies carry on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER, COWBOY",
+          "text": "(in unison) Sir, aye-aye, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "patiently explains the disassembly of an \fM-14 rifle to PYLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "The bolt. The bolt goes in the receiver. Operating rod handle. Operating rod guide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOKER and PYLE sitting on their footlockers. JOKER instructs PYLE in the correct method of lacing his combat boots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "And the left one ... over the right. Right one over the left. Left one over the right. Right one over the left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On. top of the confidence climb, JOKER gently talks PYLE over the top.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Just throw your other leg over ... that'a boy. That's it. Now just pull the next one over and you're home free. Ready? Just throw it over. That'a boy. Just set it down. All right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "breathes heavily. He is scared but he manages to get over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "There you go. Congratulations, Leonard. You did it. 23",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOKER instructs PYLE in the correct way of making his bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "You fold the blanket and the sheet back \ftogether. Make a four-inch fold. Okay? Got it? You do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "looks down. uncertainly at the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "works with PYLE on the Manual of Arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. OBSTACLE COURSE",
+          "text": "COWBOY, JOKER and PYLE run up a ramp, grab the ropes and swing across a ditch. PYLE makes it without trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN is drilling the squad, calling the cadence and watching PYLE who makes no mistakes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Targets are raised and lowered, red markers indicating hits. HARTMAN addresses the recruits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "The deadliest weapon in the world is a ma- rine and his rifle. It is your killer instinct which must be harnessed if you expect to sur- vive in combat. Your rifle is only a tool. It is a hard heart that kills. If your killer instincts are not clean and strong you will hesitate at the moment of truth. You will not kill. You will become dead marines. And then you will be in a world of shit. Because marines are not allowed to die without permission! Do you maggots understand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "\fSir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The recruits are double-timing to HARTMAN's cadences.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "(chanting in cadence) I love working for Uncle Sam!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(chanting in cadence) I love working for Uncle Sam!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Lets me know just who I am!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Lets me know just who I am!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "One, two, three, four! United States Marine Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "One, two, three, four! United States Marine Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "One, two, three, four! I love the Marine Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "One, two, three, four! I love the Marine Corps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "My Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "My Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Your Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Your Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Our Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Our Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Marine Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Marine Corps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I don't know, but I've been told.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "I don't know, but I've been told.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Eskimo pussy is mighty cold!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Eskimo pussy is mighty cold!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Mmm, good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Mmm, good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Feels good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Feels good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Is good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Is good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Real good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Real good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tastes good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Tastes good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Mighty good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Mighty good!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Good for you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Good for you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Good for me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Good for me! 29",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The recruits in their skivvies stand at attention in two facing rows on top of their footlockers, arms outstretched, hands held rigidly in front of them, palms down, for inspection. HARTMAN moves along the row of men. He smacks a recruit's hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Trim em. HARTMAN points at the feet of another recruit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Toejam! To another recruit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Pop that blister! \fHARTMAN stops in front of PYLE and notices his foot- locker is unlocked. He picks up the lock and holds it up to PYLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Jesus H. Christ! Private Pyle, why is your footlocker unlocked?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, I don't know, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle, if there is one thing in this world that I hate, it is an unlocked footlocker! You know that, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "If it wasn't for dickheads like you, there wouldn't be any thievery in this world, would there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Get down! PYLE steps down, from the footlocker. HARTMAN flips open the lid with a bang and begins rummaging through the box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Well, now .. . let's just see if there's anything missing! HARTMAN freezes. He reaches down and slowly picks up a jelly doughnut, holding it in disgust at arm's length with his fingertips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Holy Jesus! What is that? What is that, Private Pyle?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, a jelly doughnut, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "A jelly doughnut?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "How did it get here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, I took it from the mess hall, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Is chow allowed in the barracks, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Are you allowed to eat jelly doughnuts, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, no, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "And why not, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, because I'm too heavy, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Because you are a disgusting fatbody, Private Pyle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "\fThen why did you hide a jelly doughnut in your footlocker, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, because I was hungry, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Because you were hungry? Holding out the jelly doughnut, HARTMAN walks down the row of recruits still standing with their arms outstretched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle has dishonored himself and dishonored the platoon! I have tried to help him, but I have failed! I have failed because you have not helped me! You people have not given Private Pyle the proper motivation! So, from now on, whenever Private Pyle fucks up, I will not punish him, I will punish all of you! And the way I see it, ladies, you owe me for one jelly doughnut! Now, get on your faces!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "(to PYLE) Open your mouth! He shoves the jelly doughnut into PYLE's mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "They're paying for it, you eat it! HARTMAN turns to the recruits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Ready . . . exercise! The platoon does push-ups.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "\f(chanting in cadence) One, two, three, four! I love the Marine Corps! One, two, three, four! I love the Marine Corps! One, two, three, four! I love the Marine Corps! One, two, three, four While the platoon does push-ups, PYLE swallows hard to get down. bites of the doughnut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOKER checks PYLE's Uniform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(quietly) You really look like shit today, Leonard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Joker? Everybody hates me now. Even you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Nobody hates you, Leonard. You just keep making mistakes, getting everybody in trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "I can't do anything right. I need help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I'm trying to help you, Leonard. I'm really trying. PYLE grins, trustingly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Tuck your shirt in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe platoon does squat thrusts as PYLE sits, his cap on backwards, sucking his thumb. HARTMAN watches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(counting in unison) One, turo, three nineteen! One, two, three . . . twenty! One, two, three twenty-one! One, two, three . . . twenty-two! One, two, three twenty-three! One, two, three . . . twenty-four! One, two, three . . . twenty-five! One, two, three . . . twnty-six! One, two, three . . . twenty-seven! One, two, three . . . twenty-eight! One, two, three . . . twenty-nine! One, two, three. . . thirty!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see a towel on a bed. A bar of soap is tossed on the towel. The towel is folded over the soap forming a weapon. A hand picks up the towel-weapon and bangs it on the mattress making a dull thud. PYLE is asleep in his bunk. The platoon silently slip out of their beds and form up around PYLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A",
+          "text": "blanket is thrown over PYLE, each corner held down by a recruit, pinning PYLE to the bed. COWBOY shoves a gag in PYLE's mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "is helpless. \fThe platoon files past beating PYLE with the bars of soap wrapped in towels. PYLE's screams are muffled by the gag. JOKER is the last one. He stands back from the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(to JOKER) Do it! Do it! JOKER hesitates, then moves forward and hits PYLE hard several times. Then JOKER jumps into his bunk. The recruits yank the restraining blanket of PYLE and run back to their bunks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(removing gag) Remember, it's just a bad dream, fatboy. PYLE sobs loudly and sits up, holding himself in pain. Lying in, his bunk, JOKER covers his ears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The platoon is lined up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Port... hut! Left shoulder ... hut! Right shoulder hut! Port ... hut! Do we love our beloved Corps, ladies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "(shouting in unison) Semper fi, do or die! Gung ho, gung ho, gung ho! \fPYLE says nothing, just stares straight ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What makes the grass grow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Blood, blood, blood! PYLE stares. Does not join in the shouting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What do we do for a living, ladies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRU1TS",
+          "text": "Kill, kill, kill! PYLE remains silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I can't hear you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Kill, kill, kill!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Bullshit! I still can't hear you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Kill, kill, kill! PYLE continues to stare blartkly ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The platoon sits on bleachers facing HARTMAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Do any of you people know who Charles Whitman was? No response.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "None of you dumbasses knows? \fCOWBOY raises his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Cowboy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, he was that guy who shot all those people from that tower in Austin, Texas, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "That's affirmative. Charles Whitman killed twenty people from a twenty-eight-storey observation tower at the University of Texas from distances up to four hundred yards. HARTMAN looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Anybody know who Lee Harvey Oswald was? Almost everybody raises his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Snowball?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "Sir, he shot Kennedy, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "That's right, and do you know how far away he was?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNOWBALL",
+          "text": "Sir, it was pretty far! From that book suppository building, sir! The recruits laugh at \"suppository. \"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "All right, knock it off! Two hundred and fifty feet! He was two hundred and fifty feet away and shooting at a moving target. Oswald got off three rounds with an \fold Italian bolt action rifle in only six seconds and scored two hits, including a head shot! Do any of you people know where these individuals learned to shoot? JOKER raises his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Joker?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, in the Marines, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "In the Marines! Outstanding! Those individuals showed what one motivated marine and his rifle can do! And before you ladies leave my island, you will be able to do the same thing! Camera slowly moves in on PYLE staring at HARTMAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Recruits standing at attention in two facing rows. HARTMAN walks between the rows, leading them in song.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Happy Birthday to you, Happy Birthday to you, Happy Birthday, dear Jesus, Happy Birthday to you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Today ... is Christmas! There will be a magic show at zero-nine-thirty! Chaplain Charlie will tell you about how the free world will conquer Communism with the aid of God and a few marines! \fGod has a hard-on for marines because we kill everything we see! He plays His games, we play ours! To show our appreciation for so much power, we keep heaven packed with fresh souls! God was here before the Marine Corps! So you can give your heart to Jesus, but your ass belongs to the Corps! Do you ladies understand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I can't hear you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The recruits are seated on footlockers, cleaning their rifles. HARTMAN prowls among them, watching. PYLE talizs softly to his rifle. JOKER looks at him uneasily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(to his rifte) It's been swabbed.... and wiped. Everything is clean. Beautiful. So that it slides perfectly. Nice. Everything cleaned. Oiled. So that your action is beautiful. Smooth, Charlene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARRACKS",
+          "text": "A few recruits, including PYLE, are mopping the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fIn the latrine COWBOY and JOKER are also mopping the floor. JOKER stops, looks around to be sure they are alone, and turns to COWBOY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Leonard talks to his rifle. COWBOY keeps mopping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I don't think Leonard can hack it anymore. think Leonard's a Section Eight. Pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "It don't surprise me. They both go back to mopping. JOKER speaks again after some silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I want to slip my tubesteak into your sister. What'll you take in trade?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "What have you got?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN kneels behind PYLE, looking on with approval. PYLE finishes a good group and reloads his M-14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Outstanding, Private Pyle! I think we've finally found something that you do well!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN inspects the recruits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "(to JOKER) What's your sixth General Order?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, the private's sixth general order is to receive and obey and to pass on to the sentry who relieves me ... all orders ... Sir, the private's sixth ... Sir, the private has been instructed but he does not know, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You slimy scumbag, get on your face and give me twenty-five!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, aye-aye, sir! HARTMAN walks to PYLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "How many counts in that movement you've just executed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, four counts, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What's the idea of looking down in the chamber?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, that is the guarantee that the private is not giving the inspecting officer a loaded weapon, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's your fifth general order?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, the private's fifth general order is to quit my post only when properly relieved, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What's this weapon's name, Private Pyle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, the private's weapon's name is Charlene,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Private Pyle, you are definitely born again hard! Hell, I may even allow you to serve asa rifleman in my beloved Corps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN double-timing the recruits, calling cadence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I don't want no teenage queen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "I don't want no teenage queen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "I just want my M-14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "I just want my M-14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "If I die in the combat zone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "If I die in the combat zone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Box me up and ship me home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Box me up and ship me home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Pin my medals upon my chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Pin my medals upon my chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Tell my mom I've done my best.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECRUITS",
+          "text": "Tell my mom I've done my best.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Woods. For the first time the platoon marches in full combat gear carrying rifles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(narration) Graduation is only a few days away and the recruits of platoon thirty-ninety-two are salty. They are ready to eat their own guts and ask for seconds. 43 EXT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIELD- -DAY",
+          "text": "In full combat gear and with fixed bayonets, the recruits charge through green smoke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(narration) The drill instructors are proud to see that we are growing beyond their control. The Marine Corps does not want robots. The Marine Corps wants killers. The Marine Corps wants \fto build indestructible men, men without fear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN talks to the recruits formed up ina school-circle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Today you people are no longer maggots. Today you are marines. You're part of a brotherhood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Graduation. A marching band. Spectators. Hundreds of marines parade by in dress uniform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "(voice over) From now on, until the day you die, wherever you are, every marine is your brother. Most of you will go to Vietnam. Some of you will not come back. But always remember this: marines die, that's what we're here for! But the Marine Corps lives forever. And that means you live forever!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HARTMAN talks to the platoon, again in a school- circle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Pickett!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PICKETT",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "0-three-hundred, Infantry. Toejam!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "O-three-hundred, Infantry. Adams!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAMS",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Eighteen-hundred, Engineers. You go out and find mines. Cowboy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "0-three-hundred, Infantry! Taylor!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAYLOR",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "O-three-hundred, Infantry. Joker!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Forty-two-twelve, Basic Military Journalism. You gotta be shitting me, Joker! You think you're Mickey Spillane? Do you think you're some kind of fucking writer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, I wrote for my high school newspaper, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Jesus H. Christ, you're not a writer, you're a killer!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "A killer, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "\fGomer Pyle! PYLE doesn't answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Gomer Pyle! We see PYLE in close-up, now completely with- drawn, barely able to answer HARTMAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "You forget your fucking name? 0-three- hundred, Infantry. You made it. Perkins!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERKINS",
+          "text": "Sir, yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The platoon sleeps. JOKER walks slowly down the squad bay with a flashlight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(Itarration) Our last night on the island. I draw fire watch. JOKER hears a muffled sound. He isn't sure where it comes from. He slowly enters the latrine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Running his flashlight across the room JOKER Sees PYLE sitting ona toilet, loading a magazine for his M-14 rifle. PYLE looks up at JOKER and smiles. It is a frightening smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(strange voice) \fHi, Joker. JOKER stares at PYLE for a few seconds. PYLE has suite clearly snapped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Are those ... live rounds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Seven-six-two millimeter, full metal jacket. PYLE smiles grotesquely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Leonard .. . if Hartman comes in here and catches us, we'll both be in a world of shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "Iam... inaworld.. . of shit! PYLE gets to his feet, snaps his rifle to port arms, and starts executing the Manual ofArms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(shouting) Left shoulder ... hut! Right shoulder hut! Lock and load! Order ... hut! PYLE picks up the loaded magazine, inserts it into the rifle and smartly brings the rifle down to the order arms position.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(shouting) This is my rifle! There are many like it, but this one is mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HALLWAY",
+          "text": "By now the platoon is awake. HARTMAN bursts from his room, wearing his \fskivvies and D.I. hat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(offscreen) My rifle is my best friend! It is my life!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Get back in your bunks!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PYLE",
+          "text": "(o.s.) I must master it as I must master my life! Without me 50 INT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATRINES",
+          "text": "HARTMAN Storms into the latrine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What is this Mickey Mouse shit? What in the name of Jesus H. Christ are you animals doing in my head? (to JOKER) Why is Private Pyle out of his bunk after lights out?! Why is Private Pyle holding that weapon? Why aren't you stomping Private Pyle's guts out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, it is the private's duty to inform the Senior Drill Instructor that Private Pyie has a full Magazine and has locked and loaded, sir! HARTMAN and PYLE look at each other. PYLE Smiles from the depths of his own hell. HARTMAN focuses all of his considerable powers of intimidation, into his best John- Wayne-on-Suribachi voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "Now you listen to me, Private Pyle, and, you \flisten good. I want that weapon, and I want it now! You will place that rifle on the deck at your feet and step back away from it. With a twisted smile on his face pyLE POintS his rifle at HARTMAN. HARTMAN look suddenly calm. His eyes, his manner are those of a wanderer who has found his home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARTMAN",
+          "text": "What is your major malfunction, numbnuts?!! Didn't Mommy and Daddy show you enough attention when you were a child?!!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANG",
+          "text": "The round hits HARTMAN in the chest. He falls back dead. JOKER and PYLE stand looking at the body. Then PYLE looks at JoKER and slowly raises his rifle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(trembling) Easy, Leonard. Go easy, man. PYLE breathes heavily, and Keeps the rifle aimed at JOKER. JOKER is scared shitless. PYLE looks at JOKER for several seconds and slowly lowers the rifle. Then he stumbles back a few steps and sits down, heavily on the toilet. PYLE turns away from JOKER and stares into space, a strangely peaceful look transforming his face. He places the muzzle of the rifle in his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No!!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANG",
+          "text": "PYLE pulls the trigger and blows the back of his head over the white tiled wall behind him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Motorcycles, cars, Vietnamese civilians. Swinging her hips ruith exaggerated sexiness, an attractive HOOKER in a mini-skirt walks toward a cafe' table on the pavement ulhere JOKER and RAFTERMAN are seated. Music: Nancy Sinatra's \"These Boots Are Made for Walking.\" The girl stops at JOKER's table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Hey, baby, you got girlfriend Vietnam?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Not just this minute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Well, baby, me so horny. Me so horny. Me love you long time. You party?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yeah, we might party. How much?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Fifteen dolla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Fifteen dollars for both of us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. Each you fifteen dolla. Me love you long time. Me so horny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Fifteen dollar too boo-coo. Five dollars each.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Me suckee-suckee. Me love you too much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Five dollars is all my mom allows me to spend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Okay! Ten dolla each.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "What do we get for ten dollars?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Everything you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Everything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Well, old buddy, feel like spending some of your hard-earned money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Just a minute. RAFTERMAN raises his Nikon and starts photographing JOKER and the HOOKER. The girl strikes quick poses for the camera and coughs. JOKER puts his arm around her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "You \fknow, half these gook whores are serving officers in the Viet Cong. The girl coughs again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "The other half have got T.B. Make sure you only fuck the ones that cough. A young vietnamese boy walks up behind RAFTERMAN and grabs the Nikon camera from his hands. The boy runs to an accomplice sitting on a waiting motorbike and tosses the camera to him. Then in mockery the BOY excecutes a few, Bruce Lee moves before jumping on the bike and zooming off: JOKER laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The main gates of the base. High-security fencing. Tanks, jeeps, trucks. A military helicopter lands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BASE-",
+          "text": "JOKER and RAFTERMAN walk down the base street past rows of hootches and other buildings. In the background some marines play basketball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "That little sucker really had some moves on him, didn't he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Yeah ... You know what really pisses me off about these people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "We're supposed to be helping them and they shit all over us every chance they get ... I just can't feature that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Don't take it too hard, Rafterman. It's just business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "I hate Da Nang, Joker. I want to go out into the field. I've been in this country almost three months, and all I do is take handshake shots at awards ceremonies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "You get wasted your first day in the field and it'd be my fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "A high school girl could do my job. I want to get out into the shit. I want to get some trigger time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "If you get killed, your mom will find me after I rotate back to the world and she'll beat the shit out of me. That's a negative, Rafterman. 54",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A Quonset hut. An editorial meeting of The Sea Tiger, the official marine newspaper, is in progress presided over by LIEUTENANT LOCKHART. JOKER, RAFTERMAN, and six other marine correspondens are seated around a large messy table covered with \fcameras, photographs, newspapers artd magazines.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Okay, guys, let's keep it short and sweet today. Anybody got anything new?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "There's a rumor going around that the Tet ceasefire is gonna be cancelled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Rear-echelon paranoia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "A bro in Intelligence says Charlie might try to pull off something big during the Tet holiday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "They say the same thing every year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "There's a lot of talk about it, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I",
+          "text": "wouldn't lose any sleep over it. The Tet holiday's like the Fourth of July, Christmas and New Year all rolled into one. Every zipperhead in Nam, North and South, will be banging gongs, barking at the moon and visiting his dead relatives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "All right ...Ann-Margret and entourage are due here next week. I want someone to be there on the airfield and stick with her for a couple of days. Uh, Rafterman, you take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Aye-aye, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "\fGet me some good low-angle stuff. Don't make it too obvious, but I want to see fur and early morning dew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "(reading) \"Diplomats in Dungarees--Marine engineers lend a helping hand rebuilding Dong Phuc villages . . .\" Chili, if we move Vietnamese, they are evacuees. If they come to us to be evacuated, they are refugees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHILI",
+          "text": "I'll make a note of it, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "(reading) \"N.V.A. Soldier Deserts After Reading Pamphlets --A young North Vietnamese Army regular, who realized his side could not win the war, deserted from his unit after reading Open Arms program pamphlets.\" That's good, Dave. But why say North Vietnamese Army regular? Is there an irregular? How about North Vietnamese Army soldier?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "I'll fix it up, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Lawrence Welk Show's gonna go out on TV in two weeks. Dave, do a hundred words on it. AFTV'1l give you some background stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "\f(reading) \"Not While We're Eating--N.V.A. learn marines on a search and destroy mission don't like to be interrupted while eating chow.\" Search and destroy. Uh, we have a new directive from M.A.F. on this. In the future, in place of\"search and destroy,\" substitute the phrase \"sweep and clear.\" Got it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Got it. Very catchy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "And, Joker ... where's the weenie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "The Kill, JOKER. The kill. I mean, all that fire, the grunts must've hit something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Didn't see ‘em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Joker, I've told you, we run two basic stories here. Grunts who give half their pay to buy gooks toothbrushes and deodorants--Winning of Hearts and Minds--okay? And combat action that results in a kill--Winning the War. Now you must have seen blood trails ... drag marks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "It was raining, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Well, that's why God passed the law of probability. Now rewrite it and give ita happy ending--say, uh, one kill. Make it a sapper or \fan officer. which?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Whichever you say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Grunts like reading about dead officers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Okay, an officer. How about a general? A few laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Joker, maybe you'd like our guys to read the paper and feel bad. I mean, in case you didn't know it, this is nota particularly popular war. Now, it is our job to report the news that these why-are-we-here civilian newsmen ignore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, maybe you should go out on some ops yourself. I'm sure you could find a lot more blood trails and drag marks. Some laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "JOKER, I've had my ass in the grass. Can't say I liked it much. Lots of bugs and too dangerous. As it happens, my present duties keep me where I belong. In the rear with the gear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rows of hootches. In the distance, fireworks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\f(voiceover ) Tet. The Year of the Monkey. Vietnamese Lunar New Year's Eve. Down in Dogpatch, the gooks are shooting off fireworks to celebrate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOKER, RAFTERMAN, PAYBACK and the others are in their bunks, reading, lazing, smoking grass. JOKER is writing in a notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(yawns and stretches) I am fucking bored to death, man. I gotta get back in the shit. I ain't heard a shot fired in anger in weeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "Joker's so tough he'd eat the boogers out of a dead man's nose ... then ask for seconds. Some laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(John Wayne voice) Listen up, pilgrim. A day without blood is like a day without sunshine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "Shi-i--i-t! Joker thinks the bad bush is between old mama-san's legs. Some laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "He's never been in the shit. It's hard to talk about it, man. It's like on Hastings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHILI",
+          "text": "Aw, you weren't on Operation Hastings, \fPayback. You weren't even in country.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "Eat shit and die, you fucking Spanish- American! You fucking poge! I was there, man. I was in the shit with the grunts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(John Wayne voice) Don't listen to any of Payback's bullshit, Rafterman. Sometimes he thinks he's John Wayne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "You listen to Joker, new guy. He knows ti ti. Very little. You know he's never been in the shit, 'cause he ain't got the stare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "The stare?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "The thousand-yard stare. A marine gets it after he's been in the shit for too long. It's like . it's like you've really seen beyond. I got it. All field marines got it. And you'll have it too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "I will?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STORK",
+          "text": "Hey, Payback. How do you stop five black dudes from raping a white chick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "Fuck you, Stork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STORK",
+          "text": "Throw'em a basketball. Laughter. They are startled by the dull boom of mortar \fshells outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Incoming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYBACK",
+          "text": "Oh, shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHILI",
+          "text": "They're outgoing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "That ain't outgoing! Some closer explosions, much louder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHILI",
+          "text": "That ain't outgoing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Now what I just say? The men grab their helmets, flak jackets and weapons and run outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Joker, is this for real?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yes, it is, Rafterman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Men running everywhere. Sirens. A mortar round lands in the distance, then others nearer. Fires are breaking out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "loads an M-60 machine gun, then hunches down watching the main gate of the perimeter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Hey, I hope they're just fucking with us. I ain't ready for this shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amen. The sound ofa truck approaching. The marines get set. The truch smashes though the gates. The marines open fire. The truck is hit by a hail of automatic fire; it explodes and starts burning. N.V.A. troops follow the truck through the gate. The attackers are cut down by a withering fire from the marines. The attack peters out. People yell, \"Cease fire.\" The firing trails off:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE TO",
+          "text": "59",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOKER and RAFTERMAN walk through the wreckage of the night's battle. Prisoners are led past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "(voice over) The enemy has very deceitfully taken advantage of the Tet ceasefire to launch an offensive all over the country. So far, we've had it pretty easy here. But we seem to be the exception.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fDirty and still in. their combat gear, JOKER, RAFTERMAN, PAYBACK and the other correspondents are slumped in, their chairs around the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "(walking) Charlie has hit every major military target in Vietnam, and hit 'em hard. In Saigon, the United States Embassy has been overrun by suicide squads. Khe Sahn is standing by to be overrun. We also have reports that a divi- sion of N.V.A. has occupied all of the city of Hue south of the Perfume River. In strate- gic terms, Charlie's cut the country in half... the civilian press are about to wet their pants and we've heard even Cronkite's going to say the war is now unwinnable. In other words, it's a huge shit sandwich, and we're all gonna have to take a bite. Long, serious pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir ... does this mean that Ann-Margret's not coming? Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "(pissed off) Joker.... I want you to get straight up to Phu Bai. Captain January will need all his people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "And Joker, you will take off that damn button. How's it gonna look if you get killed wearing \fa peace symbol?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Sir? Permission to go with Joker?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "Permission granted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Thank you, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, permission not to take Rafterman with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKHART",
+          "text": "You still here? Vanish, Joker, most ricky-tick, and take Rafterman with you. You're responsible for him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A",
+          "text": "military helicopter flies past a huge sun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELICOPTER- -DUSK",
+          "text": "JOKER Sits looking out the door. RAFTERMAN is frightened and airsick. The DOORGUNNER laughs and yells as he fires his M-60 machine gun. We see Vietnamese below running and falling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOORGUNNER",
+          "text": "Get some ... get some ... get some ... get some yeah ... yeah ... get some ... get some. After a while the DOORGUNNER stops firing and grins at JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOORGUNNER",
+          "text": "\f(shouting to be heard) Anyone who runs is a V.C. Anyone who stands still is a well-disciplined v.Cc. (laughs) You guys oughtta do a story about me sometime.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Why should we do a story about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOORGUNNER",
+          "text": "\"Cause I'm so fucking good! That ain't no shit neither. I've done got me one hundred and fifty-seven dead gooks killed. And fifty water buffaloes, too. Them're all certified. RAFTERMAN gags.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Any women or children?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOORGUNNER",
+          "text": "Sometimes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "How can you shoot women and children? RAFTERMAN gags.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOORGUNNER",
+          "text": "Easy. You just don't lead 'em so much. (laughs) Ain't war hell?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The helicopter lands. JOKER and RAFTERMAN jump out, duck down low and move away through pink smoke blown by the rotor blades. \fMarines run by carrying wounded on stretchers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(toa sergeant ) Top, we want to get in the shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT",
+          "text": "Down the road, two-five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Two-five. Outstanding! Thanks, Top.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A",
+          "text": "road next to a small canal on the outskirts of Hue. Tanks, trucks and marines are moving into the city past a column of refugees heading the other way. JOKER and RAFTERMAN catch up to a Lieutenant, salute him and walk alongside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Excuse me! Sir ... we're looking for First Platoon, Hotel two-five. I got a bro named Cowboy there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "You people one-one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "No, sir. We're reporters for Stars and Stripes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "Stars and Stripes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "I'm Cowboy's platoon commander. Cowboy's \fjust down the road in the platoon area.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Oh. You mind if we tag along, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "No problem. Welcome aboard. By the way, my name's Schinoski. Walter J. Schinoski. My people call me Mister Touchdown. I played a little ball for Notre Dame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Notre Dame?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "(laughing) Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "All right!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "You here to make Cowboy famous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Ha! Never happen, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "Well, if you people came looking for a story, this is your lucky day. We got Condition Red and we're definitely expecting rain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Outstanding, sir. We taking care of business?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "Well, the N.V.A. are dug in deep. Hotel Company's still working this side of the river. Street by street and house by house. Charlie's definitely got his shit together. But we're still getting some really decent kills here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We heard some scuttlebutt, sir, about the N.V.A. executing a lot of gook civilians.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "That's affirmative. I saw some bodies about half a klick this side of Phu Cam Canal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Can you show me where, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOUCHDOWN",
+          "text": "Here's the canal...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "stands looking down into a large open grave at a row of white, lime-covered corpses. Journalists, marines and civilians are grouped around the grave. A work detail leans on their shovels, their faces covered with bandanas against the stench.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(voice over) The dead have been covered with lime. The dead only know one thing. It is better to be alive. JOKER approaches a young lieutenant-- CLEVES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Excuse me. Good morning, Lieutenant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LT. CLEVES",
+          "text": "Good morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I make it twenty. Is that the official body count, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sharply) What outfit are you men with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Sir, we're reporters from Stars and Stripes. LT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLEVES",
+          "text": "(warms up) Oh, I see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I'm Sergeant Joker and this photographer's Rafterman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "starts shooting pictures of the Lieutenant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LT. CLEVES",
+          "text": "I'm Lieutenant Cleves. I'm from Hartford, Connecticut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Have you got a body count, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LT. CLEVES",
+          "text": "We think it's twenty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Do you know how it happened, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LT. CLEVES",
+          "text": "Well, it seems the N.V.A. came in with a list of gook names. Government officials, policemen, ARVN officers, schoolteachers. They went around their houses real polite and asked them to report the next day for political re-education. Everybody who turned up got shot. Some they buried alive. A marine COLONEL who has been watching JOKER turns from the group arourzd the grave and strides \fup. JOKER snaps to attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Marine !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LT. CLEVES",
+          "text": "Colonel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Marine, what is that button on your body armor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "A peace symbol, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Where'd you get it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I don't remember, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "What is that you've got written on your helmet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\"Born to Kill,\" sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "You write \"Born to Kill\" on your helmet and you wear a peace button. What's that supposed to be, some kind of sick joke?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "No, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "You'd better get your head and your ass wired together, or I will take a giant shit on you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Now answer my question or you'll be standing \ftall before the man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I",
+          "text": "think I was trying to suggest something about the duality of man, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "The what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "The duality of man. The Jungian thing, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Whose side are you on, son?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Our side, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Don't you love your country?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Then how about getting with the program? Why don't you jump on the team and come on in for the big win?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yes, sir!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COLONEL",
+          "text": "Son, all I've ever asked of my marines is that they obey my orders as they would the word of God. We are here to help the Vietnamese, because inside every gook there is an American trying to get out. It's a hardball world, son. We've gotta keep our heads until this peace craze blows over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Aye-aye, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIELD- -DAY",
+          "text": "JOKER and RAFTERMAN Walk through a field toward a pagoda.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marines are moving supplies. Some men are rest- ing on the ground. A helicopter flies overhead. Music: Sam the Sham's \"Wooly Bully.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Hey, bro, we're looking for First Platoon, Hotel two-five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARINE",
+          "text": "Around the back. JOKER and RAFTERMAN lualk to the back of the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(to another marine) First Platoon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARINE",
+          "text": "Yeah, through there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Through a moon-door opening on to the pagoda courtyard, We see COWBOY shauing. Other marines are sprawled around the courtyard walls. JOKER walks up behind COWBOY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Hey, Lone Ranger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Holy shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\fYou old motherfucker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "It's the JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "What's happenin'? They hug each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Boy, I hoped I'd never see you again, you piece of shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(laughs) What's happening, man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Oh, I'm just waiting to get back to the land of the big PX.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Yeah? Well, why go back? Here or there, samey-same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Been getting any?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Only your sister.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Well, better my sister than my mom, though my mom's not bad. COWBOY leads JOKER to the center of the courtyard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "This is my bro Joker from the Island. And this is...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Rafterman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "\f...Rafterman. They're from Stars and Stripes. They'll make you famous. Adlibs of \"All right!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "We're the Lusthog Squad. We're life-takers and heartbreakers. Adlibs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "We shoot ‘em full of holes and fill 'em full of lead. Adlibs of \"Yeah!\" etc. A big grunt, ANIMAL MOTHER, approaches JOKER. Trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Are you a photographer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "No... I'm a combat correspondent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(smiles) Oh, you seen much combat? JOKER returns the smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Well, I've seen a little on TV. The other marines laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "You're a real comedian. Some more laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(pause) Well, they call me the JOKER. \fAdlibs. \"Qooo0000000!\" and laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(moves closer) Well, I got a joke for you. I'm gonna tear you a new asshole. Adlibs, laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(John. Wayne voice) Well, pilgrim ... only after you ... eat the peanuts out of my shit! Loud laughs and shouts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(moves in close) You talk the talk. Do you walk the walk? Anticipatory adlibs of \"Ooooh!\" and \"Whoooa!\" EIGHTBALL, a black grunt, gets up and steps between JOKER and ANIMAL MOTHER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "(to JOKER) Now you might not believe it but under fire Animal Mother is one of the finest human beings in the world. Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "All he needs is somebody to throw hand grenades at him the rest of his life. Laughter. EIGHTBALL leads ANIMAL MOTHER away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "\f(laughing) Come on, sit down. Come on, new guy. EIGHTBALL and ANIMAL MOTHER sit down together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Hey, jungle bunny. Thank God for the sickle cell, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Yeah, mother. CRAZY EARL sits on the ground next toa figure sprawled in a chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "Hey ... photographer! You want to take a good picture? Here, man ... take this. This is my bro. CRAZY EARL lifts the hat which has been, covering the man's face. We see he is a dead N.V.A. soldier. Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "This is his party. He's the guest of honor. Today ... is his birthday. Adlibs: \"Happy Birthday, zipperhead!\" etc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "I will never forget this day. The day I came to Hue City and fought one million N.V.A. gooks. I love the little Commie bastards, man, I really do. These enemy grunts are as hard as slant-eyed drill instructors. These are great days we're living, bros!'wWe are jolly green giants, walking the earth with guns. These people we wasted here today ... are the finest human beings we will ever know. \fAfter we rotate back to the world, we're gonna miss not having anyone around that's worth shooting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "COWBOY's platoon, advancing towards the city ina sweep formation behind tanks. Cuts of the squad, nervous and alert. Mortar rounds explode ahead. LIEUTENANT TOUCHDOWN is hit and goes down. The platoon dives for cover. DOC JAY crawls to him and starts mouth-to-mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT",
+          "text": "MURPHY crawls up, has a look, moves to the back of the tank and picks up a field radio. The platoon stays flat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "Delta Six Actual, this is Murphy. Over. Delta Six Actual, this is Murphy. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DELTA SIX",
+          "text": "(0.s.) Delta Six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "Delta Six, we are receiving incoming fire from the ville. The Lieutenant is down. We're going to stop here and check out what's in front of us. Over. CRAZY EARL, keeping low, scrambles up to the LUSTHOG SQUAD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "Okay. \fLusthog Squad, listen up! We're gonna move up these two roads here and check the ville. I want the third team up this road here. First and second fire team behind me up this other road, okay? Adlibs of \"Right!\" and \"Okay!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "Let's go! Let's get it done! Bending low the squad moves out past the tanks, leapfrogging toward some ruined buildings a couple of hundred yards in front of them. HAND JOB peers cautiously around the corner of a house and is killed instantly by a burst of automatic fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL",
+          "text": "MOTHER opens fire with his M-60 machine gun at some windows where the shots came from. Everyone opens fire, blasting chunks out of the building with a zillion rounds. T.H.E. ROCK fires an M-79 grenade, blowing out a window. RAFTERMAN photographs the action, his Nikon violently shaking. The fire slackens. Then it gets quiet. All their senses alert, everyone watches the building, listening hard. They reload. As CRAZY EARL reloads he spots six V.C. dashing across the street fifty yards away. They are out of \fsight in a second. Having missed his first chance, CRAZY EARL gets set hoping for another. Two more V.C. rush out into the open. He fires a long burst from his M-16 and they both go down. CRAZY EARL turns to the squad with a big grin. Music: \"Surfin' Bird\" by the Trashmen. This car- ries over through the next scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The platoon are hunched down behind a low wall. Tanks fire at some distant buildings. A three-man TV crew, ducking low, moves past them, filming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(John Wayne voice) Is that you, John Wayne? Is this me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Hey, start the cameras. This is \"vietnam- - the Movie!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Yeah, Joker can be John Wayne. I'll be a horse!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "T.H.E. Rock can be a rock!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "I'll be Ann-Margret!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "Animal Mother can be a rabid buffalo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EARL.",
+          "text": "I'll be General Custer!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, who'll be the Indians?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Hey, we'll let the gooks play the Indians! Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bodies of LIEUTENANT TOUCHDOWN and HAND JOB laid out on ground sheets. The LUSTHOG SQUAD are gathered around them. The camera moves to each man, pausing for them to speak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "You're going home now. Camera move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "Semper fi. Camera move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "We're mean marines, sir. Camera move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Go easy, bros. Camera move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Better you than me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Well, at least they died for a good cause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "What cause was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "\fFreedom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "Flush out your head gear, new guy. You think we waste gooks for freedom? This is a slaughter. If I'm gonna get my balls blown off for a word ... my word is \"poontang.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Tough break for Hand Job. He was all set to get shipped out ona medical.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "What was the matter with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "He was jerkin' off ten times a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "It's no shit. At least ten times a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Last week he was sent down to Da Nang to see the Navy head shrinker, and the crazy fucker starts jerking off in the waiting room. Instant Section Eight. He was just waiting for his papers to clear division.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The television crew interviews members of the LUSTHOG SQUAD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "You ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAMERAMAN",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "Turnover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rolling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "Hue City interviews. Roll thirty-four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Well ... like, like you see, you know, it's a major city, so we have to assault with, uh tanks. So, they send us in first squad to make sure that there are no little Vietnamese waiting with, like, B-40 rockets that blow the tanks away. So we clear it out and we roll the tanks in and ... basically, blow the place to hell. (chuckles)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "When we're in Hue ... when we're in Hue City it's like a war. You know like what I thought about a war, what I thought a war was, was supposed to be. There's the enemy, kill ‘em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Well, I don't think there's any question about it. I mean we're the best. I mean all that bullshit about the Air Cav ... When the shit really hits the fan, who do they call? They call Mother Green and her killing machine!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY EARL",
+          "text": "Do I think America belongs in Vietnam? Um I don't know. I belong in Vietnam. I'll tell you that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "Can I quote L.B.J.?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "\fSure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "(imitating L.B.J.) \"I will not send American boys eight or ten thousand miles around the world to do a job that Asian boys oughtta be doin' for themselves.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Personally, I think, uh ... they don't really want to be involved in this war. I mean they sort of took away our freedom and gave it to the, to the gookers, you know. But they don't want it. They'd rather be alive than free, I guess. Poor dumb bastards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Well, the ones I'm I'm fighting at are some pretty bad boys. I'm not real keen on some of these fellows that are . . . supposed to be on our side. I keep meeting'em coming the other way. Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "I mean, we're getting killed for these people and they don't even appreciate it. They think it's a big joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Well, if you ask me, uh, we're shooting the wrong gooks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Well, it depends on the situation. I mean, I'm--I'm here to take combat photos. But if the shit gets too thick, I mean, I'll go to the rifle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "\fWhat do I think about America's involvement in the war? Well, I think we should win.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "I hate Vietnam. There's not one horse in this whole country. They don't have one horse in Vietnam. There's something basically wrong with that. (laughs)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Well, if they'd send us more guys and maybe bomb the hell out of the North, they might, uh they might give up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I wanted to see exotic Vietnam, the jewel of Southeast Asia. I wanted to meet interesting and stimulating people of an ancient culture and ... kill them. I wanted to be the first kid on my block to get a confirmed kill. 73",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The marines are seated outside the theater on rows of broken movie seats. A motor-scooter, driven by a young ARVN soldier with a pretty teenage Vietnamese HOOKER sitting behind him, and pulls up in front of the LUSTHOG SQUAD . The girl gets off slowly, swinging her hips as she walks. Adlibs, hoots anal hollers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Ten-hut! More hoots and hollers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good morning, little schoolgirl. I'm a little schoolboy, too. Adlibs and laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "What you got there, chief! The girl stands facing them, hands on hips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMP.",
+          "text": "Do you want number one fuckee? Adlibs and laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Hey, any of you boys want number one fuckee? Adlibs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Oh, I'm so horny. I can't even get a piece of hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Hey! Hey! Me want suckee. ARVN PIMP. Suckee, fuckee, smoke cigarette in the pussy, she give you everything you want. Long time. Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Everything you want! All right! How much there, chief! ARVN PIMP. Fifteen dolla each. Adlibs: \"Nooooooo!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Number ten. Fifteen dolla beaucoup money. Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Five dolla each. ARVN PIMP. Come on. She love you good. Boom-boom long time. Ten dolla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Five dolla. ARVN PIMP. No. Ten dolla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Be glad to trade you some ARVN rifles. Never been fired and only dropped once. Laughter and derisive adlibs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMP.",
+          "text": "(angry) Okay, five dolla. You give me. Adlibs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay, okay! EIGHTBALL, a black grunt, walks up to the girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Let's get mounted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "(speaks in Vietnamese) ARVN PIMP. (argues in Vietnamese)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Something wrong there, chief? \fARVN PIMP. She says, uh, no boom-boom with soul brotha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Hey, what the mother fuck? ARVN PIMP. She say soul brotha too boo-coo. Too boo-coo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Hey, what is this, man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(breaiting up) I think what he's trying to tell you is that you black boys pack too much meat. Laughter. ARVN PIMP. Too boo-coo. Too boo-coo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Oh, shi-i-i-t! (laughs) This baby-san looks like she could suck the chrome off a trailer hitch. Laughter. ARVN PIMP. She say too boo-coo. Too boo-coo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Uh, excuse me, ma'am. Now what we have here, little yellow sister, is a magnificent... (takes out his dick) specimen of pure Alabama blacksnake. But it ain't too goddamn boo-coo. The girl looks at it. Hoots and \fcatcalls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE HOOKER",
+          "text": "Okay. Okay. Emjee. More hoots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(mimicking Vietnamese word) Okay! Okay! Emjee! Emjee! Adlibs of \"Emjee.\" EIGHTBALL starts to lead her away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "All right! This is my boogie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Hey, we need a batting order. ANIMAL MOTHER grabs the girl's arm, EIGHTBALL holds on to the other one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "I'm going first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Hey, now back off, white bread. Don't get between a dog and his meat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL",
+          "text": "MOTHER slaps EIGHTBALL on the wrist like he's a naughty boy and pushes the girl into the movie theater.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(jokingly) All fucking niggers must fucking hang. Adlibs of \"Fuck you!\" and laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Hey, hey! I won't be long. I'll skip the foreplay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUINS",
+          "text": "The LUSTHOG SQUAD on patrol moves slowly in single file, fifteen yards apart, through the ruined, smouldering city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(voiceouer ) Intelligence passed the word down that during the night the N.V.A. had pulled out of our area to positions across the Perfume River. Our squad is sent on patrol to check out the report.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The patrol moves carefully through the gutted shell of a building. The clink of their gear as they walk sounds loud in the unnatural silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAZY",
+          "text": "EARL stops to pick up a child's stuffed toy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANG",
+          "text": "The toy triggs a booby trap, blasting CRAZY EARL across the room. The squad dives for couer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Face outboard and take cover! Do it! DOC JAY scurries up to CRAZY EARL, who is unconscious and gives him mouth-to-mouth resuscitation. COWBOY scrambles up to them. He looks at CRAZY EARL. Then JOKER runs in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "\f(stops for a second) He aidt gonna make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(to himself) Shit. COWBOY doesn't know, what to do. Then he fumbles for his field radio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Hotel One Actual, this is Cowboy! DOC JAY continues the mouth-to-mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Hotel One Actual, this is Cowboy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "(o.s.) Hotel One. Over",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Murph, this is Cowboy. Craze is hit. Booby trap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "(o.s.) Roger. Understand. Wait One. COWBOY looks around edgily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "(0.s.) You're senior N.C.0. You take charge and continue on with the patrol. Call in at the next checkpoint. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Roger. Out. COWBOY stares at the radio. He looks scared. He turns to JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "\fI'm squad leader.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "punches him reassuringly in the arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I'll follow you anywhere, scumbag. DOC JAY stops working over CRAZY EARL and slowly looks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "He's dead. The three men stare at the body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The squad moves past a burning five-storey building that has collapsed and is lying on its side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "EIGHTBALL, on point, studies a map as he walks. Then he slours to a stop and signals to halt the squad. The squad stops ancl crouches down in the rubble. EIGHTBALL gestures for COWBOY to move up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "(quietly) Cowboy! COWBOY moves up and they kneel behind a low concrete wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "What's up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "I think we made a mistake at the last checkpoint. \fHe shows COWBOY the map.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Here ... see what you think. I think we're here and we should be here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "studies the map.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "We're here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "We should be here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Yeah ...yeah ... that's right. COWBOY is confused and scared. He checks his compass. Then he peers over the wall through his binoculars. COWBOY looks back nervously at the squacl strung out behind him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Fuck ... What do you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Well, I think we should change direction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "doesn't sound like he really knows what to do either. COWBOY knows he has to make a decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay. We'll change direction. COWBOY motions to the squad to come up. They rattle up \fand take positions behind the low wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "What's up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Changing direction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "What, are we lost?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Joker, shut the fuck up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(to squad) Okay! Listen up! Can you hear me? Adlibs of \"Yeah!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay, we're changing direction. We're heading over that way. COWBOY points over the wall to some ruined buildings across an open space to their Left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Eightball's gonna go out and see if he can find a way through. EIGHTBALL shrugs, apprehensiuely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Got it? Adlibs of \"Yeah!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Eightball ... let's dance. EIGHTBALL slowly gets to his Knees and peers over the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EIGHTBALL",
+          "text": "Put a nigger behind the trigger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUE",
+          "text": "EIGHTBALL climbs over the low wall and moves cautiously out into the open, heading for the damaged buildings. The squad covers him. EIGHTBALL reaches the buildings and stops to study the smoke-filled square.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "P.O.V. from a concealed position on the second floor of a building on the square, an AK-47 rifle is slowly raised and aimed at EIGHTBALL. EIGHTBALL turns back to wave the rest of the squad up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANG",
+          "text": "The SNIPER fires. EIGHTBALL is hit in the leg. Seen in slow motion, EIGHTBALL twists and crumples to the ground. The LUSTHOG SQUAD fires blindly, wildly, at every door and window in the direction of the shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay, cease fire! Cease fire, goddamn it! Some of the squad keep firing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Cool it, goddamn it! Cool it! Cease fire! AdLibs of \"Cease fire!\" The firing stutters to a stop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, listen up! Did anybody see a sniper? Did anybody see anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "(down the line) Did anybody see a sniper?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Nothing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Negative!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "Nothing! Adlibs of \"No!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay, then save your ammo! Nobody fire till I tell you! Seen, in slow, motion, the SNIPER fires again and hits EIGHTBALL in the arm. He screams in pain. The squad opens fire at buildings facing them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "No, no! Cease fire! Cease fire! Animal, cease fire! Keeping low, DONLON comes up and hands COWBOY the radio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Cowboy, it's Sergeant Murphy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(into radio) This is Cowboy. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(0.s.) This is Murphy. What is your present position? Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Murph, we're receiving enemy sniper fire. Eightball is down. Our position is about half a klick north of checkpoint four. Believe pos- sible strong enemy force occupying buildings in front of us. Request immediate tank support. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "(o.s.) Roger. Understand. I'll see what I can do. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Roger. Over and out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(to Donlon) Stay close.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Got it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "thinks hard for a few seconds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(to squad) Okay, listen up! I think we're being set up for an ambush. I think there may be strong enemy forces in those buildings over there. I've requested tank support. We're gonna sit tight until it comes, but keep your eyes open. If they decide to hit us, we'll have to pull back fast. The SNIPER fires, wounding EIGHTBALL again, this \ftime in the foot. He shrieks in agony. Again the squad opens fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Goddamn it! Hold! Cease your fire, Mother! Cease your fucking fire! The firing stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "Cowboy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "We can't leave him out there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "We're not leaving him! We'll get him when the tank comes up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "He's hit three fucking times! He can't wait that long!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "I've seen this before! That sniper's just trying to suck us in one at a time! The SNIPER fires and hits EIGHTBALL in the thigh. His cries echo across the open space ground. ANIMAL MOTHER fires madly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(shouting) Goddamn it! No! The squad continues firing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Goddamn it, cease fire! The firing trails off:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's out there alone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Cease fire! The firing stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "Man, fuck this, fuck this shit! I'm going out to bring him in!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "No! You stay the fuck down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC JAY",
+          "text": "Cover me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOC",
+          "text": "JAY jumps over the wall and, ducking low, zig- Zags across the open ground. The squad fires to cover him. DOC JAY gets there safely and momentarily drops out of sight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Goddamn it! Goddamn it! Okay, cease fire! He's there! Adlibs of \"Cease fire!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DOC JAY, Seen over the sights of the SNIPER's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AK-47,",
+          "text": "drags EIGHTBALL toward cover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The SNIPER fires. DOC JAY is hit and falls next to EIGHTBALL. The squad opens fire again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "\fHold your fire! Hold your fire!!! Cease fire! You can't see the sniper! Save the ammo! Nobody fire till I tell you! Nobody!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "What the fuck do we do now, Cowboy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Gimme that fucking radio. DONLON scuttles over with the radio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(into radio) Murph? This is Cowboy. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "(o.s.) This is Murphy. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Murph, we're in some deep shit. I got two men down. What's the story on that fucking tank? Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MURPHY",
+          "text": "(o.s.) Sorry, Cowboy. No luck so far with the tank. Will advise. Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Roger. Out. (muttering to himself) Numbnut bastards! (to the squad) Okay, listen up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "Listen up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Can't afford to wait for the tank. I think they're gonna hit us any minute. When they \fdo we won't have time to pull out. We gotta do it now. Let's get ready to move. No one moves or says anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "Get ready to pull out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Wait a minute! Hold it! Hold it! Nobody's pulling out! There's only one fucking sniper out there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Back off, Mother! I'm calling the plays! I say we're pulling out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "Yeah, well, what about Doc Jay and Eightball?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "I know it's a shitty thing to do, but we can't refuse to accept the situation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Yeah, well, we're not leaving Doc Jay and Eightball out there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Doc Jay and Eightball are wasted! You know that!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "Bullshit! Come on, you guys! We gotta go bring'em back! Let's go get ‘em! Let's do it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Stand down, Mother! That's a direct order!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Fuck you, Cowboy! Fuck all you assholes! ANIMAL MOTHER jumps over the wall and \fruns screaming and firing his M-60. The squad fires to cover him, blasting chunks of mortar and concrete from the buildings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(screaming) Fucking son-of-a-bitch! You motherfucker ! Aaagh! Whooo! ANIMAL MOTHER reaches the buildings and drops down against a shattered wall. He calls across the open street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Doc! Doc! Doc! Where's the sniper? DOC JAY tries to speak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Doc, where's the sniper? Barely able to move, DOC JAY tries to point in the direction of the SNIPER. Suddenly he and EIGHTBALL are riddled by a burst of automatic fire from the SNIPER, Killing them instantly. ANIMAL MOTHER'S eyes widen in horror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(under his breath) Shit! ANIMAL MOTHER gets to his feet and edges forward to the corner of the building. He carefully looks around the corner across the square at the black building, from where he thinks the shots were fired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A shot from the SNIPER ricochets off the wall a few inches from his head. He ducks back around the corner, breathing hard. ANIMAL MOTHER looks around and carefully works his way to a safer spot behind another building. He shouts to the squad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Hey, Cowboy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Doc Jay and Eightball are wasted! There's only one sniper, nothing else. Move up the squad! You're clear up to here! Come on! COWBOY isn't sure what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(mutters) Son-of-a-bitch. The squad look to him. He takes a couple of thoughtful breaths and decides to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay, listen up! No-Doze, Stutten, Donlon, Rock--you come with me, we'll take a look! The rest of you stay put and cover our ass! We may be coming back in a big hurry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\fI'm going with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "I'm coming, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Okay. (To the others) You all set? Adlibs \"Yeah!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Let's move out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "Let's do it! The five men clamber over the wall and dash across the broken ground to the smouldering cluster of buildings. When they reach ANIMAL MOTHER he leads them to a street off the square where they duck down against a shattered building. They catch their breath and move forward to the next building, where they crouch down against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(pointing) Cowboy .. . top of the black building, around the corner. COWBOY cautiously moves to the corner of the building and studies the strange-looking black building which commands the square. Then. he ducks back around the corner, more uncertain than ever what they should do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Donlon ... give me that radio. \fCOWBOY moves to DONLON to take the radio. Facing away from the black building, COWBOY does not notice that from the place he has moved to he can be seen. by the SNIPER through a jagged hole in the building. 83",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "The SNIPER's P.O.V. --COWBOY's upper body is just visible through the hole in the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Murphy, this is Cowboy. Over! A gunshot reverberates. In slow-motion COWBOY falls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Cowboy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL",
+          "text": "MOTHER starts firing his M-60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "(shouting) Holy shit! The sniper's got a clean shot through the hole in the wall. Much yelling, shouting and confusion as the men realize where the shot came from.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(shouting) Get him! Get him the fuck outta here!! COWBOY is carried behind the building. All talk at once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\fEasy! Easy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Get him on his back. Adlibs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(weakly) Oh, I don't believe this shit. Adlibs, fumbling for bandages, etc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Shut up! You'll be all right, Cowboy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "Take it easy, Cowboy. Four pairs of hands doing things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(moaning) Uhhh, that son-of-a-bitch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "You're gonna be all right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "You're going home, man. You're going home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Easy, man. Easy. Easy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Ohhhh, don't shit me, JOKER! Don't shit me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I wouldn't shit you, man. You're my favorite turd. COWBOY begins to lose consciousness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "Cowboy...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hang on, man. Hang on!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "(coughs) I I can hack it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "You can hack it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "I can. I-I... COWBOY spits up some blood and dies in JOKER's arms. JOKER bends down and hugs COWBOY. Nobody moves. Then, one by one, they slowly get to their feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "is the last to get up. They stand looking at the body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL",
+          "text": "MOTHER leaves two men to continue firing at the SNIPER, and he scuttles around the corner to the group around COWBOY's body. He looks at COWBOY and then at JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Let's go get some payback. JOKER looks up slowly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(in cold anger) Okay. ANIMAL MOTHER leads then down a narrow street. They stop to take cover behind a building just off the square. \fThey have to cross the open. square, ruhich would give the SNIPER a clear shot at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "em Give some smoke. He and JOKER toss three smoke grenades into the square. They explode ruith a dull bang. They wait while the square slowly fills with smoke. ANIMAL MOTHER waves and they run out blindly through the thick smoke to the other side of the square.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BUILDING",
+          "text": "They work their way into the shattered, burning building, past twisted steel girders and huge broken chunks of concrete. They come to a place where they have to split up. ANIMAL MOTHER points one way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Donlon, Rock--that way. You two with me. DONLON and T.H.E. ROCK move off as ordered. JOKER and RAFTERMAN follow ANIMAL MOTHER the other way. They come to another place where they have to choose which way to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "(pointing) JOKER, in there! New Guy with me. JOKER cautiously enters one door. ANIMAL MOTHER and RAFTERMAN disappear through the other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOKER finds himself in what was the lobby of the building, a large room, which is on fire, with shattered columns, oriental arches, and windows with large decorative grillwork. JOKER inches slowly into the room. He hears a noise, ducks behind a column and peers around it. He sees a small, b lack-clad figure standing at a window - the SNIPER. He raises his rifle, aims and squeezes the trigger. A loud click. In slow motion the SNIPER turns to face JOKER. We see the startled face of a beautiful Vietnamese girl of about fifteen. In slow motion JOKER frantically works the bolt of his M-16. With the hard eyes of a grunt, the SNIPER fires her AK-47 rifle. In slow motion JOKER ducks behind the column, desperately trying to unjam his M-16 rifle. In, slow motion the SNIPER fires and runs down a few steps to get a better shot at JOKER. The bullets from her AK-47 tear large chunks of masonry from the column shielding him. Suddenly the SNIPER's body seems to explode as she is hit by a burst of automatic fire. \fRAFTERMAN has come up and fires his M-16 into the girl's body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "stands trembling against the shattered column. RAFTERMAN snaps another M-16 magazine into place, gestures JOKER to stay put, and moves forward like Supergrunt to check out the rest of the room. It's clear. He moves to the window, and shouts to the two men in the square.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "We got the sniper! The SNIPER lies on the floor, writhing in pain. JOKER and RAFTERMAN cautiously approach her. RAFTERMAN kicks away her AK-47. The two men stare at her in disbelief: The SNIPER is a child, no more than fifteen years old, a slender Eurasian. angel with dark beautiful eyes. They are startled by a faint sound. They dive for cover. They listen. ANIMAL MOTHER calls from behind cover at the other end of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Joker?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "\fYo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "What's up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "We got the sniper. RAFTERMAN and JOKER circle around the SNIPER as DONLON and T.H.E. ROCK and ANIMAL MOTHER walk up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "I saved JOKER's ass. I got the sniper. I fucking blew her away. RAFTERMAN laughs hysterically, and kisses his rifle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "Am I bad? Am I a life-taker? Am I a heart- breaker? No one pays any attention to RAFTERMAN. The SNIPER gasps, whimpers. DONLON stares at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "What's she saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(after a pause) She's praying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "T.H.E. ROCK",
+          "text": "No more boom-boom for this baby-san. There's nothing we can do for her. She's dead meat. ANIMAL MOTHER stares down at the SNIPER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Okay. Let's get the fuck outta here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Fuck her. Let her rot. The SNIPER prays in Vietnanese.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "We can't just leave her here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "Hey, asshole Cowboy's wasted. You're fresh out of friends. I'm running this squad now and I say we leave the gook for the mother-lovin' rats. JOKER stares at ANIMAL MOTHER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "I'm not trying to run this squad. I'm just saying we can't leave her like this. ANIMAL MOTHER looks down at the SNIPER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNIPER",
+          "text": "(whimpering) Sh... sh-shoot . . . me. Shoot . . . me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL",
+          "text": "MOTHER looks at JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANIMAL MOTHER",
+          "text": "If you want to waste her, go on, waste her. JOKER looks at the SNIPER. The four men look at JOKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNIPER",
+          "text": "(gasping) Shoot me... shoot . . . me. JOKER slowly lifts his pistol and looks into her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shoot . . . me. JOKER jerks the trigger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANG",
+          "text": "The four men are silent. JOKER stares down at the dead girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFTERMAN",
+          "text": "(laughs) JOKER ... we're gonna have to put you up for the Congressional Medal of... Ugly! (laughs) JOKER looks at RAFTERMAN, blankly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONLON",
+          "text": "Hard core, man. Fucking hard core.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CITY--NIGHT.",
+          "text": "The platoon moves through the city, silhouetted against the raging fires. A scene in, hell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(narration) We have nailed our names in the pages of history enough for today. We hump down to the Perfume River to set in for the night. The marines start to sing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARINE PLATOON",
+          "text": "Who's the leader of the club that's made for you and me? M-I-C-K-E-Y M-O-U-S-E. Hey there. Hi there. Ho there. You're as welcome as can be. M-I-C-K-E-Y M-O-U-S-E. Mickey Mouse. (Mickey \fMouse. ) Mickey Mouse. (Mickey Mouse. ) Forever let us hold our banner high. High. High. High. Come along and sing a song and join the jamboree. M-I-C-K-E-Y M-O-U-S-E. Here we go a-marching and a-shouting merrily. M-I-C-K-E-Y M-O-U-S-E. We play fair and we work hard and we're in harmony.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "M-O-U-S-E.",
+          "text": "Mickey Mouse. (Mickey Mouse. ) Mickey Mouse. (Mickey Mouse. ) Forever let us hold our banner high. High. High. High. Boys and girls from far and near you're as welcome as can be. M-I-C-K-E-Y M-O-U-S-E. Who's the leader of the club that's made for you and me? M-I-C-K-E-Y M-O-U-S-E. Who is marching coast to coast and far across the sea? M-I-C-K-E-Y M-O-U-S-E. Mickey Mouse. (Mickey Mouse. ) Mickey Mouse. (Mickey Mouse. ) Forever let us hold his banner high. High. High. High. Come along and sing a song and join the family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOKER",
+          "text": "(voiceover ) My thoughts drift back to erect nipple wet dreams about Mary Jane Rottencrotch and the Great Homecoming Fuck Fantasy. I am so \fhappy that I am alive, in one piece and short. I'm in a world of shit . . . yes. But I am alive. And I am not afraid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARINE PLATOON",
+          "text": "(singing) Come along and sing this song and join our family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "M-I-C-K-E-Y- M-O-U-S-E",
+          "text": "The marines march off into the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARINE PLATOON",
+          "text": "(singing) Who's the leader of the club that's made for you and me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "M-I-C-K-E-Y M-O-U-S-E",
+          "text": "Hey there! Hi there! Ho there! You're as welcome as can be. Mickey Mouse The sound fades aulay as the scene fades to black.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_744"
+    }
+  ]
+}

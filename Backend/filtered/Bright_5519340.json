@@ -1,0 +1,4263 @@
+{
+  "movie_id": "MOV365",
+  "scenes": [
+    {
+      "location": "WARD'S HOUSE BEDROOM",
+      "time": "DAY",
+      "characters": [
+        "DORGHU, (CONT'D)",
+        "KILL HER NICK KILL HER",
+        "YAMAHARA, (V.O.)",
+        "SLASHER",
+        "POLLARD",
+        "MONTEHUGH",
+        "SHERRI, (CONT'D)",
+        "TIKKA",
+        "JAKOBY, (V.O.)",
+        "POISON, (CONT'D)",
+        "JAKOBY, (CONT'D)",
+        "ORC GANGSTER",
+        "GIBSON",
+        "BROWN",
+        "HOMELESS MAN",
+        "DISPATCH, (V.O.)",
+        "SHUT THE FUCK UP",
+        "GORDON VANCE",
+        "WARD SPRINGS TO HIS FEET AND SCREAMS",
+        "WARD",
+        "FADE TO WHITE",
+        "THE WITCH",
+        "SOPHIA, (0.S.)",
+        "SMASH TO",
+        "WARD, (CONT'D)",
+        "SHERRI",
+        "POISON",
+        "SINGLE MOM",
+        "SGT. CHING",
+        "CLERK",
+        "COWBOY",
+        "SERGEANT CHING",
+        "INTO A FOUNTAIN OF FIRE, VIOLENTLY LAUNCHING WARD BACKWAR",
+        "CAPTAIN PEREZ",
+        "SWAT COP",
+        "ELVEN NURSE",
+        "SOPHIA",
+        "SHOOTER",
+        "SOPHIA, (CONT'D)",
+        "POLLARD, (CONT'D)",
+        "OLD MAN, (SPANISH)",
+        "NOW. EVERYTHING. HAPPENS. AT. ONCE...",
+        "US MARSHALL",
+        "SHADOW",
+        "INTO THE WALL...",
+        "OLD WOMAN, (SPANISH)",
+        "MIGUEL",
+        "KABOOM",
+        "DAY",
+        "KANDOMERE",
+        "GIBSON, (SPANISH)",
+        "GIBSON, (CONT'D)",
+        "DORGHU",
+        "SHUT UP",
+        "BAM",
+        "BLASTS UP AND STRIKES THE POWER LINES",
+        "ORC VOICES",
+        "TALIOS",
+        "RODRIGUEZ",
+        "SWAT SERGEANT",
+        "ARKASHIAN, (V.O.)",
+        "BLOWING APART GIBSON INTO A SCREAMING FLAMING SKELETON",
+        "ORC",
+        "TECHNICIAN",
+        "HICKS",
+        "JAKOBY",
+        "BROWN, (CONT'D)",
+        "ARKASHIAN",
+        "YAMAHARA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "SCOTT WARD can’t sleep. He scowls in defiance at the gold midday sun scorching through the blinds. Plain but handso with an ‘I’m in charge here’ buzzcut. A thoughtful man, b no genius, he’s stymied by the daylight. We note the ANGR BRUISING on his 200-pushups-a-day chest. Ward tries to fall back asleep. No dice. He shifts his weight and peels his Glock off his sweaty back. Sighs and starts counting the cracks in his bedroom ceiling...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SMASH TO",
+          "text": "EXT. LIQUOR STORE - WARD'S FLASHBACK -—- DAY A GANGBANGER in a black hoodie bursts out the door with a shotgun! WARD stands there in LAPD uniform. Reaches for h holster -- Breaks leather. Steps into a textbook shooting stance. Muzzle coming on target. Too Late... The GANGBANGER spins aims fires -- KABOOM!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward gasps awake. His fingertips skim the ugly green and purple bruises on his chest. I’m still alive...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward shuffles into the kitchen -- Sees SHERRI, his age, inspecting dishes in the sink, looking for the easiest on wash. Pretty in a champagne room kind of way. She has an air of entitlement, things should’ve been easier for her. The tension between them is palpable. Ward grabs a huge b of Cheerios, fills a plastic bowl. Without looking up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "There’s a fairy in the bird feeder again. Ward sighs. Gets the milk from the fridge. Smells it. Expired. Pours it anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI, (CONT'D)",
+          "text": "It’s the same fuckin’ one, too. Isn't it? Cause you didn’t kill it last time. Ward steels himself as he tamps cornflakes into sour mil He's been over her shit for a long time -- His tone immediately counters her aggression, mellow, even...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I thought you were out looking for a job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "Oh. Right. Of course. Of course you'd bring that up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yesterday you indicated you would be actively looking for employment. We had a plan, a timeline. And I’m concerned-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "--Don’t. Don’t do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Do what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "Your Zen cop ‘I'm talking to a crazy person’ voice you do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": ".--I'm trying to not escalate...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "For your information, I had an interview this morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Okay. That’s good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "I don’t need you to tell me it’s good. I won’t fuckin’ get it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "How do you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERRI",
+          "text": "Because I can tell. Okay? The woman was a snotty bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Keep at it. Your next interviewer might be a man. You can shake your six thousand dollar bolt-on-tits at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Way to de-escalate asshole. We all know I can make more money than your broke ass ever will dancing. So fuck you. Sophie’s staying at mom’s tonight. You gotta give her a ride. And get the fuckin’ fairy. Kill it this time. Pussy. She grabs her keys and charges out of there. EXT. WARD’S HOUSE - FRONT YARD - DAY Ward peers through the bars of his shitty Craftsman in So Central LA. Gangster THUMP emanates from the house next door. Two Low Riders on the lawn, cabled together. HOMIES solemnly gathered around open hoods. Ward slides the Glock in his pocket. Grabs a broom. Steps out into the sunlight -- His neighbor MIGUEL clocks him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIGUEL",
+          "text": "Good afternoon officer. We didn’t wake you up? He salutes. Ward salutes back, on a mission, not slowing down...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No, never. Because bass doesn’t carry at all. You know that’s bad for the grass. The cars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIGUEL",
+          "text": "Grass grows back. How’s your old lady?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Save up your lunch money and ask her yourself. The Homies sense his venom and wince -- Damnnnn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIGUEL",
+          "text": "Yo, that fairy in your bird feeder’s been up in my pad eating my dog food. I’m a call the city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I am the city. Motherfucker’s about to go to Fairy Heaven. Ward approaches the bird feeder slowly. A dead pigeon la beneath it -- Badly burnt. Ward stops and thinks. He doesn’t need this shit. Raises the broom... The Homies look on, expectant, as they slowly back up... Ward gently pokes the bird feeder. Nothing. THEN: The FAIRY bursts out SCREECHING at him! A sparrow- sized hybrid of lemur and insect. It HISSES like vermin..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIGUEL",
+          "text": "Aw shit. Ring the bell. It’s on. Ward jabs it with the broom -- It flings a handful of spa at him!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Ah! Fuck! The Homies erupt into laughter. Ward ignores them, locked onto his enemy. He fakes left, spins, swats it against th house with a thud -- The Fairy drops to the ground, HISSI helpless, injured...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIGUEL",
+          "text": "That's it right there. LAPD style. Now watch him finish off the little homie. Ward advancing slowly, clearly pitying the fairy -- It th sparks again -- Ward looks away and brings down the broom with finality -- He's sprayed with purple blood. This gets the expected eruption from the onlookers...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward returns and regards his forgotten bowl of soggy cere His mind tumbles, something washes over his face. He's suddenly somewhere else...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward is on his back next to the front tire of his black a white. He’s stunned. The buckshot in his vest smoking. Th Gangbanger steps around the corner of the vehicle. Presse the shotgun to Ward’s forehead -- His eyes locked onto th face of holy motherfucking death itself. A face we don’t to_see yet... \fCLICK. The shotgun is jammed. The Gangbanger takes off running. ECU WARD -- Gritting his teeth in rage...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He shakes his head, wiping his face...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA, (0.S.)",
+          "text": "Daddy! INT. WARD'S HOUSE - SOPHIA’S BEDROOM - DAY Ward's little daughter SOPHIA tries to cram a mound of stuffed animals into her backpack. Ward sits on her bed, eating a banana.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "They don’t fit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "So just take a couple. You’re only going to Grandma’s for one night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "If I only take two the rest will miss them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You're very considerate. But what about like clothes and toothbrushes and socks and stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "Daddy I’m only going for one night. Ward laughs. Then...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA, (CONT'D)",
+          "text": "Are you in trouble?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Am I in trouble? Did mom say something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "Mom said you and Nick are in trouble because Nick did something dumb. Ward makes a mental note -- Total information lockdown ti with Sherry. Before he can craft a response...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kayla at school says orcs do dumb stuff because they’re not as smart as people. Did Nick get you in trouble? I don’t want you be in trouble. Ward speaks carefully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Orcs aren’t dumb. Okay? All the races are different than us. And being different doesn’t make them smarter or dumber. They’re just like us. Okay? Everyone just wants to get along and be happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "Can elves really talk to dragons?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Not unless they go to the zoo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "Kayla says--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "--you gotta stop listening to Kayla. Kayla sounds like trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "No, Kayla never gets in trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Not yet. Being so judgemental won't do Kayla any favors in life. Look. Don’t let anyone tell you what to think. Treat everyone nice and they'll treat you nice. Suddenly a crash outside -- KATHUNK! -- Ward reacts, quic gets up... EXT. WARD’S HOUSE - DAY Ward exits and sees an LAPD Black and White on his lawn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Aw come on. What the actual fuck? NICK JAKOBY, early 30s, exits from the driver’s side with grin -- By the way -- JAKOBY'S AN ORC... \fLike most ores, he’s bald with green skin, orange eyes and slightly animalistic facial features. He’s friendly and e going, but right now he’s gently on the defensive. From next",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What? They put new shocks in. I was testing them on your curb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "On my curb? That makes no sense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Your driveway’s full? door...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIGUEL",
+          "text": "Hey officer, that’s bad for the grass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yes. Thank you. It grows back. (to Jakoby) Why are you here in our car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I had that diversity training thing up at Elysian. Thought you were going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I did it. You can’t run errands in a city car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Your house is on the way to the barn. Hop in. Let’s go to work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "Hi Nick! Sophia exits with a big smile for Jakoby...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Hey Sophia, what’s up rockstar?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "We're packing for grandma’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "That’s cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will you shut up, bro? I don’t want you catching days over a stupid mileage beef.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "Don’t tell Nick to shut up, he’s a person too!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Enlightened kid there, Scott.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby drives. Sophia in back listening to headphones. Wa quietly seethes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "This is stupid. I’m in soft clothes with my kid in the car. If we get popped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Right. Because maybe Internal Affairs is running integrity stings on vehicle mileage this week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You suck at sarcasm. You’re supposed to use a sarcastic tone when you're being sarcastic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I put what, five extras miles on the car? A buck of gas. That’s a criminal violation. Bro we gotta deny everything. Delete Facebook and lawyer up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Exactly like that. A sarcastic tone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Dude. Is it your man-period? Did you sleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No. Yes. Sort of. I keep seeing that asshole who blasted me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gotta try melatonin. I gotta bottle in my warbag I'll flip you. Pop one an hour before bed and stay off the laptop. The screen fucks up your circadian rhythm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yeah, okay mom. A beat of silence. What Ward really wants to talk about bubbles agonizingly to the surface.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Nick, did you let that asshole go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Yeah I let him go. Because that’s what I do. Dude’s who shoot my partner get a pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s me and you brother. Just me and you talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "It’s fucked up you’d ask me that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I saw his face, okay? He was an orc. He was clan-blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I don’t give a shit about clan- blood. I don’t. You’ve never came at me racial. Not once. You think I'd kick the dude who shot you loose because he’s green? Scott? Ward sighs checks his texts. Then...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I know you didn’t. But the guys on our Watch are talking mad shit. So it’s out there. Just know it’s out there. (then) If you came out on front street about it I totally wouldn’t care. Jakoby looks at Ward, with that intense open honesty he h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You would. Scott, you would. \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward hugs Sophia goodbye. SHERRI’S MOTHER looks on, while Jakoby waits with the car. Ward SEES Sophia’s crying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Hey, Sophia, don’t cry, don’t cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "I don’t want you to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Honey. I’m not going to die. I promise. Go with Grandma.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "But mommy said Nick is going to get you killed. Ward can barely contain his anger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Mommy's kidding. She says silly things sometime.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "I don’t want you to be dead. I hate you being a policeman. Everybody hates policemen! Sophia twists away. Runs crying towards the house. Ward absorbs the blow for a moment. When he returns to the car Jakoby is gentle with this...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Remind me, partner, why Sherri’s not watching her tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "She’s got a date.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Bro. Why are you still letting her live with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You know why.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Sophia’s not your daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Funny. Cause it sure fucking feels like she is, Nick. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I’m sorry. You know what I mean. I don’t know how to be on your side when you’re not on your side. Ward angrily gets in the car...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Save me, Nick. Save me from all the ex-strippers of the world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Solidly in the hood. A black SUV pulls up. Two Federal Agents step out in black suits. One is human, he’s all ab Gracie Ju-Jitsu and fine tailoring -- This is MONTEHUGH. The taller Agent is lithe with striking dark skin and dazzling teal eyes. LIKE MOST ELVES his features are near human, if perhaps slightly stretched. Almost too perfect, barring of course, his pointed ears -- This is KANDOMERE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "It’s, um, rustic here. I’m sure the inhabitants of this outpost have priceless knowledge to aid us on our quest. Kandomere cocks an eyebrow at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "I apologize there are no local shops with artisanal kale smoothies and organic chicken breast in ten pound servings. Stay on task. Montehugh glares at Kandomere as they enter the station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "My gains, bruh. Never mock my gains.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Crammed and with lead paint and peeling asbestos. Kandome and Montehugh check in at the front desk. CAMERA FINDS JAKOBY -- In a nearby hallway, watching the Agents from the shadows. Nervous. Kandomere feels Jakoby’s gaze. Looks over. Jakoby is already gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cops suit up to protect and serve. Ward peels the dry cleaning bag off a fresh uniform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Hey, any of you seen my partner? HICKS, a middle aged bulldog of a man, laughs thickly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "Big green dude? Orange eyes? Not exactly a Rhodes Scholar? Why yes. I have seen your partner. BROWN, 20s, with fratboy excitability, jumps in...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Hah. You said partner with airquotes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "See, Ward’s partner is a peace officer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Fucking outstanding. Airquotes again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "(announces loudly) Anyone have a location on our diversity hire? He likes to wander. Ward fumes. POLLARD, late 30s, with the bitter cold demea of a broken street cop, mutters this:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Cops don’t wander. Pets wander. Ward, you wanna ride with a dog, work K9. They laugh in that stupid, self congratulatory way racist always do. Ward about to explode... POLLARD (CONT’D) If I get smoked, gentlemen. Let the asshole go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Dude. I so got you. Done. \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "And now I say fuck you to you. You. And you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "You know what they say about clan blood. (ominously) Once for the Dark Lord, always for the Dark Lord.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "How can dumb-asses like you who can’t remember your wife's birthday still have beef against a whole race of people for some shit that went down thousands of years ago?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "Race of people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Bam! Airquotes! You are the fucking master. Ward spins to about to break Brown’s neck... BANG-BANG-BANG! SERGEANT CHING, a badass intelligent fema is pounding on a locker...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "Hi guys. If we’re done handing Ward ammo for his inevitable lawsuit against the Department, it’s time to drink in the Captain's wisdom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Cops we met sit at tables. Jakoby and Ward noticeably isolated from the “cool kids”. Jakoby whispers to Ward:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I saw feds in the building. They had an elf and everything. Think they’re here for me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You'd be suspended already if something was up. Lay off the energy drinks. \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Right, man, yeah. CAPTAIN PEREZ enters...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN PEREZ",
+          "text": "I'd like to welcome everyone to the latest episode of “We Are All Fucked” starring the PM Watch. Mock cheers and real laughs from the boys and girls. CAPTAIN PEREZ (CONT’D) Tonight we got the trifecta. Full moon on a Friday night in a Summer heatwave. The streets will be seriously assholed-up and we’re spread thin as Royce’s comb-over. One of the officers, ROYCE, chuckles. CAPTAIN PEREZ (CONT’D) That means clear your calls fast and help your colleagues clear theirs. Get me outta this reporting period without another murder, I‘’1ll buy you all coffee. This gets a positive, serious response. As he rushes off the next thing... CAPTAIN PEREZ (CONT’D) Sergeant Ching, all yours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "Yessir! A former Marine, she snaps to with her clipboard... SERGEANT CHING (CONT’D) After I call your name, get your shotguns and radios and deploy. I don’t want to see you here unless there’s badguys under the desks. Pollard. Brown. You’re working Three-A-Four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Shotguns and radios? When do we get the graham crackers and apple juice? \f15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "I will fuck you up, Pollard. I give zero fucks how much time in grade you got. Zero fucks. Ward, Jakoby. Three-A-Nine. Gomez and the rookie with the unpronounceable Thai surname. Three-A-Six. Jakoby and Ward can’t get out of there fast enough...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward grinds his teeth as Jakoby drives. Jakoby cranks his bluetooth speakers to fill the silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Bro. No. We’re not listening to Orkish folk music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You gonna act like a little bitch all watch? I thought Orcs were supposed to be dark motherfuckers. You need to get laid. Get a Sancha like every other cop working South Central. You got all the hoodrats chasing you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I don’t need to get laid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Yes you do. Humans are easy to read. Like you guys have all these little tells.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Little tells like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Like when you make this face... Jakoby makes a bizarre face. Ward can’t help it, starts chuckling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What face is that? That’s not a face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "It’s the face you’re making right now. It’s a human who needs some pussy face. \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Sure. I see it now. Show me another human face. Jakoby makes a bizarre pouting expression.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "This is when a human finds out he isn’t getting any pancakes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "(laughing now) It’s true, we do love pancakes. Ward changes the music -- A BANGING TRACK starts. The boy laugh, rolling through the hood. Its modest homes and pal trees splashed with golden late afternoon sunlight...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "WE SEE brief, beautiful images of the view from their car",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MUCH IS FAMILIAR -- KIDS playing football in the street. HOMELESS PEOPLE in tent cities. HISPANIC FAMILIES buying from push carts. HOOKERS selling their souls. SOME LESS SO -- A tough looking group of ORCS glares AT CAMERA from the porch. An OGRE loads an Engine Block into pick-up. A LIZARD MAN sorts bottles and cans. A dwarf wom hurries along with her groceries, walking a small dog. South Central’s as South Central always was, and is as So Central’s never been...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISPATCH, (V.O.)",
+          "text": "Three-Adam-Nine. Four fifteen man. Alameda and Jefferson. Code two. Incident two eight zero six two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Three-Adam-Nine. Roger, show us enroute. Jakoby busts a U as Ward checks the computer for deets on call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A bearded HOMELESS MAN, shirtless, dirty and emaciated, wildly swings a broadsword in the middle of the intersect Screaming his head off... \f17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOMELESS MAN",
+          "text": "A great cloud is coming, a great black cloud of fire! The Dark Lord grows closer every day! We may have forgotten about magic, but magic has not forgotten about us! Jakoby and Ward's cruiser glides to a stop alongside an L Sheriff's car. Alone behind the wheel is RODRIGUEZ. A goo dude and a good cop, he gives Jakoby and Ward a “wassup” tilt. The three nonplussed cops watch the show... HOMELESS MAN (CONT’D) The Dark Lord’s eyes are opening! They are opening!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Suspect’s nine feet tall, burning red eyes, black armor, flaming ax, got it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "It’s the full moon, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yep. What’s your plan Rodriguez?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "My plan? Nothing. He’s on your side of the street. But he crosses that yellow line, I’m dumping him with the crowd pleaser. Rodriguez grabs his shotgun. Jakoby sighs. Grabs the microphone. Flips the console to PA mode...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(booming over the PA) Sir. Sir. Drop the sword. Drop. The. Sword.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOMELESS MAN",
+          "text": "You! The homeless man points his sword directly at Jakoby...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HOMELESS MAN (CONT’D) Two thousand years ago we fought him with swords and arrows! Now he rises again. We will fight him with bullets and bombs!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Why’re Orcs always the bad guys? \f18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Don't look at me, man. Mexicans still get shit for the Alamo. Ward's had enough -- Pops out with his Glock...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yo. Unless you wanna die, drop the sword. Right. Fucking. Now. Wow. Ward can be a real asshole. The Man tosses the sword Drops to his knees. Shows his hands -- He knows the drill",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I got him, partner. Jakoby snaps on his gloves. Approaches. Cuffs the Man. Walking him back to the cars. Rodriguez about to bail...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Real quick, eh. Gang Intel guys are sayin’ Fogteeth activity’s off the chain. And Altamira’s gangbanging like it’s 1999. Watch your backs tonight. He takes off as Jakoby stuffs the Man in back. The second he’s in the car he VOMITS...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby and Ward endure the puke smell as the Man rants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOMELESS MAN",
+          "text": "The army of 9 races fought shoulder to shoulder to give you the world you take for granted now! Remember the old ways before the darkness returns! The clock ticks! The minute hand moves towards midnight!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Can you just chill for a sec? The Man bores into Ward's eyes with his. Low and quiet:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOMELESS MAN",
+          "text": "The Blood Moon is nigh and your test begins. Remember, the only truth is in your heart. Pass the test and thirty three seconds will be your reward. \f19. Ward looks at him entranced. Snaps out of it. Looks at Jakoby -- Who's feeling the creepiness too...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward hoses the vomit out of the back. Captain Perez and t scary Internal Affairs Detectives -- ARKASHIAN and YAMAHA approach. All duly grim...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN PEREZ",
+          "text": "Where’s Jakoby?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Booking our body, sir. The IA Detectives get in Ward's space. Eye him head to to Pure intimidation. Perez looks around. Leans on the car. He can be pretty scary himself. Quietly:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN PEREZ",
+          "text": "The Department’s always been cutting edge. First radio cars. Helicopters. SWAT team. First to hire Orcs. We’re committed to diversity. As is Sacramento and Washington. But the politicians haven't worked the ghetto. They’re not boots on the ground like we are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Where’s this going, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN PEREZ",
+          "text": "The Orc who shot you is on the street because of Jakoby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Respectfully I disagree. Jakoby did no wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN",
+          "text": "Do Orcs have mad hops? How many Ores are ballers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YAMAHARA",
+          "text": "You fucking heard the Detective. How many Orcs play pro basketball? \f20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN",
+          "text": "None. They’re slow. They’re heavy. That’s why half the NFL linebackers are Orcish. It’s simple physics.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I’m sorry. Who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN",
+          "text": "Fuck you. That’s who we are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YAMAHARA",
+          "text": "Okay, let’s review kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Resuming the backstory here -- Ward, flat on his back, st into the angry orange eyes of the Orc Gangbanger -- CLICK The Orc tosses the jammed shotgun and runs into a crowded SWAP MEET. Jakoby takes off after him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YAMAHARA, (V.O.)",
+          "text": "You respond to a silent ringer and some Orc lays you out with buckshot. Jakoby foot pursues and corners shithead in a dead end alley. Then it gets mysterious. IN THE DEAD END ALLEY -- The Gangbanger charges. Knocks Jakoby down. His Glock SKITTERS across piss-soaked asphalt...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN, (V.O.)",
+          "text": "Jakoby stated dude tackles him. Disarms him. Jumps up, grabs a fire escape ladder. Evades arrest. ON THE FIRE ESCAPE -- Gangbanger kicks in a window, dives",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Arkashian and Yamahara glaring at Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN",
+          "text": "Jakoby’s on record saying this. Signed, sealed, witnessed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YAMAHARA",
+          "text": "Ladder’s thirteen feet off the ground. Thirteen. We measured it. No Orc has a six foot vertical. \f21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Suspect was light on his feet, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN",
+          "text": "Your boy kicked loose the green fuck who blasted you. Do the math. Ward doing the math...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN PEREZ",
+          "text": "Jakoby was a social experiment mandated by outsiders. Clan Blood isn’t compatible with law enforcement. Problem is we can’t fire him without cause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YAMAHARA",
+          "text": "You're going to tie the noose that hangs him. Get him to admit it. Record him on this. Yamahara proffers a small digital recorder...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "This guy’s my brother. He’s the best street cop I’ve worked with. I can’t fuck him like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN PEREZ",
+          "text": "Then you're fired. I want your badge, gun and ID. Ward REACTS...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARKASHIAN",
+          "text": "You got a house in the hood you can’t sell. Student loans up the ass. Shacked up with a stripper and her kid. Have fun looking for work as a disgraced ex-cop. Ward stares at the recorder. At his antagonists. If looks could kill they'd all be dead...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward driving. Tense. He's palming the recorder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Hey partner?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What’s up buddy? \f22. Jakoby looks up from the logbook -- With that open, hones energy he has. Ward is pole axed. He can't betray him. Surreptitiously tosses the recorder out his window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Where you wanna eat, partner?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISPATCH, (V.O.)",
+          "text": "Three-Adam-Nine. Unknown disturbance. 341 Abrams Street. Code two. Incident two eight one one five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Three-Adam-Nine. Show us enroute. KMA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Isolated. High walls everywhere. Barbed wire. Black iron spikes. This is Altamira Locos country. Their graffiti everywhere. Ward and Jakoby cruise slowly. Jakoby clocks LITTLE HOMIE watching them from a porch...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Spotter. There.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Hiii buddy. How old do you think he is, fifteen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "If that. This is it on the right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They pull up to the house. It’s a 2 storey death trap. Th overgrown yard filled with junk cars garbage. Scary as fu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "They should fire their landscaper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(into mic) Three-Adam-Nine. Show me Code Six at Three Four One Abrams. Jakoby staring at the house, spooked...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What’s up? What do you see? \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Nothin. They exit the car -- The Little Homie has drifted over to watch them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Why’s always kids doing the dirty work out here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Altamira jumps ‘em in at twelve. They don’t have Hair One but they're down for life. Crossing to the house...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Sucks. Even Orc clans wait till you're fifteen before you get blooded.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Different strokes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I don’t see it, man. Must be a California thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "(laughing) That’s so you. That’s your catchphrase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I don’t have a catchphrase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Anything you don’t agree with, it’s always like “must be a California thing.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Partner!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Fuck me! Holy shit! They scramble back to their car -- Wards sliding over the hood, Jakoby over the trunk. KABOOM! KABOOM! Shotgun fire shredding their black and white! \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "(into radio) Three-Adam-Nine. Shots fired. Officer needs help. Three Forty One Abrams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What the fuck, man? This is bad, this is so bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Easy partner. Stay in cover. KABOOM! -- The windows above them explode, spraying them glass! Ward calculates the next move...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Holy fuck! Holy shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Okay. Be cool. On three we’re dumping on this asshole. Just empty your mag. I’11 do the rest. One. Two... KABOOM! -- The hood is shredded. KABOOM! -- The light bar explodes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Three! They pop up and return fire on the darkened window... BAM-BAM-BAM-BAM-BAM-BAM-BAM-BAM! -- Jakoby sprays. Ward takes careful aimed shots -- They drop back into cover. Breathing hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "You okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "No holes. I’m good. You okay? Ward's fine. They trade nods. Pop up again and SEE... An arm hangs from the window. Blood drips off fingertips. They got him. Now they hear a CHILD CRYING inside the hou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "There's a kid in there. Ward doesn’t hesitate. Breaks cover, running... \f25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Wait for the cavalry. Scott? Fine. Fuck it. Jakoby runs to join him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WHAM! -- The front door is kicked open -- Ward and Jakoby charge in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Police Officers! Stay where you are, we'll find you! No reponse. Ward and Jakoby ease further in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I smell blood. They ease forward. Tactical. Careful. Through a gloomy darkness of ratty furniture and exposed walls...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Body. Legs poke from a door frame leading into the kitchen. The partners advance and REACT...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Wh...oh shit. What is that? What is that bro? The entire top half of the dead man has been BLASTED INTO ASH, he's a blackened, charred, skeleton from the waist u A massive scorch mark on the wall... Ward stares, blinking, trying to snap himself out of shoc Jakoby isn’t doing as well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Look. Shit dude, look. Ward turns, SEES a hole blown in the wall, into the back yard. Like a bomb went off... An ORC dead in the yard, half of him turned to stone, his other half gruesomely dead, a pistol next to him. Another dead man, blown in half, is in the kitchen. The two cops stare in awe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Wh- what the fuck happened here? \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "(into radio) Three-Adam-Nine. Possible Bright on scene. Nothing back from the radio...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Three-Adam-Nine. Three Four One Abrams. Possible Magic User at our location. Request additional units for a perimeter and a supervisor. His radio replies with an eerie HISS. The hair stands up the back of their necks...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Where’s the troops? Where is everyone. Then ... a noise. Both men startle. Then push further int the dark house...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Got it. Jakoby gently pushes the cracked door, it drifts open... INT. 341 ABRAMS - SHOOTER’S ROOM - DAY The SHOOTER is slumped against the window, breathing shal shotgun on the floor. Bloody. His eyes follow the cops...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Do not move. Do not move. Ward advances, kicks the gun away, eyes his wounds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Is he staying or going dude?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Hey can you hear me? Can you hear me, man, can you..? The Shooter mutters something with his dying breath...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHOOTER",
+          "text": "T'rein...Oter...T' lias o'ter... \f27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What’s he saying? That Elvish?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Yeah, it’s Old Elvish. Suddenly a FIGURE bursts out of hiding, scrambles out the door!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Shit. Grab em. Grab em. Jakoby takes off...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The figure bursts out the front door at a full run with Jakoby in hot pursuit -- Jakoby dives and tackles the fig knocking it to the ground... WE SEE it’s a young ELF GIRL, screaming, frantic. Fightin like a banshee. Clutching something to her chest -- She snaps at Jakoby...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Fuck, she’s trying to bite me! Get her hands she’s got something! Ward rushes out to help restrain the kid. She’s clearly trying to keep something away from them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What’s she got? What’s she holding!? Ward and Jakoby pin her down -- AN ARC OF PURPLE ELECTRIC",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLASTS UP AND STRIKES THE POWER LINES",
+          "text": "Jakoby and Ward jump back, drawing their guns. The little girl cowers, drops what she’s holding...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Shit! ... Shit! Both cops stare in shock -- At the reedy white piece of w with a black handle and gold detailing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Is that...that’s not...is that a... Yes...it's a WAND!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CAMERA FINDS the LITTLE HOMIE. Now across the street, he everything. He turns and runs up the block at full speed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pollard, the dick cop from earlier, Hicks and Ward all st at the wand on the kitchen table. Sergeant Ching enters..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "There’s a blood trail leaving the property. Smells weird like gasoline.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Gasoline? Jesus Christ, what bleeds gasoline, what's that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "The blood trail belongs to our bright. Whatever went down, he gets shot and bailed out back without his wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Why aren't we evacuating the neighborhood? Remember how all those people died when the kids in Philly found a wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "That was before Twitter. We don’t want to start a panic. You said the elf kid used the wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "The kid’s not a bright. The wand just went off or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "What’s the kid saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "The kid isn’t saying shit, she’s freaked out. Plus she doesn’t speak English, only Elvish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "Ever seen a wand in person?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What? Sure ... yeah. That broken one in the Smithsonian. \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "So what are we gonna do about this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Secure the scene until the feds show up. This is way above our paygrades.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "I didn’t call the feds. Pollard, you call the feds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Nope. Pollard, Sgt. Ching and Hicks exchange looks. Ward beginn to clock something’s wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What are we talking about here, guys. C’mon. Sarge? Sgt. Ching just stares with her cold black eyes. Then...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Wands royally fuck up radio reception. Dispatch never heard you. We did ‘cause we were close by. But the Department knows fuck all about the wand. If they did the whole world would be here. The wand doesn’t exist. The wand was never here. (finally...) We're taking the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What the fuck are you even saying? You don’t know how to use a wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Don’t worry. I know people who know people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Come the fuck on, this isn’t happening, this is a joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "That’s magic. On the table. That’s whatever you want. Want a million bucks? Ten million? (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD, (CONT'D)",
+          "text": "You got it. Wanna be taller? Shorter? You want a bigger dick? You want fame? Power? Eternal health? That wand is anything you want. Follow your heart, Ward. A beat as Ward looks in his heart...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You're not stealing a wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "No one’s coming Ward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "Hicks back off. Scott, you need this just as much we do. Maybe more. People depend on you. People care about you. You want to be there for them, right? Fuck she's scary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "...-what about Jakoby..? Boom. There it is...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two more cop cars outside. The little elf girl sits on Pollard’s hood, her purple eyes stare through long white blond hair hanging down over pale skin. Wrapped in a blanket, Jakoby comforts her in halting, imperfect Elvish",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(subtitled) I will keep you safe. On my honor. Can you tell me your name? The little girl speaks quietly, through tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) Tikka. My name is Tikka. We have to leave before they come back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(subtitled) Before who comes back? Tikka's eyes say it all -- Someone utterly terrifying... \f31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward is sweating now. Pacing. The three corrupt cops are anxious, impatient...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "This isn’t happening, this isn’t fucking happening, this is a dream, man. This is a bad dream.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "Pollard, he’s spinning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "He’s fine. Let him catch up to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I’m not catchin’ up to shit. You don’t know magic! People will die! Ward shoves Pollard. Sgt. Ching gets in between them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SERGEANT CHING",
+          "text": "Whoa. Easy. Bring it down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Fuck this. Ward, lemme reframe this. Want your little girl to not have a father AND Jakoby dies? Or just Jakoby dies? Because you’re in fuckin fantasy land if you think you're walking outta here with life as you know it intact.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You threatening me motherfucker?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "I think he just caught up to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Who means more to you? Your little girl or your pet monster? We're leaving with the wand. You wanna go home tonight? The orc dies either way. End of story. There’s a brutal silence. We hear the flies buzzing. The whine of the old light bulbs. Hicks is smooth as Satan...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "Use your gun. The kid got your gun away from you. And shot Jakoby with it. Right out front there. \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "How’s a little elf girl gonna disarm me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "The kid was the bright. The kid got away. The kid disappeared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No ... come on...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "We got people coming to help. People who know how to fix things. This will work out good for you. Pollard puts a brotherly arm around Ward... POLLARD (CONT’D) You're not making the decision, okay? The situation is making the decision for you. It’s not your fault. It’s just how things worked out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SGT. CHING",
+          "text": "Enough bullshit. You or him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Fuck! Shit! Ward takes a deep breath. We see him slowly realize there no way out...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HICKS",
+          "text": "Perfect storm, bro. It’s a perfect storm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward bursts out door, walking with purpose towards Jakoby",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Hey man, where the fuck is everyone? We don’t have a perimeter. I think that pee-wee gangster saw the wand. And the Elf kid’s hell’a spooked. Saying someone’s coming back and shit. Jakoby notices Ward can’t face him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "What’s wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You let that kid go because he was clan blood. Admit it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What the fuck are you doing right now? What is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Tell me now! Ward shoves Jakoby, who snarls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Don’t put your hands on me. ON THE HOUSE -- Sgt. Ching, Hicks, Pollard drift outside. Watching from a distance. Hicks holds the wand...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You fucked me! You fucked us both! You stupid piece of green shit! Ward shoves him again. Jakoby growls at him, menacing lik Doberman, frightening and animalistic. Ward gets in his face, pressing foreheads...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "You fucked my fucking life for some thugged out punk ass Orc fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Fuck you. Fuck off. Jakoby snarls. Now clearly dangerous. He doesn’t notice Ward flip the release on his holster...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You fucked yourself more. Shit comes back, motherfucker. Ready you fucking pigface piece of shit? Here it comes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(snapping) Okay! I let him go! Is that what you fucking wanted to hear? \f34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I knew it, I fucking KNEW it you lying sack of shit. Blood’s thicker than water, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I don’t give a shit about clan- blood! I’m not blooded! My father’s not blooded. His father’s not blooded. We’re not all caught up in that ignorant antiquated shit. My whole life I’ve caught shit from Orcs for it. Look dumbass. I have my teeth filed! (then, deflated) It’s not blood. It was the wrong kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "(faltering) Wha...What? EXT. SOUTH LA - SWAP MEET - JAKOBY’S FLASHBACK - DAY BLACK HOODIE runs through the stalls. Jakoby chases him. People wiping past as he runs. Jakoby exits the back. Realizes he lost the suspect -- Then SEES him in the alle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (V.O.)",
+          "text": "He ran through the swap meet. Into the crowd. Then I saw him again. EXT. SOUTH LA - DEAD END ALLEY - JAKOBY’S FLASHBACK — DAY Jakoby running. Stops pulls his gun. Black Hoodie stops. His back to us. Cornered...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (V.O.)",
+          "text": "I had the motherfucker dead to rights. But it wasn’t him. Black Hoodie turns. This is a younger Orc. SIRENS approac",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (V.O.)",
+          "text": "The troops were coming. Responding to an assault on a peace officer. And here's a kid matching the description. He’s fucked. A bunch of jacked up humans with guns. And an Orc kid? We know how it ends. So I did the right thing. \f35. CLOSE ON BLACK HOODIE’S HAND as it grasps the fire escape ladder. WIDER TO REVEAL Jakoby helping him up... A beat later two black and whites scream into the alley. Pollard, Hicks, Brown and Ching pop out with guns...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward reeling...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "How do you know it was the wrong guy? You see his face?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "No. Smell. Evolution never took our sense of smell away. He smelled different. What jury would believe that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "So why the fuck was he running?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "History. Cops and Orcs? I’d run too. I’m sorry the Orc who shot you’s in the wind. I lost him in the swap meet. I didn’t help him escape. I helped some kid climb a ladder to avoid a lifetime of hell. The worst part’s been lying to you. Jakoby shakes his head, trying to calm himself down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "And you know what, fuck you for making me tell you. Ward staring at Jakoby. A weirdly dead look of calm passe over Ward's face. The situation is making the decision...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "(quietly) I need you to stay calm, okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What? Pollard steps forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Time's up, Ward. Do it. \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Do what--? This happens so fast you can't catch your breath -- Ward draws his gun, spins: BAM-BAM-BAM-BAM-BAM-BAM! Fires textbook LAPD ‘accelerated pairs’ into center mass -- Tikka recoils screaming -- Pollard, Hicks and Ching falling! HOLY SHIT!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Wha...what the fuck? Jakoby blinks, looks at Ward thinking -- “I can’t believe did that you idiot.” Jakoby quickdraws. Aims at Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Drop it. Drop it now. TI will kill you. JI will fucking kill you. Ward tosses his gun, slowly drops to his knees...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "What the fuck? What the fuck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Listen to me, Nick, I need you to-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Shut up and show me your hands! Ward does, Jakoby shoves him down, knee in his back. Cuff him. All business...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Shut up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Stop telling me to shut up, just fucking listen to me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHUT UP",
+          "text": "Jakoby hauls Ward to his feet, stuffs him in the cruiser. SLAMS the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Jakoby! I can explain! Jakoby grabs Tikka. Puts her in the passenger seat... \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(subtitled) Stay here, don’t move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick! Hear me out! Jakoby crosses to the bodies -- Tikka turns to Ward. And smiles -- Grateful. It means the World to Ward... ON JAKOBY -- SEES Ching and Hicks are motionless. Pollard crawling towards the house, leaving a wide swath of blood Jakoby turns him over -- Pollard looks at Jakoby in terro Tries to pulls his gun, but his hand slick with blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Hey Pollard, shit man, I’m getting you medical. Gimme your hand. Keep pressure on this, don’t let go. I got you, brother. Jakoby helps him staunch the wound. Next Jakoby checks Ch and Hicks. Both are dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "(into radio) Three-Adam-Nine. Officer down. Conscious and breathing. Two more officer's down. Not conscious not breathing. One in custody. Send me additional units. Get me an RA and a supervisor. No reply from dispatch -- Just eerie distortion... Now Jakoby notices the wand -- He grabs it. Returns to th car. Tosses it on the dash...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick! Heads up! We got looky- loos! Jakoby turns and REACTS -- Seven yoked and tatted VETERAN from Altamira approach in a phalanx. Backlit by the setti sun. The menace palpable... Jakoby stares a beat -- “I don’t need this shit.\" Then gr the shotgun and racks it -- KERCHACK!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Sir. Stay back. POISON, the shotcaller, smiles, shows his hands. Ever so friendly. Ever so cunning. Easing forward... \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "You need some help officer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Sir. This is an active crime scene. Cross the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "So why are all the cops blasting on each other?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Get the fuck back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "And sabes que, homie? Word on the street’s there’s a wand in the hood. Jakoby REACTS. The Veteranos slowly encircling him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick, unless you’re down to smoke these dude and twenty more we have to un-ass this place right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(whispering) Shut up, just shut up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "When the little homie told me, I’m like ‘hell no’. A wand? In this motherfucker? Naw. Then I hear all these cops are blasting each other. Now that’s worthy of exploration. Jakoby, noting how close they are, gets behind the driver door...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(subtitled) Tikka, we’re gonna be fine, stay calm. Jakoby is now surrounded. SEES hands in pockets, hidden behind backs. These fuckers are armed. Now Poison SEES th wand on the dash...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "That’s it, huh? That shit don’t belong to the Government. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON, (CONT'D)",
+          "text": "It belongs to the Community. To the people. We'll take it now. Jakoby aims the shotgun at Poison...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Anyone makes a move, I’m shooting you in the face. You. Not them. Poison just smiles. Jakoby slowly sits in the driver's se Still aiming at Poison. Jakoby keys his radio:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "(into mic) Three-Adam-Nine. I’m Code Six George at Three Four One Abrams. Get me back-up and an airship. Just more creepy HISSING in response...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s the wand. Radios don’t work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Shut up, man. I got this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "We have to go! Jakoby!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I’m not leaving Pollard!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Pollard wanted me to kill you! He’s not the victim here! WHAM! -- The windshield is hit with a CROWBAR! Veteranos jump on the hood and trunk. Attacking from all sides...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "They're gonna kill us! Go! Go! Jakoby starts the car and stomps the gas. Throws it in reverse. Sending Veteranos tumbling. He does an E-brake turn. Then guns it up the street, siren blaring...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby barrels up the street. Tikka screaming in fear. Jakoby breathing hard. It feels so good to get away... \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Slow down. Dude. Slow the fuck down ! The wand starts to GLOW...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Nick! Snap out of it! Slow d... The wand floats into the air, vibrating with energy... KA-WHAM! -- The car plows into ... nothing. The front end crushes in like it just hit an invisible brick wall! Then silence. The wand stops glowing. The smashed vehicle steams, bleeding oil and water in the middle of the stree Night has begun to fall over South LA...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere, the Elf Fed we met earlier, flips through boxe arrest forms. His photographic memory drinking in the inf fast as he turns the page. Montehugh, his human partner, enters in a rush...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Something’s going down. Kandomere looks up and cocks an eyebrow: “Go on.” MONTEHUGH (CONT’D) Tech services flagged some weird ass cellphone intercepts. Bunch’a cops talking about a bright-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "I've heard nothing on the scanner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "-and talking about a wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Where? He has Kandomere’s full attention...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Guess. They can't get out of there fast enough...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sky is hesitant to release the day, its final soft bl glow recedes from the darkness. It’s unnaturally quiet on this evil isolated little street... HIDDEN ON THE PORCH -- Pollard, in agony, trying to dial iPhone. It’s maddening to work a touch screen through so much blood. He hears an SUV pull up. FOOTSTEPS approach. He sets down his cell. Grabs his gun... GIBSON crosses to the house. Stops to pick up WARD’S GUN. She could be 20 or 40. Her age and gender are a mystery. But she’s clearly an apex predator. Everything she does i weighted with thought, meaning and intent, down to the smallest movement. She steps over the bodies of Sergeant Ching and Hicks. Behind her are SLASHER and COWBOY, with carbines and body armor. They have that Special Forces vibe, a couple hundr confirmed kills between them. Gibson stepping, Pollard slumps with relief...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Gibson? Thank fuck. She turns to her muscle...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Get him inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pollard sits at the kitchen table. Slasher and Cowboy reg the hole blown in the wall. Pollard groans in pain. Gibso studies him silently for a time. Then sits across from hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "You going to be all right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "What? Fuck no, I’m... help me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Of course. Help is coming. (beat) Where’s the wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "They took it ... they took it ... fuckers shot me! \f42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Describe it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "The wand. Describe it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "S'white ... gold ... black handle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "“They” who took it are... (reading off her phone) Scott Ward and Jakoby the Orc? Is that correct?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "That’s...that’s right...Local gangsters chased them off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Humans?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Yeah. Hispanic gang.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Do they know about the wand? Pollard just groans. Gibson turns to Slasher and Cowboy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (CONT'D)",
+          "text": "Priority one is to secure that wand. It might be with the gang. It might be with the cops. Gibson thinking as Pollard bleeds on the floor. Drip. Dri Drip...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (CONT'D)",
+          "text": "Are there GPS units in your patrol vehicles?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "We'll find him that way. (to Cowboy and Slasher) Get on the bodies. \f43. Cowboy and Slasher quickly exit. She shows Ward’s Glock t Pollard...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (CONT'D)",
+          "text": "Is this the weapon Ward used?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "Yeah. BAM! -- Gibson shoots Pollard in the head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slasher rolls Ching’s body in a carpet. Another rolled up carpet presumably contains Hicks. Cowboy uses a metal detector to locate shell casings from Ward's gun... Gibson exits. Looking around. Scanning for prey. Feels someone watching her. Spins to SEE SOMEONE duck behind th curtains of the little house across the street...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gibson KNOCKS -- Holds an LAPD badge to the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Police! LAPD! The door opens. Still chained. An OLD MAN peers at her... GIBSON (SPANISH) (CONT’D) I need to ask you some questions. You can talk to me here, or talk to me downtown. The door closes. The chain is removed. It opens again. INT. OLD MAN’S HOUSE - 5 MINUTES LATER - NIGHT The OLD MAN and OLD WOMAN clearly want no part of this. B are cooperating. Gibson takes notes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (SPANISH)",
+          "text": "The police were shooting at each other?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLD MAN, (SPANISH)",
+          "text": "We've lived here for thirty years, and never seen that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (SPANISH)",
+          "text": "Who shot the other police? The Orc?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLD MAN, (SPANISH)",
+          "text": "No the white man. The Orc took him away in handcuffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (SPANISH)",
+          "text": "The Orc handcuffed him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLD WOMAN, (SPANISH)",
+          "text": "Yes. The Orc was mad at the other one for all the killing. (then) They have a wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (SPANISH)",
+          "text": "Do they? Who have you told?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLD MAN, (SPANISH)",
+          "text": "Nobody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Good. BLAM-BLAM! BLAM-BLAM! Gibson kills them. This person is not a police officer. There’s blood in the air -- And the animals have come out to hunt...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The wrecked cop car still smoking. No movement inside -- cars slowly approach. Stop at a distance. Doors open. Poison and six Veteranos get out. SHADOW starts toward th cop car. Poison grabs his collar, stopping him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Kick back, fool. Poison pulls a Mac 10 from his back -- BRDDDDDDDDDT! Punc a couple dozen holes in the wreck. Dogs bark. Lights burn in houses. No one dares come out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON, (CONT'D)",
+          "text": "Alright, let’s do this. They advance on the wreck -- Find it empty. Poison reache in. His fingers come out wet -- Blood. He shows his homie",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHADOW",
+          "text": "Poison, let’s jam outta here before the rollers show up. \f45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Tranquilo, ese. No one’s coming for them or they’d be here. These fools got no ride, no back-up and they're leaking blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHADOW",
+          "text": "So what’s up then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "I want every homie in the Hood going door to door like Avon. These dudes are close. The Veteranos start texting the world on their cells. Poi squats in the street. Smells the night air. Looks around with a hunter’s eye...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BEHIND A DUMPSTER -- Jakoby holds Tikka, one hand over he mouth, the other grips the shotgun. Ward next to them. A bloody cut on his forehead from the crash. The wand is tucked into Jakoby’s belt. Jakoby leans out. SEES Poison and his homies spreading out. Searching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Don’t do anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Shut up, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I’m serious. Be cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I’m not doing shit. They’re gonna fucking hear you. Shut up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Uncuff me bro. Uncuff me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Hell no. Shut up dude. His teddy-bear personality isn’t built for this intensity",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "What the fuck did the car hit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s the wand, man, it went nuts and we crashed. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Bet it’s a binding spell, stops it from getting too far from its owner. Nick you have to uncuff me, there’s blood in my eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Get up. Move. Tikka, stay behind me. Jakoby roughly pulls Ward to his feet, frog marches him a from the cholos...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you ain’t from here, stay out. Sad little houses. Peeling paint. Iron fences. Pitbulls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "We got to get off the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(whispering) Stop fucking talking! Two Cholos appear up the street--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "shit... --start running towards towards them! Jakoby decides to stand his ground. Aims the shotgun. Ward pulls away and disappears up a driveway. Tikka looks at Jakoby like he’s crazy and votes with her feet, runs after Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward kicks off a padlock then leans on the garage door, u his weight to roll it up. Tikka dives under it. Then Ward drops and rolls inside...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward closes it with his boot. Then it rolls back up. Revealing Jakoby -- He had second thoughts. Jakoby closes the door behind him. Tikka cowers in the corner. Ward loo at Jakoby, yell whispers:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You uncuff me right fuckin’ now Nick. I swear to God I’m gonna lose my shit. \f47. Jakoby paces, nervous, shaking his head. They go back and forth in hushed tones...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "If you ever trusted me, I need you to trust me right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You shot three cops. You whacked out our Sergeant. You're a fucking psycho. Why dude? Why’d you snap?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I'll explain. It’s me, partner. It’s still me. I can explain but you gotta unhook me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "Shhbbh. Both men go quiet, listen -- HEAR approaching VOICES. Jak looks at Ward. Ward looks at Jakoby. THEN... Jakoby uncuffs him. Pulls his Glock. Hands it to Ward. They aim their gun at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Fuck, man, the lock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Lock’s on the ground out there. The VOICES are close. Very close. They wait. Guns ready. Tikka says an Elvish prayer to herself. The VOICES pass. And fade. Jakoby lets out a shuddery exhale.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ten Homeboys the block, one with a pair of pitbulls, ente yards and check cars like a Sheriff's posse...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tikka draws odd runes in the dust on an old mirror. Jakob cleans Ward's forehead wound. Ward has been explaining.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "They just turned, man. They were like wolves, like fuckin animals. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "I could kill them. Or I could kill you. And I‘d never hurt you. Jakoby lowers his head, sad, weary...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "‘Real Orcs’ don’t give me any respect, I ain’t blooded so they treat me like I’m nothing. Since I was a little kid. And humans hate me cause I’m green.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "That’s not true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Stop. We know who likes us and who doesn’t. We picked the wrong side a long time ago and have been paying for it since. (tearing up) Shit dude, you’re the only motherfucker who didn’t look down on me. And then you come tearing outta that house with a look in your eye like you hated me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "..-I don't hate you...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I’m sorry I lied to you. They are still brothers. It feels good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick, what the fuck are we gonna do? What’s our gameplan here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "We’re not calling anyone in the department. That’s for sure. Let’s take someone’s car. And get out of this neighborhood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "The wand will just stop us again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Then we leave the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No way. Even without a bright, dude, you took History. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "In the wrong hands it’s bodies in the streets. It’s all of LA on fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "The Feds are the obvious play here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I’m not in a good spot, bro. With three dead cops on my gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I...shit. Bro you need to say something positive right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Can't lie, you look pretty bad ass with the shotgun. Jakoby laughs -- Then bingo...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "I got it. Rodriguez. Dude’s solid as fuck. We call Rodriguez, he’s still working. He can-- --Tikka speaks up, startling them both...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) She's coming for her wand. We must go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "What'd she say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(subtitled, to Tikka) Who will come looking? She points at the wand in Jakoby’s belt and whispers...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) The witch. Jakoby REACTS...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick? Translate please. There’s a NOISE OUTSIDE -- They freeze... \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Pitbulls strain against their chains as ten armed VETERANOS stare at the garage door. Poison picks up the lock. Turns to the others with a finger over his lips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": ".--Shhhh... Nods for a Veterano to open the door. Guns are raised...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby and Ward enter the connected house from the back o the garage with Tikka in tow and silently clear the dark house. They startle a Latina SINGLE MOM in her pajamas...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SINGLE MOM",
+          "text": "Por favor, no me hagan dano.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Calmate. No le vamos a hacer nada. In a carseat on the table, her Baby starts CRYING. Ward a Jakoby exchange a look. Tikka alert with fear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Que callas al bebe por favor. The gangsters outside circle like jackals -- Their menaci SHADOWS sweeping across the curtains. They are being surrounded -- Now the Baby starts SCREAMING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Muevate. The woman grabs her baby from the carseat. The Baby SCREA EVEN LOUDER...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Que callas al bebe. Shut your fucking baby up right now, shut it up right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SINGLE MOM",
+          "text": "Lo siento. Perdoname.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Don’t fucking apologize, lady. Shut your fucking kid up right now. She frantically shushes the baby. Impossibly the baby HOW louder and LOUDER. The tension unbearable. \f51. Jakoby looks to Ward, frantic. Acting on pure instinct, W pushes the woman to the ground...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Stay low, don’t m-- BRDDDDDDT! BAM-BAM-BAM-BAM-BAM! The gangsters open fire o the house. Windows explode. Bullets rip through the walls",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "We're not stayin here and getting them killed. Move! Move! With bullets SMASHING all around them, Ward and Jakoby ma break for the back door with Tikka in tow...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby nearly takes the back door off its hinges. A VETER is right there! He opens fire -- POP-POP-POP! KABOOM! -- Jakoby fires the shotgun. Shredding the fucker Ward covers Tikka’s eyes so she doesn’t see the body. Jak jumps a fence. Ward hands him Tikka and follows...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Veteranos YELLING. WHISTLING. Ward and Jakoby running. Jakoby holding Tikka. Two Veteranos vault the fence into alley and open fire -- POP-POP-POP-POP! Ward stops. Draws and aims. Bullets ZIP past his head. Ward focuses on breathing. Sight picture. Trigger squeeze BAM-BAM! -- The two Veteranos drop with headshots. Say wh you want about Ward but the dude’s a natural born gunfigh He runs to catch up to Jakoby... EXT. SOUTH LA —- ANOTHER STREET - NIGHT (SAME TIME) Jakoby and Ward running. Tikka in Jakoby’s arms. We hear the WHISTLES and SHOUTS of the angry storm of Gangsters intercepting them... UP THE STREET -- Is a raucous HOUSE PARTY. Bass THUMPS. Vapes glow. 40’s are drained. Girls in underwear are hose down. Fun and games to escape the heat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "There, go go! \f52. They cut towards the party. Tikka SCREAMS in warning... BEHIND THEM -- Ten Altamira Soldiers explode out of the a behind them. Sprinting like cheetahs on the Serengeti. Cheetahs with guns -- POP-POP-POP-POP! Ward stops and turns to return fire -- THWAP! -- HE'S IMMEDIATELY SPUN BY A BULLET HITTING HIS LEFT ARM.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Arghhhh. Fuck! Fuck! He drops to a knee. Aims one handed -- BLAM-BLAM-BLAM! Drops another asshole. Scattering the Gangsters, buying precious seconds. Ward keeps running...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Scott!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Keep going!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PARTYGOERS react to the gunfire. Squatting down as one do in the Hood. They’re mostly ORCS, many in Fogteeth Gang colors -- Black and orange. They aren't happy to see the cops... WHACK! -- An Altamira bullet hits the porch. Now the Orcs pull guns and RETURN FIRE!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORC VOICES",
+          "text": "... Fogteeth motherfuckers! ... .+. This is Fogteeth’s Hood! ... -+. Fogteeth for life! ... Ward and Jakoby run straight past them into:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Claustrophobic, dark and way too loud. Crowded with danci bodies. Mostly Orcs. A few Humans. With no clue about the drama outside. Jakoby and Ward plowing through them. Ward blood-slick arm smears a HOTTIE. She starts SCREAMING. Getting them noticed... Ores close around Ward. Shoving him roughly. Jakoby sees one draw a knife! Jakoby covers Tikka’s eyes and PEPPER SPRAYS THE ENTIRE ROOM! The fucking Red Sea parts and Jak grabs Ward by his belt... \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby crashes out the back door dragging a blinded and bloodied Ward and a screaming Tikka. Livid pepper sprayed Orcs following him out... KABOOM! -- Jakoby fires the shotgun in the air and growls something in ORKISH. Stalling their pursuers. He scoops u Tikka and hauls Ward through the back gate into another alley. They disappear into the night...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cowboy and Slasher regarding the wrecked black and white. Gibsons circling it in silence. She looks up, studies the houses. Measuring time and distance in her mind. She notices something on the ground. Crosses to it... Footprints -- In black iridescent blood, like gasoline.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "What’s up, Gibson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "The bright. Looking for the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "This change anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Yes. We’re not the biggest shark in the water. So we have to be the smartest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere KNOCKS on the back of an old plumbing van hidde the shadows. Nothing. Grabs door handle. The door falls off CLATTERING to the street... Revealing two OBLITERATED BODIES inside! The first has be blasted into what looks like red spider-webs. The other i shattered like glass. It’s clear from the equipment racks it’s a SURVEILLANCE VAN. Montehugh joins Kandomere, holdi two assault rifles...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "The bright was here. Montehugh tosses Kandomere a rifle. The hair stands up on the back of his neck when he SEES his colleagues are now modern art displays... \f54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Lemme get local PD down here to contain the area.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Take a beat on that. Until we know who’s who and what’s what. They’re a few houses up 341 Abrams -- Kandomere steps out into the street and SEES parked black and white just visi Nods for Montehugh to follow...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere and Montehugh approach on foot, cautious, rifle low ready position. They SEE BROWN, the fratboy cop from station. Talking on his cell. He quickly hangs up...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "What do you got?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Sir this is LAPD business, we have an active crime scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "(flashing badge) Homeland Security Magic Task Force. It’s my crime scene now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Sorry, sir. Uh. Yes. Sure. But look, it’s all fucked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Mind if we drill down a bit on what you mean by ‘fucked’?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "There was a shooting between the responding officers. I got three dead cops. Two more missing. A dead couple with gunshot wounds across the street. Four bodies inside. And someone staging and cleaning the crime scene. That’s what I meant by fucked, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Where’s the bright come into this? \f55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "The four bodies from the original call are magicked the fuck up. (then) Who called you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "This is a Shield Of Light safehouse. An extremist group convinced the Dark Lord will return and initiate a second Age of Magic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "The crazy ass conspiracy theorists? They just hand out fliers on the corner. It’s bullshit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Right. Until someone kills four of them and the two Agents surveilling them with a magic wand. Then, I’m not so sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "You guys been watching this place?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Agent Kandomere? He nods for him to join him. Out of earshot. For all of Kandomere’s Elvish wisdom and intellect, he’s not streets like Montehugh. MONTEHUGH (CONT’D) Hey. We gotta get Vance’s people down here right the fuck now and lock this place down. Local PD's got some dirty ass Rampart shit going down. There’s a wand on the streets. All bets are off. Kandomere processing. He’s right. The two Agents fading back to the street...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Pull the hard drive from the van. Right now. We need those recordings safe. Kandomere dials his cell...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A dozen Federal Swat Operators towel off, overdo Axe body spray, comb their hair carefully. It’s Friday night and t to slay it in the bars after a long training day. GORDON VANCE, Alpha of these Alphas, grabs his RINGING cell...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "Vance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Where are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "Up at the facility. We’re punching out for the day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "No you're not. Shit went down at the Shield of Light House we've been watching. The bright killed everyone inside and killed my men monitoring the place. The bright’s here. Here in LA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "Aw fuck, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "LAPD’s all twisted up in this. I’m behind enemy lines with no back-up. You're it. Get down here. At the speed of light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "We're in fucking Lancaster, boss. It’s gonna be while. Stay safe and hang on. Vance hangs up. SIGHS. Turns to the boys... GORDON VANCE (CONT’D) Suit back up! We got a magic user on the street. Grab your gear and get on the road! Their REACTIONS say it all. A bright? Magic user? They know people are going to die tonight...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere hangs up. Worry etched on his face. \f57.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere and Montehugh looking through the mess...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "We got the two bodies in the kitchen and the one in back the bright wanded. The guy the first responders shot. We know the Elf Girl was taken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Someone's missing. Kandomere charges upstairs with Montehugh in tow...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere studies the walls...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "We searched up here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "I hear a candle burning. He pulls down a bookcase revealing a hidden door. He draw pistol open it. Revealing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A single candle burns on an altar. Various magic relics a scrolls. On the floor is a dead human -- His upper body h been turned to solid gold! Montehugh blinks...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "They're training a bright. BEHIND THEM -- Is Brown. Gold fever in his greedy eyes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Get the fuck outta here. That’s evidence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Evidence? Looks like a house in Big Bear and a new Tesla to me. Kandomere and Montehugh give him withering looks. Brown j smiles and backs away... WE FOLLOW BROWN -- As he pulls his cell and dials... \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN, (CONT'D)",
+          "text": "(into phone) Get down here right now. I found something interesting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby sets water bottles on the counter. Looking just be to shit. Smiles at the CLERK, a hardass Korean man behind Plexiglas. Jakoby grabs a handful of candybars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Are you a real cop?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Yeah. I’m a real cop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "But you’re green.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I’m blue. Cops are blue. Jakoby pays the man. INT. SHERRI’S MOM’S HOUSE - LIVING ROOM - NIGHT Ward's daughter Sophia lays under a blanket with a flashlight. Drawing a picture with crayons. Her grandmoth pulls the blanket aside. SHERRI’S MOTHER You're supposed to be sleeping young lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIA",
+          "text": "I’m making daddy a card. She shows grandma a crude drawing of Ward, Jakoby and her under a smiling sun. It reads: “SORRY I WAS MEAN DADDY I LOVE YOU SO MUCH EVERYTHING WILL BE OK!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby gives Ward a water. Tikka curled up, asleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "How the fuck is she sleeping? \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Adrenaline dump. She shut right down. Sophia does it too. Jakoby sits. He and Ward tap waters -- “Cheers” Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Your arm okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "My arm’s fucked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Can you move it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I can move it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Bro. Running into a Fogteeth party? Man, I don’t know about that. That was a bad move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I didn't deploy pepper spray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I’m just saying, Orcs hold grudges. (then) That crazy homeless fucker we hooked this afternoon? Remember what all he was saying? Like you think there’s a chance we're ... in a prophecy right now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It was just a coincidence. Shit happens. Shit is happening. (a beat, sadly) You know there’s no way we’re still cops after this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "-.-are you sure..? He’s sure. Jakoby visibly sags. He needs hope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Why choose me as your partner? I mean, no one wanted to work with me. But you did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I dunno man. You seemed cool. \f60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I couldn't believe it ‘cause to me you were like, you know. You're the guy on the poster. You’re fearless. You always know what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Except for the dating thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "That’s how you get blooded as an Orc. You do an act of great bravery. And what you did back there ... I mean the way I see it, you’re a blooded human now. You’re who I want be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick. You’re a good cop and a good guy. It’s just that everyone's really hard on you. So you are too. Jakoby can see that. Then...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Why’d you to lie to me, man? I’m not saying shit would’a gone down different, but it might have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Dunno. I just lied. And then with humans, everything’s so fucking definite. You know? You say one thing and then it’s like law and you can’t walk it back. I got confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Okay. We make it through the night: just clue me in next time, dumbass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Sorry, man. You’re right. A siren WHOOPS -- A BLACK AND WHITE PULLS UP -- Jakoby an Ward grab their weapons. On high alert. Tikka stirs...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Drop your fucking guns! Right now! \f61. It's Rodriguez in his Sheriff's car -- He pops out with h pistol aimed at them -- Ward protectively guards Tikka. Jakoby lays his shotgun on the ground. Then Ward his pist",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Not you too, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "“Not me too” what? There’s a shit- load of radio traffic about you guys. Shooting cops? Evading?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s complicated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "I’m taking you into custody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "We got a wand with us. It was ata call with this kid. Everything went sideways. The guys on our watch lost their shit and were gonna do us over the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Show me the wand. Jakoby looks at Ward -- Who shakes his head: No. Jakoby takes the wand from his belt, shows Rodriquez anyway... RODRIGUEZ (CONT’D) Aw shit. Just put it down. Please. We gotta evacuate this neighborhood. Look. I’m calling my supervisor. I’11 blow you outta your socks if you make a move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Rodriguez. Don’t call it in man. There's major forces at play here. We don’t know who’s dirty and who’s not. This is a fucking magic wand, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Shut up. Ward turns to Jakoby and smiles -- A callback to earlier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "See how it feels? (as Jakoby) Shut up shut up shut up. \f62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Shut up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "I‘’1l call the Magic Taskforce, We'll get the feds here, the big guns. I’1l keep you guys safe. But priority one is to keep the wand out of the wrong hands. Right now I don’t trust anybody but the feds. Rodriguez is one of the good guys. No doubt. Ward sighs, nearly collapsing onto Jakoby, who lets out a sob-like no of relief. Rodriguez dialing his cell...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gibson watches Slasher swing an axe at a bundle of cables a steel pole -- THWACK! -- There's a shower of sparks... TILT UP TO REVEAL -- He’s just disabled a CELLPHONE TOWER",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rodriguez looks at his phone. He lost signal. The significance isn’t lost on him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Ward, I need you to cuff Jakoby. For my safety and your safety. Then I’m going to cuff you. Ward not a fan of that...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Just do it, Scott. It is what is. I’m tired of running. Ward cuffs Jakoby. It’s hateful. Rodriguez approaches War Cuffs him. Searches him, tossing away his knives and back gun. Searches Jakoby, tossing away his weapons, his keys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "It doesn’t look good. A green cop and three dead humans?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "The fuck is that supposed to mean? \f63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "I’m not being a dick. I’m being real as fuck. They’re gonna want it to be Jakoby. Even if it’s not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I can’t go to prison. Big Orc Family runs that shit. They’1l fucking skin me alive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You're not going to prison. I did it. I shot everyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RODRIGUEZ",
+          "text": "Both you guys need to shut up and lawyer up. I’m gonna Mirandize you. Then you’re getting counsel. Promise me. Whatever went down, the truth always comes out. No matter how painful-- --THWACK! Rodriguez's chest explodes! He pitches forward and hits the ground... REVEALING GIBSON BEHIND HIM! -- Stalking forward with an automatic weapon...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No no no! He tries to protect Tikka -- But Tikka isn’t having it -- runs out, grabs Jakoby’s keys and throws them to Ward. Sm girl. Jakoby snatches up the wand. The three of them bolt for the front of the Gas Station... BRDDDDDDDT! -- Gibson chases them with a burst -- Hitting Rodriguez's car -- Spraying them with glass and plastic..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby and Ward hug the floor, uncuffing each other with keys Tikka recovered...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Who the fuck is that? Now the Apocalypse starts -- BRDDDDDDDDDDDDDDT! Bullets shatter windows and rip apart shelves, filling th air with Slim Jims and Flamin Hot Fritos. Wall coolers explode with rainbow bursts of colored soda. A pause in t gunfire -- The Clerk pops up with a magnum and a scowl... \f64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Sir! Stay down! THWAP! -- The Clerk is cored out with a slug, blood paint the inside of his Plexiglas security window...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slasher jacks a fresh round into his sniper rifle. His weapon lays across the hood of a random parked car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "(into radio) Target down. You’re clear. ON GIBSON -- She shoulders her weapon and scans the shatt windows for movement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s quiet. Just the sound of leaking soda. Ward nods at the back door. Jakoby shakily nods back. To Tikka...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Sweetheart I need you to run. As fast as you can. We have to cross the street. Run and don’t look back. Okay Tikka? Tikka looks up and nods once. Ward turns to Jakoby:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "On three. One-- --Jakoby is already up and moving. Shit. Ward and Tikka follow, staying low... BRDDDDDDT! -- Gunfire rakes the walls. Jakoby is first through the back door...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward, Jakoby and Tikka exit -- BRDDDDDT! -- Cowboy is rig there and opens fire! Tikka balks, Ward scoops her up wit his good arm... It's Jakoby’s turn to shine -- He scoops up the shotgun, turns and fires -- KABOOM! -- The blast flooring Cowboy! Now Slasher appears from the side -- BRDDDT! His burst crashes into Jakoby’s shotgun, smashing the receiver. \f65. In a fit of rage Jakoby hurls the shotgun Slasher with al his considerable might... Slasher just blocks it from smashing his skull, but is se tumbling ass over tea kettle. Ward, Jakoby and Tikka make across the street. Vanishing between a row of shops... Gibson arrives to find Slasher staggering to his feet. An Cowboy laying in an expanding pool of blood, already slap on a bandage. He’s one tough motherfucker...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "I'm fine. I got it. Gibson doesn’t wait for them. She stalks her prey across street...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward, Jakoby and Tikka running. Suddenly wand in Jakoby’s belt begins GLOWING -- He's YANKED BACKWARDS -- Lands har on his back, the wand falling free: Once again they went too far and too fast and triggered t spell binding the wand to its owner -- Whoever or whateve that may be... Jarred loose, the wand lays in the street, next to Jakoby Ward rushes back to help his partner. Finds Jakoby is stunned. His uniform smoking from the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick, you okay? Shit, you gotta get up, dude. A black Escalade screams into the underpass. Onto the sidewalk next to them -- Ward sits up Jakoby...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "We're moving. Now. Jakoby staggers to his feet. SCREECH! -- A second Escalad screams up, boxing them in. Ward reaches for his gun. Remembers it’s not there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "This night’s gettin’ better and better. Ten FOGTEETH ORCS pop out in unison. Big, bad, scary and pissed off. We may recognize them from the party. Ward knows they're fucked. But he can’t help smiling... \f66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Hey guys. Look. I’m going to give you a pass for the reckless driving. I need you to return to your vehicles. And drive away. Safely. Jakoby drops his head in his hands -- Oh God did he just that? Even the Fogteeth Orcs pause. DORGHU, the pack leader, cocks his massive gnarled head...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "You think it’s funny to trash our home and disrespect our celebration? Pinkskin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Guys. Seriously. I’m not in the mood. This is your last chance to walk away or you’re all going to jail. The Orcs trade looks -- ‘The balls on this guy!’ They clo in so Ward throws the first punch! He’s hurled to the gro and the beating begins. They just pummel Ward and Jakoby. Tikka screams in fear! NEW ANGLE -- Gibson is just visible down the block. Frown at this new development...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The windows are boarded, the furniture torn. Orc black velvet paintings and Orc kitsch decorate the place. The r is packed with FOGTEETH ORCS of various shapes and sizes, repping their gang with black and orange. Kneeling among them on the floor are Jakoby and Ward. Tik between them, crying silently. Dorghu kneels in front of Jakoby. He smiles. Fatherly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "You know I’m not from here. I grew up in Miami. Great orc communities there, strong orc communities. We'd have block parties with dwarves, humans, it was fun. I wasn’t in the game then. I was a bus driver. Then I move to LA. City of Angels, right? I see these kids, I see how broken the system you got here is. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU, (CONT'D)",
+          "text": "Orcs caught between the police and the gangsters. I see I need to change. And I do. I organize things. We have our own thing now. I know what I am. And I still give back to the community. Not just Ores. Every month I throw a big house-party, get people drunk. Feed them. Whole neighborhood's invited, black, brown, yellow, green. Partying together. With one rule - No guns, no fights inside. It’s sanctuary. Three years of peace. And who breaks sanctuary? Who’s first to bring in guns? The motherfucking police. He sighs, runs a curious finger across Jakoby’s filed tee Time to teach the youngsters...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU, (CONT'D)",
+          "text": "An unblooded orc. And a cop. Grew up with humans. Never had a claw raised for him in his life. Playing the “nice guy” the “sweet guy.” Your buddies so happy to say they have an “orc friend.” Here's your opportunity to give back. He switches to orkish, suddenly animalistic, he snarls:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU, (CONT'D)",
+          "text": "(subtitled) Where is the wand? Jakoby is silent, breathing hard. Dorghu nods to a couple BIG ORCS -- They begin WHIPPING JAKOBY AND WARD WITH STEE CHAINS! The Two men scream in agony.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Fuck! You! Tikka SHRIEKS in a panic, her whole body shaking convulsively. Dorghu suddenly grabs her by the face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "(subtitled) Where is the wand? Eyes wide with fear, Tikka speaks in shaky English...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "There is no wand. \f68. Dorghu stares at Tikka, then nods to Jakoby, who is pulle to his knees. He grabs Jakoby’s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Roundtooth. False orc. Unblooded coward. The other Orcs murmur in agreement, Jakoby stares at Dorg",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU, (CONT'D)",
+          "text": "Where is the wand? Jakoby sneers -- WHAM! -- Dorghu PUNCHES HIM IN THE FACE, grabs his ear..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU, (CONT'D)",
+          "text": "Where is the wand, boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "There’s no wand, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Was I talking to you pinkface!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "There is no wand. Dorghu pulls an Orkish ceremonial dagger. Ornate. Ancient",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Where is the wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What wand? Dorghu grins. Predatory. Stabs down into the top of Jakoby's shoulder. Jakoby ROARS in pain. Dorghu drives hi to the floor with a knee in the chest. And twists the kni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You motherfucker! Stop it! Leave him alone you piece of shit. A Big Orc loops a chain around Ward’s neck. Hauls back making his eyes bulge. Ward claws the air. Dorghu will ki Jakoby if he doesn’t stop. Each word a knife twist...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Where. Is. The. Wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "(agony ) There’s no wand! Arggh! \f69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Altamira thinks there’s a wand. The Orc choking Ward loosens his grip. Ward coughs this o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "First, you seriously need to pop a gum. Second, there never was a fuckin wand. Altamira’s a bunch of crackheads. It’s ghetto rumors, dude. Just ghetto rumors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "The police think there’s a wand. The feds think there’s a wand. (roars) I think there’s a wand! WHACK! -- A Fogteeth Orc PUNCHES WARD in the jaw, knockin him to the floor. Dorghu rips his dagger from Jakoby. And grabs Tikka by her hair. Ward gets deliberate and quiet..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Please leave her alone. She’s just a little girl. She’s going home. Let her go home. He’s WHIPPED WITH A CHAIN, screams in pain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "We're police officers! You can't do this! An orc kicks Jakoby down, stomps his face into the floor. Again and again. Breaking his nose... Now both of the cops lay defeated, broken, rasping in pai Dorghu presses his dagger to Tikka’s throat...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "I'll cover you with her hot blood. Where is the wand? The cops just moan in pain. Dorghu wrenches Tikka’s tiny, fragile arm. She cries out in pain... Ward looks at her. She looks at him -- Telling him to STA",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "STRONG with her eyes -- A flicker of respect and awe roll across Ward's face -- This little girl is someone special",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I don't know! I don't know where the wand is, I don't fucking know! \f70. Dorghu senses he’s been bested but doesn’t understand how It’s over -- He nods to his subordinates. Ward, Jakoby an Tikka are dragged down the hallway into...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "THE FLOOR HAS BEEN RIPPED OUT -- Above an incredibly deep pit, dug deep beneath the house, vanishing into darkness. Ward and Jakoby are laid face down so their heads hang ov the edge. The Big Orcs stand over them, a boot on their backs. Ward and Jakoby staring into the abyss. They trade looks and sad little smiles -- Each saying to the other “ with you my brother, I'm with you.\" Dorghu’s huge paw clasping Tikka’s throat...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Watch your friends. Ward fights back tears...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I'm sorry, Sophia. I’m so sorry. Please forgive me! I didn’t say goodbye. I didn’t say I love you. The Orcs are all business now. Ward and Jakoby are just objects to be disposed of. Both men now stoic. Tikka sobbing. Dorghu tries one last time...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Where is the wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "There is no fucking wand, stupid. Dorghu stares at them, and then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "Kill them. A Big Orc presses a shotgun to the back of Jakoby’s head. ORC GANGSTER steps up with a fucking big bolt action deer rifle. CLACK-CLACKS a round in the chamber. Holds the muzzle to the back of Ward’s head. The Gangster hesitates",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORC GANGSTER",
+          "text": "(subtitled) Wait. All the Orcs look at him. \f71. ORC GANGSTER (CONT’D) Turn over. Ward slowly turns over. ORC GANGSTER (CONT’D) You too. Jakoby turns over, his smashed nose bleeds into his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "(subtitled) What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORC GANGSTER",
+          "text": "(subtitled) Father, I am sorry, I know these men. All of the Orcs wait expectantly. ORC GANGSTER (CONT’D) (subtitled) I was in the swap meet going to school when an Ore from another Clan lit up a liquor store. (re: Jakoby) He saw me and chased me. I was trapped. And he saw I was the wrong Orc. He helped me escape the police. The human police. Dorghu processing this... ORC GANGSTER (CONT’D) (subtitled) I owe him an honor debt. We cannot kill them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "(subtitled) They mock us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORC GANGSTER",
+          "text": "(subtitled) Maybe there is no wand. Father and son stare at each other. The father nods, releases Tikka. Kneels by Jakoby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU",
+          "text": "What did you call me roundtooth? “Stupid?” \f72. Dorghu pulls him up by the shirt -- WHAM! Punches his fac now he stomps his ribs, his legs. The Orc Gangster cringe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DORGHU, (CONT'D)",
+          "text": "(subtitled) False orc! Unblooded coward! He stomps and stomps. Ward’s heart breaking as Nick’s blo spatters his face...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Montehugh’s laptop connected to the server rack...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Any luck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Drive’s fried. The wand cooked it. If there’s video of our bright, it’1ll take a forensic lab to recover it. Kandomere frowns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Pull the drive and bag it. Then Kandomere sees something... KANDOMERE (CONT’D) Shit. We got company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A couple cars of LAPD SWAT COPS has pulled up. Brown talk to them excitedly. Kandomere and Montehugh rapidly approa the knot of cops. Wearing body armor over civilian clothe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Evening. Can I help you? Who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Easy, sir. I called them. We’re a little short handed. Kandomere turns to the SWAT SERGEANT... \fKandomere carbine. Kandomere 73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Fine. Gimme a perimeter. Take the corners of the block. And stay out of sight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SWAT SERGEANT",
+          "text": "You're not in charge here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "What the fuck did you say to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "I think you heard him. This is LAPD's jurisdiction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "I’m a federal agent. It’s your jurisdiction but it’s my country. Now all of you get the fuck off my crime scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SWAT SERGEANT",
+          "text": "We're not debating this. Elf. grinds his jaw in disbelief. Montehugh gripping is Thumb on the safety. The tension is very real.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "(quietly) Don’t let them out of your sight. When the Strike Team gets here, we're arresting all these assholes. turns and heads for the house. A SWAT COP blocks him. Montehugh scanning the big men with scary faces. KANDOMERE (CONT’D) Step aside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SWAT COP",
+          "text": "I will put you in handcuffs, compadre.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Get the fuck out of my way. The SWAT COP shoves him. Kandomere stares at him, intense The moment hangs pregnant in time. With eerie calm... KANDOMERE (CONT’D) What’s your plan? You know I’m an elf, right? I can hear your heart speeding up. I can smell the adrenaline in your sweat. \f74. Brown is right there. Menacing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Can you dodge a bullet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONTEHUGH",
+          "text": "Kandomere. We’re going. BRDDDDDDT! -- Brown and the SWAT Cops open fire. Montehug falls dead -- But Kandomere flips backwards. Repeatedly, weaving and spinning as bullets hit all around him. Insan agile. Moving as only an Elf can. He dives in his SUV. Punches the gas and tears out of there. TICK-TICK-POCK! -- Bullets smashing into the back as he g He disappears up the block. The SWAT Cops about to pursue Brown WHISTLES piercingly...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "Hey! No, no! Stay on mission. We grab the gold and find the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The neighborhood illegal trash dump. Ward and Jakoby are shoved out of a truck. Then Tikka is pushed out as well. Both of them are virtually pulped at this point. But Jako is in truly dire shape. Ward crawls to him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick? Nick? Can you hear me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "«+. my leg’s broken ... my ribs ... I can’t breathe ... I’m done ...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No you’re not. Hold on. I’11 get you help. Don’t leave me, brother. Jakoby fading -- The beating broke something important inside. Ward grabs his arm, tries to drag him to the stre But Jakoby’s too big and Ward is too weak. Ward collapses screams at the dark houses, clutching Jakoby in his arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Somebody help us! This is a good man here! Help this man! He's a good man. Help him! Tikka slowly approaches. Ward notices her. She has a stee look in her eye. The with a flick of her wrist -- THE WAN APPEARS FROM NOWHERE RIGHT IN HER HAND! Ward stunned... \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Holy shit. You're a bright. You're a fucking bright. You had the wand the whole time. Tikka speaks quietly, nervously...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) My job was to learn magic to keep a wand safe. The Dark Lord will return and I am meant to fight him. But I have no wand of my own. A witch came to kill me and the Brothers of Light saved me. The witch left her wand behind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I don’t understand you. I have no idea what you're saying. I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) I can’t fix him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I don’t know what that means. I don’t know what you’re saying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(broken English) If I use this ... Witch find us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Fuck the witch. If you can help him, then help him. He was ready to die for you. Tikka sees the desperation in Ward’ face. She motions for him to get back. Tikka centers herself. Rubs her hands. Then points the wand at Jakoby and whispers:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "Mendovia. A beautiful, rippling pulse of “energy” drifts off the wa and passes over Jakoby’s limp form -- Instantaneously we CLICKS and SNAPS as Jakoby’s body repairs itself!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Oh holy shit. Oh wow. \f76. Jakoby suddenly sits up, spitting out blood and sucking i air. Ward rushes in to help him, but Jakoby pushes him aw He’s not dying, but not a 100%. We can feel Ward’s relief Tikka passes out cold. Bleeding from her ear. Dangerously drained...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "You okay? Tikka? You gonna be okay? Jakoby scoops her up like a ragdoll. Slides the wand back into his belt. Helps Ward up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "C’mon partner. I got you. We have to keep moving. They start walking -- An odd little family: A big Orc, a broken man, a tiny Elf Girl. Tikka leads the way. A littl warrior, who has been called to fight much too soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CAMERA FOLLOWS gloppy footprints of black, shiny blood. T lead to bare feet which drag, shuffle and twitch ... WE T UP and SEE a veiny woman’s body in a ratty dress. This is THE WITCH. The wand's owner... Tikka’s voice rolls in like a distant echo -- “Mendovia.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Witch's face whips toward us -- Stringy black hair on patchy scalp framing her sunken pink eyes. Her face a wel of darkness as she sniffs the air...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE WITCH",
+          "text": ".-.-Mine...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "GIBSON’S SUV parked in the shadows. Cowboy in back. He’s breathing slow. But still in the game. Slasher listens to RADIO INTERCEPT equipment, rapt. Gibson drums her fingernails on the steering wheel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "What’s so interesting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "Bunch’a LAPD SWAT guys racing balls out to the bright house. \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "You sure? I haven’t heard anything on their Tac Channels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "They’re not on department Icoms. They're running encrypted satphones. This is eight or so SWAT operators working off the books.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COWBOY",
+          "text": "Sounds like they’re bad pennies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "Indeed. And let’s just say they sound, um, excited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Might be our wand. lLet’s go. Maybe we can have a gunfight with some real players for once. She takes off fast...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "What’s our limit here, Gibson? Gibson just stares at him. Cowboy smirks as he pulls a grenade out of his pack and cuts off its safety tape...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A bright oasis in the darkness. With lots of good deals. Ward and Jakoby settle down behind a row of minivans. Tik stands guard. Jakoby and Ward are hurting, exhausted, raw Jakoby regards the giant blood red full moon rising...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "That kid, man. The Orc kid I let go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "The one who was gonna shoot me in the head and throw me in a pit? Great kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Listen to me. Listen. He was there. What are the odds of that? What are the fucking odds? \f78.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Sure, it was a little unexpected.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "No. It was impossible, Scott. Jakoby fishes a smashed candy bar from his pocket. Shares half with Ward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "This is a prophecy. We’re living prophecy right now. We’re just little people man, people they don't write about. But tonight’s like the old days of the Heroes. Like Jirak doing epic shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Just stay awake, keep talking. A cop car with LIGHTS AND SIRENS blows blindly past the l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Jirak was unblooded. Like me. He was just a farmer. But when he found out the Dark Lord was going to destroy the World. He raised a sword against him and led an army.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Homeboy earned his baller status. Tikka cocks her head SEES SHADOWS among the vehicles...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Before the deed is the word. A farmer was called by prophesy and united the Nine Races against the Dark Lord. He turned the Orcs from evil and they all raised their blades to him. He was blooded right there. Fulfilling the Great Prophecy. (beat) That's what we’re in, a prophecy. This all means something. It’s important. Ward is losing faith in the world. He looks at Jakoby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s not prophecy, bro. It’s just one bad fuckin’ night and it’s almost over. \f79. Tikka spins on them, scared, eyes like saucers...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) She's coming. She’s coming. Ward hauls Jakoby to his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Lunchbreak’s over. We're moving. A WHISTLE behind them. They freeze. Turn. It’s Poison!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Hey. Ward and Jakoby look around -- Altamira Veteranos have ta up positions all around the car lot. They’re surrounded a unarmed. It’s over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON, (CONT'D)",
+          "text": "My pops bought lottery tickets every week. Wanted to get us out of the hood. To put us through college. His number never hit. Dude dropped dead mowing someone else’s fucking lawn. So I learned you only bet on sure things. The wand’s a sure thing. A long, empty beat. You can feel the sweat in the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "My old man was a fucking underwater welder and drowned. You don’t see me shitting on the world and blaming The Man so I can get mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Fuck you. Here’s what’s up. Elf girl gets a pass to grow up and do whatever she’s gonna do with her life. But you two putos are dead. And I get the wand. Because dreams do come true. My dreams. Jakoby stares at Ward, Ward stares at Jakoby. Tikka steps forward and holds out the wand...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Tikka! No! Poison and his homies stare at the wand. Victory. \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Is... Is that it? THE LIGHTS FLICKER. Several go out. Tikka REACTS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "»--NO...no...NO... The wand starts glowing, shedding heat ripples -- We’ve s this before...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Hey little homegirl. Why’s that shit glowing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(subtitled) She's here. Jakoby looks at Ward -- Shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON",
+          "text": "Fuck this. We’re killing everyone right now. .--Silence... Poison looks over to his men. SEES a splatt of blood here. A torn piece of flesh there. They're all gone...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POISON, (CONT'D)",
+          "text": "What the f-- --THWICK! -- A pallid veiny hand RIPS HIS THROAT OUT! Poi falls facedown on the asphalt -- And there she is!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What is that? What is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": ".-.-it's a witch... Yes it is. The owner of the wand has returned for her property and she is TERRIFYING -- Greasy black hair falls around a sickly white face, tremendously old and misshape forced onto a young, lithe body. She bears a shotgun woun from her initial fight at the house. A weird, long beat. It’s not even clear if the witch is aware of them. Her body sways gently in the night breeze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Scott? Are we about to die, bro? Ward exhales shakily. \f81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "If that’s what it takes. You with me? SCHWACK! -- Snaps out his collapsible baton and grins. Hi tired eyes burn with madness...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "We're arresting this bitch. Jakoby stares at him. Then understands. It’s the only mov They're still cops. And they’1l die with their boots on. SCHWACK! -- Jakoby snaps out his baton. They trade determined nods. Although barely able to stand, they squa off against the Witch...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "LAPD. Turn the fuck around and get on your knees. Put your hands behind your head and interlace your fingers. The Witch HISSES exposing black gums.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "She seems noncompliant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "I’m getting that too. The Witch HISSES AGAIN. The two brave cops raise their batons to strike... Tikka steps between them and raises the wand...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIKKA",
+          "text": "(screaming)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TALIOS",
+          "text": "BLUE FIRE ERUPTS FROM THE WAND TOWARDS THE WITCH! She swa it away like a tennis ball and makes a yanking motion... Pulling her wand towards her, jerking Tikka towards the Witch. Jakoby and Ward grab Tikka...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "The wand! Get the wand! Both men grab for the wand with frantic hands. Jakoby get his hands around it just as Tikka loses her grip and fall the side... \f82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "I got it I got it! Ward gets a hand on it too. Now the two of them go for a ride, as if pulled by a tractor...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "She gets it we're dead! They hold on for life. Their boots sliding over the pavement. An insane game of tug of war. Blood drips down Ward’s gunshot arm. Jakoby’s battered body creaks. He GROANS in pain... Their hands wrapped tightly around the wand -- The wand cutting into their palms, blood leaks out over their knuckles...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Bro, don’t let go. We go and we’re dead! Jakoby ROARS like a lion at the Witch, blood streaming do his face... The Witch laughs as she drags them closer and closer. FUC THEY ARE FUCKED! Ward slides a hand towards his gunbelt. Pivots his tazer in its holster... BAM! -- Fires blind from the hip -- Tazer darts hit the w in the neck. Her body goes RIGID as the tazer pumps high voltage into her... She releases the wand from her spell -- Ward and Jakoby tumble backwards to the ground in a jumble. Jakoby finds himself staring at Poison’s dropped machine gun -- “Yes!” Jakoby grabs the ugly black weapon and comes up firing... BRDDDDDT! -- His shots go wide, shredding cars. CAR ALARM scream out in the night...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KILL HER NICK KILL HER",
+          "text": "Jakoby aiming carefully -- BRDDDDDT! -- Slugs smash into Witch. Splattering black blood in all directions! The Wit drops. Jakoby out of ammo... Now the Witch slowly stands. HOLY SHIT SHE'S STILL ALIVE! She SHRIEKS and summons her wand!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "The wand, the wand! \f83. Ward, on the ground, is brutally dragged across the pavem towards her. Metal on his belt throwing sparks... Jakoby thinks fast. He grabs a heavy steel truck rim from pile of tires. Hurls it with all his heart and might... ON THE WITCH -- Grinning with evil delight -- Here comes prize, her wand. She's winning... K-TANG! -- The rim crushes her head against an old truck a burst of black goo. She drops lifeless... The wand instantly goes slack to Ward’s relief. Jakoby fa against a car. Slumped there in a symphony of car alarms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Good looking out, partner. They reach out pathetically to bump fists and give up. Wa flops over. His uniform torn, road-rash over half his bod He lifts the wand in his hand, stares at it, then looks o to the dead witch, then to Jakoby...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Where's Tikka? Jakoby and Ward look around -- THEY REALIZE TIKKA IS GONE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Why would she run? Where would she go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "She's just a kid. Only one place she’d go. Ward pulls himself up against a car, wincing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "She's going home, Nick. The silence hangs. Jakoby speaks quietly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "We could leave. The binding spell’s off the wand right? ‘Cause the witch is dead? We can’t run and can’t hide. Consequences or not, we gotta get to a hospital, man. And get out of this fucking neighborhood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yeah. But we’re not gonna. \f84. Ward spits blood, wipes his drawn, pallid face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "My dad ran out on me. And Sophia’s dad ran out on her. Everywhere you look it’s people giving up and running away. (beat) Someone’s gotta do it. Someone's gotta be the good guy. A long pause. Then Jakoby nods. He's in. Both men haul themselves to their feet. One last time...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s quiet. Dead quiet... CAMERA SLOWLY REVEALS -- A dead SWAT COP. Then another. A another. And another. All the SWAT Cops are dead, shot to pieces. All killed in a vicious gunfight. CAMERA FINDS BROWN -- Crawling to his car, dying from gunshots. He SEES two figures approaching. Ward and Jakob emerge from the night mist like zombies...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BROWN",
+          "text": "...not you assholes... He tries to draw his pistol. Ward easily takes it away. N Jakoby and Ward watch in total silence as Brown dies. THEN A NOISE FROM THE HOUSE -- Ward nods for Jakoby to pi up a SWAT shotgun. He does. Ward and Jakoby approach the house. Limping up the porch stairs, Ward motions for Jako to go around the side... As Jakoby slips along the side, WE SEE something he doesn Slasher, holding a rifle, watching him from the shadows..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward moves very slowly, clearing the house. Now in the living room -- There's Cowboy dead in a pool of blood...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A NOISE from the kitchen. Ward heads toward it... NEW ANGLE -- Gibson standing there breathing softly. Hidd by a bookcase. She’s looking at Cowboy. Who looks back. He's not dead. Despite heavy injuries, he rises to his fe \f85. Together they close in on Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby moves toward the back yard. Quiet deliberate steps Slasher starting to follow...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "FROM A LOW ANGLE -- We watch Ward enter the kitchen... REVERSE -- Tikka’s curled up under the sink, hidden by so pots. She waves gently. Trying to get Ward’s attention. H doesn’t see her... ON GIBSON -- Moving almost spectrally as she glides forwa Trying to get an angle on Ward... CLOSE ON WARD -- He can’t see her. But he pauses. Biting his lip. Maybe he feels a change in air pressure or",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "something. Ward suddenly spins around -- Cowboy is right there! POP-POP! -- Ward hits Cowboy in the face. Dropping him. N Ward spots Gibson! But she has the drop on him. Her carbi aimed at his face... But Ward has skills -- He jukes, spins and fires -- POP-P",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAM",
+          "text": "Ward is hit in the chest. Gibson once in the face. Both o them fall. Tikka SCREAMS and bursts from her hiding place with a CLATTER of pots... BAM! -- Gibson shoots Tikka in the back! -- Sending her spinning into the cupboards...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nooooo! Tikka writhes in pain on the linoleum -- Ward raises his at Gibson. And hesitates... Because Gibson has her carbine trained on Tikka...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Don’t. Jakoby appears in the big hole in the wall -- Shotgun aim at Gibson... \f86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Wait wait wait! Nick wait! Jakoby SEES the jeopardy that Tikka is in. Sees the state Ward, he’s bad. Real bad. Gibson slowly pushing herself t her feet, keeping her gun on Tikka...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "She just shot a kid Scott.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Yeah. And she’ll do it again. Gibson SEES Slasher sneak past the kitchen window, moving flank Jakoby. Her eyes flick to Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Drop your weapon. No way Ward will do that. Gibson looks at Tikka, finger o the trigger...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (CONT'D)",
+          "text": "This trigger has a four pound break. Maybe you’ll destroy my brain stem with a perfect shot. But the girl will still die. Ward glares at her -- She’s being covered by Jakoby -- So tosses his gun away...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Bro. Don’t. Shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Get up. Go to the table. Ward, in excruciating pain, plants his feet and drives himself slowly up the wall...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "You're crazy. You’re a fucking animal. Jakoby staring down his sights at Gibson. Hyper focused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Please. Sit down. Take a moment to think about what you’re doing. Ward staggers to the table, slowly sinks into a chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (CONT'D)",
+          "text": "Where is the wand?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the fuck are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "(after a long beat) I represent a larger interest. One that watches. And waits. For opportunities and capitalizes on them. The wand is an opportunity. (beat) You're going to give me the wand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "And then what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "I’m going to kill you and your orc friend. I’m going to walk out of this house. I’m going to work out and train and wait for my next assignment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Right. 87. Suddenly they hear a storm of TRUCK ENGINES AND SCREECHIN TIRES out front...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "SIX BLACK SUVs swarm the property. Kandomere and Gordon Vance pop out with a dozen hi-tech SPECIAL OPERATORS, everyone armored and tooled up for a firefight... Kandomere regards the house a beat. His eyes go wide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "There’s a bright in the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "You sure? How do you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Have I been wrong yet? Vance turns to his men as they form assault teams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "It’s confirmed a bright’s in there. Kill everything that moves. An Assault Team heads for the back of the house. \f88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward heard them. Gibson heard them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "So ... do you have a new plan? Gibson doesn’t waver. Tikka moaning in pain on the floor. Ward slides a hand towards the pocket on his thigh where wand is stashed...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "The second she lowers that gun even an inch you kill her Nick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Roger that, partner. Gibson regards Jakoby. Looks back at Ward. SEES Ward now holds the wand...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Interesting. Now put it down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "You're either born a bright or you study for years. Are you a bright? No. Do you know any spells? No. Try to use that wand and it will kill you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Shut up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "There’s no way out. Give me the wand while this little creature is still breathing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick. Get Tikka out of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "No, Orc. You don’t move. Jakoby, still aiming his gun at Gibson, slowly moves into kitchen, towards Tikka...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON, (CONT'D)",
+          "text": "Don't move another fucking inch. \f89. Jakoby stops. The shotgun shakes in his hands...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Nick. It’s okay. Get Tikka.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What are you doing, Scott?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s gonna be okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "Listen to your Orc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What are you doing? Ward smiles at his friend. Quietly...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "It’s like you said. It’s a prophecy. It’s all a prophecy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You really believe that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "No. So I need you to believe it for me. (then) Get Tikka out of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "You'll do no such thing. (to Ward) Imagine sitting in front of a candle day and night for years. Learning the stillness of mind a wand requires. Years of repeating the same spells. Precise articulations of ancient word forms. Tikka, looking at Gibson, realizes something. At the same time Ward does...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "..-you’re a bright... NEW ANGLE -- Slasher steps through the hole into the kitc Weapon trained on Jakoby. Softly whispers... \f90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLASHER",
+          "text": "Easy friend. I got the drop on you. Let’s not have any mistakes here. I need you to slowly lower your weapon. Jakoby knows he fucked up...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "What do I do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "Don’t you dare lower that shotgun. Gibson takes a step towards Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "Stop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "«--Scott..?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Assault Team creeps up -- THEY SEE Slasher in the kit through the hole in the wall...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gibson's eyes bore in on Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIBSON",
+          "text": "It’s over. It’s hopeless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOW. EVERYTHING. HAPPENS. AT. ONCE...",
+          "text": "POP-POP! -- Slasher is shot in the back by the Assaulters Jakoby fires his shotgun at Gibson -- KABOOM! .+.Just as Slasher falls onto him, knocking his aim askew «+.-so he only blows out a chunk of wall by Gibson’s head Who swings her carbine from Tikka to Ward...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TALIOS",
+          "text": "\fgl. THE FUCKING ROOM EXPLODES INTO LIGHT. The wand BLOWS APAR",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INTO THE WALL...",
+          "text": "A LIQUID INFERNO OF LIGHT splashing in all directions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LIGHT AND FIRE EXPLODE OUT THE WINDOWS -- Vance and the o operators dive to the ground. ON KANDOMERE -- He doesn’t flinch. Even as the shockwave blows back his clothes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "THE KITCHEN LOOKS LIKE LITERAL HELL -- Everything engulfe fire... Jakoby sees Slasher is still alive. Taking aim at him. Jakoby fires -- Buckshot knocks Slasher into the flames.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Scott! Scott where are you!? Nothing. He SEES Tikka unconscious on the floor. Jakoby lifts her, he staggers to the front door...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby stumbles out of the house with Tikka in his arms. Towards a jittery firing squad of Special Operators!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORC",
+          "text": "BRDDDDT! -- Gordon opens fire, Kandomere with his Elvin reflexes shoves his gun down just in time... Jakoby stumbles and drops to his knees...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Help the child! Jakoby is surrounded. Tikka is immediately taken away fro him, rushed to the PARAMEDICS. FIRE ENGINES arrive... Jakoby is clearly dazed, barely able to stand, but he man to get up -- He’s headed back towards the house... \f92. Across the street -- The intimidating Orcs of the Fogteet Gang have gathered to watch... Kandomere blocks Jakoby’s path... KANDOMERE (CONT’D) Stop. We got you. It’s safe now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You don’t understand, there’s a prophecy. This is part of something bigger...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Calm down. I know it’s something bigger. But you need to calm down. The house is now a complete inferno -- And Jakoby is will to walk right back in. Kandomere won’t allow that... Jakoby looks around, dazed. PEOPLE have finally come out their homes. Now liberated from the predations of the Altamira Gang. Sensing something special has happened...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Please listen, listen to me. He saved me and the girl, you can’t just let him burn. Gordon Vance helps out...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GORDON VANCE",
+          "text": "Sir, you need you need medical help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "He’s my best friend! My best friend, let me in there! Scott! Hey Scott! That’s my best friend! Jakoby collapses. Kandomere and Vance trying to keep him seated. Quietly now:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "«+. my best friend. Please. That's my best friend....",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "It’s over. You have to accept it. It’s over. Jakoby stares at the house and shudders in anguish. Heartbroken. Tears roll down his face... \f93. KANDOMERE (CONT’D) Breathe. You need to breathe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You’re an elf you can hear in there. Tell me he’s dead. Tell me he’s really dead. Kandomere turns and looks back at the house, focusing. Th falters. And Jakoby sees it...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "What did you hear?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "He's dead. Jakoby stares at him, searching his face. Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You're lying! Tapping into some reserve of incredible strength, Jakoby shoves Kandomere off him! He's up and stumbling into the burning house before anyone can stop him -- Kandomere can only watch. So brave. So pointless...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby enters, coughing, choking on dense smoke. EVERYTHI BURNS. The ceiling falling around him. Glass breaking... He searches fruitlessly for Ward -- EVERYTHING IS JUST FI Too disorienting and bright. He’s being cooked alive! A SECTION OF WALL COLLAPSES -- Revealing Ward curled up i corner. Jakoby staggers to him, throws an arm around, hef him over his shoulder...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jakoby and Ward COME CRASHING out the window, slamming in the ground as fire erupts from the doors and windows! The CROWD GASPS -- Now yelling and cheering... Jakoby drags Ward across the yard. Finally collapsing nex to him. Ward looks ... dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "You’re out, you’re out of there, I got you. I got you. You’re okay.. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY, (CONT'D)",
+          "text": "Be okay. Just be okay. Breathe. Please breathe! C’mon Scott say something, say... Ward’s eyes are fixed in the distance, past Jakoby. Ward weakly points...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "«+. Nick ... look... Jakoby does. And SEES the Fogteeth Orcs standing behind police lines. He just stares at them, uncomprehending... Then Dorghu steps forward and draws his ceremonial dagger He cuts his own paw and raises his clawed hand high. Then all the Orcs behind him raise their hands too... Jakoby watching this -- HE’S BEEN BLOODED -- Overcome wit emotion, he starts to cry...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAKOBY",
+          "text": "Hey, Scott, we’re gonna be okay. Everything's ... Scott? Ward is done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE TO WHITE",
+          "text": "CLOSE ON SOMETHING BROWN -- Unclear what. A vortex of som kind. A spiral. WE SLOWLY REALIZE IT’S HAIR. We’re ina POV shot of someone’s hair. There’s FAINT BEEPING...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ward is in a hospital bed with someone else’s hair next t his face. It’s SOPHIA! She’s crawled into the hospital be with him. She’s asleep. Ward is heavily bandaged, pale, hooked up to machines. Everything's blurry and confusing. He looks down at Sophi and buries his face in her hair, tears streaming down his face. He didn't believe he'd get this moment... Sophia hugs a piece of paper. Ward reaches for it. Slides it out of her arms. Looks at it. Chokes with emotion... It's her crayon drawing of Ward and Jakoby... An ELVEN NURSE enters. Checks numbers on machines. SEES He’s conscious. Checks his pulse. All business...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": "...where’s my partner..? \f95.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVEN NURSE",
+          "text": "Please don’t talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD",
+          "text": ".-.-where is he..? She SNICKS back the curtain between the beds... REVEALING JAKOBY in the adjacent bed -- Equally beat to h Ward smiles... Jakoby looks over at him. His broken face smiles back. Th try to bump fists -- CLACK-CLANG -- They’re handcuffed to their beds! Now Ward SEES the FEDERAL MARSHALS in SWAT ge guarding them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WARD, (CONT'D)",
+          "text": "How fucked are we? Jakoby just shakes his head gravely -- It’s really bad...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Outside their room Kandomere talks to a Marshall. He gets call and steps aside to take it...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "Any luck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Three TECHNICIANS cluster around a monitor. The Drive fro the Surveillance Van on their table...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECHNICIAN",
+          "text": "We got something. Not much but we got something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "How much is something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECHNICIAN",
+          "text": "Thirty three seconds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "What value is thirty three seconds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECHNICIAN",
+          "text": "You'd be surprised. \f96. He pushes play and holds the phone to the speaker as vide from INSIDE THE KITCHEN AT 341 ABRAMS plays...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLLARD",
+          "text": "... the Department knows fuck all about the wand. If they did the whole world would be here. The wand doesn’t exist. The wand was never here. We’re taking the wand. Kandomere listening to the rest. Amazed...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kandomere enters. Looks at the Jakoby and Ward. At these two incredible brave men. He's proud to know them... Kandomere unlocks Ward’s cuffs. Then frees Jakoby. The Marshall's see that...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "US MARSHALL",
+          "text": "Whoa. What the hell are you doing? Those guys are cop killers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANDOMERE",
+          "text": "No. They’re not. They’re the good guys. Ward and Jakoby trade looks. Not fully understanding, but they know everything will somehow be okay. They reach out each other and shake... SLAM TO BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tikka sits staring at a candle. Reciting magical incantations -- Training for what's to come... --The End--",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_368"
+    }
+  ]
+}

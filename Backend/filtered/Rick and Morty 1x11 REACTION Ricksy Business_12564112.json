@@ -1,0 +1,1753 @@
+{
+  "movie_id": "MOV1549",
+  "scenes": [
+    {
+      "location": "TITANIC 2 DECK",
+      "time": "DAY",
+      "characters": [
+        "CREWMAN",
+        "END OF ACT TWO",
+        "NANCY",
+        "FEMALE PATRON",
+        "CYBER WARRIOR",
+        "JESSICA",
+        "RANDOM KID",
+        "END OF ACT ONE",
+        "END OF EPISODE",
+        "CAPTAIN",
+        "TEN MINUTES LATER",
+        "SUMMER",
+        "SUMMER'S FRIEND",
+        "LUCY",
+        "ABRODOLPH LINCOLER",
+        "MORTY",
+        "PAYING CUSTOMER",
+        "SQUANCHY",
+        "LINCOLER",
+        "JERRY",
+        "BIRDPERSON",
+        "TAMMY",
+        "DRUNK GUY",
+        "ACT ONE",
+        "TEENAGERS",
+        "BETH",
+        "ACT TWO",
+        "BRAD",
+        "PAAAAARRRRTYYYYYY",
+        "END COLD OPEN",
+        "GEARHEAD",
+        "GUIDE",
+        "KID",
+        "RICK/MORTY/SUMMER",
+        "RICK",
+        "ANNOUNCER, (V.O.)",
+        "LORD CHRONOS",
+        "ALIEN CREATURE",
+        "TAG"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SUMMER",
+          "text": "(simultaneously) Bye, Mom! Bye, Dad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(simultaneously) Drive carefully!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Have fun, you two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Yes, we will have as much fun as possible on our... (sigh) Titanic-themed getaway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Let’s lose the ‘tude, please, it’s supposed to be romantic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Didn't like, five thousand people die on the Titanic?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "The getaway is based on the movie, not the disaster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Speaking of disasters, Dad, we are leaving you in charge, here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "I know, can we wrap this up? Morty and I have synthetic laser eels oxidizing in the garage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Hey, don’t blow me off, I’m drawing a line. Any damage to this house or these children when we get back, and... no more adventures with Morty. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 2.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(to Rick) Holy crap, if Mom's saying it, it must be serious this time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "(simultaneously) That’s right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "(simultaneously) That's right - wait, what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Listen, you have my word as a caregiver, everything will be fine. And if not, like you say, no more adventures or whatever. Beth and Jerry get into the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Not one thing out of place. They back out of the driveway, pull into the road, and st",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Not a single thing. The car takes off around the corner. A beat, and then a school of synthetic laser eels eat thr the garage door and swim away into the atmosphere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "(observing) Well, we're past the point of no return, I’m going to have a party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT ONE",
+          "text": "INT. MORTY’S HOME - KITCHEN - LATER Summer is standing in front of an open cupboard and talki on her phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "I found jello, can you sneak your mom’s vodka? (pause) Yes, she does, I saw it in your laundry room. (pause) Listen, you can’t both be in denial about it. Okay, this party is going to be epic, see you soon. She hangs up. Morty enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Summer, you can’t throw a party! Remember what Mom said?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Yeah, if anything gets messed up, you and Grandpa Rick get punished. I’m only a human being, Morty. Rick enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Tell Summer she can’t have a party!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Summer, you can’t have a party. She scoffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Because I'm having a party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "What?! Rick, you can’t!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "What do you mean you’re having a party? Are some glip glops from the third dimension going to come over and play cards or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"“RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 4.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "“Glip glop?!” Man, you’re lucky a Trakflorian doesn’t hear you say that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Why, is that like their N-Word?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "It’s like the N word and the C word had a baby and it was raised by all the bad words for Jews.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "I think the three of us could just have a nice time bonding and getting to know each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Screw that. It’s party time. This is my chance to gain some footing with the cool kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "That's why you party? Boy you really are seventeen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Why do you party?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "To get- (shaking face) Wriggedy wriggedy WRECKED, son!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Just keep your sci-fi friends away from my awesome ones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Yeah, and you keep your awesome friends away from my canapes. Reveal: Rick delicately making a plate of hors d’oevres.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Beth and Jerry are being shown around by a TOUR GUIDE. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 5.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUIDE",
+          "text": "The Titanic 2 is the most state-of- the art Titanic replica ever designed of the three, not including the one spelled with a T- 0-0. They use bio-diesel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FEMALE PATRON",
+          "text": "Is this where the lifeboats should have been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUIDE",
+          "text": "Exactly correct. You miss nothing, do you? The crowd gasps. He knocks The group",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "(whispering) That’s from the movie! This guy is a pro.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUIDE",
+          "text": "After dinner, Titanic 2 will attach to the rail system near our replica iceberg, and the hydraulics encased in these tubes- on a tubular column.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUIDE",
+          "text": "-will execute a controlled sink into the icy depths. (aside) Icy and depths are simulated, of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Excuse me, sir. A rail system seems archaic for an attraction this impressive, are you sure that the ship will sink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUIDE",
+          "text": "I can assure you the ship will sink as it has a thousand times before. It’s UN-unsinkable. claps politely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "(whispers ) Pro. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 6.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry spots a line of people at the bow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Look, it’s the line for the bow!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Jerry, work has been really stressful lately. I'd love to just kick back with a margarita and read. Do you mind if I skip the “King of the World” bit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Well, ugh, it’s not the “King of the World bit”, that’s Jack and Fabrizio. This is where Rose says “I'm flying, Jack”, but whatever, I can be the only one to do it alone. Beth looks around in frustration and spots LUCY, a full- figured cleaning lady watching the attraction fondly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "What about her? (to Lucy) Excuse me, ma’am. Would you like to take my place in line? Lucy cautiously approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "I... I could get in trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "We won’t tell. Beth removes her hat and places it on Lucy’s head. She st out of line and inserts Lucy next to Jerry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Come on, Beth, this is weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Weirder than a grown man standing on the bow of a fake Titanic by himself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Can’t argue there. Catch up with you later. Beth walks away and pulls out a giant book about horses. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 7.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Boom goes the dynamite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "(to Lucy) So... you’re a Titanic fanatic?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Oh yes. I’ve worked here since it opened but I’ve never been able to participate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Happy to help, Rose. He links arms with her. She giggles. INT. MORTY’S HOME - LIVING ROOM - THAT EVENING A handful of kids sit around drinking out of red plastic cups. The doorbell rings. Summer opens the door to reveal BRAD and his crew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Brad! Hey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "(blows past her) Yo. Summer’s slutty friend TAMMY perks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Brad is here! Quick, make my hair look drunk. Her SLUTTY FRIENDS muss her hair. Brad passes with his entourage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "Check it out. Tammy’s already drunk. Cool. Summer tries to close the door, but it’s stopped. She loo up to see BIRDPERSON, a statuesque hawk-man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "The beacon was activated, who is in danger?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "(annoyed) Grandpa! \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 8. Rick walks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Birdperson! They exchange a ceremonial arm flapping greeting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Everything’s cool, BP. I’m just having a party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "I am pleased there is no emergency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Oh there’s an emergency alright. A pussy emergency. When was the last time you got laid, ‘Pers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "It has been a... challenging mating season for Birdperson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Then it’s time to get your beak wet tonight, playa. Go have some fun. Rick waves him into the party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "How many people did you invite, Rick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "People? (thinks) Six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Oh, okay. That’s not so bad. Bright light blasts through the windows. The whole house shakes as a SPACE SHIP touches down in the front yard. A SHITLOAD OF ALIENS pour out. Rick opens the door to greet them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "What up, my glip glops! Morty fumes. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 9. INT. MORTY’S HOME - LIVING ROOM - SOON Morty runs around the party cleaning up messes as they’re created; picking up cigarette butts, empty bottles, etc. ANGLE ON: A group of KIDS are watching TV. An ALIEN CREAT on screen crawls towards camera, then out of the TV ala “ Ring.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALIEN CREATURE",
+          "text": "Aw yeah, you got a party going on in here? A DRUNK GUY stumbles up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRUNK GUY",
+          "text": "What are you guys watching?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGERS",
+          "text": "(simultaneously) Get out of the way!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALIEN CREATURE",
+          "text": "(simultaneously) Get out of the way!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRUNK GUY",
+          "text": "You guys suck. He stumbles away and trips the cord, causing the TV to tu off, trapping the alien halfway in/halfway out of the scr As it struggles to free itself out, it pulls the whole TV down, smashing it on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Oh man!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALIEN CREATURE",
+          "text": "Hey. Sorry, bro. That was just a party trick gone bad. Normally, I go inside a TV set when no one’s looking, and crawl out once a decent crowd has gathered. It’s a real big hit usually. INT. MORTY’S HOME - JERRY & BETH’S BEDROOM - NIGHT TWO TEENAGERS grind away under the covers. Morty busts in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Not in my parent’s bed! \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 10. It's revealed that the two teenagers are actually protrus on a larger ALIEN CREATURE’S back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALIEN CREATURE",
+          "text": "Oh. Sorry. I’m not feeling too well. I just needed to lie down for a bit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Oh. Okay. The creature barfs acidic slime all over the bed. The bed dissolves. INT. MORTY’S HOME - LIVING ROOM - MOMENTS LATER Two CYBER WARRIORS battle in the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CYBER WARRIOR",
+          "text": "Tammy is mine!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CYBER WARRIOR",
+          "text": "I called dibs! They battle through the living room, destroying the place",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Stop! She’s not that hot! ANGLE ON: Rick chats with GEARHEAD, a muscle bound cyborg with gears for a mouth and a translucent body that shows gears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEARHEAD",
+          "text": "The thing people don’t realize about the Gear Wars is that it was never really about the gears at all. Rick feigns enthusiasm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Yeah. No. Totally. Morty comes up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick! You gotta st-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Morty! Have you met Gearhead? \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(to Gearhead) Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Morty would love to hear all about the Gear Wars. Rick takes off. Gearhead looks down at Morty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEARHEAD",
+          "text": "How familiar are you with the Gear Wars exactly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Um, not at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEARHEAD",
+          "text": "(rubs his hands, excited) Oh boy. I envy you. Okay, here goes- EXT. MORTY’S HOME - LATER The party is bumping. We see a flying saucer land. Two creatures climb out and enter the party followed by a few high school students walking in from the street. INT. MORTY’S HOME - LIVING ROOM - CONTINUOUS Rick’s talking to an ALIEN. Morty runs up to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Hey, Morty, have you met Scorpius?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Not again, Rick. That guy droned on for twenty minutes and meanwhile, the house is being destroyed!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "(re: Scorpius) This guy’s entire planet was destroyed. Have some perspective. SQUANCHY, a manic cat-like creature saunters up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SQUANCHY",
+          "text": "Hey, Rick, squanchy party, bro! Is there a good place for me to squanch around here? \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Come on, Squanchy, you know any place is a good place for you to squanch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SQUANCHY",
+          "text": "Alright! I like your squanch! Squanchy scurries off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Okay, Rick, what exactly is “squanching?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Don’t worry about it, Morty. You wouldn’t understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Is it going to result in another mess for me to clean up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Morty, we've had a lot of cool adventures the last few months, but it’s time to relax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "If I relax, there might not be any more adventures.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Jesus, Morty, you’re bumming me out. Can’t we just pretend like everything is fine for a few hours, enjoy ourselves, and then worry about it later?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "That’s easy for you to say, you like not caring about stuff, what’s in this for me? Just then, JESSICA enters the party and walks right into Morty’s eyeline. Everything slows down. “Dreamweaver” or something less hacky plays. Jessica whips her hair back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(slow mo voice) Jessica... We pan over to Rick, also in slow motion, who looks off camera. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "(slow mo) Knock it off, Lord Chronos! ANGLE ON: LORD CHRONOS, a Ming the Merciless looking dude using his mastery over time to slow down it down. He's obviously very drunk. He stops and everything snaps back normal speed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORD CHRONOS",
+          "text": "(sloppy drunk) Hahaha Sorry! (explaining to a friend) I have the power to manipulate time-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "(irritated) Yeah, like there’s anyone left that hasn’t heard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(re: Jessica) I can’t believe she’s here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Well what are you doing standing here, Morty? Go talk to her. Rick shoves Morty in Jessica’s direction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Have some fun. Tonight, the only adventure you’re on is your cusping manhood. Rick swigs his drink and walks off. Morty approaches Jess",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Hey, Jessica! Lord Chronos drunkenly stumbles over behind Jessica and l against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "Hey, Morty. Cool party! So this is where you live, huh? Jessica turn to look around right as Lord Chronos begins puking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "Oh my god, that guy just puked on the wall! \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 14. Lord Chronos drunkenly tries to kick his puke under a doo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "You know what, Jessica? Don’t even worry about it. Someone’1ll deal with it later. Lets go have some fun! Morty leads Jessica off into the party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry and Lucy run through the ship, laughing. Jerry stea cigarette from an unsuspecting person’s mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry and Lucy stop at the deck railing. Employees are stocking floating door rafts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Is that what I think it is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Yes, every couple gets to recreate Jack's drowning at the end of the movie. It’s so romantic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "I can’t wait to do that with Beth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Please, anyone can see that when it comes to movies released in 1997, Beth is a Fifth Elementer all the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Is that what they call fans of “The Fifth Element?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Of course! Can’t you see she’s doing everything in her power to push us closer together? They exchange a gaze before Jerry’s attention is diverted",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Look! ANGLE ON: The iceberg is approaching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Couples pour to the railing. Jerry looks for Beth to no avail. He turns back to see that the ship is moving away \"“RICKSY BUSINESS\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNOUNCER, (V.O.)",
+          "text": "Iceberg, right ahead! The buffet is now closed. Iceberg, right ahead! The buffet is now closed... the iceberg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A CREWMAN is consulting some instruments.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREWMAN",
+          "text": "Uh, sir? There’s not a problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "What do you mean, there’s not a problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREWMAN",
+          "text": "The guidance system isn’t putting us on a direct collision course. Sir. (dramatic) This ship is about to completely miss that giant iceberg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "Well, DO SOMETHING! Steer into it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREWMAN",
+          "text": "I’m TRYING! He’s trying desperately to steer the ship. Different departments scramble to turn the ship. Sailors back and forth from bow to stern. The crewman’s eyes wide",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "It’s too late. (gets on P.A.) Ladies and gentlemen... don’t brace yourselves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An overhead shot of the ship as it slowly floats past the iceberg. NETWORK DRAFT (5/10/13) 15. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The crowd gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "No! What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "The rail system must have failed. People stand on the deck, bewildered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYING CUSTOMER",
+          "text": "Does this mean we're not going to sink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYING CUSTOMER",
+          "text": "Dear God. Panicked murmurs break out. INT. MORTY’S HOME - LIVING ROOM - NIGHT Tammy is flirting with Birdperson on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "I like your feathers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "They are designed to attract the attention of the female.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "It’s working.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "Tammy, I should let you know, I just got out of a pretty intense soul bond with my previous spirit mate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "I’m not looking to get into a soul bond. I’m just looking for... She whispers something in his ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "I believe Birdperson can arrange that. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 17. INT. MORTY’S HOUSE - KITCHEN - CONTINUOUS Summer and her friends are hanging out. NANCY, a nerdy gi walks over to Summer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "Hey, Summer. Haven’t seen you at flute practice in awhile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER'S FRIEND",
+          "text": "Summer, are you friends with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Pfth. No. I don’t even know what she’s doing here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Not cool, Summer. It’s a party, everyone should be welcome. The kitchen wall explodes. Everyone backs away as a menac figure steps through a cloud of smoke into the kitchen. T is ABRODOLPH LINCOLER, a large, intimidating man that loo like a cross between Lincoln and Hitler.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ABRODOLPH LINCOLER",
+          "text": "Where... is... Rick Sanchez?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Oh no... I can’t believe he showed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "What’s the matter, Rick? I thought everyone was welcome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "It’s not the same, Summer. Abrodolph Lincoler is a crazed maniac. A misguided effort of mine to create a morally neutral super leader by combining the DNA of Adolph Hitler and Abraham Lincoln. Turns out it adds up to a lame wack job. Lincoler spots Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"“RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINCOLER",
+          "text": "Rick... You brought me into this world, a suffering abomination tortured by the duality of its being, but I shall finally know peace when I watch the life drain from your wretched body. He pulls out a gun and advances towards Rick. As he does, bumps into Brad, causing him to spill his drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "Whoa. What’s up, man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ABRODOLPH LINCOLER",
+          "text": "It was an accident. I have no quarrel with you, boy. Brad gets in his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "Boy? What's that supposed to mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ABRODOLPH LINCOLER",
+          "text": "It just- Look, I don’t know how you thought I meant it, but... Lincoler shoots Rick a “help me out here” look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Don’t look at me, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ABRODOLPH LINCOLER",
+          "text": "Look, I’m half Abraham Lincoln, SO...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "So... I should get on my knees and kiss your ass?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ABRODOLPH LINCOLER",
+          "text": "No, but, you know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "What do I know? That the Third Reich will reign for a thousand years?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "Leave him alone, Brad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "Stay out of this, Jessica! \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Kick his ass, Brad! Everyone starts chanting for Brad to kick Lincoler’s ass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ABRODOLPH LINCOLER",
+          "text": "Look, let’s talk about this-— Brad starts beating the shit out of Lincoler.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "Brad! Jessica runs out of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "I just did you a favor, Morty. You can thank me later. EXT. MORTY’S HOME - MOMENTS LATER Jessica pouts outside. Morty comes out and sits next to h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Sorry about all that. Rick has some pretty strange friends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "Uch. Brad is such a jerk. He's always trying to prove what a man he is. I’m so sick of those kinds of guys. I just want to find somebody nice and sweet. Morty smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Jessica, can I show you something? INT. MORTY’S HOME - GARAGE - SOON Morty flips on the light, revealing the workshop. They en Jessica looks around in awe of all the crazy stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "This place is incredible. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Yeah, it’s where my grandfather and I do all our science stuff. Check this out. Morty activates a device that creates floating balls of colored energy that dance around the room and change into shapes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "It’s beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "You know, Jessica, there’s something I’ve always wanted to tell you. She draws closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "What’s that, Morty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "I think that you’re the most-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSICA",
+          "text": "No. That. Those weird sounds coming from the closet over there. Morty listens. There’s a rustling sound coming from a STO CLOSET. Morty slowly walks over and carefully pulls the d open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Ooh! Inside, he finds Squanchy holding a taut cord wrapped aro his neck while he jerks off his bizarre alien genitalia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SQUANCHY",
+          "text": "Hey! I’m squanching in here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Whoa! Morty falls backwards into the controls of a TELEPORTATIO MACHINE. It tips over on the floor and starts to spark. Energy blasts out of it, consuming the entire room. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 21. EXT. MORTY’S HOME - CONTINUOUS The energy blasts shoots out of the garage and form a hug sphere centered around the garage, but encompassing the entire house. A flash. Everything inside the sphere is go leaving a massive dirt hole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see a strange alien landscape, with large lumbering lu monsters roaming about. A flash. The house materializes i the middle of the scene, complete with the dirt under it. INT. MORTY’S HOME - CONTINUOUS The house shakes as it settles into position. Everyone st partying. Rick looks outside and surveys the landscape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Hmm, big star in the sky. (inhales) Oxygen-rich atmosphere. (observing) Giant testicle monsters. He faces the party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "We'll be fine, let’s party! Everyone in the crowd screams “party!” A kid removes his shirt and runs out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAAAAARRRRTYYYYYY",
+          "text": "He approaches a lump monster, who, in a quick motion, stu him into a fleshy hole between its giant lumps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Uh, did anyone like that guy? No response. Rick hits the stereo. “Shake that ass” plays",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Shake that ass, bitch, and let me see what you got! Everyone cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT TWO",
+          "text": "INT. MORTY’S HOME - NIGHT Morty has cornered Rick and Summer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick! We’ve been transported to another dimension! When mom and dad come home, we’re gonna be so screwed! Rick grabs Morty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Pull it together, Morty! Stop trying to pretend there’s stakes!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "But what about the house, Rick?! Where are we?! What are we going to do?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Relax, Morty. Reeelaaaax. It’s going to be fine. All we have to do is go out and find us some Kalaxian crystals. We get some of those and everything’1l be juuuust fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Okay. Let’s go, Rick. Let’s go get those crystals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "I can’t go with you, Morty. This is your time to show everyone that you're not just some stupid, whiny, annoying little turd. You've got to show them that you’re a hero. Morty looks around the room at everyone. He sees Jessica.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Okay. I’11 do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Good. Take Lincoler with you. Lincoler sits in a corner holding an ice pack to his head",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINCOLER",
+          "text": "I'm injured. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Shut up, Lincoler. It’s the least you can do for wrecking the kitchen. Lincoler reluctantly gets up and joins Morty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Nancy, you should go too!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "What? Why me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Because... (she looks at her friends) Flutes are stupid!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Passengers run frantically. A customer service line stret out the door. The man-made lake is being drained as mecha wade through the water. Beth and Jerry are approached by “captain.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "Sorry for the inconvenience, folks, we should resume sinking shortly. In the meantime, please stay on the ship and enjoy a complimentary plate of James Cameronion rings. He exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Great. Not only is the ship not sinking, but now the fourth wall’s been broken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "I’m going back to the room to finish my book. You should find that Lucy woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "It’s true, you do want me to be with her!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Jerry, I’m tired, they won’t reopen the buffet, and I think you’1l have more fun with someone who’s interested in Titanic. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 24. Beth exits. Jerry sees Lucy watching from down the hall. approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "You don’t know what she’s like when you’re not around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "May I show you something, Jerry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lucy is showing Jerry around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Had everything gone as planned, this entire area would be under water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "I would have liked to see it. This trip has been a titanic failure. Get it? Jerry turns around to see Lucy completely naked except fo diamond necklace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Draw me, Jerry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Oh boy. Lucy... wow. This... isn’t what I had in mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "But it’s the perfect moment. We've been dreaming about this for sixteen years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Not like this. Not with you. Lucy pulls a gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "You're going to draw me. Then... She gestures to an old timey car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "...you’re going to fuck me in that car over there. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Morty, Lincoler, and Nancy walk through a strange jungle. Morty uses a beeping device to find the crystals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "The crystals should be close.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "There they are! A cluster of blue crystals jut out of the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINCOLER",
+          "text": "Wait. Something’s not right... A BIZARRE CREATURE leaps out in front of them. It’s swift moves on all fours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINCOLER",
+          "text": "Get the crystals! I’1ll handle the beast. Morty and Nancy go gather the crystals while Lincoler fig the creature.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "Summer’s gonna like me again! Lincoler successfully kills the creature and then collaps against a rock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Lincoler, come on, let’s get out of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINCOLER",
+          "text": "Mein journey is over, Morty. Morty looks down to see a giant blood stain on Lincoler’s belly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LINCOLER",
+          "text": "Morty... I have something important to tell you... INT. MORTY’S HOME - SOON Jessica sits on the couch with Gearhead as he strums an a guitar. Morty enters. He’s covered in blood and his cloth are torn. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(panting) Rick... I got them... I got the crystals...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Alright! You did it, Morty! Rick takes the crystals and heads off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick, wait. There’s something you need to know. (as Morty talks, an emotional score rises) I couldn’t have done it without Lincoler. He said that he was sorry and that he loves you like a father. He only wanted you to accept him and he hopes that his final act would redeem him in your eyes. He sacrificed himself to save all of us, Rick. He died. Rick, just as he finishes chopping up the crystals into a fine powder. He snorts a big line.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Huh. Well I have to hand it to him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "That’s the first cool thing he ever did. Wubba lubba dub dub! (point to the DJ) Kick it! The DJ does a record scratch. Rick begins an elaborately choreographed dance with improvised lyrics.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "You put your right foot forward and left foot back/ Then slide around like on a Nordic track/etc. People start joining in. Birdperson nods his head to the beat. Rick’s weirdly mainstream intergalactic rap and weirdly choreographed but intensely sweaty, tweaky dance continue \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 27. The last of Summer’s friends join Rick. She’s disgusted a first, but then eventually joins the rest of the dancers. The song ends. Everybody claps and cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "What... the... hell... was that?! I thought those crystals were supposed to help us get home or something! !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "What? No, I can get us home whenever I want to. But listen, speaking of those crystals... can I get the rest of them? I’m starting to come down, Morty. Crystal Kalaxian is a strong but fleeting high. Morty pulls the pouch of crystals out of his pocket, walk the sliding glass door, opens it, and throws them directl into the gaping mouth of a lumpy beast monster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "That’s what I think of your crystals Rick! Rick holds his hand to his head. He’s in discomfort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Noooo! Morty you idiot!! (looking around) Does anyone else have any more K- Lax? Bird Person? Squanchy? They shake their heads no. We see the lump monster dancin around outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(announcing) This party is officially over! Rick, take us home. Now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Alright, Captain Buzzkill of the Starship Party Pooper. Everybody groans and gives Morty the stink eye. Rick goes to the garage. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry is nervously finishing his sketch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Almost finished, Jerry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Uh... Almost. I haven’t quite captured your beautiful eyes. REVEAL: The drawing is terrible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "I’m sure It’s good enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Um... Just a little bit long- Lucy picks up her gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Move! Jerry moves to the car, Lucy nakedly follows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Every weekend Jacks and Roses have their Titanic experience in this car, and I have to mop it up. The floor drops out to make it easier. Lucy kicks the car and the floor drops. It’s REALLY rusty",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "But now it’s my turn. We’re going to get it nice and steamy in there. And I’m going to slam my hand on the steam. And then you’re going to love inside of me. No mess. No clean. She pushes him into the car with the gun. A huge hardcove book comes flying out of nowhere and strikes Lucy’s head. falls, unconscious. REVEAL: BETH stands over her slumped body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Beth!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Bet you’re glad I think Kindles are dumb now. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 29. They embrace. Jerry’s drawing floats onto Lucy’s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry is packing a stockpile of memorabilia into the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "I can’t help but feel a little guilty about what happened. I didn’t peg Lucy for a rapist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "And what does a rapist look like, exactly, Beth? Is it a Slavic man wearing a denim jacket with a patchy beard and the scent of cheap champagne wafting over his blister pocked lips? Beth thinks for a moment then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Jerry... this is the first time someone has tried to rape you, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "(unconvincing) Of course. Beth gets in the driver’s side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Well, at least you got all this free stuff. Should be enough to satisfy your Titanic jones for awhile. Jerry crams the replica door into car, but it’s taking up much room in the passenger seat for him to get in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "I- I’m not going to fit. You’l1l have to go without me. Jerry reaches his arms through the window towards Beth, b she’s just out of his reach. He gazes into her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Beth, listen to me. You’re going to get out of here. You’re going to go on and watch our kids grow old. I... love... you. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 30. He touches her fingers through the side window and slowly retreats, mimicking Leo disappearing into the dark sea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETH",
+          "text": "Jerry, just leave the door. We don’t have room for it and it smells bad. Jerry shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "Yeah, okay. Jerry tosses the door out, climbs in, and Beth starts up car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry pulls the diamond necklace out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY",
+          "text": "You’1ll always be my Rose, Beth. He throws the diamond necklace out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We follow the necklace down to reveal Lucy hanging undern the car. She lets out a wild cackle. We hold on her for a beat, and then the car shifts into drive and begins to mo Lucy’s fingers instantly slip and she falls to the ground The back tire runs over her legs. She doubles over in ago EXT. MORTY’S HOME - CONTINUOUS The house zaps through a variety of dimensions. We see al kinds of crazy shit. It finally gets back to Earth. INT. MORTY’S HOME - DAWN Morty holds the door open as everyone leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SQUANCHY",
+          "text": "The party squanches on at my place! Everyone cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Cool! I’m coming too!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"“RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SQUANCHY",
+          "text": "No. You’re not squanchy enough for a squanchy party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "What? (summer looks around) Guys? Seriously?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAD",
+          "text": "He’s right, Summer. We all hate people who throw parties that end too soon. Later. Brad and the last of the party goers leave. Morty slams t door. Summer slumps over to Rick, who appears to be passe out on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Okay. You were right, Grandpa Rick. Next party, I’m just going to have a good time. Screw other people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "(Inaudible mumble) Summer exits. Morty cleans up. Birdperson approaches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "May I assist you with that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Uh, sure, thanks. Birdperson puts bottles into a garbage bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "Morty, do you know what “Wubba lubba dub dubs” means?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick’s stupid nonsense catchphrase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "It’s not nonsense at all. In my people’s tongue it means: “I am in great pain. Please help me.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Well I got news for you, he’s saying it ironically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"“RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "No, Morty, your grandfather is indeed in very deep pain. The things he has seen in the universe. The knowledge he has. It has all left a hole deep in his soul that nothing can fill. That is why he must numb himself. Morty looks over at Rick snoring on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Come on, um...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "Birdperson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Come on, Birdperson, Rick’s not that complicated. He’s just an asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "Then why do you care so much if you are no longer allowed to continue on your adventures together? It appears fate has presented you with an opportunity to free yourself of Rick forever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "You're right. I shouldn’t care. This is probably the best thing that could happen to me. I’m sick of having adventures with Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "My people have another saying: “Gubba nub nub doo rah kah.” It means “whatever lets you sleep at night.” Summer runs in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Mom and Dad are home!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "This is your moment, Morty. Before you are two very different paths. Choose wisely. (yells off screen) Tammy!! \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 33. Tammy runs in and jumps on his back. He flaps his wings a they fly away. EXT. MORTY’S HOME - CONTINUOUS Jerry and Beth’s car pulls into the driveway. INT. MORTY’S HOME - LIVING ROOM - CONTINUOUS Summer runs around trying to clean the house up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "We are so screwed!!!! Morty looks from Summer to Rick on the couch. He goes ove and shakes him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick! Rick! Wake up! Rick swats him away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick, you gotta do something quick. My parents are home. Rick sits up on the couch and rubs his temples.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Alright. Hold on. Morty looks out a window. Rick takes a long sip from a gl of water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Um. So good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "They're walking up the driveway!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "(snaps his fingers) Bring me the thing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "What thing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "The thing, the thing. It’s got the buttons and the lights. It beeps. Come on, Morty, you know what I’m talking about. The thing. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Rick, that describes everything in your garage. Summer runs in holding a DOODAD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Do you mean this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Summer with the win. Rick activates the doodad. It lights up and makes some be A pulse ripples through the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "That should do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "What did you do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "See for yourself. Morty opens the door to reveal BETH and JERRY frozen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Whoa...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Everything is frozen in time. The whole world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "For how long?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "How long do you want? A week? A month?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "Can we start cleaning the house and see how we feel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They spend the next three months cleaning the house, play around in the frozen world and getting to know each other \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A sunrise is frozen in the sky. Rick, Morty, and Summer s in front of a television connected to hundreds of extensi cords. On screen, the credits for Titanic are rolling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK/MORTY/SUMMER",
+          "text": "Dumb. They all laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "This has been so much fun. I’m almost over being somewhat responsible for Nancy's death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Yeah, I have to say, it’s pretty nice hanging out with my grand kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "Hey, Rick, you know, I haven't heard you say that “Wubba lubba dub dub” thing you say this whole time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Don’t need to. I have a new catch phrase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "What’s that, Rick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "I love my grand kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORTY",
+          "text": "(simultaneously) Awww...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUMMER",
+          "text": "(simultaneously) Ohhh... They all hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Just kidding. You’re both gay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEN MINUTES LATER",
+          "text": "Birdperson lands next to Rick in an empty lot. \fRAM 110 \"RICKSY BUSINESS\" NETWORK DRAFT (5/10/13) 36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "The beacon was activated- Rick starts hitting him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "You told my grandson about “Wubba lubba dub dubs?!” You son of a bitch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIRDPERSON",
+          "text": "I’m sorry! I’m sorry! A cartoon iris closes around them as Rick kicks Birdperso the shins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slow push in to a bubbling pit of green ooze. A hand emer from it. Nancy slowly rises from the pit and pulls hersel onto the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "Revenge... A lump monster grabs her and stuff her into its lumps the spits her out and passes her to another lump monster who spits out the kid from the party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM KID",
+          "text": "Party! They continue passing them back and forth into each other lump holes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "Revenge. She goes in. Random kid comes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM KID",
+          "text": "Party! He goes in. Nancy comes out. Etc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANCY",
+          "text": "Revenge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM KID",
+          "text": "Party!",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1550"
+    }
+  ]
+}

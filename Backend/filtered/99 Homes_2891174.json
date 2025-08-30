@@ -1,0 +1,4755 @@
+{
+  "movie_id": "MOV045",
+  "scenes": [
+    {
+      "location": "RICK'S LEXUS LX CONTINUOUS",
+      "time": "DAY",
+      "characters": [
+        "JEFF",
+        "RICK CARVER, (CONT'D)",
+        "OLDER AFRICAN AMERICAN WOMAN",
+        "FRANK'S NEIGHBOR",
+        "NEIGHBOR FRIEND",
+        "DEREK",
+        "10",
+        "JUDGE",
+        "MIDDLE AGED WOMAN",
+        "MR. FREEMAN",
+        "SURLY HOMEOWNER",
+        "CLEAR",
+        "AFRICAN AMERICAN MOM",
+        "MR. TIDWELL",
+        "JAVIER",
+        "COURT CLERK",
+        "ANGRY MAN",
+        "DETECTIVE",
+        "DENNIS, (INTO PHONE)",
+        "THE KITCHEN",
+        "RICK'S BEDROOM",
+        "DANA",
+        "TERRACE",
+        "LIVING ROOM",
+        "FRANK GREENE",
+        "RICK'S DAUGHTERS",
+        "BILL",
+        "TAMIKA",
+        "CREW LEADER",
+        "ASSHOLE",
+        "LYNN, (0.S.)",
+        "PHOTOGRAPHER, (0.S.)",
+        "3500.",
+        "TENANT MAN",
+        "MOM",
+        "MOTEL TENANT, (0.S.)",
+        "RICK CARVER",
+        "230.",
+        "COUNTY COMMISSIONER LINK",
+        "MS. TIDWELL",
+        "KHANNA",
+        "VIETNAMESE WOMAN",
+        "DENNIS, (CONT'D)",
+        "BETWEEN RICK AND DENNIS",
+        "FRANK'S LAWYER",
+        "CONNOR",
+        "THE END",
+        "RICK CARVER, (THROUGH PHONE)",
+        "MR. BALDWIN",
+        "EVICTED MAN",
+        "CREW",
+        "LYNN",
+        "RICK CARVER, (INTO PHONE)",
+        "NATALIA, (THROUGH SPEAKERS)",
+        "MR. TANNER",
+        "POLICE",
+        "MOMENTS LATER",
+        "MOTEL WOMAN",
+        "15.",
+        "RICK'S WIFE",
+        "RICK'S DAUGHTER",
+        "RICK'S HOME OFFICE",
+        "LATER",
+        "RICK'S POOL WITH LANAI",
+        "FRANK'S SON",
+        "SHERIFF",
+        "MR. HESTER",
+        "EXT. GOLF COURSE",
+        "CUT TO",
+        "HVAC NEIGHBOR, (0.S.)",
+        "RICK'S ATTIC",
+        "I/E. EVICTION HOME",
+        "DENNIS",
+        "CLACK CLACK CLACK",
+        "SURLY HOMEOWNER, (CONT'D)",
+        "I/E. GAS STATION",
+        "CONNOR'S BEDROOM",
+        "ENTRANCE",
+        "MRS. TANNER",
+        "FREEMAN LAWYER",
+        "SMASH, SMASH"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "- the high-end, high-tech, luxury Lexus LX SUV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Ride it up to $200,000, $220 cap... no more than 10% down, 7.5% makes me sing. And get the Miguels ready. It's 2 grand a month on interest alone. I want to flip this finger. Get back to me. - Call office. On-Board system DIALS. The two Sheriffs knock on his wind",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anything else, boss?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Next eviction’s Tuesday. Natalia’ll call you. They leave. He scrolls emails on an iPad secured to his d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "Rick Carver Realty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Talk to me. My world’s upside-down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "I’m emailing your revised itinerary... Also, um, Jerry from Toyota Credit called again -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "- Jerry's full of shit. Keep talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "The high rise came through, PUDs and all. What do you want me to tell them? Suddenly hears SHRIEKING. He looks out the window: Police hold back the SHRIEKING Wife as EMTs push her Dead Husband on a gurney and load him into a waiting ambulance",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DENNIS NASH (29, blue collar, smart) and DENNIS’ CREW (2 Guys) put up a mansion. Dennis chalks lines based on blueprints. Uses a power saw cut wood. Hot, he’s sweating; tats on his arms. Dennis puts up the frame. Walking on wood beams way up hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "ELLIOTT, the GC (30s-50s) argues with Crew Leader who sto Dennis and Crew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREW LEADER",
+          "text": "Stop working! That’s it. Stop! The buyer doesn’t qualify, the lender’s out, we’re done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What does that mean in terms of payment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREW LEADER",
+          "text": "It means we’ve been working for free. All this from roof to cement is for nothing. Hey, no more dinero! Stop! Let’s go home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CONNOR (9, smart, inquisitive, stubborn) and FRANK’S SON look at Australia on a large globe. FRANK GREENE (30s-40s, blue collar, smart, humble) FRANK' WIFE and FRANK'S SON #2 (5) nearby. Dennis is on the phon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Connor. What’re you doing? We're gonna be late. Come on. Connor shrugs and says goodbye to Frank’s son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Who’s that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "We're in the same school. A paper falls from Dennis’ folder. Connor picks it up and hands it to his dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Bailiff tries to keep order in the chaotic courtroom confused HOMEOWNERS and gossiping LAWYERS. Connor watches Dennis defending himself against the FREEM LAWYER. A JUDGE (50s-70s) presides.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FREEMAN LAWYER",
+          "text": "Your Honor, he missed three payments and is underwater over $80 grand. The bank could have a buyer in place within 30 days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Did you fail to make three payments, Mr. Nash?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, sir - but I was told to, it was two departments of the same bank telling me the opposite thing and then just recently I got this final notice for eviction -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FREEMAN LAWYER",
+          "text": "Your Honor, you already entered summary judgement here. We’d like to close by the end of the month.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "I see no reason to hold up the sale",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Hold on a minute - they told me not to pay, that’s why I’m behind, they told me - it was two departments of the same bank, telling me different things your Honor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "While I’m sympathetic to your situation, I have 40,000 cases like this backed up behind yours. Final judgement granted. I’m ordered you to vacate the premises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "That's my family home, your Honor. I was born and raised in that home. So was my son, Connor. Please don’t do this. We’ve lived there our whole lives, my mom runs her business out of that home. That’s our second source of income.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "This is your son?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yes, that’s my son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Then he should be in school, not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "He’s gonna lose his school with all due respect your Honor, if we lose our home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sun Trust versus Cunningham.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Give me a bit more time your honor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Bailiff, please remove Mr. Nash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Your honor, I just need a bit more time. Excuse me, I just need a bit more time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "You have 30 days to file an appeal like everyone else. Bailiff please remove Mr. Nash. Connor watches the Bailiff move Dennis aside as the next HOMEOWNER awkwardly takes Dennis’ place. INT. DENNIS’ TRUCK [MOVING] - DAY Dennis smokes and drives; Connor near him. They've lost.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Where’re we going to stay if we lose the home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "We’re not losing the home, bud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "How do you know? The cops aren’t coming back? I just wanna know how you’re gonna pay for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Connor! - I’m gonna figure it out. That judge gave us 30 days. No one’s taking the home from us. EXT. DENNIS’ HOME / NEIGHBORHOOD - DAY Dennis’ middle-class home. DEREK and KIDS ride bikes and in the street. Dennis pulls up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Yo, Derek! \f7. He runs off to play with Derek. Dennis checks the mail; w to a NEIGHBOR. Connor rides bikes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You be careful, Connor! INT. DENNIS’ HOME - CONTINUOUS His mom, LYNN cuts her CLIENT’s hair. Lynn is a hairdress who loves her family; she’s social, moody, loving, a litt lost since her husband died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "So, tell me everything - did they give you a lawyer, did they - ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "It's the same story with the bank guys, it’s the same story everywhere we go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "(to her client) We have to find a lawyer, you know - He goes to the living room and shuffles through piles of bills, notes, bank paperwork. (Their home is cluttered, lived-in; the decor belongs to parents. Family photos line the wall, including Dennis’ d The family has lived here over 40 years. It feels like it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m just trying to figure out what this 30-day thing means; he said we've got 30 days to file an appeal, but does that mean the eviction’s not happening tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "But the judge told you 30 days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I know, the judge said we got 30 days to file for an appeal -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Well he’s a judge, not a bartender! We’re in good shape. \fINT. DENNIS’ HOME / KITCHEN & LIVING ROOM - NIGHT In the living room: Dennis sits at a table with a mountai bills and an eviction notice. Quick series of phone call:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "My name is Dennis Nash, I’m calling looking for representation. I understand that you guys sometimes do not need a retainer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "When you went through what you went through, you were able to find someone pro bono - I’m just wondering if he can help? LATER: In the kitchen, Lynn brings dinner to Connor who studies. A loving bond between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Lost is to found as outside is to indoors, inside -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "And what’s another example?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Black and white?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "(gives him a plate) Black and white? What’s another one? Give me one more. LATER: In the living room, Dennis looks exhausted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "454-0189. Please give us a call back. Dennis puts down the phone, exhausted, losing hope - but stretches and reenergizes himself for more calls. EXT. DENNIS’ HOME - NIGHT Lynn smokes. Dennis enters. They share a cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Sometimes, I don’t know what to say to Connor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was so young when I had you, you had to raise me.... you’1ll know what to say. INT. DENNIS’ HOME; CONNOR’S ROOM - NIGHT Connor lies asleep in bed. Dennis watches him from the hallway. He turns off the light. EXT. DENNIS’ HOME - MORNING MEN gather on the lawn: Sheriffs (from opening scene), a LOCKSMITH, JEFF (redneck) and his CLEAN-OUT-CREW (4 low-c guys) near a van and truck. Rick Carver pulls up. INT./EXT. RICK’S RANGE ROVER / DENNIS’ HOME - CONTINUOUS Rick speaks into “on board;\" he props his foot up - AN AN HOLSTER WITH A GUN. Checks his Ruger, puts it back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Borrow against Blair Street to cover Via Alizar. I'll flip that this quarter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "Good. And Landon at code enforcement?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I have a short sale for that cocksucker. I’1l email the details.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "Got it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Afternoon, boss. Love the new ride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Range Rover HSE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Is this the Nash eviction?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Yeah, anyone home? \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "I’m not sure, but their vehicle’s home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Alright, let’s get to it. They approach Dennis’ door. Sherriff #1 knocks. Dennis looks out the window. They see him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "He’s at the window. Rick looks over. He and Dennis lock eyes for the first ti INT. DENNIS’ HOME - CONTINUOUS Dennis hesitates, Sheriff knocking. Doesn’t know what to He looks in the next room, sees Lynn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Sheriffs are here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Why are they here? Knocking LOUDER. They go to the door. Dennis opens the front door as the two large Sheriffs ste forward. Lynn stands next to Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Good afternoon. I’m Deputy Anderson with the Sheriffs department and we’re here to serve you a court-— ordered eviction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No. I think there’s a mistake. We have -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, ma'am, do either of you have weapons on your body or in the property?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "No no no, not us. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Mr. Carver! Dennis watches Rick come forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Good morning, sir. Ma’am. I’m Rick Carver, a real estate broker, and I’m sorry to say this home has been foreclosed on and officially transferred to the bank. I’1l need you to please vacate the property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Nobody's “vacating” the home. I was in court yesterday, and the Judge informed me I have thirty days to file an appeal and that’s what I’m going to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Please show me you’ve posted bond and have an emergency stay signed by a judge, and you're welcome to remain here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I got a question, you guys didn’t get any rescheduling of the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "(shows paper) This is a court order signed by a judge dated today for you to leave this property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Excuse me, Rick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "My office offered you a $3,500 cash- for-keys settlement from the bank to leave last month, but you refused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yes, we refused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Well, we didn’t refuse, we tried to save our house - \f12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I appreciate this is a difficult situation, but the time has come, you have to leave the property. You are trespassing right now, you are breaking the law.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Sir, this is our home, so, we just need a few minutes - Rick motions to Sheriff #1, who steps forward. Rick walks away and puts his sunglasses on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, you and your mom need to step foot out of the home now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No. We’re not going to do that. Just give us 24 hours -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "You all can come back, same time, and if we don’t have the papers, we don't have the proof, then we will leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "We have a lawyer, we have it all figured out. Lynn tries to close the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "We need a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Ma’am, do NOT close the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "We need a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Here’s what I can do. You have two minutes to gather whatever personal items you need - cash, checkbooks, medicines - and then -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, this isn’t happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Yes, this is happening. \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, this isn’t happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "I’m going to call the lawyer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Ma’am! Excuse me. Sheriff #2 moves past Dennis, entering the home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Excuse me, please don’t come into my house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "There are two ways that we can do this. The easy way, where you do what you’re told. Or the hard way, where I take you and your mom to jail. Do you want your mom to go to jail? What I’d like you to do, take advantage of the two minutes - Dennis notices Rick standing inside his house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Sir, would you mind stepping outside of the property?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "This isn’t your home, son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Mr. Carver? Rick ignores him and walks into the house. The Sheriff li off statues of the law.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Sir, we have the right to an attorney. Just because somebody forgot to call you, we don’t geta lawyer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "It's better not to get emotional right now ma’am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You’re kicking us out of our home!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "PLEASE, okay, please! \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Enough of this, let’s go. Dennis calms his screaming mom and relents. They start packing up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Get what you need to get and let’s go. LYNN’S BEDROOM Sheriff #2 watches Lynn grab her jewelry, checkbook, medicines.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Sir, I don’t need your help, ok? Do you need to follow a woman into her bedroom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "It's just department policy. Money, checkbooks, things like that. Wallets, pictures -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "I’m trying to get pictures!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR'S BEDROOM",
+          "text": "Sheriff #1 hovers over Dennis as he grabs Connor’s books, things, an Orlando Magic basketball jersey...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Does he have to stand there with her as she packs up her underwear?! Is that right?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "It's policy, sir. Dennis takes down Connor’s basketball hoop. He notices Ri standing in the hallway. Rick walks on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIVING ROOM",
+          "text": "Dennis carries out a box of belongings. Lynn emerges with box of her own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What else mom? They frantically look around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "I want my plants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "There’s no time for that. You need to step outside now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Let her take the plant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Your two minutes are long gone, you need to move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Can I ask where it says two minutes on your clipboard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Sir, the two minutes is a courtesy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "The two minutes is what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "A courtesy. You’re trespassing right now. I know it’s painful to hear but it’s the truth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Ma’am, do you need anything else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Yes, the toaster oven. My grandson likes his toast in the mornings. Rick unplugs the toaster and hands it to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Alright, Randy, you said the two minutes was up, right? Dennis moves into the living room for the bills on the ta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m just getting the bills.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Ok. This way, this way. \f16. He escorts Dennis and Lynn out. EXT. DENNIS’ HOME - CONTINUOUS Out of them home where Rick motions to the Locksmith and BZ2Z222Z - startles Dennis. He’s already changing the loc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "(to Rick) I’m gonna clear it. He goes back in as Rick escorts Dennis and Lynn to the cu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "All the way to the curb. You’re now trespassing on a bank-owned home - you can’t stand in the lawn. All the way to the curb, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "We're going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What about the rest of our things?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "The clean-out-crew will bring your belongings to the end of the drive. No need to worry about that. They reach the curb; Dennis puts the large plant down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "My advice would be to get a moving truck because your neighbors are going to have access to everything you own by the end of the day. Lynn turns to Dennis, who avoids her look. Rick notices. Sheriff #1 steps out of the home:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Jeff, get ‘em to it! He motions to Jeff who leads his crew into the home. Rick follows them. NEIGHBORS stare at Dennis and Lynn from their lawns. \f17. Crew exits with sofa, coffee table, TV, and dump them in front of Dennis and Lynn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "(to neighbors) Can you believe this? They canceled the eviction and didn’t even tell these guys. She is shamed in front of her neighbors. Crew continue to bring out furniture. Lynn is shaking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Oh my god, oh my god... Dennis stares, watching his house get emptied by stranger Rick stares at Dennis from the porch smoking his e-cigare EXT. DENNIS’ HOME - LATER The piles of belongings on the street and in Dennis’ truc have grown larger. The Crew continues to work. Dennis gathers things; Neighbor Friend and HUSBAND stand Lynn, who sits in the chair trying to keep her dignity. Dennis notices Jeff trying to move his red tool cabinet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Hey! Yo! Don’t mess with that, man. You gotta unlock the wheels, and don’t touch anything inside there. Jeff ignores him. Dennis mumbles curses and lifts a heavy overturned chest. He SLAMS scattered drawers into place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIGHBOR FRIEND",
+          "text": "Wanna put some stuff in our garage? We don’t have much room, but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Some of the valuables. Thanks. He turns to see: the school bus pull up. Connor, Derek an some kids get off the bus. Dennis is uncertain what to do. Connor takes in what is happening. The SCHOOL KIDS gossip and giggle as the bus drives away. \f18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEREK",
+          "text": "Yo, what’s happening?... Suddenly, Connor walks towards the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Connor, wait - Rick gets in his way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Hey, son. Where you headed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "This is my house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I’m sorry, this isn’t your home anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "That’s my house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(to Rick) Please don’t talk to my son. Talk to me. (grabs Connor’s arm) Let's go. Connor rips his arm free. Dennis grabs him again. They struggle as Dennis tries to hold onto him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Get off! I want to go to my room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Calm down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Mr. Nash, I know this is difficult, but please take your son off the property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "That’s my house. I want to go to my room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I know. We’ll go to your room later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Mr. Nash, please. \f19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I heard you! - Connor, stop. Rick motions to the Sheriffs who approach while Dennis tr to control Connor. The Neighbors stare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Let go of me! Let go! That’s our house! Dennis stares at his son... total loss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "EXT. DENNIS’ HOME - LATER The pile of belongings is even larger. The eviction is ov Connor and Derek across the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEREK",
+          "text": "Where you moving to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "I dunno.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEREK",
+          "text": "Are you coming to school tomorrow? Connor shrugs; Dennis calls him over; Connor walks when -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEREK",
+          "text": "Can we still play NBA 2K tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "See ya... Dennis puts his mom into the truck next to Connor. Dennis his Neighbor friend exchange looks and a hand shake. Rick approaches Dennis as he gets in his truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Mr. Nash, you have 24 hours before my crew will return and dispose of whatever remains. Not my choice; Code enforcement. Good luck. Dennis gets in his truck. Lynn and her friend clasp hands the truck pulls away leaving their home behind. \f20. I/E. DENNIS’ PICK-UP TRUCK [MOVING] / ORLANDO - SUNSET Like Okies from the Dust Bowl, the family is crammed in t crowded truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis’ truck pulls in and parks. As they unpack they see MOTEL RESIDENTS, THUGS, POOR FAMILIES hang out, drink nea the pool, etc. Balconies piled with belongings, clothes h to dry. They realize families live here. MOTEL WOMAN (40s) hangs with a couple friends at their do talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTEL WOMAN",
+          "text": "Hey. Welcome. What room ya'll in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTEL WOMAN",
+          "text": "It’s over there. We can watch your stuff while you move... How long you staying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Just a couple nights.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTEL WOMAN",
+          "text": "Two years ago that’s what we said.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They carry boxes up stairs and along the hallway where JU (13) and other kids get sodas from a machine and hang out They enter -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Connor runs to the bathroom and pees. Dennis and Lynn loo over the tiny room: two beds, small kitchenette, dripping faucet. How are they going to live here? Dennis sets Lynn’s tall plant down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "It smells. Do you think someone died in here? \f21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Don’t say things like that. Get that side, we can’t sleep in these. They pull comforters off the beds. As Dennis exits - He presses on her shoulder reassuring her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I‘ll get the rest of our stuff. He exits -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- and pauses to light a cigarette; he hears Connor and tu to watch his family through the window:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Am I going to school tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Gotta figure all that out, don’t we?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "I gotta see Derek. We’re in the middle of an NBA 2K tournament and - Dennis looks at his family through the window. HOLD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis pumps gas - 5, 20, 30 dollars. It’s fucking expens",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "I’m calling about the roofing job... I got a ton of experience, I do electric, plumbing, construction, anything... Okay. Any lower level stuff? He looks at little speakers BLARING bad pop music near a screen TV flashing ads about hot dogs and soda. INT. DENNIS’ TRUCK [MOVING] - DAY Dennis drives. \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "What about Booth brothers? They were putting up those home on - ... Call me if something comes up. INT./EXT. DENNIS’ TRUCK / NEW SUBDIVISION - SUNSET Dennis looks at an OUT OF BUSINESS sign on the constructi trailer. He drives away lost in thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Party MUSIC and sounds penetrate the Nash’s tiny room, bursting with their stuff. Lynn sleeps in one bed. Dennis Connor share the other. Dennis is awake staring at his son, tousling his hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Dennis, this motel is half-full of people like us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "They’re not people like us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "They're all evicted. And they get stuck here. I could maybe take the bus and start looking for apartments...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "We can’t afford an apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "It’s just first and last month’s rent!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Two or three months’ security. Four maybe, because of our credit. Our credit is shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Dennis... We’ve got to get out of here. We should go to Tampa. We’ve gotta go to Uncle Jimmy’s, Uncle Jimmy said we could come. I talked to Mary Margaret just three days ago! \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Mom, we're not moving to Tampa. You wanna take Connor out of school? Take him away from his friends? We leave, we give up, we let the house go. He tries to give his mom confidence:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m gonna figure it out. Lynn is unsure. But Dennis is resolute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No choice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Connor’s playing on his phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "You want some toast? Dennis rifles through the tool cabinet they’ve brought up the room. He notices something missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "We didn’t leave any tools in my truck, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "No, we got everything. Angry, Dennis slams the drawer shuts. Thinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jeff and his clean-out-crew plus four other CREW GUYS hav coffee and donuts near their vans and trucks (MUSIC playi outside RICHARD CARVER REALTY. BILL (30s, big and tall) g them orders; Dennis pulls up and strides to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Your guys stole my tools yesterday. I want to talk to your boss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "I’m senior sales manager. What’s the problem? \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(points at Jeff) That guy right there stole my impact wrench and in-line sander. That’s like $500.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "I have a form you can -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No forms. - Hey man, give me my tools back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JEFF",
+          "text": "I didn't steal nothing. Get outta here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Where’s my stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JEFF",
+          "text": "I didn't steal nothing. Get outta here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You just said that, dumbass. Crew laugh. Jeff shoves Dennis. They wrestle in the parki lot. Crew gather and holler. Rick exits the second story and sees what’s happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Break it up! God damn it, Jeff, that’s enough. Rick strides down the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "What the fuck is going on?! He motions and they immediately pull Dennis and Jeff apar It takes three Crew guys to hold Dennis back. Jeff tries sucker punch him, but Dennis kicks Jeff in the stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Bill, you want to get in on this? Take a couple swings?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Sir, I - \f25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "“Sir, I -\" “Sir, I -\". What the fuck are you still doing here anyway?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "I thought, sir - I thought you -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You thought? You're evolving? Has Darwin himself come to Orlando, Florida?... Well? Bill?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "We'll be there on time, Mr. Carver. Guys, let’s go! Buena Vista Lakes. He rounds up half the guys and drives away. Rick walks up Dennis and motions and they release him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You finished? ‘Cause I got the cops on speed dial. they’1l run you out of town over a busted tail light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m not here to fight; I just want my tools.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Do I look like Ace Hardware? I don’t deal in tools, I deal in homes. There’s a difference.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I know. You took my home from me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "No, the bank took your home from you. I just represent it. He answers his phone. Dennis lights a cigarette; listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "This is Rick Carver... What?... You gotta be kidding me. God damn it... When?... Fuck Hazmat, I’1l call ‘em myself. (hangs up; to Jeff) 914 Shader Drive. Now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JEFF",
+          "text": "I thought we had to prep Via Alizar- \f26. CLAP CLAP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Move! Move! Jeff rounds up crew. Dennis follows Rick to his Range Rov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Excuse me? Rick Carver Realty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Can you Miguel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Can you work? You have tools. Do you do construction?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I pay $50, cash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Are you kidding me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "$50 shouldn’t be a joke to you. He speeds away. Dennis mumbles curses, gets in his truck INT. DENNIS’ TRUCK - CONTINUOUS - SLAMS the door. Dennis jerks the wheel and speeds throu the light following Rick. INT./EXT. DENNIS’ TRUCK / SEWAGE HOME - MORNING Dennis pulls up to a foreclosed home. He sees: Rick, Jeff and the Crew are taken aback to see a foreclos home with nasty black raw sewage creeping out the door. Rick covers his mouth with a handkerchief and gets his ph Jeff and the Crew cover their noses and shove each other kids towards the sewage. Dennis gets out and keeps his distance. \f27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "I need your Hazmat team here NOW or I’m looking at a total gut job down to the God damn studs... Eviction was next week and these animals backed up the sewage and skipped town... What do you mean shit’s not a hazardous material. Why don’t you come out here and eat some of it, maybe that would change your mind. Rick notices Dennis. Jeff and Crew are surprised to see h Jeff steps towards Dennis but Rick WHISTLES for him to st",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "The neighbors are threatening to call the Department of Health, so if your team isn’t out here in 30 minutes, my next call is gonna be Fannie about your slow-ass response time... Fuck you, too! (hangs up) God damn it. He turns to Jeff and the crew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JEFF",
+          "text": "Rick, no. - Mr. Carver! That’s a hazard. We, we can’t...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "By tonight, the mold’s up to the ceiling; by tomorrow, someone's paying MONEY to demolish it, and it’s not going to be me. Dennis notices Jeff and the others sheepishly back away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everyone is surprised. Rick and Dennis lock eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "200. That’s a bear and you know it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "-.. Deal. \f28. Dennis grabs a shovel, walks past Jeff and towards the encroaching sludge and enters into -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stench SLAPS him Spray-painted in His boots squish sewage cascading He gags and runs",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "in the face. Eyes water, holds his breath. red on the wall Dennis reads: KILL BANKERS in the sludge. He covers his nose and sees from the toilet and sinks. out. — CONTINUOUS Dennis staggers out and vomits in the yard. Jeff and Crew laugh. Rick remains straight-faced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JEFF",
+          "text": "Harden the fuck up, son!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "(to Jeff) There better be a container truck, shop vacs and giant blowers here in one hour or I’1l make it my business that you never work in Orange County again. You will also finish Via Alizar today. You’re on my list, shit fuck. He approaches Dennis with a cold water bottle. Dennis drinks, spits, drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "What else can you do? Framing, plumbing, electric, roofing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "All of them. Anything. Go on. Dennis head back",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Finish it. toward the door. Then looks to the Crew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Six-pack to the first guy in here with a shovel... Come on! \f29. Curious, Rick watches the Crew... one of them steps up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "$100. And Mr. Nash’s six-pack. Crew accepts. He puts on a dust mask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Let’s go! Who else? You! Come on, I know you need the money. The Men laugh and two more join. Only Jeff remains outsid",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Alright, let’s get this shit done. He wraps his shirt around his nose and mouth - like a ban The others do the same and Dennis leads the men to work. Rick is impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Connor looks up from homework as Dennis steps in. Dennis into his dirty jeans and hands Lynn money. Connor looks up, impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I got work. And there’s more tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "With who? What work? Dennis!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Some new guy. Real estate. You don’t know him. They laugh, overjoyed. Connor tries to take the money. De play-wrestles it back from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis walks fast, Connor drags his feet. \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You’re gonna make new friends, ok?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "I don’t want to. They reach Motel Kids and a handful of PARENTS and see a school bus arrive. Kids board; Connor doesn’t move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I know. But I need you to be brave. He tries to rub Connor’s ear but Connor brushes him off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "This isn’t my school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I know, but you gotta keep your grades up, remember? You gotta take care of yourself, ok? I love you. Connor runs to the bus. Dennis watches the bus drive away",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Massive, very impressive and unique, Rick’s home sits at end of a deep and beautifully landscaped lawn. Dennis pulls up; he’s impressed. Grabs his tool box and w to the front door when his phone RINGS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Mr. Carver, I’m -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (THROUGH PHONE)",
+          "text": "Yeah, I see you. Come around back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S POOL WITH LANAI",
+          "text": "Dennis enters and sees Rick's DAUGHTERS (6 to 12) playing the pool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S DAUGHTER",
+          "text": "Hey. Can you get us that please? Dennis uses a pool net to try and push a boat from the ce of the pool to Rick's Daughters on the other side. Rick walks up steps leading from his dock near the lake. \f31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Nash. Princess one, princess two, princess three! Who wants Haagen- Dazs? Chocolate chip cookie dough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S DAUGHTERS",
+          "text": "Me, me, me! Dennis follows Rick and his girls into -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- a very impressive living room / kitchen where a MAID wo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Nice house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "It's ok. I got it 18 months ago and I’m going to flip it after New Year's. (to the maid) Let’s have some Haagen-Daaz please, madam. (to Dennis) AC’s out for two hours. Through there. You’ll see the leak. Dennis exits as Rick crushes cookies into the ice cream.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I’m gonna make it even better. See.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ENTRANCE",
+          "text": "Dennis walks through the grand entrance, high ceilings, t of sunlight. Continues to -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S HOME OFFICE",
+          "text": "A second living room and sees the water stain on the ceil But his attention is focused to maps of Orange County tha cover the walls and are laid out everywhere. It’s impress Dennis zeros in on framed articles about Rick Carver, Rea Estate tycoon and good citizen of Orlando. Dennis takes it all in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S BEDROOM",
+          "text": "Rick grabs a bag and some shirts when his phone RINGS. \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "This is Rick Carver. MALE’S VOICE (THROUGH PHONE) Adjustable mortgage cocksucker! I’m homeless, you motherfucker!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "Stop calling me! You defaulted on - MALE’S VOICE (THROUGH PHONE) Fuck you, Carver. You piece of - Rick hangs up, tense. He notices his Wife smoking on the terrace outside. She’s been watching him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRACE",
+          "text": "Rick steps out and joins her. RICK’S WIFE They called here two days ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Come on boo, I rented you and your mom a week at the Corazon Spa in the Keys. I want you to relax, enjoy yourselves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S WIFE",
+          "text": "I should divorce you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "We'd lose on taxes; and you’d miss me. You'd miss your little Ricky. They kiss and make out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK'S ATTIC",
+          "text": "Dennis uses a small blow dryer to thaw out frozen coils o the condensing unit. EXT RICK’S HOME With the hose of a small shop vac, Dennis sucks green mol from the PVC on the side of Rick's house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis drinks a beer near the pool as he stares at Rick's boat, the lake, the life. RICH PEOPLE ride past in a boat wave at Rick who approaches. \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "What’re you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Finished. Give the coils 5 minutes to drain and you’ll have cold air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "It’s not even been an hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I salvaged your ceiling with mud and found some spare paint in your garage, so your ceiling’s good to go too. Rick is impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Unless you’re planning on taking a swim, let’s go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Through the moving window: homes. Rick glances at Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "What do you see out there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Homes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I just saw nine opportunities to make money in the last five blocks. We passed three homes without mail boxes, one with an overgrown lawn and no cars in the drive, two with white signs taped in the window and three with shiny new doorknobs and lock-boxes. If you can get attuned to seeing these opportunities, then Maybe you can get off your hands and knees and really start working for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I can work. You seen me all week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I heard you worked on good crews with Rick Kirby and Chris Camilleri. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (CONT'D)",
+          "text": "They’re both out of business, because they built homes. I own homes. Dennis considers Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You know what I am, I am a man with a helluva lot of properties. You can be a part of that. What I want to know is that I can walk away from any situation, 24/7, and have someone to handle it. I don’t care if your kid’s in the school play, it’s Christmas, or you lined up the best blow job in Orlando. When you work for me, you’re mine. Suddenly Rick hits the brakes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "What the hell? I/E. RICK'S RANGE ROVER / FRANK GREENE’S STREET - CONTINU Rick goes in reverse. Stops. Looks at two homes, one with “Rick Carver Realty” sign in the lawn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Call office. (DIALING)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You see that? Those cables?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah, yeah, I see it. Rick points to an extension cord and water hose running f one house to another. I/E. RICK'S RANGE ROVER / FRANK GREENE’S HOME - CONTINUOU He reverses and parks in front of Frank’s house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "Rick Carver Realty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I got some jack wagon at 354 Ridgeway stealing water and power from our property at 352 Ridgeway. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (CONT'D)",
+          "text": "Pull up the county court website, get his name and find out if he’s in default. I’m in front of his house now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATALIA, (THROUGH SPEAKERS)",
+          "text": "Right away, sir. Rick hangs up, opens the glove compartment and produces a - an LCP 308. He hands Dennis the gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You know how to shoot, right? We'll run a background check so you can carry a concealed weapon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Are you fucking with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Angry homeowners. You’1ll need it. Rick checks his Ruger on his ankle holster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Naw. I’m good. Dennis puts the gun back in the glove compartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Suit yourself. But the person on the other side of the door doesn’t always feel that way. Trust me. He shows the marks of a dog bite on his skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "They can feed their Rottweiler, but they can’t pay for their house. Dennis considers. Rick’s phone beeps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Ok. Frank Greene. Let’s go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick KNOCKS loudly. Dennis walks up next to him. Frank Gr (same man from court) opens the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Mr. Frank Greene? \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "My name is Rick Carver and you’re stealing from me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "-.. If you’re referring to the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "- The property next door belongs to Fannie Mae and I represent it for them. So you're not only stealing from me, you're stealing from the United States government. He answers his RINGING PHONE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "Yeah, I’m with Frank Greene now. What’ve you got for me? (to Dennis) Remove those lines. He steps aside, leaving Dennis alone with Frank Greene. They walk to the side of the house and begin to disconnec and coil up the cable and hose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I saw you in foreclosure court. Our sons go to the same school. They were playing with the globe. I had my show cause hearing that day. What happened to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I lost... I was evicted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "++. So what’re you doing with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Gotta work, you know? He offered me a job. This isn’t really what I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "(regarding cables) Yeah, this isn’t really what I do either... I was a manager at Custom Cabinet and Lighting. Been out of work for two years. Two. But I’m not a thief. \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "But I’m researching on the internet and public library. I’m gonna save my home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I hope you do. Custom Cabinets - yeah, I installed your stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Oh really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah, a bunch of times. Frank’s Son (from court) approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S SON",
+          "text": "Dad, the TV turned off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You know my boy? Connor Nash?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S SON",
+          "text": "Yes, sir. Rick comes back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Mr. Greene, looks like the Bank of Santa Fe already filed for final judgment of foreclosure. My money says the courts send me back for your eviction in less than 90 days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I removed the cables and - and I apologize. I shouldn’t have done that. That was wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "It’s ok, we -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I can assure you, stealing is not ok. Mr. Nash will personally be speaking with your neighbors. And if we receive a report or drive by and see you stealing my water and power again, the next visit will be the Sheriff's department. \f38. INT. RICK’S RANGE ROVER / FRANK GREENE’S HOME - CONTINUOU They sit down in Rick's SUV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Don’t be soft. They’11l tell you sob stories each time. But the law is the law, that’s the side you’re on. You already know the outcome of this situation. So toughen up. They drive away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis follows Rick and looks around the massive home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I’‘1l take all your Rocky Mountain door handles - MR. HESTER (50s) and Dennis follow him into the dining ro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "- the Tiffany light fixtures Moder Crystal chandelier - - into the kitchen -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "- the Harlan cabinets, the Thai Jade and marble counter tops, the range the Subzero fridge. Three grand and you gotta be out of here in two weeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. HESTER",
+          "text": "Make it five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Four and Dennis here will get right to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. HESTER",
+          "text": "Done. Dennis starts unscrewing the cabinets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis pushes a dolly loaded with cabinets and walks with Rick to the next home. \f39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You know, Mr. Hester made a lot of money on this property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You’re evicting him in two weeks. How’s that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "He got this place back in ‘05 for $400,000, 0% down. One year later, he took a home equity loan and got another $200,000 that he used to buy that sweet little Yellowfin for fishing trips and to take Mrs. Hester to Tahiti. By the time this home was worth half what he’d borrowed, he just quit paying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You can’t just quit paying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Sure you can. He hired himself a lawyer - not to win - but to tie up his case for three years. Guess how Many mortgage payments he made during those three years?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "None. But he owes money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Lawyer got a short sale approved, and the bank wiped out his debt. It's called, “strategic default.” While Mr. Greene is stealing my water and power, this guy was making a killing. Are you listening now? Do I have your attention?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah, I heard you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "That’s how you should’ve done it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Now get everything else and meet me over there. \f40. Points at the house next door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick uses an iPhone attachment to open an electronic lock box. A key falls out. Unlocks door. Dennis watches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick's steps echo in the empty home. Dennis follows him i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE KITCHEN",
+          "text": "- where the cabinets, fridge and counter-tops are all gon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Install everything - patch the tile, caulk the cabinets and connect the gas line when you bring in the appliances.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "All that in here now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I’m selling this home for Fannie Mae. I can’t do that if there’s no kitchen, can I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "So who just paid me $33,000 to buy new cabinets, appliances and a counter-top plus labor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Fannie Mae.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Fannie Mae. Congratulations. You just fucked the government. He hands Dennis an envelope. Dennis takes it, but Rick ho on tight, refusing to let go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "If you're interested, let me know. If not, use that to take your kid to Disney World and get yourself a job Migueling Cinderella’s Castle. \f41. He lets go of the envelope and exits to the backyard. Dennis opens the envelope. He’s startled by what he sees: check for $3,250.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick answers emails on his phone. Notices Dennis approach",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t give a damn about the government. They never did nothing for me, so... But that was a lot of money you just gave me. Feels a bit like trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You did honest work building homes your whole life. What did it get you but me knocking on your door?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Is this stealing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "In 2006, you borrowed $85,000 against your home and never paid it back, Nash. You’re telling me that’s not stealing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, it’s not stealing. I was given a loan. That’s me working my ass off trying to pay back that loan -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "That’s not how the banks see it. Or the tax-payers paying for this bailout. Rick picks up overturned chairs by the pool. Dennis follo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I invested every cent into construction equipment. The economy crashed, I can’t predict that. I can’t predict the weather.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Well I can. I’m a fucking Doppler radar. You’ve been stealing, but don’t want to admit it. Or the banks cheated you, take your pick. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (CONT'D)",
+          "text": "Either way you’ve lost. But I made even more money in the crash than before it. You can too. But you need to stop lying to yourself and ask: What have you been doing wrong that your family lives in a motel? Dennis considers, then picks up the last overturned chair",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I‘1l do it. But I want you to help me get my home back. - And this is my first payment. He hands Rick the envelope, but Rick refuses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Don’t get emotional about real estate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "That's my family home, my boy's school. I want it back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Not enough money here. Put that under your mattress because putting it in the bank only makes them money. When you have more, I’‘1l tell you what to do with it. - Now, do you want to double what you made?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis pulls up. JAVIER (30s) jumps in talking shit, hand Dennis a beer, who drinks and drives away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis and Javier take out an HVAC.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "So who’s this Rick Carver dude?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "My boss, for the time being. They slide the HVAC in the truck next to two others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "What’re you doing? \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I gotta prove to the bank this shit’s missing so they pay us to put it back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "We're stealing it... to then bring it back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You wanna get paid? Then I gotta take a picture. Let’s do it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis knocks. MR. TANNER emerges.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Mr. Tanner? My name is Dennis Nash, I’m here representing Rick Carver Realty. I understand your house has been foreclosed on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "The house still belongs to us. We intend to keep it that way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I hope that works out. If it doesn’t, I want to tell you about cash for keys - He hands Mr. Tanner a form.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "What do you mean, cash for keys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Cash for keys is this -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis hands the cash for keys form to an AFRICAN AMERICA COUPLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "- if you leave your home in broom- swept condition prior to the eviction date the bank will give you $3500 which can help pay for a U-Haul, security deposit on an apartment, and -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AFRICAN AMERICAN MOM",
+          "text": "Thank you, but no thank you. I’11l give this to my attorney and he’1l contact you. Good day. Closes the door in Dennis’ face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis tapes an eviction notice and takes a photo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis and Javier carry an HVAC when Dennis notices the p pump. Javier lights up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "Whatcha doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Who’s gonna buy a home with a pool if the pool doesn’t work? Dennis removes the pump. A neighbor's light turns on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HVAC NEIGHBOR, (0.S.)",
+          "text": "Hey! What’s going on there?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You know Rick Carver Realty, you see that sign out front? That’s us. You have a good day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "Hell yeah, now that’s what I calla woman ! The men laugh as they steal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis explains CFK to a Vietnamese woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "It’s not a lot, but it’s going to pay for a U-Haul, a down-payment on an apartment... \f45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIETNAMESE WOMAN",
+          "text": "I have no idea what’s going on, because my mom and dad from Vietnam are coming and the house can’t be foreclosed on...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis KNOCKS. Looks in the window. Tapes an eviction not to the door and takes a photo with a small digital camera EXT. MRS. TIDWELL’S HOME - DAY Dennis stand before a distraught MS. TIDWELL (30s, Africa American) at her door. She looks at a piece of paper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I want you to know about “cash for keys.” This is a KYO form, it means “Knowing your options”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MS. TIDWELL",
+          "text": "Knowing my options? Her TEENAGE DAUGHTER starts filming Dennis with her phone MS. TIDWELL’S DAUGHTER I’m putting this all on Facebook, asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MS. TIDWELL",
+          "text": "Kayla, put that away! MS. TIDWELL’S DAUGHTER Mom he’s lying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TIDWELL",
+          "text": "Kayla! - I’m sorry. I... I know you’re doing your job; I’m sorry. She quietly closes the door on Dennis who stands alone. H INT. DENNIS’ MOVING TRUCK - DAY Dennis and Javier load up the truck and drive away. EXT. ANGRY MAN’S HOME - AFTERNOON A ANGRY MAN peers out of his chained door. Dennis hesitan tries to hand him CFK paper work. \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY MAN",
+          "text": "You the one that’s been putting notices on my windows?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No sir, that’s the Sheriffs department.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY MAN",
+          "text": "I don’t want them to do that anymore, that’s trespassing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Sir I can’t control what the Sheriffs department does, what I can do is tell you about -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY MAN",
+          "text": "You’re wasting your time. Just get outta here. Tell your bank and your boss I ain’t interested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "If you wanna just take a look at -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY MAN",
+          "text": "I’m not looking at anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You could just take it and not look at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY MAN",
+          "text": "Hold on a second. The Angry Man leaves. He comes back with a GUN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGRY MAN",
+          "text": "I think I’ve made myself very clear to you. I don’t want to see you again. Dennis backs away, thoroughly unnerved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis exits an EZ cash with the money he made today. He gets in his truck and drives away. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis pulls up in his truck, takes out a large paper bag Lynn is cutting the hair of motel friend DANA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What you got there? What do you have in there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Steak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What? That’s Hamburger Helper. Dennis shows his mom steaks in the grocery bags.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(shows her) What does that look like to you? Lynn is surprised - how could he afford this? But she’s a happy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "That looks like dinner! Let’s invite Dana too!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "More the merrier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DANA",
+          "text": "Hey - did you put that under your t- shirt?! They laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DANA",
+          "text": "I’m not kidding! How else he got the money for that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis plays nerf basketball with Connor. It’s a fun mome that they really need. Lynn and Dana laugh and talk and drink beers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis pushes up the garage door of the storage unit. Tur on lights to reveal HVACs and pool pumps. Rick counts the \f48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Eight. And four pool pumps. Good addition.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I figured “Why not?” Dropped this one - beyond repair - so better make it seven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Sell it for scrap metal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Already priced it out at $300.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Good. Invoice Rick Carver Realty $24K for the ACs and $3,200 for the pumps. The banks will reimburse me in that amount. Your take is 25%, about $6,700. Dennis is impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m gonna need that Ruger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Excuse me? What’d you say? Dennis looks annoyed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You’re saying you want the gun? Did I understand you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick opens the glove compartment and hands the gun to Den",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I ran the background check already. You’re clear to carry it. Dennis holds the gun. It’s a little awkward in his hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Who pays the most out in cash-for- keys? - Fannie & Freddie. Then it’s BoA. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (CONT'D)",
+          "text": "I want you to go to every one of their foreclosed property in our books and find the ones that are unoccupied. No homeowner. And no tenant. You got that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis and Javier drive up and greet Dennis’ Crew and pul them and three other Guys they know into the truck. INT. DENNIS’ TRUCK [MOVING] - MORNING MUSIC. Dennis and Javier pass beers through the cab windo the 5 Guys in the back of the truck, laughing and joking. I/E. DENNIS’ TRUCK / VACANT HOME #1 - DAY From in the truck Dennis sees Javier peering into a vacan home (“Rick Carver Realty” sign). Javier runs to the truc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "Empty as a mo-fo! I'd love to live in this bitch. 3221 Lincoln drive. Dennis writes the address on a lease agreement. I/E. DENNIS’ TRUCK / VACANT HOME #2 - DAY Dennis’ Crew #1 jumps into the back of the truck and shou DENNIS’ CREW #1 676 Capland Ave! Dennis fills out another lease.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis fills out a lease and hands it to Crew #2, who sig He collects leases from the others who sign their names.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Ok. You are all now “tenants” of these properties with these lease agreements. DENNIS’ CREW Can we really move in? \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, dumb ass. You can’t really move in. We need the bank to think you live here so I can negotiate cash- for-keys deals with all of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "How much they paying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "«+--+ $2,500 checks from the government and the fucking banks. JAVIER & DENNIS’ CREW $2,500! Fuck ‘em up the ass! Yehaw! They’re happy as hell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. GOLF COURSE",
+          "text": "Dennis stands near golf carts at a distance from Rick, CO COMMISSIONER LINK (30s-50s) and two RICH MEN who talk on green. They shake hands; Rick and Link walk to Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY COMMISSIONER LINK",
+          "text": "You think Freeman is the way to go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "He’s Fannie’s number one attorney three years running and he can connect us to bulk buyers. I’m not talking millions of dollars; I’m talking billions. - Arthur, this is Dennis Nash. - County Commissioner Arthur Link. -Your property on 2102 West Jefferson; I’1l have Dennis make sure your gutters are re-done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY COMMISSIONER LINK",
+          "text": "What happened to Bill?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Killed him. This is my new guy and he’s gonna last.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY COMMISSIONER LINK",
+          "text": "Alright, I-I'll get us a meeting with Freeman. (to Dennis) You want to move up in real estate, this is the guy. Link joins the men. Rick and Dennis drive away in a cart. \f51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick drives. Dennis next to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "What do you have for me? Dennis shows the “fake” leases.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Successfully negotiated six cash- for-keys with six “tenants.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Not bad. So, Nash, how much did you tell your buddies - $3,500 per home or less?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "$3,500. Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Oh. You told them the full amount?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I told them what I told them. What do you care? Rick smiles like a devil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick parks the cart at the back of a massive, beautiful McMansion and walks to the swimming pool. Confused, Dennis follows Rick who greets TAMIKA, a gorgeo African American woman (early 20s) busy texting at the po",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You look gorgeous, baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMIKA",
+          "text": "I know. He kisses her for a while. Dennis watches, uncertain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Don’t you have classes today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMIKA",
+          "text": "It’s all online. Can we go to Capital Grille tonight? \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Sure why not? He motions to Dennis who follows Rick. Rick shows him his business card.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "That's my sweetheart. She studies graphic design. I had her do my business cards. They enter -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis notices the mansion is empty except for a mattress the floor, a sofa, coffee table, and couple suitcases.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Is this yours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Just keeping it warm. Scan the leases so we can email Fannie and BoA. Dennis moves to the scanner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "So, Nash - why aren’t you married?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Uh. Don’t really have time for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I don’t trust a man who isn’t married. Nobody does. - You want to tell me what happened to Connor's mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Not really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Prom night fiaso?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Close, yeah, something like that. Rick studies him for a moment. He produces a check from the paperwork on his desk. \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Your check from the ACs and pool pumps. Came out higher than I thought - $7,200. Dennis opens the envelope and sees the check... then hand back to Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Keep it. I’1l give you the $3,000 I already made, and add my share from these leases. I want my home back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "BPO on your home came in at $170K. I’‘ll buy it and you’1ll owe me. $155,000 at 12% amortized over 30 years with a two year balloon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Jesus, that’s a shitty rate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "No bank’11 loan you money and if you don’t pay, I’m on the hook. And I don’t want that property; it doesn’t have a future.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "It's my family home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "It’s a home. But if you want it, it’s yours. It’ll take the bank eight to twelve weeks to list it on the MLS; you can do repairs, but you can’t move in until then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "And the contract?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I’‘1l have my office provide you the contract for deed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "So it’s mine again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Yes, it’s yours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Ok. Thank you. Seriously thank you. \f54. He extends his hand. Rick awkwardly shakes it. Dennis is emotional.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "No tears.... drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No. I’m good. Rick pours a drink from the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You might want to reconsider. We have one more stop today. 224 Lakeview Court.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "That's Mr. Tanner. I offered hima Wells Fargo cash-for-keys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "He never called and his eviction is today. You can pop your cherry with him. The first one’s a bitch. You get numb to it. Stand next to me today, but after this you’1ll do ‘em on your own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Listen, Rick. Can't I -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Go fuck yourself? Yes. What’d you think working for me would mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I just thought -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "No, you didn’t think about it. And you didn’t have the guts to ask me. Nobody does. But who in their right mind wouldn’t rather put someone in a home than drag them out of it. Up until three years ago I used to be a regular real-estate broker, putting people into homes and speculating on properties. That was my job. - In 2006, Robert and Julia Tanner borrowed 30 grand to put an enclosed patio on their home which they had managed to live without for 25 years. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (CONT'D)",
+          "text": "Ask them when they’re spitting in your face as you walk them to the curb. Ask the banks why they gave them an adjustable rate mortgage. Ask the government why they lifted all regulations and turned a blind eye. You, the Tanners, the banks, Washington and every other homeowner and investor from here to China turned my life into evictions. I’m not an aristocrat. I wasn’t born into it. My dad was a roofer. I grew up on construction sites watching him work his ass off until he fell from a townhouse. A lifetime of insurance payments and they dropped him before he could buy a wheelchair but only after they got him hooked on pain killers. Do you think I’m going to let that happen to me? Do you think America 2010 gives one damn about Carver or Nash? America doesn’t bail out the losers. America was built by bailing out the winners. By rigging a nation of the winners, by the winners, for the winners. Do you go to church Nash? Do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Only 1 in 100 is gonna get on the Ark and every other poor soul’s going to drown. I’m not going to drown. They lock eyes for a long beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’‘1ll do it alone. I’ve seen you do it. I know how it’s done. I’11 do it alone. I/E. DENNIS’ TRUCK / TANNER HOME - DAY From through the windshield of Dennis’ truck: Jeff, Crew and Locksmith loiter in the Tanners’ lawn; NEIGHBORS gather; the Sheriffs get out of their cruisers. \f56. Dennis sees this from inside his truck. It’s hot and swea The windows are rolled up. He doesn’t want to be here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLACK CLACK CLACK",
+          "text": "Sheriff #1 bangs his nightstick; Dennis unrolls his windo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "(laughing) Hoooooly shit! Rick told me, but - Let’s go, rookie! Don’t think I got dressed up just for you. He laughs and walks off. Dennis opens the glove compartme and pulls out the gun. He holsters it on his ankle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis sweats as he walks to Mr. Tanner and MRS. TANNER standing at their front door with the two Sheriffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Good morning, Mr. Tanner. Ma’am. I’m Dennis Nash, from Rick Carver Realty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "I remember you, Mr. Nash. Why, why’re you here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Um, I’m sorry to say, this home has been foreclosed on and transferred to the bank. I hate to be here doing this, but I'll need you to please step out of the property now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "No, I, I... my wife’s on the phone right now with our lawyer. You see, this is a mix-up and we’re going to have it all sorted out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I understand, Mr. Tanner, but -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "Honey! Honey, do you have him on the line?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Sir, it’s not going to matter - \f57. Dennis sees Mrs. Tanner and two kids come to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. TANNER",
+          "text": "He wasn’t there. They said he’1l call us back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "There you go. We have to wait. We're filing an appeal, there’s no point in you being here right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I understand Mr. Tanner. But what I have here is a court order signed by the judge. What I can do is give you a few minutes to gather your personal items. Your checkbook, jewelry, medicines... your kids’... important belongings, but then I’m going to have to ask you to vacate the home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. TANNER",
+          "text": "Well, I don’t care. You were not supposed to be here today, so you need to leave now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Ma’am. What I can do is -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. TANNER",
+          "text": "You are leaving. We are going back inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Please calm down ma‘am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. TANNER",
+          "text": "I am calm. I am calm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Don’t close the door ma’am. Sheriff #1 moves Dennis aside. Sheriff #2 steps up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "You’re trespassing. You all need to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "No, you and your wife are trespassing. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Any more trouble and we will walk you straight to the curb or the county jail. You decide. Dennis sees the Tanners go inside with the Sheriffs. Dennis sees Jeff smirking at him. Dennis sees the Sheriffs escort the Tanners out, clutchin bags, kids crying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Clear. Get your men in here, Nash. Dennis motions to his crew who come marching up the lawn in the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "They can’t stand there. Dennis takes a deep breath and approaches the Tanners.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Mr. Tanner, ma’am, please walk with me to the curb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Let’s just go to the curb, please. He guides them to the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. TANNER",
+          "text": "You’re responsible for this. You know that right? What happens to me, to my family. That’s on you. They reach the curb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m sorry Mrs. Tanner. I didn’t want to do this today, I tried to avoid this -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. TANNER",
+          "text": "How do you live with yourself? Do you have a family? How could you? Shame on you. Shame on you. Jeff and crew start piling stuff up in front of them. Mr. Tanner begins to weep. \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. TANNER",
+          "text": "It's ok, baby, it’s ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis stands alone in the Tanner’s living room watching clean out crew taking the Tanner’s belongs out. He looks out the window and sees them on the curb, crying",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I/E. GAS STATION",
+          "text": "Dennis enters the gas station and heads to the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He closes the door. He is a wreck. He changes back to his work clothes. He stares at himself in the mirror. INT. DENNIS’ PICK-UP TRUCK [MOVING] - MORNING Dennis drives Lynn and Connor. They’re all happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Where’re we going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t know. You tell me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "To see the Magic practice?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "All you can eat ice-cream at Denny's?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, but we can get that later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Oh, oh, oh! I know. To see the Queen of England? \f60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(laughs) No! - What?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "It's possible. I/E. DENNIS’ TRUCK / DENNIS’ HOME - MORNING They arrive at their home. Lynn and Connor can’t believe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "What’re we doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t know. What’re we doing here? Grab these brushes. They get paint cans and brushes from the back of the truc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Are we breaking in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Ask your dad. Dennis uses an iPhone extension to signal the lock box to open. The key pops out. Lynn gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "There’s an app for that? INT. DENNIS’ HOME - CONTINUOUS They enter. Lynn and Connor are amazed, looking around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What are we doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "What are we doing here? They walk in. Lynn sees her garden has withered; weeds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Oh my god, look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "What are we doing here??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I got the home back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Does that mean I get my room back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yup. Connor runs to his room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "How’d you get the house back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "My room looks so big!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "That's becuase it is. (to Lynn) We won't be able to move in for a couple weeks, but... It’s ours again. I’ll explain. He goes to Connor’s room, leaving Lynn to digest everythi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Oh my god. Lynn picks up and hangs her withered plant. INT. CONNOR’S ROOM - CONTINUOUS Dennis joins Connor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "How about a bunk bed? What else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "A basketball hoop so I can dunk, right there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "A hot tub! A hot tub right there, you can break the wall down! And the wall should be silver like the Orlando magic. \f62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You know what else I was thinking? I was thinking in the backyard we could get a pool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "A pool?! Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You have to help me paint the house first. Let’s start painting. He hands Connor tape and rubs his ear, who accepts. INT. DENNIS’ HOME / KITCHEN & LIVING ROOM - CONTINUOUS Lynn cleans dusts of the kitchen counters. She’s tearing Dennis enters and watches her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "How are you doing this? How is this real?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "My boss bought it for me and I’m paying him back in installments just like a bank. Dennis shows her the contract.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "(suspicious) What does he get?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "He gets his money back. He gives me work so he’s keeping me working. (about Connor) He’s painting his room right now. I got it back. Lynn stares at the contract. She has doubts. Looks at him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What’s your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "Derek arrives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Derek! What’s up! \f63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What’s up Derek?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEREK",
+          "text": "Hi Mr. Nash! They play play-wrestle and have fun, Dennis pretending to a gorilla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "The dominant Silverback Gorilla! We've been spotted! Lynn watches them play, still unsure. EXT. ANGRY MAN’S HOME - DAY BZZZZZZ. CU - Locksmith drills the lock off and opens the door. Sheriff enters with his gun drawn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sheriff's Department. Anybody home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Alright, jump in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis (Sheriff, crew, locksmith) evicts a TENANT MAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "So you are not Mr. Ron Curtis?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TENANT MAN",
+          "text": "No. He’s my landlord. He lives in Miami.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You're not the owner of this property?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TENANT MAN",
+          "text": "No, we rent, we've been paying the rent here for 8 years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, I put notices on your door - \f64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TENANT MAN",
+          "text": "And I gave them to the landlord. He told me to ignore them, that he was doing a loan re-modification and not to worry about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Your landlord has scammed you. You’ve been scammed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis hands the check to an OLDER AFRICAN AMERICAN WOMAN",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLDER AFRICAN AMERICAN WOMAN",
+          "text": "That’s $3500, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah, $3500. She struggles to remove the home key from their chain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLDER AFRICAN AMERICAN WOMAN",
+          "text": "I can't... She hands it to Dennis who removes it. He hands the chain back. I/E. DENNIS’ TRUCK - DAY Dennis puts the keys into a container of other keys. I/E. MR. BALDWIN’S HOME - DAY Dennis and Sheriff #3 stand at the door with MR. BALDWIN, (70s-80s, confused, floral shirt).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Hello Mr. Baldwin, my name is Dennis Nash, I’m here representing Rick Carver Realty. Today is the day of your eviction, I’m afraid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BALDWIN",
+          "text": "No no, I have a reverse mortgage on this house and my wife and I took it out. My wife went down to the bank and she signed the papers. \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Mr. Baldwin, there was a process in place, all the paperwork was submitted, signed by a Judge, it’s all legal. Mr. Baldwin, step outside for me please... Go ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BALDWIN",
+          "text": "Ok... Mr. Baldwin steps out. Sheriff 2 stays with Baldwin as De and Sheriff #1 enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis speaks with a MIDDLE AGED WOMAN as clean-out crew bring out her belongings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIDDLE AGED WOMAN",
+          "text": "We already did the modification, they approved it, we sent in our first check...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What I suggest is we figure out a way to get all your stuff safe - a U-Haul or something like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIDDLE AGED WOMAN",
+          "text": "I’m going to have to call my husband. I could maybe store it at my sister’s house down the street for a day or... She stops, overwhelmed. EXT. DENNIS’ TRUCK - DAY Dennis puts another sets of keys in the jar - it’s half f now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis tries to communicate with a HISPANIC MOTHER as her HISPANIC SON translates. The young son struggles to explain the situation as Denni speaks and the mother listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "The house isn’t your anymore. \f66. The son translates. The mother takes it in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I/E. EVICTION HOME",
+          "text": "Dennis looks in the window, KNOCKS one last time, then no to the Locksmith, who saws out the doorknob. Dennis enter with the Sheriffs and sees the house is fully furnished: Parakeets CHIRP in a cage; family photos and a crucifix o the wall; laundry hanging to dry in the backyard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Anyone know what to do with a bird?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mrs. Tidwell signs a CFK. He hands her a check.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "3500.",
+          "text": "Mrs. Tidwell stares at the check. She hands over her keys. INT. DENNIS’ TRUCK - CONTINUOUS Dennis puts another key in his jar - now it is full.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis confronts a group of SURLY HOMEOWNERS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m trying to give you the better option here, I’m going to have to send these guys, who are being employed today to go in and grab your stuff and throw it on the curb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "I really don’t want to take you to jail. I don’t have the time -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURLY HOMEOWNER",
+          "text": "Well you know what you can do with that? (points to the clipboard) (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURLY HOMEOWNER, (CONT'D)",
+          "text": "You can do something else with that because I’m not gonna touch it. EXT. MR. BALDWIN’S HOME - DAY Mr. Baldwin sits in a plastic chair, a box on his lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Do you have any family or friends?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BALDWIN",
+          "text": "I have a son up in Michigan, but I haven’t seen him in a couple years...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Do you have his phone number?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BALDWIN",
+          "text": "No, no...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Nobody you can stay with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BALDWIN",
+          "text": "No, no I don’t...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Any neighbors that can help you out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BALDWIN",
+          "text": "I don’t know my neighbors anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "I can give you a ride to the Salvation Army or the Red Cross? Dennis stares at the lost and helpless Mr. Baldwin. HOLD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis can’t sleep. Connor is tangled up with him. He rem Connor’s arm and quietly gets out of bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He smokes a joint and stares at traffic on an overpass. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In a suit and slicked hair, Dennis looks like a new man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHOTOGRAPHER, (0.S.)",
+          "text": "Please lower your chin and turn your head towards me... That’s it. Rick stands next to the PHOTOGRAPHER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Say “short-sale” three times and smile. Dennis smiles and the camera flashes repeatedly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOMENTS LATER",
+          "text": "Rick approves of the business card and hands it to Dennis",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Pretty civilized. Dennis looks at a card with his photo: DENNIS NASH, SENIO SALES MANAGER, Rick CARVER REALTY, INC. INT. WILLIAM FREEMAN’S OFFICE - MOMENTS LATER WILLIAM FREEMAN (50s, confident) sits behind his desk in glass office. Freeman’s ASSOCIATE, Dennis, Rick and Link around the table. Dennis listens carefully as they talk:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY COMMISSIONER LINK",
+          "text": "Tesken Equity Management just picked up 400 homes in the last two months, all-cash buys - no loans. A hundred million dollars. Orange County needs your help to find another bulk buyer like Tesken. As they talk Dennis notices Freeman's Lawyer who beat him court.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. FREEMAN",
+          "text": "And I'd like to know where the new highway that’s to connect 414 and the Apopka Expressway is going to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY COMMISSIONER LINK",
+          "text": "Yes, well, that information isn’t public yet, so... \f69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. FREEMAN",
+          "text": "I have a lot of property that could be impacted by the zoning board's decision. Rick smiles with pride; Dennis notices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. FREEMAN",
+          "text": "Anything else, Arthur?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY COMMISSIONER LINK",
+          "text": "Ok. Yes, yes. I know the route.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. FREEMAN",
+          "text": "There’s a bulk buyer here out of New York, Vesic Investment Group. But they’re shopping with a pissant broker out of Kissimmee named Ortiz who just sold them 15 homes last month.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Excuse me, sir. I know Ortiz. I can get Vesic Investment Group away from him and my team can handle as many homes as you have to sell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. FREEMAN",
+          "text": "I have upwards of 1000 homes. Possibly more. Get me Vesic and we'll be in business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis and Rick walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "1000 homes. Do you know how much money we're talking about? Track Ortiz, find who he’s talking to and what properties they’re looking at. We need to know what the Vesic deal is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Rick. What’s my cut?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Shut the fuck up and get going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You can’t handle 1000 homes without me. Standard commission is 6%. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (CONT'D)",
+          "text": "What’s my cut to help you get Vesic to Freeman? Rick smiles, then laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "I’‘1l give you 5% of my take.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "6 and a hand job. No calluses. You’11 pull in something between $200 to $300K.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "That’s more than you made in your -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah yeah, more than I made in my whole life. They shake. Partners. I/E. DENNIS’ TRUCK / RITZ CARLTON HOTEL - MORNING ORTIZ (40s-50s) waits at the lobby. Dennis notices PRADEEP KHANNA (30s-40s, Indian-American, confident, NYC look) exit the hotel and greet an affable Ortiz. They get in Ortiz’s SUV. Dennis follows them. I/E. DENNIS’ TRUCK / ORTIZ HOME #1 - MORNING Dennis pulls up to a home as Ortiz parks. Dennis sees Ortiz and Khanna look around the home. Ortiz shows Khanna information on an iPad as they enter the hom Dennis takes a photo of the home, including a sign in the lawn: FOR SALE BY BANK OF SANTA FE. \f71. I/E. DENNIS’ TRUCK / ORTIZ HOME #2 - DAY Dennis watches Ortiz and Khanna examine another foreclose home. A FEMALE HOMEOWNER peers out her door. BEEP. Text message from Rick: last 4 homes all bank of santa fe I/E. DENNIS’ TRUCK / FRANK GREENE’S HOME - AFTERNOON Dennis sees Ortiz and Khanna drive away. He looks towards home and sees Frank and his family. He gets out of his tr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Frank and Frank's Wife put recycled cans into car trunk. sees his Sons riding bikes. Dennis approaches Frank; Frank stops him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Hey, Frank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "What do you want? You with those guys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, not at all. Just come to see how you’re doing. If you want, maybe I can get you a job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Nice suit. Still working for your friend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I didn't have to come here. I just wanted to -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "To lie to me? To cheat me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "To help you. Have you thought about where your kids are gonna live when you lose this? It’s not pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "My kids have a home. This one right here. I did research and took boxes of files to a lawyer. Pro-bono. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I’m going to win my home legally, in court.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Be realistic. The judges don’t care, and the courts -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "“Be realistic?” I didn’t ask for your help, sir. And I don’t want it. You’re trespassing. Please get off my property and don’t come here again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick drinks whiskey as Dennis thinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "There's over 100 homes in this deal. Ortiz, the king of the Miguels, is going to sell 100 homes to Vesic. (points at maps on wall) They're all in these neighborhoods, priced between $165 and $200K. We're talking upwards of a $20 million deal. And it’s not mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Holy shit. Tamika enters with an iPad and wraps her arms around Rick",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMIKA",
+          "text": "Triple word score. Take that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "We’re working.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMIKA",
+          "text": "I know. Dennis, tell him to take a break.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Rick. Take a break. Suddenly, Rick wraps his arms around her and gives her a deep, passionate kiss. Dennis studies maps on the wall. Then - \f73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Vesic already bought 15 homes from Ortiz last month.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m going to take out all the ACs, water pumps, and appliances from those homes. And who do you think Vesic will blame?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Ortiz. They’1l call immigration and put him on his lawn mower back over the border while I’m on the phone with the Bank of Santa Fe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "And we’ll sell a 100 homes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "And 1000 more for Freeman. I see green skies ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Start by putting green in my pocket. I’1l empty out the 15 homes tonight. $100 a pop. $1,500.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis uses his iPhone to open the electronic lock box. Javier and Dennis’ Crew (two) approach with dollies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "HVACs and water pumps?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Get the appliances this time too - dishwasher, fridge, oven. Skip microwaves. Dennis uses his iPhone to get the key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "You’re going in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You’re going in. \f74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "Nah, that’s B&E man, that’s guaranteed time right there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "It’s not B&E if you got a key - we're doing appliances, fridges...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAVIER",
+          "text": "Aiight. I/E. DENNIS’ TRUCK / DENNIS’ NEW HOME - SUNSET Dennis drives and talks on phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Yeah. Rick said he wanted me to handle the short sale for him, so I’m heading there now. - Hang on. He notices something and stops in front of an impressive with a “foreclosure Rick Carver Realty” sign in the yard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Do you know if 1484 Lakewood Drive is for sale?... I just drove by the place... Yeah? Does it have a pool?... Let me call you back. He opens the door and looks at: a beautiful, large, stucc home with palm trees. Paradise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s Connor’s birthday. Dennis grills, Lynn cuts cake, Co is happy. Derek, the neighborhood kids, Justin and the mo kids are all there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "Lynn holds the pinata and Dennis and Connor smash it together, father and son are happy together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "Lynn wonders where Dennis is. Dennis returns with a brand bike for Connor. Connor jumps all over it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Whoa! Connor hugs his dad and runs off with Derek and friends. \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis and Lynn watch Derek and Connor ride bikes. Justin motel kids ride old bikes and scooters. Families around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Show us what you got! Connor rides circles around Dennis as Lynn looks on, happ Then... an EVICTED FAMILY (husband, wife, two kids) drive up. Confused and exhausted, they unpack their station wag",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "(about the family) Hey Connor, let’s see if these guys want some of your cake. We got some cheese pizza left - you wanna ask if they want some cheese pizza? Dennis stares at the family; something’s wrong. He turns starts to leave abruptly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Alright, I gotta get Derek home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Okay, we’re just gonna grab some pizza and some cake, I think it’d be nice to say hi to these guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Fine, I just gotta get Derek home. The EVICTED MAN sees Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "Hey! Hey! Where you going? Hey you! Over here. I’m talking to you! Dennis reluctantly turns. The Evicted Man is visibly angr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You’re talking to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "Yeah, I’m talking to you. What're you doing here? Are you following me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No, I live here. I don’t know what you’re talking about so... \f76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "Yeah, I know who you are. What’re you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What do you mean? I live here, I just told you I live here. I don’t know you, ok?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "No, you're Rick Carver Realty, I know exactly who you are. Dennis starts trying to move the Man away from his family",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Listen, listen - you don’t know me. I don’t know you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "I know you! You kicked me out of my home!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What? Lynn’s face darkens. Connor looks on, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t know you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "You work with Rick Carver, you kicked me out of my home!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Come over here, we’ll talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "Why would I wanna go over there? I wanna talk right here. Nash, that’s your name, isn’t it? Connor stares. \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "You don’t want everyone else here to know what a fucking asshole you are? And how you kicked me and my family out of our home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You got me mixed up with somebody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "No I don’t. I know exactly who you are. Everyone at the motel is watching now. Evicted families, kids, neighbors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Just calm down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "You kicked me out of my home! You ruined my fucking life! Dennis tries to leave. Evicted Man shoves him back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "No, you don’t get to go anywhere!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(getting angry) Don’t do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Dennis!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Get inside!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "Yeah, get inside!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(shoves him) Don’t fucking talk to her!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "What’re you gonna fucking do?! He shoves Dennis and they are in a fight. Lynn, Connor, D and the entire motel watches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Stop, please! \f78. Connor watches Dennis and Evicted Man fighting. Motel peo try to break it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "You motherfucker!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(to Lynn, Connor) Go inside! Go inside!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Dennis!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Take Connor inside!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Okay! Lynn takes Connor, still staring, away. Motel people fina get the Evicted Man away from Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "You ruined my life!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m not messing with this guy, he’s crazy. I don’t know you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "You know me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t fucking know you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVICTED MAN",
+          "text": "I know you, Rick Carver Realty! I know you! I’‘ll see you every day. When you wake up. When you go to bed. When your fucking kid is playing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Connor’s new bike in the cramped room; Lynn and Connor si silently. Dennis stares out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "How'd he know your name? \f79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Because he knew your face too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t know, I work on foreclosed homes, maybe he saw me at his house or -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Rick Carver, Dennis? Is that who you’re working for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No. No, I don’t work for him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "You’re kicking people out of their homes? Like the people who live here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No! I don’t -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "That man just said -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "He's lying, ok. I’m not kicking anyone out of their home! That guy was crazy. You saw him. That asshole Carver, he just represents his home by chance. That’s it. She doesn’t buy it. Someone BANGS on the window startling them all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASSHOLE",
+          "text": "Dennis pulls the curtains shut; the room gets dark. Silen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "We can’t stay here. Connor can’t stay here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "We’re not going to. I’m not doing anything wrong, so stop giving me all this shit. \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Are you evicting people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "He said you were at his eviction!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I don’t know that fucking guy! I don’t know how he knows me, I work on foreclosed homes, mom! This guy got foreclosed on, maybe he saw me at his home, I don’t know! He opens the door to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Lock the door. And keep the curtains closed. He slams the door shut leaving Lynn and Connor alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "AERIAL VIEW OF: Walt Disney World, Sea World, The Magic Kingdom castle... then neighborhoods, homes and more home",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick points out landmarks to Khanna. It’s stuffy and swea They shout to hear one another. Dennis stares out the window, amazed at the amount of hom the size, the scope. His imagination runs wild. HOLD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Disney World, Sea World, Universal Studios. Downtown Orlando’s 10 miles at your 2 o’clock, and at your 4 o’clock you’1ll see the Bank of Santa Fe homes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KHANNA",
+          "text": "I never realized how close they were to shine-ola.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "About the Bank of Santa Fe deal - \f81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KHANNA",
+          "text": "- it hasn’t even been a week since we picked up 15 homes from Ortiz and all the appliances, ACs and water pumps are missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You’re kidding me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KHANNA",
+          "text": "That’s $150,000 hit. Hidden expenses kill returns, so Vesic’s not interested anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "This Bank of Santa Fe deal is like one giant ATM machine. What can I do to get Vesic back into those homes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KHANNA",
+          "text": "I just don’t think it’s possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "How about this: I’1l put appliances back in those 15 homes - free of charge - and you move The Bank of Santa Fe from Ortiz over to me. Khanna smiles. Rick is uncertain why...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KHANNA",
+          "text": "Tell you what. Put brand spanking new appliances, ACs and water pumps into any of the 100 homes that need them and you got yourself a deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Appliances, yes. ACs and water pumps, no. Rick is surprised Dennis spoke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KHANNA",
+          "text": "Ok. But the homes have to be unoccupied in 30 days. Put it in writing and you have a deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Empty-Mansion-Party. Dennis, Rick, Tamika, KARINA (20s), LINK, sexy young WOMEN and DISTINGUISHED TYPES mingle. MU \f82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "Rick and Dennis talk above the crowd near a chandelier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "For the Santa Fe deal I’1l give you 6% of my share. You'll end up with around $63,000 pre-tax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(grins) I guess I can accept that, - 63,000, you said? Shit yes! Tamika and Karina arrive with drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You used to dream about one home. Now it’s 100.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(raises glass) To dreams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAMIKA",
+          "text": "To dreams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Fuck dreams. To 100 homes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everyone dances. Karina grinds Dennis. Rick and Tamika mo romantic. Drunk, Dennis rubs his face - he’s losing control.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick dangles his feet in the water, smoking a cigar. Denn comes down the walkway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Uh-oh. The Zombie is coming to get me. Dennis slumps on the dock beside him, drunk. Thinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Has anyone ever come up to you, somewhere, after an eviction? \f83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Someone tried to run me off the road a year ago. I haven’t gone to dinner once with my wife and girls in the last three years without looking over my shoulder. It’s why I carry this, even now, 5am. He takes his gun out and shows it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Is it worth it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": ".--. As opposed to what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Did someone get to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Bullshit. Someone's calling you. Or they found you? Dennis says nothing. Rick sets his gun down between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "So. Nash. The sun is coming up and here we are. What do you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You wanted to kill me once. Now you’re going to make a lot of money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I did wanna kill you. I dunno. I dunno what I’m doing here, but I’m thankful. What can I do, you know, my dad... Well he killed himself pretty much. (holds up his drink, then pours it out) Sorry to waste your booze. He died of a heart attack, booze, food, whatever you wanna call it. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (CONT'D)",
+          "text": "Left me with my mom, my boy... My boy... As opposed to what?... Rick stares on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I need to move into my home. Now. I can’t wait anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "It's gotta be listed for sale on the MLS first. Few more weeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "No. I can’t stay in that motel any longer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Just pick another one. You got the money now, buy whatever you want. There's plenty of homes in the sea. Like I said, don’t get emotional about real estate, Nash! They’re boxes. You listening? Big boxes, small boxes. What matters is how Many you got. You’re gonna have more properties than women to fill ‘em with. You know that, right? Buy one for your mom, one of your kid and one for yourself. What do I care? Yes sir, 100 homes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "1000 fucking homes. Rick lies down and smokes his cigar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Watch out for the gators. They don’t sleep. Make sure I don’t roll into the water. Dennis thinks about the future... something on his mind. INT. DENNIS’ TRUCK [MOVING] - DAY Dennis drives the family in the packed truck, just like w they were first evicted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Why are we going this way? \f85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I want to show you something. Lynn stares out the window, uneasy. EXT. DENNIS’ NEW HOME - AFTERNOON The large beautiful home that Dennis saw earlier. He pull up; they get out. Lynn and Connor are confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Just trust me and follow me please. INT. DENNIS’ NEW HOME - CONTINUOUS Dennis opens the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "What is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Have a look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Come on! Just a quick tour. They are startled by the size and high-ceilings. He shows them around, a large master bedroom and two othe rooms - all furnished.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "It’s a cool pool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I'd say. You wanna dive in, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONNOR",
+          "text": "Who’s basketball hoop is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I think that used to belong to Shaquille O'Neal. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But he lowered it because he likes to dunk sitting down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Can we go now? Please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "You see the pool? Lynn shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I bought this for you. Connor and Lynn don’t get it. Dennis points to the pool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(to Connor) And you. That’s your pool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Let’s go home, this isn’t funny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I’m not joking, mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "That's not his basketball net. This is somebody else’s. And I want our house. I wanna go home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I sold that home. I sold it and flipped the money into this. This is ours, fresh start. I don’t want to go back to the house we were evicted from.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "(shocked) You sold our house?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "There is no more home. We couldn’t move in there for three weeks, and we had to move, didn’t we? So I got this. I had to get us out of that motel so Connor wouldn’t get killed, so I wouldn’t get killed -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Who gave you this home? How did you get it? By kicking people out of their homes? You buy this?! 86. \f87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I didn't kick anybody out of this home, I bought this home with money that I earned! So I could put a roof over your head and I could put food in his mouth! We were drowning, mom, we had to get out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "It stops here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I bought this fair and square. I didn’t take it from anyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "I’m gonna call Jimmy. We’re moving to Tampa. Come on Connor. She walks to the door with Connor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Wait. Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "And you're gonna figure this out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I did this for Connor. We were drowning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN",
+          "text": "Rick Carver? Rick Carver who bought our house for us? I’m not staying here. I’m not staying in this home. Dennis looks at Connor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What do you want? Connor goes to his mom. Dennis is devastated. I/E. DENNIS’ HOME - NIGHT Dennis turns on the swimming pool light while drinking a beer. He’s drunk. Turns on all the lights in the backyard Lynn prepares Connor a simple dinner. She glances at Denn turning on lights throughout the house. Connor looks up at his father through the windows. \f88. INT. DENNIS’ NEW HOME - MORNING He walks through his empty home. He goes to Lynn’s locked bedroom door and knocks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Connor?... Mom, is Connor okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LYNN, (0.S.)",
+          "text": "He’s sleeping. EXT. DENNIS’ NEW HOME - MORNING Dennis paces around the pool smoking. His phone RINGS. He looks at the home as he talks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Hi Rick... Right now? -... ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis enters and sees: Freeman's office in the distance. Behind the glass window are Rick, Freeman, Link, and Freeman’s Associate. Dennis sees a YOUNG LAWYER run from one end of the office with a paper in his hand. He enters Freeman's office and hands the paper to Freeman, who looks it over and nods. Freeman hands the paper to Rick, who walks out of the off and bee-lines to Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "One of the Santa Fe homeowners is blocking his eviction in court tomorrow. If he’s successful and others will follow and Vesic will pull out. He hands the paper to Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "This is a proof of publication; it wasn’t filed six months ago. Freeman's boys just back dated and notarized it. You need to be at the courthouse globe at 9:45 a.m. The Court Clerk will meet you there. Give it to him. \f89.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "This is forged?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "It's a stupid piece of paper someone forgot to file when the loan was being bought and sold a million times over. It’s just a technicality. Dennis looks at the paper and turns white as he reads:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "... Frank Greene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Yeah, the same deadbeat who was stealing my water and power. I told you he was no good. He CLAPS loudly and startles a distracted Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "HEY! That’s not your dick in your hand. That’s the Santa Fe deal, 100 homes, 1000 more with Freeman, our money, Miami, your home, everything. You awake or what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yeah. Yes. Ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Don’t “yeah, yes, ok” me. Courthouse globe. 9:45 am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The envelope in hand, a hesitant Dennis looks at the glob On the other side of the room, he spots Frank Greene spea with his attorney. He’s careful not to be seen. Dennis sees Frank hug his WIFE and kids. They’re optimist They're going to win. He stares at Frank’s Son, a lot like Connor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S SON",
+          "text": "(to the lawyer) Hello. He shakes hands with the lawyer. \f90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis rubs his face with water. BEEP BEEP. He reads texts from Rick: where the fuck are you? / call Dennis looks at his RINGING phone. It’s Rick calling. Den declines the call. The time on his phone reads: 9:52am. He dries his face and looks at himself in the mirror. RINGING. RINGING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Hel -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick tries not to shout -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "What the hell’s going on?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Nothing, I -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "Get your ass to the globe now, or consider your life over. How far are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "I’m here now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "I’m about to give it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "Dumb fuck! Call me as soon as it’s over. Hangs up. Dennis stands in the bathroom, envelope in hand \f91.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Court Clerk (from Dennis’ eviction) paces near the gl Dennis sees him. Instead of approaching, he turns and lea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COURT CLERK",
+          "text": "Hey!... Hey! Dennis sees the Clerk taking quick strides to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COURT CLERK",
+          "text": "Are you with Rick Carver? Dennis hesitates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COURT CLERK",
+          "text": "Are you with Rick Carver? Are you with Carver or not? Dennis doesn’t respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COURT CLERK",
+          "text": "Is that it? The Clerk grabs it from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COURT CLERK",
+          "text": "Idiot! He quickly leaves. Dennis stands alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dennis peers though the window of the double doors and se Frank Greene next to his Attorney adjacent to Freeman Law",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "As far as I can tell, the proof of publication is here. The Bailiff hands the paper to Frank’s Lawyer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FREEMAN LAWYER",
+          "text": "Your Honor, we already have a buyer in place and we'd like to get this property off the books.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S LAWYER",
+          "text": "If we check the file index, I’m sure this has not been docketed. \f92.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "That may be, but the proof is in the file and that’s all the statute requires. I’m ordering the sale to go forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Wait a second... what? Your Honor, this isn’t right. We know for a fact that file was not there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "BSB versus Ballard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I was there. I know there was no proof of publication. (to his lawyer) You, you know it wasn’t there. (to Judge) My... my wife and kids are here. Do you see them? My wife, my children? INT. DENNIS’ NEW HOME - DAY Dennis enters. He looks around. At the pool. Nobody is there. He goes upstairs. Getting more concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Connor? Moves to the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Mom? Connor? Connor?! Nobody is there. Dennis dials his phone. RINGING. RINGING. Voicemail. He breaks down. Lynn and Connor are gone. INT. DENNIS’ NEW HOME - NIGHT Dennis drunkenly plays with Connor's basketball, his phon next to the gun. He drinks from the whiskey bottle. \f93. INT. DENNIS’ NEW HOME - SUNRISE Sunlight hits Dennis, passed out and alone in the large, empty living room. RING. RING. He wakes up from a nightmare. Grabs his phone It's not his family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (INTO PHONE)",
+          "text": "Hi Rick -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INTERCUT BETWEEN Rick AND DENNIS Rick pulls up to Dennis’ home in his news BMW X6 SUV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "Morning Donald Trump. I’m outside your new mansion. Where are you? Frank Greene’s eviction. Let’s go. It hits Dennis like a punch in the gut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER, (INTO PHONE)",
+          "text": "Hello? Dumb ass. You there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick drives. Dennis sits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "There’s eight other homeowners that we're going to have to evict after Greene. We need to make aggressive cash-for-keys offers to them. We’1l pay out of pocket if we have to. But if they give me any flack - Freeman’s boys and the court clerk, baby. No big deal. Dennis looks out the passenger window, tormented.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A boiling-hot day. Sheriffs, Jeff and crew wait outside Greene’s home. NEIGHBORS across the street. Rick and Dennis arrive. They approach Sheriff #1 who’s speaking with FRANK’S NEIGHBOR. \f94. While they talk, Dennis stares at Frank’s home and sees F peering at them from behind his living room window curtai",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S NEIGHBOR",
+          "text": "--. She’s a worried wreck saying Frank hasn’t slept in days. That he’s up all night on the internet -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Excuse me, ma’am. - Bobby. Let’s get this show on the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Morning Rick. Possible trouble with the tenant - Mr. Greene. Seems he and his wife -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S NEIGHBOR",
+          "text": "Even last night we heard him yelling -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Ma’‘am. Thank you. We’re not marriage counselors. (to Sheriff) Let’s get cooking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Small problem; he may be armed. Dennis takes this in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Well go find out, Bobby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "I’11 call back up and check it out. Dennis squints his eyes in the bright sun and looks at Fr behind the curtain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Is his family in there with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIGHBOR FRIEND",
+          "text": "Oh, yes. She was at my door this morning crying before he called her back inside. The kids didn’t go to school either. They all stare at the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Alright, I’m going to check it out. \f95.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Thanks for the play by play. Hurry up. Sweat falls over Dennis’ eyes. He wipes it as he watches two Sheriffs walk towards Frank’s house. Then Dennis sees Frank raising something towards them. Dennis realizes what’s about to happen. It’s fast. And lo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SMASH, SMASH",
+          "text": "Frank Greene smashes the window and raises a Remington Woodmaster 742 semi-automatic 30.06 rifle out of his home Neighbors and Crew run for cover, SCREAMING. Frightened, Rick pulls Dennis behind his SUV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I don’t want to hurt anyone. Please get back. All of you. You’re trespassing. I don’t want to hurt anyone, but this is my home. Get off my property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "(to Dennis) Where’s your gun?! You don’t have it?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, put the weapon down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "You’re trespassing! Frank fires TWO SHOTS at the grass. Sheriffs run behind their cruisers and pull their guns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Shots fired, shots fired! Dennis punches the side of Rick’s SUV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Fuck, fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I am not going to leave here! Dennis hears Frank’s Wife and kids crying for him to stop \f96. I/E. FRANK GREENE’S HOME - CONTINUOUS Frank motions his wife and kids to get back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Go to the bedroom. Don’t stand there! Get in the bedroom, now! Sheriff #1 points his gun at Frank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, put the gun down! Frank points the weapon out the window again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "God damn it, stop it! Put that down, put it down, now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Not gonna happen, sir! Frank hides out of view again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, why don’t you send your wife and kids out? Dennis sees Frank staring out at what he’s done. Police car arrives. Two POLICEMEN jump out with guns, ask for update.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Sir, drop your weapon! Silence for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "The courts decided my fate in 60 seconds flat. Nobody checked the file index. Fact. No proof of publication filed. Fact. Nobody looked at my cancelled checks that prove payment to the bank. Fact. The judge was retired, not up for re-election and not beholden to the citizens of this county. A lifetime in 60 seconds and this is my home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK'S SON",
+          "text": "Dad! \f97. Frank turns to him and the gun goes off accidentally shoo a box of files. They SCREAM. Frank is horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Get in the bedroom! Dennis hears this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Fuck! No, no! He looks at Rick, inches from him. They’ve never been thi close. Rick breaths hard, sweats; he’s scared. Rick notices a shift in Dennis and squints his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "--- No. Dennis rips his arm free, gets up from behind the SUV and walks to the lawn. Rick tries to stop him, but is frightened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Dennis!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF",
+          "text": "Get back! Do not approach the house!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Do something! What the hell are you waiting for?! Dennis ignores Rick and the Sheriffs’ PLEAS and walks tow Frank’s home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Stop! Get off my property. Please get back or I’m going to shoot. I will shoot you. Frank points the rifle and Dennis stops walking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I’m not going to leave my home. Get off my lawn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "This is your home, this is your property Frank, I know! Please put that down. \f98.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "The banks made more money last year than anytime in the history of human civilization. Fact. Fact. Sounds of sirens. Dennis glances behind and sees police cars, fire trucks a ambulances arrive. DETECTIVES and COPS in bullet proof vests spill out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I have the right to shoot anyone who steps foot on my property. You are trespassing. Get off or I will shoot. I don’t want to do this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Frank please put it down and let your family out, please!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "Look up there. Look. Look up there. Do you see that? Look! Dennis looks up. The sun glares in his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "That is the sun and it is shining. You can’t tell me it’s night when I know it’s day. Even if God came down here and said it was night, I know it’s day. I know what I know, and nobody can tell me the sun isn’t shining. Nobody. Dennis and Frank’s eyes are locked. And Dennis’ mouth ope",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I cheated you. I put a forged document in your file the morning of your case. Frank takes this in. He is not surprised. Detectives, sheriffs, cops, neighbors all hear Dennis’ wo Rick stares with wonder and fear at Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "This is your home. Frank and Dennis stare at each other. \f99. Rick and everyone waits with wonder. Frank lowers his rifle. Then tosses it out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANK GREENE",
+          "text": "I’m coming out. He opens the door and steps out of the home with his hand high.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLICE",
+          "text": "Get on your knees. Now. Hands behind your head. Lie down. Dennis watches Frank get on his knees, then lie down. Police advance, guns pointed, knee to his back, handcuff Dennis sees Police escort Frank's frightened family out o the home to safety. Two Detectives approach Dennis and talk with him. He points at Rick. Rick watches the Detectives escort Dennis towards him. Rick smiles and taps Dennis on the shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "You did a hell of a thing, son. A hell of a thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DETECTIVE",
+          "text": "Excuse me, sir. Are you the bank’s realtor?... Sir? Dennis and Rick stare at each other. HOLD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "(to Dennis) Thank you. Dennis stares at Rick’s steely eyes. Did he mean it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DETECTIVE",
+          "text": "Sir? Are you Rick Carver?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK CARVER",
+          "text": "Yes, I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DETECTIVE",
+          "text": "We need to speak with you. \f100. Dennis and Rick look at each other for one last moment be the Police take Dennis away. Rick puts on his sunglasses. I/E. DETECTIVE’S CAR / FRANK GREENE’S HOME - CONTINUOUS The Detective seats Dennis in the car and is called away. Dennis is alone. He looks out the back window and sees Rick trying to grab Sheriff #2 by the shoulder to talk, but the Sheriff brush him off and Alone, Rick Dennis sees phone. They Dennis then Frank’s son future. quickly walks away. gets on his phone, calling someone, pacing. the Detectives approaches Rick who gets off the begin questioning him. sees Franks’s son outside the car. looks at him, smiles, and runs away to a better",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_045"
+    }
+  ]
+}

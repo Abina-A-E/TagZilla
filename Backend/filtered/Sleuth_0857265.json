@@ -1,0 +1,5142 @@
+{
+  "movie_id": "MOV1677",
+  "scenes": [
+    {
+      "location": "ANDREW'S HOUSE STUDY DUSK 2",
+      "time": "DAWN, (SCENE PLAYING ON TV)",
+      "characters": [
+        "31.",
+        "BLACK",
+        "MAN",
+        "MILO",
+        "OK.",
+        "VOICE 0/S",
+        "INT, ANDREW'S HOUSE",
+        "BLACK, (CONT'D)",
+        "SECURITY CAMERA",
+        "MONITOR",
+        "ANDREW, (CONT'D)",
+        "ANDREW",
+        "PRISONER",
+        "64,",
+        "MILO -",
+        "MILO, (CONT'D)",
+        "SECURITY MONITOR",
+        "INSPECTOR"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A TV screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Full ashtrays, glasses, empty bottles etc. We see a MAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Are you there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Citroen. INT, ANDREW'S HOUSE” - STUDY - DUSK 5 A photograph. MAGGIE and ANDREW high up in the Lake District, laughing. A shadow, or reflection on the glass obscures MAGGIE's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "I know you're there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE 0/S",
+          "text": "(through loudspeaker) I'm here alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO pouring wine into MAGGIE's glass. She raises the glass to her lips, looking at him, and sips the wine. Here, as throughout, we shoot over her shoulder, or in such a way as to conceal her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW watching the TV. \f10 a1 12 13 14 15 16",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A photograph of MAGGIE and ANDREW in a swimming pool looking up at the Camera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Citroen driving through a village street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE 0/S",
+          "text": "What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "I want to talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MAGGIE is in bed asleep. MILO leans over her, her eyes open, she smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Citroen at the gates of a drive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A CCTV monitor on the wall (or on Andrew's laptop computer), shows the Citroen turning into the drive. ANDREW stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "The Citroen turns into the drive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lights go out in the Nightclub. One spotlight is left on the dance floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE 0/S",
+          "text": "Walk onto the dance floor and stand in the light. \f17 18 19 20 2i 22 23 24 The MAN does so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW turns off the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Citroen's point of view. The house is Georgian, tall and elegant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the CCTV monitor, or laptop computer, we see the Citroen driving slowly towards the house. 17 18 19",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "The Citroen driving” slowly towards the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO and MAGGIE kissing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW watches the CCTV/laptop image.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY MONITOR",
+          "text": "The Citroen parks in front of the house. A silver Mercedes 600 stands there. The Citroen parks by it. A Man gets out of the car and walks towards the door. Doorbell. 21 22 23",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "Action as above.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO's back. ANDREW opens the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Andrew Wyke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm Milo Tindle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. Good. Glad to meet you. He offers his hand.,MILO takes it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "You got the train to Charlebury, did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I drove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh, you drove?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's my car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What, the little one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Not the big one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No. The big one's mine. What do you think of it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Very handsome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It is, isn't it? Come in. \f26 27",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They come in. ANDREW closes the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Didn't hear you arrive. I was watching the video of one of my books on television. MILO stops and stares. INT, ANDREW'S HOUSE - DUSK: MILO'S Pov. 27 The interior design of the house is in total contrast to the classic Georgian facade. It is sharply contemporary: polished wooden floors, no carpets, chrome surfaces, steel and iron verticals, an elevator in a glass case, a curved staircase. A skylight, high up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Like the house?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Extraordinary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You know who designed it? You know who the interior decorator was?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. Your wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You knew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. I knew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'll show you around later. You good in elevators?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Like not safe in taxis. Sorry. (he laughs) Only joking. Have a drink. I'm drinking vodka.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Scotch, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Milo. What an interesting name. You're a foreigner, I take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "My father is Italian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Milo sounds Hungarian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Does it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Here's your scotch. Cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Cheers. « ANDREW You're sure your father isn't Hungarian?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well, if he is he's kept it a dead secret for years. MILO sits and drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "And your mother?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "English.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "So you're a kind of half breed? Sit down .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Thanks for agreeing to see me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Not at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I didn't know you wrote plays for television?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I don't. I write crime novels. You must know that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I had heard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But sometimes they're adapted for television by other people. You know what the word adapted means, I take it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Adapted?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. They may not have such a word in Italian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I speak English.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh good. Come and have a look at my special bookcase. ANDREW presses a button on his remote control. A wall moves and turns, revealing a bookcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "These are all my novels. You've read them, I suppose? MILO. Afraid not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No? Good God. What about this one? ‘Rat in a Trap'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'The Obelisk'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "‘Dead Fish'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "\"Blackout '?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Afraid not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're one in a million.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Am I? .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Absolutely. I'm very popular. See this shelf. Translations. German, French, Dutch --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You speak Dutch yourself, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. How did you know? I have a Dutch uncle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Can't see any Italian translations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No. They're a funny lot, the Italians. Culture isn't really their thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Their salami is good, though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Italian salami. Best in the world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you bring any with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No. I left it at home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Shame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "We're going to have it for supper tonight, with a couple of bottles of Valpolicella.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "We?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Maggie and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Ah. Your glass is empty. What are you drinking. Vodka?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Scotch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW pours two drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I want to come to the point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Point? What point?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Are you going to give Maggie a divorce? And if not why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes, yes, we'll come to that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She thinks you're being unreasonable. So do I. She's never coming back to you, so why not give her the divorce? \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I think it’'1l do her good to wait five years. Good for her character.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You're going to make her wait five years?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's the law. The law of the land.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "But that's pure spite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Anyway, we'll come back to it. Perhaps. Have your drink first. ANDREW gives MILO his drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "What do you do, by the way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm an actor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Good God, are you really? I thought Maggie said you were a hairdresser.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She must have been talking about someone else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You mean another friend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Another friend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She tends to have more than one friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Does she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm her only friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She must be lonely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She's not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Acting is a pretty precarious profession isn't it? What are you acting in at the moment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm out of work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Poor chap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I drive cars now and again. Chauffeuring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Tough life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I keep my head above water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What kind of parts do you play?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Killers mostly. Sex maniacs. Perverts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you seem so charming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. I know. Anyway, what about this divorce? What's your position exactly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "All in good time. I want to check something out first. ANDREW presses a button on his remote control. A wall moves and discloses another room. \f31",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW walks into the room, this sequence, we are aware of the exterior light finally fading to Night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "How do you like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "My study. This is where I write my best selling books. MILO looks around the room. MILO sits. » MILO Cosy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Take a seat. Make yourself comfortable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "I understand you're fucking my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Right. Yes. Right. So we've cleared that up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "We have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I thought you might have denied it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why would I deny it? followed by MILO. During \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Well, she is my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, but she's fucking me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh, she's fucking you too? Well I'll be buggered--sorry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, it's mutual.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You take turns, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "We fuck each other. That's what people do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes, yes, all right. I follow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "We're in love.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "In what? Oh, love. So you're in love?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Let me know top you up. He pours more whisky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "I heard a rumour that you want to marry her. That can't be right, can it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "In this day and age? Is marriage absolutely necessary? Isn't it a bit old hat? \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's a mugs game. I wouldn't go near it if I were you. Anyway you can't marry her. You can't marry her because she's married to me. Unless I divorce her, of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "And are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Am I what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Going to divorce her. Or are you really going to make her wait five years? She wants to know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "To be honest, I can't wait to get rid of her. But I do need to get one or two things straight first. For example, I've never heard of an Italian called Tindle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "My father's name is Tindolini.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Now that's lovely. Like a little bell. I'd go back to Tindolini if I were you. It suits you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You think so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "So that if and when you marry Maggie she'd be called Maggie Tindolini. She'd get a real kick out of that. Do you act under the name of Tindle or Tindolini?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Tindle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Why have I never heard of you? \f32 33 34 15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You will. Before long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "In spades.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That sounds threatening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Does it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Doesn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why don't we get down to brass tacks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes. Brass tacks, brass tacks, yes, why not? This is the way I see it. Come upstairs, I want to show you something. Would you like to try the elevator? It won't make you sick or anything, will it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They walk to the elevator and get in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They stand in silence as the elevator goes up to the top floor. It stops. They get out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "This is our bedroom. ANDREW uses his remote control. A wall moves, revealing the dressing room. \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "And this is her dressing room. He opens a wardrobe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "She's left a few dresses here. Can't even be bothered to pick them up. Worth thousands, thousands. That leather coat alone cost two thousand quid. No, you see, the thing is this--sit down--you see, the thing is this--my wife spends money like water. If you're not careful she'll eat you out of house and home. She was born to luxury. Jamaica, the Ritz, the Swiss Alps. I mean, what are you? You're an out of work actor, a part time chauffeur. You're out of your depth, old boy. You're on a hiding to nothing. You think you're broke now but you'll be ten times broker by the time she's finished with you. She'll have your guts for garters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She's in love with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Never trust in love, chum. Love'1i kick you up the arse as soon as look at you. Take it from me. First it's love, ten minutes later it's contempt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's your own experience, is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Certainly not. Observation. Don't forget I'm a novelist. I observe other people. He goes to the window and looks out. MILO watches him-- silence. \f17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "What I'm getting at is this. You won't be able to give her what she wants so she'll leave you and come back to me. But I don't want her near me. She's the last thing I want. I've had her up to here. Anyway, I've got a lovely mistress. She runs a Sauna in Swindon. She's my girl. So you see, I want Maggie to stay with you. I want you two to stay together forever, but unless you listen to me the whole thing will be a fucking disaster with catastrophic consequences all round. But I have a solution.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You won't believe what I'm going to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What are you going to say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm all ears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You know what? I'm beginning to respond to your charm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Get away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm really touched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You should be. Tell me something else. I bet you didn't expect me to be so intelligent, so quick witted. Did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh, I did, quite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Maggie told you, did she? \f35 36 37",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What's your solution?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Vodka. He goes to the door. MILO stands, follows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The elevator goes down. ANDREW smiles at MILO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's a close fit, isn't it, for two?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The elevator stops. They get out. INT. ANDREW'S HOUSE’ - BAR AREA - NIGHT ANDREW pours drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Listen. I'm going to make you a proposition. A few years ago I gave her some jewels. Amazingly expensive. Well, I didn't give them to her. I own them. They're insured in my name. But I let her wear them- -on special occasions. They're worth half a million pounds. They spend half their time in the bank or in my safe. At the moment they're in the safe in this house. I want you to steal them. Silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Steal them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What the hell do you mean? rg. 35 36 37 \f19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I mean I want you to steal the jewels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You want me to steal the jewels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I don't get it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's very simple. Steal them. Sell them abroad. Live happily ever after with Maggie. I'll claim the insurance money--they'1ll have to pay up. I'll have got rid of my wife and I'll be as happy as a pig in shit and you can keep Maggie in the manner to which she has become accustometi. Sounds like a fair bargain to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You want me to take part ina scummy little plot to defraud your insurance company? Is that it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Scummy? I think it's quite elegant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What do you think I am? I mean, what the fuck are you actually talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Real facts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "This is a joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No it isn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's also a trap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "A trap? \f20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, it's some kind of trap. You think I'm a fool?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Well, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Anyway, it doesn't hold up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You say they're worth half a million pounds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Correct.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well, you'd only get a fraction of that--fram any fence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I've already contacted a friend of mine in Amsterdam. He'll give you £400,000 tax free. Think of it. £400,000 tax free.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why would he do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Because when you steal the jewels you also steal the receipts. So he'll have the title to the jewels as well as the jewels themselves. So when he sells them he'll get the full value. Get it? Think about it. Take your time. Pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "And why would you do all this? \f21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Listen. Under my crooked exterior I'm a simple honest man. What I've said to you is true. I swear it. I want to get rid of my wife. But I want it to be solid--permanent. I don't want her on my back. I want her to stay on your back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "This is a frame up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Frame up? How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You want to destroy me. You want to see me in jail. You get me to do this and then shop me to the police.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No, no. Tf I shop you you'll shop me. So we'd both end up in jail. No, listen. I take a strictly moral position in all this. My wife is an adulteress. She should actually be stoned to death. But anyway, it's up to you. Make up your own mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Are you asking me to trust you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I don't give a fuck if you trust me or not. This is a very simple proposition. You have an expensive woman and no money. If you want to keep her--steal the jewels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why don't you steal the jewels and give them to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Don't be silly. The burglary has to look real. The house has to be broken in to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well, why don't you break into it? \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "For Christ's sake. I'm in it. How can I break into it? I live here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO walks to the window. He looks out. ANDREW watches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "(slowly) Ok. If I were to agree to do this, would you agree to the divorce?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Why would I agree to the divorce if you're both walking away with £400,000?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She wants a legal settlement. She wants pazt of your estate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Greedy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's legal justice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Never trust legal justice. You know what legal justice is? It's farting Annie Laurie down a key hole. Listen. £400,000 tax free. All yours. Cash. Why don't you stop pissing about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "But--wait a minute--you get £500,000--from the insurance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sure I do. All right. I'll be frank. I need it. Cash flow. Stocks and shares going down the drain. Get me? It's quid pro quo. You do me a favour--I do you a favour. And you keep the woman. MILO sips his drink. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "OK. Let's make a deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What deal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I break in, I steal the jewels and you agree to the divorce. That's the deal. Otherwise fuck it. That's another quid pro quo. But you have to shake on it. ANDREW stares at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "(slowly) All right. I shake on it. Here's my hand. They shake hands. Silence. -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "OK. OK. So what do I do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You break in. See that skylight? It's the only window in the house the burglar alarm doesn't touch. You get in there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's pretty high up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You climb a ladder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm not very good at heights.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You can do it. Honestly. I know you can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I think you're putting me on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh, come on. Behave like a man. A man of action. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "You don't have to be a hairdresser for the rest of your life. You can be free, independent, and look after the woman you love. He goes to a cupboard and takes out two pairs of earphones with microphone attachments.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Put these on. I use them to give my gardener his instructions. MILO looks at the earphones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Put them on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Put them on. You put yours on and I'il put mine on. Like this. They both put on the earphones. » ANDREW (CONT'D) That's it. Actually they suit you. Now what you do is this. You go outside. There's a shed across the lawn. In that shed is a ladder. You put the ladder up against the house and climb up it. I'll direct you-- through the earphones. You with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. But I'm anxious and frightened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Trust me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "But I don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Trust me. All will be well. Just follow my advice. It's got to look real. It's got to convince the imsurance people and the police. See what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Maggie never told me you were such...a manipulator. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "She told me you were no good in bed but she never told me you were such a manipulator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She told you I was no good in bed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She was joking. I'm wonderful in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I must tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They walk back into ANDREW's study. There is a bank of TV screens on a wall/series of picture boxes on the laptop. ANDREW presses a button and images of the interior and exterier of the house come up on all the screens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "There's the shed. Just across the lawn. Go into the shed and get the ladder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Get the ladder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Get the ladder. By the ladder there's a pair of gardening gloves. Put them on. Also by the ladder there's a hammer. Carry the hammer up the ladder. Break the window with the hammer. Then you reach in and lift the latch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO walks back out into the main room, by the back windows and looks at the skylight directly above.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Wait a minute. You've forgotten a major item. \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Once I'm in, how do I get down? How do I get down to floor level?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh, didn't I tell you? So sorry. He point high up the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "You see that metal rung up there. That's an electric ladder. When you come through the window, stand on the ledge. I'll press a button and the ladder will descend. You get on it and climb down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Let me see it descend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Let me see it come down. Now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sure. ANDREW presses the button. The ladder begins to extend and comes down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "You see? Easy as pissing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "I have a funny feeling that I'ma cunt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Of course you're a cunt. But so what? You'll end up a wealthy man. Obey the rules. Just obey the rules.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Whose rules? \f42 43 44 45 46 47 48 27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "My rules. Get the ladder. They stare at each other. MILO leaves the room. ANDREW pours himself a drink and lights a cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the screen MILO approaches the shed and goes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO inside the shed. He looks at the ladder and down at the hammer. He finds the gloves and puts them on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW is smoking. On a screen MILO comes out of the shed with the ladder and the hammer. ANDREW speaks into his mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Can you see the skylight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Place the ladder against the wall. \f4g 50 51 52 53 54 55 28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On another screen MILO can be seen placing the ladder against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Extend the ladder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK.",
+          "text": "He extends the ladder. On the screen the ladder can be seen reaching the skylight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The internal electric ladder goes up the wall and disappears into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW is watching the screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Climb up the ladder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why am I doing this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Climb up the ladder. \f56 57 58 59 60 61 29. On the screen MILO can be seen climbing up the ladder. He slips, regains his balance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Watch your step.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Jesus. Jesus Christ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Keep calm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm going to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Never! But don't stop! Don't look down! Keep going. He watches MILO very tentatively climbing up the ladder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Now. OK. You're at the window. Smash it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO smashes the window with the hammer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW walks into the main room and looks up at the skylight. MILO is halfway through the window. He looks down. He is caught between jagged glass. He chips it off with the hammer. It falls into the room. He very carefully climbs in and finally manages to stand on the ledge. \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Fantastic!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Where's the ladder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What ladder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "The ladder! Where's it gone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're right. Where has it gone? It's got a mind of its own, that ladder. Wait a minute. ANDREW presses a button. Nothing happens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Oh dear. It's not working. This fuse has always been a bit dodgy. He presses the button again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "No, it's not working.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's not working?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "There seems to be--what's the word-- a problem. But don't worry. I'll call the electrician in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "In the morning? What about now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No, no. He's in bed. You know country people. Early to bed, early to rise. He's a very nice chap though. His name is Norman. Charming wife. She's called Debbie. Three delightful kids. Oh God, I've suddenly remembered--he's on vacation. He's taken the family to Bermuda.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "wall feet",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "When",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "So I'm stuck up here for the rest of my life?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Have patience. Fatience. Stoicism. That's what's called for. Works wonders. Oh, wait a minute. I've just remembered. There's an emergency button up there--on the wall. See it? looks at the wall and finds the button.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "That's it. Silly of me. Forgot all about it. Anyway, press it and all will be well. presses the button. The ladder comes out of the and descends but the foot of the ladder stops six from the floor. steps on to the ladder and carefully climbs down. he gets to the bottom rung he looks down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Is this as far as it will go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Jump ! jumps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "(holding his leg) Christ!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Wonderful!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I've broken my leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Don't be silly. Listen. You were wonderful. Maggie would be proud of you. I'm lost in admiration. remains on the floor massaging his leg. \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I've just had a heart attack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Let me give you a hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I don't need it. He throws ANDREW off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You've got guts. I'm really impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I thought I was going to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You will. Don't worry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You were playing with me. You're a sadist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No, no. It was just a little game. That's all. I thought it might amuse you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You did, eh? OK. So what the fuck do I do now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You open the safe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Where is it? How do I open it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Wait a minute. You don't know where it is. You have to find it. You have to look for it. Where is it? Start in the bedroom. They walk to the elevator and get in. \f62 63 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "How're you feeling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "OK. All right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Excited?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Quite, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're a cool customer. I like that. The elevator arrives in the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "OK. Open drawers. Open the wardrobe. Throw things about. Go on. You're looking for the safe. You know it's here somewhere. Play it for real. MILO pushes dresses aside and peers into the wardrobe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Kick the place to death. You're a desperate man. MILO looks around the room. There are a number of small paintings on the walls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Safe's are always kept behind paintings, aren't they? He lifts a painting from the wall. There is no safe. He throws the painting at the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's my Picasso! What are you doing? \f64 34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm a desperate man. Isn't that what you said? ANDREW picks up the Picasso and strokes it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "My poor Picasso. The man's a barbarian. MILO looks at the painting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's no Picasso. It's a fake. MILO walks towards another painting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's my Matisse! MILO looks at the painting. » MILO Bollocks! He lifts the painting from the wall. There is no safe. He throws the painting against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Where is this fucking safe?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Open that sideboard. MILO goes to the sideboard",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's locked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Kick it to death. MILO kicks the sideboard, winces with pain. The sideboard remains locked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "This is where I hear you. \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You hear me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. Yes. I'm asleep in my study. That's where I sleep these days. Can't sleep in the bed without my wife, you see. So I hear you. I come into the bedroom. I find you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "And then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I attack you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Like this. ANDREW hits him in the stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "And like this. He hits him again in the stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Christ! ANDREW throws another punch. MILO sidesteps and hits ANDREW in the stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Jesus, that hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "So sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "All right. Take out your knife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I don't have a knife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I do. He opens the desk drawer and takes out a knife. \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Look. You threaten me with this knife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You're threatening me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No no. I am you. I'm playing you. This is what you do. You want to know where the safe is and what the combination is so you terrorize me with this knife. He pokes MILO with the knife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Take it easy. He pokes MILO again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You can see I'm ruthless. I mean, I'm obviously unpredictable. I'm probably a killer. I'm certainly very dangerous. But you're obstinate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Me, or you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No, you're me, I'm you. Get it? That jewellery is worth a lot of money. You won't give in. So I take out my gun--I'm still you, by the way. He takes a gun from the desk drawer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "And just to make it clear that I mean business I show you I know how to use the gun. He shoots at the photograph hanging on the wall of Maggie and himself in the swimming pool. It smashes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Bulls eye. \f37. He shoots at the other photograph hanging on the wall of Maggie and himself in the Lake District. It smashes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Bulls eye. So finally you give in. You're terrified. You show me where the safe is. He leads MILO to a fish tank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "It's behind that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He presses a button. The fish tank descends into the floor. A safe is revealed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "There you are. Magic. So you're so frightened you tell me the combination. 1911 9 4. Go on, open it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Wait a minute. Am I me now? Or am I you? Or are you still me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No, you're now you. I'm now me. Open the safe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "(muttering) 191194.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's our wedding day. 19th November, 1994. MILO dials the combination, opens the safe and takes out the box containing the jewellery. He opens it. Antique jewellery, diamonds, rubies etc.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Jesus!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What do you think? \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "They're quite...beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Put them in your pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "£400,000 eh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's what I said. MILO puts the jewels in his pocket. He looks at ANDREW. ANDREW is still holding the gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "OK. So far so good. Well, you'd better give me the address of that fence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What fence?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "The fence in Amsterdam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. That fence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Listen. Do you mind putting that gun down?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's pointing directly at me. I'm not very happy about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Look. Is this a game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "This is the real game. The real game has just begun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What's the real game? \f39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You and me. You defenceless, me with a gun. This is the end of the jewellery story, you see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I enjoyed it though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm not enjoying this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I don't blame you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What's it all about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Come on. Buck your ideas up. Did you really think I would let you have my wife and the jewels? You're joking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You've been leading me up the garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Right up. Stand in the centre of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO does so. ANDREW turns the lights out, leaving one spotlight on MILO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Listen, wait a minute. Before we go any further--there's something I must tell you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Maggie respects you. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. She often says you're a man of true integrity. That you're a really decent guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She's right. I am a really decent guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I believe it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes, she's quite right, I ama really decent guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I know you are. I know you are. And that's what she says. She admires your mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She admires my mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. Your mind excites her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sexually?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh very. Your mind excites your wife sexually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What about my bedy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Sorry? What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "My body. What akout my body?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What about my body? What does she say about my body? \f41.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Do you know, I don't think she's ever mentioned it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're a prick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "My prick? Where does my prick come into it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I can guess where your prick comes into it. But I wasn't talking about your prick. I just called you a prick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you know what you are now though? *",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're a dead duck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. You see this is how the story goes. To the police. I found you in my house. You threatened me with a gun. You opened the safe, found the jewels, put them in your pocket. But I managed to grab the gun as you were looking at the jewels. There was a struggle. The gun went off. I suddenly realised you were dead. That I had shot you. I suddenly realised you were dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You're going to shoot me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What do you think? \f67 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I planned all this, you see, from the word go. I've always longed to have an intimate chat with a hairdresser, particularly a hairdresser who is fucking my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm not a hairdresser.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes you are. So I thought a little fun would be good for my health. A little game. You see, what you forget is that my wife is mine. She belongs to me. I'm her husband. So what you did was this. You invited yourself here to attend your own death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "(shivering) Don't do it. Listen. Don't do it. Don't shoot. Please. Don't shoot me. Please. I'll just go away-- quietly. I'll just get into my car and go. That's all. You'll never see me again. Ok? Don't shoot. Don't use that gun. Please. You're crazy. No--you're not crazy. You've just got things wrong. Totally. I don't want your wife. I hate women. You understand? I hate women. I hate your wife. You've absolutely no reason to be jealous. Women are not my scene. I'd rather do it with a dog, or a goat, or a boy I knew at school. His name was Dooley. I called him Dolores. I hate women. Honestly. God's honour. Do you believe in God? ANDREW shoots him. MILO falls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Close up on MILO's face. ANDREW goes over to MILO and looks down at his body. \f68 69 70 71 72 73 74 75 43. He takes the jewels from his pocket. He puts the jewels into the safe and closes the safe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He goes into his study.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "Moonlight on the monitors/laptop",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "Moonlight in the grounds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW opens his fridge, takes out a bottle of champagne and a tin of caviar. He opens the champagne, spreads the caviar on a biscuit, sits, and eats. He looks at a screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY CAMERA",
+          "text": "MILO lying prone in the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO is lying on a bed. It appears to be a death bed. MILO's eyes are closed. The room is full of flowers. Maggie bends over him and kisses him on the lips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A BMW driving between an avenue of trees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Tv. \f76 77 78 79 80 81 44.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INSPECTOR",
+          "text": "Shut up",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRISONER",
+          "text": "I was only--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INSPECTOR",
+          "text": "Shut up! I'm asking the questions not you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The BMW driving through the street. It stops at roadworks. A red light. An arm comes through the open window and taps the side of the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INSPECTOR",
+          "text": "How long have you known him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRISONER",
+          "text": "I don't know him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INSPECTOR",
+          "text": "You don't know him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRISONER",
+          "text": "Never met him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The security monitors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "BMW coming up the drive. \f82 83 84 85 45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW sees the car. He stands and turns the television off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The BMW parking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW looking at the BMW parking on the security monitor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The back of a Man at the door. He rings the bell. The door opens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Andrew Wyke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. The Man takes out a card and shows it to ANDREW.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Detective Inspector Black. New Scotland Yard. Eddie Black. I'd like a word with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "A word?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's right. Black is a thick set man. Dark hair, thin moustache.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What about? \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Can I come in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes, of course. Of course. They go in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Like a drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Got any beer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Beer, beer. Yes, sure. He goes to the fridge, takes out a beer and pours. BLACK sits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You're the writer. You write crime books.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I've read a couple. Right on the button. ANDREW gives BLACK a beer and pours himself a vodka.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's a great compliment. Cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Cheers. How do you know so much about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Villainy. Crime. Horror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Imagination. Imagination. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Clever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I do my best.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BLACK looks up at the skylight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I see you've got a broken window up there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Tropical storm--the other night. Bit of a hurricane. Terrifying. A great branch blew off from one of the big trees out there. It flew through the air and went right through my skylight. As you see. Act of Gad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Had it in for you, did he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. He's always been a vicious bastard. Shall I tell you what God's trouble is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "He has no father. No family roots. Rootless. Nowhere to hang his hat. Poor bugger. I pity him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's a very interesting philosophical speculation. \f48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'm so glad you think so. Hey, I've suddenly realised something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're a well known detective. I've seen your picture in the paper. You're very popular in the media.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Do you want to know my opinion of the media?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Journalists are a bunch of prickteasing cocksuckers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sorry--isn't that a contradiction in terms?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Anyway, you're quite celebrated, isn't that right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What for? I've forgotten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I catch sex criminals, perverts, homicidal maniacs. \f49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What do you do with them once you've caught them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I generally cut their balls off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I see. So how can I help you? He leads BLACK into his study.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The light falls during the course of this scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Yes, I think you can help me. I think you can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "How? ~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I'm looking into a disappearance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Disappearance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Man called Tindle. Milo Tindle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sorry. I didn't get the name. What was it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Tindle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Tindle, Tindle. Uh huh. What about him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Do you know him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Know him? Absolutely not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You mean you've never met him? \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Never. Never heard of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's funny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Well, he was staying at the Red Lion in the village. He mentioned to the landlord that he was coming to see you, three nights ago. He hasn't been seen since. His bag is still in his room, shaving kit, all that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Coming to see me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "He mentioned it to the landlord? Why would he mention such a thing to the landlord?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Well, you're a famous writer. You're well known in the district. So how can you help me on this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No one came to see me. I've no idea who this man is. I know nobody called Tindle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You don't eh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "What are you, a joker?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What do you mean? \f51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I'm mean you're pretty quick on your feet. You should have been a ballet dancer. I can just see you doing pirouettes. Ever worn a pair of tights?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Not me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "They'd suit you. He looks around. Walks back into the main hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "Nice house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Thanks. «",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Design it yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's 18th century.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "No no. I meant this. The inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That was my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Oh your wife. Is she here, by the way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Popped up to London?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She's not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "She's an interior decorator then? \f90",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Something like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "It's a great gift, isn't it? You're a lucky man. BLACK takes out a cigarette and lights it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "Got an ashtray? ANDREW gives him a plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "I'm ready for another beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. Yes. ANDREW gets the beer and gives it to BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "A man was passing your house three nights ago. He says he heard shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Passing my house? How could he do that? This is private property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "He was taking a short cut. You know what it's like in the country. I think he's a poacher. Anyway, he says he heard shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What kind of shots?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Gun shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Fantasy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Really? \fPause. 53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Codswallop. Bullshit. Who is this man? Are you sure he exists?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Oh, he exists all right. Oh by the way, cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I want to ask you another question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Ask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You do know your wife is living in London with another man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's my business. My private life is my private business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Do you know the name of this man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Why should I answer these questions?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Well you don't have to. But you'd be better off if you did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I don't know the man's name. I've never asked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So you admit that your wife is living in London with another man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. Yes. So what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Well I can tell you the man's name. It's Tindle. Milo Tindle. \f54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Yes. The bloke who's disappeared. The bloke who said he was coming to see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "We found this note in his room in the pub. He reads the note aloud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "\"I look forward to meeting you. Come to the house Friday evening. Six thirty. Wyke.\" He gives ANDREW the. note.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "Is this your handwriting? ANDREW looks at the note.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Do you remember writing this note?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "How could I forcet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You forgot earlier. You said you didn't know him. You said you'd never heard of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I was lying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Lying to the police. That'll get you nowhere. I don't understand you, mate. Honest. You're a clever man. You write clever books. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But you've made a right balls up of this one, haven't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Have I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Tindle came to see you three nights ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I knew him as Tindolini.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Oh yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "He had an Italian father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Get away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. They're a traditional Italian hairdressing family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Is he a hairdresser himself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I think he is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "He didn't come all the way down here to do your hair, did he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh not at all, not at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So what did you two do when you got together?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "We played a game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "A game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "A game with a knife and gun. \f56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "A lethal game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "No no. Just a bit of fun, that's all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "OK. A bit of fun. He comes to see you, you play games with a knife and gun. Three shots are fired and then he disappears. So where is he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Probably cuddling my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That's the one thing he's not doing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "How do you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I've seen her. He was nowhere in sight. She's an anxious woman. She knew he was coming to see you, you see. In fact she insisted that he came to see you, as I know you know. She thinks you may have killed him. She thinks you're round the bend. She thinks you're a very dangerous man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Me? She's joking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So tell me, between ourselves, did you kill him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'll tell you exactly what I did. I pretended to kill him. I shot him with a blank. I frightened the shit out of him. Your man was right. Your spy--or whatever he was. There were three shots. The first two were real, the third a blank. He was terrified. When I shot him he fainted. When he woke up I gave him a drink and a pat on the bum. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "He left the house, his tail--if you want to call it that--between his legs. I haven't seen him since.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You gave him a pat on the bum?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Metaphorically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You gave him a metaphorical pat on the bum?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "How did he take it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The pat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh he's a good sport. He told me it was game set and match to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So this guy had a sense of humour? Is that what you're saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. Oh yes, he left this house with a twinkle in his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So, tell me--whaz was the point of all of this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Humiliation. It's nice to see your wife's lover a shivering, frightened, fucking wreck in front of you. But as a matter of fact I quite liked him. I found him attractive. I thought we might become good friends. The shortest way to a man's heart is, as I'm sure you know, humiliation. It binds you together. \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You found him attractive?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I was trying to stand in my wife's shoes, in a manner of speaking. I was trying to find out what attracted her to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "And did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh yes. He was really terribly sweet. I could see why she fancied him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "I could see why he fancies her. I thought she was very tasty myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Really? +",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Oh yes. Sumptuous. Ready for action.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Is that so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Oh yes. I mean, I'm an experienced detective. So guess what I detected?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "That she's in love with her own body. It makes her dizzy with excitement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You detected this in five minutes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Well, thirty-five. Or lets call it forty-five. Perhaps even fifty- five. Or even a bit longer. \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You stayed for tea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "And cakes. Yes, must be funny for you to know your own wife is being given a good going-over by another man on a regular basis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "A good going-over? I don't quite follow you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You don't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's not a phrase I'm familiar with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "It means being fucked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh, you mean like in sexual intercourse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Yes, the old one two. In like a lion and out like a lamb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I must say you have a great gift for language. Did you learn it at school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "The hard school. Family life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you keep cheerful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You've got it. I keep cheerful. I've got an optimistic nature. Well you have to if you're a policeman. Otherwise you'd go mad. No, I'11 tell you what keeps me going. The chase. The thrill of the hunt. And the sudden shafts of bright light. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "For instance, when I was talking to your wife--very attractive woman-- wonderful legs--she was crossing them at a time I remember--she suddenly said you had a murderous nature--that really made my nose twitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Itch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Twitch, mate. Twitch. So I'm looking at you and wondering what you've done with the body. What have you done with the body? Where's the body? Come on. I need to know. Where's the body? What have you done with the body?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "There's no body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't fuck about. Don't bullshit me. I won't stand for it. Where's the body. In the house? Or did you shift it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "There is no body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BLACK stands, looks about him and walks around the room. He walks to the wall and examines it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Eh, look at this. You've got holes in your wall. They're bullet holes. Live bullet holes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I fired two live bullets to set up the trick and one blank to complete it. It was a game. I told you. I played it to the hilt. Not worth playing a game if you don't play it to the hilt. \f61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So you're saying the third shot was a blank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "What's this? BLACK bends and touches the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Blood?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Dried blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Here. Right here. Some of it hasn't even dried, it's still damp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's impossible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "This is blood, chum. Whose blood is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's impossible. It was a game. It was a blank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "No no. It was a game with real bullets and real blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "This is a carve up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Lets see what else is new around here. \fHe goes to a cupboard and opens it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "Hello, what's this? He reaches into the cupboard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "You've got a shirt, jacket and trousers screwed up at the back of your cupboard. Very negligent of you mate. Unless they're not yours. He examines them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "No, I don't think they're yours. I think they belong to Tindle. You say he left the house after you shot him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Naked?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I don't know...how those clothes got there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "So you made him strip before you shot him? Part of the humiliation, was it? No. The thing is this. It might have started as a game but it got out of hand. The third shot was live, it killed him. So where's the body?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I didn't kill him. He's alive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Bollocks. BLACK moves very close to ANDREW and peers into his face, \f63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "You're a joker all right, aren't you? A real joker. Come on. We're off to the station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "There's something very wrong here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Dead right. I'll tell you what you are. You're fucked. BLACK takes him by his arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK, (CONT'D)",
+          "text": "You're under arrest. He takes him into the elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "~» ANDREW Jesus Christ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Don't struggle chum. I'll have you for breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "There's something very wrong here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "You're up shit creek, Wyke. You're up shit creek without a paddle. They exit the elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They stare at each other. BLACK suddenly laughs. He takes off his wig. He takes out his contact lenses, rips off his moustache, takes off jacket and shoulder holster, opens shirt, shows padding. He smiles at ANDREW. It is MILO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Look at you. You're all of a quiver. Who's the dead duck? (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f94 95 36 97",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "You're the dead duck. I've just sucked you in and blown you out in little bubbles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Jesus Christ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The security monitors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY MONITOR",
+          "text": "MILO lying prone. His eyes suddenly open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW stands and finishes his glass of champagne. INT. ANDREW'S HOUSE” - MASTER BEDROOM -NIGHT - FLASHBACK ANDREW comes into the room and leans over MILO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You all right, old boy? MILO stares at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "All right? Just a bit deaf I suppose. They do make such a noise. Did you think you were dead? (he laughs) No you're not dead. It was a blank. Do you remember? I shot you with a blank. I just wanted to give you a fright. It was a joke. I was joking. Did you think I was really going to kill you? No no. It was a game, that's all. Like a drop of brandy? ANDREW goes and pours brandy, he gives it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "Here you are. What a good sport you are. A really good sport. Did I give you a fright? So sorry. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "94 95 96 97 \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "(he laughs) You fainted, you see. You thought you were dead. Drink the brandy and you'll find you're alive. Dead men don't drink brandy. MILO drinks. ANDREW raises his own glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You know, it's funny, you're absolutely right, I really did think I was dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's what I wanted you to think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You play a tough game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's the-only game worth playing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well listen, I'm grateful to you-- for not killing me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It was a practical decision, that's all. I mean, if I killed you I would have to get rid of the body, bury it in the garden or something. Too exhausting and not very efficient.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, I see that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Anyway, here you are, fit asa fiddle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. Thanks. Listen. I think I'll pop off, grab a cheese sandwich somewhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh my goodness, you're right, you must be starving. How thoughtless of me. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "I'1l tell you what, I've got a pretty shrewd idea there are a couple of cold sausages in the fridge. Been there for years. Like one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No thanks. But thanks for the brandy. It came in handy. They both laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO taking off padding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's me all right. « ANDREW You bastard. You shit. You stinking bastard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Just a little game, Andrew. Just a little game. I thought it might amuse you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're a total shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I know I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you're also a genius.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I know that too. He starts to put on his own clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "When did you do all this? The clothes in the wardrobe? The blood?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "The blood belongs to a pig's liver. \f67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But when did you do it? How did you do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I did it last night. I used that ladder. I heard you snoring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Does Maggie know about all this? About your Inspector? Was it her idea? How much does she know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She knows nothing about it. Entirely my own idea. This is a game between us, old boy. Between you and me. Had to get some revenge, you see. Don't forget I'm half Italian. We go in for revenge. After all, you frightened the life out of me, deliberately. You fired two live bullets into the wall and then pointed the gun at me. And then you fired. I don't like guns. They kill you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "OK. So what does this make the score? You've had your revenge, so what do you reckon? One set all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No no, you're way ahead. I just teased you with my Inspector. Gave you a few goose simples. But you frightened me to death. So we're a long way from one set all. I may be three games up in the second set, but you won the first six love.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh, by the way, I spoke to Maggie. I told her all about you. She loved it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Loved what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That I frightened the life out of you. That you pissed your pants. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f99 100 68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "That you actually fainted. She said: \"You mean he actually fainted?\" I said: \"Dead out. He was scared shitless. He went out like a light.\" She laughed so much I thought she was going to burst. Oh and incidentally, she's coming back to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh, is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's right. You know what she said about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She said \"Faint heart never won fair lady\". « MILO Is that a fact? Listen. I want to show you something. Go into your study and sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Go into my study?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "And sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW does so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Though the open study/bookcase door, ANDREW and MILO can see each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Keep the wall open. Watch me. MILO puts on the shoulder holster. He presses a button on the wall. The ladder comes down. He grasps the last rung and swings his legs onto the ladder. He then climbs halfway up the ladder. \f1o1 69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's late at night. You're reading under the lamp. Read something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Read a book. ANDREW picks up a book and opens it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "It's late at night. You're reading a book. You hear something. You look up. It's me, jumping off the ladder. MILO jumps off the ladder. He takes the gun out of the holster and walks tewards the study.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW stares at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "You see me with this gun. You're caught--like a rat in a trap. You stare at the gun. You're paralysed. ANDREW sits staring at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I've come for the jewels. Where's the safe?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What jewels?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "The jewels. Where's the safe?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You know where it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No I don't. \f70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You don't? MILO. Don't fuck me about. I mean it. Get up. ANDREW remains seated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "You think I'm joking? You think this gun isn't real? He shoots at a vase, it smashes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Get up. ANDREW stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Where is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Upstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well, let's go upstairs. Not in the elevator. Up these stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They walk to the stairs. ANDREW hesitates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Get up these stairs or I'll ram this gun right up your arse. MILO prods him with the gun. ANDREW stumbles and then runs up the stairs followed by MILO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They enter the bedroom. ANDREW leads MILO to the fish tank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's behind the fish tank. I have to press this button to shift the tank, \f71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Then press it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's out of order. It's not working. MILO shoots at the fish tank. It smashes. Goldfish and water pour out. The safe is revealed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "You're crazy. You're a maniac.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Open it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I changed the combination. Yesterday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I've forgotten. I can't remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's the truth. I can't remember. MILO points the gun at ANDREW.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What are you doing? What are you going to do? MILO opens the gun, adjusts the chamber.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I've broken into your house because I know you have jewels in your safe. Get me? I have inside information. I want them. MILO points the gun at ANDREW. \f104 72. ANDREW ducks away sharply. MILO shoots. ANDREW screams, collapses onto the floor. He lies still. He slowly opens his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'm still alive!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It was blank. But the next one is real. MILO stands over ANDREW. He kicks him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Remember the combination and open the safe. ANDREW crawls to the safe and opens it, trembling and muttering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Give me the jewels. ANDREW does so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "That's a good boy. So what are you writing at the moment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What am I writing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, I'm very interested in literature. I'ma kind of artistic thief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Do you mind if I have a drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Sure. It's your house. ANDREW walks into MAGGIE's dressing room. \f73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW pours himself a drink. The gun is still trained on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I'm always interested in the people I rob. Like I'm always interested in the husbands of the wives I fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Are you really? Well well. Cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "So what are you writing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "A story about a pathological killer. I call it \"The Smiling Man\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Does he come to a bad end?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "He dies during the act of love, like countless others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Countless others, eh? I can see you've researched the subject thoroughly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What subject?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Death in orgasm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes, it's a beautiful notion, isn't it? To die in the arms of your beloved. Can you imagine anything more poignant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I can't, no. You're a married man yourself aren't you? \f74. ANDREW . Oh, yes. Married ten years. It was love at first sight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Very moving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. And we're still in love. We're like two peas in a pod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Someone told me your wife has a lover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She has, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Do you know him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Never met. him. He's some kind of Italian. Called Tandouri or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "One of the Bombay Tandouris?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You've got it. You know something? I've never met an artistic burglar before. Fascinating. What's your background?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Irish. Connemara. Spanish descent. By way of Uganda. My grandparents were slaves. My mother was a dark eyed dusky beauty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Were you breast fed? \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh, sure. Like a baby. Shall I tell you what I want you to do with these jewels?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Put this bracelet on your wrist. MILO hands him a bracelet. ANDREW looks at it and slowly slips it onto his wrist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Put these earrings on your ears. MILO hands him a pair of earrings. ANDREW looks at the earrings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "They clip. Clip them. On your ears. ANDREW clips them on to his ears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "God, you look so charming. Now, put this necklace round your neck. MILO hands him a necklace. ANDREW puts it round his neck but can't fix the clasp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Let me give you a hand. MILO goes behind ANDREW and lifts the necklace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "How do you want it? Like this? or do you want it shorter? He tightens the necklace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "How about this? He tightens the necklace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Or even shorter. Like a halter. He tightens it round ANDREW's neck. \f76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're hurting me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Am I hurting you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Don't hurt me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You sensitive to pain?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "very.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I wouldn't hurt you, sweetheart. You're too much fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Am I really? « MILO Yes. You're wicked. I like that. ANDREW glances into a small mirror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You know something? I don't think these earrings really suit me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You're right. Take them off. ANDREW takes them off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I don't think the bracelet is quite my style either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "But the necklace is nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'm not totally sure. He takes off the bracelet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Listen, you can play about with these jewels until the cows come home. They're yours. Do what you like with them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But I thought you'd just stolen them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No, no. That was a game. Just a game. I thought it might amuse you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Well, you're the wicked one aren't you? MILO. You remember what I said. You won the first set six love and I was three love up in the second. Well, now it's ‘one set all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But who's going to win the third set?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Remains to be seen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You like games, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Some. Not all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you like being in charge--of the game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh yes. Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I like a man who knows how to take charge of things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Do you? \f78.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I do. Listen. You've met my wife I think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I have met her, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Did she tell you she had a husband?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, she said she had a husband.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "How did she describe him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Remote. Cold. Malevolent. Spiteful. Arrogant. Ruthless. Jealous. Paranoid. Criminal tendencies. Mentally unsound. «+ ANDREW That's me all right! You know something? I like your mind. It excites me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Does it really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I like the way you go about things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You mean you like my style?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I like your style. That's right. I like it very much. Look. I want to make you a proposition. I want to show you something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You'll like it. I know you will. Just along the corridor. Let me show it to you. Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(slowly) OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They walk along the corridor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Can't you put that gun away?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "God, you're so strong, you're so ruthless, aren't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. « ANDREW Any idea what my proposition is going to be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Are you excited?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Let's say intricued.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I think it will excite you very much. He opens the door into the guest suite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "This is the guest suite. Isn't it nice? Look at the view. 79. 106 107 MILO looks out of the window. ANDREW opens another door. \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "This is the private bathroom. As you see, there's a little bar - and there's the fridge. Chilean chardonnay is chilling in there at this very moment. This suite is uninhabited. It has no occupant. How would you like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes. I think I've come to the conclusion that you're my sort of person,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Am I now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I told you, I like your mind. I find it exciting. I need intellectual excitement, intellectual stimulation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "They don't grow on trees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'm a rich man. What would you like to do? I can subsidise anything you want. You can open an art gallery in the village. Or a bookshop. Or - of course - a little theatre. You're a wonderful actor. You could choose all the plays and play all the leading parts. But this would be your home. And this would be your bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You're asking me to live here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I'm asking you to stay with me. But, we'd also travel. Jamaica, the Swiss Alps. I bet you're a great skier. You could ski to your hearts content and swim in the blue Caribbean. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "I'd be waiting at our table with a scotch on the rocks for you or a glass of chilled Chilean chardonnay. The world would be your oyster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "But what about Maggie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Forget her. Leave her to rot. Stay with me. You're my sort of person.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "It's quite tempting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO's cell phone rings. He puts his gun in the holster, takes the cell phone from his pocket and listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Hello. . He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Hi. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "It's going OK. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "We're still talking. But we're on the right track. It's all going OK. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Don't come down. That would be a mistake. It's all going fine. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I love you too. He listens. \f82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I am. I'm kissing you. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Oh yes. I can taste your mouth. She puts the phone down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "She's threatening to come down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What the hell dces she want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She wants that divorce.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Listen. What do you think of my proposition? MILO stares at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "What do you think of my proposition?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well, I like the idea of Jamaica. But what about Barbados?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "And Barbados. And Antigua.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, it's true. There are so many places I haven't been. Hollywood. St. Petersburg. The Cote D'Azur. Coney Island. Oh, and I hear there's a wonderful hotel in Scotland called Balmoral.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "That's where the Queen lives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Ah. So bed and breakfast is out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "It's on if you know the Queen. \f83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's fantastic!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I’m serious. We could have great times together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Venice? Disneyland?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Whatever you want. Whatever you want. Whoever you want. I'll introduce you te whoever you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Kissinger? Pinochet? Madonna? Mike Tyson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, I must say, that, as offers go, it's quite tempting. You're a naughty tempter, aren't you? (pause) I'm so glad you like my mind. Not many people like my mind. Quite a few people like my body but I can't think of anyone who likes my mind. That makes you unique. But then of course you know what they say. The mind is the body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Is that what they say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well, somebody said something like it once. Bullshit, of course. Anyway - perhaps I am your sort of person. Who knows? But you'd have to be very nice to me. For instance, just at this moment I need a drink. \f84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You can get your own drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO -",
+          "text": "No, darling. You get it for me and then I might be nice to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Nice to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That's what I said. Whisky please. ANDREW does not move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I can't deny that you might find me a congenial companion. I really can't deny it. I could be quite a witty companion. Would you like a witty companion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Very much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm particularly witty in the morning. Would that suit you? Some people hate wit in the morning. What about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I love wit in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Over boiled eggs? Do you like eggs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Absolutely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Boiled or scrambled? I'm a dab hand in the kitchen. But you'd have to be nice to me and give me a drink when I ask for it. ANDREW pours a glass of whiskey and gives it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "You see, you can be really sweet when you put your mind to it, can't you? \f109 85. He drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Cheers. Listen, I can see what you're saying. I can see why you're inviting me to live with you. I can see that you're lonely. You need looking after. It's obvious. You need someone who would cater for your every whim. Don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MILO's cell phone rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Hello. He listens. “",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Darling. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "What? What? He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Oh is that so? Are you? He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I see. Are you sure? He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Uh-huh. I see. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I get it. \f86. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I told you, I get it. I understand. OK. Yes sure. OK. He listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "OK. I'li tell him. He puts the phone down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Tell him what? MILO grins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "That she loves you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Is that so? What else did she say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Nothing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Nothing. MILO and ANDREW stare at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Listen! For Christ's sake make up your mind! I'm offering you something special. Something really special. We can seal it with a handshake. And then she'll be nowhere. We cut her out. You understand? We cut her out of our lives. Don't let her dominate you. Be yourself. Be independent. Be free.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Like you? \f87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Yes, that's right. Be free. Like me . ANDREW's telephone rings. They both look at it. ANDREW do not move. It stops ringing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You know, I've always been attracted by rich and powerful men. Rich and powerful men make all the girls quiver like a jelly on a plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you're not a girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes, it tickles the old cobblers, money .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Girls dorf't have cobblers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You'd be surprised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But you're not a girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well I may have been once, back in the good old days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Maybe the good old days are coming back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Who knows? Look. I'd really like to see your bed. I mean let me be quite clear - this looks a very nice bed indeed, but yours is bigger. Can I have another look at it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Sure. MILO picks up ANDREW's remote control. \f110 ge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Is this how you do it? He presses it. A wall moves, revealing the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Miraculous! I could really get to like this. MILO walks towards the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Of course this is the marriage bed, isn't it? Is this where she took your virginity? Is this where your wife deflowered you? Is this where you were deflowered? He sits on the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "It's a lovely bed. So bouncy. He takes off the shoulder holster and puts it down on a side table. He lies down on the bed, rests his head on th pillow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "I'm so touched to be offered a place in your heart, in your life. I'm touched. He smiles at ANDREW. ANDREW stands still. MILO smiles at ANDREW. ANDREW slowly moves towards him. He strokes MILO's face, tentatively.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "You're beautiful. He continues to stroke MILO's face. MILO speaks very quietly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Take your hand off me. \f89. ANDREW stops stroking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Take your hand off me. MILO throws him off violently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Fuck off! Go and fuck yourself you big pouff! MILO gets off the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Jesus. I come here as an innocent bystander, as a totally respectable person - a humble, part time hairdresser - and you try to corrupt me. You try to seduce me. You know what you are? You're a menace. Also, you're a cunt. They stare at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Well, now you really are charming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "You know who's going to love this story?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "What story?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "This one. This one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Maggie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Oh really? MILO walks slowly to ANDREW, stands close to him and look into his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Oh by the way, she asked me to tell you something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "She's coming back to you. She's on her way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "She's coming back to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes. That's what she told me. On the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But I don't want her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Well you've got her. She's all yours. You're welcome to her. She loves your money, baby. That's the nub of it,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "But I don't want her. MILO goes to the wardrobe and takes out the leather coat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW, (CONT'D)",
+          "text": "What are you doing with that coat?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "I'm taking it. Tell Maggie I'll be in touch. I want to have a drink with her. I want to bring her up to date. MILO puts the coat over his shoulders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "How do you like me in this coat? Do you fancy me? He goes to ANDREW and kisses him lightly on the mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO, (CONT'D)",
+          "text": "Goodbye, darling. MILO goes to the door. ANDREW takes MILO's gun out of the holster. \f111 112 113 114 gl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Wait a minute. MILO turns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILO",
+          "text": "Yes? What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANDREW",
+          "text": "Goodbye darling. ANDREW shoots him. After a few moments ANDREW walks across the room and stan looking down at the dead body. He stares at the dead body. His face is ashen, dead. ANDREW remains still, staring down at MILO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A car turning slowly into the drive. A woman's hand hanging out the widow, tapping the side of the car. The car approaches the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW hears the car. He turns, looks out of the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car stops. A woman's legs swinging out of the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANDREW staring out of the window. THE END. 111 112 113 114",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1679"
+    }
+  ]
+}

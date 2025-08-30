@@ -1,0 +1,5295 @@
+{
+  "movie_id": "MOV315",
+  "scenes": [
+    {
+      "location": "GRAND QUIGNOL THEATER LOBBY NIGHT 3",
+      "time": "NIGHT",
+      "characters": [
+        "SPYDER SYN, (V.0.)",
+        "DEATH",
+        "SHERIFF 1",
+        "BACK TO ARIA",
+        "DOOR",
+        "ZEALOT",
+        "ROADIE, (0.S.)",
+        "FLOCK",
+        "END OF FLASHBACK",
+        "CAMERAMAN",
+        "CHORUS",
+        "IN THE OTHER SIDE OF THE WINGS",
+        "ARIA",
+        "DEATH, (CONT'D)",
+        "SONG",
+        "AIDE",
+        "\"FORWARD\" AND \"REVERSE.\"",
+        "MATHIAS",
+        "REVEREND, (CONT'D)",
+        "RESOUNCE FILTER. EXTREME DANGER",
+        "RASPUTIN",
+        "SCYTHE",
+        "SCRUGGS",
+        "DR. D, (CONT'D)",
+        "FADE TO BLACK",
+        "GLITTER, (0.S.)",
+        "BANGZ",
+        "PUSSY",
+        "ARIA, (CONT'D)",
+        "OUTER SPACE 50",
+        "DRESSING ROOM DOOR",
+        "DR. D, (0.S.)",
+        "VERONICA, (0.S.)",
+        "PUSSY, (CONT'D)",
+        "HEAVEN 57",
+        "METALHEAD",
+        "HEAVEN 54",
+        "SPYDER SYN",
+        "GLITTER",
+        "FLASHBACK",
+        "FAN 2",
+        "ANGEL",
+        "METALHEAD, (CONT'D)",
+        "ID",
+        "MATHIAS, (CONT'D)",
+        "VERONICA",
+        "FAN 1",
+        "THE DIAMOND DEAD.\"",
+        "BACK TO MATHIAS AND ARIA. 23",
+        "JACK",
+        "DANGER",
+        "SHERIFF 2",
+        "AGENT 1",
+        "59.",
+        "VERONICA, (CONT'D)",
+        "MATHIAS ARIA",
+        "GEENA",
+        "HEAVEN 59",
+        "REVEREND",
+        "DR.D",
+        "JESUS",
+        "GLITTER, (CONT'D)",
+        "ARIA, (0.S.)",
+        "BANGZ, (V.0.)",
+        "DEATH'S HEAD",
+        "FREEZE FRAME ON THE DIAMOND DEAD GUITAR",
+        "HEAVEN BACK DOOR 47",
+        "SIMMS, (CONT'D)",
+        "SIMMS",
+        "JACK AND GEENA",
+        "ALL THE AGENTS",
+        "SPYDER SYN, (0.S.)",
+        "AUDIENCE",
+        "CROWD",
+        "PRESIDENT",
+        "FAVOR MATHIAS",
+        "PUSSY AND SCRUGGS",
+        "WHAAAT",
+        "AT THE OTHER SIDE OF THE PARKING LOT 69",
+        "DR. D",
+        "DR. D, (V.0.)"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Whiffs of fog drift across the darkness as the moon emerg from behind the clouds illuminating crumbling cement bloc and twisted steel overgrown by weeds. ARIA DE WINTER, dre as a goth girl, climbs over the cement blocks carrying a bouquet of roses. She is in her mid forties, her face is worn. The years have not been kind to her. She lays the r on the ground and steps back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I miss you guys. My life has been a fucked up mess without you. This whole thing isn't fair. ARIA sits down among the rubble, thinking to herself. Beh her an IMPOSING APPARITION pulls itself from the swirling fog. It glides silently over the debris growing more soli it advances. It silently glides up behind ARIA. When it raises its head, it is some kind of long dead alien monstrosity. It is DEATH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I say, I say. Strange place for flowers. She doesn't bother to look up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I suppose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I say, I wonder if you can help, ma'am. Direction-wise, that is. ARIA turns around but doesn't seem to be bothered by the APPARITION.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I say, I'm looking for souls. Four long-haired hippie types. Look like girls on the wrong end of the ugly stick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Stiffs. Dirtnappers. Corpus Delectia in the post humus sense. Dig the wax out yer ears, ma'am. I'm talkin' English, ain't I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I'm a death, ma'am. Mortis Extermis, Esq. My card.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "A death?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "That's what I said. My mouth is movin' so I must be talkin'. I say, ma'am, pay attention, ya may learn somethin'. Lots of people croak every day. Logistically-wise one death can't handle the load. Are you following me here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Sort of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "The world needs more than one death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "So, what are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Balancing accounts. I have four souls unaccounted for. It's very unusual for souls to stay under for that long. They're like lumpy gravy. They usually float to the top before the meat goes bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Well they're down there somewhere. DEATH stares at the ground chagrined.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Well. Baste my butt and call me vittles. I do declare, that's more diggin' than a man oughta do in my condition. I give up... I need a break.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You need a break?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who’s gonna give me a break, I ask in mock ignorance and a general air of foreboding?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "How 'bout me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Why I do declare, I think I may laugh if it didn't jostle my coccyx so much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Why not? Beats sittin' on my ass. I'm a real people person. I'm slightly immoral and I temper all discussions with a nihilistic anticipation of general disaster. DEATH leans against a tree and a DOZEN BIRDS fall off the branches and hit the ground dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "It's an awesome responsibility.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "So's voting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I say, I say. There's powers that go with the title.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "A perk! Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Take this scythe. He hands her his scythe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "What kind of powers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Life and death. Forward, reverse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCYTHE",
+          "text": "There's a switch on the side of the handle that reads:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Rad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Alright little Miss spooky pants, you have one year. Your allotment is one person a day. And on all Hallows Eve when the clock strikes the hour of the wolf - that’s midnight eastern standard time - if you haven’t met your quota by then you forfeit your own soul and all those you love will be erased from existence. DEATH begins to walk away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH, (CONT'D)",
+          "text": "Have fun. Don't kill anyone I wouldn't kill. Knock yourself out Mortality-wise, that is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Hey! Where ya goin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I’m going to get laid. Thanks babe. (to himself) Nice girl, but a little on the creepy side. DEATH departs. The sky blackens with storm clouds. Lightn strikes EXPLODE around ARIA. She lowers the scythe to the ground and hits the reverse switch. A BLUE ARC OF ELECTRI EXPLODES from the scythe slashing to the ground. The grou trembles. The electricity swirls around ARIA and the year fall away leaving her decades younger and beautiful. The ground begins to crack, we HEAR muffled screams. Sudd a mummified arm erupts from the earth holding the Diamond Dead guitar by the neck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FREEZE FRAME ON THE DIAMOND DEAD GUITAR",
+          "text": "Title up: DIAMOND DEAD",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An old Gothic theater. The marquee reads: \"DR. DIABOLICUS",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS STARK a nervous and nerdy type in his twenties, i polishing a brass rail on the staircase. There is a pound on the door. MATHIAS opens the door and comes face to fac with TwO SHERIFFS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF 1",
+          "text": "Mathias Stark?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Yes? SHERIFF 1 hands him some official looking papers. MATHIAS accepts the papers, then swats at a moth with them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF 1",
+          "text": "Pursuant to the order of the court, I am serving you with this foreclosure notice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Hey, you’re making a mistake. I got one more day to get the money! Puzzled, SHERIFF 2 leafs through papers on his clipboard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF 2",
+          "text": "(turns to his partner) I told ya October has thirty one days!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHERIFF 1",
+          "text": "We'll be back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I don’t think so. I got this fantastic rock act Diamond Dead playing tomorrow night. (points at a Diamond Dead poster) I’1l have the money right after the show. They give him a doubtful look and leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lobby lights turn off, then the signs, and finally th marquee lights. A few blocks away FOG rolls in eerily lit with blue light Inside the fog, LIGHTNING FLASHES. The THICK FOG rolls pa the theatre as MATHIAS locks the front doors for the nigh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Fog. Cool. MATHIAS stands in front of the theatre, turns around and looks up at the marquee proudly. He shoves his hands in t pockets of his leather jacket, steps backwards and smiles",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS, (CONT'D)",
+          "text": "I still own a theater. Life rocks! The street is deserted and quiet. All we HEAR is the BUZZ the power lines and the neon in the marquee sign. Then somewhere in the fog MATHIAS hears the sound of souped-up engines. They become louder. MATHIAS stares into the fog he can't make out anything. High on a pole, a transformer EXPLODES sending an electri surge down the street. A street light EXPLODES and goes d and then another and another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS, (CONT'D)",
+          "text": "What the hell? A winged wraith like SHAPE streaks past MATHIAS, almost knocking him over. It's unearthly feed-back SCREAM ECHOES down the street. MATHIAS turns around but sees nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS, (CONT'D)",
+          "text": "Holy shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Mathias Stark? MATHIAS turns around. ARIA is standing in front of him wi sinister smile on her face. She wears a top hat with a ve and a black dress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Yaah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Did I scare you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes. Jesus Christ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Good. I'm Aria De Winter",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You're with the band, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "No. They're with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Do you hear fourtwentynine engines with headers, fuel injectors and two inch straight pipes? Cuz I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That's the road crew. FOUR CUSTOMIZED HEARSES appear out of the fog. The DRIVER are dressed in nineteenth century livery. They stop in fr of the theatre and wait, unmoving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Awesome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Isn't it...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Your agent said you'd be here tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "It is tomorrow -- three past twelve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'm sorry. I was just going home. A TALL GAUNT MAN steps from one of the hearses and walks to ARIA, his arms outstretched. He holds a scythe on a pu satin pillow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Thank-you, Rasputin. I'll catch up later. She takes the scythe. The man bows slightly and walks awa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I bet you're a terribly fascinating little boy, Mathias. Kinda sexy in an innocent sort of white meat way. ARIA twirls the scythe like a baton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA, (CONT'D)",
+          "text": "Would it be alright if we went inside and started setting up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Sure. I'll open up for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Don't bother. We got it. The lobby lights TURN THEMSELVES ON, then the sign and th marquee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Hey! How'd you do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Magic. We're in show business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Wow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "C'mon. Let's you and me get a cup of coffee down the street and leave the boys to do the grunt work ARIA tucks her arm around MATHIAS and leads him down the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA, (CONT'D)",
+          "text": "You're kinda small, aren't ya? Kind of feminine features.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Well, I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Don't worry. I like girls, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I think I'm in over my head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Not yet, but if you're lucky, who knows?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Help. ARIA and MATHIAS walk down the street. CAMERA pushes past Mathias and Aria into a window and we are in:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JACK and GEENA are in their living room. JACK is a young in his mid-twenties: Mohawk, shredded clothes, ridiculous features. GEENA is his roommate: young, beautiful with lo dark hair and mischievous eyes. They are sitting in front the TV looking catatonic, watching an infomercial as if o Thorazine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Well, where do you wanna eat then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I don't care. Where do you wanna eat? Long silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Let's just take a walk and we can figure it out later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Okay. Neither of them stand up. They continue to stare at the T",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "C'mon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I can't. The radiation from the TV has drained my will to resist its electronic seduction. I have no will of my own. Turn it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "I can't. You turn it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Oh, God. We're doomed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Victims of a technology we cannot control. \f10. JACK reaches over the side of the couch and grabs a shoe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "If I can... just.. reach.. my shoe. I can... Ugh! He throws the shoe. It hits the off button on the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Thank God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "That was close. We gotta find that remote.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "No shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A seedy run down dive. The neon sign EXPLODES leaving onl few glowing letters. The sign now reads “JACK OFF SHOP”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS and ARIA are having coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You look nervous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'm not nervous. I always look this way in case something weird happens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Have you ever seen a Diamond Dead show before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "No. But I heard a song or two... okay, that's a lie, I never heard of you guys until your agent called last week. Don't hate me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "So you're saying the only reason we're booked is because we called first. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I inherited the theatre from my uncle. You have a band. I have a place to play. Next week I got Devo unplugged and Crosby Stills Nash and Johnny Rotton. That's gonna suck. But hey, I'm just staring out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That's fair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "How long have you guys been together?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Forever. Awhile, couple weeks decades, eons, a couple epochs. Thank the Mother it's almost the apocalypse. I hate time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Do you have any music I can listen to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That's not important. What is important is that you listen to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Um... Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Do you scare easily?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Yes. Like right now when you asked, do you scare easily I think I just pissed a testicle. I'm kind of high strung.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'm just saying that spooky shit may happen. But don't worry. It'll all work out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Don't worry? Saying, \"Don't worry,\" to someone like me is like a cop saying, \"Bend over, this is a cavity search.\" What's to worry about, Aria? \f12. MATHIAS (cont 'd) Are you a band of Satanic killers or something? Because if you are I want it on the record that I am not a virgin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You seem like a nice guy. It's just that we attract a weird crowd. Things don't always follow a natural pattern with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Sounds like my sex life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "No, but I like to fantasize. ARIA playfully slides her heel up Mathias’ leg digging in a second. Mathias is nervous and aroused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Ready to go back to the theatre? MATHIAS looks embarrassed and uncomfortable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Um no. I'm just going to sit here for a few minutes. If that's cool with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Suit yourself. ARIA exits. MATHIAS squirms in his seat, grabs some ice c and drops them down his pants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JACK and GEENA walk down the street carrying some junk fo Suddenly JACK stops in front of a telephone pole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Hey Geena, check it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "What? On the pole is a POSTER for the Diamond Dead. \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Diamond Dead are coming. They are so mythic, they’re so underground, they’re a rumor. And the scum of the earth is goin’ to come out to see them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Looks like a dirt head metal poser band to me. I thought you hated Heavy Metal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Dr. D isn't Heavy Metal. They're a... they're a hard-core grunge wave rockabillie band. Yeah, a kinda techno dance neuromantic retro glam hip hop be bop slamarama mosh squash. Goth meets David Lee Roth. C'mon, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "They look like a Metal band.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Yeah, well... they are, but they're good. Can we go? Huh? Can we? Huh? Please, Geena? Please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Your white trash is showing, Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "It is? I'm sorry. We gotta go, Geena. It’s going to be rock history. No-one has ever seen them do a show. Please. Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Fine. We can go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Let's get in line for tickets! We need sleeping bags and shit. You go get the supplies and I'll save you a spot. \f14. She rolls her eyes. They see FOUR HEARSES in front of the Grand Quignol.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Where do you suppose someone can get a hearse at this time of night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Kinda strange, isn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Good strange, or bad strange?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "All strangeness is good. It helps break up the monotony. A GAUNT FIGURE steps out of the darkness. It is DEATH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I say, I say. Hello, kiddies. JACK and GEENA start.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK AND GEENA",
+          "text": "Yaah! Fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Up past your bedtime?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "You dick!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I was kinda hoping I could get your autograph. DEATH produces a long contract from out of nowhere. It unrolls into the street for about ten feet and then stops releasing a tiny terrified RAT LIKE CREATURE that was tra inside. It scurries away into the darkness squeaking in terror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Yeah. What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "A trade. \f15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "What kind of trade?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I give you backstage passes and I get your immortal soul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Damn! Jack and I already sold our souls to Madonna for a couple T- shirts and a case of beer. Across the street the ROADIES are carrying FOUR COFFINS i the theatre.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA is walking to the theater on the dark street and not DEATH with the kids. She strides up to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "(to Jack and Geena) Hi guys, not to be rude or anything, but I gotta talk to Morty here. Hope you don’t mind. She gives them two backstage passes. The Marquee suddenly SPARKS UP, showering the street and DEATH ARIA are gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Whoa!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Shiiit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DEATH leans against a dumpster. ARIA, scythe drawn, is re for a fight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "What the fuck are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Why, I’ve done given ya power over life and death. Now, we have a bargain. You were supposed to deliver souls by the deadline. I ain’t seen ya whakin’ nobody. \f10 14 16. DEATH(cont 'd) You don’t deliver Missy, and I’m gonna have to do ya and your friends. And that includes that little freak I seen ya cattin’ around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I have til midnight. I’1l take care of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Well, I’m gonna have to hang around and make sure you do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Fine. Go nuts. Just don’t get in may way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "You won’t even know I’m around... DEATH steps backwards and merges with the wall and disappears. ARIA is left to think about Death’s implied threat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS walks to the theatre. The street is completely covered in Diamond Dead posters. A huge billboard adverti the \"Holy Church of Good Intentions\" is replaced with the band's logo. A BUM sleeping in a doorway has a poster glu to his back. MATHIAS rounds the corner and finds the front of his thea mobbed with ROCK AND ROLL FANS, PROTESTERS, TV TRUCKS, POLICE, AND T-SHIRT VENDORS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Is this hell? He pushes his way to the front doors, fighting off REPORT and SCREAMING DIAMOND DEAD FANS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PUSSY A. DANGLE, the oh-so-hip VJ from NTV (Nerve Televis and her CAMERAMAN are in front of the crowd. \f17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "This is Pussy A. Dangle, live from The Grand Quignol Theatre, somewhere in the cultural hell we call the Midwest. The excitement builds for the legendary rock band that everybody worships but have never seen, The Diamond Dead. MATHIAS enters, stunned by the mess in front of his theat The camera light flashes in his eyes and he is blinded.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY, (CONT'D)",
+          "text": "I'm talking live with Mathias Stark, owner of this wonderful new pop oasis and host to America's latest contender for the Shock Rock crown, Dr. Diabolicus and the Diamond Dead. Tell me Mathias, what are Dr. Diabolicus and the Diamond Dead really like? Are the rumors really true? Are you in fact sleeping with Aria De Winter, the band’s rhythm guitarist?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "What?! !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Do the Diamond Dead really practice satanic rituals before every concert?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I did not sleep with Ms. De Winters!!! I just met her. We talked. I hardly know her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Is it true that members of the band have felony warrants in Romania? Any comment? MATHIAS stares at the camera, stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "um...I need coffee. MATHIAS runs up the stairs to his office and slams the do \f18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A quaint place, but not without charm. Ramshackle antique furnishings, a sofa-bed on the side, a desk facing the do The stage illuminated by the work light can be seen throu window. MATHIAS bursts in and finds ARIA sitting on his desk provocatively.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Hello, lover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "(startled) Don't you start. Oh my God. It's a nightmare out there. Reporters cops, crazed fans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That's the biz. MATHIAS’ eyes travel down her body to her fabulous legs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Look, Aria. You're a sweetheart and I would sleep with you in a hot second. I'm a simple neurotic manic depressive. I slept with two women in my life. It was a disaster both times. I don't do well under sexual pressure. So if you must, let's get it over with so your disappointment won't be too humiliating. He closes his eyes and grits his teeth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "What are you talking about? MATHIAS collapses on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Oh, God. I dunno. I'm crazed. I'm sick. I freaked out. I need coffee, goddamit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'll get it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Thank-you! And God bless you! \f13 19. ARIA goes to the coffee maker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You can't let this stuff get to you. Do me a favor, just go with it. Pretend it's all a dream.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "That's hard. If this was a dream, I'd be better-looking and you'd be naked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Yeah, well, it's still early.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You're great. She hands him the coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I know. If it's any consolation, the place is sold out. So you just relax. I'll handle the crowd and the media circus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Thanks. ARIA exits. MATHIAS, feeling impending disaster spills hi coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PUSSY is interviewing the CROWD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Look at me, America. I have it on good authority that the members of this band are in fact dead. A HEARSE screeches around the corner and the FANS start screaming. A particularly CRAZED FAN runs into the middle the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FAN 1",
+          "text": "Diamond Dead! Diamond Dead! I wanna be just like you guys!! The hearse runs him over. \f20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FAN 2",
+          "text": "Ugh! PUSSY stands over the road-kill kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Diamond Dead. Teen idols or the Avatars of Death. Who the hell do these guys think they are? Let's ask the fans. PUSSY grabs a particularly stupid-looking METALHEAD BURNO",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY, (CONT'D)",
+          "text": "So. What do you...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Diamond Dead! Diamond Dead! Diamond Dead!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Um...Excuse me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Diamond Dead!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Pardon me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Diamond Dead! Fuckin' A! Fuckin' B! The METALHEAD is completely out of control, so PUSSY knee him in the groin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD, (CONT'D)",
+          "text": "Bogus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "I'm Pussy A. Dangle with NTV. Talk to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "You're not gonna rack my bone again, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Tell me about the band?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Diamond Dead rules! Diamond Dead rocks. \f21. METALHEAD(cont'd) They're the most ultimate, most penultimate, most non-non ultimate fucking band ever!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Why are they so great?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Uh...Fuck...Uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Well, I dunno, cuz they're, like, dead? You know Diamond Dead...What do you want from me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "How come you like them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Shit. You're a real bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "(to the camera) There you have it. The Diamond Dead defy description. They elicit total mindless adoration from their fans...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "(taps her on the shoulder) I just thought why I like them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "METALHEAD",
+          "text": "Well...Um...They got great T- shirts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A riding crop strikes a bare ass. MISTRESS VERONICA VINYL busy flogging JIMMY JOE BILLY BOB SCRUGGS. \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You disgusting worm! Lick my boots while reciting \"The Cat in the Hat\" in Esperanto.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Yes, Mistress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "A worm, Mistress. A little horny worm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "And what am I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "You are Mistress Veronica Vinyl. The goddess unto which all men must give their undying devotion and credit card numbers. A MAN enters. He is one of the Scruggs' zealots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Reverend Scruggs! Reverend Scruggs! There's something you have to see. (to Veronica) Excuse me, ma'am",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "How many times have I told you not to disturb me in my retreat of contemplation?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "I'm sorry, Reverend Scruggs, but if the nice leather lady could stop contemplating you for a minute. There is something you must see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What the hell. You're a prepay. The ZEALOT plugs in the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "This had better be worth it. The ZEALOT turns on the TV. We SEE the circus outside the Grand Quignol. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND, (CONT'D)",
+          "text": "What is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "The 69th sign, sir. The dead shall rise out of the ground and they shall walk among the living.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "It's fake. It has to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "No, sir. Reliable sources tell us that they are in fact the risen children of the demon Asteric the Emphasized.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Lord protect us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Amen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Sheesh. Could you leave now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Are you very expensive?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Very.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Leave us! Call forth the flock. I will be down in twenty minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "One hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "One hour. The ZEALOT exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Where was I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Little horny worm. \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You little horny worm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Yes, Mistress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Diamond Dead TOUR TRUCKS are unloading equipment into the theatre as JACK and GEENA approach waving their passes at anyone who will look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Hi, I'm Jack Shit. I'm supposed to be here. I got a backstage pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "See! Backstage passes. We got backstage passes. We're cool. JACK bumps into RASPUTIN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "(playing the snob) Pardon me. But do you have any Grey Poupon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Move aside, mere drop of water. Let the ocean pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS is in his office, lying on the couch. ARIA knocks his door and sticks her head in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Ready to meet the rest of the boys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Are there any reporters out there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "We're meeting Pussy A. Dangle backstage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "That's the woman. I'll stay here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "C'mon! \f17 25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Aw! Do I have to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Don't be a baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Sheesh. That's like telling Elvis, \"Don't be dead\". She gives him a look and leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The place is a flurry of activity. ROADIES move equipment boxes. One of them is bouncing up and down like something alive and pissed off inside. One roadie pushes a rack wit hanging sides of beef past PUSSY standing next to the dressing room door. RASPUTIN, the security guard, wearing headset and carrying an Uzi has taken up his post opposit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "(into headset) I don’t care what kind of ritual it is. Tell Bob the sheep’s skulls are for band use only.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "(to her camera) Security is tight around here. TWENTY GROUPIES rush the green room, screaming. SNIPERS a with guns appear out of their hiding places and fire at t crazed BIMBOS, dropping them in their tracks. There is no blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY, (CONT'D)",
+          "text": "Oh my God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "(calmly into his headset) Blue Spook to Big Boo. Can we have a cleanup crew to backstage dressing room C? Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Oh my God! Oh my God! Oh... my... God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "(to Pussy) Can I see Some ID? \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "You shot those bimbos!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ID",
+          "text": "PUSSY hands over her press credentials.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "I'm Pussy A. Dangle from NTV. I made arrangements with Aria De Winters... You... You... You shot those poor groupies!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Hang on a minute. (to headset ) Blue Spook to Big Boo. I need a press verification on a Pussy A. Dangle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Those poor teenyboppers. You killed them!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "No, we didn't, ma'am. Tranquilizer darts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Dr. Diabolicus endorses the N. A. H. T. 0. G. B. B. F. I.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "The National Association for the Humane Treatment Of Groupies Bimbos, and Bad Female Impersonators. We'll attach a small radio transmitter and then release them into their natural habitat. We do not harm the bimbo in any way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Natural habitat? \f27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Shopping malls, biker rallies Republican political fund- raisers... It's all very controlled and we're saving thousands of bimbos from extinction every year",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Here comes Ms. De Winter now. ARIA and MATHIAS arrive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Pussy A. Dangle. I'm Aria De Winter and this is Mathias Stark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "We met.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Dr. Diabolicus and the rest of the band will see you now. But first a word of warning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "They hate bright light. They hate stupid questions. And most important of all...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Do not put your fingers near their faces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "They bite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Bullshit. \f28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "C'mon, Rasputin, you're scaring our guests.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "No. They do. RASPUTIN holds up his left hand. Two fingers are missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Holy shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'm not going in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Rasputin! Stop it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "All I did was wave to Dr. Diabolicus and he bit them off. He would have ate my whole arm if I hadn't shot him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You shot him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "He's exaggerating. Shut up now, Rasputin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Didn't hurt him but it gave the gaffer time to drag me away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Thank you for sharing, Rasputin. He's such a kidder. Let's go in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Hey, don't worry, I get workers' comp, so I'm happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Can we go in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Sure. They're a bunch of swell guys. Honest As they enter RASPUTIN chuckles quietly to himself. \f18 29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A large room. ARIA, PUSSY, MATHIAS and the CAMERAMAN ente The dressing room is very poorly lit. The outline of four coffins can be seen against one wall. FOUR DARK SILHOUETT are sitting on the couch. A long bony hand reaches for a beer sitting on the end table. Everybody talks in a whisp",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "It's very dark in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "We like it that way. The band nods in unison. A weird distorted chuckle echoes around the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "I don't think the camera is going to be able to pick up much in this light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "That's probably for the best. well, not much to see here. Let's go get an espresso.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'll tell you when you can turn on the lights.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Oh. Fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Are you ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAMERAMAN",
+          "text": "Rolling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "(to camera) This is Pussy A. Dangle backstage with Dr. Diabolicus and the Diamond Dead. So, guys,what's it feel like to be stars?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "It feels a lot like not being a star, only with a lot more money. \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "So, why the darkness? Why the mystery? SPYDER SYN raises TWO SOCK PUPPETS on his hands which do speaking for him. One is cute, the other is distinctly ev He wears an iron mask and a long cape that conceals his emaciated anatomy. His hair, which sticks out of the top his mask, is parted in the middle. One side is dyed white the other black.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We shun the light. Our eyes and our souls are attuned to the darkness. GLITTER is a tall mummified cadaver, made up like a Frenc whore. His once outlandish glitz wardrobe hangs on him li scarecrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Sunlight dries our skin. We all have very sensitive skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "We don't go near water either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We don't want to re-hydrate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "That would be bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Ooooh. Can you imagine? All the Midol in the world could not stop that bloating. Yuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Who's the man on the end there? BARTHOLOMEW BANGZ wears a torn tank top T-shirt and leath pants. Despite his emaciated condition, his arms are overdeveloped and muscular. His face is a frozen sneer. H reminds people of Sid Vicious, if Sid were a beef jerky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "(loud) Fuck you! \f31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That's Bartholomew Bangz. He doesn't talk much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuck you. I fuckin' talk like a fuckin' parrot. Listen to me talk! I'm fuckin' talking right now. You just don't want to fuckin' listen to what I fuckin' have to say. Fuck NTV. Fuck this band. Fuck you all... Thank you... and fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Bangz is cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "So. What do you attribute your sudden success to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "We're dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Yup. Dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Dead Dick dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuckin' dead. Fuckin' dirtnap dead. Fuckin' stiff city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Dr. Diabolicus and the Diamond Dead is America's first authentic dead band.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "How do you mean dead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Dead. Dead. Un-live. Inanimate. Uninvolved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "We're deceased.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "So, fuck you. \f19 32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Pussy, dear. You are about to see America's ultimate product for a death fixated society. You are in the presence of the first completely dead band. Ladies and Gentlemen, I give you... Dr Diabolicus and the Diamond Dead. ARIA turns on the lights. The visitors react in shock. Th four cadavers smile at the camera. GLITTER waves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "(screams) Jesus!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "They sure smell dead. MATHIAS staggers against the wall and slides down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I'm Dr. Diabolicus, lead singer and all round charismatic guy. This is Spyder Syn. Proof that Cruella De Ville got a sex change. SPYDER holds up one of his sock hand puppets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Hi, America.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "This is Glitter. The man. The music. The accessories. And Bartholomew Bangz. Thinker. Philosopher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "He's deep. PUSSY starts to puke. MATHIAS in shock, shaking his head disbelief, is mumbling to himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PARAMEDICS are wheeling PUSSY out of the dressing room on stretcher. GEENA and JACK watch the reporter pass. \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Was that Pussy A. Dangle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Kinda looked like her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Seemed awfully sick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Kinda green and water-eyed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Wow. She looks much better in real life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Definitely. ARIA and MATHIAS exit the dressing room and walk down a passageway. MATHIAS is noticeably agitated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "What’s going on here, Aria?! They’re dead!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Look Mathias. It’s all cool. Come over here and sit down. ARIA leads him to a quiet corner and sits him on an equip case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "They’re dead. They are really dead. And not like in a kinda cutesy hippie dippie grateful dead sort of way. Those fuckers are dead ina smelly road kill squishy way. Where the heck did you all come from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Oh, thank God. She sits down on a plastic chair in the corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "(into CAMERA) I’ve been dreading the awkward setup for a flashback scene... (to Mathias) ...but you got us over it like a pro. \f20 34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Well, it all started in 1982...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A dilapidated VW MICROBUS speeds through the LA warehouse district. The bus turns a corner, and roars onto a dirt r toward a boarded up and abandoned garment factory. \"Unsaf and “Condemned\" signs are tacked up everywhere. The W ski to a halt in front of the building, raising a huge cloud dust. The doors open and the BAND, NOW ALIVE, step out an begin to unload their equipment. ARIA climbs on the roof her bus and sits cross-legged, watching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Did we suck last night, or was I the only one ducking bottles?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "We sucked. We always suck. If it wasn't for our consistent suckiness, we wouldn't have any consistency at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I'm depressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Fuck you both.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Is all this swearing absolutely necessary?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Kiss my ass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "C'mon, let's get this shit unloaded. ARIA realizes she's being ignored and jumps down from the bus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I wanna play. \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Aria, please. We've had a shitty night. We got stiffed on the door. We blew an amp. Spyder got the clap from Laura.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I did?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "She told us last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "That bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "...And he just found out he knocked up another chick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "God, I'm a creep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Aria baby, I would like to go inside in peace. Is that okay with you? ARIA is angry to the point of tears as Dr. D and the BAND turn their backs on her and enter the factory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You prick! She sits down on an equipment case and begins to cry soft GLITTER stops at the door, sets down his arm load of equipment and walks back and sits down next to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I don't think you two will ever get along. Forget about him Aria.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "So, I'm fucked. All I want is to be a_part. SPYDER sticks his head out of the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Hey, Glitter, Bangz got a new \"Rupture Subwoofer.\" It's fucking huge. \f21 36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "(to Aria) Are you coming? ARIA follows them in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The BAND live in a typical squatter camp. The band’s equipment and the huge \"RUPTURE SUBWOOFER\" amp dominates side of the room. The BAND stands in front of the monolit sound monster, looking up in awe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "That thing looks scary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "It is scary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "I saw a Rupture Subwoofer kill a squirrel at that Rolling Stones show in Berkeley. The poor little blighter just exploded. I don't think we should use it outside. I don't want to kill any animals. The BAND looks at one another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Whoa. Killed a squirrel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "The Who doesn't have one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Just the Stones and us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Crank it! ARIA sits down on a big black box that is plugged into th Subwoofer. The band begins to play a song. She notices a sticker on the box she is sitting on. \f22 23 37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BACK TO ARIA",
+          "text": "A wicked smile crosses her face. She reaches down and pul the plug on the resounce filter. Immediately, the vibrati from the Subwoofer begins to shake the room. ARIA gets up quietly and exits. As the BAND plays, plaster falls off the walls, glass explodes everywhere. Trickles of blood runs out of the ba members ears and noses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As ARIA drives away the foundation shakes and the buildin windows EXPLODE behind her. ARIA is unaware that the enti building is COLLAPSING on top of the band, burying them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "It bummed me out for a long time...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Wow. I thought I was the only person to have a Subwoofer near death experience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "It's more common than you think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "How did they come back to life? She checks her watch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Look sweetie, I don’t have time for this right now. We got a sound check in a few minutes. Kinda mini preview. Why don’t you just go back to your office and I’1l catch up with you later. \f24 25 38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Um... No. I wanna see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Are you sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "No, but it's kinda like watching a horrible car accident about to happen. I can't turn away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I feel that way about shopping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "One question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You're not dead, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Of course not. I'm much worse. She exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The house is MOBBED WITH REPORTERS and FANS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA answers the phone. With her in the room are DR. D an the BAND.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Okay, okay, we're coming. (to band) Places.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Let's rock and roll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuckin' A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Go girl. \f26 27 28 39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Kick ass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Whatever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The stage is in darkness. GEENA and JACK are center front The BAND appear on-stage rising out of exploding graves, begin to play the intro to song “Necrophilia”. DR. D’s hand falls off. A ROADIE runs out, finds it under piece of equipment and reattaches it with a roll of duct tape. Dr. D talks to the audience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I'd like to dedicate this song to all you necrophiliacs out there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Amen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "If it wasn’t for filthy perverts like you, we would never get laid! Dr. D starts singing Necrophilia, which continues over ne two scenes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Establish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The PRESIDENT, followed by SECRET SERVICE AGENTS is walki toward a waiting helicopter displaying the Presidential S A MARINE GUARD is standing at the steps. An AIDE hands a portable phone to the President",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIDE",
+          "text": "Oklahoma, sir. Your cousin Reverend Jimmy Scruggs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRESIDENT",
+          "text": "Shit. What does that Bible humping bastard want? (into phone) \f40. PRESIDENT(cont'd) Cousin Jimmy, you old Bible thumping fire and brimstone son of a... Baptist preacher. How the hell are you? 29 INT. VERONICA’S DUNGEON - DAY 29 SCRUGGS, bare-assed, is sitting in tub of ice-water. INTE with the President as desired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Do you love God? Behind SCRUGGS, VERONICA playfully cracks her whip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRESIDENT",
+          "text": "Yes, I love God. What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "The end times are here Mr. President. The 69th sign. Verse 4, chapter 9. The dead have risen from the grave. Satan’s handmaidens have arrived and they call themselves the Diamond Dead. As the Lord is my witness, Armageddon will be upon us if they are not stopped. You are aware of the biblical consequences if their show goes on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRESIDENT",
+          "text": "I'm very aware of the biblical ramifications Jimmy. I’1l get one of my boys to deal with this right away. Jimmy? Sounds like you're in pain? Is that Mistress Veronica I hear in the background? Tell her Air Force One is standing by. I'll see her at Camp David. The PRESIDENT enters the helicopter and it takes off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA walks up to PUSSY. On stage, the performance continu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "So, what do you think? \f31 32 33 41.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "I don't see how this is possible. They're dead. They reek formaldehyde. How can it be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Part magic, part science, mostly bullshit. It's all so fabulously decadent, isn't it? Oooh, you don't want to miss this. This is where Dr. D spits maggots at the audience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "Oh, please, Jesus! She starts to puke again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DR. D sprays the AUDIENCE consisting of the press, sound crew, hangers on, etc. with a ridiculous excess of slime maggots. Song “Necrophilia” ends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA looks down to PUSSY passed out on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Wimp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "GEENA and JACK sitting in the front row are drenched in maggots and slime. JACK plucks a maggot from his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Look, Geena, real live maggots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Are you sure? That looks like a meal worm to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Nope. That's a maggot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "I don't think so. \f34 35 36 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "It restores my faith in American advertising. Real live maggots. Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DR. D smiles sheepishly at the now-soaked AUDIENCE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Miss anyone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUDIENCE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FAVOR MATHIAS",
+          "text": "He is standing at the back of the theatre, covered in sli",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "(to himself with anguished sarcasm) This is the best day of my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Flying high in the skies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The PRESIDENT is talking to the CIA Director, LARRY SIMMS",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRESIDENT",
+          "text": "Goddamit Simms, you're the CIA Director for Chrissakes! If the dead are rising from the grave, I want to know about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS",
+          "text": "Yes Mr. President.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PRESIDENT",
+          "text": "This has significant military implications. We must have dead raising capability. We must know the secret to life and death. I want you send your best operative to get it for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f37 38 43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS",
+          "text": "Yes sir. I know just the right person for the job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A fabulous old Gothic structure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Vaulted ceilings, stain glass windows. The beautiful marb altar is made ugly by a giant black velvet portrait of th Reverend Scruggs. A television sits on a pedestal, showing Dr. D spewing maggots. Suddenly, the TV is smashed by a twenty pound sledgehammer. REVEREND SCRUGGS throws the sledgehammer to side, and returns to the pulpit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Brothers and sisters, that was the scene at the Grand Quignol Theatre. Truly the end times are upon us. For the Bible says, \"The Devil walks among us.\" And, yea, though I walk through the valley of the shadow of Death, I shalt take no shit. Cue: “Gospel Funk Track” which continues until end of sce",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "The Devil has come, brothers and sisters, and he's one big sneaky son of a bitch. The dead walk the earth. Frankly, dear sinners, I feel a completely reactionary, knee- jerk, ignorant, fanatical outburst of violence is necessary to trod the serpent underfoot! Praise the Lord?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "Praise the Lord.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "It is written that the meek shall inherit the Earth but who wants this dirtball if it's crawling with rotting cadavers? Not me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "Amen!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Oh, no! Not me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "Amen!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "We must stamp out this evil. We must crush this festering blemish on the Earth between our two fingers of justice and watch as the yellow pus of evil squirts high and splats oozing down the mirror of pure crystal goodness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "Ooooh, Yuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "I feel the right swift hand of vengeance moving in me. I am his terrible swift sword. We must cut off the left hand of darkness to spite our faces. The Diamond Dead are messengers of death. We are soldiers of life. Let us cause violent death so that we may be rewarded for our life-affirming murder. We shall rebury the buried once and re-kill the already dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Praise the Lord.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "Praise the Lord!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Hallelujah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLOCK",
+          "text": "Hallelujah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "\"Vengeance is mine, sayeth the Lord,\" but mindless slaughter is for everybody, sayeth I. Amen! \f39 45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS gets up from his hands and knees on the stage, ha finished cleaning up the mess. He is wearing a rubber apr safety yellow cleaning gloves and has an air-filter mask his face. He moves the mask onto the top of his head when ARIA enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You wanted to see me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'm not sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "The sound check was great. We're going to make a killing. The band loves this place. I think we could book a week here, easy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I don't think so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Because I'm gonna kill myself as soon as I'm aware enough to feel it. He starts walking toward his office, she walks next to hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Maggots, dead men, slime all over my theatre, haunted hearses reporters everywhere, femme fatale rock women, too much coffee, not enough sleep, mucus covered clothes, caffeine sugar shock, Thorazine, too much weirdness cerebral hemorrhage, sexual frustration, genuine terror, large mounds of...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Stop already. You're babbling. \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Am I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I know we're a lot to take all at once. It's the way we are. Excess is best. Shock appeal and all that P. T. Barnum kind of stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "It worked. I'm shocked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'm sorry. It's all in fun, honest. It's rock and roll. They enter his office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS flops on the sofa-bed. ARIA faces him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "(blurts it out) So, do you love this Diabolicus dude?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Doesn't matter. He doesn't love me, so fuck it. SONG: \"CRASH-TEST DUMMIES IN LOVE\": ARIA AND MATHIAS play background.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Well... um... I'm not above exploiting a broken heart for my own personal gain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Look at me. I have to take advantage wherever I can. Just watch... I respect you, Aria. \f41 42 43 47. MATHIAS(cont 'd) I think that any guy who would snob you is an asshole and a Cyclopean jerk. You are incredible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Hey, that's pretty good. What do you do next?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I don't know. I've never got it right before. I don't have a clue. ARIA leans forward and kisses him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "How 'bout that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Wow. This thing seems to have its own momentum. They kiss again. Song ends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Establish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOOR",
+          "text": "A sign reads: \"CIA SUPER-SECRET HUSH-HUSH BLACK ROOM.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The chairs are filled with TEN MEN IN GRAY SUITS looking SIMMS, who presides at the head of the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS",
+          "text": "This is not a simple situation. We can't handle it with S.0.B. These guys have gone high profile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AGENT 1",
+          "text": "Yes sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS",
+          "text": "We have no choice. We’ve got to call in our best paranormal and aberrant sexual operative. \f48. One of the MALE AGENTS jumps up on the table. He stands u straight, covers his face with his hands and lifts up on tiptoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two stiletto heels click into place like switchblade knives(music beat one, two) and the shoes transform into women’s pumps. Black plastic skin tight armor replaces hi male attire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A riding crop springs into his hands. A mechanized corset grabs and constricts his waist. His chest swells under plastic bra cups (music beat three, four). Now only his f remains male. He lowers his head, hair obscuring his face Then throws her head back and it is VERONICA VINYL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS, (CONT'D)",
+          "text": "Agent Mistress Veronica Vinyl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALL THE AGENTS",
+          "text": "Oooooh!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "(to one of the agents) Oh, stop drooling. You'll get spit on my pumps. (to Simms) I read the file. VERONICA launches into a production number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS",
+          "text": "Yes, Agent V... I mean, Agent Mistress Veronica Vinyl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Make sure there's a jet helicopter waiting to take me directly to the theatre. Production number ends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIMMS",
+          "text": "I actually feel sorry for those boys. \f44 45 49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A large time worn room. Exposed duct work, stained yellow walls with holes in the dry wall. The BAND is sitting aro playing poker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fucking road. Fucking gig. Fucking road. Fucking sucks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You've got a busted hand, don't you, sweetie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fucking cards. You and your fucking poker face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "It's called rigor mortis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "I fucking fold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA and MATHIAS are making out, Mathias breaks away gasp for breath. ARIA looks at the clock on the wall. Time is precious to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "See? No disasters, no weirdness...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I know, weird, isn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You're impossible. ARIA pushes MATHIAS back onto the desk and begins strippi him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I mean, usually when I start to have a good time, the universe retaliates a lot quicker Technically, I shouldn't be able to get my shoes off before I get whacked. \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Maybe your luck is changing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Or maybe the universe is setting me up for a big one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Look Mathias baby, could we have less talking and more groping, I don’t have much time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I like to talk Aria. I need to talk. Can’t we do both?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Okay, what ever. How did you get in the theatre business?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I used to write music reviews until I flipped out. One night I found myself drunk and dancing on the roof of Alice Cooper's tour bus naked, singing \"Born Free\" with a Filipino transvestite named Dwight. ARIA pulls down Mathias’ pants and sees the impressive bu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Whoa!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I quit the magazine next day and moved here. Tell me about your band.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Fine... What do you want to know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I wonder what it would be like to be dead. ARIA pushes MATHIAS back on the bed and jumps on top of h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Something Like this! \f46 51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The BAND sit around a table playing cards. There is a kno at the door. RASPUTIN sticks his head in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Dinner is served. D sweeps the cards off the table. A line of BEAUTIFUL SER GIRLS enter carrying covered trays of food. They set the on the table and remove the covers. Beneath is piles of r meat and other unsavory things. The BAND attack the food with growls and tearing of flesh The exception is GLITTER, who takes the time use a knife fork and the best table manners.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "What was it like for you, D? Dying, I mean? You know, the first time... not including bad gigs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I don’t know. It was kinda spiritual.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "The fucking afterlife bites.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Mine sucked, too. As they talk food flies everywhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I remember the white light and so I went in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fucking hurt my eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I saw that too. Note: the scenes described by the band during the followi Green Room scenes will be shot in the style of 1950’s sci movies. \f47 48 52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HEAVEN BACK DOOR 47",
+          "text": "A dirty alleyway with dumpsters full of garbage. A couple ANGELS with wings, wearing hair-nets sneak a smoke break share a bottle in a brown paper bag. BANGZ walks up to th door. Over the door is a sign: \"HEAVEN BACK ENTRANCE EMPLOYEES ONLY.\" BANGZ sighs deeply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ, (V.0.)",
+          "text": "Fuck, man. I didn't go in. This fuckin' prick wearing a fuckin' sheet stopped me and fuckin' said, \"You can't fuckin' go that way. Musicians have to use the fuckin' back door.\" INT. MATHIAS’ OFFICE - NIGHT 48 MATHIAS and ARIA are in bed, getting it on. A ROADIE knoc on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROADIE, (0.S.)",
+          "text": "Aria, the fire inspectors are here. ARIA and MATHIAS stop moving under the blankets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROADIE, (0.S.)",
+          "text": "They say we can’t use the magnesium flash grenades in the show. They say it will cause blindness and the smoke is neuro-toxic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Fine. Use the riot smoke cannisters. And point the industrial laser at the audience. Same effect and the side effects aren’t as bad. The ROADIE leaves and ARIA resumes. MATHIAS stops her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I can’t do my best work if we’re going to interrupted all the time. I need a moment to get my breath. Tell me more about the band. Why does Spyder wear a mask? \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "(frustrated) Nobody knows except Bangz and he’s not talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Bangz used to be the sweetest guy until he saw what Spyder looked liked under the mask. He just cracked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Now Bangz just curses and swears and hates everything. Whatever he saw must have been bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "What about Spyder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Spyder’s all right. He only talks through his puppets. A touch of evil, but on the whole a nice guy. He works out his problems with his puppets. A man who wears sock puppets can’t be that dangerous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Are you sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Mostly sure. Now can we get back to business, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The dinner continues. Meat and blood and food is everywhe and on everyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I remember falling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Falling and falling. \f50 51 54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTER SPACE 50",
+          "text": "SPYDER is falling through the eternal darkness towards th light. He shoots past it, hurtling into outer space.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN, (V.0.)",
+          "text": ".. But I missed. Shot right past it. I went hurtling into outer space.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (V.0.)",
+          "text": "What happened? SPYDER'S BODY flies uncontrolled towards a GIANT MAGGOT l creature lined with huge sphere-like eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN, (V.0.)",
+          "text": "There's something out there. It lives beyond the light. It's not the Devil, it’s worse. It looks like all the evil in the whole universe. Black and bloated, all festering and cancerous. The thing’s nictated eyes open, releasing a swirling blac tempest of radiation that envelopes SPYDER'S body as he SCREAMS in agony.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN, (V.0.)",
+          "text": "I guess the thing ate whatever souls missed the light. I could feel the stuff changing me. Warping me... I couldn't stop it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BANGZ has become so engrossed by Spyder’s story, he hasn’ noticed he’s gnawing on D’s arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "(to Bangz) Do you mind? (to Spyder) That why you wear a mask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Small price to pay for your eternal soul. I got called back so I guess it paid off. \f55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Sorry, Spyder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "What about Diabolicus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I don't want to talk about him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Glitter, then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dinner continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Heaven was so beautiful: all fluffy clouds and stars. It looked just like my senior prom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HEAVEN 54",
+          "text": "ANGELS are lounging around on clouds. GLITTER, in his rob and wings and rhinestone halo, stands on his cloud and le loose with a harp solo, singing at the top of his lungs. ANGELS stare at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "(singing) bees And as we wind on down the road! Our shadows taller than our souls. There walks a lady we all know, Who shines white light ....and ....wants to bees SHOW... ee eevee He stops singing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER, (CONT'D)",
+          "text": "What?! It’s Stairway to Heaven. Led Zepplin... what?... fine... (to himself) And she’s buying a stairway t...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGEL",
+          "text": "Shhhhh! \f56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "(whispering) beens to heaven 55 INT. MATHIAS’ OFFICE - NIGHT 55 MATHIAS and ARIA in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Glitter’s a real sweetheart, but a real screamer in the gender department. It's a shame, too, because he's beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Ugh! They're mummies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I know, but my dad was a mortician. After a while, that kind of warps ya. I know everybody doesn't share my taste but fuck ‘em. I think they're unique.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I guess that's true. Personally disturbing, but true. Tell me about Diabolicus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I don’t want to talk about him. Don’t you ever shut up? ARIA waves her hand and the lights go out. Under the blan the going gets heavy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dinner continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You saw Jesus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Whoa!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "What was He like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "He was cool. \f57.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HEAVEN 57",
+          "text": "DIABOLICUS in his leathers and Black Sabbath T-shirt is walking in heaven. He walks toward a FIGURE in the distan It is JESUS. Glowing halo, golden vestments and sacred he medallion on his chest. Dr. D stops a passing ANGEL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Ganja ? The ANGEL ignores him pointedly. Dr. D continues. He approaches JESUS, who looks androgynous and holy, arms outstretched amongst the clouds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Hey Jesus dude, I'm a big fan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESUS",
+          "text": "Thanks... I like you too man. I like all you rock and roll guys. Hey listen you got any rolling papers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Sure. You got any smoke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESUS",
+          "text": "Don't tell Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "It's cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "You smoked a bowl with the Son of God? That rocks!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "What did you talk about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "All sorts of shit. He said straights and 9-5-ers didn’t need Him much and that a lot of Bible- humpers were posers. One thing He said was kinda cool. \f59 60 61 58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HEAVEN 59",
+          "text": "JESUS and Dr. D are getting toasted. They are lying ona cloud, staring up at the stars, passing the joint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (V.0.)",
+          "text": "He said He likes hanging with the fuck-ups. People who fuck up are the people who need Him most and learn the most.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ, (V.0.)",
+          "text": "Fuckin' A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Hey dude, don't bogart the joint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESUS",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuckin' cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I guess we're supposed to fuck up. If you do everything right, you don't score any points.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "I guess I'm a fucking genius then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "And I'm Mother Theresa. RASPUTIN enters and places a large cake on the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Dessert. I call this Zombie surprise. RASPUTIN cuts into the cake and cockroaches erupt from th inside, scurrying all over the table. The boys stab at th greedily with their forks. INT. MATHIAS’ OFFICE - NIGHT 61 MATHIAS and ARIA in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "59.",
+          "text": "It's a damn shame they died, though. Still, now that they are dead, I like them more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You sure are odd, Aria.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Thank-you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "62 The BAND lie around the room bloated and happy. D belches loudly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Being dead was hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Yeah, fuckin' big boobed bummer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I don’t want to go through that again alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Next time we fuckin' croak, we fuckin' croak together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": ". And we fuckin' stick together all the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "All for one!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Yeah. All for one... and for one! Fuckin' A! Bangz farts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Well said, Bangz. 63 INT. MATHIAS’ OFFICE - NIGHT ARIA and MATHIAS are smoking in bed. for the yellow cleaning gloves. . All 63 MATHIAS is naked except \f60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You’re leaving something out. I can smell a big ole butt a mile away....Let me rephrase that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Well... We had one other problem to overcome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "The Diamond Dead are cannibals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Don't worry. We got it mostly licked now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "What do you mean, mostly licked?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "We had a few minor incidents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Such as?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "We think Spyder ate my landlord.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Oh-my-God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Spyder won't talk about it. He was completely freaked out. That's when he started using the sock puppets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Oh my God... How do you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I found some bones in the laundry room... Just a couple... And a left shoe. Oh yeah. A pacemaker. That's all!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "That's horrible. \f64 61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "My landlord was an asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Still, I mean... I don't know what I mean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "We solved that problem, though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Raw beef soaked in synthetic human pheromones. Smells like shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Does it work?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "If they eat regular.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "And if they don't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I make sure they do. It's not their fault that they're flesh-eating zombies. It's a handicap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "SCRUGGS and his NUMBER ONE ZEALOT get off THREE BUSES. Th are followed by a SMALL ARMY of fanatics. They start marc along the street, handing out pamphlets along the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Our ETA's one hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Fine. We shall hunt down the undead and burn them in their own den.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "I don't think that would be wise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Why? The Lord is with us. \f62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "A thousand rabid Diamond Dead fans might object to us immolating their heroes right in front of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "\"The Lord is my shepherd.\" He will protect us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "The good book also says, \"Thy rod and thy staff shall comfort thee.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Truly, brother. what do you suggest?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Let's buy some rods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Hmmm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Billy Bob's 24 Hour Christian Gun Shop is two blocks from the Grand Quignol Theatre. Billy Bob has served our church's assault weapon needs for twenty years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Thou art truly a man of God, brother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZEALOT",
+          "text": "Thank-you Reverend, I try.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "VERONICA VINYL presses a hidden button her riding crop an antenna rises out of the handle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "(speaking into the crop) Agent Vinyl reporting in. Get me Simms. (beat) I saw Reverend Scruggs' and his mindless sheep at the bus terminal. They are on their way to the theater and they ain't toting Bibles. \f63. VERONICA(cont 'd) I got a backstage pass and I don't want loony tune Elmer Gantrys screwing up my show... Are you wearing the pink panties I sent you?... Slut! She hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (CONT'D)",
+          "text": "I love my job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IN THE OTHER SIDE OF THE WINGS",
+          "text": "DR. D, SPYDER and GLITTER sit, watching the ROADIES work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I got a bad feeling about tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I don't think we're experiencing anything that other superstar bands haven't gone through in the past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You've got to be kidding?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I live in a constant state of dread. I like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I don't know, man. Something isn't right. I'll agree with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "It's you, D. That's what's not right here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You're in love. You stupid dead- neck son of a bitch! You're too damn self absorbed to see it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "(both puppets singing) D and Aria, sitting in a tree K-I-S-S-I-N-G. Dr. D pulls both of Spyder's puppets off his hands and th them over his shoulder. \f64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Aaaah! SPYDER looks at Dr. D with venom in his eyes and runs aft them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I've got problems, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You got no problems. You're over that now. She loves you. How many girls do you know who are willing to accept you in your particular state?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "This is necrophilia you're talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "What's your point?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "It makes me sick to think of her touching something like me. I respect her. I want to keep it that way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "She doesn't have a problem with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I have a problem with me. I'ma thing, a ghost, a memory. She's in love with a memory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Some memories. Our lives sucked. Maybe this is all the afterlife we get. This is our just reward. Maybe, this time it can be better. We've got one more shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA and MATHIAS are dressed. \f67 65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You gotta have a little faith sometime Mathias. Have a little faith in me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Okay. You're right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You're right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Say it one more time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I said you are right. Why are you making me say that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I've never heard a man say that before. That's amazing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Well you're right Aria. I gotta trust someone. I gotta unclench my sphincter sometime. ARIA kisses MATHIAS sweetly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You are so-o hot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JACK and GEENA corner DR. D and fire off rapid fire quest not allowing D to respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "So, is that your real hair, or just a wig?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "How do you pronounce your vowels without lips? \f66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "If you're dead, how come all your blood doesn't settle in your ankles?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Have you thought that as your brain decomposes and turns to methane gas that the smallest spark could blow your skull apart?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "With no circulation, how do you get an erection?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "How come your eyeballs didn't shrivel up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "How do dead people shit? Dr. D looks around for some sort of escape from JACK and GEENA. He spots VERONICA VINYL seductively stalking acros the backstage area.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Sorry, guys. The old Doc just found the cure for what ails him. Dr. D beelines toward VERONICA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (CONT'D)",
+          "text": "Hello. Can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't know. Do you have a high pain tolerance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Dead nerve Diabolicus is what they call me. What do they call you besides maybe gorgeous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Veronica Vinyl, but you can call me goddess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I don't know. I'm an atheist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I can cure that. \f67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Are you for real?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Let's not ruin a perfectly depraved conversation with existential paradox disguised as philosophy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I agree. Intellectual banter impedes one's ability to maintain a sensual sense of spontaneity, and in fact hampers positive primal instinct.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "It's all such a semantic nightmare of pretense, don't you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "So do you wanna screw?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Yup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Hearse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Perfect.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Let's go. Dr. D and VERONICA exit. SPYDER steps out of the nearby shadows .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Ummmmm. I'm gonna tell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Don't be a snitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Doctor Diabolicus is being bad. \f68 68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "He's working shit out. Leave him alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I can't. I'm a creature of strict moral code.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "You're a sock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "That doesn't mean I can't aspire to be the best sock I can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "You're messed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Hey, if we tell Aria, we might get a dramatic, if not violent response from the whole thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Guaranteed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Let's do it. SPYDER skips across the backstage area, singing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Aria! You'll never guess what we saw!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "REVEREND SCRUGGS and THE FLOCK are standing in the parkin lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Brothers and sisters, we stand before God, humbled this night. For we know we do his work, thus saving us direct consultation. And yea though we carry no sword of justice, we can carry the AK 47 of righteousness. \f69 70 69. At JIMMY'S feet are two cases of machine guns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND, (CONT'D)",
+          "text": "Line up, brothers and sisters, and receive thy communion. The REVEREND grabs the first rifle and slams in a clip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND, (CONT'D)",
+          "text": "God bless America!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AT THE OTHER SIDE OF THE PARKING LOT 69",
+          "text": "One of Diamond Dead’s hearses is bouncing violently up an down. Over the squeaking of the suspension, Diabolicus ca HEARD screaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (0.S.)",
+          "text": "Oh my God! Oh my God! Stop! Stop! My spine! Ouch! I can't do that! Ouch! Ouch! Stop! Mister wiggle worm is very fragile. You'll twist it off! Oh please stop!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (0.S.)",
+          "text": "Yes! Yes! Show me the secret of life and death! It makes me sooo hot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (0.S.)",
+          "text": "Oh please stop!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (0.S.)",
+          "text": "Is that all ya got dead boy? One more time!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (0.S.)",
+          "text": "Noooooo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We HEAR Aria's voice screaming inside the dressing room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA, (0.S.)",
+          "text": "I can't believe it! That slimy road kill son of a bitch! The dressing room door explodes outwards and SPYDER flies through the air. He lands on his back. ARIA steps over hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm gonna kill him, then I'm going to reanimate him, and then I'm gonna kill him again. ARIA exits through the backstage door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Spectacular results.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Next time you wanna play with a grenade, let's not sit on it after we pull the pin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Point taken. MATHIAS steps through the ruined dressing room door and addresses SPYDER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Umm... Don't you guys have to be on stage in a few minutes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Didn't you read our contract? It states that in case of accidental re-death among the band, the show can be delayed up to one hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "How long do you suppose this delay may be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Depends on whether we get D back in one piece or several. I hate when they fight. The results can be quite disturbing. All the screaming and crunching bones...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Don't tell me anything else. Tell Aria. I'll see her later. MATHIAS exits, shaking his head sadly. 70. \f71",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dr. D and VERONICA step out of the smoking interior of th hearse. VERONICA appears immaculate. Dr. D, however, look like hell, disheveled, pale and sweaty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Thank-you, D. That was truly a revolting experience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "We aim to disgust.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I'll call you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Give me a couple weeks. Okay? VERONICA walks off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "(to herself) That was a waste of pelvic pressure. Shit! ARIA approaches Dr.D.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Why, Aria... Um... Hi. I was just thinking about you. ARIA swings and hits Dr. D in the face. His head SPINS AR UNTIL IT FACES BACKWARDS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You unbelievable prick",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I deserved that. Do you feel better? ARIA stomps on his foot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (CONT'D)",
+          "text": "Yaah! AS DR. D tries awkwardly to bend forward with his head on backwards, ARIA kicks him in the ass. DR. D flies forward his head smashes through the windshield. \f72 72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Curtain in thirty minutes. Dr. D lies there, stunned. His voice is muffled inside th hearse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Anything you say, Aria.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Damn straight! ARIA stomps off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "It's interesting to me how I can be such an amazing asshole knowing that the universe won't let me get away with jack shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "REVEREND SCRUGGS stands in front of the theater, leading PROTESTERS. The sticks on their signs bear a close resemblance to gun stalks. JACK, who in the meantime has drifted outside the theater, is pulled from of the crowd the REVEREND.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Have you found the Lord?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "What does he look like, dude? Is he inside?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "He is the Lord of all things. The Father of creation. He is Alpha and Omega.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Hey, if I see him, I'll tell him you're out here. What is he wearing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "I'm concerned for your immortal soul, son. The Lord loves you and He wouldn't want you to go inside. \f73 74 73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Shit. This guy must know my parents, because they're wound awful tight, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "(shoves him back into the crowd) Never mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Rock and roll!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS and ARIA are together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I just have this hideous feeling that something hideous is going to hideously happen to me...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Don't be silly. Life is hideous. Rock and roll just fills in the gaps between the monotony of day to day futility.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Well. If you put it that way... The walkie-talkie in her hand buzzes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "RASPUTIN is on the walkie-talkie. INTERCUT with ARIA as desired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "No shit, Aria. There's about sixty born-again fanatic right-wing types out front. They look really pissed off... Yeah. It's that crazy Rev from TV. It gets worse. On top of that, the American Guild of Funeral Directors are planning to picket. They say the band is restraint of trade. It's kind of scary out here. The roadies want to break out the real guns... We got to protect our audience. \f75 76 74. ARIA seems delighted to hear this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "(into walkie-talkie) Open the doors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "RASPUTIN is at the door as FANS stream past after being frisked by SECURITY. Huge piles of CONTRABAND and WEAPONS heap up on either side of the doors: everything from drug rocket launchers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Alright. Protesters on the left, ticket holders on the right. No drugs, booze, food, beverages nudity, or politicians. No fighting, running, pushing, jumping or excessive breathing. No sex, sex guides, sex lubricants or sex deviance. No studs, spikes, car keys, pagers, cell phones or laptop computers. Most important, no guns grenades, rocket launchers, anti- personnel mines or catapults, cross- bows, swords or siege equipment. Keep moving. Enjoy the show.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "VERONICA is watching the ROADIES work. SPYDER pops his puppets out from around the corner. The rest of his body hidden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Hey, shark lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We want to talk to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't talk to footwear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I don't usually talk to women who dress like a plastic action figure, but it's a new experience. \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "(moving closer) What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Ummmmm. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We want sex. It's a character flaw we have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "D had sex, so we want sex, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I'm not a vending machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "How was it with D?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're one sick sock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We sure are. So how was it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Interesting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "How would you like to graduate to unique?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Do you know the secret of how to reanimate the dead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Absolutely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Will you tell me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Are you kidding? For a little play I’d rat out my own mother. The puppets retreat behind the corner. VERONICA follows. HEAR footsteps. CAMERA rounds the corner and angles on th slightly ajar dressing room door. Voices come from the ro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (0.S.)",
+          "text": "What's with the mask? \f77 76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN, (0.S.)",
+          "text": "Would you like to see?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (0.S.)",
+          "text": "Whatever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN, (0.S.)",
+          "text": "Are you sure? It's not pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (0.S.)",
+          "text": "Nothing about this gig is pretty. Show me already.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN, (0.S.)",
+          "text": "Okay. You asked for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "(together) Ta-da! Veronica SCREAMS and the door SLAMS shut",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA is talking to RASPUTIN behind the amplifiers. In the background the crowd is chanting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CROWD",
+          "text": "Diamond Dead! Diamond Dead!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "I don't know, Aria. This is a dangerous situation. The police are trying to close us down. The fanatics are screaming at the door. God knows what those crazy pricks are up to. I'm scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Five minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "The boys could get hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Five minutes. Make the call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Alright. It's your circus. \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JACK and GEENA have found seats on top of the marshal amplifiers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Boy, these seats kick ass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Does it look like a riot from up here or what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Yeah. The band hasn't even come on yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Gee. It looks kinda dangerous down there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "...And we're above it all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Nice and safe. No moshing or fighting or fucking or pushing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "These seats suck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Yeah. Let's go bug the band.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Fuckin' A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The house is going wild as the AUDIENCE works itself up i a fever pitch. Acts of individual lunacy add to the chaos",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The THE BAND is doing their touch-ups, except for SPYDER, is unaccounted for. JACK and GEENA enter and walk over to ARIA who has Dr.D on a table and is stuffing his open sto cavity with silicon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "What ya doing? \f78.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "To prevent decomposition I had to remove the boys internal organs and replace them with silicon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "I feel like a giant tit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You are, dear. Dr.D and ARIA are purposely ignoring each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "D, why don’t you talk with Aria?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "No thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Aria, you talk to D. He loves you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Bullshit. JACK and GEENA are still curious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "What’s Bangz doing over there? BANGZ is bathing in a big barrel and is wearing a shower",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That’s embalmers lotion. Helps keep their skin to be pliable. Unfortunately embalmers lotion is mostly a powerful synthetic female hormone. BANGZ stands up in the barrel and is sporting a fabulous of female breasts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Oh! I cant fucking live with this at all!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Oh shush. Look at Glitter! He isn’t complaining. \f79. GLITTER dances around the room flaunting his new tits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I feel pretty, oh sooo pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Can I try that stuff... I mean as a experiment ? Umm... Never mind. D gets up from the table and suddenly looks concerned. He looks down his pants in horror. Bangz steps closer and lo down D’s pants curiously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuck me D. Where’s your man monkey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Oh God! I hope I left it in the hearse ‘cuz the alternative is to horrible to contemplate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "What I want to know Aria is, so what if D slept with another woman...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Yeah. So what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I mean, c'mon sweetie, everybody knows you boinked that neurotic theatre manager.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "What?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Jesus Christ! Is nothing sacred?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "You slut!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "You prick!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "(to Glitter) You're a fuckin' diplomatic genius baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Sorry. \f80. SPYDER enters. Everyone falls silent. All eyes turn on hi accusingly. There's a long pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Where the hell have you been, girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Aww, you know, here and there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "It's thirty seconds to curtain. What were you thinking?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Baseball, petroleum products, how much I really enjoy a good meal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "You got blood on your mask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "It's paint. It's nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Who'd you eat, Spyder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "That's blood, dude. Who'd you eat?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I didn't eat anybody. Honest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "I saw that fuckin' rubber bitch and Spyder go into a dressing room earlier. I think they fuckin' did more than fuckin' fuck. RASPUTIN enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Curtain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Oh my God... I can't believe you ate Veronica. \f81 81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I thought you said she didn't matter to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "She doesn't. I mean, she does. I mean, she was eaten, for Chrissakes. That matters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Not if she didn't mean anything to you. You shouldn't care.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "How would you like it if I ate your spazola boyfriend ten minutes after you shtupped him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Don't you touch him. He's a nice guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "See. Bugs ya, don't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I didn't eat anybody!!!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Curtain!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "C'mon. Let's rock and roll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The ANNOUNCER walks up to the microphone. The AUDIENCE fr out. The lights come up on the stage. The set is a forced perspective of a overgrown necropolis on the outskirts of bombed out Emerald City of Oz. A LARGE CLOCK on a marble is part of the set. Suddenly, there's a BLINDING FLASH and ARIA appears stand on a tomb with guitar in hand. She strikes an open chord the graves begin to split. Rising out of the earth, the r of the BAND appears. ARIA begins to speak, weaving a kind Rock and Roll spell which sets events in motion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SONG",
+          "text": "\f82 83 82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "(singing) Mirror mirror in hells own heart Who’s the baddest band to blow part! Mirror mirror staring in my face! Who’s the baddest bitches to rock this place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR.D",
+          "text": "(singing) Stomp on the gas! Lets go! Move your ass! Lets blow! Hit the highway ! Don’t Stop! All The way over the top!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHORUS",
+          "text": "(singing) My little piece of Armageddon. It’s a suicide pact. An unholy weddin’!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR.D",
+          "text": "(singing) Foot off the brake! Kick it out! Let your hands shake! Scream and shout! Turn off the headlights! Pistons Cry! Feel your fright! Brain fry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PUSSY sings into the CAMERA. REVEREND SCRUGGS stands near",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "(singing) Tell me how’s my hair! Check my face. Let’s shoot this thing! I know my place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "(singing) I’m gonna Pray to God, lock and load. It’s a holy march. A bloody road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY AND SCRUGGS",
+          "text": "(sing chorus) My little piece of Armageddon. A righteous cause. A fitting endin’!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MATHIAS watches the show. ARIA sings on stage. The music tempo slows. THE LIGHTING CHANGES AND ARIA AND MATHIAS AR THE ONLY TWO PEOPLE IN THE THEATRE. ARIA is illuminated i single follow-spot. \f84 85 83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS ARIA",
+          "text": "I can't believe I'm still (sings an aria over here. She's a musician. She's Mathias speaking) not my type. What happens Don’t let your dreams die. when she gets tired of me? I'm afraid. I'm afraid of everything. I don't feel good. (singing) ) Its my little piece of Armageddon. My hell, my soul bloodletting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The spot light irises out revealing the stage. THE LIGHTS COME UP AND WE ARE BACK IN THE SHOW. The BAND is playing the stage. Dr. D approaches the microphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "(speaking) Do you believe in life after death? The CROWD SCREAMS. Dr. D looks over at ARIA who returns h stare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (CONT'D)",
+          "text": "Neither do we! The beat picks up and the chords change.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "(singing) Burn witch burn. Back To hell! There is no future! What’s that smell!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The REVEREND and his FLOCK have drawn their weapons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "(speaking) Let's go kick some pinko commie satanic demon ass!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Try to hold them back.. Shit! They rush the doors and overpower the SECURITY GUARDS. \f86 87 84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A ZEALOT carefully places a large TIMED EXPLOSIVE PACKAGE the air-conditioning system. He checks his watch and pres a button on the timer. The clock on the explosives starts ticking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The BAND is playing in the background.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "(singing) Feed the god. We want sacrifice. Born for sin raised on vice! It’s my little piece of Armageddon A suicide pact an unholy weddin’. REVEREND SCRUGGS and his FOLLOWERS rush into the theatre, shooting wildly. They charge down the main aisle toward t stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Stop this secular humanistic debauchery! The REVEREND fires a round, hitting GLITTER'S guitar. The BAND stops playing. The music continues as a_kind of tens underscore. They look at one another, confused, and then SCRUGGS. An eerie stillness falls over the confused CROWD",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "That bitch shot my Les Paul!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "And the Lord said unto me: Drive the unclean spirit from thy land!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You bitch! That's a Les Paul! Girl, don't you have any respect?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Duck! ARIA, DR. D, SPYDER and BANGZ dive for cover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Fuck that. I'm gonna slap dis Ho'! \f85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Fine! The FLOCK opens fire on the stage. The music builds in te with gunfire as percussion, pumping hundreds of rounds in GLITTER, tearing away huge chunks. The gunfire continues until the FLOCK has emptied their clips. What's left of GLITTER crumbles to the ground. The FLOCK frantically reloads. RASPUTIN charges onto the stage, followed by TEN ARMED ROADIES. Music returns to a tense underscore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RASPUTIN",
+          "text": "Freeze! The REVEREND turns to his flock",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "We shall be rewarded in Heaven. The ENTIRE AUDIENCE suddenly JUMPS UP WITH GUNS DRAWN pointing at SCRUGGS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND, (CONT'D)",
+          "text": "We have exorcised the unclean spirit. SPYDER, Dr. D and BANGZ stand up, armed with machine guns walk to the apron.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "(into microphone) Does anybody here not have a gun? In the balcony, MATHIAS raises his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Um... I don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Sir, would you please be kind enough to leave the building? MATHIAS runs for the exit. Dr. D fixes SCRUGGS with a venomous stare. ARIA steps forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "My turn. \f86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND",
+          "text": "Burn in Hell, Satan! She waves her arm and the lights suddenly go out. The mus becomes the sharp percussion again. The entire theatre ER in gunfire. It creates a kind of STROBE LIGHT effect as hundreds of guns fire at once. The gun battle goes on for full twenty seconds before the shooting finally ceases an the lights come back up. Everyone in the auditorium lies dead. The music changes to a slow eerie dirge like tune. rolls into the house. In its center DEATH glides in. The CLOCK on the marble tomb begins to chime midnight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DEATH stands in the middle of the house, knee deep in bod",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Now, I say, I say. That's entertainment. ARIA steps onto stage, carrying the scythe. She steps ove PUSSY'S BODY and over to Dr. D's still form, lying face d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Are you dead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Yes. She kicks him in the ribs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Good. You stupid son of a bitch! Look at this place. Holy shit. It's a fucking mess. I can't have this kind of shit every night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Sorry. I'll get a mop. DEATH begins climbing over the bodies toward the stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "I say, this positively elegant. You found a novel way to balance the books. I knew you were a natural. Excuse me lady, but I really do need my scythe back. \f87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I need it right now. I can't leave things like this. Dr. D, BANGZ and SPYDER get up and go to GLITTER'S RUINED CARCASS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "You're gonna have to. Give me my scythe. Dr. D walks over to ARIA's side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Who is this guy, Aria?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Nobody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Then fuck him. The bell continues to toll very slowly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Everybody goes. No exceptions. Your a Goddess of Death now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Keep it, Aria.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "We had a bargain missy. It's time. ARIA walks to the edge of the stage and leans over, as th final bell tolls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I fulfilled my bargain Morty. She raises up her scythe, hits the reverse switch and twi it over her head. Lightning FLASHES in arcs from the stag points in the house and to the balcony. Lights EXPLODE. T breakers fail and the theatre is thrown into an eerie lig as the slain audience’s bodies begin to twitch and convul with new life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH",
+          "text": "Noooooooo00! \f88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "The clock struck twelve Morty. Our deal is done, and I’m off the clock, and you can’t do shit. DEATH rises up out of the pit and onto the stage charging ARIA in a rage. MATHIAS steps out of the wings between ARIA and DEATH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Leave my girlfriend alone! You dick! DEATH swats MATHIAS out of the way and MATHIAS is airborn crashing into the amp stack. D, BANGZ and SPYDER attack D to little effect. He knocks them aside as easily as he di MATHIAS. ARIA swings the scythe with both arms and throws it at DE It spins through the air as if in slow motion. It shears DEATH’s head cleanly and buries itself in the proscenium arch. ARIA picks up Death’s head and throws it to BANGZ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA, (CONT'D)",
+          "text": "Lose this somewhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fucking hard-core!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEATH'S HEAD",
+          "text": "Put me down! That's my think tank you're bowling with! The SLAIN rise, in harmonic choral parts. First the Sopra section spotted around the house then the tenors, bariton Then everybody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUDIENCE",
+          "text": "(singing) Don’t let your dreams die! Don’t let your dreams die! SCRUGGS is standing in the pit, facing the audience. His FLOCK and ZEALOT are singing along with the audience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCRUGGS",
+          "text": "What are you doing? You’re my faithful followers! What about the church? What about God? What about me?! \f88 89. The AUDIENCE and FLOCK sing louder. SCRUGGS realizes he has lost everything and skulks toward the exit. SPYDER carries Glitter’s only remaining body part, which his HEAD, offstage. The AUDIENCE continues to sing. Dr. D walks up to the microphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Ladies and gentlemen. Dead and back again, courtesy of the Diamond Dead! We love you! Good night! ARIA takes her guitar and throws it into the audience. It arcs high overhead, spinning slowly, disappearing into th darkness. Dr. D drives the blade of broadsword microphone into the stage and walks off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "PEOPLE are leaving the theatre. PUSSY talks to her TV audience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "The Diamond Dead have made rock history tonight, demonstrating their powers over life and death. One thousand bullet-ridden Diamond Dead fans will tell you that it was real. What's next for this band? Who knows, but it doesn't matter because I was here and you weren't. JACK and GEENA walk out of the theatre. She is carrying Aria’s guitar and he, Dr.D’s microphone. They also sport bullet holes in their bodies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY, (CONT'D)",
+          "text": "What do you think of the Diamond Dead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Yeah. They were cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "A little weak on bass and the energy seemed a little down. \f90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "The sound engineers seemed to favor the high end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "I noticed that, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "It's a common mistake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSSY",
+          "text": "But what about the climax?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "The whole death trip has been a little overplayed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "What are the Diamond Dead going to follow it up with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "It's the whole Andy warhol trap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "They've got no place to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Sorry, Pussy, but the Diamond Dead have reached their height.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Has-been city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Great while it lasted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Pack it up Pussy. PUSSY stares open-mouthed as JACK and GEENA walk away. As they walk away GEENA starts playing ARIA’S guitar. JACK slings Dr. D’s microphone over his shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I got shot four times in the chest!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "I got it in the head, and a shotgun in the belly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "That was so fucking cool. \f89 90 91.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEENA",
+          "text": "Where are they playing next?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRESSING ROOM DOOR",
+          "text": "From the room we HEAR voices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER, (0.S.)",
+          "text": "D?... D?... Are you there, pal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (0.S.)",
+          "text": "I'm right here, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA and the BAND are gathered around GLITTER’S HEAD on t table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Looks like it's our last gig together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Bullshit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "(coughing) No, I'm outta here, girl. Listen to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I want you to have my thigh high boots, the faux zebra platforms. You always coveted them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Don't talk like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Spyder? SPYDER begins to talk with the SOCK PUPPETS, but instead jerks them off his hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I'm here. \f91 92.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You can have all my socks and my Ibenez Paul Stanley Special.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Don't die again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Sorry, Bangz?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Fuck you too! Asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Aria?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'm here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "You got the ax. Don't let the band die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Sure. GLITTER closes his eyes and goes still. Silently, Dr. D, BANGZ and SPYDER exit, leaving ARIA. ARIA lays a scarf ov GLITTER'S HEAD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "SCRUGGS, not quite given up, is creeping around in the da hallway with menace in his eyes. He rounds a corner and c face to face with D, SPYDER and BANGZ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Can you pray, Rev?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Better make it a short prayer",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Yeah. Real fuckin' short. \f92",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Say \"hi\" to Jesus for me. SPYDER has is back to CAMERA. He removes his mask. SCRUGG eyes widen in horror. His unholy scream is cut short by a dark tongue-like object impaling his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D, (CONT'D)",
+          "text": "Asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA is alone with Glitter’s remains. There's a COUGH und the scarf and ARIA pulls it away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "Where is everybody?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "We thought you were dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "I ain't dead. I'm just a head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GLITTER",
+          "text": "(coughing) I think I got a slug stuck in my throat. Could you dig it out? MATHIAS enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I need your help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'm really not well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "C'mon. I need your help. The boys have gone after Scruggs. They're gonna kill him. Where's your car keys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I need your car. I think Scruggs is on his way to the airport. \f93 94.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You can't drive my car. It's a Stingray classic. I don't even drive it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Perfect! ARIA grabs MATHIAS by the arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I don't have time to argue. The boys are hungry and we got to stop them before it's too late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The place is now deserted. Dr. D, BANGZ and SPYDER walk through the lobby, knee deep in garbage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "I had fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Me, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Why, we got a hell of a fuckin' show. We kill the audience every night. Wow! I think it's fuckin' great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Everybody's afraid of death. It's an unknown. People feel powerless against it. Some folks will see us as having the power to help them beat death. Others will see us and think if they can beat us, they can beat death. Either way, every show we play is going to be a slaughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We did what we came to do. We fucked with everybody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "We better go underground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "We can't hide. \f95.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "What about Aria?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "You love her right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "Ahhh! She doesn't need me. She needs that little guy. I finally figured it out. I don’t need a lover. I love me. I'm what I need to be happy. I’m just too damn cool. I'm to damn me. And nobody should have to deal too much with my me-ness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "That is either the most noble thing you have ever said or the most disgusting. They exit through the lobby doors and walk up to the stag",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "VERONICA VINYL is in front of the stage with Aria's scyth DR. D, BANGZ and SPYDER walk up to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANGZ",
+          "text": "Hey, it's the fuckin' rubber lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Hello, boys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Told you I didn't eat her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Hello, Spyder honey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Where ya been? She leans against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "D, Bangz, this is Veronica, soon to be Mrs. Syn. VERONICA is a bit taken aback. She twirls the scythe. \f94 95 96.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "That’s mistress Veronica.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "Yes mistress Veronica.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPYDER SYN",
+          "text": "(to D and Bangz) What a woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I was sent here on a Presidential secret order. For this. (she holds up the scythe) It was my job. Not that I don't enjoy my work. I do, but you guys are different. If I let the government get hold if this, we’d all be fucked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. D",
+          "text": "That’s fine by me. Like the man says, better to burn out than to fade away. SPYDER removes the sock puppets from his hands and hugs VERONICA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Grand Quignol EXPLODES in a fire ball. Aria’s scythe flies through the air, disappearing into the night sky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The scythe falls from the sky embedding its blade in the blacktop of the road. A breeze blows dust past. On the wi is distant music. ARIA’S hand reaches down and pulls the scythe from the blacktop. ARIA and MATHIAS stand on the shoulder of the road, having just stepped out of Mathias' STINGRAY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Sure you don't want to come with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "No. I'm committing myself ina couple hours. \f96 97.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Suit yourself. What about your theatre? MATHIAS smiles sheepishly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'm insured.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'm gonna miss you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "I'll miss you too, in a strange masochistic, romantic, terrified way. I'm sorry about your band. I'm sorry about your... you know... um boyfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "I'm gonna miss a lot of things. Oh well, that's life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "According to death?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "That's me. MATHIAS gets in the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "You're truly special. You know that, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARIA",
+          "text": "Of course. I'm not stupid. MATHIAS starts his car and drives off. EXT. MATHIAS’ CAR - MOMENTS LATER 96 MATHIAS is talking to himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "This sucks. A HEARSE going the other direction screams past MATHIAS. \f97 98 98.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ARIA begins to walk down the road, her scythe over her shoulder and a head-shaped bundle wrapped in butcher’s pa in her hand. A CAR speeds past her and then slams on it's brakes. It i '57 CADILLAC HEARSE. ARIA smiles and gets in. The HEARSE roars its engine and takes off for the vanishing point. EXT. MATHIAS’ CAR - MOMENTS LATER 98 MATHIAS slams on his brakes and power slides 180 degrees. roars after the hearse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATHIAS",
+          "text": "Rock and Roll ! This is crazy! This is crazy!",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_317"
+    }
+  ]
+}

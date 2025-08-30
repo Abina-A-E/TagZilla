@@ -1,0 +1,5409 @@
+{
+  "movie_id": "MOV428",
+  "scenes": [
+    {
+      "location": "BEDROOM",
+      "time": "NIGHT",
+      "characters": [
+        "OK.",
+        "DERM",
+        "AWAY FROM ME",
+        "THE END",
+        "IT'S NOT MY FAULT",
+        "EVE",
+        "MRS MASTRIONI",
+        "SUSIE",
+        "GEORGE",
+        "DOCTOR",
+        "IT MEANS YOU'RE GOING TO HELL",
+        "MOTHER",
+        "HARVEY",
+        "SNYDER",
+        "NOT",
+        "SADIE",
+        "CELESTE",
+        "MAZUREK",
+        "NURSE",
+        "GEOFFREY",
+        "STEWART",
+        "OPERATOR",
+        "WOMAN",
+        "FROM ME",
+        "ED"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Ed lies awake in bed.  He is sweaty and nervous.  His eye He picks up his bedside clock which is ticking loudly.  I He looks over at the other side of the queen-size bed. It is still made. He picks a long, blonde pillow and examines it curiously. There is a noise outside and Ed gets up to investigate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed walks through the dark hallway and into the living roo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "By the front door, hanging on the wall, is a framed picture of Eve, Ed's wife. Ed passes by it and loo through the window. There is some wind outside, but nothi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed looks longingly at his reflection. Ed Saxon, 45, is a morbid, insecure man. His frustration with his l his sense of humor with an acerbic bite. His early succes publications of his poetry, has given him a professorship University. He is well-read, intelligent, a bit pompous a occasionally condescending. But mostly, these qualities a and his outward appearance is a little sorrowful. There i unquestionable charm about him, and its effect is evident around him. He searches through the medicine cabinet, which is full of women's items, and takes out a Cosco-sized bot sleeping pills. He reads the back and takes two. He hears something bang against the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He opens the front door and takes a step outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks down by his feet and finds the morning paper, wrapped in blue plastic, lying on the doormat. He and goes back inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed stands helplessly in the empty living room.   Ed's desk sits on one side of the living room, crammed into the corner. He searches quickly through the desk and finds a small address book. He finds a name in t dials the number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "(over phone) Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Susie.  Hi, it's Ed.  I'm sorry I woke you up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Is something wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Eve isn't there, is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "No.  She's not there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  She didn't come home after work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Oh, no.  Didn't she call or anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  She was supposed to be home around six.  I cooked he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Could she have gone anywhere else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't think so.  Do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm a little worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "I bet.  Did you call Harborview?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  Do you think I should?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Yeah.  If she got into an accident of something, they wou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You don't think that's overreacting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Don't be silly.  Just call them.  It can't hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Alright.  But if she comes home later and it turns out to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Call me back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Alright. Ed finds the Yellow Pages and finds a page of \"non-emergency\" numbers. His finger runs down the list: T Disaster, etc. until he comes to Hospitals and then Harbo dials the number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Harborview.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.  I wanted to find out if someone had come in.  In",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Hold on. She transfers him and the phone rings again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Emergency room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I wanted to find out if someone had been brought in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "What's the last name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Saxon.  Eve Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Are you a relative?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She's my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "One second.  No.  No one with last name Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Are there any other hospitals that I could check?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Well, we serve as the emergency room for King County, so unless they specified a hospital, they would have been In an emergency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "OK.  Thank you. He calls Susie back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Jeez.  Did you guys have a fight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Did you call the school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yeah, a while ago.  No one answered the phone there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "It's not like her to not call, is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, she would have called.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Why don't you call the police?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The police?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Maybe they know something?  Like if she was in an acciden",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's going a little far, don't you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "I don't know.  If you're worried...It's not like the poli",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I guess.  OK.  I'll call you tomorrow.  Sorry to wake you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "It's OK.  Call me tomorrow. He hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed looks around the kitchen, searching lazily for something to eat. He opens a cabinet that is full of fat-free Skin-EE( chocolate-marshmallow cookies. He opens the fridge, looks around and takes the plate of food he made for his wife. He takes off the cell starts to eat. He sits at the table, but after a few more bites, he lose",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed sits at his desk, staring at the phone.  He takes a br",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "911 emergency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hi.  I don't think this is an emergency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "What's the problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "My wife hasn't come home and, I don't know..I wanted to c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "When was the last time you saw her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "This morning.  She was supposed to come home from work, b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "When does she get off work?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Around six.  Usually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "She hasn't called since then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Do you have any idea where she might have gone?  Maybe to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't think so.  I called the only place I could think",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "But you were expecting her home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  I cooked dinner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "I could send a police officer to your house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Do you think that's necessary?  Maybe I should wait.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Until when?  It's five in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Maybe she went somewhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know.  Should I be worried?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "I would be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, I'm worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "So, do you want me to send an officer to your house?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't think so.  I think I should wait.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Do you think she's going to come home soon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I hope so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "So do I.  How long are you going to wait?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "A little longer.  I think I may be overreacting.  She mig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "OK.  It's up to you.  My name is Paul.  I'll be here if y Ed hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed takes the sleeping pills from the medicine cabinet and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eve has a small room in the house that Ed is cautious about entering. He walks in and looks around, as been in there for a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The room is painted sky-blue and the ceiling has clouds p On one side of the room, there is a console piano with so On the other side of the room is a small, antique writing desk. Ed sits down and looks at some of t on it. There are a couple of letters and an address book. box containing paper clips, etc. There is an open box of cookies. There is a drawer in the desk which he tries to open, but finds that it is locked. He searches around the key, but can'' find one. He presses a little harder at th it won't budge. He takes a letter opener from a jar on th starts to fidget with it, but he still can't open it. Then he hears some distant voices coming from outside. He looks out the window where he can see the hou There is a light on in the neighbor's window, where the v coming from, and some vague shadows move around inside. E the lights in Eve's room, so that he can see more clearly From the muffled sounds, it is soon clear that the couple Only the woman's voice is clear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "I hate you! Stay away from me! Don't touch me! Just go to sleep! I'll scream! I am not screaming now! You don't about me! Then the noise dies down and the woman can be heard sobbi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed picks up the phone and dials 911.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "911 emergency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hi.  I called before.  I think I was talking to Paul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Hold on. Paul comes on the line.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "This is Paul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hi.  I called before.  My wife hasn't come home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Yes.  I remember.  You want me to send an officer over?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "What's your address?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "4523 East Street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "He should be there in a few minutes.  OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "You did the right thing, sir. Ed hangs up. Almost instantly, he sees some lights pass by the window. He looks through the window an police car pull up. He opens the door and watches the off approaches the house. OFFICER STEWART is a youngish patrolman.  He is relaxed,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "You called the police?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  It was me.  That was fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Come in. Stewart is led a few steps into the living room.  He look",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Your wife didn't come home?  Is that right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "When was the last time you saw her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "When she left for work this morning.  She was supposed to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "And she made it to work, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  I think so.  I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "What time does she usually come home?  Around six?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Usually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "What does she look like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She's blonde, straight hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "What was she wearing?  Do you remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I think it was a red sweater and a dress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "What kind of car does she drive?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "A Volvo.  Gray.  '85, I think. Stewart lets out a sigh of relief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Well, you had me worried. There was a blonde woman involved with a car-jacking around six. Apparently she wa head by one of the perpetrators and then wandered away fr incident in a daze. Nobody's seen her since. When I got t radio, I thought that must have been your wife, but this driving a Pathfinder and was wearing jeans, so it probabl You had me worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She drove a Volvo.  Drives a Volvo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "That's a relief.  Do you know anywhere your wife might ha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I called the only place I could think of.  And I called t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Harborview?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes. Stewart takes a couple of pills from a bottle and takes t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "I'm afraid there's not much I can do now. By law, we can't put out a missing persons until 72 hours has elapse last time she was seen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "72 hours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Usually in these cases, it was something stupid. Maybe she was upset about something, had to get away. Who knows do is take the license plate number of her car and if it some reason, we'll give you a call. Do you have your wife plate number?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Actually, it's easy to remember.  007 FEC.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "James Bond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Right.  And FEC, For Every Child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "And what's her name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Eve.  Eve Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "And your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Ed.  Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Like I said, it was probably something stupid.  Did you h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Not at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Well, you should try to get some sleep and, if she doesn't show up tomorrow, give us a call and we'll see wh like then. OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "Usually, they come back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Thank you.  I feel much better now.  Thank you for",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEWART",
+          "text": "No problem.  You have a good night.  Or morning, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  You too. Ed shuts the door. He's a little wired so he sits at his desk and picks up a pile of his students' pap the one on top, marking it with a red pen as he does. He hears a gurgling noise coming quietly from the bathroo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks around the bathroom, tracing the sound to the bathtub drain. It gets louder as he approaches it, can investigate, there is a knock on the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When Ed comes out to answer the door, it is now bright da The sun is streaming in through the windows. Through the washed-out sunlight outside his window, Ed ca car parked in front of his house.  Someone knocks again and Ed answers the door. As he does, he picks up the mail that has been dropped th in the door. DETECTIVE DERM, 46, stands outside in plain clothes. Derm is, above all, a nice man. Experience has g knowing stare, but he is affable, not suspicious. He is c professional and genuinely concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Sorry to wake you up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I wasn't asleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Oh.  I called a few times and when there wasn't any answe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What time is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "About 3:30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "3:30?  Maybe I did fall asleep.  Damn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'm Detective Derm of the Seattle Police Department.  You",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We found her car this morning.  On Capitol Hill.  Actuall",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Running?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Did your wife come home last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Did she go to work today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know.  I haven't called.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do you have a number for her there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure. Ed picks up the phone and dials from memory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Why don't you let me? He hands Derm the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Hi, this is Detective Derm of the Seattle Police. I was wondering if Mrs Eve Saxon had come into work today, or c word from her. Yes. Since yesterday. Did you see her leav Yes. About what time was that? I'm not sure. Is she calls could you please ask her to call me. My number is 734-972 38. Thank you. Bye. He hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "She hasn't been in today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "My God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "She hasn't called here at all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Any messages? He points to the answering machine.  It is blinking, full",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I must have been asleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "That happens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I was up late last night.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I understand.  Why don't we listen to these messages?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Alright. Ed pushes the button on the machine. The first message is from Eve's work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CELESTE",
+          "text": "(on machine) Hi, this is Celeste, calling for Eve. We're worried about you. You don't come in. You don't call. No, serious want to make sure you're OK. Don't worry about your stude covering for you. But give us a call, OK? Bye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "That's the school where Eve works.  She's a piano teacher Then there's a message for Ed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "(on machine) Hello, Mr Saxon. This is Mrs Mastrioni from the University. You didn't show up for your morning class and to see if you'll be in for your other classes so that I c proper arrangements. I assume you remember how to use the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Damn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "You're a teacher too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "A professor at the University. The next message is Derm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "(on machine) Hello, this is Detective Derm from the Seattle Police Dep Derm takes a small pill box from his overcoat, while the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "That's me.  Do you have a glass of water?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure. Ed goes into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- and fills a glass for the detective.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When he comes back, he sees Derm casually looking over the woman's magazines on the coffee table. D filled-in New York Times Sunday Crossword and looks it ov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Your wife did this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Smart woman.  The acrostic, too. Ed hands Derm the water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Thank you.   Meanwhile the next message comes on.  It is a girl from E",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "(on machine) Hello, Mr Saxon? This is Sadie, from your creative writing class. Anyway, you didn't show up today and I jus see if you were OK and, you know, if there was any readin you wanted us to do. My number is 323-4854. I hope you're",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "A student?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do they call you often?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, but they all have my number. The next message is from Susie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "(on machine) He, Ed. I just wanted to find out what happened last night. If Eve ever showed up, or what happened. Call me a 672-5695.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I thought she might have gone over there last night.  Exc The next message is Detective Derm again and it plays beh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hi, Mrs Mastrioni?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "(over phone) Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "This is Ed Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Oh, yes.  Didn't make it in today, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I guess not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "There were students waiting for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, I know.  It's a personal matter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "A personal matter, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "So you'll be in tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Or you'll call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Or I'll call, yes.  Hello?  Hello? Ed hangs up, having been hung up on.  He turns around to The next message is from George Simian, a man who works with Eve. His cautious voice makes it known tha that he is calling. Ed pays special attention to this cal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "Hi, Eve. This is George, from school. You didn't come into work today and I just wanted to make sure everything guess I'll see you tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Who's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Some guy she worked with.  P.E. teacher, I think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I see.  Mr Saxon, does your wife have an address book?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Could I see it, please?  And a picture, if you have one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Certainly. Ed heads into -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- and picks up the small address book from the desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He hands the address book and takes a picture of Eve from",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Great. Derm flips through the address book and a business card f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "George Simian.  Is that the same George that called?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "This address, this George Simian lives on Capitol Hill, w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "May I borrow this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I suppose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'll call the numbers in here and see what I can turn up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, thank you. Derm leaves.  Ed shuts the door and locks it. The phone rings and Ed picks it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "(over phone) He, Mr Saxon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Hi, it's Sadie Crumb, from your creative writing class.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh, yes.  Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Are you OK?  Is this a bad time to call?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  It's alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I was, I don't know, wondering if you were sick or someth",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, well, a little.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Do you need anything?  I mean, I could bring you somethin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, I don't think so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Really, it's no problem.  Have you eaten?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I can bring you something to eat.  It's no problem.  Some",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Really, I don't know if it's a good idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh, I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, don't be.  It's just that I don't feel too well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "That's OK.  I used to volunteer at a hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Yeah, I was a candy striper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You're kidding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "What I mean is, I'm used to it.  You know, sick people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yeah?  OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Where do you live?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "4523 East Street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'll be there soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh.  Do you not eat meat, or anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I eat anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Great.  Bye. Ed hangs up the phone.  He walks into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks in the mirror.  His hair is a mess and he is uns",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed takes off his clothes and walks back into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He puts his hand under the water.  It isn't warm yet, so Then he hears a piano playing, behind the sound of the sh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks around Eve's room quickly.  There is no one ther",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He comes back into the bathroom.  The music has stopped a The water is about ankle-deep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Damn. Ed reaches into the drain and pulls out a clump of Eve's hair. He throws it into the toilet and then gets shower. The drain is obviously still clogged up. He is up in soapy water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As Ed comes out of the shower, he sees that it is complet",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hold on!  One second! Ed grabs Eve's robe from the back of the bathroom door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed answers the door. SADIE, 18, is the kind of girl who always has something to say in class, who has always done her homewo definite ideas about her future and the future of the pla innocent and naГЇve, nice and well-mannered. But also pus manipulative, used to getting her way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Hi, it's me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh, hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Are you OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I didn't think you'd be here so fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It's almost eight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh.  I seem to be having a little trouble with time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I know what you mean.  I'm one of those people who is alw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I hope you don't mind me coming over like this. It didn't occur to me that it might be a little strange unti up. It's just, well, at my high school, I went to boardin we were pretty close with our teachers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's nice.  Kindness.  Very refreshing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I brought you some soup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I better get some clothes on.  Make yourself at home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed gets dressed. As he does, he notices a pile of Eve's clothes on the floor. He picks them up and puts closet, on top of a pile of Eve's dirty laundry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When Ed comes out, Sadie has put the soup in a bowl and s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I put it in a bowl for you.  I hope you don't mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Thank you. Ed sits down and tastes the soup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I got it at my favorite place.  You don't mind me hanging",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I could use the company.  Like I said, I haven't bee Sadie notices the pile of papers on Ed's desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh, you graded our papers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Some of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Can I look?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure. Sadie looks through the papers.  She finds hers marked wi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I just...I guess I though this one was better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Let me see. Ed looks over the paper for a second.  He takes a pen and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I was in a bad mood when I graded these.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Don't change it if it's not good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's just a grade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Please don't.  No.  Don't.  Please. Sadie takes the paper away from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sorry.  I didn't mean to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It's just. I don't think you're doing me any favors by letting me off easy. I mean, I'm hear to learn. It means do well in your class. You're the best teacher I've had s the University.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "How long has that been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Well, I'm still a freshman, but I've met a lot of teachers and I'm very discerning. Before I took your clas the library and looked up your work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You're kidding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "No.  I read all your poems, or all they had.  The ones in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What did you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I loved them; the poems especially. I mean, they're dark, but they're so...true. Really. I really got into th photocopied one and put it on my wall. I hope you don't m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Which one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "\"The Passion of my Youth\". It is so intense. \"Her eyes blew gently, purposefully by my ears, echoing gentle puls which bounced and fired like a chill on my whole being, l trace to fuel my longing.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "My wife like that poem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "You're married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Where's your wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She's at her mother's.  She's gone for a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh. There is an awkward silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "May I use the bathroom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure.  Go ahead. Sadie takes her purse and goes into the bathroom.  Ed fin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "Is this Ed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "This is George Simian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "Where's Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why do you want to talk to Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "What have you done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "You've done something.  I know you have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "The police found her car near my house.  They think I hav",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Maybe it's because you were fucking her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "You son of a bitch.  What did you do?  If you hurt her, I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Look, she disappeared.  I haven't seen her.  Why do you t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I'll kill you.  I'll kill you, you bastard.  I swear. Ed hangs up. He is shaky, but also strangely exhilarated. He turns off the ringer on the phone and tur volume on the answering machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He brings the rest of the soup to the sink, scrapes it into the garbage disposal, and flicks the swit food has gone down, he starts to wash the dishes. He stop back to the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed walks over to the bathroom door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sadie? There is no answer.  He knocks on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sadie?  Is everything alright? There is still no answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm coming in.  OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed opens the door. Sadie is lying on the floor, passed out. Her pants are around her knees, as if she pas standing up from the toilet. Her nose is bleeding, like she might have hit it on the w The air from the open door wakes her up, but she is in a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Are you alright?  My God.  What happened? Ed comes over to her and lifts her head.  She stares at h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Can you stand?  Do you understand me?  I'll help you to t Sadie notices her pants are down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'll wait outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed waits outside and, a second later, Sadie comes out, still reeling, clutching her purse. She leans leads her into the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sadie lies down on the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You want some water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Yes, please. Ed goes into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He takes a glass from the cupboard and fills it up. He stops, having noticed something on the glass. He h up to the light.  Eve's lipstick is clearly marked on the rim. He puts that glass down and fills another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When he comes back, he finds Sadie digging through her pu Then she sits on the bed and drinks a little water.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'm so embarrassed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, don't be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "God, my nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Does it hurt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "No, but the blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Maybe you hit it when you fell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It was so weird.  I heard someone's voice, a woman's voic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sometimes you can hear the neighbors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It was like it echoed around the bathroom.  Maybe I imagi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Just relax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I should go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I can't let you leave like this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I didn't mean to be such a burden.  I'm such a loser.  I It seems that her nose has stopped bleeding, but her swea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'll get you a towel. Ed leaves and then comes back with a wet towel. He starts to wipe the blood off her nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I feel better now.  Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Do you want me to drive you home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'll be OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Maybe you want me to call your roommate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "My roommate moved out.  She hated me.  She said I was imm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Your friends, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I don't have any friends. I don't know what it is. People don't like me here. I thought it would be a good i school far away from home, but since I've been here, it's all this time on my own. At my high school, my friends an close. I just don't get along with people anymore. I don' is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You get along with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "You're the first person I've met since I've been here tha Ed walks over to the closet and takes out a sweater.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You can borrow this, if you want.  It's my wife's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "She wouldn't mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I bled so much. Ed gets up to give her some room. She slips out of her sweater and puts the other one on. Sadie looks at a picture next to the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Is this your wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "That's my mother.  That picture is older than it looks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "She's so pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She was young when that was taken.  She died a few years",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "That's awful.  How'd she die?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Cancer.  It was quite an ordeal.  She died very slowly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "That's so sad.  I better go, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's getting late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed walks her to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'm sorry about everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Don't be sorry.  I'm glad you came.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'll see you tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "In school.  You'll be there, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh, yes.  I'll be there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Bye. Sadie kisses him on the cheek and then leaves. Ed locks the door after her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed looks at the tub in the bathroom which is full of wate He sticks his finger deep into the drain, trying to free whatever is in there. There is another tuft of ha he throws it into the toilet. The gurgling sound that he heard before has come back, re",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed follows the gurgling sounds into the basement. He takes a flashlight from behind the basement door and shines it at the pipes that lead from the bathtu can hear the gurgling sound running through them. It soun ate something they can't digest. He reaches up and touche seems to be leaking a little, or maybe it is condensation Ed traces the noise to a larger sewage pipe that runs down into the basement floor. He watches the pi slowly, his attention is drawn to the shadow next to the As he stares intently into the darkness of the shadow, a figure begins to emerge in the distance. The da to change into a long hallway. A small figure is walking his footsteps echo in the distance. Ed watches, mesmerized. The basement fades into the blackness, and now, the hallw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is a very long hospital hallway, and the figure walkin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "Mr Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "There's nothing we can do for her now except to alleviate any pain she may be feeling. We have her on a m and we'll keep increasing the dosage as she shows any sig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I see.  Can she understand me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "At this point, probably not. She has so much morphine in her, I doubt she can even recognize you. But you never Actually, in cases like this, where the end is inevitable that we increase the dosage on the morphine drip at an ac rate. There's no point in making this last longer than it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Whatever you think is best. The doctor nods, then walks into the hospital room where, we see now, Ed's MOTHER is lying in a hospita up to a digital IV. She is old, but looks older - she's b chemotherapy and radiation and they have all taken their She stares at Ed with confused and desperate eyes.  It is The doctor, at the door, has a few words with the NURSE, Ed sits next to his mother and takes her hand.  She stare The nurse comes in and pushes a button on the digital IV. Ed watches the LED numbers on the digital IV nurse smiles an attempt at comfort, then leaves the room. Mother reacts to the higher dosage of morphine. Her eyes get wider and more delirious. She sits up a litt her muscles. She lets go of Ed's hand and starts moving h down. She starts shouting something.  At first, it is completel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IT MEANS YOU'RE GOING TO HELL",
+          "text": "Ed stands up and backs away.  He backs out of the hospita Ed backs into the hallway, which is now blackness. As he backs away, another noise starts to echo around him Ed backs away and then runs upstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As Ed opens the basement door, he sees that it is bright",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed opens the front door and before he can react, a fist h Ed falls to the ground, next to a pile of letters that ha GEORGE SIMIAN walks in, wearing a track suit. George, 35, is a stronger man than Ed. He is better looki at least, younger. He has a genuine honesty about him, li It is this boyish quality that makes his anger seem uncon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "You son of a bitch.  Get up. Ed staggers to his feet. He tries to get a swing in at George, but George grabs him by the collar, hits hi throws him over the coffee table. Ed hits the phone and t machine on the way down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "When Ed doesn't say anything, George starts searching aro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "Ed can hear George searching around in the other rooms. He gets up and sits on the couch, nursing his wounds. After a minute, George comes back into the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "What have you done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Don't hit me again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "You son of a bitch. George sits down on a chair across from Ed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "You son of a bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What did you think would happen?  Nothing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "You did something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I did what I always do. I woke up, went to my shitty job, came home and cooked dinner for my wife, who was too up and down on your bedsprings to cook it herself. Not ex had planned for my life. The same boring shit as always. leave?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I love her.  I'm sorry.  I know she's your wife. George is crying.  Ed, despite himself, is moved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What? Am I supposed to feel sorry for you now? Well, I won't. People think they can just carry on. They don't th might be consequences to their actions. You won't find sy Why don't you just leave?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "What did you do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I didn't do anything.  She didn't come home after work. George gets up and starts to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Don't come back here again. George stops when he hears this and turns towards Ed with and angry look on his face. He grabs Ed's him up from the couch and slugs him hard across the head. the floor, stunned and not moving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I swear.  If I find out you did something to her, I'll ki Ed watches George leave and stays lying on the floor as G The telephone is lying on the floor, knocked off its cradle, just out of Ed's reach. Ed stares at it for a It is making that beeping noise that phones make when the hook too long. He slowly gets up and limps into the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks in the mirror. His eye is swelling up already and his lip is bruised. He washes his lip off, an towel from the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He fills the towel with ice and holds it to his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He picks up the phone as he walks into the living room and places it on the coffee table. He sits on stares at it for a second. Then he brings the phone over to his desk and finds Derm'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.  Detective?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I've been trying to call you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You found her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "No.  I need to talk to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Detective.  George Simian was just over here.  He hit me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Are you OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I think so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do you want me to call an ambulance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't need an ambulance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'll be right over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK.",
+          "text": "He hangs up the phone. He sits at the desk, resting the ice on his forehead. Then he notices something under the sofa.  It grabs his a There are dust bunnies and dust under the edge of the sofa, like it hasn't been swept for a while. Ed kn tries to peer under the sofa. It is dark underneath and h anything. He reaches his fingers under and sweeps out a few dust bu Then he reaches a little further under the sofa and sweep He recoils at the sight of this. The finger has been neatly cut, as if by a sharp blade. Dust has clung t blood around the stump, but it is unquestionably a woman' finger. He stares at it for a second, curiously disgusted. He goes to pick it up, decides he doesn't want to touch i He hurries to the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He drops the finger into the toilet with the tissue and f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He hurries to the edge of the couch with a sponge and cle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He squeezes the sponge out until it is clean, then puts i He lets out a huge sigh of relief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Much of the ice has melted and the towel it was wrapped i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He takes the towel into the bathroom and rings it out. Then he looks over at the toilet. The finger is still there, floating like a cigarette butt. The water is blood, the tissue is gone, but the finger floats there de He flushes the toilet again, but this time stays to watch There is a knock on the front door. Ed takes a bunch of toilet paper from the roll and tosses it over the finger. He flushes again, but the filled up yet and, if anything, this makes it longer unti up again. There is another impatient knock at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "One second! Ed sits there waiting, listening to the toilet tank filli The knocking outside is becoming more impatient. The tank finally fills. Ed flushes and watches. This time the paper he threw in clogs the toilet and the fills up with water. Ed reaches behind the toilet and turns off the water, sto He looks in the toilet and can't see the finger through t There is another knock on the door.  Ed closes the toilet lid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed shuts the bathroom door firmly, takes a breath, and hu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed answers the door.  Derm comes in with two assistants,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Damn.  You did take a couple of blows, didn't you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I was just putting some ice on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "That's the best thing for it. Try to keep the swelling down. It's going to look worse tomorrow. You don't want t doctor examine you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's not necessary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon, Officer Mazurek and Officer Snyder.  They'll be",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAZUREK",
+          "text": "How's it going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNYDER",
+          "text": "Here.  I brought this in. Snyder hands Ed the newspaper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "You say it was George Simian who hit you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, he did.  He came barreling in here and hit me.  Seve",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do you have any idea why he would come here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Because he's a fucking asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I should say that I'm concerned that he would come here. Mr Simian has a history of violent behavior, in reg domestic disputes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What kind of history?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Nothing too serious. No felonies. But enough, I think, to warrant some concern. With your permission, I'd like t complaint report for his assault on you, and as soon as w here, I'll send these two over to arrest him, assuming he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You think he did something to Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We don't have any evidence that he's even seen your wife she left her office and disappeared. We'll be arrest for his assault on you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "But Eve's car.  You said you found her car near his house",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It does no one any good to jump to conclusions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I guess I misunderstood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We're going to have to take some pictures of you for the complaint report. The pictures will be used as eviden Simian if this matter does, eventually, go to trial.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Fine. Derm turns to Snyder, who has heard this conversation, an",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon. These investigations can be quite demanding, especially when experiencing the trauma of loss. Do you u I am saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "If you feel that you need someone to talk to, at any time, there are people, sometimes victims of similar situ themselves, who are will to listen and would like to help He hands Ed a business card which reads Human Support Ser",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Are you aware that your wife has been having an affair?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "With George Simian?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The P.E. teacher.  I guess I should have known.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Apparently your wife has been seeing him for some time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "A year?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do you consider that you and your wife have a normal rela",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know. Normal relationship. We get on each other's nerves, have sex a few times a year, order pizza We've been married for ten years. It doesn't stay rosy fo it isn't paradise, but that doesn't mean that I don't lov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Are you having any other relationships?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Does your wife keep a diary?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  She isn't the type.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon.  May I be frank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Cases involving missing persons are not uncommon. In many cases, and that is not to say in every case, but in the results are unfortunate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "My God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'm not saying that you should give up hope, but my experience tells me that you should prepare yourself for Now, having said that, we will do everything in our power wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Now, it's best if we can gather as much information as possible, as quickly as possible. I'm sure you understand here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It will be necessary for us to search through some of you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm sure I can find whatever it is that you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It's really in your wife's best interests if you allow us to do it. We won't disturb anything or touch anything permission.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "How about we start in the bedroom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Right.  I'll show you. Ed stands up and leads them into the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They pass by the bathroom. The gurgling noises from the plumbing echo around the hallway, and while the seem to pay it any mind, Ed can definitely hear it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed looks around the bedroom quickly before they go in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Here you go.  It's sort of a mess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do you know where your wife keeps her credit card receipt",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Sure.  This way. Ed leads Derm to Eve's room, leaving the two assistants i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed goes over to Eve's writing desk and looks over the pap",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Nice room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Yeah.  Very Magritte.  It's like a nursery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I guess it is.  I always through it was more of a conserv",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "With the piano.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Right. She plays in here sometimes. It's nice. We always wanted to fix up the whole house, but, this is the got to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Things always cost more than you think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yeah, I don't know what happened.  Anyway, we share a cre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "If someone has taken your wife, there's a chance they might have used one of her credit cards. Or she might hav herself. Ed pulls at the locked drawer in the writing table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I think she keeps the receipts in here, but I don't have Derm looks at the lock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Let me try. Ed gets out of the way and Derm sits in the chair to examine the lock more closely. He presses his th the desk and breaks the wood around the lock, forcing the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "There we go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I could have done it if I wanted to break it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'm sure she'll understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She won't.  I promise. Ed sits back down and searches through the drawer.  He fi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAZUREK",
+          "text": "Detective Derm. Mazurek comes into the office carrying Sadie's sweater, w Snyder follows Mazurek in and looks over Mazurek's should",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAZUREK",
+          "text": "It was under the bed, sir. Derm takes the sweater and looks at the blood on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Is this your wife's?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "There's blood on this sweater, Mr Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, I know. A student. Detective, this is going to sound awkward, I guess, but a student of mine came to the yesterday, after you were here. She was nervous, I suppos bloody nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Why would she have been nervous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know, but she seemed nervous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "That is awkward, isn't it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I suppose it is.  I gave her one of my wife's sweaters to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "By accident?  Under the bed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "What was her name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sadie.  Sadie Crumb. Derm finds a small, printed name-tag reading Sadie Crumb sewn into the collar. Derm shows it to Mazure indicates for him to go back to the bedroom. Derm shows the label to Ed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Do you have this girl's phone number?  I'd like to talk t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't think so.  Maybe. Ed gets up and walks into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- where his desk is.  He searches around and quickly find",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I should call her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure.  Here. He hands him the phone.  Derm dials the number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I didn't tell her about my wife.  I didn't see any reason Derm reaches into his pocket and pulls out a roll of Tums. He takes a couple and chews them and it obv bad taste in his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Could I trouble you for a glass of water?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure. Ed walks into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He passes by the bathroom and stops by the bedroom door. He looks into the bedroom where the officer searching through his stuff. They find a copy of Hustler they chuckle about it, before they notice Ed watching the As he watches, he can hear Derm talking to Sadie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi. May I speak to Sadie Crumb, please? This is Detective Derm of the Seattle Police Department. Can I as questions? The officers turn and stare at Ed until he leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed takes a glass from the cupboard. He takes it over to the sink and fills it with water. The tap makes e that he can't hear anything else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As Ed passes the bathroom door, the gurgling noises from the plumbing get louder. He makes sure the do shot and then brings the glass of water to Derm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Derm hangs up the phone and drinks the water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "She sounded very nice.  You know, I think she left her sw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why would she do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "So that she'd have a reason to come back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I see. Derm sees an open box of Skin-EE( cookies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Hey.  My wife loves those things.  I swear, she eats them",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I know.  I hate them.  Sometimes I think she eats them ju",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAZUREK",
+          "text": "Detective Derm. Derm looks at Ed, then goes into the other room.  Ed foll",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Did you go to work today, Mr Saxon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I guess I didn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "If you'd like, I can call the University for you and expl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't think it's necessary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Well, the offer stands if you change your mind later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's just that, I don't want them to know anything about",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I understand. They walk into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mazurek is holding a small, fabric-bound writing book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAZUREK",
+          "text": "Looks like a diary, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Let's have a look. Derm looks it over, reads the last couple of entries quic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Where'd you find this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAZUREK",
+          "text": "Behind the bedside table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I didn't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We have to keep some things to ourselves, or we'd go craz He shows him the diary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Can I look at that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Of course. Ed takes the diary and wanders into Eve's room, flipping",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed flips through the last pages of the diary. He reads for a minute. Some distant noises are coming from t house. While we can't hear exactly what is being said, it a man is saying something funny and a woman is laughing h Ed reads for a minute until, astonished, he puts it down",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I guess you never really know anyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "You didn't know that you're wife is pregnant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'm sorry.  I talked to her doctor yesterday.  I thought Mazurek comes up behind Derm and says something inaudibly",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Is it alright if Mazurek uses the bathroom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "The bathroom.  May we use the bathroom?  We might be here",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  The toilet is stuffed up.  Actually.  Do you mind le",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon. I'm sorry about the intrusions into your privacy, but you must understand: my first priority is fi wife. There is still a great deal to go over. We might wa the press.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The press?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "In cases like this, when we don't have many substantial l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know if I'm comfortable with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We still have options left, but without a thorough search",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I want to be helpful, but I really don't see how, if you think she was kidnapped, I don't see how it helps you around our things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We don't know that she was kidnapped. We can't draw those kinds of conclusions. She could have simply decided needed some time alone. We have to consider every possibi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I just don't see how it helps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I don't want to argue with you.  We're trying to help you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It is in the best interest of your wife that you let us d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't want to get in the way. I just would like some time alone. You can comes back tomorrow, but, please. I'm know it might seem irrational, but I haven't slept in a l this is all extremely overwhelming. Please. I need to be",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Certainly.  If I could just take those receipts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure.  Here.  Take them all. The receipts are on the desk in front of him and he hands Derm reaches out for the diary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'd like to keep this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "There are some things it may be better not to know, espec",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I can give it to you tomorrow, if you still want it. Ed leaves the diary on Eve's writing table and walks the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon.  Is there something wrong with your answering m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  It broke when I fell on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "You haven't been answering your phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It hasn't rung. Derm looks at the phone and sees the ringer is turned off",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "The ringer is off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh.  I must have turned it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "What if your wife calls?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Yes.  Of course.  I wasn't thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Could you please leave the phone on from now on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  I thought I was.  OK.  Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'll be calling to let you know how things go with Mr Sim",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Thank you. Derm and the officers leave. Ed lets out a sigh of relief.  He touches his forehead an He goes back into the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He opens the medicine cabinet and searches through the plethora of over-the-counter medicine crowdin He takes a bottle of Midol, or some other feminine pain-k takes a few of them and chases them down with a handful o Then he turns to the toilet, lifts the lid and looks at t He rolls up his sleeve and sticks his hand in the bowl. The phone rings.  He gives up searching and, with some we",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed picks up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Mr Saxon.  This is Mrs Mastrioni, from the Dean's office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Mr Saxon.  You are supposed to call us when you plan on m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  I know.  I'm just having some personal problems.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Anyway, the Dean wants to see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The Dean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Yes.  Can you come in today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  What does he want to see me about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Is it about me missing classes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "It might be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What's that supposed to mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "It means that if I was the Dean, and I wanted to see you,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What kind of bullshit is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "There's no need to get upset, Mr Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Am I being fired?  Is that it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Look, I don't know.  The Dean said he wanted to see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Well, I can't see him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Personal problems?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "That's right.  Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "That's too bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes it is too bad.  Because I know what you're trying to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Really?  What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You know what?  Why don't you tell the Dean to go fuck hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Mr Saxon...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "And you go fuck yourself too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS MASTRIONI",
+          "text": "Does this mean that you won't be coming to class tomorrow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Fuck you! Ed slams the phone down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed takes the bottle of Midol from the medicine cabinet an Then he notices a trail of pink water leading from the to He follows the trail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The trail leads up to the pinkie finger. Ed watches while the finger moves, inchworm-like, across the Eve's room, leaving a wet trail behind it. Ed watches for a second while he decides what to do. He quickly grabs the finger and takes it to the kitchen sink. He drops it in the sink, pushes it down the flicks the garbage disposal on. He turns the water on and running until it sounds like there is nothing left of the When he turns it off, he sticks his hand in, searching fo He takes the sponge and wets it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He wipes up the trail of the finger, following it back in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks at the toilet, which is still stuffed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed searches around the basement for a plunger.  The basem He finds a plunger among some other tools and starts back upstairs, but on his way upstairs, he finds t puddle of water on the floor. He traces the source of the pipe that was only moist before. It is now dripping slowl pool of dirty water is collecting in the shallow recess o floor. Ed stares into the murky, black pool. There is a knock on the door upstairs and Ed turns to ans",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed answers the door and sees that it is now dark outside. GEOFFREY COSTAS stands outside. Geoffrey, 54, is a wise, patient man. He is formal and calm in his manner, qualities belie a warm emotional vulnerability. Physicall small or weak. One gets the impression that he wasn't alw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Mr Saxon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Hello.  My name is Geoffrey Costas.  I'm from Human Suppo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm not interested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Detective Derm asked me to stop by. He hands him a business card.  Ed takes the card and look",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "You've been hit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm fine.  I don't need a doctor. He tries to hand the card back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Oh, I'm not a physician.  I'm a psychiatrist.  But I'm no",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "This is a personal visit?  I don't understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Human Services is a volunteer organization.  We offer ass",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What kind of assistance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Advice, support, a shoulder to cry on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why would I want to cry on your shoulder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Maybe you just want someone to talk to.  It can be a lone",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I don't think so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Well, you have my card.  If you feel like talking at anot",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Actually, there is something you can help me with.  I've",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "That's understandable, under the circumstances.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Is there something you can give me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "You mean a prescription?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You're a doctor, aren't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I can't seem to find anything strong enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "You're anxious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  I can't sleep.  It makes me anxious.  Or maybe I ca",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "How long has this been going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "A long time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Weeks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "You must have slept some.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Maybe I do. But I don't seem to get the benefits. I never feel rested. There just doesn't seem to be the time anymore. I'm always two steps behind. I have to stop the longer I stay awake, the more my thoughts become frantic, If I don't get some sleep soon, nothing is going to make",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I see.  May I come in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Come in. Geoffrey comes in and places his briefcase on the table i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "There are times when the pressures of everyday life become overwhelming. As a doctor, I notice more and more experiencing similar symptoms. I'm afraid it's a sign of much as anything else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Can you help me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Like I said, I'm not here on a professional basis. Your insomnia is merely a symptom of a greater unwholesomeness treatment may be extremely hard to come by. There's very hope to accomplish with pharmaceuticals alone. However, u circumstances, I can give you something to help you sleep health insurance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, through work. Geoffrey takes a prescription pad from his briefcase and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "The prescription I'm going to write for you is expensive, so I recommend you save the receipt for your i company. I'm sure they'll cover it. These pills are quite been prescribing them to my patients who travel a great d jet lag. They will help stabilize your internal clock by suppressing certain amino acids in your brain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Will it help me sleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Oh, yes.  Now, take two at night, and don't take more tha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Thank you. Geoffrey shuts his briefcase and starts to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I'm glad I could help.  How about I check in on you tomor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "To see how you're doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "For what it's worth, I understand your position better than you think. Don't shut it all out. Sometimes that fra connection to the rest of the world is all we have. I sin things turn out for you. Tomorrow then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Tomorrow. Ed shuts the door behind Geoffrey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed works the plunger in the toilet. The water is still pink from the finger, but also might be pink from t paper that is now broken up and mixed in with the water. He plunges the toilet a few more times and then stops to see if it is working. The water slowly goes down behind the toilet and turns the water back on. He flushes seems to be working again, albeit weakly. He sits on the edge of the bathtub and takes a breath. The water in the tub hasn't gone down, so he take and starts to work it over the drain. After a minute, he sees that it isn't working. He reaches into the drain and pulls out a huge clump of s hair. It is repulsive to Ed. He throws it into the toilet The water in the bathtub still hasn't gone down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He searches under the sink through an exhaustive supply of cleaning supplies. He eventually pulls out a ki container of Drano.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He reads the back of the container quickly, then pours th He watches it for a second, waiting for it to go down. Slowly, then softly, the piano can be heard playing in th Ed listens to it before following it down the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lamp on Eve's writing desk is on and it lights up the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed comes in and looks around the room.  There is no one p Ed's attention turns to the diary, which is still sitting on the desk where he left it. Ed sits in th starts paging through Eve's diary. The piano continues pl We hear Eve's voice as it must have been when she was wri",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "(V.O.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "More than three weeks late. Damn. I'm so stupid. I haven't told George because I'm sure he would use this as pressure me to leave Ed. And how can I tell Ed. There's n be the father. We haven't had sex in months. He would kno Ed flips back a few pages. As he does, the camera starts to travel around the room, passing the piano, and then a few pictures from then some souvenirs on a shelf.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "(V.O.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Saw a movie last night with George. It was awful; just the kind of movie Ed hates. I wanted to tell him about it couldn't. I told him I was at Susie's. George loved it, o think he likes every movie. Still, it was nice to go out that. It was fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now the camera has turned to the empty hallway.  It slowl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "(V.O.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed came home in a shitty mood and started picking a fight with me about a coffee cup I broke last week. It wa thing I needed, today especially. Sometimes I fucking hat be such a shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The camera pans over the glass that has Eve's lipstick on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "(V.O.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't believe what a jock George is. I knew he worked out, but he really takes car of himself. After we had sex embarrassed to let him see me naked. How could I have got I'm going back to the gym tomorrow. I've really let mysel Maybe I'll get him a softball bat for his birthday next w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The camera comes into the bathroom and passes over all of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVE",
+          "text": "(V.O.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed doesn't sleep anymore. He's beginning to scare me. He takes all these pills to help him sleep, but they only worse. And he hates me. I can see it in his eyes. He blam everything that went wrong in his life. Maybe he's right. my fault. I feel so guilty about George that I can't argu anymore. I can't keep this up much longer. Fuck it. I'm g him about George tomorrow. He knows anyway. He must know. acting so weird. Poor Ed. He used to have so much ambitio talented. I just wish things had turned out better. The camera turns toward the bathtub, and focuses slowly in on the drain. A few bubbles pop out fro water and the water starts to drain out. As the camera do the drain, the last of the murky water disappears. Ed, now standing in the bathroom, strikes a match and holds it up to the diary until the corner final fire. He fans out the pages so that it will catch more.  When he can't hold it anymore, he drops it into the bathtub and watches it burn. He watches it until itself out, burning into a pile of thick, black ashes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed looks up at the smoke alarm.  He tries to pull it down Ed grabs a chair from the living room and stands on it so that he can reach the alarm. He pulls the cover and then the battery out and the alarm is finally silence Then he hears voices coming from outside the front door. He approaches the front door cautiously, then puts his ear up to the door and listens. The voices are m whispered, but Ed can still hear what is being said, alth hard to tell who is talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.  I won't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are so crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm crazy?  What about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quiet.  He's going to hear you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what if he hears me.  Who is he, anyway?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "God, you are being such an asshole. Ed opens the door quickly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sadie and Harvey freeze like caught children. HARVEY, 19, looks younger than his is; his facial hair isn't capable yet of filling out his meager g seems hurt, like a spoiled child who hasn't gotten his wa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Christ.  I'm so sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "Who's this?  Is this him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Will you shut up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "He's so old.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Can we just go inside?  Please? Ed lets Sadie inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "So that's it?  You're going with him now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "You really don't understand anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "You said you loved me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Jesus.  Would you shut up?  You are so embarrassing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "Embarrassing?  I'll tell you what's embarrassing.  You wi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You little shit. Ed makes a move toward Harvey, but Harvey backs away quic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "Don't touch me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Let's just go in, OK?  He'll leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "User.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Stalker.  Psycho.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARVEY",
+          "text": "Slut. Sadie slams the door on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sadie stands staring at the floor.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I can't believe that.  You know, he followed me here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "He followed you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Yeah.  Do you believe it?  Oh my God.  What happened to y",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Somebody hit me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Are you alright?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Who hit you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I really don't want to get into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I nearly had a heart attack when the police called me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What did they ask you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Just about me being here.  About what happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "But nothing happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "That's what I told them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "They found your sweater.  It has blood all over it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "You're kidding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You left it under the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh, yeah.  Damn.  I don't know why I do things like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What if my wife had found it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Oh.  Is she here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  Look, Sadie.  I don't want you to get the wrong idea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Don't be mad. It's just that I worry too much. You didn't come to class again. And you said you would. I sta all these ideas. I called you, but nobody answered. I mea your wife's sweater back, but I forgot it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Actually, I'm glad you're here.  Can you do me a favor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Sure.  Anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I have to get a prescription filled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "No problem. Ed finds the prescription on his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'd go myself, but I'm expecting a phone call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Sure. He hands her the prescription.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "There's a twenty-four pharmacy on Market.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I know the one.  I go there all the time.  It's like my s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'll give you my credit card. Ed finds his wallet and hands her the card.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'll be back in a minute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Thank you. Sadie skips out the door and Ed shuts it behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed turns on the shower, washing the ashes down the drain. After he's watched them go down, he takes a sponge and cleans off the burnt mark in the tub as best h turns the shower on, rinsing it out. He turns the shower off and hears the phone is ringing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed picks up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon?  Detective Derm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes, hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I wanted to let you know that we've taken Mr Simian into",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We found him at his place of work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "At the school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Yes. We arrested him there. He'll come up for arraignment tomorrow morning and then, as far as I can te probably be released on his own recognizance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It's just standard procedure, but I thought I'd keep you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Thank you.  Did he say anything about Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Try to rest, Mr Saxon.  We have a lot of ground to cover",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I will.  Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Good night. Ed hangs up the phone. Then he hears some sounds coming from Eve's room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed takes a few steps into Eve's room.  He traces the nois The light is on in the neighbor's window, and there are some vague shadows moving around on the closed the noises get louder, it soon becomes clear that the nei having sex. Ed peers out at the light in the window, listening to the woman's increasing moans. The woman seem some sort of painful, orgasmic delight. In other words, i sounds like she is having a good time, but there should b suspicion that not all is right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh.  Oh.  Oh!  Oh!  OH!  OH!  NO!  NO!  NO! Ed backs slowly away from the window.  He hears someone k",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed opens the door and Sadie comes in holding a colorful p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Thank you. Ed takes the bag from Sadie and goes into the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sadie follows him in. Ed opens the pills quickly and swallows three of them wit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Those pills cost a lot.  They must be strong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "They're sleeping pills.  I've been having trouble sleepin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "You must have anxiety.  I can never get to sleep when I'm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I am anxious.  Yes. Sadie takes some other stuff out of the bag. One of the items is an individually wrapped Skin-EE( fat-free chocolate, chocolate chip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I got you some peroxide and stuff.  And a cookie.  I have",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You put it all on my credit card, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Actually, I paid for it.  They wouldn't take your card.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "They said you hadn't paid your bill, on the phone.  They",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Damn.  Well, I'll pay you back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It's OK.  I charged it to my Dad.  I don't even pay the b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, those pills are expensive.  And my insurance will cov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Pay me back later, then.  Really, it's OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Are you sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It's fine.  I swear. Sadie looks at the cuts on his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Your face must hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I don't seem to feel anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It's nasty. Sadie takes a closer look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Here.  Sit down. She sits Ed down at the kitchen table, under a light, and sits across from him, then takes the peroxide cotton swabs she bought at the pharmacy and starts to dre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I've never been hit before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Me neither.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's not so bad, really. It's humbling, but I like the effect it seems to have on people. It seems to make them compassionate. There's a competitive market for suffering It's difficult to stand out from the handicapped and the the politically oppressed. Sometimes a little advertising people that you're a human being.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It does make you look sort of cute, in a pathetic kind of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sadie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Are you really married?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What?  You think I just made it up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I don't know.  Some people just say they're married, you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm not one of those people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I didn't mean to imply anything.  It's just that you act",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I act weird?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Not weird, really.  Worried, I guess.  Secretive.  Like y",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You don't want to get involved with my problems.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Maybe I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Believe me, you don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I didn't mean to pry.  Well, maybe I did.  I'll just put",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Would you like a drink?  I'm going to have one. 1tt1He finds a bottle of wine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "You're not supposed to mix wine with sleeping pills.  It 1tt1Ed searches for a corkscrew and starts to open the bo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I need all the help I can get.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "It's dangerous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's just wine. I'll only have a glass. 1tt1He offers her some and she nods. He pours her a glass her glass into the living room. Ed downs his glass of win it quickly before following her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "1tt1She sits down at his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Are you working on anything new?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I don't write anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I just don't have the time.  I have to work all day.  Tim",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I know what you mean.  There's not enough time in the day",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Not as much as there used to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "There used to be more?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Before I had to work there was plenty of time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "But you had all that stuff published.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sure, but it didn't pay very much. I had a lot of debts from school that needed to be paid off. And then, credit then I got married, bought a house. Life comes with all t And poetry just doesn't pay. I thought working at the Uni at least give me summers off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Doesn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Not really.  No. 1tt1There is a knock on the door.  The idea that someone 1tt1Ed freezes for what seems like a long time; long enou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I better see who that is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Yeah. 1tt1Ed goes over to the door and opens it cautiously.  It",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Hi, it's me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Oh, hi Susie. 1tt1She is about to walk in, when Ed blocks her way.  She",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Eve's not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Oh.  She came back though, didn't she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No, she didn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Oh no.  Can I come in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "1tt1Ed, rather than let her in, pushes her outside and sh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  I'm busy right now.  I called the police.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "What did they say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "They're working on it.  You can call them if you want. 1tt1Ed finds Derm's card in his pocket and hands it to he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Aren't you worried?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Of course I'm worried. I'm just working right now. This girl is one of my students. She wanted some help on an as doesn't know anything about Eve being missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "What happened to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "George Simian hit me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "George?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You know him.  It figures. 1tt1Susie starts crying.  Ed stares at her helplessly, th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Wait. 1tt1Ed stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Can I come back later?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It's late.  I just took some sleeping pills.  I haven't s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSIE",
+          "text": "Tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Good night, Susie. Ed walks back in, leaving Susie standing on the porch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed waits by the door until he hears her footsteps walking Sadie stands up, looking nervous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Is that your wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2No.  It was a friend of hers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2I should go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2No.  Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2You must be tired.  Those pills must be working.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2I don't think they're working at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Still.  You're married, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2Yeah, but, please don't go.  Please.  Time has a way o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Really?  For me, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2So you'll stay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2If you want me to. Ed comes over to her and kisses her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Can I ask you something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Do you think my writing is good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2You've done some good work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Yeah.  C minus good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2I told you, I was in a bad mood when I graded that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2I guess so. She is unresponsive at first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "(to herself) 2t2What am I doing? They kiss for a minute, then Ed slips his hand under the She kisses him again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sadie turns the lights off and we can only see by the lig Ed lies on the bed and Sadie lies next to him, under the covers. Ed slips his hand under the back of her fiddles with her bra while they kiss. The gurgling sound starts up again, and while Sadie doesn't notice, or doesn't hear it, it becomes incr distracting to Ed. He looks to the bathroom where the noi from.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The camera focuses in on the drain.  The water in the bat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sadie breaks away from him, sits up and takes off her swe Ed's kisses move around the side of her neck. As he reaches her ear, he looks up and notices Eve's clothes the chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The water is rising slowly, but we can see solid stuff (the ashes from the diary are clearly part of the m out of the drain with the water. It is a cloudy, dark, di which probably stinks too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed is trying to concentrate on Sadie, but he notices the And the noise from the bathroom is getting louder. He turns Sadie onto her back, turning himself away from the closet. His kisses run down her chest until her jeans. He unbuttons her jeans and starts to pull them as he goes. Ed has taken her pants off, but his passion and enthusiasm has faded, and he stops and stares off into sp the bathroom. He is spooked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2What's wrong? He looks down and sees Sadie staring at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2I don't know.  Maybe it's those pills.  I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Just relax.  Lie back. Sadie gently pushes him back and starts to go down on him Ed get more uptight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2No.  Please.  Just stop. She keeps trying until Ed is forced to push her away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2It's just not working.  OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Alright.  I'm sorry. Sadie turns away.  She's upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Maybe I should go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2No.  Please, don't.  It's my fault.  Please.  Don't go",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2Damn, I'm so stupid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "2t2No, it's me.  Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "2t2This was a mistake. Sadie gets up and puts on her shirt.  She grabs the rest Ed stares after her, listening to her finish dressing her The clock next to the bed is ticking loudly and the sound",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed pours a few more pills into his hand, swallowing them",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed looks at the bathtub, which is full of the murky water. He picks up the plunger, which is still by t starts working it on the drain. More stuff is coming up, making the water darker, but as he relaxes the plunger, the water doesn't anything, the gurgling sound is louder. He works the plunger some more, more vigorously and then, again, relaxes it and watches the drain hopeful gurgling noise seems closer and the water still does not Then he hears something hit the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed opens the front door and picks up the newspaper which has just been thrown. He puts it with the newspapers, which have piled up in their plastic wraps on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He comes back into the bathroom and looks at the bathtub. He puts the plunger over the drain and works it much harder and, this time, after a few seconds, there is in the pipes, as if he hit something. He takes the plunge watches the drain. Suddenly, a large air bubble bursts out of the drain.  He Then, slowly, blood starts to leak into the tub from the Ed is naturally terrified by this.  He watches until it i He puts plunger back on the drain and pumps it a few more frantic times. More blood seeps out of the drain be making the problem worse. He shuts the shower curtain and backs out of the bathroom",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He spills the pills on the kitchen counter and counts them quickly. There are about ten left. He pours t mouth and swallows the rest of the wine. Then the ticking stops.  Ed looks at a clock on the wall. He hears voices in the other room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks out of the window in Eve's room. He sees that the light in the neighbor's window is on. The c door are having another argument, but this one is much mo than the last.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "2t2Why do you care! You don't care! You know nothing abou you! Stay away from me! I'll scream! I am not screaming n you're the only one? Yes, I do! I LOVE YOU! You never do not! You never do anything! You think that nothing's wron we live in paradise! This is what I think of this fucking There is the sound of things breaking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AWAY FROM ME",
+          "text": "This ends with a loud, terrifying shriek.  It seems to ec Ed watches the window and sees a featureless man stick his head through the curtains to see if anybody is Then he closes the window and curtains. The phone rings in the other room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He hurries to answer the phone. While he is on the phone, a new sound is coming from the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Mr Saxon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It's Detective Derm.  I'm sorry to call you so late, but",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "I'm afraid I have some bad news.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "It's your wife.  We've found her...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You found her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "We found her body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Her...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DERM",
+          "text": "Yes, sir.  In the woods, near George Simian's house, wher Ed drops the phone.  He walks trance-like into the hallwa He follows the noise into the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The noise coming from the bathroom now sounds more human, As Ed walks into the bathroom, he can see that there is something in the bathtub. The shower curtain is behind it, there is some sort of body moving. Ed pulls th back. He reveals a baby, just born, lying in the tub. Mos water has drained and left a dirty ring around the tub. The BABY is a newborn, except that its eyes are maybe larger than they would be. The Baby is also SIX FEE immense frame fills the bathtub. It is naked (it's a boy) Ed watches with amazement. The baby looks incredibly real, except for its size. The stare at each o minute. The baby looks a lot like George Simian. It has h Other than this, it behaves like a baby. It is lying on its back, gurgling peacefully with his feet in t left hand gripping the shower curtain. The baby reaches out for Ed lovingly. Ed backs away. Seeing this, the baby starts crying. Ed, panicking, approaches the baby. It is still crying. Ed reaches out to touch it. He touches its arm an crying starts to subside. The baby moves with typical, qu movements that, because of the baby's size, are almost th Ed puts his hand in the baby's hand. The baby grips it as baby's do, but this baby's hand is about the The baby stops crying and returns to its curious gurgling Ed tries to pull his hand back, but the baby won't let go. The baby, it seems, is incredibly strong. E harder. He still can't get the baby to let go. Ed tries t baby's fingers off, and this time manages to get his hand baby's grip. But as soon as he does, the baby starts crying again. He backs out into the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed is in a panic.  The baby's cries echo around him as he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed finds himself in the kitchen. He looks at his hands which are covered with bloody muck from the tub. He off in the sink. He looks over at the kitchen knife which drying in the dish rack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed walks slowly, purposefully to the bathroom.  The cryin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He comes into the bathroom, but in the tub, instead of the baby, there is a grown man's body. It is E at himself from under the water. We only see a very tight BATHTUB ED's head and part of his neck. His head is under looks up, unable to move. We then see the reverse shot of this and it is also of Ed, so that Ed is, in effect, looking up at himse cloudy water. The baby cries continue, although the baby is no longer i From Bathtub Ed's point of view, we see the other Ed take Bathtub Ed, who can move his eyes, tries to look to his arm, where the other Ed is cutting. Soon, blood st with the water, diffusing over Bathtub Ed's face. The blood also diffuses over Bathtub Ed's P.O.V., as he looks up at the other Ed cutting him. When is finished cutting, Bathtub Ed sees him put the knife as reach down, off-camera. After a short struggle, the other Bathtub Ed's severed arm and slips it into a garbage bag prepared. The blood from Bathtub Ed's cut fills the water with dark The red dissolves into a pool of blood that is in the hal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed, with a bucket and sponge, is cleaning pockets of bloo He squeezes the sponge for the last time, then inspects the hallway as closely as he can, searching for might have missed. Then he picks up the bucket and takes it into the bathroo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He dumps the water from the bucket into the bathtub. The water is pink and dirty. He sits down on the bathtub and watches the water go down the drain. He stares at the drain in a trance until he hears a knock",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As he opens the bathroom door, he sees that the sun is sh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geoffrey stands patiently outside as Ed opens the door. He carries his briefcase and looks dressed for appearance is a stark contrast to the half-dressed, blood",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Hi.  I wanted to see how you were getting along.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Getting along?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I have to say, you don't look well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm not well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Have you slept?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't know.  Maybe.  It's difficult to tell.  I have th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Did you take the pills?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The pills are fucking useless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "But you took them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I see.  May I take your blood pressure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "OK, fine. Geoffrey comes in and places his briefcase on the table. He takes a stethoscope and the rest of his blo kit and starts to take Ed's blood pressure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I feel like a lab rat.  Like one of those lab rats they d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "You feel like a rat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "They put them in a maze and they give them shocks and drugs and they see what they do. They try to prod them in they want them to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Try to relax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I feel like a rat who took all the turns, took all the drugs, went down the right path and then, when I got to t shocked me anyway, right up the sphincter, like it was al joke. I guess they thought I'd be too drugged up to notic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "It's been a few days, hasn't it, since your wife disappea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Days?  Yes.  I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Has there been any word from the police?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Haven't you talked to them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "No.  But if you'd like me to, I will, on your behalf.  Th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "With others?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "With others, and myself.  My wife was taken from me about",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "It was a similar situation to yours. The police found her car in the parking lot of a mall. They found her body later in some woods nearby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She was murdered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Did they ever catch the man who did it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why would somebody do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Sometimes a man, when faced with his own problems or inad",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Do you feel responsible at all for your wife's disappeara",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "People often blame themselves for events that they have no control over, especially when the events seem so rando Action leading up to tragedy tend to become more signific weigh on the conscience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I do seem to be having problems with my conscience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Do you think that's why I can't sleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Could be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Is there anything you can give me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "A prescription?  For your conscience?  Of course not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Then what's the point?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "There are other ways I can be of help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "A shoulder to cry on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Would you like me to call the police?  There might be som",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The police called last night, late last night.  They foun",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Oh, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "They found her buried in the woods, near where they found",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I'm sorry.  I didn't know. Geoffrey's watch alarm goes off. He looks at the time and then, habitually takes a shiny silver pillbox fr He takes two pills out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Excuse me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I never knew I could feel so alone. Geoffrey takes a thermos from his briefcase, pours some h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "He hasn't called since last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "It's been a while.  Why don't you let me call him?  Maybe When Ed doesn't object, Geoffrey takes his address book f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Detective Derm, please. Hi, Charlie, it's Geoffrey. I'm over at Ed Saxon's house. Yeah. He was hoping to get some on his wife. Uh-huh. Well, he said you called him last ni him that you had found her body. Uh-huh. I see. In the wo where you found her car. I don't know. Yes. Well, I did g something to help him sleep. Right. Yes. Then Geoffrey turns away from Ed and says a few words qui",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Yes.  Yes.  I'll tell him.  Yes.  OK.  Bye. Geoffrey hangs up and turns back to Ed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "He says he never called you last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "He told me to tell you to wait here for him; that he's co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I don't understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "It is possible that you did fall asleep, that you dreamed the phone call. I have to say that I was surprise said you hadn't slept. Those pills are very effective.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "The pills.  Yes.  Maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Still, this is better, isn't it?  I mean, now there's sti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.  Hope.  But why is he coming over here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "He said he had some questions to ask you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What questions?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "He didn't say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "If he had some questions to ask me, he could have asked m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Calm down, Mr Saxon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Why did you turn away from me when you were talking to hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I said you were very tired and anxious and that you seeme",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You're lying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I have no reason to lie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "No.  Why do you think I'm lying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Because you're scared. Geoffrey does look scared.  He has quickly packed up his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "Mr Saxon.  Please.  I understand you're under a lot of st",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You don't understand anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I came here to help you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Then help me.  Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "I've done all I can now.  I'm sorry.  I can't do any more",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "But, you'll come to see me again, won't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEOFFREY",
+          "text": "No.  I don't think I will. Geoffrey leaves.  Ed shuts the door. The phone rings. Ed picks it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "Is this Ed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "George.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "What did you do to Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I didn't do anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I know you did. I saw her before she left work. We met in the parking lot, like we always did. She told me she w you. She was going to tell you when she got home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You don't know anything about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "Yes, I do.  I know you.  Eve talks about you.  She tell m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What things?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I know about the fights you have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "She's my wife.  We fight sometimes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "That's bullshit.  I know what kind of a son of bitch you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "What don't you tell it to the police?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "You think she was some sort of angel?  She was cheating o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "I love her.  I loved her. Ed listens to George break down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I'm sorry. There is a long pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "It's not enough. George hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bathroom is completely clean. There is no sign of any of the activity from before. Ed finds the bot prescription sleeping pills. It is empty. He takes a coup and swallows them dry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed sits down at his desk.  He looks over the papers on hi The phone rings and he picks it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Sadie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I wanted to apologize.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "No.  Don't apologize.  It was me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I shouldn't have left like that.  I don't know what came",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It was understandable, under the circumstances.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I really wanted you to like me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "I wonder if you'll still feel the same way when you find",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I'll still keep your poem on my wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I think it's a beautiful poem.  I really do.  Are you sti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SADIE",
+          "text": "I wish things had turned out better. She hangs up.  Ed stays on the phone, listening until the Then Ed hears a car pull up outside.  He follows some qui He sees the door knob turn quietly in the door.  The door Ed approaches the door slowly, but suddenly, there is a c The door is strong, and doesn't open, but the wall around After a few seconds, there is another crash against the door. This time the wall shakes so much that which hangs by the door, almost falls off its nail. Ed looks out of the window. The window is positioned facing the street, but not the porch, so he ca it is, but he can see a car parked out front, with the do Inside the car, there is a softball glove lying on the pa along with something that George Simian was wearing when him. George crashes against the door again. This time Eve's picture falls off the wall. It hits the ground spreading broken glass around her picture. The door is starting to loosen around the lock and jamb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed backs into the hallway.  As he passes the bathroom, he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed backs into the kitchen. He searches around, quickly finding the kitchen knife. He grabs it out of the starts walking toward the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's another bang on the door.  Ed passes slowly throu The gurgling sounds in the bathroom are deep and resonant There is another hard crash against the door, which breaks the jamb. The door is only being held on by around the lock and George starts kicking the door with h Ed backs into the basement door.  He opens it and goes in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He hurries down the stairs into the darkness of the basement. The pipes surround Ed with hysterical, thic sounds. There are metallic creaks and strains which rever the walls of the basement as the pipes seem to expand and A couple of inches of dark, dirty water have collected on Ed finds a place to hide in the shadows behind some boxes. He stares up, as he hears the door breaking o and someone walking into the living room. With his eyes, he follows the footsteps as they search th Ed has hidden under a large pipe, which is dripping drops of dirty water onto his face. In the darkn basement, the color of the water is unclear, but as he wi his fingers, he can see it is murky and dark. The basement door opens slowly, and from the light upstairs, Ed can see the silhouette of George Simia with a softball bat. Ed grips onto his knife and watches as George comes down the stairs, step by step. The water keeps drip top of Ed's head, running down the side of his face, but still. Ed watches George come down the stairs. George reaches the bottom and steps into the shallow wate Ed withdraws as much as he can into his corner until he i He watches George approaching him and he slowly raises hi George raises his softball bat. He takes a few more steps up to Ed, but then steps blindly past him and dark shadow. Ed watches him disappear into the shadow and then, makes his move. He rushes into the shadow with his and both he and George are engulfed in darkness. After a few seconds, Ed emerges from the shadow. He drops the knife into the water at his feet. As blood runs out of the shadow, mixing with the water in th floor. Ed walks slowly upstairs.  The noises around him in the b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed takes a long look at himself in the mirror. He is wet with blood and dirt. He opens the medicine cabi the sleeping pills he was using before. He opens the bott it into his hand. There are only about five pills left. He takes the two toothbrushes from a toothpaste-crusty gl Unsatisfied, he searches through the rest of the medicine cabinet. The selection, though not particularly good representation of standard, over-the-counter pills a finds the Midol and takes the last few from the bottle. T bottle of cold medicine which he finishes off. He drinks full bottle of pink diarrhea medicine. He finds a bottle multi-vitamins and takes a handful of those. As he finish he drops the empties onto the floor of the bathroom. When he stops, he notices blood seeping out of the bathtub drain. It is pure, thick, dark blood. He back the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ed backs into the wall and then, losing strength in his l Piano music starts to seep through the gurgling noises. On the other side of the house, outside the broken door, Ed can hear Derm's car pull up. Ed watches t as Derm comes in carefully, flanked by Mazurek and Snyder Derm comes over to Ed and kneels down in front of him.  E",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It wasn't me. Derm looks at Ed's hands, which are covered in blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED",
+          "text": "It wasn't me. Ed watches Derm looking at him.  Then he notices, behind Ed turns to Eve's room, where the piano can still be hear The camera continues on where Ed can't go: down the hallway to Eve's room. As it approaches, all the othe out and the piano is all that we hear. Ed watches from his position in the hall so that it all s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The camera comes into Eve's room and turns to the piano. EVE is sitting at the piano, playing some music. We watch her for a few seconds. She turns to the camera a then continues playing. Then the camera turns toward the clouds painted on the ceiling. A crack appears in the plaster and starts until there is an empty black space behind it. The sound crying seeps in from the crack. The camera zeroes in on t until it fills the frame. Over the blackness, we can hear crying until it fades out.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_429"
+    }
+  ]
+}

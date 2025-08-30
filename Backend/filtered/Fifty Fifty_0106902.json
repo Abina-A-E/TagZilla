@@ -1,0 +1,5130 @@
+{
+  "movie_id": "MOV680",
+  "scenes": [
+    {
+      "location": "SHOWER",
+      "time": "MOMENTS LATER",
+      "characters": [
+        "BLACK",
+        "KYLE, (0.S.)",
+        "OK.",
+        "INSIDE",
+        "MATCH CUT TO",
+        "KYLE, (CONT'D)",
+        "SUSAN",
+        "CUT BACK",
+        "ALAN",
+        "KYLE AND ADAM",
+        "JENNY",
+        "RACHAEL",
+        "ADAM",
+        "INT. ADAM'S KITCHEN- DAWN",
+        "JOE",
+        "ATTRACTIVE WOMAN",
+        "INT/EXT. BOOKSTORE",
+        "DIANE",
+        "GEORGE",
+        "KATHERINE",
+        "SELF HELP SECTION",
+        "SEATTLE PUBLIC RADIO",
+        "S HOUSE. LIVING ROOM",
+        "DR. WALDERSON",
+        "BODI",
+        "CLAIRE",
+        "TED",
+        "ALLISON",
+        "GET",
+        "RACHAEL, (0.S.)",
+        "DR. LEE",
+        "DR. ROSS",
+        "KATHERINE, (CONT'D)",
+        "RICHARD, (CONT'D)",
+        "MITCH",
+        "RICHARD",
+        "NURSE",
+        "GREG",
+        "TO",
+        "KYLE, (V.O.)",
+        "PHIL",
+        "DR. ROSS, (CONT'D)",
+        "KYLE",
+        "GEORGE, (CONT'D)",
+        "ADAM, (CONT'D)",
+        "BERNIE",
+        "DIANE, (CONT'D)",
+        "JACKIE",
+        "NURSE STEWART",
+        "KITCHEN",
+        "FRIENDLY NURSE"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "It’s an unusually clear winter day as the peaks of Mount Rainier look down on the avenues and harbors of Seattle. ADAM LERNER (27) jogs through the streets of Seattle. The morning mist envelops the PIER. Adam’s iPod blares in his as he passes the FISH MARKET. Adam arrives at a street corner. Ahead, a “Don’t Walk” si blinks. So he does. Running in place, Adam looks from sid side. There’s not a car, person or thing in sight this ea in the morning. He looks again at the orange hand, urging to stop. Another JOGGER runs up behind Adam, and disobeys the crosswalk, running past him and across the street. Adam continues to wait for the light to change. The light goes green. He crosses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam tries to squirt shampoo into his hand, but the bottl empty. He looks over at a large assortment of women’s products, grabs the first one - Fructis by L’Oreal - and squirts some into his hair. He proceeds to lather his ent body in the product.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam dresses in front of the mirror. His outfit is well p together. He pulls out a LINT BRUSH and meticulously comb his cardigan. RACHAEL (24), wearing her oversized “KEEP T BLUE” shirt, enters the bedroom brushing her teeth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "So are you staying over tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Uh...Not sure. There are a couple of gallery openings I want to check out. Rachael goes through Adam's drawers looking for something RACHAEL (CONT’D) I’m so nervous about my show. I still have so much work to do. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "RACHAEL (CONT’D) I need two more paintings and everything I’ve been coming up with is completely derivative of what I've been seeing at the Henry. (confused) Where’s my stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s in your drawer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(honored) I have a drawer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(sheepish) Yeah, I just figured I'd put some of your things... there wasn’t anything in the drawer. Well there were a few things, but I just moved them to a different one because... It made sense that way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(touched) Awwwww. Honey. We’re getting so domestic. SFX: A CAR HORN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kyle sits in his car front of Adam’s house, his seat reclined, his eyes squeezed shut, hungover. He honks the again, winces at the noise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam rushes to gather his things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Good luck with the paintings. He moves to her, leans in - despite her mouth full of toothpaste.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Oops, I’ve got toothpaste in my mouth. She wipes it off his nose. He gives her a small kiss. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "RACHAEL (CONT’D) Have a good day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(big smile) Bye. INT. KYLE’S CAR - CONTINUOUS Adam gets into the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Yo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Sorry I’m late. Kyle sniffs the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "...What’s that smell? (Sniffs Adam) Did you sit in jam or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You smell all fruity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No. (smells himself) I ran out of shampoo. I had to use Rachael’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Well, you smell like you fucked the cast of “The View”. Adam looks at his watch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Are we gonna go? We’re gonna be late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "If you really care about being on time, you should probably learn how to drive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I deserve that. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You know what's really going to make us late? When I stop for cappuccinos.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, no, no. We have coffee at work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Delicious cappuccinos. Kyle drives off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam and Kyle stand in line. Kyle watches as Adam yawns repeatedly. He looks exhausted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Back still hurts?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah, I’m going to see the doctor today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Have you been fucking in weird positions?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Of course that’s where you have to go with it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Sometimes it happens when I try new positions - like I tried froggy style for a while; fucked up my back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "“Froggy style”? I don’t even want to ask what that is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s kind of like doggy style but you get way higher up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(beat) We haven’t done it in three weeks. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(shocked) You haven’t had sex in three weeks!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, she had a yeast infection, and then she had her period.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You can fuck on a yeast infection.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, it hurts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It does?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, that’s what she says.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I think that’s bullshit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, I’ve heard that before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Has she been sucking on your dick, giving you blow jobs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, she doesn’t like to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(a little upset) No fucking shit she doesn’t like to! Who likes putting dicks in their mouths? That’s why they call them jobs!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Don’t get hysterical, it’s not that big a deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m not hysterical. She stays at your house all the time. She leaves her fucking shit everywhere. You clean it up. You’re a nice person. The least she can do is felate you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kyle and Adam walk down the sidewalk. Adam’s a few steps ahead, walking at a hurried pace as Kyle takes his time, his coffee. They Kyle INT. Adam pass",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You put up with a lot of shit when you date a hot girl. Truthfully, that’s why if you recall in high school I didn’t date any hot girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That’s why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Yes. That’s why.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, we’re not in high school anymore. The relationship I have with Rachael is about more than sex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(condescending) What is it about, Adam?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "We care about each other -- talk to each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Wouldn't it be nice if you could do that and bang the hell out of each other afterwards? walk up the front steps of SEATTLE PUBLIC RADIO.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Ideally, yes. But it’s not a perfect world, OK?...Can you hurry up please? stops and leans over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Ugh...Just got to tie my shoe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEATTLE PUBLIC RADIO",
+          "text": "and Kyle enter the offices of Seattle Public Radio. They JENNY at the reception desk. Kyle shoots her a smile. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Morning Jenny. She ignores him. As they continue, Seth looks over at Ada nervously biting on his finger nails.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "That’s so gross man. You shouldn’t do that. PHIL (40), Adam and Kyle’s boss, passes by.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Kyle...Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE AND ADAM",
+          "text": "Hey Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(worried) Sorry we're late. Phil looks at his watch, not even aware of the time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Huh. Look at that, you are late. Don’t do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Listen, I wanted to talk to you about the volcano piece, it’s coming along really well, I’ve done all the research and interviews-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah but the narration is turning into a bit of a problem. Whoever did it, he kept clearing his throat and he didn’t pause, he just kept talking - there aren’t any edit points. If he had just stopped and cleared his throat I could cut around it, but he didn’t-- Phil’s cell phone rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Yeah, grab that. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Phil pulls out his Blackberry and walks off, ignoring the conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "OK. I’m just going to-- Adam and Kyle watch Phil walk away. Adam turns to Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It's like he doesn't care.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s like we got to put shit on the air. And it’s pointless to spend months working on something that someone’s going to hear for two seconds stopped at a red light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I like it when my work is good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Good luck with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam sits at his desk, head phones on, editing his volcan story on Pro-Tools. He meticulously edits the same audio point over and over. He cringes at the deafening sound of Kyle’s laughter across the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(into phone) You're in Wales? So does that make you Welsh? Or Wale-ish? Adam looks at Kyle in annoyance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "OK. World Music...Can you hear me? You sound like a robot...Does it sound weird to you? It sounds weird to me...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You have to be quieter, I’m-- Kyle is oblivious to Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I said you sound like a robot... Wait, wait, wait. Go back. (MORE) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "KYLE (cont'd) It’s unbelievable. I know. I don’t know what ‘World Music’ is either! Annoyed, Adam imitates Kyle to himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(as Kyle) I’m such a fucking asshole. I’m the king of the world, suck my dick. I hear Adam hasn’t gotten his dick sucked in six fucking months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam steps off a BUS and walks toward the hospital’s vast sunlit entryway. He enters through the sliding double doo eventually disappearing into the din of the crowd. INT. DR. ROSS’ OFFICE - LATER Adam leafs through a pamphlet on incontinence when the pedantic DR. ROSS enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "(curt) Hi. Dr. Ross looks over Adam’s chart, examines his MRI scans, pulls out a DICTAPHONE -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "(into the dictaphone) Patient has been complaining of back pain, and night sweats. Blood tests and urine analysis are normal. MRI suggests a massive intradural malignant schwannoma neurofibrosarcoma extending into psoas muscle with nerve root compression syndrome and bone erosion. We see Adam’s face gradually look more and more confused. slowly begins to raise his arm as if to ask a question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS, (CONT'D)",
+          "text": "Growth extends from the L2 to L5. Will send patient for biopsy to confirm. Dr. Ross turns to see Adam holding his arm in the air. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS, (CONT'D)",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m so sorry, I didn’t follow that. Is there something wrong with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "(points to MRI) If you look here on your MRI, you see this cephalopod-like object spreading down along your spinal column? Adam squints. It all looks the same. DR. ROSS (CONT’D) That is a massive schwannoma neurofibrosarcoma.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m sorry, I still don’t--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "It’s a malignant tumor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "A tumor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That doesn’t make sense...I don’t smoke. I don’t drink. I recycle...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "Well your case it’s actually quite fascinating. Your cancer is the result of an incredibly rare gene mutation in chromosome 17p in the p53 gene that causes the growth of malignant cells in tissue around the nerves. In your case it’s grown along the nerves in your lower spine. Adam walks over to the window and peers out. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "People can go years without knowing they’re sick. We’re lucky we caught it before it metastasizes. Given the placement and size of your particular tumor, the wisest course of action is to see if we can possibly reduce this thing down to a more managable size. (Beat) I’m going to put you on a four month regimen of chemotherapy. (beat) Now Chemotherapy can result in fertility issues--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "But I’m going to be okay? Dr. Ross puts on his best act of reassurance. His words a seemingly genuine; his tone is anything but.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS, (CONT'D)",
+          "text": "If you need to talk to someone... We have an excellent staff of social workers and psychologists here in the hospital. They specialize in cases...in these...sort of matters. They’1ll be able to help you. Dr. Ross continues to talk as Adam looks out of the windo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE ON a computer screen: “Neurofibromasarcoma Schwannoma is a malignant or cancero form of Schwanoma. Treatment Forms: Chemotherapy and Radiation. Surgical resection proven to be most effective. Risks of surgery: Amputation of limbs. Paralysis. Death. It is a rare tumor type, with a relatively poor prognosis Patient response to treatment will vary based on age, hea and the tolerance to medications and therapies. 5 Year survival rate: 50%. 5 year survival rate after metastasis: 0%.” (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He stares at the screen. This is not good. Everyone else leaving for the day, shutting off lights. Adam stays, immobile and alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam sits deep in thought - or in shock - hard to tell. T dusky pink sky of Seattle streaks by through tinted glass",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam and Rachael are on the couch, her eyes filled with tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Oh Adam...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Listen. I don’t expect you to take this on. It’s not like we’re married or anything. If you have to bail, bail. (off her look) I hope you won’t--I mean, I want you with me. But if you have to-- She looks at him, into his eyes, closes hers:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I’m not going to bail on you, Adam. She leans over, hugs him. RACHAEL (CONT’D) I’m here for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Thank you. Rachael rubs Adam’s back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "It’s going to be okay. Rachael leans in and puts her forehead against Adam's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Everything's going to be okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam and Kyle stand outside the coffee shop. Kyle looks s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m going to throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Don’t throw up -- you'll be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I actually think I’m going to throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're not going to throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m going to throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Just open your eyes...Look at me. Alright? They both take a deep breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "What kind of cancer is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s something rare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Well, what’s it called?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Schwanoma something...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(confused) Schwanoma?...What’s Schwanoma?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That means tumor basically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Do you have a picture of it, can I see it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Why would I have a picture of it? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s common practice to fucking get pictures of shit now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It doesn't look like anything, it’s just a lump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Well are you going to be okay? What are your odds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I don’t know, I looked it up and it said 50/50, but that’s the internet SO... Kyle sighs in relief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(upbeat ) That’s not that bad. That’s better than I thought. You’re going to be fine. You’re young...People beat cancer all the time. Every celebrity beats cancer. Lance Armstrong, he keeps getting it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "The guy from “Dexter”? He’s OK. Patrick Swayze; he’s fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Patrick Swayze?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "And he’s older.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "But dude, that guy’s dead. Kyle looks at Adam in shock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "That’s really fucked up. I didn’t know that. (beat) Don’t even think about him...Don’t worry about that. You got to look at the bright side here--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "The bright side of what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You'll be fine. Kyle quickly tries to change the subject.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "What did your parents say? Did they freak out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Oh, I...they...I’m not going to tell them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You're not going to tell them? You've got to tell them. Your mom’11 probably deal with it better than most people...Your dad has Alzheimer's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah, but you know how she gets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You have to tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(concedes ) I know. I’1l tell her. Kyle takes another deep breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You'll be fine. 50/50! If you were a casino game you’d have the best odds! Kyle pats Adam’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah. Thanks. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Good talk. Kyle begins walking away from the coffee shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You don’t want coffee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m awake now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam’s mother, DIANE LERNER (58), steps out of her car an onto the curb where she’s greeted by her son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hi Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Hi Honey! She gives Adam a big hug and kiss. Based on his body language, it’s clear Diane’s very existence annoys the sh out of Adam. RICHARD LERNER (60) wanders out from behind Diane. On fir glance he seems like a perfectly normal middle aged man, on closer examination it’s clear that Alzheimer's has alt his sense of reality. He extends his hand to Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hi Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Hi, I’m Richard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(to Richard) This is Adam -- your son. Remember? Adam shakes his dad’s hand and gives him an awkward pat o the shoulder. It’s clear Richard makes Adam uncomfortable",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Adam... Meanwhile, Rachael stands on the porch, awkward smile plastered on her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": ", (from porch) Hil (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Diane politely nods and waves in her direction as she and Adam walk toward the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "So what's the big news?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s nothing...I’1l1 tell you inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE, (CONT'D)",
+          "text": "She’s not pregnant? Adam stops, turns and looks at his mother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Mom!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I know, I know, you use protection. Adam cringes, totally mortified. He stares at her for a b then turns and walks into the house, shaking his head. As Diane follows behind she notices the paint on Adam’s p is chipping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE, (CONT'D)",
+          "text": "You need to talk to your landlord about painting this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s fine. Adam rolls his eyes and walks:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INSIDE",
+          "text": "Diane follows after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE, (CONT'D)",
+          "text": "Just give me his number and I'll call him. Diane notices an ABSTRACT PAINTING hanging on the wall ab the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "That’s new.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Rachael made it for me...It’s called “Oppression”. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rachael leans over and corrects him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "“Liberation”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That’s right! That one’s “Liberation”. “Oppression” is in the bathroom. Diane feigns a smile, trying to seem impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam, Rachael, Diane, and Richard sit at the dinner table eating pizza. Diane hands Richard a fistfull of pills. Richard takes the pills, puts them in his mouth and swall He smiles...Diane scans the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "So, what's the special occasion? Adam hesitates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I need to tell you something. But, before I do, you have to promise me you’re going to stay calm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Oh Adam, don’t be so overdramatic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Mom, just promise me. Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I promise...You make me out to be some kind of irrational loon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Have you ever seen “Terms of Endearment”?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Oh, Jesus, Adam...Just tell her. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Tell me what? Here goes nothing. Adam nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(mumbles ) I have cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "What do you mean, “I have cancer”?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I have cancer. What do you want me to say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "When did this happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(reluctant) I found out a few days ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "A few days ago?! You waited a few days to tell me?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Honey. Diane's face literally crumples. She tries to compose herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(beat) I’m moving in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What? No. Absolutely not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I’m your mother Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You already have enough on your plate with dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Who's going to take care of you? You can't even drive! Who's going to take you to your appointments? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam looks over at Rachel, who notices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(hesitates) Me. I will. I’m going to take care of him. Diane sits motionless for what seems like an eternity. Th only indication that she’s not dead is the movement of he index finger, which twitches uncontrollably. Adam sits uneasy, trying to anticipate his mother’s next move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Mom? Diane calmly rises from her seat and heads to the:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KITCHEN",
+          "text": "Adam follows after her:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Mom, what are you doing? Diane lights the stove, puts up a kettle:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I’m making you green tea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Please, will you come sit down? Diane holds up the package of Green Tea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I saw on “The Today Show” that it reduces your risk of getting cancer by fifteen percent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well -- I already have cancer. Adam puts his arm on his mother’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Please come back to the table. Diane hugs him and begins to weep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam walks down the corridor and stops at a reception des (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m looking for Dr. McKay? THE ATTENDANT silently points to an office a few doors do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The office is a pit of chaos; small with stacks of psycho books and files strewn about. An attractive young woman, KATHERINE (24), sits on the couch reading a file while sh eats a rather messy sandwich. She, like her office, is scattered in appearance. She takes a bite of her sandwich Adam pokes his head in the door. She looks up-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(mouth full of food) Can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I have an appointment with Dr. McKay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Oh... please come in... Katherine removes her files from the couch, while awkward balancing her sandwich on top. She rises and puts her han out to shake Adam’s - he reluctantly shakes it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": ".--and please, call me Katherine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(confused) You're Dr. McKay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I am. Have a sit. (corrects herself) Sit down please. Katherine wraps up her sandwich and puts the rest away. A looks her up and down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Aren’t you supposed to be like sixty-five and wear earth-toned sweaters?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(slightly defensive) Why? Did someone say that’s what I look like? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No. But, if you don’t mind...How old are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(put off) Twenty-four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Twenty-four? What are you like Doogie Howser?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Doogie Howser... Off Katherine’s blank look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "...The teenage doctor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Does he work here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No. Nevermind...but aren’t you too young to be a doctor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(almost laughing) Oh, technically I’m not a doctor yet. I wish. I’m actually working on my doctorate. (off Adam's look, trying to be serious) This is a training hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I see...So have you had many patients?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "My patient history is not--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(shocked) I'm your first patient, aren’t I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "No. Not at all. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Your second?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Third. Katie looks at him in silent acceptance. Adam’s eyes wide with concern:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "How are the first two doing? Katherine doesn’t answer. She bites her tongue.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Can’t talk about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "And this is like part of your training?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "It'll be part of my dissertation. But, don’t worry I’m not gonna use your real name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(uncomfortable) Okay. I guess that’s fine. An awkward beat. Katherine pulls Adam's file:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "So, Dr. Ross filled me in on your situation. This must be incredibly difficult. Adam shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE, (CONT'D)",
+          "text": "How are you feeling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You know, honestly, I feel fine. I’ve actually never been more calm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(proud of herself) That’s a very common symptom found in patients like yourself. Right now your body is in survival mode. What you’re actually experiencing is shock... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(3)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, I think I’m fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "...That’s why you feel that sense of calm. Would you describe what you're feeling as a kind of “numbness”?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I would describe it as fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Because certain patients--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(defiant) I feel great. Katherine bites her tongue. Adam nods,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Wonderful, I think that’s wonderful -- if it’s alright with you, today I'd like to start with some very simple relaxation exercises. tense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "But I am relaxed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I know you are. But if you want to lie down...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Lie down?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Yeah. Adam clearly doesn’t trust her, but lies down. Katherine presses play on her laptop - playing new agey meditation music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "And close your eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Really? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Yeah, for this to work, you’re gonna have to trust me. Adam closes his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "They’re closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL, (0.S.)",
+          "text": "No peeking...Keep your eyes closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam is in the living room with his eyes closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "OK. Open your eyes. Adam opens his eyes to see Rachael standing next to a ver old and giant GREYHOUND. The dog stands motionless. RACHAEL (CONT’D) Surprise! Adam’s excitement quickly dissipates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "His name is Skeletor. He’s a retired race dog.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You got me an old dog?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "He’s not that old.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, he’s old enough to be retired. The dog continues to stand motionless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Having a dog helps with the healing process. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Why, does he have a medical license?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Forget it. I can bring him back to the shelter in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well what’s going to happen to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "He'll be put back in his tiny cage with ten other dogs who will bully, and rape him, until he’s eventually euthanized. Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Fine, I’1ll keep the dog.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Really? Rachael's face lights up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "This is going to be so good for you, I promise. Adam grumbles to himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s Adam’s going away party. Draped across the entrance “Bon Voyage” banner with an image of a Cruise Ship. Jenny stands to the side crying as Kyle consoles her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "This whole party was my idea. Thought maybe we could just celebrate his life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY",
+          "text": "He’s going to get better, right? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I hope so. But, tonight I thought it’d be best if we didn’t think about whether he gets better or not. We should be celebrating the Adam we all know and love. Kyle steals a quick glimpse of Jenny’s cleavage. Adam stands in the middle of the party with JOE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "Started chemo yet? Adam stands with TED.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TED",
+          "text": "So what kind of cancer you Adam stands with SUSAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSAN",
+          "text": "Want to know the secret to this thing? Adam stands with GREG.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GREG",
+          "text": "My uncle had what you got.. Kyle's with Jenny who’s still crying. her arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I liked to be touched when Phil embraces Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(sentimental) I’m gonna miss you so much. cur cur got? cur beating cur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT BACK",
+          "text": "After a beat, he Iocry. cur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TO",
+          "text": "rubs",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TO",
+          "text": "(CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(uncomfortable) I’m going to miss you too Phil. Phil leans his head on Adam’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hey, Phil--?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I want you to know, I’m still going to finish that Mount Moha Moha story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Take as much time as you need...I can’t wait to hear it. Phil continues to hold Adam. INT. RACHAEL’S CAR - DAY Rachael’s Prius, which is covered in various Save-the-Wor type bumper stickers, is parked in front of the hospital. Adam turns to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I just wanted to say that you’ve been really great the past couple of weeks. Thanks for the ride. And breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Thanks for saying that. Adam opens the passenger side door, and as he gets out, Rachael yells after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Adam. He turns back and sticks his head in the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You coming? She shakes her head hesitantly. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "If it’s cool, I'll just wait here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s going to take four hours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You’re gonna sit here for four hours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Honey, I don’t want to mix that world and this world. It’s like an energy thing, you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(confused) Right. She gives him a kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Good luck! Rachael watches Adam as he walks off into the hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A small group of patients, including Adam, sit in the wai room. GEORGE, a tall male nurse of Bahamian descent, calls out-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE",
+          "text": "Adam Lerner. Adam stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yep. Adam follows George into the: INT. ELEVATOR —- CONTINUOUS The doors slowly close as they ride down into the bowel o the hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walking through the long ominous halls of the hospital basement, Adam passes dozens of sick patients who are bei shuttled into Radiation Therapy, Chemotherapy and other various treatment rooms. A sick, fat, bald elderly woman coughs as she passes. Adam winces in disgust.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGE, (CONT'D)",
+          "text": "This way my baby. George leads Adam into a Chemotherapy Treatment room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam is seated in a plush leather chair where he’s hooked into a chemo drip. He's surrounded by three other patient An 74 YEAR OLD MAN, who munches on macaroons, a MIDDLE AG BALD MAN, and a BALD WOMAN, who knits as she listens to m on her headphones, a Zen look on her face. ALAN (84), sitting next Adam, whispers to him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(to Adam) Want a macaroon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Thanks. I’m alright. Adam looks down to see that Alan is holding box of macaro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(whispering) There’s weed in ‘em. Adam looks to the middle aged man, MITCH (55), who smiles Adam as he pops a macaroon in his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I don’t do weed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "C’mon. Just get high with us! Adam reluctantly eats a macaroon. Mitch leans over, stone hell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "How old are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Twenty-seven. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "That's just the worst? A perfectly good youth wasted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Alan, stop it. Don’t listen to him, he's just messing with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(To Adam) Listen to me, this cancer is bull shit. First your hair’s going to fall out, then your balls’11 shrink. And if that isn’t enough, your dick becomes a constant source of disappointment. Alan and Mitch laugh like two teenagers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I got to tell you, I was really nervous about this whole cancer thing, and then I met you guys, and boy do I feel better. Alan and Mitch laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(to Adam) I’m Alan Lombardo: stage 3 lymphoma. Pleased to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Mitch Barnett, metastatic prostate cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Oh, I’m Adam Lerner, schwannoma neurofibrosarcoma.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "What the fuck is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Tough break. The more syllables, the worse it is. Alan and Mitch laugh. Adam pops another macaroon in his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "These are really good. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Thanks, my wife made ‘em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(chewing) ...-how strong are they?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Stroooong. Adam sits back and closes his eyes. Upbeat music swells..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam walks in SLOW MOTION down the same ominous corridor entered through before. Only it’s no longer ominous to hi He wears a big huge goofy smirk on his face as he passes: --a SICK MAN on a gurney --an OLD LADY wheezing --a BODY BAG being carted on a gurney --a FAMILY crying Adam stops, stares at all the misery around and laughs...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam jolts out of bed. His clothes are drenched in sweat. quickly runs into the bathroom and throws up. A lot. Rachael wakes up, and knows she should go to him, but can Instead, she faintly calls out-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Adam, you okay? Adam says nothing, he just slumps over the toilet seat an throws up again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam looks and feels terrible. His head pounds, causing h to rub it. Katherine sits in the chair next to him. Her t is a little rigid - masking her lack of experience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "So how are you feeling after your first treatment? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It feels pretty bad, gotta say. My head is killing me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(empathetic) Yeah I know. From what I understand it can be pretty rough. But it will pass. She pats Adam on the arm. Her intention is to set Adam at ease, but the act just makes him more uncomfortable. Startled, he backs away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Uh...huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I think it’s important to remember that these side effects are very normal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Good. I’d hate to think I was special in any way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(nervous ) That’s not what I meant. I was just trying to reassure you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(terse) Well, thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I’m sensing some anger. Which is good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m not angry. (beat) Why is that good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Because you're expressing yourself. You're dealing with a really serious illness. That brings up a lot of emotions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're trying to make me freak out, right? That’s the goal here? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(2)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I’m not trying to make you freak out. I just want you to get in touch with what’s going on inside. And if you’re angry--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(angry) I’m not angry...Let’s do the relaxation thing... Can we do that? I want to hear some sitars. Go to my happy place and feel the warm of beam of light. Can we do that? Katherine’s a little shaken by Adam’s outburst. He feels although that outburst did feel kind of good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I see...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "(beat) I'm sorry...I was being an asshole. I didn’t mean to say that. Katherine regains her footing. Adam nods,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I don’t need you to take care of me. (smiles) I’m trying to take care of you. hesitant. Katherine exhales and scribbles on a piece of paper:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE, (CONT'D)",
+          "text": "Listen, there’s a few books I’d like you to read. A lot of people find them really helpful. You don’t have to read them cover-to-cover. Just take a look to see if they resonate. She pats her hand on Adam’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m sorry, are you going to keep touching me like that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "What? This? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(3)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Katherine puts her hand back on Adam’s shoulder. Adam pul away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah. That.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(frustrated) I'm trying to help you feel more at ease. Adam imitates Katherine’s touching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That’s supposed to make me feel more at ease? It’s like being slapped by a sea otter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Touching promotes trust. It’s one of the key ways that hospital practitioners can help patients feel more secure in stressful situations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That's, um, it’s not -- comforting. Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Really, sea otter? Is this better? Katherine tries again. This time it’s too gentle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Now it’s just getting creepy. INT. ADAM'S BATHROOM -— DAY Adam stands in front of the mirror. Kyle stands behind hi tying a towel around his neck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I think you’re making a big, big mistake. Please don’t do this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "What if you have some weird Gorbachev bird shit thing on your head? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I thought you liked this idea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I liked the idea in theory. Now that we’re standing here about to do it, I’m a little worried you're going to look like fucking Michael Stipe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "We have to do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m not going to do it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You said you would!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I changed my mind - because if it looks bad, you’1ll blame me every time you see your weird screwed up bald head. Adam grabs the PAIR OF CLIPPERS and goes in for the shave pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Wait...what do you use this for? Adam's eyes widen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You know, my body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "When was the last time you cleaned it? Kyle wipes the clippers on his shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Right now. Adam takes the clippers and proceeds to shave his head. K covers his eyes in horror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Fuck! Dude! Holy Shit! After a beat, Kyle grabs the trimmers and joins in. Once finished, Adam looks at his bald head in the mirror. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It looks okay, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No. It looks really weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Why didn’t we go to a barber?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "That would have been a much better idea -- if we had paid someone to do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Instead of using your balls trimmer-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "And I never wash them, ever. And it’s not my balls, it’s my asshole....I’m joking...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're not joking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No, I'm not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam, Alan and Mitch sit in their chairs, attached to the CHEMO DRIPS. Adam looks SLIGHTLY WORN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "How come we've never met Rachael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Yeah. What the fuck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hospitals kind of freak her out. Alan and Mitch look at each other and groan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "(being delicate) Well Adam, no one likes going to the hospital. That’s not why people go-- (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, you don’t get it. She doesn’t want the negative mixing with the positive...it’s an energy thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Sounds to me like a bullshit thing. Adam takes this in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You guys can meet her after. She’s picking me up. I’m sure she’d like to meet you all...She’s really great, you guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(not convinced) Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam, standing next to Mitch and Alan, is on his cell pho",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hey it’s me again, just checking to see if you’re close...Talk to you soon. He hangs up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Sure you don’t need a ride, kid?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Oh no, she’s gonna come. I’m sure she’s just caught up with something. You guys should head out, you can meet her next time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Yeah. Sure. Alan and Mitch give him a sympathetic look at Adam and th walk off together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam’s seated on the steps out front. He looks exhausted. Rachael’s Prius speeds into the parking lot and stops in front of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Adam! I know. don’t be mad. I’m sorry. Please you fucked",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’ve been calling you for an hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "My cell phone died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You don’t have to do this, know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(remorseful) I’m sorry. I am. I know, I up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I even gave you an out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I’m doing my best...Can we home? just go Adam gets in the car, pissed, and they drive off. INT. BOOKSTORE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SELF HELP SECTION",
+          "text": "Adam and Kyle browse through shelves of books. Adam consu Katherine’s list of books. Kyle grabs the book, and rathe then hand it to Adam, he reads the AUTHOR’S BIO on the ba jacket of the book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(in excitement) “Kasper Schlegel is an American ‘medical intuitive’ and ‘mystic psychiatrist’”. ‘Mystic psychiatrist’? What is he like Frodo’s psychiatrist? Why would you buy that? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Because my therapist said I should - (shrugs ) I don’t know. Kyle ditches the book and picks up one on Mardi Gras.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Let’s go to Mardi Gras!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I have a girlfriend, why would I go to Mardi Gras?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Oh yeah, your girlfriend, I forgot. Why go to Mardi Gras when you could be here, not getting hand jobs and blow jobs? From across the store, Kyle notices CLAIRE (30), an attractive employee stacking books.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(frustrated) Well if you’re not going to take advantage of this, then I am. Kyle yanks the list of books from Adam and crosses to Cla He throws on a charming smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Hi- Noticing Claire’s name tag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Claire. Kyle. Could you help me find a few books, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "Sure. Kyle hands Claire the list of book titles. She reads.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "Oh. (Concerned) Are these for you?...I’m sorry it’s none of my business. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No, thank God. Actually, they’re for my friend. The little guy in the hat. Kyle nods towards Adam across the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "He’s my buddy, he’s really, really sick. Claire shoots Adam a look - the way one looks at a dying puppy. Adam looks on in confusion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "How awful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Yeah. He has ‘Type Four Back Cancer’ - not cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "Poor guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I know. It’s been really hard. (Feigning sadness) But I don’t focus on that, I focus on the positive, by taking him out to book stores. I like to take him for walks. Plays. While he has time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "That’s so nice of you. Claire leads Kyle off to a stack of books.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT/EXT. BOOKSTORE",
+          "text": "As Adam and Kyle exit the bookstore, they pass Claire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(to Claire) I'll see you tonight. Then as they exit, and walk along the sidewalk, Kyle can’ help but boast of his achievement; rubbing it in Adam’s f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Thank you, Claire! Nice to meet you, Claire!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam’s lying on the couch with a cold washcloth on his he watching TV. The phone rings. He snatches it, checks call ID: “Mom”. He presses “Ignore”. He checks his RECENT CALL The screen reads “Mom. Mom. Mom. Mom. Mom.” On cue, his l line rings. Frustrated, he answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What, Mom? DIANE’S VOICE Jesus, what took so long to pick up? Are you okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I'm fine. I didn’t hear the phone ring. DIANE’S VOICE Do you need anything? I was about to go to the Rite-Aid for your father...You want me to come over? I can bring dinner. I can make macaroni and cheese.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Mom, I haven’t liked macaroni and cheese since I was like ten. (softens) It’s all right, Rachael’s going to come over later. DIANE’S VOICE You sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yes. I’m totally fine... In WIDE SHOT, Adam sits alone in his house. Seemingly not fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "...Don’t worry so much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "All right. If you say so. I love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Love you too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A hip gallery opening. Kyle and Claire have drinks and st at awful art.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "This one is really cool!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "(beat) My friend did this, actually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(laughs ) No way! Your friend is a real talent. Claire moves on to another piece.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "So what do you think of this one? Kyle turns and looks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Uh oh! I think I have a new favorite!...This is genius...It’s making me a little emotional. Just then Kyle sees Rachael across the crowded room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Of course, I should have known I’d see her. We’re at a fucking gallery opening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "Who is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You know my best friend, the one who's sick? That’s his pretentious girlfriend. They follow Rachael as she walks up to a WHITE GUY WITH DREADLOCKS and flirts with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLAIRE",
+          "text": "She doesn’t look like someone’s girlfriend. Just then Rachael gives the guy a passionate, deep kiss. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Fuck! I knew it! The kiss goes on long enough for Kyle to take out his cel phone and snap a picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "(ecstatic) I nailed that cunt! (to Claire) Can you believe it?! Claire walks away, disgusted. Kyle quickly follows after",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Sorry - I - uh, don’t usually use words like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam is asleep on the couch when he hears Rachael come in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(sleepy) Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Didn't mean to wake you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(reaching for her) Come here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Oh, I’m so tired. Can we just get into bed? She holds out a hand to help him up just as Kyle opens th front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Hey! Surprise! It’s Kyle! What’s happening, guys? He couldn’t be in a better mood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(confused) Hey Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": ".--bad time? Am I interrupting something? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well it’s midni-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Sorry, I was in the neighborhood. I had a date with Claire, the bookstore girl. It did not go well, due to a lack of chemistry and I think an overuse of profanity on my part. But, whilst on my date, I ran into - Rachael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Oh yeah? Kyle pulls out his cell phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "I would like to present... Kyle holds the phone to Adam’s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Exhibit...whore! On the camera screen is a very grainy picture of Rachael kissing the guy at the gallery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Look! Look at it!!! That’s Rachael! And that’s a fucking dirty Jesus looking motherfucker, and they’re kissing! I did it! (to Rachael) I FUCKING NAILED YOU!!! I’ve hated you for months! And now I have evidence that you suck as a person! Kyle looks at Adam and Rachael’s silent faces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Nothing? (beat) You two should probably talk about this... He steps into the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're cheating on me!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "No! I mean - yes but- (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(2)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Seriously?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(coming apart) Adam - you have no idea how hard it’s been! I don’t know how to do this, and it’s been so stressful, and you've been so sick, and shit, you're the one who told me Kyle keeps using your cancer to get girls! Why should I be the bad guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (0.S.)",
+          "text": "Because you’re his girlfriend, and you cheated on him while he has cancer, you fucking lunatic!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(ignoring Kyle) Adam. We had problems long before you got sick. And then when you got sick, I didn’t know what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "So why are you here? Why do you spend every night in my bed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(quietly) I don’t know. I didn’t want to abandon you. (beat) Let’s go to bed, we can talk about this tomorrow. Speechless, Adam sits on the couch: humiliated, heartbrok ruined. Kyle re-enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I can’t stay in the kitchen any longer. (to Rachael) You got to get out of here! You’re making this way too uncomfortable for everyone. Just leave! Kyle leads her to the door. She resists.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Adam, we'll talk tomorrow. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No you won’t! Why would you talk tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Adam, I care about you...Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You are reprehensible!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(to Kyle) Will you shut up?! (to Adam) Kyle doesn’t have your best interest in mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I don’t? Cause I’m pretty sure I’m not the one who got caught making out with some disgusting hippie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Fuck you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You're disgusting! Rachael slams the door and leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam lies in bed. He looks over at Rachael’s empty spot. inhales, feeling very alone. Just then Skeletor jumps up and lies down next to him, practically upending the bed. Adam looks at him, pets him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam and Kyle are out walking Skeletor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "This is the best thing that could have happened to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Why? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just then Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You deserve better, way better. If I was your girlfriend, I’d be baking you cookies and blowing you every thirty minutes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What kind of cookies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Any kind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Would you make me Snickerdoodle cookies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I'd bathe you in Snickerdoodle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "This conversation is making me nauseous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Actually?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, that was a joke. an attractive girl, BODI, walking a dog approaches",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODI",
+          "text": "Hi! What’s his name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Skeletor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODI",
+          "text": "This is Marlowe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Why hello Marlowe!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODI",
+          "text": "You guys live around here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "We sure do. Bodi bends over and pets Skeletor. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODI",
+          "text": "I love greyhounds. (to Skeletor) Hellllooo. You’re a good ol’ boy. Nervous, Adam suddenly gets very protective of Skeletor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "We should go, he doesn’t like the cold. (to Bodi) Nice to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODI",
+          "text": "Nice to meet you! Adam pulls Skeletor away. The girl continues on her way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You could’ve fucked that girl, you realize that, don’t you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No one wants to have sex with me. Look at me - I look like Voldemort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You could’ve asked her to go ona doggie date, whipped out the cancer card, fuck the shit out of her! Adam thinks-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You really think a girl’s gonna go for me just because I have cancer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I know it. Help me, help you get laid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You think that would work?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It would totally work! Adam thinks more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Let’s do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bar is loud and packed with Seattle hipsters. With no room to move, Adam and Kyle stand pressed against the bar counter. The room is hot and Adam’s knit hat is causing h to sweat uncontrollably. Adam scans the crowd - this is definitely not his scene. A very ATTRACTIVE WOMAN leans i the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Lot's of hot girls. Good odds tonight. Ok, over there, blue shirt? Go for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Just talk, spark up a conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTRACTIVE WOMAN",
+          "text": "(to the bartender) One PBR. Adam leans over to the woman, yelling above the music:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "How’s it going? The woman doesn’t even look at him. Kyle leans in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Get into the cancer thing faster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Faster?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s your hook man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "So that’s the first thing I say? ‘Hello, I have cancer.’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s what sets you apart. You’re sympathetic. Just try it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK.",
+          "text": "ATTRACTIVE WOMAN #2 (30) squeezes in next to him. She drunkenly bobs her head to the song as she orders a drink (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam reluctantly looks over at the woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(to the woman) I love this song.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ATTRACTIVE WOMAN",
+          "text": "Totally.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I have cancer. Kyle pulls Adam away as the girl looks on, weirded out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I was wrong, I was wrong. Doesn’t work like that. It doesn’t sound cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kyle’s talking to two girls in their mid twenties, ALLISO and JACKIE. Adam stands alone in the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I'm Kyle, how’s it going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLISON",
+          "text": "Allison.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Jackie. Kyle shakes their hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Allison, Jackie. It’s my birthday today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLISON",
+          "text": "Happy birthday! The girls raise their beers and toast Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLISON",
+          "text": "Cheers!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m here with my buddy actually. Kyle points out Adam. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "The skinny one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "One second. Kyle rushes over to Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I met two girls over there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Are they nice?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "They are, very nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Let’s talk to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Yeah. Take the hat off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What? No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Take it off, take it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m not taking it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bar’s less crowded now. Kyle and Adam are seated in a booth across from Allison and Jackie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What do you all do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "I just designed the website for the Swiffer--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(excited) Are you serious? Sorry, I'ma fan. I love the Swiffer! I use it for everything. Sweeping, mopping -- well that’s it really, so not everything. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls looks bored. Adam looks at Kyle out of the corn of his eye-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(mouths ) Do it. Adam shakes him off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I just got a dog and he’s always shedding, and with the Swiffer all I have to do is attach the wet cloth and boom, I’m done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Oh, I love dogs. What’s his name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Skeletor. Adam looks back at Kyle then reluctantly pulls off his ha revealing his bald head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s kind of warm in here, isn’t it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "(stunned) Oh wow -- you’re bald.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Oh no, it’s just cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLISON",
+          "text": "Cancer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "But don't worry, I’m not contagious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Oh my god, what kind of cancer is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Spinal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s in his spine. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Spinal? I didn’t even know that was possible. How'd you get that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I don't know, bad mattress? She laughs. Adam and Kyle look at each other. They're in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "He still has a sense of humor! It’s inspirational!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Can I touch it? Is that weird?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You can do more than touch it! The girls rub Adam's bald head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "This is a very nice head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Let’s rub it together. Kyle reaches out, also rubbing Adam’s head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You know, it’1l grow back if you rub it enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam slumps against a building, as the Jackie and Allison now clearly drunk, order food. Kyle approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "How you doing? You OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Please let me go to sleep. All I want is sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No! Do not close your eyes. You've got to keep going! All we have to do is stay awake until they decide to go to sleep, because if we’re there when they do, sex will happen. (beat) (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "KYLE (cont'd) We're so close... Don’t waste my time, man! Adam's eyes flutter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m so tired. Can you give me an approximate time I‘1l be having sex?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "In ninety-five minutes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I can’t wait that long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "That’s how long it’1l take! The girls return with two jumbo hot dogs:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "You guys want to hit up Lush? I know the DJ--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I think I’m actually done for the night. I’m pretty exhausted. (feigning) The chemo really wears you out. Jackie looks at him, disappointed. Kyle is incredulous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(beat) But, I have some really potent medical weed if you want to come over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLISON",
+          "text": "That sounds cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Great idea! Let’s get a cab! Psyched beyond belief, Kyle nudges Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(whispers to Adam) That was pimp! Very impressive. Adam smiles at Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jackie and Adam lie in bed. She’s on top of him, eyes clo SCREWING HIS BRAINS OUT. Adam looks miserable. With each thrust, he winces in pain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Am I hurting you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Are you sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Actually, yeah. It does--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACKIE",
+          "text": "Sorry, I'll just get off you. Jackie rolls off him. They lie next to each other awkward",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. ADAM'S KITCHEN- DAWN",
+          "text": "In the rising light of dawn, Adam, in boxers and t-shirt, pours himself some water from a Brita. He puts it back in fridge. He turns, enters the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kyle and Allison lie on the couch, both naked under a blanket, watching a gratuitously violent film on TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I wonder what the machine gun budget on this film was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLISON",
+          "text": "Can we watch something else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No, I want to see how it ends. Adam stands in the doorway. Kyle locks eyes with him. Ada not happy or sad - just lost. Kyle forces a smile. Adam shrugs and walks back into the bedroom. MONTAGE VARIOUS DOCTOR’S APPOINTMENT --CU of a light being shone in Adam's face. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "--CU of a doctor’s hands pressed against Adam’s lymph nod --CU of a tongue depressor probing Adam’s mouth. --CU as a nurse slides the weight along a scale. --CU of blood being drawn from Adam's forearm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Katherine walks to her car. She notices Adam sitting alon the BUS STOP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(embarrassed) Oh hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Waiting for the bus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(beat) I’m on my way home right now - want a ride?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Oh, I’m used to the bus, but thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I can’t let you take the bus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I live kind of far away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Won’t take no for an answer. INT. KATHERINE’S CAR - MOMENTS LATER (DAY) Adam is seated in the front seat as Katherine drives. The is filthy - it’s littered with papers, magazines, food wrappers, etc. Katherine’s body is pressed all the way up against the steering wheel with her eyes fixed on the roa (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Sorry about the mess. I’m not very good at getting rid of things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah, I can see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Let me know if you need me to pull over...I know that the chemotherapy can make you...you know...nauseous. Silent beat as they both stare out the windshield, unsure what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "So, you don’t have a car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No. Don’t even have a license.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s incredibly dangerous. (beat) It’s the fifth leading cause of death. Only a couple after cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Still. The bus. The bus after chemo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Rachael usually drives me -- but we broke up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "What? When did this happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "A few days ago. She kind of cheated on me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Oh. Adam. Do you want to talk about it? Adam’s about to answer when...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No. Nuh-uh. No therapy. You are giving me this ride as a friend. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(2)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(looking around) You know what we could talk about? All of this mess. Are you aware of the bacteria that’s probably living in here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam, your girlfriend cheated on you-- (beat) I know what’s it’s like. Break ups suck, I just broke up with someone a few months ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE, (CONT'D)",
+          "text": "It’s fine. I ended it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "How long were you two together?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Three months -- (uncomfortable) And we shouldn’t be talking about this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Why not? You know every thing about me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I just don’t think it’s appropriate for me to be telling you all this personal stuff. The whole therapist/patient relationship doesn’t work if you know all my problems. She smiles, awkward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Admittedly, I do check his Facebook page everyday to see if he’s dating someone new. So pathetic-— (beat) Probably shouldn't have said that. We can just listen to the radio. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam thinks for a beat. Then looks at the floor, looks at pile of garbage at his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(abrupt) Stop the car. Katherine looks at Adam nervously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Why? What’s wrong? Are you okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Just stop the car. Katherine stops the car. Adam grabs a handful and gets out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I can’t handle all this mess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Are you serious? of her garbage Adam tosses the garbage in a dumpster and comes back to t car for more. Katherine laughs as she gets out and joins",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Wait, no, not that. That’s my dinner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Which one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "This. Katherine grabs a food container from Adam’s hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're going to eat that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Don’t judge me. They leave Katherine’s dinner behind, then throw out the of the garbage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam and Katherine arrive at Adam's house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, this is me. Thanks for the ride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "No problem. Thanks for cleaning my car. Adam looks at his house. The lights are out. He’s really in the mood to be alone. He gives out a deep sigh and the gets out of his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "I’ll see you next week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "You'll be all right? By yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah. Totally. I’m fine. He gets out of the car and walks away. Katherine looks af him, with concern. She rolls down her window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Hey-- Adam turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE, (CONT'D)",
+          "text": "I want you to have my cell number. Call me if you ever need anything. Katherine scribbles her cell phone on a piece of hands it to Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(teasing) Did I just score your digits? Katherine turns red.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(uncomfortable) No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That was a joke. paper and (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(awkward) That’s fine. Jokes make for a good coping mechanism...This is only for emergencies. (beat) Or if you need someone to talk to...Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "S HOUSE. LIVING ROOM",
+          "text": "Adam and Kyle smoke a mini-bong bubbler as they watch “Pl Earth” on a brand new 50” flat screen TV. Skeletor is asl on the floor. There’s a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I thought the desert was crazy. The ocean’s fucking nuts, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I like the trees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "The trees are going to be bananas. knock at the door. Too engrossed in the TV, neither guy moves. Rachael pops her head in the door. She looks a Adam nervously as he puts on his hat, covering his bald h Adam does",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Hey -- I’m just here to pick up my things and then I’1l be out of your way. his best to play it cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I put all of your things in a box. It’s outside the door on the porch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Walked right past it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Oh. Okay. Well then I guess I’1l be on my way. (then noticing) Are you smoking weed? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Since when do you smoke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s medicinal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(impressed) You got a prescription for medicinal marijuana?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "No, I got a prescription for medicinal marijuana, Adam was too afraid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "What’s wrong with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I have night blindness. Rods and cones are eschew, and weed fixes it. Rachael grins and rolls her eyes. She notices the new TV, which has replaced her painting on the wall. The painting sits stashed in the corner. Sadness sweeps across her fac",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(disappointed) You took my painting down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It didn’t really fit there with the new TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Adam, can I talk to you outside for a second please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam and Rachael exit Adam’s house and sit on the porch stoop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "So...how are you feeling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Pretty awesome. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I wanted to tell you I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(contrite) I’m sorry too, I know this wasn’t easy for you. And I’m sorry I didn’t come to your opening, it’s only because I hate you so much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "(embarrassed) I’m glad you didn’t come. It was a complete disaster. No one bought any of my paintings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(smiles) Really?...But they’re...so...great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah, you’ll get it next time. She hugs him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I don’t want to break up. I can be better. We can start over again. She kisses him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I‘ll just be better. He kisses back. After a beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You should go. She continues kissing him. He continues kissing back. He struggles to pull back, but does. He stares at her, shake his head-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Please...I need you to get the fuck off of my porch now. Rachael looks at Adam, pissed, hurt, ego shattered. She p up her belongings, turns and walks toward her car. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam notices Rachael’s painting still on the porch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Your painting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RACHAEL",
+          "text": "I made it for you. Rachael continues to her car. A beat. Adam then gets up o the porch and walks inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "TIGHT ON: Rachael’s Painting. Adam and Kyle are hammering it to a tree. From a box of various supplies, they pull out the following items and destroy the painting: kitchen knives, screw driver, garli press, a Molotov cocktail made out of hair-spray, eggs, orange juice, shaving cream, and an ax. Adam and Kyle look down at the destroyed painting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It actually looks a lot better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s not that bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah, we could hang this up. EXT. MITCH’S HOUSE - BACK PORCH - DAY Adam, Kyle, Mitch and Alan laugh hysterically as they smo joint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(to Alan) You were around before TV, right? Because I want to hear about the radio...They talk about people just sitting around and listening to the radio--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Glued to the radio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What did you listen to? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "“Little Orphan Annie”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "What did you look at when you were listening, nothing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "It engaged everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m doing a radio piece on a volcano.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I do radio I think people will actually like. Mostly stuff about food...Like hamburger. People like listening to that versus “Coming up next, a volcano!”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "You know what I’d do? I’d turn on the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s not the same. Just then, an attractive fifty-something woman, BERNIE, carries out a tray of wheatgrass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Thank you, sweetheart. Bernie just blended up some wheatgrass. Beware, it’s like drinking liquid lawn cuttings. (beat) Oh, Bernie, this is Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hi. This is my friend Kyle. Kyle takes a sip of wheatgrass and nearly gags.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BERNIE",
+          "text": "(re: wheatgrass) You like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(in disgust) It’s not good. Bernie smiles, amused by Kyle, then turns back to Adam. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BERNIE",
+          "text": "So, you're Adam? From the way Mitch described you I thought you were much older.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "He was eighty-five years old when he was three. Mitch looks at his wife adoringly and takes her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Come here. Mitch pulls her close her for a kiss. Adam looks at them, envious, a thin smile on his face. INT. KATHERINE’S OFFICE - CONTINUOUS Adam walks in, flustered and annoyed as he talks to his m on the phone. He sits down -- wrapping up the conversatio",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(annoyed) Mom it’s not a virus!...No, it’s the screen saver. Adam mouths sorry to Katherine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": ".--Please, I’m telling you, just move the mouse...mom I can’t talk now. I have an appointment. Yes, right now. I’m standing inside the office as we speak...I don’t know what I’m making for dinner...something, I’1l figure it out. Adam looks at Katherine, embarrassed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "...-Mom, I really have to go. OK, hanging up the phone now. OK, I know...Love you too. Adam hangs up the phone. Takes a deep breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Sorry about that. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Don’t worry about it. I have parents too. Adam grimaces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Do yours give you migraines?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "My parents are something I would talk about with my therapist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Yeah, we could role play. I can be your mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(repulsed) Oh God, no. That’s disgusting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Why is that disgusting? Adam sighs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "My mom is a crazy person who worries incessantly. Honestly, it annoys the shit out of me. And it’s not helpful...I can’t talk to her. Katherine thinks - connects the dots in her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "So now she has a husband she can’t talk to, and a son who won’t talk to her. Adam’s taken aback by Katherine’s bluntness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, yeah, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I mean, aren’t you being kind of a dick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I'm sorry? Is that a medical term? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(2)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Your parents are who they are, you can’t change that. The only thing you can change is how you choose to deal with them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Aren’t you supposed to subtly manipulate me into being aware of my faults? Not call me out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I think we’re beyond that point. You did clean my car. Katherine looks at Adam with tenderness, grabs hold of hi shoulder, squeezing it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE, (CONT'D)",
+          "text": "(frustrated) It’s weird, isn’t it? Shouldn’t have done it. Shouldn't have gone for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, it was good, it was good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "No, it wasn’t. It’s so forced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Here try again, I was too far. Come in a little closer. He inches closer to her, and sticks out his shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I’m going to make it real natural. Katherine places a hand on him, testing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That was better. They share a smile. After a beat Katherine looks down - s consciously. INT. HOSPITAL. CHEMOTHERAPY TREATMENT ROOM —- MORNING Adam sits down next to Alan, but notices there’s no Mitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "You're all set. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Where’s Mitch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(somber ) He died last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "But we were just with him, what happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(shrugs ) What does it matter, his heart stopped. They can’t look at one another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kyle’s car drives up the cemetery’s long driveway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dressed for a funeral, Adam and Kyle walk through the gro passing hundreds of tombstones along the way. Adam is mor Kyle is trying to cheer him up. EXT. MITCH’S FUNERAL - DAY Adam, Kyle and Alan stand next to a MINISTER as he speaks Bernie stands in front of them, trying to hold it togethe We PUSH IN on Adam, as the Minister’s voice recedes into background. INT. ADAM’S LIVING ROOM - DAY Adam lights a joint. He turns on the TV. Matlock appears his flat screen TV. Adam flips the channels. And finally the NEWS -- BREAKING NEWS: MT. MOHA MOHA ERUPTING. Adam watches the volcano erupt with bittersweet sadness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam lies on the bed of an MRI machine. His body is slowl drawn into the scanner. \fINT. HOSPITAL. KATHERINE’S OFFICE - DAY Adam lies on the couch staring at the ceiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "just beginning to realize that probably going to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Did something happen? Did you get the MRI results back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, but look at me, I'm not getting any better. I look in the mirror and it’s pretty obvious. (beat) Mitch died, Alan's probably going to die, and so am I.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "You don’t know that...A lot of what you're feeling is from the treatment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Look. Thank you, but you don’t need to try and cheer me up. I mean, in the end, what does it really matter anyway? We’re all going to die. You're just going to die, hopefully a lot later than I am. Not expecting this turn from Adam, Katherine’s demeanor stiffens - she looks anxious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam, okay, what you’re going through - is something called “The Alienation Phase”...And I know that you’re feeling helpless inside, but you should know that this is totally normal for someone in your situation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(annoyed) I’m sorry, but, I’m going to have to call you on that. It’s bullshit. That’s what everyone has been saying. “You’ll get better” and “It'll be fine”. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ADAM (cont'd) I don’t know why everyone is so fucking scared to say it. “You’re dying, dude”...It makes it worse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(speechless) Adam, I’m here to help you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Why? So that when you’re at some dinner party in 30 years, you can tell some inspiring anecdote about you coached your third patient through the alienation phase, and helped him feel “normal” right before he died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam...I...I’m sorry - if - I said the wrong things. I-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "This isn’t working for me. Adam leaves. Katherine is overcome with a sense of failur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The place is a mess. Adam dials the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (V.O.)",
+          "text": "Not around. Leave a message.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hey man, it’s Adam. I was wondering if you could give me a ride to my doctor's appointment today...It’s the big one. Adam hangs up and hesitates. After a beat, he dials again. Adam holds the phone away from his ear and cringes. A pan regret runs through his body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Oh my God, what’s wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Hi Mom. \fINT. DR ROSS’ OFFICE - DAY Diane, Adam and Richard are seated in the exam room. Dian and Adam nervously flip through magazines while Richard i lost somewhere in his own world. The tension is thick. Di looks at her watch and shivers. There’s a knock at the do A friendly looking Nurse enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIENDLY NURSE",
+          "text": "The doctor’s just in with another patient, but should be out in a few minutes. You guys holding up alright?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "It’s very cold in here. Is there anyway you can turn down the air conditioning?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIENDLY NURSE",
+          "text": "Unfortunately the temperature is controlled by a central thermostat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "My son has cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIENDLY NURSE",
+          "text": "(feels bad) I'm sorry, really, if I could I would, but there’s nothing I can do. Adam's pissed that his mother has just involved him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(smiles to the Nurse) Don’t worry about it. (Scowls at Diane) I’m fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIENDLY NURSE",
+          "text": "Are you sure? I could get you a blanket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "No, really, I’m okay. But thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I'd love a blanket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(to the friendly Nurse) We're fine. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIENDLY NURSE",
+          "text": "Okay, but you let me know if you need anything. The Nurse smiles and then exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(Re: the friendly Nurse) I don’t like her. Diane puts her hand on Adam’s forehead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE, (CONT'D)",
+          "text": "You feel warm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m fine. Diane gets up from her chair and paces around the room looking at the doctor’s various degrees on the wall. Adam looks on, annoyed at every step his mother takes. Diane closes in on one of the degrees and puts on her reading glasses for further examination.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(disapproving) Huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Oh, nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(annoyed) What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "It’s nothing, he went to a state college.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You’re unbelievable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I just worry that you’re not getting the best care possible. (beat) And I don’t think you’re eating right. Adam can’t take it anymore. He explodes. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Will you stop! I’m not him. I can take care of myself. Diane is so frustrated, she’s near tears:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "It’s so hard that you don’t let me help you. It’s really hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You are helping me. You brought me here, didn’t you? They sit in silence for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "What about you? She looks at him, baffled:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "What about me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(wiping her tears) How am I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "How are you? What’s going on in your life?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Seriously? Nothing is going on in my life. The highlight of my week is this cancer support group I’ve been going to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You've been going to a support group?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "It’s for parents whose kids have cancer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I didn’t know you were doing that. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "How would you? You never call me back. He looks at her. He softens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "You don’t have to say you’re sorry. Adam takes her hand in his. She’s clearly moved. A beat. Ross storms into the room carrying a stack of MRI films. seems rushed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "Sorry to keep you folks waiting. Adam and Diane look at Dr. Ross with blank stares.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS, (CONT'D)",
+          "text": "Anyway I'll cut to the chase. The cancer’s not responding to the chemo. Dr. Ross places the MRI into the light box. DR. ROSS (CONT’D) As you can see, the tumor is continuing to grow here, along the nerve. We have to remove it now or we risk metastasis. Adam and Diane squint to see what Ross is talking about, see nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "So what do we do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "We need to operate. Now, I was able to move some things around, and I can get you in this Thursday morning with Dr. Walderson. He’s one of our best neurosurgeons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "But he’s going to be okay, right? You're going to fix it. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ROSS",
+          "text": "Considering the placement and size of the tumor, a surgery of this nature is very dangerous, and potentially life threatening itself. The surgeons will be very aggressive in their attempt. But if we're unsuccessful in removing the cancer...then unfortunately we’re out of options. Diane takes hold of Adam’s hand. They sit silently as the doctor’s words soak in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam sitting in the park over looking the city. Kyle is d - Adam is still nursing his first beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m not going to bring up the fact that your surgery is tomorrow. Not even thinking about it. So don’t worry about it, cause I’m not going to bring it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You remember the last time we came out here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It was prom night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That memory is so far from me...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It was a long time ago, I don’t even remember who you went with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(bitter) Nora Mattingly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Oh yeah. That girl sucked. You really know how to pick ‘em. Even then I think you knew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "She seemed so sweet. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "She was never sweet. She always sucked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You just always hate my girlfriends",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "That’s not true... OK it is, actually. But it’s because you date fucking dickheads. Needy bitches. Whhhhyyyyyy? Adam looks like he’s on the verge of falling apart. Kyle his arm around him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "It’s fucking cold. And it’s only midnight! Dude, let’s go to a bar, try to get laid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(annoyed) Don’t you ever give up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "C'mon! I had fun with that! Kyle points at Adam’s head as he stands, then stumbles. H drunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I know you had fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You could too, maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're drunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It worked! Take your hat off!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I think I should drive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I would let you drive but you don’t know how. You don’t have a license.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(somber ) This might be my last chance. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Driving! That’s what you want to do? That’s your “Make A Wish”? To drive? We could be having sex with hookers while skydiving, and instead you want to do something I learned to do when I was fifteen! (concedes ) Fine, but be careful. Kyle hands Adam his keys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Drive carefully. And don’t adjust my seat settings. The two climb into Kyle’s car. Adam puts the key in the ignition.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "(condescendingly) Now, first thing you want to do-- Without checking the mirrors, he backs the car up. BOOM t car SLAMS into a BIKE RACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "What the fuck! Adam pulls out of the parking lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Make a left. Make a left! It’s a one way street! Adam turns left onto a one way street. It’s the wrong way",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "What the fuck? There’s a car! Wrong way! Wrong way! Wrong way! What the hell! An oncoming car honks and swerves out of the way - only nearly avoiding a head on collision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Adam! Stop man - stop! Kyle pulls the emergency brake. The car stops abruptly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "The fuck are you doing, man? You’re being an idiot right now. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Get out. Get out of the car. Kyle stammers as Adam looks like he’s about to erupt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GET",
+          "text": "Adam starts hitting Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Jesus Christ! Kyle looks at Adam speechless, and then gets out of the c Adam locks the doors and sits quietly for a moment. He th proceeds to scream at the top of his lungs. Twenty seven years worth of suppressed emotions come out. Adam then si in total silence. After a beat, he pulls out his cell pho Kyle notices. He tries to open the door. It’s locked. Ada ignores Kyle and begins to dial.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "Don’t you dare call her! Not after everything she’s done to you...You’re a pussy, Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're a selfish piece of shit who cares more about getting fucking laid than being my friend. Kyle looks hurt. Adam holds the phone up to his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The phone rings. It’s not Rachael...it’s Katherine. She’s sitting on her bed, reading a book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(nonchalant) Hey, it’s Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam? She looks at the clock, it’s midnight. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "It’s midnight. What’s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(still nonchalant) Oh, just having a nervous breakdown. I think I fractured my larynx.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I’m really, really glad you called. There’s a long silence. Tears roll down Adam’s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I want this to be over. I’m so fucking tired of being sick...if this surgery doesn’t work, that’s it -- (crying) I’ve never been to fucking Canada or told a girl I love her...it sounds stupid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "No. It doesn’t. Katherine’s eyes begin to well. A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "(beat) I’m sorry I was such an asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I was the asshole. I was so totally unprepared - for you. This job is really hard. If I fuck up, I could ruin someone’s whole life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I guess we’re both beginners at this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(smiles) Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What were you doing when I called? Were you on Facebook? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(2)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(laughs ) You know, stalking my ex-boyfriend isn’t the only thing I do in my free time. A beat. Adam sighs:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I wish you were my girlfriend. She takes this in, kind of wishing it too. Silence as",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Girlfriends can be nice. You just had a bad one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah, but I bet you’d be a good one. Katherine blushes. Then: There’s a loud knock on the window. It’s Kyle. He’s freezing. Adam hangs",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Let me in man, Jesus. It’s fucking freezing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m going to go. Thanks...Thanks for everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Good night. up the phone. Kyle bangs on the car window desperately. Adam finally unlocks the car. EXT. KYLE’S APARTMENT - LATER THAT NIGHT Kyle and Adam enter the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Too drunk to stand, Kyle uses Adam as a crutch to support himself as looks like quiet. The Kyle keels bathroom. they enter his apartment, which is a mess - it it hasn’t been cleaned in years. Kyle is unusually mood is solemn - these guys never fight. over to pass out on the couch. Adam walks into the \fINT. KYLE'S BATHROOM —- CONTINUOUS With his finger, Adam scoops some dust up off the counter Grossed out, he looks around for a towel to wipe the dust his hand. No towels. He wipes it off on his jeans. He the notices something on the ground, in front of the toilet. book. He leans over and picks up “Coping with Your Loved One's Cancer”. The book is worn and has multiple book mar indicating it’s been read. Adam looks out at Kyle, he had pegged all wrong. Adam then turns and looks at himself in mirror. He takes a deep breath. A beat. He claps his hand the lights turn off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's 3 a.m. The streets are completely vacant of life. Ad walks along this normally busy avenue all alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam walks along the sidewalk of his street and turns up front walkway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam packs a small DUFFEL BAG.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam kneels down, pours some dog food into a bowl for Skeletor. He looks at the dog, who looks back, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Come here, boy. Skeletor begins to eat. Adam looks in Skeletor’s eyes and gives him one last pet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam steps out onto the porch carrying his duffle bag. As walks down the steps, he looks back at his house, takes a deep breath, and leaves. I/E. KYLE’S CAR - MOMENTS LATER Adam gets into Kyle’s car. The mood is eerie and quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kyle and Adam sit silently parked in front of the hospita",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(beat) You ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "It’s going to be good. It’s going to be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yeah. We hear a voice from across the parking lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "That’s your mom. Adam rolls down the window. Sure enough, his mom is from across the parking lot- DIANE’S VOICE Adam!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "So I'll park the car I guess, and then come inside--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "--and I'll see you before you go in there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Um...I’m not sure how it works.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Then I’1l see you after...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Yep. yelling Kyle looks at him unsure what to say. Adam leans across a hugs Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "So I'll see you in there... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Thanks. Adam steps out of the car and walks across the vast concr expanse toward his mother and father who stand waiting fo him. INT. HOSPITAL PRE-OP ROOM —- EARLY MORNING Adam lies on a gurney. His parents stand beside him. DR. WALDERSON the neurosurgeon enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. WALDERSON",
+          "text": "Good morning, I’m Dr. Walderson, I‘ll be performing your surgery today...How are you feeling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. WALDERSON",
+          "text": "Good. Good. Good. Good. Dr. Walderson looks over her chart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. WALDERSON",
+          "text": "So we’re going to take excellent care of you. Our surgical team is top-notch. You just try to relax. Adam’s completely terrified. Dr. Walderson exits. Nurse Stewart hands Adam a giant pile of disclaimers to sign.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "What is all this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE STEWART",
+          "text": "Standard paperwork: hospital liability and disclaimer forms and organ donor authorization. Richard whispers closely into Adam’s ear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I got a new coat... Brooks Brothers. Silk Pockets. Feel. Adam sticks his hand inside the pocket of Richard’s coat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICHARD, (CONT'D)",
+          "text": "Feel. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I am feeling. Adam looks up at his dad, standing there in his confused state:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Dad, listen. I know it’s probably hard to follow what’s going on right now -- but I want you to know that I love you very much. Richard looks at his son, blank expression on his face:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "OK, Dad. Adam smiles at his father, and then looks at his mother. LEE enters-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. LEE",
+          "text": "Hello Adam, I’m Dr. Lee -- I’m here to administer your anesthesia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(nervous ) Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. LEE",
+          "text": "Now relax, I’m going to inject the anesthesia through your IV... It’s going to take a few moments before you begin to feel the effects...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You're doing it now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE STEWART",
+          "text": "(to Diane and Richard) If you guys could just head over to the waiting room that'd be great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "How long will it last?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. LEE",
+          "text": "That really depends on the individual-- (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Well, how do you know if it’s going to last long enough so I won’t wake up in the middle of surgery? Or what if I don’t wake up after? Mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Sweetie you’re going to be just fine. He leans over the bed into his mother’s arms. She holds h for a long beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. LEE",
+          "text": "I’m really sorry but we’ve got to get Adam to the operating room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE, (CONT'D)",
+          "text": "Could you just wait a moment, please? Dr. Lee unlocks Adam’s gurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. LEE",
+          "text": "I’m sorry. Diane kisses Adam on the cheek.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I love you, Adam. Dr. Lee nods to a couple nurses, who pull Adam’s gurney through double doors. He disappears into fluorescence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam’s gurney is PULLED INTO frame. We push in on Adam’s unconscious face. Now, several ARMS reach out and grab hi placing him on the operating table. SFX: The rhythmic beep of his heart monitor. The echoing sound of his breath. It initiates a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "--Katherine sits in her office, talking to a patient. She nods, jots notes, but her head is somewhere else. --Diane and Richard sit in the waiting room. She holds a handful of pills. Richard takes them from her. She looks his eyes, terrified. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-- IN A WIDE SHOT, we see the operating table. Two neurosurgeons, Dr. Walderson and DR. PHILLIPS are in mid- surgery. Alongside the two doctors are TWO NURSES. -- Kyle stands outside the hospital’s front entrance. Nex him, a couple of NURSES on a smoke break talk animatedly. stares ahead, nervous. -- The operating room is empty. Adam lies on the surgical table, now face up with an oxygen mask over his mouth. Hi eyes are closed and his complexion is cold and pale.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Diane, Richard and Kyle sit together, anxious. Katherine enters the room and sits across from the others. They exchange awkward looks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(to Kyle) It’s been five hours. Kyle looks over clearly very aware of that fact:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Has it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Something’s wrong. We should have heard by now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Don’t worry. Adam’s going to be fine, okay? Katherine hears Adam’s name. She leans over to Kyle, Rich and Diane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Adam Lerner?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(startled) Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Dr. Walderson is one of the best surgeons in the country, so he’s in good hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Who are you? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They shake hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I...uh, I’m Katherine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "The therapist! I’m Kyle, Adam’s friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "These are Adam’s parents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "It’s nice to meet you. She smiles and nods awkwardly. Long beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Did he say I was a dick? ‘Cause I’m not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I want you to know, I smothered him because I love him. Katherine smiles politely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Seriously, did he say anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I...I can’t...I wouldn’t...1I wouldn’t talk about that sort of thing. Kyle and Diane turn their attention away from Katherine, dejected. In the distance, they spot Dr. Walderson. Every jumps up as she approaches:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. WALDERSON",
+          "text": "Mr. and Mrs. Lerner. So as you can imagine, with a surgery of this magnitude...there were some unforeseen complications. The bone erosion was much greater than initially anticipated. We had to remove part of the hip and pelvis, as well as most of the right psoas muscle. We also had to remove a good amount of sheath tissue around the sciatic nerve. It’s not going to be an easy road back, but he’s going to be okay. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(relieved) He’s going to be okay? Dr. Walderson nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "You should start with that information. That should be the first thing you say. He turns to hug Diane:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "He's OK! Diane and Kyle hug, then pull Richard into the hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(to Dr. Walderson) Thank you, doctor, thank you! Diane and Kyle start crying. Katherine sees this tender moment and shies away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam’s in his hospital bed - still asleep from the surger Richard and Diane enter the room. Adam reacts like a litt kid being picked up from pre-school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM, (CONT'D)",
+          "text": "Mommy !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "(crying) My little boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s nice here. I got a good room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "We need to go on more vacations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DIANE",
+          "text": "Yes, we’ll go on a huge vacation! We can go to Hawaii! Kyle awkwardly stands over Adam, trying to act normal. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Hey man? What’s up?...I’m afraid to touch you, but um-- Adam sticks out his pinkie which Kyle gently fist bumps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Boom. You look really good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I'm high as a motherfucka. Kyle looks at Diane with a guilty expression.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Um...we don’t do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam lies in bed. His eyes open, staring at the ceiling. quiet. Peaceful. Katherine knocks on the door and walks i Adam speaks; woozy from the morphine, and very weak:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "It is me. She stands next to the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "How are you feeling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Grrreat. I love morphine...What time is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "It’s eight o’clock. I was just working late, so I thought I'd stop by.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(wide smile) Working late - you got a new patient?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I got a few new patients, actually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That’s good. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam smiles. Looks into her eyes for a long beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I'd like to make you pancakes some time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "That's very nice, Adam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(dead serious) You’re going to like them. Katherine laughs. She sits next to him on the bed, and ta hold of his hand. Unlike her previous attempts, this time grip is perfect. Adam notices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m peeing right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "I’m not going to look. We stay on Adam and Katherine looking into each other’s e as Katherine moves her hand down his arm, finally claspin his hand in hers. I/E. ADAM’S HOUSE - LIVING ROOM - EVENING",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ANGLE ON: Kyle, staring at the wound with trepidation, absolutely disgusted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Ugh, it’s gross! Oh God - I keep looking back at it thinking it’s going to be less gross. The wound is revealed to be on Adam's back. Adam -- hair slowly beginning to grow back, looking much healthier, relaxed -- looks back at Kyle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Can we just get it over with? Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Your mom does this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "She does it all the time. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "This is like some “Saw” shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(unaffected) Your words are so comforting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’m just gonna do it, I’m gonna act like it’s nothing. Kyle puts a gob of antibiotic ointment on his finger and tentatively reaches towards Adam’s back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "I’m going to be really proud of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Ugh! I’m doing it. I’m inside you! Adam looks over his shoulder, notices Kyle applying the ointment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Wait, wait, wait, is that your finger?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Is that your finger?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(guilty) No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "There's Q-Tips!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I know, I know... Kyle quickly applies some ointment on a Q-TIP.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "That was your finger, wasn’t it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Would it be bad if it was?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Did you wash your hands? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I used a Q-Tip the whole time, don't worry about it. Kyle swabs the wound with the Q-Tip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "This looks like Kuato from “Total Recall”. Adam grabs his back to imitate Kuato.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "The oxygen!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(disgusted) No! Don’t do that! Ugh! Kyle feebly applies the DRESSING on Adam’s wound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Can we get this going? It’s seven thirty. Come on, put on the bandage. Kyle gingerly applies the bandage whilst turning his head Wound now covered, Kyle looks self-assured -- it’s a pret shoddy job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "And you, are ready for your date! Adam gingerly stands and buttons up his shirt. He walks o and looks in the mirror. He rubs his short hair in contemplation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "It’s crazy. I look pretty good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "I’d fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(smiles) Thanks. The DOORBELL rings. Adam looks at Kyle, a bit nervous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "(excited) Who could that be? Go answer it, go! (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Adam takes a deep breath and opens the front door. He lig up when he sees KATHERINE standing in front of him. She's holding a PIZZA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You look nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Thanks. (awkward beat) You too. You look super nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "(smiles) You want to come in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Yeah. They walk inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "Look at you, walking up a storm. Kyle clears his throat and waves meekly from the corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "You remember Kyle...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Good to see you...I see you brought a pizza, which is good because I haven't fed him all day. I just changed the dressing on his wound. There’s Vicodin in the bathroom if you need it; I know people take it recreationally but he actually needs it for his aches-- Adam stares at Kyle, blankly. Katherine looks to Adam, un how to react.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(dead serious) Are there channels he can’t watch? Katherine cracks a smile. Kyle beams. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "(to Adam) That’s funny. (to Katherine) So, you're doing your doctorate I hear? That’s-- Adam opens the door and ushers Kyle out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "Dude, you’re awesome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE",
+          "text": "Alright! Kyle moves toward the door and whispers to Adam-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KYLE, (CONT'D)",
+          "text": "She’s cool. Adam smiles, and closes the door on Kyle. Adam then turns around and looks at Katherine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "So.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADAM",
+          "text": "So.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHERINE",
+          "text": "(smiles) Now what? A beat as Adam thinks, then flashes a smile. MUSIC SWELLS as we go...",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_681"
+    }
+  ]
+}

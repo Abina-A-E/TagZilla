@@ -1,0 +1,2738 @@
+{
+  "movie_id": "MOV2003",
+  "scenes": [
+    {
+      "location": "WAREHOUSE STAIRWAY-NIGHT",
+      "characters": [
+        "INT. VERONICA'S CAR- NIGHT",
+        "INT. A BAR- NIGHT",
+        "BRUNDLE'S TRAVELS- NIGHT",
+        "EXT. THE HOSPITAL- DAY",
+        "INT. VERONICAS APARTMENT- NIGHT",
+        "VERONICA, (OC)",
+        "TELEPOD 3",
+        "EXT. BRUNDLES LAB- EARLY MORNING",
+        "VERONICA",
+        "CUT TO",
+        "BRUNCLE",
+        "INT. BRUNDLES KITCHEN- NIGHT",
+        "TELEPOD 2",
+        "INT. A FAST FOOD RESTURANT- DAY",
+        "INT. BRUNDLE'S LAB- NIGHT",
+        "INT. BRUNDLES LAB- DAY",
+        "BRUNDLE, (SCREAMING AT THE LEG)",
+        "GENE-SPLICING PROGRAM NOW IN PLACE",
+        "MAN IN BAR",
+        "EXT. THE STREETS- NIGHT",
+        "EXT. THE STREETS- DAY",
+        "STATHIS",
+        "INT. THE HOSPITAL- DAY",
+        "INT. BRUNDLES LAB- NIGHT",
+        "TAWNY",
+        "INT. OPERATING ROOM- DAY",
+        "NURSE",
+        "BRUNDLE, (BREATHING HARD)",
+        "INT. DR. CHEEVERS OFFICE- NIGHT",
+        "BRUNDLE",
+        "INT. A CLOTHES SHOP- DAY",
+        "BRUNDLE, (ON TAPE)",
+        "INT. STATHIS'S OFFICE- NIGHT",
+        "INT. COFFEE SHOP- DAY",
+        "MARKY",
+        "TELEPOD 1",
+        "DISSOLVE TO",
+        "FADE OUT",
+        "VERONCA",
+        "INT. BRUNDLES LAB- EARLY MORNING",
+        "INT. STATHIS'S OFFICE- DAY",
+        "INT. THE BARTOK PARTY- NIGHT",
+        "PERCENTAGE OF MONKEY-63 PERCENTAGE OF CAT-37",
+        "EXT. BRUNDLES LAB- NIGHT",
+        "BERONICA",
+        "GYNACOLOGIST",
+        "EXT. A ROOFTOP- NIGHT",
+        "INT. RONNIES APARTMENT- NIGHT",
+        "INT. BRUNDLES BEDROOM- NIGHT",
+        "CHEEVERS"
+      ],
+      "dialogues": [
+        {
+          "speaker": "INT. THE BARTOK PARTY- NIGHT",
+          "text": "We open on a large white, pristine hall filled with peopl two such people, SETH BRUNDLE and VERONICA QUAIFE. They a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What am I working on? Uh... I'm working on something that and human life as we know it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Change it a lot or just a bit? You'll have to be more spe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What, you want me to be specific here, in this room, with scientific community of North America eavesdropping?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Is there another way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You could come back to my lab. Listen, I'll make you capp Faema of my very own. You know what that is? It's not the plastic kitchen model. It's one of those, uh uh., wh, rea espresso machines with a-an eagle on top and...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Somehow I get the feeling you don't get out much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You can tell that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONCA",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you're making a mistake. I think you really want",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Sorry, I have three other interviews to do before this pa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yeah, but they're not working on something that'll change know it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "They say they are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yeah, but they're lying I'm not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. VERONICA'S CAR- NIGHT",
+          "text": "We close in on Veronica's car as it speeds down the stree Brundle is ill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Are you sick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No. Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're not a very accomplished drunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, no, I'm always like this. It's, uh... motion sickness I, uh... puked on my tricycle. I hate vehicles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Should I drive more slowly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, no, no. Just turn left. We're almost there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "This is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It's cleaner on the inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Veronica and Brundle climb the warped wooden stairs to th Brundle is breathing hard, very out of shape. He uses the haul himself from step to step.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Nice railings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (BREATHING HARD)",
+          "text": "\fYeah. They're original.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You doing marine experiments?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "That fishy smell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh, that. Used to be a packing house for fish. It's deser for me. I've got the whole fourth floor. The top floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Want me to carry you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Maybe next time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- NIGHT",
+          "text": "Brundle and Veronica enter BRUNDLES LAB. It seems very ti well as being extremely Spacious. Brundle sits down and begins playing on his Piano.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Listen, uh... maybe this is a bad idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, it's too late. You've already see them. Can't let you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I haven't seen anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Those. Brundle motions towards two gray pods either side of the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Designer phone booths. Very cute. Hey, I bet you have a r in here, too, someplace, huh? Over there maybe? Veronica points toward a third object, covered in tarpaul it as a third pod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No. This is the prototype of... those. The first one I ha works, but it's clunky. I call them telepods. They're con",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Thank God for that. So, uh, what do they do, the phone bo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Telepods. Uh okay. I need an object. Um... say, do you h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "on you that's... uh, personal... that I could use? Someth Uh... an item of clothing or jewelry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What, are you kidding?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, I'm serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Okay. Here goes. Veronica removes her stocking and hands it to Brundle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I don't wear jewelry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It's nice. Brundle places the stocking into a pod and closes the doo to the computer and speaks into the microphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Uh... Brundle, Seth. COMPUTER (Relaying and testing Brundle's voice pattern) Uh, Brundle, Seth. Uh, Brundle, Seth. Uh, Brundle, Seth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Begin teleportation sequence. The computer goes through it's teleportation protocol and the stocking flashes, this flash is repeated by the secon opposite side of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Great. The world's largest microwave oven. I-I'm glade I Rolex. If I had Rolex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, you're missing the point. Look. Veronica glaces at the Computer, which reads \"Teleportati",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Teleportation? Brundle leads Ronnie to the Second Pod where she discover",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh... wait a minute. Is that a hologram? Where's my stock",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's it. The real one. Go ahead, pick it up. Veronica reaches in and retrieves the stocking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't think I get it. What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You get it, all right. You just can't handle it. Um... yo been teleported... from one pod... to another. Uh, disint re-integrated there. Mmm, sort of. It'll change the world right? As she speaks, Veronica pulls a dictaphone from her pocke recording the conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh, no! This is, uh... This is incredible! I mean, it's n How have you managed to keep this quiet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Please sit down. The enter the kitchen area and Veronica sits down at the begins working with his cappuchino machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "How could you do this alone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well, I don't work alone. There's a lot of stuff in there understand. I'm really,uh... a systems management man. I pieces, uh, out to guys who are much more brilliant than \"Build me a laser this, design me a molecular analyzer th and I just stick'em together. But, uh, none of them knows really is. So... Brundle shows off the eagle from his Cappuchino machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Wow! And, uh,the money? Bartok Science Industries finance",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Mm-hmm, But th-they leave me alone Гўв‚¬Лњcause I'm not e know they'll end up owning it all, whatever it is. So...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You haven't told them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "When I'm ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh... wait a second. The tape on Veronica's dictaphone has run out, so she beg",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's that? What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Well... you want me to get the quotes right, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Quotes? No, no. I thought this was personal. You can't wr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What are you talking about? I'm a journalist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh, no, no, no,..!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You knew that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Uh... I'm sorry. I apologize. I made a mistake. I shouldn this. I'm very, very sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Listen... Particle magazine sent me to that party to get the most exciting thing... I've ever seen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, no! Absolutely not. In fact, I'm gonna have to ask yo please. tape,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Hey, you can't do that!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Don't you dare write a story! I'd never have told and of journalist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "But you did tell this stuff to a journalist. Veronica begins to exit the lab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well, yeah, in a way I suppose i did, but that...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You sure did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Now wait a minute, wait a minute! Wait! Come here! What a stocking!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Keep it for good luck. Veronica leaves Seth standing alone in his lab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Veronica is sat with STATHIS BORANS, her Editor. They lis",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Well... that's it. What do you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "It's a joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "He's conning you. Oh, it's an old nightclub routine. The you fell for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Wait a minute. That was no nightclub. Stathis's phone rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Are we having lunch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Listen, that was no nightclub routine! I was there! I saw Stathis talks to his assistant over the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Yeah? Sure... send him in. You must have made an impression.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Your magician has followed you here. STATHIS'S ASSISTANT shows Seth in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I'm Stathis Borans. I'm the editor of Particle magazine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Uh, Seth Brundle. Uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Oh, I know who you are... Uh, listen, uh... why don't you I've gotta run. If you plan to make anything disappear, p know. I've got an assistant editor who's outlived his use Stathis leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You didn't waste any time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not getting any younger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "He didn't seem, he wasn't impressed by your tape?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "He thinks you're a con man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Excellent!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah? Well let's see what the people at Omni think about",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, no! Uh, listen, Veronica... I've come here to say one",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Cheeseburger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. A FAST FOOD RESTURANT- DAY",
+          "text": "In a busy fast food resturant, we close in on Brundle and sat eating and conversing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I've been working alone too long. I have a strong urge, u to talk about what I'm doing. But, um, if this gets out n it'll kill me. The Bartok people'll kill me... my colleag not ready yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "It seems to work okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, something important's missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BERONICA",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Which is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I can only teleport inanimate objects.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Well, what happens when you try to teleport living things",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not while we're eating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Can't be worse than this. Listen, you're not doing a very convincing me. I think the world should know about it now should be the one to tell it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You should tell it, but, uh... not yet. Look, what do you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Enough to make you nervous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Why not get more? let me become your major project. I'm t Not a magazine article. Follow me and my work day by day you can stand. I don't have a life, so there's nothing fo interfere with. Research the background. Cover the proces The complete record of the most... earth-shattering inven that ended all concepts of transport, of borders and fron space. And the book'll end... with me... transporting mys through space from one telepod to another. That's what's Wait for me that long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Veronica enters her apartment and hears the distant sound her bathroom. She enters the rooom to discover Stathis ta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What are you doing in my apartment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I just happened to be in the neighbourhood. Felt a bit sc As Veronica leaves she flushes the toilet and Stathis scr CUT TO: Stathis and Veronica in Veronica's living room. S hair while sat down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "How did you get in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I have a key, remember? You gave it to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I knew I should have changed the lock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I knew you wouldn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Yeah. That's because... unconsciously... you still want in again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No. That's because, very consciously, I'm lazy and disorg",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Your new playmate's an interesting guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What playmate?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "The nightclub act. Brundle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Yeah. Yeah, I was wrong. He's really... quite brilliant. of the F-three-two team. Remember that? An inch away from physics. He was only twenty at the time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Um... I don't even think I'm gonna do Brundle. I'm still Psychology Today gig.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "That's not like you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Are you getting out or am I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I'll go. I have to put this issue to bed. You want me to tuck you... in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No. Key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I'll keep it... for old time's sake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're a petty schmuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brundle is sat typing at his Computer as Veronica films h sat in Telepod 1. Brundle finishes typing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Initiate in five seconds. After 5 seconds, The baboon teleports into Pod 2. Veronic as Brundle trys to peer through the smoke into the reciev blood soaked paw smashes against the window. Seth reluct to discover the mangled, spasming remains of the dying ba",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Seth stands behind Pod 2 as Veronica focuses the Camera o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "We've got to do this Seth. Talk to the tape, get in the h want to know what you're thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Fuck is what I'm thinking!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Good. The World will want to know that. What else? Why di",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I think it turned the baboon inside out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It can't deal with he flesh. It only seems to work with i nothing that's living. It must be my fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Computers are dumb, they only know what you tell them. I about the flesh myself, I'm going to have to learn. I don anymore. Seth turns and walks away",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES BEDROOM- NIGHT",
+          "text": "Brundle is laid out on his bed and Veronica is sat gently rocking chair in the corner of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Do you ever change your clothes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Your clothes, you're always wearing the same clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, these are clean. I change my clothes every day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Five sets of exactly the same clothes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Ordered from Einstein. This ways I don't have to spend a I'm going to wear, I just grab the next set on the rack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I bought some steaks. Can I make you one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "We could go out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "\"Cheeseburger\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No. We don't have to go there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're very cute, you know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Am I? Veronica and Brundle begin to Kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES BEDROOM- NIGHT",
+          "text": "We pan in on Brundle and Veronica making love on Brundle' back on the bed and jumps up in pain suddenly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Ohh Ahh, My back. Veronica examines Seth's back to discover a small Compute",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh god, Something's stuck to your back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well pull it off. Veronica slowly pulls out the chip and Shows it to Brundl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I wondered what happened to that!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Do you have any disinfectant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, it's okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I'm going to kiss it for you! Veronica kisses Brundle's back and playfully bites his ar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry. I just want to eat you up. You know, that's wh babies cheeks. It's the flesh. it just makes you crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Ronnie, Ronnie. You want to try an experiment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Eat this. I need an objective opinion. Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Well, it could use some Finesse, but it tastes like a ste",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Okay, Now try this, teleported half.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Are you serious? A monkey just came apart in there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Baboon. Eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Ohh, it tastes funny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Funny how?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "It tastes, synthetic. So what have we proved?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "The computer is giving us it's interpretation of a steak. for us, it's re-thinking it rather than reproducing it, a getting lost in the translation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Me. I'm lost.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "The flesh. It should make the computer crazy, like those babies. But it doesn't, not yet. I haven't tought it to b flesh, the poultry, the steak. So I'm going to start teac",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. A CLOTHES SHOP- DAY",
+          "text": "Veronica picks put a leather Jacket. when she walks over spots Stathis spying on her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I followed you. \"Psychology Today\" My ass. You stayed wit Why didn't I believe you? I wonder. Stathis takes the jacket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Oh yeah. I think he'd look great in this, Don't you? I me Magazine\" cover, you've got to look good right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Don't you get it? I am finally onto something that's big.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Oh yeah? What? His Cock?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Crude Stathis. Very crude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Too perfect to believe! You're a goddess! Thank you for m paranoid fantasies come true!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't have to report to you, you creep!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Ronnie! You've got to talk to me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't have to do anything! We're finished, remember? I' anywhere I damn well please. Veronica walks away and pays for the jacket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Sorry. I'll take this too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- NIGHT",
+          "text": "Brundle is mid way through teleporting another baboon. Ve baboon bounces out of Pod 2, and into Brundle's arms",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I think it's time for champagne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Brundle and Veronica are sat near the piano drinking and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh god Seth. It's really happened. You did it. You'll nev sick again!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Or air sick, or sea sick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know, I know. Or Tricycle sick! What's next?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "We'll send the baboon out for tests, see if he's really o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "How long will that take?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Could be weeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yeah. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Well I was thinking, that we could take a Holiday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "We could?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah. Like an old married couple. Old man's got a couple go to Florida. Someplace warm. Just the two of us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Just you and me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah, why? Is there someone else you were thinking of Bri",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, No. Is this a romance we're having, is that what it i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yeah, Could be a romance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh I have a great idea, Do you like Chinese food? Brundle walks over to his desk and picks up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "We're going to have a very romantic dinner right here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Hey what's this? Veronica picks up a folder with the words \"From the desk on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yeah, from your Editor. I'm sorry, someone slipped it Hello Victor, yeah it's Seth Brundle. Oh yeah, I'll wait. Veronica opens the folder to discover a mock \"Particle Ma a picture of Brundle, two telepods and the words \"Telepor and \"Seth Brundle, youthful father of a new age.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh nothing, it's just personal bullshit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I thought old married couples shared all their personal b they stayed old and married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Listen Seth, Don't rush it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What are you talking about \"Rush it\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Look, I have to go out for a few hours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Now? No, Ronnie! Spicy Egg plant, the champagne!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Just for a few hours. I still have the residue of another have to scrape it off my shoe and get rid of it once and Veronica leaves and someone answers the phone to Seth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. STATHIS'S OFFICE- NIGHT",
+          "text": "Veronica enters Stathis's office, and throws the folder o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What's this supposed to mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "It means that I'm your editor and I'm shaping your materi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're the one who told me there was no story. You said B man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "\fI've decided to trust your Journalistic instincts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Thanks very much. But this is not your story. It's mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Says who? I sent you to the Bartok party to see what you discovery is my discovery. I have a LOT of background on working on this thing for 6 years. There's material out t deep. I dug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Stathis. Everything that has to do with transportation wi And I am right there in the middle of it. The only record the inside-out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Okay. Okay. Look, keep me informed? As a friend? As a pro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "That's all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I don't want you to disappear from my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "What about Sex? I'm not saying love, or affection. Just s You and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're disgusting. As always.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Wouldn't want to disappoint you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLE'S LAB- NIGHT",
+          "text": "Brundle is stood drinking and talking to the baboon, who",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Residue means her old Boyfriend. Stathis Borans is her ol the desk of Stathis Borans\". How about \"Under the desk of She's working for her old boyfriend. Now she runs out lat is this, \"The Ronnie Game\"? I'm catching on, I'm catching to kill your brother. But he didn't die in vain, if that' And as the general said; \"There's nothing I'd ask you to myself boys.\" Hey you're alright. Looking at you I can te are we waiting for? Let's do it. Brundle slams down his glass and heads for the computer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "The timer begins to countdown as Brundle enters the tele the door and fails to notice a small house fly enter the door shoots and locks. The baboon jumps up and over to the Pod, it peers through who smiles and reaches out. The fly, meanwhile rests in t safe out of reach. The telepod boots up and Brundle prepares himself. Sudden moves out of the port and into the pod. Brundle is telepo The baboon shifts it's gaze o Pod 2, from where Brundle e Into Brundle's arms jumps the baboon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "How're you doing? Now you tell me. Am I different somehow it memorex? It's too bad Ronnie missed it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES BEDROOM- NIGHT",
+          "text": "Veronica enters the Bedroom and sits next to Brundle, who",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I missed you last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "It's still night. I came back. You had to celebrate witho",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I went through last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You went through? Without testing the baboon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I-I-I was... drunk. I was a bit upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You could have killed yourself!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Are you sleeping with Stathis Borans? Brundle wraps the sheet around himself and stands up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I-I-I don't know. I-I just, um, get that feeling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "That's why you were upset?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I got jealous. Brundle takes a seat in the kitchen and Veronica sits on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, God. Seth... you don't have to be jealous. He's an ol was teaching at college. I was a science major. He got me journalism.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Is he still in love with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "How could he not be? Hey... wh-what about our deal? You w and I wasn't there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Don't worry. I taped it for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You did?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yeah. They begin kissing and Veronica slides her hand down his notice the small hairs that are beginning to protude from back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- DAY",
+          "text": "Brundle and Veronica are laid next to each other in Bed. be asleep. Suddenly Brundles hand reaches out and grabs t opens his eyes and his fist to see that he caught a house around, then gets out of bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Time passes and Veronica wakes up. She slips on a shirt a lab. She sits down and watches as Brundle excersises on a hands on the arms to lift himself up and down. He then go bar which stretches across part of the lab and swings bac He appears to be very energetic and experienced at what h himself up, and then swings back down onto the floor. He Veronica, who stand up and rests her hand on Brundle's ch",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "T.V. IMAGES From time to time we cut to the live (film) v images. When we are live, we also see reactions from Vero being interviewed in CLOSE-UP; VERONICA SPEAKS OFF-CAMERA",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "We've just seen the first teleportation of a human being. how did it feel going through? What did it feel like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It feels like a stutter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "A what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "A stutter. A hiccup. A slight dislocation of my physical unpleasant. Just a little interuption of rhythym. For a s didn't work. I thought I was in the same telepod I starte",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (OC)",
+          "text": "And did you feel at all different?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (ON TAPE)",
+          "text": "A little...unbalanced. That's all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (OC)",
+          "text": "And now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (ON TAPE)",
+          "text": "I should feel exactly the same as before, but I don't. I' I feel very co-ordinated. And very energized. I feel as t physically. Everthing seems to just - work together bette before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (OC)",
+          "text": "Why should that be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (ON TAPE)",
+          "text": "It's possible that the teleporter has somehow...improved",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (OC)",
+          "text": "But that's fantastic! How is it possible?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (ON TAPE)",
+          "text": "In reassembling me it might have - this is just a guess - just - seen where things could be improved - theoreticall told it to be creative, and I guess it has been.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA, (OC)",
+          "text": "Could this ever be dangerous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well, it's certainly unexpected. The monkeys haven't show their norm. We'll see when they come back from testing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You still haven't answered me. Could this ever be dangero",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (ON TAPE)",
+          "text": "It feels too perfect to be dangerous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You like the way it feels?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (ON TAPE)",
+          "text": "Yes, I do. (BIG SMILE) Want to try it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "CU VERONICA live. She shakes her head \"No\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. THE STREETS- DAY",
+          "text": "Brundle and Veronica walk down the busy street. They sto jewellers in a market and Brundle picks out a neckelace f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. COFFEE SHOP- DAY",
+          "text": "Veronica and Brundle are sat opposite each other in a sma",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "So, I asked the computer if it improved me and it said it was talking about. And that's made me think very carefull been feeling, and why. And I'm beginning to think that th being taken apart atom by atom and put back together agai coffee being put through a filter. It's somehow a purifyi purified me, it's cleansed me. And I tell you, I think it to realise the personal potential, I've been neglecting a I've been obsessively pursuing goal after goal. Veronica notices that Brundle has filled his cup almost t sugar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Do you normally take coffee with your sugar?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What? Heh. You know I just don't think I've ever given me But, of course Interestingly, and the exact same moment t will probably prove to be my life's work, that's the mome being the real me finally. Listen, not to wax messianic. the synchronicity of those two events might blur the resu effect of either individual. But it is nevertheless it is true, I will say now however subjectively; that Human tel molecular decimation, breakdown and reformation is inhere makes a man a King. From the moment I walked out of the p million bucks. You know , I think I am gonna have a cemol I mean, What an accomplishment. But, what have I really done? All I've done is say to the Move. Catch me if you can\". Waiter. Jesus Christ!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- DAY",
+          "text": "We pan through Brundle's lab to discover Brundle and Vero the couch. Veronica is half wearing a dressing gown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "How? How can you keep going? You can't have... have any f body. We've been doing this for hours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Uhhhh, I'm not ready to quit yet. Hey, come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Come on. Veronica moves her hand down Brundle's back and finds th from the cuts in his back, left by the computer chip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What's this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It's an attempt to distract me, that's what it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, really, what is it? It's like, hairs or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I don't know. It's... It happens when you get older. Weir configurations. I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "They are really coarse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNCLE",
+          "text": "Well, I've never really been hairy enough. You know what too... boyish. I'm looking forward to a hairy body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It's one of the compensations of old age. Come here. Wher",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, let me go. Veronica stands up and Wraps the dressing gown around her goes into the kitchen. Brundle puts underwear on and gets the freezer. He sits down and begins eating. Veronica, us scissors, tried to cut the hairs from his back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Okay. Hey, hey, hey! Not my new hairs. What are you doing",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Relax, Brundle. I don't really think you want a body cove They're... really tough. Suddenly, Brundle drops the spoon and stands up. As he ta Ronnie towards the telepods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Listen... I want you to go through. I want to teleport yo possible. Right now! You'll feel incredible. Ronnie... I anymore and I feel wonderful. It's like a drug, but a per benign drug. The power I feel surging inside me! And I wo you out. We'll be the perfect couple. The dynamic duo! Co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No! Hey, wait! Don't give me that born-again teleportatio I'm scared to do it! What more do I have to say? I'm... n \fVeronica pulls herself away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You're a fucking drag, you know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Something went wrong, Seth. When you went through, someth",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No? Not you? If you're too chickenshit to be a member of club, okay then, great. I'll find somebody else. Somebody with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth, you have to listen to me. Brundle gets dressed and heads for the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You're afraid to dive into the plasma pool, aren't you? Y destroyed and recreated, aren't you? I'll bet you think t about the flesh, don't you? But you only know society's s the flesh. You can't penetrate beyond society's sick gray Drink deep or taste not the plasma spring! You see what I just talking about sex and penetration, I'm talking about the veil of the flesh! A deep, penetrating dive into the Brundle leaves Veronica standing shocked in the lab. As h corridor he jumps up and hits a light shade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. THE STREETS- NIGHT",
+          "text": "Brundle walks down the street, from his pocket he pulls a which he begins to eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. A BAR- NIGHT",
+          "text": "Brundle enters the Bar. Sitting at the Bar itself is TAWN and MAN IN BAR are armwrestling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I'll have a scotch. Who's winning?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "I don't know. I hope it's Marky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "How come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Because; I like Marky tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well, I like you tonight. Maybe I should get involved in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey pal. You're disturbing us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I got a hundred bucks says I can beat either one of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARKY",
+          "text": "Take a hike, asshole!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Here. Here's my hundred. And, I get to take the lady home win.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Says Who? do I look like a hooker to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARKY",
+          "text": "Hey Tawny, it's an easy hundred. Come on pal, let's get i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN IN BAR",
+          "text": "You better watch out. He eats chocolate bars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARKY",
+          "text": "Yeah, So I noticed. Brundle and Marky start the armwrestle. Marky begins to l white pus seems to be coming from Brundle's hand. With a Brundle snaps the bone in Marky's wrist. Brundle stands u leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. THE STREETS- NIGHT",
+          "text": "Brundle and Tawny walk down the street chatting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Are you a body builder or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yeah I build bodies. I take them apart and then I put the again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Why, you certainly took Marky apart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Let's go back to my place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Your place? Yeah Well, I live with my Mother anyway. But few more bars first? It's a little too early to quit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Sure a few more bars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. BRUNDLES LAB- EARLY MORNING",
+          "text": "A taxi pulls up outside Brundle's lab. From it emerge Bru",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brundle and Tawny are walking up the stairs to Brundle's sits on the steps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Great place. There's no elevator. I can't make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh there's an elevator. Brundle picks Tawny up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "There. Don't you feel elevated? Brundle runs at a fast, continuous pace up the stairs wit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Woah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- EARLY MORNING",
+          "text": "While Tawny Watches, Brundle teleports himself. He emerge before Tawny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Wow. Are you some sort of a magician?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Yes. Brundle lays on Tawny and begins to kiss her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- DAY",
+          "text": "Tawny and Seth are Sat on Seth's bed. Tawny appears to be but Brundle is the opposite; he is hunched over and has a face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "So, are we going to breakfast or not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It's your turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "To do what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I want you to go through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "No. I don't want to try that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Why not? It'll make you feel sexy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I already feel sexy. How about... A nice alcohol rub? Tawny Pours some alchohol onto her hand but Brundle knock the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Don't do that, it hurts!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Sorry Hon'. I didn't know you had the skin of a Princess. sensitive huh? Tawny tries to massage Brundle's back, but he pulls her a drag her into the lab area. He doesn't realise that Veron lab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Okay, okay! Now you're going to like it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "I don't want to! I'm afraid!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Don't be afraid!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No. Be afraid. Be very afraid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "Who's this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh, I forgot to tell you, I live with my mother, too. Mum",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAWNY",
+          "text": "I gotta go. Thanks for a wonderful time. Tawny picks up her clothes and leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Why'd you scare her off? Jealous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "You're changing. Seth. Everything about you is changing. smell bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I've never been much of a bather.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Those... weird hairs that were growing out of your back, lab. I had them analyzed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "The hairs? Oh... yeah, that's a strange thing to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not as strange as the results. The guy at the lab had tro them. He finally came to the conclusion... that they were human.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh! Very good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Not human... Seth. In fact... very likely insect hairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "That's silly. That's ridiculous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Look. Now there's more. Uh, look at your face! Something went through, Seth. You've got to get some help. I think",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You're jealous!!! I've become free, I've been released, a it! You'll so anything to bring me down. Look at me. Does Does this look like a sick man to you? Brundle starts punching a support beam attatched to the c As he punches it parts of it exlode out, and buckle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No! Stop it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Do you know any sick men who can do that? Come here! Brundle pulls Veronica and throws her out of the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No... Seth!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "The deal is off! I don't need you anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, wait! Seth, please, wait! Seth! Brundle pulls the door shut and locks it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Don't come back!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh, God! Oh, my God. We stay with Veronica as she slowly walks down the corrid",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Brundle enters his Bathroom and seems worried when he exa mirror. He tries to shave with an electric razor, which h throws it into the bath and destroys it. He then looks back in the mirror and bites his nail, whi in his teeth, He squeezes the end which projects a white mirror. He then pulls another nail off before sitting on tub.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Am I dying? Is this how it starts, am I dying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Brundle is sat at his computer with a pair of gloves on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Give me a disc. I need the first teleportation: S. Brundl The computers shows the log of Seth's first teleportation second object in the telepod. When Brundle asks what the the computers replies \"Secondary element is..... Not-Brun",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Run Sequence. The computer runs through several scans of the \"Secondary becomes clear that it is a fly. Brundle asks the computer what happened to the fly. The Computer soon responds with finally asks if he absorbed and assimilated the fly. The \"Negative, Fusion of Brundle and Fly at molecular Genetic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "(Mumbles)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth! Seth, I've been trying to reach you. Where are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "For the last four weeks I've been afraid to see you. Now,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Where are you? Are you at home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Veronica. You don't know how right you were. I've gotten, Please come see me. Please come now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- NIGHT",
+          "text": "Veronica enters the Lab, which appears to be empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth? I'm here. Suddenly Brundle jumps out from behind the prototype tele exposed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stop!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth! Seth Brundle, now walking on Canes, shows himself after a induced insolation. He is much worse than when we last me his hair has fallen out. His skin has a gray colour to it small lumps and spots. He wears gloves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You were right. I'm diseased and, uh... it might be conta wouldn't want to infect you. And it's been accelerating. Every time I look in the mirror, there's someone differen repulsive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I know an old lady who swallowed a fly perhaps she'll die",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth... please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I was not pure. The teleporter insists on inner purity. I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't know what you mean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "A fly got into the transmitter pod with me that first tim Uh, the computer got confused; there weren't supposed to genetic patterns and it decided to splice us together. It the fly. We hadn't even been properly introduced. My tele into a gene splicer. And a very good one. Now I'm not Set I'm the offspring of, um, Brundle and housefly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh, God! Veronica moves closer to Brundle, who jumps up from his s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh, God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You look so pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What will happen? Brundle sits back down in another chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh, I think it's showing itself as a bizarre form of canc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "And general cellular chaos and revolution. I'm, just gonn disintegrate. In a novel way, no doubt. And then I'll die be all over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, no, no. I don't accept that. There must be something somebody we can go to, tests that can be done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No! Um, I won't be just another tumorous bore talking end hair falling out and his lost lymph nodes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Well, then what do you want me to do? Why did you call me Brundle picks up a donut and vomits a white liquid over i small scream and puts her hand over her mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Oh, that's disgusting. He puts the donut down and touches his ear, which falls o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "My ear, No! I'm scared. Seth and Veronics hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Help me. Please, please help me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. STATHIS'S OFFICE- DAY",
+          "text": "Stathis and Veronica are sat in Stathis;s office talking. tired and worn out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Don't go back to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "That's it? that's your advice?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "He's right, don't you see. It could be contagious. It co epidemic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I have to go back to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I don't believe this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "If you could see how scared, and angry and desperate he i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "I'm sure typhoid Mary was a very nice person too, when yo Listen, I do not want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't care what you want!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Alright! Fine! Do I have permission to clean your body wh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Oh god...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Look, how about this - You say \"If only I saw him\". Show me. Let me think about it. I'll come up with something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- DAY",
+          "text": "We see from the roof as Veronica enters the Lab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Seth? Seth?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "No, no. Up here. Veronics is shocked to look up and see Brundle walking on ceiling. He moves very well and seems quite used to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I've gotten pretty good at it haven't I? You know it's al Stopped biting my nails. Oh look at this, what's this? I to be stricken by a disease with a purpose wouldn't you s bad purpose after all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I can't stay. Brundle is now horizontal and stuck to the door. He jumps close to Veronica.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Why not? Why can't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "\fI can't take it. It's too much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What's there to take? The disease has just revealed it's have to worry about contagion anymore, I know what the di",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "What does the disease want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "It wants to turn me into something else. That's not too t people would give anything to be turned into something el",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Turned into what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "What do you think a fly? Am I becoming a hundred and eigh No, I'm becoming something that's never existed before. I \"Brundlefly\", don't you think that's worth a Nobel prize Brundle brings the camera near to the table in front of V",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I'm going to give a demonstration that I think you'll wan prosperity. Brundle throws alot of the Rubbish off of the table and s Camera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I think we must chronicle the life and times of Brundlefl the very least it should make a fabulous, Children's book You got me there? How does Brundlefly eat? Well, he found and painful way that he eats very much the same way a fly now useless because although he can chew up solid food, h solid food hurts. So like a fly, Brundlefly breaks down t corrosive enzyme, pleasurably called \"Vomit drop\". He reg food, it liquifies, and then he sucks it back up. You rea demonstration kids? Here goes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. VERONICAS APARTMENT- NIGHT",
+          "text": "We see Brundle on the screen in Veronica's apartment as S",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "My God. My God. Suddenly Veronica enters and goes straight down the corri",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Hey, Ronnie. Ronnie? Stathis follows and Discovers her sat down crying. He kne her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm pregnant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "No!? Oh no...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I'm pregnant with Seth's baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "What do you want to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't know. I just, I don't know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- NIGHT",
+          "text": "We are close on Brundle's fingers as they dance over the keyboard. Brundle has cut the fingers off a pair of yello gloves and jammed them down over his fingertips, so that stick to the keyboard. CU MONITOR which reads:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TELEPOD 3",
+          "text": "We pull back to see that in front of Brundle and his keyb but THREE telepods, the third one of a somewhat older and vintage than the other two- the original PROTOTYPE TELEPO sitting in a corner of the lab under a tarpaulin and was on her first visit to the lab. In TELEPOD A sits a monkey alley cat. TELEPOD C, the old prototype receiver, is empt the machine. The monitor says, READY FOR FUSION Brundle p button. The telepods go through their normal disintegrati animals' outlines appear on the monitor in split screen f the reintegration process begins, a stream of data concer experiment, the fusion of monkey and cat, floods the scre message that gets across to us through all the hi-tech co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERCENTAGE OF MONKEY-63 PERCENTAGE OF CAT-37",
+          "text": "These numbers fluctuate as the machine tries to strike a balance between the two creatures. Finally, an outline of begind to form on the screen. brundle looks up to see the forming, and it is indeed grotesque: two heads- one monke angles to each other, six legs which are not quite symmet the monkey torso, cat tail. As the creature solidifies an off, it sits there in the telepod for a moment, half-recl crippled. Brundle gets up, goes to the third telepod, and apprehension, opens the door. The thing just sits there, then SUDDENLY LEAPS UP AT HIM, its two heads SHREIKING! I clinging, snarling, then drops to the floor. The two head other, blood begins to flow- the thing now running around circles, smearing blood everywhere. Brundle is horrified. rod leaning in a corner and begins to smash at the deform smashing at it until it stops its hideous screeching and on the floor. Brundle wraps it up in a towel and throws refrigerator. He draws the old torn sheet over the third doesn't have to look at it again. Back at the monitor, th the words: FUSION SUCCESSFUL RECEIVER TELEPOD 3 Brundle puts his face in his hands for a few moments, the together. He pulls the rubber fingertips off his fingers the ground. Brundle has now developed some insect-like ti his head twitching with nervous little jerks and his long motion. We see clearly now that all of Brundle's fly char been accentuated even further. The metallic-green hair wh covers his face is much thicker than before, and the hern side is more protuberant now, stretched to the bursting p causing Brundle some pain. Brundle looks at the skylight. the moon is a scimitar. On an impulse, he jumps up on the there for a beat. Then, with incredible agility, he ascen the celing toward the skylight. ON THE CEILING Brundle gl upside down, towards the skylight. Once there, he crawls up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brundle clambers out of the skylight onto the roof. The n clean and bright, the sky packed with stars. Brundle brea still alive, isn't he? He can still respond to the beauty he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE'S TRAVELS- NIGHT",
+          "text": "We follow Brundle on his solitary sojourn in a MONTAGE SE walls with amazing ability, leaps from rooftop to rooftop from ledges and lampposts, eavesdropping on the city life him, the inhabitants unaware of the unusual and shadowy o midst. He scurries along the girder of a bridge, gazing d and the river below him. These moments should be poetic, joyous. The moon is luminous, the dark night exquisite. R and momentarily forgetful of his future, Brundle seems to unique powers. A brief euphoric fling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE TO",
+          "text": "Brundle leaps across a narrow alleyway to the wall of the him. He smiles with smug satisfaction at his feat, then s grabbing his side with one of his hands. WE HEAR A CRACKI Brundle muffles a startled cry, and losing his balance, s down the wall before regaining hold. He looks down at the side and sees that it is starting to split open! Brundle is horrified and in pain. He starts to quickly mo the building but the pain impedes his progress. He manage least another floor before he's hit with another sharp pa and his tenuous grip on the wall causes him to slide anot downward before he regains his grip. The side is gaping w SOMETHING is starting to protrude. Brundle is in shock. a pain causes him to release his grasp entirely and he fall dirty narrow alley, where he writhes in pain, as a STRANG APPENDAGE--ACTUALLY THE BEGINNINGS OF A FLYLIKE LEG-- beg awkwardly out of his side.Despite his excrutiating pain, fixated, wide-eyed terror at his latest transformation! T begins to probe around, function like a real leg, almost own. Grotesque as Brundle has become, he can't accept th real insectness which this new leg represents. He screams",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE, (SCREAMING AT THE LEG)",
+          "text": "No! No, I won't! I won't, I won't, I won't..! Brundle grabs at the leg, holds it, subdues it and then b with his teeth at its base, twisting himself into an agon to do it. The leg begins to lever at his back, small hook along its underside catching in the flesh of Brundle's ba protest against Brundle's attempt at amputation. Finally, the leg with his teeth. The leg drops off leaving a stran gristle hanging from the knobby stump in Brundle's side. the ground, tries to extend itself. Brundle looks at the eyes crazed, like an animal who has been caught in a leg- gnaw off the leg to be free. Brundle tries to steady hims away down the alley. As he goes, he wipes the insect bloo his two forearms In exactly the same way that flies clean",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. THE HOSPITAL- DAY",
+          "text": "Veronica is wheeled into a Hospital with Stathis by her s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. THE HOSPITAL- DAY",
+          "text": "Veronica, with Stathis still by her side, is wheeled down orderly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Stathis, I'm scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "It's going to be all right Ronnie. It's going to be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't think I want to loose it. Is there something wron loosing it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "It's better this way Ronnie, you'll see. It's the best th happen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. OPERATING ROOM- DAY",
+          "text": "Veronica is laid on the table surrounded by Nurses, as we the GYNACOLOGIST.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GYNACOLOGIST",
+          "text": "Okay, She's expelling it. Yeah it's coming out. I don't e going to have to go in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "It's going to be easy. Don't worry, Honey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No. Please, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It'll be over soon. Here we go. Just need suction here, a Suction. Hold it. Hold on a minute. There's more in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "There's more?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GYNACOLOGIST",
+          "text": "Yeah. I mean a lot more. Okay. You're going to have to he can push. You can push it out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GYNACOLOGIST",
+          "text": "You can push it out. You can push it out. Give us a push. The Gynacologist hold up a disgusting maggot-like creatur given birth to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No! No! Ah! No! Noooo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Veronica wakjs up in bed Screaming; it was a dream. She p herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- NIGHT",
+          "text": "Brundle is stood at his computer typing. After reading th regarding a cure by gene-Splicing Brundle asks for inform",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I want a disk. Give me preliminary integration. The computers scrolls \"Voice Not recognised down the side Brundle stops it and bites on his pencil, which causes hi fall out onto the keyboard. He counts his teeth with his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Brundle stumbles into the Bathroom and opens his medicine full of body parts which have fallen off. Brundle talks t confinding them to the cabinet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You're relics. Yes you are. Vestigial, archeological, red a bygone era. Of historical interest only. As Brundle closes the cabinet, he catches sight of Veroni the Lab and is standing opposite Brundle, with Brundle's them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You've missed some good moments. Is that why you're here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I wanted",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "My teeth have begun to fall out. The... medicine cabinet Museum of Natural History. Do you want to see what else i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Then... what do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I came to tell you... uh... I, uh, I just... I wanted to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "You have to leave now... and never come back here. Have y insect politics? Neither have I. Insects... don't have po brutal. No compassion, no compromise. We can't trust the become... the first insect politician. You see, I'd like I'm afraid of...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't know what you're trying to say. Brundle Steps forward, Veronica takes a step back and Bru through the skylight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I'm saying... I'm saying I-I'm an insect... who dreamt he loved it. But now the dream is over... and the insect is",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No... no, Seth...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "I'm saying... I'll hurt you if you stay. Veronica leaves and Brundle begins to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. BRUNDLES LAB- NIGHT",
+          "text": "Veronica runs crying out of the lab. She is met by Stathi car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Let's go! Let's do it now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Now? Wait, what did he say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I couldn't tell him! Let's go, damn it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "No! I think we should wait a few days, i don't think you' frame of mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No! I want it out of my body now! you should have seen hi anything in here! In me! In my body!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know if I can arrange it now, right now, tonight. run around in the dark like a couple of...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Because I don't want it in my body! Do you understand me? my body! As Veronica and Stathis drive off, we cut up to See Brund rooftop. He moves away into the shadows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. DR. CHEEVERS OFFICE- NIGHT",
+          "text": "DR CHEEVERS is sat at his Desk, while Veronica stares out Stathis stands behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHEEVERS",
+          "text": "Well, okay, what's the story?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "She's pregnant and she wants to have an abortion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHEEVERS",
+          "text": "In the middle of the night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "We have good reason to believe that this child will be de",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHEEVERS",
+          "text": "Yes, but in the middle of the night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "Look Brent, Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHEEVERS",
+          "text": "Is it your child?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATHIS",
+          "text": "No, it's the... it's the child of a man who is deformed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHEEVERS",
+          "text": "Listen, I don't mean to interfere, but I detect a certain here. You know there are tests we can do that determine w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I don't want tests done. Tests can't guarantee anything. off normal then become... I want an abortion, I'll do it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHEEVERS",
+          "text": "Okay if you can just slip into that, we'll be on our way Stathis and Cheevers go into the other room, leaving Vero Suddenly Brundle jumps through the window and walks towar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "Wait, Seth. No! Brundle picks up Veronica and runs back out. Stathis run in time to glimple Brundle escape with Veronica.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. A ROOFTOP- NIGHT",
+          "text": "Brundle slowly puts Veronica down, and the talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Why did you want to kill Brundle? The baby might be all t real me. Please don't kill me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I can't have it. I'm afraid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Please, have the baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "I can't! I can't!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Too bad. Too bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. BRUNDLES LAB- NIGHT",
+          "text": "The door of Brundles lab slides open and Stathis Borans e door shut behind him and we pan around to discover the la Stathis slowly walks, disgusted by his surroundings and t stench of the Lab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Stathis opens his case and reveals a shotgun, which he lo with. He slowly walks over to Brundle's computer and pres brings down the fusion program: Telepod 1: Transmitter of Subject A Telepod 2: Transmitter of Subject B Telepod 3: Recieve of genetically fused A-B combination S Stathis stares at the pods and behind him we glimpse the on the roof above him. Brundle drops from the roof scream Stathis to the ground. Stathis looks up and is horrified appearance. He tries to shoot, but Brundle overpowers him his feet by clenching his wrist. Brundle then proceeds to vomit onto Stathis's hand, which as Stathis screams. Brundle drops Stathis to the ground a process on Stathis's ankle, to which he then pulls away t Brundle stands up and raises his head above Stathis's He mouth and prepares to Vomit on Stathis's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No! Don't! Don't please! Please... Brundle stops and sees Veronica screaming from the skylig moves quickly across the kitchen and slides up the wall a ceiling on all fours until he is facing Veronica.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "\fHelp me. Help me be human.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Brundle, holding onto Veronica, jumps down into the lab. onto her feet and, holding her hand, explains the plan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "Well. I go there .and, uh you. go there. We come apart, t .come together there. You me and the baby; together! Brundle starts the countdown for the fusion program.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNDLE",
+          "text": "We'll be the ultimate family. A family of three joined to More human than I am alone. As Veronica tries to Pull away from Brundle, she rips his it to the floor, screaming. This starts of a chain reacti outer layer of Skin falls away to reveal the inner result Brundle throws Veronica into Pod 1 and begins to climb in Meanwhile, as the computer counts down, Stathis manages t himself up a support beam. When Brundle is locked inside the pod, Stathis shoots the connecting Veronica's Pod to the computer, eliminating he program. Stathis falls to the floor and crawls across to Veronica. Brundle, meanwhile tries to escape from his pod by punchi away. He succeeds, but as he opens the door and steps out teleports him along with part of the door frame and telep Veronica is freed from the pod and she helps Stathis sit Pod 2. She picks up the shotgun as Brundle arrives in Pod and out falls the helpless Brundle, physically fused with He slowsly crawls across to Veronica, who is in tears. He barrel of the shitgun to his forehead, indicating what he do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, I can't. Brundle voices a slow, painful moan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VERONICA",
+          "text": "No, I can't. No... No, God! Veronica pulls the trigger, killing Seth. She falls to th to sob.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2003"
+    }
+  ]
+}

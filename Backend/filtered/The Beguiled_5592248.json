@@ -1,0 +1,3757 @@
+{
+  "movie_id": "MOV1871",
+  "scenes": [
+    {
+      "location": "WOODS",
+      "time": "DAY",
+      "characters": [
+        "EMILY, (0.S.)",
+        "MARTHA",
+        "FADE UP",
+        "VIEW THROUGH THE BARS OF THE GATE",
+        "MISS MARTHA, (0.S.)",
+        "MCBURNEY",
+        "GIRLS",
+        "MISS MARTHA, (CONT'D)",
+        "EXT. BALCONY- EVENING",
+        "CONTINUED",
+        "CAPTAIN",
+        "CUT TO",
+        "GIRLS, (IN UNISON)",
+        "EDWINA, (SOFTLY)",
+        "EDWINA, (CONT'D)",
+        "LOOKING DOWN THE HALL",
+        "MARIE, (CONT'D)",
+        "EXT. GARDEN NEAR WATER BASIN- DAY",
+        "JANE",
+        "EDWINA, (0.S.)",
+        "ALICIA, (CONT'D)",
+        "ALICIA, (0.S.)",
+        "EDWINA",
+        "MISS MARTHA",
+        "THE MANSION",
+        "MCBURNEY, (CONT'D)",
+        "CONFEDERATE SOLDIER",
+        "AMY",
+        "AMY, (CONT'D)",
+        "MCBURNEY, (0.S.)",
+        "AMY, (0.S.)",
+        "JANE, (0.S.)",
+        "EXT. SECOND FLOOR BALCONY- NIGHT",
+        "MARIE",
+        "EMILY",
+        "ALICIA",
+        "JANE, (CONT'D)",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A wild landscape in the morning light. We hear cannons in the distance. TITLE: “1864, VIRGINIA. 3 YEARS INTO THE CIVIL WAR” The small figure of a young blonde girl comes into frame. MAIN TITLES begin in red script over the woods as we foll the girl, AMY, 12, carrying a basket. We follow her as she dips in and out of the light in the shady grove, picking mushrooms as she finds small pockets them. She wears braids and a faded prim cotton dress of t era and sings a song to herself. The SOUND OF BATTLE increases in the near distance. SMOKE drifts over a shady glade, surrounded by trees and high bushes. Close on Amy’s freckled face; she shudders at the SOUND o loud CANNON, and bravely continues, adding mushrooms to h basket. She stops at a little shady patch of mushrooms, and as sh picks them, she comes across a SOLDIER’S BOOT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We follow the boot up legs, and to the body of a man -- a WOUNDED SOLDIER, in a dirty, blood-stained Union uniform. Amy carefully leans in to take a closer look at his soot- covered face with a beard. Suddenly his eyes open -- she jumps back with a scream. The soldier looks at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Are you frightened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "No... Yes. He looks at the young girl. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So am I. Amy moves in closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Can you move at all? He struggles to lean up a little on one arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I‘ll try, if there’s some place to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "The Farnsworth school is just on the other side of the woods. The Miss Martha Farnsworth Seminary for Young Ladies. He thinks about this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Any men about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "No men, just four other students, a teacher, and Miss Farnsworth. The slaves left. I can’t say you’ll be welcome as a Yankee, but it will be better than here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "True enough. I’11 accept your invitation, can you help me up? Amy struggles to help him up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Can you hold on just a bit, while I get my breath?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Oh, yes, sir. She uses all her strength to support his weight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (CONT'D)",
+          "text": "You're a lot heavier than my brother. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where’s he now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "He got killed in Tennessee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "That wasn’t none of us, I was never in Tennessee. Now upright, he smiles at her in gratitude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "What’s your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Amelia Dabney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Mine’s McBurney... Corporal John McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Pleased to make your acquaintance Corporal. They start off slowly. The leg of his torn uniform is covered in blood. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're, off to where was it now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Miss Farnsworth’s Seminary for Young Ladies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "With only five students?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "The other girls have gone home, but Miss Martha kept it open. It was mainly we didn’t have anywhere else to go. They slowly make their way through the brush.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (CONT'D)",
+          "text": "My home is Georgia, and my mother thought it would be better if I stayed up here in Virginia for a while... what with your General Sherman down there so close to Atlanta and all... Smoke rises behind them and cannons BOOM.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (CONT'D)",
+          "text": "Did you run away?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We follow them as they slowly make their way into the distance of the Southern landscape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I’m with the Sixty-Sixth out of New York...We were hit and I fell and everything began to blaze...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Do you want to go back? I can show you the way? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not now. Maybe later when my leg stops bleedin’.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE ON A WROUGHT IRON SIGN: “THE FARNSWORTH SEMINARY FO YOUNG LADIES” Through the gates, a neglected-looking Southern mansion stands amongst dry plants and weeds. Nothing else in sigh Smoke rises in the distance. Amy and McBurney approach the gates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A class is in session. In a large living room that has been converted into a classroom, EDWINA, a tightly-wound, delicate beauty in he late-twenties, instructs a class of girls. She stands straight, with her high shirt collar buttoned the top and her hair pulled back primly. She looks confin in her tight, proper clothing. Edwina speaks in a gentle, well-bred manner and soft voic as she makes herself an example of a Southern lady to her students. There are four girls listening: ALICIA, 17, a bored, pretty blonde with long hair stares Her bodice slightly open, she fans herself with a noteboo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On a fly buzzing in the corner. Alicia watches it. JANE, a prim 16-year-old with freckles, sits next to her carefully following along. Next to them is EMILY, a practical 15-year-old. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Their faces are pink and dewy in the heat of the room, a they are all dressed in plain, long dresses of the period faded after being washed and mended many times. Some of t are half-dressed in petticoats. There is a blackboard propped up with a sentence in Frenc written on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Le Mari de Marie est ici a Paris aujourd'hui. The girls repeat after her in unison. Alicia is pouty as she has better things to be doing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The SOUND of a BELL ringing breaks the silence of the hot day. In the bright sun, a woman with a large sun hat turns to reveal: MISS MARTHA FARNSWORTH, 40’s, a pale, worn, South beauty. With elegant posture, she looks like a lady, not accustom work outside in the kitchen garden. She turns to MARIE, a haired 12-year-old who is helping beside her. The BELL RINGS AGAIN, and Miss Martha lifts her skirt hem and rushes to the gate, followed by Marie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Can’t be the patrol, they were just here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha and Marie rush to the front gate. A VOICE calls out from a window above.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY, (0.S.)",
+          "text": "Amy and somebody’s there! The BELL clangs again. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Help! Miss Martha! Miss Farnsworth swiftly moves to Amy who is halfway up th walk to the large house. McBurney lies on the ground in front of her. The other girls rush out to them. Miss Martha’s hat has fallen behind her, her hair is swep off her face. Jane leans in to get a better look at the stranger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Is he dead? Miss Martha checks his pulse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Not yet. She turns to Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (CONT'D)",
+          "text": "(sternly) How'd he get here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "The woods were burning, I couldn’t leave him there to die. The girls all gather around him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARTHA",
+          "text": "You know you’re not supposed to go that far! She looks at McBurney laying on the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We'll get him to the porch for now. You can all help, Edwina take his legs...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Yes, Miss Martha. The girls surround McBurney. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fMcBurney opens his eyes, and looks up at: THE BACK-LIT GROUP OF CURIOUS, FLUSHED-FACED GIRLS, looki down on him. Their hair ranging from sandy blonde to chestnut brown. With a weak smile -- is he dreaming? -- he turns his head little to see: Miss Martha glaring down at him severely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Sixty-Sixth New York, ma’am, and your grateful prisoner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "A real blue belly! WIDER on the group as they lift his dead weight. Standing tall and efficient, Miss Martha helps the younge girls where his body is dropping. They start to make thei way toward the porch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE, (CONT'D)",
+          "text": "(whispers) You know they rape every Southern woman they come across...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Stop that nonsense, Jane!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(in awe, staring down at him) You wouldn’t know from his face that he was a Yankee, would you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Run ahead, Amy, and open the door for us. And then you come right back here and tie that blue rag on the gate...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "(maliciously, she bends down to inform McBurney) (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The blue rag’s so the patrol will know we’ve captured a live Yankee... McBurney’s eyes open briefly, he looks with pain and fear Alicia looks down at him through her hair, with a haughty look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The group reaches the porch. We SEE the beautiful facade the house with the great columns rising behind them. They struggle to get McBurney up the steps. Miss Martha nods. She braces her back against a column as they set him down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Is he breathing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Why didn’t you call out before, Emily? You must have seen them crossing the fields!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "I’m sorry Miss Martha. I forgot it was my turn to look out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Someday you’ll forget and it’1l be Union scroungers in our garden! That’s how we lost most of our chickens. The girls cluster around him, fascinated. MISS MARTHA (CONT’D) Marie, you get up and look if you can see any of our soldiers. Marie reluctantly leaves them. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "We ought to wash his wound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "And sew it up. Amy -- didn’t I tell you to go tie that blue rag on the gate for the patrol? Amy reluctantly starts to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Couldn’t we wait a bit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "After all the blood he’s lost, he'd die if he went now. The girls look at Miss Martha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Wouldn’t it be the Christian thing to do? She looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes, and you’re quite right, Edwina, he’d never make it. We'll wait until he’s in shape to be taken away. Emily, put some water on to boil. Jane, Alicia, find any cloth we can spare and bring it to the music room. Miss Martha and the others use all their strength to brin him inside. The door of the mansion closes behind them. We hear the roar of BATTLE in the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Soft light comes in through the sheer curtains. A shrouded harp and harpsichord stand in the corner of th music room with a few music stands and gold chairs. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Family portraits hang on the walls from another time, whe concerts were held. There are faded linens and other remnants from the mansion’s former glory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha’s steady hands with shears as she cuts the fa of the pants of McBurney’s uniform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Torn pants fall on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "She sees his nakedness -- then looks away, composing hers to her ladylike ways. She covers him with a piece of line McBurney lies on a pale day bed, unconscious and pale und his thick beard. Beads of sweat form on his forehead. His hands are bandaged and he is naked, other than a clot across his lap. Edwina carefully puts a soft pillow under his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I need more cloth please, Edwina. Anything you can find.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Yes, Miss Martha. Miss Martha is leaning forward, stitching his wound. A strand of her pinned-back hair has fallen forward in he work; she pushes it back, in concentration. Her brow perspires. Edwina moves a pot of water, as she goes for the cloth. McBurney’s belt is draped over a chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "There’s enough metal in there to shoe a horse... I think I got most of it. Edwina with flushed cheeks, looks down on McBurney’s hand face. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina’s hands dip a cloth into a bowl of water. She wrin it out -- water drips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina’s hands wipe the cloth over McBurney’s forehead. A slight moan from McBurney, still unconscious. CLOSE on her hands and cloth wiping soot off of his face. Water drips down his face, on to his scruffy beard, down smooth chest. She carefully wipes his chest. Miss Martha finishes up her work. Edwina, on the verge of fainting, steadies herself with t back of a chair. MISS MARTHA (CONT’D) Edwina, please get more water and I’1l bathe him. I’m going to get him a clean nightshirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (SOFTLY)",
+          "text": "Yes, Miss Martha. Edwina follows Miss Martha to the door. Edwina glances back at McBurney. Miss Martha opens the door wide -- swiftly. In the doorway, the school girls all crowding around tryi to get a glimpse of the man, scatter backwards, caught.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I thought so!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "(almost hopefully) Is he going to die? Miss Martha and Edwina come through the door. Miss Martha shuts it behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Not today, I don’t think. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She locks the door. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The key turns in the lock and is left there. We hear the stiff metal turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Then what’1ll happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We'll turn him over to the patrol, of course. If by some miracle he lives through the night, which I doubt. In the meantime I don’t want anyone poking in here or lurking in the hall...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "His name, in case you've wondered, is Corporal John McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I’m afraid he won't be here long enough - dead or alive - for his name to make any difference to us. She turns to Edwina. MISS MARTHA (CONT’D) There’s too much distraction for any more studying today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "We have a lot of mending to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Good! To the sewing room, all of you! She claps her hands to shoo them away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE on a girl’s hand carefully stitching a thin piece o cloth. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (0.S.)",
+          "text": "Careful, keep your stitches in a straight row. In an old salon, the girls sit around a table with Edwina Everything in the room feels faded. The table has small pieces of cloth, bits of old curtains tablecloths, and sewing supplies. They chat as they sew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Jane, it’s the same for you as all of us, you don’t leave because there’s nowhere for you to go...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "There is so! My father is with General Lee and if I so desired, soldiers would come escort me to him now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "If anybody knew where that was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "My mother wrote me from Charleston that the blockade is fearful. She says I probably eat better here than I would at home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "You do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "You should have never brought that Yankee here, Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I agree. He’s probably a spy and will let the blue bellies in at night to raid our garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I doubt that, Jane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Miss Edwina, aren’t you afraid of that blue belly? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "No. And it is very bad manners to call him a blue belly. He has a name, Corporal John McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "(dreamily) Johnny... The girls giggle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney is passed out, as Miss Martha sits next to him w a bucket of water and pieces of cloth. Having volunteered before as a nurse, she keeps a professional posture, but it is clear that she hasn’t see man’s body in a long time. She pushes her hair back as she dips a cloth into the war water and cleans his arms carefully. Sunlight outlines hi body as she cleans his shoulders and chest. Then his legs Miss Martha takes a deep breath, and lifts the cloth cove him, as she moves the cloth to his hips and inner thighs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls continue their sewing under Edwina’s guidance, the afternoon sun streams through the sheer curtains.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. MISS MARTHA’S ROOM - DAY It’s late afternoon. Miss Martha goes to a basin and splashes water on her fac taking a moment to compose herself. She smooths her hair back in place. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Her room is that of a lady of the time, with a delicate v on a fine dresser. Suddenly she’s interrupted by the sound of A LOUD BANG -- spoon hitting an iron pot O.S.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney opens his eyes -- alarmed. His head rests on an embroidered linen pillow case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha rushes down to see Jane and Alicia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "It’s our boys, Miss Martha. They’1l be passing our way. Alicia's bosom is pushed up in her tight bodice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Can’t we go and greet them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Confederate soldiers? Alone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I think, maybe they have some prisoners.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I don’t want them to see you girls. Go upstairs! They run upstairs. Miss Martha goes to the mirror in the foyer on her way ou She buttons her collar high and smooths her skirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A small group of CONFEDERATE SOLDIERS march past the scho gate. They are battle-weary, in worn uniforms. Behind their wag Yankee prisoners march slowly along. Miss Martha opens the gate to greet them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "What’s the news?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONFEDERATE SOLDIER",
+          "text": "Taking these Yanks to prison to die. A CONFEDERATE CAPTAIN rides up on his horse, bowing his h to Miss Martha as he dismounts. INT. GIRLS’ BEDROOM - DAY CLOSE on Amy, perched at the window; she looks down on th scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "You think Miss Martha’s going to tell them about him? Alicia, Jane, and Marie pass a row of single beds with fa blankets and quilts and lean in around Amy, trying to see",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Captain, now standing, talks to Miss Martha at the ga She stands composed, like a lady, with a subtle tilt of h head, as if she was at the entrance of a ball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "You all alone, ma‘am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Just a teacher and a few students. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "Well, take care. Ma’am. Lot of these Yanks got separated from their outfits. They’re roaming these woods and they’re desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes, Captain. I wonder if you might have a few cartridges you could spare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN",
+          "text": "What good would that do you, ma’ am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "My father left his revolver, and I'd feel much safer knowing I might use it if needed. He nods in respect.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Girls’ POV from the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "They see the Captain handing Miss Martha a small packet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Is she telling him?! Jane looks over Amy’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (0.S.)",
+          "text": "He’s giving her something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "Through moss-covered trees, we see the Captain and his gr start off. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (0.S.)",
+          "text": "They’re leaving, she didn’t tell them! ! WIDE on Miss Martha as she strides toward the mansion. INT. MISS MARTHA’S ROOM- DUSK Close with Miss Martha as she opens a drawer and takes ou revolver. She loads a few cartridges into the gun, and puts it back shutting the drawer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Surrounded by mossy trees, Marie walks around on look-out the evening sun sets. We hear the sound of CICADAS and CRICKETS joining in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina passes the music room to see the door open --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the low light, Edwina pauses to look through a space i the slightly open door. She sees Amy inside kneeling at the beside of a sleeping McBurney, whispering to him. Edwina shoots her a look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "(trying to keep her voice down) What are you doing there! Amy looks over to her in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I was just telling him something private. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Let him rest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "(whispers to McBurney) See you later. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy bids adieu to sleeping McBurney and heads out, stoppi at Edwina in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (CONT'D)",
+          "text": "I was just checking on him. I thought he might want some company. Edwina is stern with her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "He’s not one of your wounded birds or beetles. Amy gives her a look and rushes out, as Edwina closes the door. McBurney watches her. Under her tight-laced primness, it seems like Edwina migh burst. The door shuts -- we hear the KEY turn the lock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha, standing tall in her high collar, reads from bible in the candlelight. The girls all sit in attendance. Edwina carefully follows along. Alicia goes up to Miss Martha and whispers to be excused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Can you wait? Alicia shakes her head. MISS MARTHA (CONT’D) Alright, then. Edwina watches as Alicia slips off. MISS MARTHA (CONT’D) Does anyone wish to ask for special blessings? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I pray that the Lord will see fit to restore the health of the wounded soldier. The girls lower their heads.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We will pray for his return to health and for his early departure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE on McBurney as he sleeps. We hear the sound of the KEY turning the lock. In the dark room, Alicia sneaks up close to his face. She touches his beard, and moves in close to him, getting good look at him. She leans in and lightly kisses his lips, then kisses him longer this time. With his eyes still closed, he seems to kiss her back. McBurney’s eyes open for a second, looking lost, as if in dream. Alicia looks at him, still breathing softly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "(whispers) Good night, Corporal. Alicia sneaks off before she’s caught. McBurney watches her go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slipping in with an innocent look on her face, Alicia rej the group in prayer. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f21a. Heads are lowered in the candlelight. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I ask God’s blessing on our armies, and the safe return of our boys. Edwina glances up from her bible at Alicia, knowing she i to something. Alicia gives her an innocent smile like -- what?! She sli back into her chair and bows her head with the others. Sh has a tiny secret smile on her lips. Edwina returns her head down in prayer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "And we pray for those we have lost. May we all be kept from harm throughout this night. Amen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRLS",
+          "text": "Amen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls follow Edwina up the stairs, whispering. Miss Martha follows behind, to keep them together, holdin a candlestick in the dark stairwell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "To your rooms, quietly girls. FADE OUT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Birds chirp as the sun rises over the old mansion. A cannon fires in the distance. We SEE some SMOKE far off in the distance. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The birds continue as Amy opens the door and peeks in. McBurney winks at her as she approaches him. He is cleane up and wearing a linen man’s nightshirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Good morning. It is morning, I take? She nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "It’s about six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I thought as much from the larks I heard singing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Do you like birds?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Love them. Anything wild I love... wild and free.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I think they’re robins. I can show you some nests I collected?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "That would give me great pleasure. She smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I better go... Miss Martha's coming to fix your bandages and bring your breakfast. She slips off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Okay, then. Thank you, darlin’ She smiles back at him as she leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The kitchen is busy with morning activity. Sun pours in through a window that looks out over the kit garden. A basket of greens and thick ceramic bowls sit on a side table. Heavy iron pots hang by the stove, where Emily tak a pot off. The girls eat porridge over the kitchen table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "How’s the Yank doin’?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "He’s fine, much better...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "How long is he going to stay in the music room?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Until he’s much better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "But, how can I practice the harp with a dangerous enemy in the same room? The other girls are used to her complaining. Miss Martha sweeps into the busy kitchen. She is more put together than usual. She passes Edwina, who is wearing a special dress. She we a beautiful necklace on her pale floral dress. Miss Marth admires it. Edwina continues to shell beans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Trés jolie. She gives her a loaded look, and then looks over at the o girls. Emily has earrings on and Alicia has a flower in h hair. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f24a.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (CONT'D)",
+          "text": "(cool amusement) Seems like the soldier being here is having an effect.... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy passes with her bowl. MISS MARTHA (CONT’D) Tell me, Miss Amy, did you find any mushrooms when you were out collecting soldiers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I did, but only poisonous ones I think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Let’s have a look later, shall we?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yes, ma’am. With her dignified posture and rustling skirts, Miss Mart crosses frame, leaving them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sun beams thru fresh linens being hung on a clothes l Edwina and Jane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney looks up with a cheerful smile as Miss Martha enters. Some of the girls whisper and giggle as they peek in and to get a look at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "(to girls) Get on about your business, you have work and studies to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Shall we not have music here this morning?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "No, we shall not. Please go to the library. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She closes the door on them. She goes over to check on her patient. MISS MARTHA (CONT’D) Good morning, Corporal. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks up at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I'm disrupting your place here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Indeed you are. She sets to work checking his bandages; she is all busine She takes his hand and examines it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His hand in hers. Miss Martha pauses a moment, looking at his manly hand. She continues to dress his wounds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "You don’t mince words, ma’am. You speak right up, I like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Do you indeed? And do you think it makes a great difference to me whether you like it or not? He looks at her, enjoying the rally.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I’m sure my opinion means nothing at all to you, ma’am... I’m not looking for your praise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Are you not. What are you looking for then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Whatever you can spare me. You have given me plenty and I’m most appreciative. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Aren’t you afraid I’1l turn you over to our soldiers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "No, I don’t think so. I don’t say you won’t do it, but very likely worse things could happen to me. I don’t relish the prospect of prison, but it’s better than being dead. And that’s what I would be if you hadn’t helped me. There is something lovable about him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Not necessarily. Is your leg paining you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, some.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Well, I hear that numbness would be more grave. There’s brandy if you wish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "That would be a pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It isn’t being offered for your pleasure, only for your comfort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’am. Miss Martha sits up straight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I must remind you Corporal McBurney, that you are not our guest, but a most unwelcome visitor. We don’t propose to entertain you here. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I wouldn't expect it ma’am.... though you'll find I’m easily amused. McBurney looks to see Alicia in the doorway -- with a fak innocent look on her face. She looks up through blond strands of hair. Miss Martha turns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "What is it, Miss?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "I just wondered if there’s anything I can do to help? McBurney looks at Alicia. Martha notices, protectively. McBurney lies back. Miss Martha goes back to addressing Alicia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "There is nothing you can do here. You have enough studies and other work to keep you well occupied.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "I only thought to help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "That won’t be necessary. And Miss Alicia, you can tell the others this room is off limits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Yes, ma’am. Alicia gives an insolent little curtsey, with a conspiratorial look to McBurney, she leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "You can trust me in your place, ma’am. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I don’t know you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "If you got to know me, I think you would.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "You won't be here that long. Miss Martha nods and picks up her skirts and makes her wa out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Ma’ am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes Corporal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I'd like a bit of soap anda razor if you have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I’1ll see what I can find.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Thank you, ma’am. He smiles at her happily, like a schoolboy. Miss Martha leaves. McBurney lies back on his bed, marveling at his fortune t find himself in such a prison.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE on a hand practicing cursive - writing out a poem: ‘Never seek to tell thy love, Love that never told can be. For the gentle wind does move Silently, invisibly.’ (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Careful with your ‘E's...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy sits in a large oak tree, looking out from its branch The days seem endless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Emily and Alicia hoe in the rows of the vegetable garden the hot sun. Alicia’s not cut out for this kind of work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Are we almost done?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Almost... this is the last row. Some CANNONS, less than before, are heard in the distance",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina stands in the doorway, something in her hand. She takes a moment to smooth her hair, before entering. Small Marie slips past her, beating her into the room to McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Excuse me, won’t you, Miss Edwina? I have some personal business here. Edwina watches as Marie brings a book to McBurney, marvel about what business a twelve-year-old would have here wit him. Edwina waits at the door, impatiently. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie speaks in a low voice, keeping her conversation wit McBurney private.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE, (CONT'D)",
+          "text": "I wanted to bring this to you last night for fear that you might die before morning, but then I thought since you were unconscious, you wouldn’t be able to read it anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "That’s very logical.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Are you Protestant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I was baptized Catholic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Well then, here’s a prayer book for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I thought you might need to confess if you’re on the verge of death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I think I can hold out a little longer. He smiles at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I’m John Patrick McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Pleased to meet you, sir. Marie curtseys and rushes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina turns, blocking Marie. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Just a moment, Miss. Marie stops and looks at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (CONT'D)",
+          "text": "Where do you think you’re going in my jade earrings? Marie gives her a cute smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Oh Miss Edwina, don’t be hateful. Everyone is dressing up today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Not in my jewelry, they’re not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I‘1ll give them back. And how beautiful you look this morning, you're all dressed up yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I am not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I haven't seen that beautiful necklace since last Christmas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Get to your work. Marie ducks and runs past her, laughing. Edwina pauses, embarrassed by her un-ladylike behavior. S starts to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (0.S.)",
+          "text": "Wait, don’t run off when you’ve just come. Edwina turns and sees McBurney lean up, across the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Did you want to see me about something? Edwina nods stiffly and enters. \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina stiffly glides over to McBurney’s bedside. She opens a white handkerchief and places a small bar of lavender soap, a razor, and a tortoiseshell comb on a tab next to McBurney with a pitcher of water on it. She freezes up, not knowing what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Thank you very much. He reclines, trying to clean his black fingernails.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "They look as if you had been trying to dig a pit with them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I was. In the battle, with all that iron flying overhead, my first thought was to bury myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "And when you couldn’t, you ran?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I did. I surely to God did. Edwina looks at him, his eyes smiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "It wasn’t very brave of you to run. She makes herself busy with some task, straightening up t table beside him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Maybe not, but it was smart, I think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Because you’re alive?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "And now I’ve met you. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don’t even know me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I know your name... Miss Edwina Morrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "And what else have you been told about me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Nothing besides your name. It’s a lovely name. She checks his bandages like a kind nurse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I hope the girls weren’t telling stories.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "What do you care what is said about you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I don’t...I just didn’t want you to have the wrong impression. Edwina looks at him. McBurney smiles up at her warmly, his eyes sparkling. She moves again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Then you do care what I think about you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "You’re a stranger here, that’s all, and I don’t want you to be misled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Well, perhaps you can set me off on the right foot and tell me about yourself. Where are you from, Miss Edwina Morrow? 34. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fHe takes this questioning. 35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "My father’s home is Richmond, I left Savannah when I was quite young. We lived in several places for my father’s enterprises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "And, are you waiting for your sweetheart to return when this war is over?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I have no one in the military. in, studying her. She’s uncomfortable with his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "And how did you end up here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Why are you so interested in me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Because something tells me we're both out of place here. She looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I‘1l bet you're the independent sort who the others don’t know how to get close to, and then of course there are your looks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "That doesn’t matter to me. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "In all my travels, I’ve never come across a delicate beauty like yours. He stares at her, she turns away. He grabs her arm and pulls her closer to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Tell, me Miss Morrow, what’s your biggest wish, if you could have anything, what would it be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Anything. She is almost breathless, and gives in for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "To be taken far away from here. He looks into her eyes. She straightens up and composes herself, standing. She smooths her hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (CONT'D)",
+          "text": "Good day, Corporal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "John. She looks at him and turns, taking a tray from the table glides out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina braces herself against a wall, and after a heavy exhale, she composes herself and moves on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Late afternoon. Jane and Marie get a pail of water from t pump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Emily is on lookout as the sun begins to set. She sings to herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. GIRLS’ ROOM - EVENING CLOSE on Amy as she feeds a little piece of lettuce to he pet TURTLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Here you go, Henry. She arranges an old box of her treasures, a smooth rock, small bird’s nest. She adds a brass button after showing Henry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (CONT'D)",
+          "text": "Mr. McBurney gave me one of his buttons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We FOLLOW Amy, the last one to sit at the dinner table. She takes her seat and looks to Miss Martha to see if she be scolded. Miss Martha, an example of perfect posture, smiles at her She lowers her head. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "The eyes of all wait upon thee; and thou givest them their meat in due season. Thou openest thine hand, and satisfiest the desire of every living thing. Bless us and these thy gifts which we receive from thy bountiful goodness, through Jesus Christ, our Lord, Amen. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRLS, (IN UNISON)",
+          "text": "Amen. Miss Martha looks at them pleasantly as they start their meal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It has occurred to me that we might all reflect on the unexpected presence of Corporal McBurney in this house -- until his leg heals, of course. And we might discuss how we may practice compassion and what else we may learn from this. What does each of you think of this? Miss Martha looks around the table at the girls. MISS MARTHA (CONT’D) Miss Alicia, can you tell us how we may learn from his presence here? They all look to Alicia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Well, maybe the sight of him will remind us there is something else in the world besides lessons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It seems to me that is all there should be for any young lady your age. If we learn our lessons properly when young, we can expect a calm and happy life when we are faced with the distractions of the world. N’est- ce-pas? She looks to Edwina like, ‘Isn’t this so?’ Edwina nods. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "With the presence of this hateful enemy, he will be a constant reminder to us that the war is still going on, and the sacrifices and prayers we must make.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "May I say, that any breath of fresh air from the outside world, I think is welcome to us all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "I heard he said he was a mercenary, so maybe he’s not even really the enemy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What’s a mercenary?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "It means he’s just paid by the army to fight, he’s not really fighting their cause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Well, we don’t know about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "He seems to be a student of nature, so I expect to learn about foreign wildlife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "He seems to be a sensitive person.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Does he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I found him understanding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Do you, indeed? You must share more of your findings with us, Edwina. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (CONT'D)",
+          "text": "As dedicated Christians, let us ask the Corporal to join us in our evening prayer. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The women join McBurney in the candlelit room. He is clean shaven and wearing a crisp shirt and trousers propped up on pillows on the settee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Since our music lessons were suspended today in order to permit the Corporal to rest, why don’t we have a little music now -- if Corporal McBurney will not be too disturbed by a little divertisement?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Not at all, ma’am, I’m very fond of music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Miss Jane?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Yes, ma’am. Jane begins playing the harpsichord.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Why, you play beautifully Miss Jane. She smiles, uncomfortable so close to this enemy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Doesn't she.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "I can also play for you, Corporal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I’m sure you can. Edwina gives Alicia a sharp look -- do you always have to such a slut? Alicia shrugs at Edwina. Jane starts to sing and before long they’re all singing a with McBurney joining in. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f4l. Amy gives McBurney a smile. The room is full of smiles and merriment -- Edwina and McBurney share a warm glance. Alicia sneaks a sultry look -- until A LOUD KNOCK at the front door interrupts them. Jane stops her song.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Yankees?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Possibly not. It could be some of our own. LOUD KNOCKS hit the door below again. MISS MARTHA (CONT’D) Edwina, wait here with the girls and I'll go to the door. She looks at Edwina. MISS MARTHA (CONT’D) If it is Yankees or unruly soldiers of our own army, I will rap three times on this door. Then you will take the girls out to the woods behind the garden and stay there until I come for you. She starts to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What about Corporal McBurney? McBurney looks as scared as the girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "He may remain where he is since he’s in no condition to leave. I’m going to get the gun. Be quiet in here, all of you. Miss Martha starts to go. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Can we cover him with something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes. Shh. She leaves. In silence, the girls lean against the door, trying to he something. We hear MUFFLED VOICES. The girls hold their breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. MISS MARTHA’S ROOM - NIGHT CLOSE on Miss Martha’s hands taking the gun from her draw We hear banging on the door below 0O.S.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha hurries down the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOOKING DOWN THE HALL",
+          "text": "Miss Martha talks at the open door. The music room door opens just a crack. The GIRLS’ POV watching Miss Martha, trying to see who sh talking to. Miss Martha steps aside and opens the door wider as two m enter the house. They quickly close the door and listen to the loud, heavy footsteps as the men walk down the hall. The steps grow closer and closer and then stop outside the music room. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f42a. The girls all stand completely silent and still holding t breath... The steps continue down the hall toward the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The door slowly opens and Miss Martha comes in pale, but triumphant, holding the gun. She composes herself, out of breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It’s all right. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls are relieved -- they can breathe again. MISS MARTHA (CONT’D) There are just two of them -- two cavalrymen of our own. They’re having something to eat in the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Why did they come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "To offer their assistance before the army leaves this vicinity. I haven't as yet mentioned Corporal McBurney. The girls look at each other and over to McBurney -- help on the settee. MISS MARTHA (CONT’D) I might ask them to take him with them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "But he couldn’t ride without hurting his leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I could tell them about him and suggest since he’s wounded that they come back for him, but that could be weeks or months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "They’1l probably insist on taking him right now, and who knows what’1l happen to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "They’11l likely shoot him and leave him along the road. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I could allow him to stay until he is recovered and then send him on his way alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Oh, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "There is Christian charity to be considered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "(close to tears) You keep talking about him as if he were some old piece of baggage, and not a kind person who is in this room. Oh, please, Miss Martha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "And there are the doubts if we can really consider him an enemy. They all look at Miss Martha. McBurney waits for his fate",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I will allow Corporal McBurney to remain until his leg heals. If one of you is opposed, I will tell the soldiers and let them decide what to do with him. She looks around at the girls. No hands are raised. MISS MARTHA (CONT’D) Well, then. She is relieved, and seems to remember the gun in her han (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MISS MARTHA (CONT’D) When the soldiers saw me with this, I believe they were more frightened than I was! They said nothing was more frightening than a startled woman with a gun. She laughs on her way out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "May I accompany you Miss Martha, to say a few words of cheer to our men?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "I'd like to come too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "They seem decent enough, but there’s no need to put temptation in their way. Now get to bed. The girls file by on their way. Miss Martha turns to McBurney. MISS MARTHA (CONT’D) Would you care to join me for a brandy, Corporal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, thank you, ma’am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The cavalrymen ride off in the moonlight. The lights in the house go black. INT. GIRLS’ BEDROOM - NIGHT As the SOUND of the horses’ HOOVES fade, we hear an OWL outside their window. Amy, Jane, and Emily whisper from their beds in the dark room. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I wonder how long he’1l stay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Miss Martha seems to be warming up to him, and I believe he likes it here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Oh, what would you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I've talked with him privately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "You think just because you found him, you have some special relationship...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "You're just jealous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Shhh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha sits across from McBurney in front of a fire the small parlor. They sip brandy in the warm glow of the fire. Miss Martha leans back, letting her guard down, relieved be with another adult for once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "What a night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "It must be tiring for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I can’t say it hasn’t been a struggle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I admire your strength. She smiles in thoughtful appreciation. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I know it must be hard for you to be strong all the time for these girls, they’re lucky to have a woman like yourself to keep going for all of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I want to give them what they’1l need to survive in these times. It will be such a different world they’1l be going out into, I don’t think they realize.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "They can’t know what it’s like out there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Sometimes I get so tired... I pray the end is near. It’s hard to find any sense in it, how much everyone has suffered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Did you have someone before the war?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Everyone has lost so much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I was a coward to leave, but you don’t realize what battle really is until you've seen it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It must be devastating. He looks at her in appreciation of her kindness. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I shouldn’t have been there. I’d just come from Dublin, I had nothing. I took three hundred dollars to take a man’s place. 47A. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I see... We’ve all done things out of our character. We’1ll look to it that you make your way home. Thank you for your company. If you’ll excuse me, I must insist you rest. Miss Martha stands, her figure outlined by the fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Good evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Good evening, Corporal. She nods and walks out into the darkness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sun floods in and birds chirp on a new day. McBurney -- clean-shaven and hair combed -- is standing, starting to walk carefully with the help of a cane, as Am his side watches. Miss Martha enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Look, Miss Martha! Miss Martha goes to McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Now lean on the cane and your good leg. Don’t put any weight on your bad leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’‘am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I still wouldn’t rush nature to take her course, but if you want to take the risk of reinjuring your leg, feel free to do so. McBurney slips a little, and Miss Martha and Amy rush to him. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MISS MARTHA (CONT’D) Steady, Corporal!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Will you help me outside, Miss Amy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yes, of course Corporal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Emily and Alicia pass through. McBurney nods to them as h makes his way slowly. Alicia smiles at him coyly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Ladies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Good-day, Corporal. Miss Amy, it’s your turn in the kitchen garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "That’s right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I’m helping the corporal, as you can see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Well, I’m sure we could relieve you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Girls, that’s enough. I'’1l be the one to let you know whose work is needed, now go on your way. Emily and Alicia give Amy a bitchy look, and continue on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy helps McBurney as he slowly moves along. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f49a, He looks out over the garden. Miss Martha stands in the doorway nearby. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Your roses need pruning... and those hedges are in terrible shape. The whole flower garden needs help, I’1l get to it tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Surtout pas. You’1l do nothing of the kind. It’s kind of you to offer but it has been neglected for some time, and it can remain that way a while longer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Have you had much gardening experience, Corporal McBurney?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Oh yes, I did a good bit of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Well, if you really have a knack for gardening, you can make yourself welcome later in your convalescence. The English box hedge hasn't been trimmed properly for years now, and we have enough with keeping the kitchen garden going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "It would be my pleasure, ma’am. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney works in the garden in the hot sun, he looks ove Edwina passing. He stares at her. CLOSE on Edwina over by the mossy oaks with a basket of linens-- she feels his stare, and tilts her head, pretend to not notice him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney prunes a hedge. CLOSE on McBurney working up a sweat as he sharpens old garden tools on a block of granite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He works a blade across the stone, as it sharpens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina and Emily pick some vegetables in the kitchen gard McBurney stops to watch her. CLOSE on Edwina’s flushed face as she works in the garden she steals a glance at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. GARDEN NEAR WATER BASIN- DAY",
+          "text": "McBurney continues his work pruning the rose bushes and cutting away dead vines. He wipes the sweat from his forehead. Amy brings him a glass of water. He thanks her with a win and a smile. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAmy smiles. Amy beams. 52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Miss Martha told me to return to my lessons but I told her all the things you need me to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, I’m counting on you to keep my clumsy feet away from bird’s nests and my spade from decapitating friendly worms. That plus keep me company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Don’t tell anyone else, but I consider you my best friend in this place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "You do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Of course I do, now hand me those shears, will you, my girl. They continue their work. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney looks up to see Edwina watching him through a la curtain. McBurney splashes water on his face from a bucket to cool off. Water drips over him. His eyes meet Edwina’s and she turns away. Alicia and Emily wave to McBurney from nearby. He gives them a nod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As Amy passes to go inside, Emily and Alicia tug her brai",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "You better not be saying unkind things about us to the Corporal. Amy politely smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Now, why would I ever do that? She continues on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney rests on a bench by a great oak. Miss Martha comes over to him. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Corporal, I wonder how your leg is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "It twinges a bit now and then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I would expect that. You may recall I was opposed to you walking on it so soon, however I can appreciate your need to be active. May I check?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’am. He sits on a bench, as Miss Martha checks the wound under bandages.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "The stitches seem to be holding and the wound is healing nicely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "When do you think I’1l be recovered?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Some may say you’re recovered now. I’m sure the army surgeons would say you’re ready to return to duty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "So, you'd like me to leave?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I didn’t say that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Surely not, you’re too polite a lady to be so blunt about it. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am as blunt as I need to be, Corporal McBurney. Since you brought it up, I will tell you that I think your leg is healed enough to leave by the end of this week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "That’s in just a few days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes, it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Where would I go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I'm afraid that is entirely your business where you go, Corporal. However I should think you might find columns of your troops on the main road to Richmond. He looks out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Your garden should have continual care, you need a full- time gardener.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Perhaps, but I expect we’ll have to do without in these times. McBurney looks upset, fragile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "It’s a pity isn’t it, that I couldn't have remained helpless. 55. Miss Martha stares at him for a moment, and then picks up skirts and leaves, disappearing into the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy lies on a sofa crying. Alicia, and Emily crowd around her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "When?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I don’t know exactly, but she asked him to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "We will have to make things so pleasant for him that he won't even consider leaving us, until we decide of course, that it’s time for him to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "We might suggest to Miss Martha that it would be nice if Corporal McBurney could join us at the table for dinner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yes, he must get lonely eating alone in his room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "We should show him some real Southern hospitality.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jane cuts some wild flowers in a field, making a small bouquet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina joins McBurney by the window, alone in his room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I’ve missed being near you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Have you? She looks down shyly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "You have no idea how lovely you are. Edwina’s stiff manner crumbles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Miss Farnsworth suggested it’s time for me to be on my way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I don’t want you to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I don’t want to leave you, Edwina. I love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Please... don’t ever say that to me unless you mean it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I do. I knew exactly how I felt about you from that first day I talked to you, but was afraid to say anything for fear you'd never let me near you again. I’m only telling you now because this may be my only chance. I realize I’m not good enough for you, Edwina.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "That’s not true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I’m tired of this war, I want to see the West... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "If you can get to Richmond, my father can help you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Come with me. He kisses her- it knocks the wind out of her. A KNOCK at the door interrupts them. Edwina, light-headed, stands up, smooths her skirt. Alicia and Jane enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Miss Martha invites you to dine with us, Corporal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Thank you, that would be my great pleasure. Jane and Alicia curtsey innocently. Edwina rushes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There is a flurry of activity of girls rushing to their rooms. Amy passes Edwina.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Have you heard -- the Corporal is joining us for dinner tonight! Evidently Miss Martha was fearful she might have hurt his feelings by asking him to leave so she invited him to dine with us. Edwina watches her go, and rushes off herself. INT. GIRLS’ ROOM - EVENING Emily tightens the laces on Jane’s corset. Close up on ribbons in their hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Have you got it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Almost. The SOUND of a dinner BELL ringing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alicia looks at herself in a mirror. She stares for a sec and then reaches up and pinches her cheeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the glow of candlelight, McBurney is surrounded by the ladies and girls of the Farnsworth school. They are all dressed up in their best. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The evening is festive, with chatter and the passing of b and platters of sweet potato pie, black-eyed peas and biscuits. They are all enjoying having a man at the table but Jane is still suspicious of the Northern enemy. A radiant Edwina wears a blue silk dress, that sits off h shoulders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "That dress is very becoming on you, Miss Edwina.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "There might be other attractive shoulders here if we were all permitted to wear such dresses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It is not entirely suitable dress for a young ladies school, but we know that Miss Edwina is accustomed to town society with different views. I suggest we change the subject and that Miss Edwina might consider drawing her shawl to prevent any other speculation on the subject. Edwina demurely pulls her shawl over her shoulders as Ali watches. McBurney gives Edwina a little smile from across the tabl She smiles back at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "This is the finest meal I can remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Merci Beaucoup...Miss Alicia made the pie herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "I made apple pie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "You don’t say? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alicia smiles, pleased with herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I picked the apples.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Delicious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Is that my recipe, Miss Alicia? Jane looks at Alicia. Alicia is coy to Edwina.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Why, yes it is. Edwina takes a bite, with a glance to Alicia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "(to McBurney) We’re fortunate to have had enough water for our garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls are chatting and Jane finishes playing “Concert B Minor” by Oskar Reiding on her violin for McBurney who nearby, listening appreciatively.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "That’s a beautiful song. Jane smiles, flattered. Alicia leans in to McBurney with baby-doll eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Isn't it? I’ve always thought it was rather romantic... He look at her like a wolf. Jane sits down at the harpsic and begins to play Stephen Foster’s “Virginia Belle”. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina enters the room to see Alicia leaning by McBurney, flirtatiously chatting with him at the window. McBurney turns to see Edwina and makes his way over to he with his cane. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Next to Edwina, he squeezes her hand reassuringly. He loo at her, as she avoids his stare. He leans in and speaks under his breath, as if it’s a tortured burden -- to be so close to her and not grab her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "My love. She looks away, flustered. Alicia passes by and gives Edwina a snotty look like -- I the one he wants. Edwina looks to McBurney. He leans in, whispers to her under the music, she smiles they exchange whispered plans. Miss Martha appears. McBurney straightens himself and bows to Miss Martha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "May I offer you a digestif, some brandy, Corporal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’am. He nods to Edwina and sits down with Miss Martha, happy t partake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "My father had quite a cellar in his day. The house was full of parties... People traveled from all over to come here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I'll bet it was splendid here, ma’am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "It was. There were elegant dinners and balls... carriages lined up, beautiful gowns and men in full dress... She smiles and lifts her glass as they sip brandy togethe (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "A toast to you, Miss Martha, you must be the bravest lady I’ve ever known. She's flattered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Oh, all bravery is -- is doing what must be done at the time. Tell me, Corporal, do you think this war will be over soon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Very soon, sooner than you Southerners are ready to admit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "And you could use some help around here. A man’s help. He sips the brandy slowly and looks into her eyes. Miss Martha tilts her head in reflection. She looks up as the music ends, and sets down her glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Please gather for our evening prayers. Miss Martha starts the prayers, as the others gather arou in the candlelight. MISS MARTHA (CONT’D) Dear Lord, we ask for your protection over our school and all of the brave members of our army...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "And may we ask to look out for our friend, Corporal McBurney, as he makes his way. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes, Miss Amy. Corporal McBurney’s stay with us has taught us all a very important lesson, that the enemy as an individual is not what we believed. Let us bow in silent meditation. The girls bow their heads. Alicia sneaks a look to McBurney. Amy looks at her, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina passes McBurney and Miss Martha in the dark hallwa In the dim candlelight, Edwina and McBurney exchange a knowing look, and Edwina continues on. Miss Martha stops at her room. She and McBurney stand at doorway, as she holds a candelabra, facing him. Is he goi to join her? She looks at him, she is softer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Well, good night, Corporal. You will need your rest. She touches his arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’am. He looks at her. The moment is filled with anticipation. Suddenly a door SLAMS above, and a girl calls out:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE, (0.S.)",
+          "text": "Please! Stop it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY, (0.S.)",
+          "text": "I’m not doing anything! (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Miss Martha calls up to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Girls! Quiet down. The moment is broken, McBurney looks at her. Miss Martha gives him a little curtsey. MISS MARTHA (CONT’D) Good night, Corporal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Good night, ma’am. Thank you for your hospitality. Miss Martha goes up the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. EDWINA’S ROOM - NIGHT Edwina washes her face carefully. CLOSE on her hands as she unfolds a garment folded in pap She holds up a Parisian lace-trimmed nightgown that looks like it’s never been worn. She carefully slips it on, and brushes her hair -- counti with each stroke, as she imagines herself as a bride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "One, two, three, four, five, six, seven...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A small bottle of perfume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina puts perfume behind her ears. Edwina leaves her door slightly ajar. She lies on her bed next to the glow of a candle, full of anticipation. We SEE the outline of her hair as she waits (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We hear the SOUNDS of the house at night in almost silenc The battles seem to have moved on. We hear the sound of CICADAS. We hear some GIRLS say good-night in other rooms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. SECOND FLOOR BALCONY- NIGHT",
+          "text": "We see McBurney’s outline on the dark back balcony.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. EDWINA’S ROOM -NIGHT CLOSE on Edwina -- she hears a SOUND on the steps -- the CREAKS. We hear a few heavy STEPS come CLOSER -- and then pass. Barely breathing, Edwina lies for a few more beats, then up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina, holding up a candlestick, carefully walks down th dark hall. We hear what sounds like muffled GIGGLES. Edwina in her nightgown makes her way closer to a room -- door barely ajar, a low LIGHT seeping out. It’s quiet now. Edwina wonders if she was imagining sound then she hears a CREAK and a LAUGH and moves forward. Edwina opens the door to find --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Over a bare milky white ass, McBurney is in bed with Alic naked body on top of him. He’s grabbing her and clearly having a good time. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They look up to see Edwina. Edwina steps back -- as McBur jumps up. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Edwina!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "No --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney, smiling with assurance, moves toward Edwina, as backs up in shock. He reaches for her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Dear Edwina -- She backs up towards the stairs, he reaches for her. She pushes him away, as she drops the candle and SCREAMS. In the darkness, we hear McBurney tumbles down the stairs calling out in agony. Edwina crumples to the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha rushes out, followed by the other girls, all nightgowns. They crowd around to see -- McBurney lying unconscious at bottom of the stairs in the darkness. Miss Martha takes a lamp, and holds it up. We see blood pooling around McBurney, his leg contorted. Amy, looking through the stair banister, cries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Is he dead?! Miss Martha leans in to check his pulse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "No, but we have to stop the bleeding. Edwina joins them at the bottom of the stairs, her tear- stained face in shock. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MISS MARTHA (CONT’D) What has happened?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Oh, Miss Martha! Edwina is in shock and can’t explain herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Is he going to die?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "(urgent) Get some rags! Alicia comes down the stairs, not seeing the severity of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "I was so shaken I could hardly bring myself to leave my room. No one pays attention, Miss Martha rushes to make a tourniquet. She is much less gentle than on his arrival.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA, (CONT'D)",
+          "text": "It was terrible the way he rushed in, I was frightened half to death, and then Edwina came out and began fighting with him. Emily brings a bowl of water. Amy has some old cloth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We have to get him to the table. Help me move him. Marie comes to her side. Jane recoils, the girls are scar to get closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Is he going to be alright?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Be quite, and help. The girls help to pick him up. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The women gather around, blocking McBurney, who lies on t dining table. A lamp lights the table from the mantle. We SEE their backs as they look at McBurney. Jane turns to us in horror for what she sees. Amy covers mouth, as Emily ushers them away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We may have to remove it. Close on McBurney’s unconscious face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "What?! No! (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Alicia calls down as she descends the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA, (0.S.)",
+          "text": "Is there anything I can do? She enters the dining room. They ignore her. Miss Martha focuses on the patient.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA, (CONT'D)",
+          "text": "I was so shocked and shaken, I could hardly bring myself to leave my room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Is that so, Miss?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Yes, I was asleep, when he came upstairs. Amy brings water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Were you indeed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "It was terrible the way he rushed in, I was frightened half to death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What did he want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "How should I know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Be quiet, all of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Nothing happened, I swear! Alicia starts sobbing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "(firmly) Go to your room. Alicia sulks off. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha goes back to the table. The girls gather arou blocking the gruesomeness of his injury. Amy squeezes Emily’s hand. Edwina puts a cold compress on McBurney’s forehead. He se to wake up for a moment in a daze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "What are you going to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "(mutters) I‘1l still be leaving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "His leg is broken badly this time. I can’t repair it, I’m not a surgeon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Oh dear lord!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Quiet!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What will you do?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Don’t distract her! The girls squabble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Go to your rooms! Miss Martha steps aside, as the girls scurry off in tears McBurney lies unconscious on the table. Miss Martha turns Edwina at the mantle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (CONT'D)",
+          "text": "We have to amputate. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha is stone-faced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "What?! NO! Miss Martha snaps at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Do you want him to die? A very good doctor might be able to do something... but by the morning that leg with start to mortify... Edwina sobs. MISS MARTHA (CONT’D) It’s the only chance he has. CLOSE on Miss Martha’s intense face in the lamp light. MISS MARTHA (CONT’D) We need more rags and the saw from the smokehouse. Edwina, find the anatomy book. Edwina wails. CUT TO BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the low morning fog, WIDE on the women and girls of th Farnsworth school gathered around a small pit. Some are wearing black shawls. They open a blanket and drop something in with a loud thu Miss Martha reads a prayer, as Emily shovels dirt over th small grave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Out of the depths have I cried unto thee, O Lord. Lord, hear my voice: let thine ears be attentive to the voice of my supplications. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (CONT'D)",
+          "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand? But there is forgiveness with thee, that thou mayest be feared. I wait for the Lord, my soul doth wait, and in his word do I hope. My soul waiteth for the Lord more than they that watch for the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "EXTREME CLOSE UP: McBurney opens his eyes in confused hor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina, in a pale cotton dress, sits by the door to McBurney’s room, waiting in the quiet house. Her head low and tired, she’s been waiting a long time. SUDDENLY the silence is interrupted by his horrified scre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (0.S.)",
+          "text": "What have you done to me?!! Edwina rushes to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney tries to sit up in bed. His pale face, covered i stubble, is dark, like a broken monster. Edwina pleads with him in tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "I've been waiting for days to talk to you... He gives her a hateful look -- like how can you even spea me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (CONT'D)",
+          "text": "You don’t know how sorry I am!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "(nastily) About what, my leg?! You could have stopped her! Edwina cries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "(disgusted) But, you helped. Miss Martha rushes in, Amy follows behind timidly. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "What is going on here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "There you are -- the butcher! Miss Martha is stoic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We saved your life. Amy watches from the side, holding her turtle, afraid. McBurney looks at Miss Martha with hatred. MISS MARTHA (CONT’D) We had to do it. He blasts at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I‘ll bet you did! Did you have to do it or did you just want to punish me for not going to your room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "It was an accident, she saved your life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "You’re worse than she is. Did you lure me up there and plan this together?! Miss Martha stands tall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Did you enjoy it?! Now you can keep me at your beck and call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "John--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Just bring me another bottle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "You've had enough. Edwina tries to get close to him, but he pushes her away. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Get away from me. Amy stares as they leave his room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "You didn’t tell me it was a house of mad women. Vengeful bitches... Miss Martha closes the door behind them. McBurney lets out a horrific wail 0O.S.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The key turning in the lock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie is on lookout. Her small figure walks it’s length, looking out past the mossy trees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Edwina passes by the closed door of McBurney’s room. She stops and listens to McBurney’s muffled sobbing. Her heart breaks for him. CLOSE on Edwina- What have we become?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The women are gathered around Miss Martha. We hear POUNDING from across the hall of McBurney’s rage, smashing furniture. Miss Martha stays composed. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "What are we going to do, Miss Martha?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Miss Marie said she saw Union troops approaching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "If we let him go, he’1ll join up with them. He would tell them about our garden and our cow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "He would lead them back here... They all look to Miss Martha. CLOSE on Miss Martha thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Exactly...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s afternoon. With the shutters closed, light seeps int the dark room. Alicia carefully makes her way over to McBurney who’s res on the settee. She sits beside him, and talks in her innocent baby-doll voice. She leans forward, showing some cleavage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "How are you doin’? McBurney turns to her and doesn’t answer. He looks at her like -- what the fuck do you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA, (CONT'D)",
+          "text": "I tried to ease Miss Martha’s suspicions about us... I was so worried about you. But, I know you'll be strong again soon. She touches his chest. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Shut up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Can I get you anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Get me the key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Miss Martha would know if it went missing... You know I’d get in trouble for that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Just get it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Well, there might be another one in Miss Martha’s drawer with her valuables. He grabs her hair and pulls her head back roughly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA, (CONT'D)",
+          "text": "Ouch, you’re hurting me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Get me the key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Alright, I will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie pumps water into a bucket. Under a large oak, Amy collects acorns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jane, in a cotton dress, with a sun hat in her hand, walk alone to the stairs. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (0.S.)",
+          "text": "Who’s there? She stops when she hears McBurney through his door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "It’s Jane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (0.S.)",
+          "text": "Open the door a moment, would you? She hesitates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Please. Cc.U. She peeks in the key hole. She cautiously turns the key, and steps back. McBurney stands in the doorway, his face is red from cryi he’s been drinking. She is startled as he comes towards h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Jane. He grabs her arms. He’s desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Jane. Where are you going? She's frightened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I’m just going out to the garden, Corporal McBurney. He pulls her closer, pinning her against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE, (CONT'D)",
+          "text": "Please --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Play a song for me. Would you do that, Jane? One of your pretty songs. Pretty like you. She tries to lean back, he’s scary. He lets go of her arms. Tries to be gentle. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I’m not really a bad fella, do you think you could put ina good word for me with Miss Martha and the others? Maybe things could go back to the way they were before... Will you ask her to let me stay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "She seems to be doing that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I mean for her to say that I’m welcome, and for her to talk to me and let you all talk to me. Would you ask if she'd do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Yes sir. You better go back inside. She closes the door and hurries away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. BALCONY- EVENING",
+          "text": "Emily walks on patrol as the sun sets over the mansion. There’s nothing in sight; they seem to be in the middle o nowhere. FADE OUT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha and the others have tea at the kitchen table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I wish he would just leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We have to wait until the Union troops have passed. It won’t be long, I'm expecting our men to push them back. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "Oh, Miss Martha, I’m so scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I know, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "He said he was going to kill me if I made any noise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Oh, shut up. Edwina shoots her a look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Please. We must all be strong. He’1ll be on his way soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "He wasn’t harming her. She isn’t harmed, is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "But he intended to harm her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "How should we know what his intentions were?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Don't fence with me, Miss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I don’t think he meant anyone any harm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Perhaps not, but we can’t be sure. Suddenly a loud CRASHING sound comes from the other room. Miss Martha stands up. Alicia screams. McBurney staggers in on his crutches, the revolver in his hand. He is belligerent. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Well, well, what are you Southern ladies learning today? The art of castration?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Why don’t you just go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Yes, why don’t we help you prepare your possessions and you can leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Oh, I can leave now? Just without my leg! You’re done with dressing me up? I’11 leave when I god damn want to. Things are all about to change around here. Now I’11 tell you how it’s gonna be. The girls look at him glaring down at them in a stupor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Do you know why Edwina pushed me down those stairs? And why your Miss Martha chopped off my leg? Because I didn’t go to her room, or Edwina’s. No, they didn’t like that -- He knocks over a side table which crashes down, a dish on smashing loudly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "That’s enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "(forcefully) I‘11 tell you when it’s enough. Amy approaches him with her turtle in her hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Oh, please don’t shout, Corporal McBurney. You'll frighten Henry here. McBurney grabs the little turtle out of her small hands a throws him across the floor. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Amy bends down to her turtle in tears. She looks back at McBurney like he’s a monster. With regret, he leans towards her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "I'm sorry, Miss Amy, I didn’t mean to do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Stay away from me! Amy cries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "That’s enough. McBurney turns to Miss Martha. He points the gun at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "What was that? Miss Martha doesn’t drop her gaze. He feels the girls all looking at him. He lowers it as he drops his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Why didn’t you just kill me and get it over with... McBurney grabs a mostly empty bottle from a side table an staggers out of the room. The girls sit in shock, prisoners in their house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Oh Miss Martha, what are we going to do? We hear O.S. a bottle smashing in the foyer. Jane starts sobbing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We're going to be alright. Miss Martha holds Jane’s shoulders to comfort her. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MISS MARTHA (CONT’D) Now, Miss Amy, I want you take a blue rag with you in your basket and go out front. Pretend you’re gathering walnuts, and make your way to the gate and tie it on, and then come right back. Do you think you can do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yes, Miss Martha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Then hurry right back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "With her basket on her arm, Amy’s back is to us as she quickly ties the blue rag on the gate. Her hands tremble. A dark shadow comes into frame and falls over her, with t sound of a footstep. Amy turns to see McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "What are you doing there, Miss Amy? She looks at him a beat and takes off running. He tries t grab her, but she gets away. McBurney follows after her as fast as he can go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls all turn as they hear Amy’s O.S. scream. Miss Martha gets up to go out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Go inside and stay there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha walks carefully outside, looking around. She no one. The girls run into the house. We hear the dry grass under Miss Martha's shoes. The door of the shed shuts. Miss Martha walks towards it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha opens the door slowly, letting in a stream of light in the dark shed. We stay CLOSE with Miss Martha as she carefully looks aro her back against the wall. Suddenly McBurney appears in her face from around a corne holding a terrified Amy. Miss Martha gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls move together to the parlor window to get a bet look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE on McBurney and Miss Martha face to face in the dim shed. McBurney holds the gun up close to her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Please, Corporal McBurney. She looks him in the eye. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MISS MARTHA (CONT’D) Won’t you come inside with me? We have one more bottle of bourbon in the cellar. He looks at her, and slides the gun down her cheek slowly lowering it. He lets Amy go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WIDE on the mansion as McBurney makes his way back inside pointing the gun at Miss Martha and Amy, shooing them ins",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Get back inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The girls scramble from the window and sit, terrified. Miss Martha enters with Amy, followed by McBurney. Miss Martha stands erect, between McBurney and the girls, trying to guard them in some way. McBurney looks at her from the doorway, fed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "The next one of you to try something is going to be sorry. Miss Martha keeps her voice down and controlled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Miss Marie, please go to the cellar and fetch that last bottle of bourbon. She slips her a key, and Marie moves past, avoiding McBur in the doorway. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Amy, I thought we were friends... I never meant any harm to any of you. Look at me, look what you’ve done to me. I'd rather be dead than a man without a leg, hobbling around. I see how you look at me... your disgust and pity. He starts to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I’m not a man, I took your kindness and trusted you and you toyed with me and then butchered me. The girls stare. He looks up at them with a fierce look in his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I’ve had enough with your devilment. I’ve got four shots left, and the next one of you to try something is going to get it from me. The girls sit in terror. He raises his voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Do you hear me?! McBurney pulls the trigger and shoots the chandelier. It comes crashing down. The girls scream, Jane cries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "The next shot is for one of you. He staggers out. The girls stare, frozen in place. They sit in silence. We hear Jane’s whimpers. Edwina stands up, and starts to go. Miss Martha grabs her arms to stop her. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Leave him. Edwina pushes past her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha tries to block Edwina.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Don’t make a fool of yourself. Edwina looks at her stone-faced and fed-up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Get out of my way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "No, Edwina, don’t. She shoves Miss Martha out of her way roughly and moves p her, determined. Miss Martha falls against the wall in distress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney lies on his bed. He looks over as his door start to open slowly -- what is it now? Edwina stands in the doorway. McBurney watches as Edwina enters, closing the door caref behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "What do you want? McBurney watches as Edwina uses all her strength to push sofa across the door as a barricade. She stares at him as she walks over. He watches her approach. Edwina leans down to him, bracing her arms on his, and ki him -- with all her pent-up passion. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He grabs her and pins her down, fed up with her -- he rip her dress open. She pulls him down towards her. Her eyes pleading for him He takes no mercy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Martha sits down with the girls around her. She is concentrating on a plan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "You're going to just let her be alone with him like that?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Hush, Alicia, we have bigger problems to solve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "I knew it was a mistake when you brought him here, Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Don't blame her, she did it out of the goodness of her heart... Now we must think... Since no one in this house is safe as long as he remains here. It’s just a matter of how we can rid ourselves of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Can’t we leave him back in the woods?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We can’t take the risk that he’1l meet and bring his troops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "We could hang him?! Miss Martha looks at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Let’s not resort to brutality... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "We can’t go on like this with him here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We shall have to do something, and quickly, about him. I’m very worried of what might happen next.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I can tell him he’s no longer welcome around certain people, if you like.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "You'll do nothing of the sort, Miss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALICIA",
+          "text": "You're an idiot if you think he’s going to take suggestions from you, Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "I was trying to help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Girls, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Will you go and get help?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I don’t want to leave you here alone with him...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "He loved the mushrooms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "What was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "The corporal sure did love the mushrooms we served him. What if Amy picked the kind -- some especially for him? Miss Martha looks at her, getting her drift. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "I see. A beat. MISS MARTHA (CONT’D) Do you think you could do that, Amy? Find some mushrooms for the corporal? Amy looks at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (CONT'D)",
+          "text": "You'll have to be very careful that he doesn’t notice you leaving the house. Miss Martha grasps Amy's wrists in emphasis. Amy looks he in the eye, determined.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "Yes, Miss Martha. Miss Martha addresses the group.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "We'll make him a nice supper, we can invite him for a send-off... We’ll get out that smoked ham and make some biscuits and a bowl of your mushrooms sauteed in butter and wine...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE on McBurney and Edwina asleep in bed, her face rest against his chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the late afternoon sun, Amy walks with her basket, stopping here and there to pick mushrooms. FADE OUT. \f90. INT. MISS MARTHA’S ROOM - EVENING Alone in her room, Miss Martha kneels and prays.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. ALICIA’S ROOM - NIGHT CLOSE on Alicia in a mirror as she buttons up a special dress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. GIRLS’ ROOM -NIGHT CLOSE on Amy and Jane braiding their hair, in quiet concentration. The room is quiet. The sound of cicadas start outside the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the dim candlelight, Miss Martha walks down the hall w a quiet, determined reserve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beautiful table is set with candles, wildflowers and platters of food. Miss Martha and the rest of the household sit around the table, dressed up in their finery. Miss Martha wears taff and earrings, the girls in their holiday dresses. Miss Martha and the girls look up as McBurney comes in followed by Edwina. He is wearing his washed and mended uniform. McBurney smiles at the warm hospitality. Edwina, at his side, has her hair down and wears a pretty dress. With he flushed cheeks, for the first time she looks unwound. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She smiles at McBurney as they look at each other like -- Isn’t this nice? They sit down and join the party. The girls pass the plat around. Edwina is oblivious to their plan. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Corporal, we'd like to let you know that we harbor no ill feelings, and made this meal in commemoration of your journey ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Thank you for excusing my outburst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Think nothing of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "And thank you for this-- This looks like just about the finest meal I’ve ever seen. Edwina is pleased that harmony is restored. Jane looks across at Emily. Platters are passed around with the ham, corn bread, gree",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Bon Appetit. Oh, wait-- wait. We haven't said grace. They put the platters down. Everyone lowers their heads. MISS MARTHA (CONT’D) The Lord is gracious and full of compassion; slow to anger, and of great mercy. Bless us and these thy gifts which we receive from thy bountiful goodness, through Jesus Christ, our Lord, Amen. Miss Martha looks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRLS",
+          "text": "Amen. The girls pass the platters. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Where are the mushrooms?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANE",
+          "text": "Here they are. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She passes them. Wine is poured for McBurney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA",
+          "text": "Miss Amelia picked these mushrooms today. Who would like some? Corporal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "Yes, ma’am, I’m fond of them. Edwina looks at him with love. Close on the bowl of mushrooms being passed over to him silently, from girl to girl, no one taking any. The bowl is handed to McBurney. All eyes are on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "What about you, Miss Morrow? Jane and Emily look to Edwina who is oblivious and lost i romantic thoughts. She speaks with a gentle smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "Thank you. He starts to serve her some. The girls look at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AMY",
+          "text": "But, Miss Edwina, you don’t like mushrooms. Jane and Emily stare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "It’s true, I don’t really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY",
+          "text": "All right, then. He helps himself. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "They look mighty tasty... and I am hungry! He gives a look to Edwina. She giggles. Amy stares as McBurney piles the mushrooms on his plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "Mmmm... Miss Amy, you picked these yourself? Amy nods. CLOSE on Amy’s hand under the table as she squeezes the g next to her. They all watch as McBurney eats up the mushrooms, washing them down with wine. He smiles, his mouth full of food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MCBURNEY, (CONT'D)",
+          "text": "I don’t plan to stay here much longer, but while I am here, I'll try to make it up to you for all the unfortunate things that happened. Miss Martha smiles graciously at him. He takes another big forkful of mushrooms and swallows th down with more wine. The girls watch him. McBurney with perspiration on his forehead, tries to unlo his collar. He starts to choke, realizing something is wr He looks up. The united women calmly watch. Edwina grasps him, in confused desperation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA",
+          "text": "John? John? C.U. McBurney, on the verge of unconsciousness, looks at all, realizing... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "McBurney collapses to the floor. Edwina falls down to him She tries to lift his heavy unconscious body. It’s no use CUT TO BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Birds chirp on a sunny day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A girl’s hands tie a blue rag on the gate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A girl's hand sews thread through dark fabric.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISS MARTHA, (0.S.)",
+          "text": "Keep your stitches in a straight line like I showed you. We SEE the girls kneeling around their project on the fro porch as Miss Martha looms over them. Edwina, completely broken, is in a numb daze at her side. Martha gives her a nod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARTHA",
+          "text": "Edwina. Edwina, looks up at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (SOFTLY)",
+          "text": "Yes, Miss Martha. She takes her old place at Martha’s side, overseeing the girls’ work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWINA, (CONT'D)",
+          "text": "Not so tight, Miss Jane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE MANSION",
+          "text": "The girls carry the body bag down the walkway towards the gate, and drop it there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIEW THROUGH THE BARS OF THE GATE",
+          "text": "The women and girls of the Farnsworth school, in their fa dresses, sit on the grand porch, waiting. CUT TO BLACK.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1871"
+    }
+  ]
+}

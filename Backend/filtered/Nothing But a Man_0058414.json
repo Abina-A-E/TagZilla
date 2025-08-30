@@ -1,0 +1,4104 @@
+{
+  "movie_id": "MOV1365",
+  "scenes": [
+    {
+      "location": "BUNK CAR",
+      "characters": [
+        "LOCKER ROOM, MILL",
+        "ELLIS",
+        "MILL YARD",
+        "WILL",
+        "DILAPIDATED LIVING ROOM",
+        "NEIGHBORING HOUSE, SEEN FROM WINDOW",
+        "DUFF'S CAR",
+        "PROPRIETOR",
+        "FLAT BED TRUCK",
+        "DOWNTOWN STREET",
+        "CHURCH YARD",
+        "OWNER",
+        "LIVING ROOM",
+        "URBAN CEMETERY, BIRMINGHAM",
+        "UNDERTAKER",
+        "BAR",
+        "JOE",
+        "MANAGER",
+        "DAWSON PARLOR",
+        "POOL HALL",
+        "RAILROAD TRACK",
+        "CLASSROOM",
+        "THIRD WHITE",
+        "DANCE FLOOR",
+        "DUFF",
+        "SUPERVISOR",
+        "WILL ANDERSON'S ROOM",
+        "ROAD HOUSE",
+        "OPEN FIELD",
+        "ALLEYWAY, BIRMINGHAM",
+        "WHITE",
+        "REVEREND DAWSON",
+        "FOREMAN",
+        "DOORWAY",
+        "COUNTRY ROAD",
+        "FRONT YARD, DAWSON HOUSE",
+        "LEE",
+        "STREET",
+        "SECOND WHITE",
+        "BEDROOM",
+        "WILL'S ROOM",
+        "HOTEL LOBBY",
+        "DRIVER",
+        "WOMAN",
+        "JOSIE",
+        "DAWSON PORCH",
+        "BARTENDER",
+        "KITCHEN",
+        "DUFF AND JOSIE'S KITCHEN",
+        "EFFIE'S PARLOR",
+        "DUFF AND JOSIE'S LIVING ROOM"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "The dormitory of the section gang. The men are through fo lounging on their bunkbeds. DUFF ANDERSON plays checkers bottle tops as pieces. Duff makes the winning move and Fr turns over the board. He saunters over to JOCKO, who is s mirror. Frankie watches him with a grin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go to hell, Frankie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, you sure one ugly cat! He takes the cigarettes Jocko has rolled, sailor-style, i his T-shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why don't you guys buy your own?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Oughta give up smoking, Jocko. He stops in front of an older man, who is writing a lette",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How much longer we got on this stretch, Riddick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Five weeks, maybe six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, what a dump. He circles restlessly past two cardplayers back to Duff, fingernails.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What you gettin' all pretty for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  Why don't you relax, Frankie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAILROAD TRACK",
+          "text": "Duff, Frankie, and Jocko are riding a track-car, powered into the nearest town. The sun is setting. A church bell",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POOL HALL",
+          "text": "Jocko, a cigar in his mouth, is playing a pinball machine stand at the bar. They are joined by DORIS , a sad-lookin skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who's going to buy me a beer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(scornfully)  What's the matter, Doris? Business bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It sure is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everybody givin' it away free, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gonna buy me a beer, Frankie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See Duff. He's the money man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What d'you say, Duff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to the bartender)  Give her a beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks, Duff. You' a nice guy. Not like Frankie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know, Doris - you'd make some guy a swell  wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You think so, Frankie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, you got steady work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quit ridin' her, Frankie. The bartender serves her a bottle of beer",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I ain't ridin' her. Wouldn't ride her on a bet. Duff pays for the beer and turns to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where' you goin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Want me to come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on, honey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where' you goin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Round town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's so hot 'round town?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  Take it easy, Frankie. He leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't wanna fish you outa no jailhouse. STREET (Night) Duff is walking along the deserted street in the black pa Music from the pool hall fades and we pick up the strains from a nearby church.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The choir is singing \"Precious Lord.\" The women are spiri congregation in the small wooden building is alive to the Duff appears in the open doorway and stops to listen. When the song ends, REVEREND DAWSON rises from his chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm glad to see this meeting off to a good  start. Now we'll take a break and then come back  to hear from our distinguished guest - Reverend  Butler of the Morgan Street Baptist Church in  Birmingham. See you all in a little while. Reverend Butler compliments him on the choir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHURCH YARD",
+          "text": "Long tables laden with food are lit by strings of lightbu gospel piano from inside the church. A smiling middle-aged woman has taken Duff in tow and lea young woman (JOSIE), who is serving food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Josie - this is Brother Anderson. Now you give  him some of that good food. He's a fine young  man.  (on her way)  Ain't it a wonderful meetin'?! Duff studies Josie with a smile. She is clearly middle cl food on a paper plate, she glances at him - matching his with her own. She hands him the plate",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you, Ma'am. That's fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You must be new in town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  I'll have me some of that punch there, too. She serves the punch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Haven't seen you around, have I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. I'm new in town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(unwilling to give up)  You working?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. On the section gang. He is sure that this will put a stop to her curiosity. It",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(interested)  Oh yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You work around town?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm a teacher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Went to college, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In Birmingham.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yeah? That's my home town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your folks live there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. My mother's dead. (after a moment) You goin' back inside?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, aren't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. Never had much use for hell-howlers. You  goin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a smile)  My father's the preacher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(grinning)  Oh yeah? Well, I guess you got no choice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(a bit tentatively)  Look, I don't know what you been told 'bout  section gangs, but how 'bout seein' me sometime?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a non-committal smile)  Maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The visiting revival preacher is in full swing, preaching congregation of women is in a state of high excitement. J of it, though she sits in their midst. Duff has been standing in the doorway. He turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff walks away, past a shack. The singing fades. A dog b BUNK CAR (Night)  Duff, Frankie, Jocko, and an older man (POP) are playing for his turn, Jocko catches a fly and sneaks a look at Fr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got a lousy hand, Frankie. Frankie throws down the cards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, I quit. He gets up. At loose ends, he picks up an old Flit-gun an Duff, who is polishing his shoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got nothin' on your mind but your hair,  Frankie. How 'bout your car, Riddick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, you can have it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, you won't like that back seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, why 'you messin' around with a gal like  that? You won't get no place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, they're all after the same thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. All a colored woman wants is your money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What d'you know about women, Pop?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I got married to one of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, I didn't know you was married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure. Got a sixteen-year-old girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is that right?  (to Duff)  Think you're gonna make it with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just get her drunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Riddick)  How 'bout the key?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I bet she's easy jam. DAWSON DINING ROOM (Night) A middle-class tableau. Dinner is over. Reverend Dawson i Josie, dressed for an evening out, sits across from her s looking at her with pursed lips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know you pay no mind to my feelings, but  d'you think it's right for you to go out with  him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm twenty-six years old, Susan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Perhaps you ought to tell her, Frank. Reverend Dawson has no stomach for confrontations, but tu dutifully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, we have a position in town, Josie. You  have to remember that. There're lots of other  young men.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't think your mother would have approved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, there's just one thing you can be looking  for in a man like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know that's what you think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hush your mouth, child. The doorbell rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(leaving the table)  Good night, Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROAD HOUSE",
+          "text": "On the dimly lit, smoke-hung floor a large crowd is danci a great time. When the music ends, she and Duff return to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's pretty good for a preacher's daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What d'you expect?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know, baby, I can't figure you out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How d'you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why d'you come out with me? You slummin' or  something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what you doin' with a cat like me in a joint  like this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't think much of yourself, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(put off)  Well, that's a funny thing to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You keep asking me why I'm here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, and you keep not answerin', too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I like a place with lots of life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How about another beer?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go on - you can have one! His attention is drawn by something off screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is it? Frankie and Jocko swagger toward them, beer in hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, if it ain't Duff!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How you doin'? (to Josie; with  a bit of a leer) Hi there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mind if we sit down?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We was just leavin', fellows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go, Jocko. The man's got homework.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(leaving)  See you, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, see you in hell. Frankie follows Jocko out of the frame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They must work on the section gang.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, they seem just like everyone else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, baby, I bet you think we got tails.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(off-screen)  We do! Frankie and Jocko have occupied the adjoining table and a Duff gets up, camouflaging his irritation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on, baby. He ushers Josie out. Frankie looks after them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "School teacher! My nappy head! INT. RIDDICK'S OLD CONVERTIBLE (Night) Duff has parked on a country road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess it's hard working on the road like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Damn few places you can make eighty bucks a  week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I mean, you're kind of cut off, aren't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's fine with me. Keeps me out of trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How d'you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I don't get on so well most places.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I see. That beer made me dizzy. Duff is looking at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got a lovely face, kid. Ain't too often I  get to meet a girl like you. Hell-- He kisses her, but releases her very quickly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Baby, how many times' you been kissed? Josie takes a moment to collect herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, let's see now - not counting tonight ...  must be about twenty-eight times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  You got a problem all right. Someone moves in back of her. A white man in his early tw from the dark and looks down at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a smile)  Hi. The voice of a second white man calls from off screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They doin' anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(calling back)  Nah, nothin'!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get out of here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(frightened)  Don't Duff--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Relax, man! The second white man joins him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's goin' on? He shines his flashlight into Duff's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cut that out! The white man shines the flashlight across Josie's breast",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(very tense)  I said: Cut it out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't start no trouble, boy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go! That's the preacher's girl. Mess with  him and you got old man Johnson on your back.  Come on. The white men leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Take it easy. We see that he has a knife in his hand. He closes and poc The white men drive off, whooping and beating on the side",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't sound human, do they? INT. MOVING CAR (Night) Duff is driving through the center of town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How come you stay 'round here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, my mother was the only good teacher the  colored school ever had. Nobody bothers with  those kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's why you come back, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's hard to see any change. But I'm going to  stay. Another year, anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got more guts than me, baby. It's a no-good  town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's better than it used to be. Eight years ago  they still had a lynching here. They tied a man  to a car and dragged him to death. My father  knew who did it, but he didn't say anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Scared, huh? The car pulls up in front of the Dawson house and Duff pa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, good night, baby. He is about to kiss her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not here, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I get it. (with a laugh) Yeah, I can see your old man with a shot-gun  right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But I would like to see you again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You would, huh? If I was you, baby - I wouldn't  go 'round stickin' out my jugular vein.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What d'you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You almost got into trouble back there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a smile)  I wouldn't have let you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, baby, I'm not in the third grade. Well,  look - what' we gonna do next time -- have a  nice long chat in the parlor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, on the porch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yeah, and then what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, either we're gonna hit the hay or get  married. Now you don't want to hit the hay, and  I don' want to get married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have some very primitive ideas, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(defensively)  All right, so I'm primitive. So what d'you want  with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, Duff - most of the men I know - they're  kind of sad. When I met you the other day I had  a feeling that you're different. That's why I  went out with you. I thought we might have  something to say to each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, baby, I don't know what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good night, Duff. She gets out of the car and starts toward the house. He looks after her, then drives away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPEN FIELD",
+          "text": "The section hands are hunting rabbits, scaring them up ou and then clubbing them with sticks that have a heavy bolt Jocko is fishing from a trestle. Pop fries skinned rabbit is whittling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLASSROOM",
+          "text": "The grade school children, all black, are writing at thei The end-of-school bell rings and one of the boys jumps up",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you finished, Jackie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, Ma'am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I'm not. Wait till class is dismissed. She walks over to close the window. In the yard below, Duff is sitting on one of the swings. Josie smiles and turns to the kids --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All right. Class dismissed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A bus crowded with noisy kids pulls away to reveal the ya are sitting on two swings side by side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "At first it was real strange. Hell, Japan is a  long ways from Alabama. Really got under my  skin, though. Almost didn't come back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know. 'Guess I belong here more than  there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Been up north?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Knocked around for a couple of months  after the Army. You been there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, it ain't that good up there neither. Might  as well make it here. 'Course I ain't really  makin' it now. He gets up and gives her swing a forceful shove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anyway, they can't get to you if you keep movin'! Josie laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRONT YARD, DAWSON HOUSE",
+          "text": "It is raining. Duff and Josie dash up the path to the fro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAWSON PARLOR",
+          "text": "Duff and Josie barge in out of the rain and find themselv Reverend Dawson and a middle-aged white man - Superintend",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on in, Josie. We're all through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Daddy - this is Duff Anderson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All right, son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is Mr. Johnson, our school superintendent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a friendly smile)  How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll be right back. She leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you're courtin' the preacher's girl. Well,  just watch your step, boy, or he'll preach you  right into hell.  (to Reverend Dawson)  I'm counting on you, Reverend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wouldn't do for one of your people to sue at a  time like this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(on his way out)  I'll talk to the Mayor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That'll make the folks very happy. Johnson leaves. Reverend Dawson sits down in a rocker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's hard to know how to talk to the white folks  these days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Guess it's never been easy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's a changing time. Sit down, son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you. He sits down opposite Reverend Dawson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, it looks like we'll be getting our new  school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How come you all ain't sendin' them to the same  school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, you've got to go easy. We haven't had any  trouble in town for eight years, and we're not  going to have any now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can't live without trouble, can you?  (he sees he is on  the wrong track)  Nice place you got here. Real nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, the Lord's been pretty good to us. I  guess you're a church man, aren't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess I ain't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why? Don't you believe in the Lord?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, I do. But 'seems to me us colored folks do  a whole lot of church-goin'. It's the whites  that need it real bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think if you tried livin' in a town like this,  instead of running free and easy, you'd soon  change your tune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I doubt it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I see.  (rising)  Well, I guess we don't have much to say to each  other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And since we're talking, my wife and I don't  want you hanging around our daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, that figures.  (he too stands up)  Kind of fits in with everything else, don't it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAWSON PORCH",
+          "text": "Duff comes out. Josie joins him a moment later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ain't your fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's the way he is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. It's just like I figured.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What d'you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, I don't belong here. I don't know what I' been thinkin'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, Duff - if you're free, I'm not working  tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sorry, baby. I'm goin' to Birmingham.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just for the day?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goin' to see my kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I didn't know you had one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Well, I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you married?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I ain't married. (leaving) Well, good-bye. COURTHOUSE SQUARE (Morning sunshine) A bus has pulled in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff is making his way down the aisle. To his surprise, h who is sitting at a window with an empty seat next to her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  Well, what-do-you-know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Surprised?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. Women're always followin' me 'round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm just going in to do my shopping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, it's just a coincidence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(moving on)  I'll see you later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come here, Duff. No point running away from  coincidence. He sits down next to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Baby, you must be crazy. The bus starts up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How old is your boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's he like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I ain't seen him in a couple of years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALLEYWAY, BIRMINGHAM",
+          "text": "Duff is walking past crowded back-porches in a black sect music. He steps up onto one of the porches and knocks at the scr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EFFIE'S PARLOR",
+          "text": "Through the screen door we see EFFIE SIMMS, a woman in he sitting on a chair and cradles a sleeping child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'You Effie Simms?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(suspiciously)  What d'you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Guess you must be lookin' after my boy. I'm  Duff Anderson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Bout time you showed. Door's open. Duff enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(calling)  James Lee, you come in here and meet your daddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's Wilma?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She done moved to Detroit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ain't she goin' to take the boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She got herself a husband now. They don' want  him 'round. And I tell you, man, I got no use  for him neither.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I been sendin' her money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, she never gave me none. Look, you better  find him a place pretty quick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know. He's your boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I ain't so sure of that. If I was, maybe I'd  feel different. Effie gives him a scornful look, puts down the child, and that leads into the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sharply)  James Lee - I said for you to come in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BEDROOM",
+          "text": "Two children are playing on the floor. James Lee is up on convertible. Duff appears beside Effie in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How 'you been, boy? James Lee looks at him, scared and silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go on. Tell him. She returns to the parlor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got you something. He crouches down and holds out a toy. James Lee approache and withdraws.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EFFIE'S PARLOR",
+          "text": "Effie is folding diapers. Duff comes out of the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Doctor says he could use some shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Look, I'll be sendin' you the money from  now on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Make sure he gets those shots. He looks back at the boy in the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They say your dad's 'round town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'That right? I thought he was up North.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "People seen him 'round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's he at?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STREET",
+          "text": "Duff is walking through a black section of town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff climbs to the top of the rickety wooden steps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL ANDERSON'S ROOM",
+          "text": "Duff's father, a big man in his fifties, is reclining on Duff appears in the open doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'You Will Anderson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who're you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sitting up, with  a faint grin)  Wouldn't have known you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wouldn't have known you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's on your mind?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nothing. Heard you were in town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wanted a look at your old man, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. That's right. Will gets up and crosses the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How about a drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay. Will pours whiskey into two glasses. Duff sees that Will' empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Workin' a saw mill. (raising his glass) Here's to. A woman in her late thirties (LEE) comes in with a shoppi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Baby - want you to meet Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(flatly)  Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's my son! She turns and looks at Duff with a glimmer of interest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come and have some coffee. (sitting down) I'm Lee. Sit down. He joins her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on, Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's the matter?! You mad at me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sitting down)  Nothin'.  (to Duff)  She's all right. Wouldn't have made it without  her. Christ - haven't worked in eight months.  Right now, I'm waitin' for some insurance money.  And man, when I get it, I got plans to make me  some more.  (he gets up restlessly)  Let's get out'a here. This place gives me the  willies. (to Lee) You got some money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(she knows what's coming)  Let's stay here, Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(aggressively)  What's the matter?! It's a celebration!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAR",
+          "text": "Will, Lee, and Duff are standing at the bar. Will has bee",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what's this about a woman? You got woman  trouble?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I said, I come to town with a girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Plannin' on getting married?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Don't sound so sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, matter of fact, I done a lot of bangin'  'round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. That's how me an' your mother got started.  I'm tellin' you, boy, you ain't got a chance  without dough. They take it all away from you. He drains his glass and puts it down for Lee to refill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pour your own trouble, Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your mother used to lay for her boss, boy. Did you know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shut up, Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, so what's a girl supposed to do? Me not  workin' and her cleanin' house for a white man.  I'm tellin' you, boy, keep away from marriage.  Ya gotta stay light on your feet or you won't  make it. He puts his hand on Lee's bare arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is she good in the hay? No point marryin' her  just to find out. Is there, baby?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you don't quit it, Will, I'm leaving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're breaking my heart. (he grabs her neck  and shakes her) Got to see a man about a dog.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DANCE FLOOR",
+          "text": "Duff and Lee are dancing. She looks at him with a touch o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't let him get you, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How often does he get like that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whenever he's got an edge on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How often is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's been hitting it pretty hard. Got high  blood pressure, too. I guess it's hard on him,  having you around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAR",
+          "text": "Will is back and drinking when Duff and Lee come off the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(aggressively)  Well, what d'you think of her? Duff says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I asked you somethin', boy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I heard you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pretty good for a one-armed nigger, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What d'you want anyhow? What you come and  bother me for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's your son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, boy, beat it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got the point. He leaves money on the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come back some other time, will you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, sure. Good luck. DOWNTOWN STREET (Night) Duff is walking, lost in thought. INT. BUS DEPOT (Night) Josie enters with her purchases. She joins Duff at the sa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(relieved to see her)  I thought you wasn't comin'. She sits down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How did it go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to off-screen waitress)  I'll have some coffee, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know, I been thinkin' - how 'bout us gettin'  married? Josie is stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(playing for time)  What d'you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just what I said. Don't look so scared. The waitress puts down a cup of coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What happened, Duff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, baby - I don't know 'bout you, but it's  the right thing for me. I just know it is. So,  what d'you say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't push me, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Wouldn't be no picnic for you. I ain't  exactly housebroken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about that girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She don't mean nothin' to me. That's all over. (after a moment) Hell, baby - I'm askin' you to marry me. I  guess you want a big scene, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. But a small one. They look at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's yes, huh? INT. BUNK CAR (Day) Frankie is looking scornfully at Duff, who is lying on hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll be a monkey's kid sister! What d'you want  to do a thing like that for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Musta knocked her up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What're you gonna get out of it, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a smile)  A whole lot, Frankie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(aggressively)  Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like a home, for one thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gonna sit at home the rest of your life?  Jesus!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, it's better than windin' up like a bum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(defensively)  What 'you signifyin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wasn't thinkin' about you, Frankie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ol' Doris sure goin' to miss you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just give him a couple of months. A girl like  that, she don't know any tricks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know what Doris told me? She say: That  Duff's a nice guy. Wouldn't even charge him  nothin'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess you'll be quittin' the railroad, huh,  man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, you must be plumb outa your mind! You'll  be makin' twen'y bucks a week, if you're lucky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Josie is next to Duff. They are driving past a row of sma in the black section of town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Turn here. There it is! They stop in front of a house. It is barely larger than a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DILAPIDATED LIVING ROOM",
+          "text": "Duff and Jose come in. The room is full of abandoned, bro the ceiling and wallpaper hang down in strips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I used to know them. They've gone North.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a laugh)  I can see why.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, what d'you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's okay with me, baby. But how' you goin' to  like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It'll be fine when we get done with it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff is looking out through the broken pane of glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIGHBORING HOUSE, SEEN FROM WINDOW",
+          "text": "A woman is putting laundry into a washing machine on the children are all around her and in the yard below.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Josie has stopped next to Duff and looks out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's Bessie Hall. Barney works at the mill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah? Josie removes a shard of glass from the window; a larger",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey, watch out! Guess you want a house full of  pickaninnies too, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't call them that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's all right with me. Always liked kids. He moves to the rear of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIVING ROOM",
+          "text": "Josie turns to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about your boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(defensively)  What about him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He could live with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's just see how the two of us make out  first, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff and Josie are getting married. Duff is waiting near section hands are seated on one side of the aisle, Josie' on the other. The gospel piano segues into the wedding ma down the aisle by herself. She joins Duff and they step f Reverend Dawson. DUFF AND JOSIE'S BEDROOM (Early morning)  Josie lies in bed with closed eyes. She hears Duff move a is dressed for work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good luck, baby. He sits down beside her for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff is in the rear seat with his new neighbor, Barney.  Joe, a millhand, sits next to the driver in front. He tur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hard to get up in the morning, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  That's right. How' you doin', Barney?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(not given to saying much)  Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car drives up and Joe leans out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on, Willie! Willie, a big man, has been fixing his front step.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just a minute, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on - we're late!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(taking his time)  Yazzuh, Boss - ah's comin' as fast as ah can. He picks up his lunch box and shuffles toward the car, St",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(laughing)  Get in the car, man!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Willie climbs in next to Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How' you doing, man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay. (to the driver) Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right, Jethro - take us to the plant.  And hurry, boy - ah's got a heavy day. The driver backs up fast, jerking the passengers forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah tells you, man - you give these niggers a  machine and they go stark-ravin' wild! Laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff is among the mill hands punching in on the time cloc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(off screen)  You new here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILL YARD",
+          "text": "Duff and two other men are working on top of a pile of lu A white supervisor on a forklift has been watching them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(calling)  Hey, Jack! Duff doesn't respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey, boy - I'm talkin' to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(after a moment)  Name's Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How 'you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(genially)  Looks like you're doin' a good job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't say much, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Guess I don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just so you do your work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The mill hands are on their lunch break. The only white m looking at Duff with a grin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, I bet those black girls really go for you,  huh? That's the best-lookin' colored girl in  town. Duff is eating and says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's the matter? Still on your honeymoon,  huh? Just like you, Barney. 'Been on your  honeymoon for twen'y years, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(cautiously)  Yeah. The white mill hand helps himself to a piece of Barney's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How many kids you got now, Barney?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(eating the pie)  Hmmm - she can cook,too. Man, it's no wonder you  'been draggin' your tail on the job. You 'been  doin' your best work at home. He notices that Duff's face is set.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(aggressively)  What's the matter, boy? Never smile?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll smile when it's funny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So it wasn't funny, huh? Well, I thought it was.  What d'you say, Barney? Wasn't it funny?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, it was funny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure.  (to the others)  What d'you say, boys? Wasn't it funny?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Duff)  Trouble with you, boy, you ain't got no sense  of humor. Ought to smile more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You' new here, man!  (he gets up to leave)  See you, boys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Duff after a moment)  You know, man, that guy was trying to be  friendly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That ain't my idea of friendliness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got to watch yourself pretty close.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, you want to get along, act the nigger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like hell. You know, if you fellows stuck  together 'stead of letting them walk all over  you, they might not try it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like hell they wouldn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They been doin' it all my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maybe it's time you stopped letting them. Jesse, a heavy-set man who has been silent till now, stan Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, you sound like a trouble man. EXT. DUFF AND JOSIE'S HOUSE (Dusk) The lights are on inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF AND JOSIE'S KITCHEN",
+          "text": "Duff is finishing his supper at the table. Josie is at th coffee. She puts a piece of pie in front of him. He drink the bottle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Use the glass, honey. That's what it's for.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  Is that so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, that's so. She returns to the stove. Duff picks up the pie and sniff",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Smells like something crawled in there and died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(innocently)  Oh really? I thought it was pretty good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come here, baby. He gets her to sit on his lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everything you cook is good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff - you know those women you used to know-- He forks a bite of pie into her mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(her mouth full)  Am I as good as they?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(drinking)  Hmmm - good coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You didn't answer my question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Baby, you're the best thing that ever happened  to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You still didn't answer my question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, if you don't know I can't tell you. She elbows him in the stomach. He laughs. BACKYARD (Night) Duff is helping Josie take in the wash. Music from Barney",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know how to box?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My kids want me to teach them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay. Come on. Put 'em up! She assumes the posture of a boxer. Duff laughs and adjus",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like so. There you go. Okay, hit me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want to hurt you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go on - hit me! She does.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ooh! My, oh my! They spar - briefly in sync with the music. She goes afte arms. The music is turned off abruptly and we hear Bessie's rai out on the porch of her house, yelling at Barney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just leave me alone! You can sit out here all  night. I don't care what you do! You're no good  around the house anyway. Barney remains silent. Duff and Josie exchange a look. DUFF AND JOSIE'S BEDROOM (Night) They are in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(gravely)  It sure scares you, a guy like that - settin'  out on his porch, doin' nothin'. I seen hundreds of them - all my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My father's never done a thing for any of them. He touches her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm very happy, Duff. How about you? He smiles. Josie gets up and slips out of her nightgown. Her body me darkness. DUFF AND JOSIE'S LIVING ROOM (Evening) The place has been painted and simply furnished. Josie has made dinner for the section hands. Pop is the o eating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You sure done a great job, Mrs. Anderson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks, but you haven't eaten very much. How  about it, Frankie? I bet you could eat some  more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Duff)  How's that job comin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, it ain't the railroad. Those guys are  scared. Guess they've never known nothin' but  takin' it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with an edge)  They all got families to support.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(good-naturedly)  Yeah. That's right, Jocko.  (to the others)  Those white guys sure shoot up at you like a  yeast cake if you just cock an eye at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sarcastically)  I guess you'll be making' some changes 'round  here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a grin)  What's eatin' you, Jocko?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nothin'. I just figure you were the right man  for the job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(changing the subject)  I guess you'll all keep workin' together, won't  you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Heck, no. They're shippin' us all over the map.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's too bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you wan' 'em, there's some expert dishwashers  here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, thanks. My kitchen's too small. Riddick gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, fellows - let's give the folks some  privacy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOORWAY",
+          "text": "The men, on their way out, shake hands with Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good-bye, Frankie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Got a good thing, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Take it easy, Pop.  (shaking Riddick's hand)  'See you before you take off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "'Bye, Jocko. BATHROOM (Night) Duff is washing his face at the sink. Josie comes up behi her nightgown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff. He turns to her. Instead of speaking, she turns her back",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My back itches. He scratches her back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How would you like to have a baby, Duff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't look so scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You jivin' me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I haven't come around. Duff is taken aback.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ain't that something?! (recovering) That's just fine, baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We'll be all right. He kisses her and sits down on the rim of the bathtub.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, we sure hit the jackpot fast around here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about your boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "How come you keep askin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "I keep thinking about him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Well, he ain't mine, so skip it. She gargles. Duff moves over to her with a grin and puts",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Baby, we're goin' to put a whole lot of little  kids into this world. Hell, we'll swamp 'em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOCKER ROOM, MILL",
+          "text": "The men are done for the day. Duff is putting on his shir the shower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Hell, if they can do it in Birmingham - and  that's a mean town, we oughta do something here. Willie says nothing. His eyes are on a white supervisor, the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "'You Duff Anderson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "Want to talk to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "I hear you're tryin' to organize this place!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I don't know what you're talkin' about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "That's no way to talk, boy. Now we had one of  them union men 'round here coupla years ago.  Stirred up a lot of trouble. They're always  after you colored boys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I still don't know what you're talkin' about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "You a union man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Used to be. On the railroad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "Uh-huh. Well, this ain't the railroad. Now  what's all this talk about stickin' together?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Well, what d'you know?! He looks over at the other men. They avoid his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "Look, boy, we got a smooth operation here, and  I aim to keep it that way. Now I got an idea  you're plannin' trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "No. You got the wrong idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "All right, then. All I want you to do is tell  these boys here you didn't mean what you said about stickin' together an' all. Duff says nothing. The mill hands watch him silently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "Want to keep your job, boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "What d'you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "Then do like I said. (to the men) Men - this boy here's got something to tell  you-all. (to Duff) Well, how about it? Duff looks at the supervisor in silence, fully aware that fired. He turns and opens his locker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUPERVISOR",
+          "text": "Boy, you're actin' like a nigger with no sense.  All right, go down' the office and get your pay.  Tell them you're through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF'S CAR",
+          "text": "He is driving past Josie's school and slows down. The kid yard but Josie is not in sight. He accelerates, his face DUFF AND JOSIE'S BEDROOM (Night) Josie is correcting papers on the bed. Duff is at the man cat. He puts a small box over its head. The cat cries out clumsily, trying to free itself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Don't, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah. He sits down. Josie comes over and sits on the arm of the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I'm jumpy, that's all. She runs her hand through his hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Well, you've had quite a day. He brushes her off:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I don't like bein' mothered. When she touches him again, he jumps up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Jesus, baby -- leave me alone, will ya? He flings himself down on the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(sitting down beside him)  Don't deny me, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Hell, baby - I met this beautiful chick and  she's just dyin' for me, okay? She takes him by the shoulders and shakes him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Don't be so silly. Duff laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah. But just how're we goin' to make out? I  got to get me a job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "You will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Pay is so damn low. I don't want my kids to  grow up like Barney's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "They won't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I'm telling you, baby, maybe we better get out  of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(gravely)  We can always do that, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah. Yeah, I know. I'm not really thinkin'  about it. Anyway, don't want those white guys  laughin' up their sleeve at me when they see  me pull out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff waits outside the open window, while the white man i his job application.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITE",
+          "text": "Yeah, we can use you. Ever work a saw mill?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITE",
+          "text": "Where was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(after a moment's hesitation)  Walker and Williams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITE",
+          "text": "What did you say your name is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Anderson. The man checks for Duff's name on a list.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WHITE",
+          "text": "(turning to Duff)  Sorry, boy, there ain't nothin' here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff is sitting at the lunch counter. Joe, the mill hand,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "(to the waitress)  Hello, Frances. He sits down next to Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "How 'you doin' man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(non-committal)  Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "(to Frances)  Cup of coffee.  (to Duff)  I 'been meanin' to talk to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Oh yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "You know, over at the mill, there's just one guy  that talked. It's kinda late to say it, but we  shoulda acted different. The waitress brings his coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "Been over to the other mill?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah, I been there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "It's just that we're not used to seein' anyone  stand up 'round here. Kinda took us by surprise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Oh yeah? That's good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff is at the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Well, if you tried the mills, there ain't no  other industry 'round here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "How 'bout that furniture plant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "(with a laugh)  Man, the darkest thing they got in there is  Coca-Cola.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "Now, if you want to work like a real nigger,  you can always go out and chop cotton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(grimly)  They done that too long in my family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARTENDER",
+          "text": "They pay you three bucks a day an' all the  cotton you can eat. Duff laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL LOBBY",
+          "text": "Duff faces the white manager, who is behind the registrat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANAGER",
+          "text": "Yeah, I might have something for you, if you  want to put on a uniform. Duff looks over at the one black man in the lobby - a uni emptying ashtrays.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "What's the pay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANAGER",
+          "text": "Pay's ten dollars a week, plus tips and lunch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I see. Ain't for me, thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The white proprietor has rung up the order for an elderly",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PROPRIETOR",
+          "text": "Now what about soap?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "I got enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PROPRIETOR",
+          "text": "(insisting)  I got a good buy on soap. You go on over there  an' take a look!  (urging her on)  Right over there. The woman goes over to look at the soap. The proprietor t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PROPRIETOR",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I'm lookin' for work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PROPRIETOR",
+          "text": "I got a boy. Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He is driving through town at a fast clip. The car rattle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The staff and clientele are black. Duff enters and sits down close to Josie, who is having h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Don't ask, baby - huh! (lowering his voice) How much money you got with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "About ten dollars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Water pump's busted. I don't know if it's worth  fixin', but I need that car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "You can have what I've got. It's right there. Duff opens her pocketbook, embarrassed by the women watch",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLAT BED TRUCK",
+          "text": "It rattles over a country road between cotton fields. Duf field hands on the open flatbed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The white foreman is up on the loading platform. He addre field hands looking for work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOREMAN",
+          "text": "Startin' tomorrow mornin', we got work for  fifteen hands. All we're gonna pay is two-fifty  a day. Can't pay you the three 'cause ain't  gonna be much of a crop this year. Now you all  who want to work, step up and we'll take your  name. Duff is among the few who leave. The others surge closer ready to work for any wage. DUFF AND JOSIE'S PORCH (Night) Josie is sewing on the porch. Duff is in the yard a few f back of an axe to hammer loose nails into an old chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "It's not as hard on a girl. They're not afraid  of us. Duff says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "You know - we do have enough money. Especially  now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(grimly)  Sure, baby. 'Fact, I don't ever have to work no  more. When that baby comes, I can just stay  home and send you back to school. How about  that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "I'm trying to help, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(after a moment)  I could work even after the baby comes. A few  hours a week, anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "What the hell could you do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Day work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "'You kiddin'? You ain't goin' to no white home.  I seen the way they look at you when you go  down the street. He jumps up and raises the axe--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "No point fixin' it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(frightened)  What're you going to do? He smashes the axe into the chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(jumping up)  Don't do that!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Watch out! He smashes the chair to pieces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(throwing down the axe)  Good kindlin'! He turns to Josie. She is looking at him, deeply upset. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "What's bitin' you now!? She turns away. He jumps up onto the porch and grabs her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "You heard me! ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "I can't stand to see you like that. I know you  can't help it. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(darkly)  Stop bein' so damn understandin'. DUFF AND JOSIE'S LIVING ROOM (Day) Duff is on the sofa, looking up at Reverend Dawson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "I know just how you feel, son. But believe me,  you're going about it the wrong way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Don't look like there's a right way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "Well, you have to be reasonable. Now they say  you're a troublemaker. That's no good. Use a  little psychology. Make 'em think you're going  along - and get what you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "It ain't in me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "You'll be in trouble, son. (after a moment)  Now just how do you intend to support your  family?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I guess I'll rob a bank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "Don't you get smart with me, boy. We hear a dish break.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KITCHEN",
+          "text": "Josie is on the floor, picking up pieces of broken glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "Maybe you ought to move. You'd be a lot better  off in the North.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "So I been told.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "It's for your own good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Oh yeah?  (he gets up)  Seems to me, Reverend, you' more concerned  'bout your good. Guess it looks kind 'a bad,  havin' me for a son-in-law.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "You can be cocky now, boy. But you won't make  it. You won't last. I just feel sorry for Josie.  I knew it wouldn't work out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Well, at least she ain't married to no white  man's nigger! You been stoopin' so long,  Reverend, you don't even know how to stand  straight no more. You' just half a man!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KITCHEN",
+          "text": "Josie has cut her finger on the glass. She is weeping sil",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIVING ROOM",
+          "text": "Reverend Dawson turns to leave. His sense of calm superio",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "(at the door)  Maybe I could talk to Bud Ellis. He might have a  job for you at his filling station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Oh yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEREND DAWSON",
+          "text": "I'll be seeing you. Josie has come into the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(gravely)  'Bye, Dad. DUFF AND JOSIE'S BEDROOM (Night) Duff watches Josie. She is sitting at her dressing table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "How come you don't hate their guts?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "I don't know. I guess I'm not afraid of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "You were plenty scared that night in the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Just of getting hurt. They can't touch me  inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Like hell they can't. (he gets up) They can reach right in with their damn white  hands and turn you off and on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Not if you see them for what they are, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(exploding)  Jesus, baby, you're so full of talk! Well, you  ain't never really been a nigger, have you -  livin' like that in your father's house! So  just shut your mouth. EXT. GAS STATION (Night) Duff finishes pumping gas into Joe's car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "That's two bucks, Joe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "(paying)  Why don't you come over for a beer when you get  through?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Okay, I will. Brad Ellis, the white owner of the service station, comes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELLIS",
+          "text": "Hey, Duff! Run the truck down Holly Road.  There's a guy in the ditch. CAB OF TOW TRUCK (Night) Duff is driving along a wooded country road. Shreds of fo headlights. A ditched car comes into view, its front end crushed agai white man stands beside it, waving to Duff with a flashli and backs up to the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTRY ROAD",
+          "text": "The owner comes toward him eagerly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Sure glad to see you, boy. Duff gets out of the tow truck to inspect the damaged car him, nervous and garrulous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Guess I was kinda lucky, huh? My wife's going to  give me hell. Duff lowers the hoist on the truck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "(anxiously)  How you doin', boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Okay. He gets under the car to attach the chain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Want me to hold the light for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "No, thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Just tryin' to be helpful. He continues talking, though Duff can't hear him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Most folks around here got no use for nigrahs.  Got to understand them, that's all. How you  doin', boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(emerging from under the car)  Okay. The owner tests the rig with his foot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Seems a little loose!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(with a grin)  She'll do. He starts raising the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "She ain't comin' up even! Duff ignores him. The chain slips and the car drops to the ground with a ba",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "(jumping back)  Jesus, I told you to watch it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Sorry. He gets back under the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "That's the trouble with you boys! Don't listen  when a man tells you something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "She don't look no worse to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Don't do her no good to get banged like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(under the car)  Don't do her no good to go into a tree.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "(enraged)  What did you say, boy?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I said, she's in great shape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "I heard you! Now 'stead of bein' smart, you just  get that car out of here! GAS STATION (Night) Duff is changing a tire outside the repair bay. A car shoots out of the dark with its horn blaring, and s at the pump. Brad Ellis steps up to the driver.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELLIS",
+          "text": "Can I help you? The driver is the white mill hand who gave Duff a hard ti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "(indicating Duff)  Like some service from that boy there. Like the  way he takes care of us. ELLIS Okay. Duff has come over. He is aware of impending trouble. One car is the owner of the ditched vehicle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Fill her up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "No, boy. Thirty-eight cents worth of gas. And  watch you don't make it thirty-nine. Duff starts the pump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Didn't hear you say \"Yessir!\" Don't they say  \"Yessir\" where you come from? Duff finishes pumping and puts the nozzle back onto the p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Boy - you hear me?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "That'll be thirty-eight cents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Goddamnit, nigger - you must think you're white!  Who d'you think you are - king of Harlem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND WHITE",
+          "text": "How 'bout this windshield, boy? Like a little  service. Duff takes a moment before moving to the windshield and w inside the car watch him through the glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD WHITE",
+          "text": "Hell, they're getting' too big for their  britches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND WHITE",
+          "text": "Yeah, his wife's the same way, struttin' through  town like she owns the place - shakin' that  little rear end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD WHITE",
+          "text": "It's all that education they're getting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Real cool, ain't he! Just like we're not here. Duff moves over to the driver.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "That'll be thirty-eight cents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "You in a big hurry, boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND WHITE",
+          "text": "Yeah, he's tryin' to get home!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Bet she's pretty hot, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(very tense)  You watch your mouth, man! The driver has finally found a way of getting to Duff and his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "I bet she's a sly little nigger, that girl.  Wouldn't mind a piece of her myself!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "All right, you get out of here, man!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "(exploding)  Who're you tellin' to get, boy?! You watch it,  or there'll be some dyin' done 'round here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "That dyin's gonna be done two ways. He steps away from the car, a hand on the rear pocket whe knife. In the backseat, the owner of the ditched car looks nervo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OWNER",
+          "text": "Let's go, Al. He ain't worth it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "(turning on him)  Now you stay out of it! Brad Ellis has come over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELLIS",
+          "text": "What's goin' on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "You better get rid of this white-eyed nigger!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELLIS",
+          "text": "(to Duff)  What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Never mind! You keep him workin' here and this  place won't be around. And I ain't kiddin'! He guns the engine and shoots out of the service station Duff looks at Ellis, whose next move is predictable, and run a water hose over the back of his neck. Ellis stops next to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELLIS",
+          "text": "Guess we got trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(blowing up)  You ain't got none, Mister!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELLIS",
+          "text": "I'm sorry, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(tossing down the hose)  Don't tell me. I know. DUFF AND JOSIE'S LIVING ROOM (Night) Duff enters. Josie comes out of the bedroom in her nightgown. She has",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "I called the gas station. I've been worried. Duff slumps down on the sofa, utterly discouraged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Hell, if they don't blow up his place, they'll  get him some other way. Don't make no difference  no-how.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(anxiously)  What d'you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Nothin. Quit lookin' at me like that! He gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "(approaching him)  Duff, I love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Well, that don't do me one bit of good! She touches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Come on, Duff - let's go to bed. He gives her a sudden, violent shove. It sends her sprawl She picks herself up, weeping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I never should have married you in the first  place. He stares at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Ain't you goin' to say something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "There's nothing to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Well, that'll be the first time. He leaves the room. DUFF AND JOSIE'S BEDROOM (Night) Duff is packing his things. Josie is on the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Where're you going to go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "When I get set, I'll send for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "I don't think that'll happen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "You'll be better off without me. I ain't fit to  live with no more. It's just like a lynchin'.  Maybe they don't use a knife on you, but they  got other ways.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "You're not a man because of a job, Duff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "You don' know nothin' 'bout it, baby. Nothin'!  And don't kid yourself - you did your bit. He closes his bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOSIE",
+          "text": "Duff--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(at the door)  Like I said, baby - I'll write you. INT. DUFF'S CAR (Dawn) He is driving across a bridge into Birmingham.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOWNTOWN STREET",
+          "text": "Duff stands on a deserted corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff climbs up to Will Anderson's room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL'S ROOM",
+          "text": "Will is sitting at the table in a drunken stupor. There i door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Who is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "It's your son. Duff enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "My son? I ain't got no son. You Duff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Beat it! He gets up and staggers toward Duff",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Take it easy, Pop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "What's the matter? Don't smell so good, huh?  Must'a broken some records. He pushes Duff away and pours himself a glass of whiskey. shaking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "(trying to restrain him)  Come on, Pop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "Nothing you can do. Been like this for days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Got no use for nobody. He raises the glass to his mouth, but drops it and puts h of his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "What is it? What's the matter? Lee grabs Will and pushes him onto the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "(at the end of her rope)  Now you lay down and get some sleep! Will grabs her blindly and pulls her down onto the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "(freeing herself, furious)  You let go! She starts picking up the broken glass. Will sits up agai",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "Now you stay put!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "(leaving the bed)  I ain't drunk, honey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "Like hell you ain't! He sits down at the table and touches the back of his hea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Got a thick feelin' here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "What's the matter now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Better now. (closing his eyes) Where 'you at?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "(concerned)  Right here. She puts her hand on his forehead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Couldn't get the words out before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Better get him to a hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Didn't I tell you to beat it - huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "(taking Will's arm)  Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Anything you say, baby. With Duff's help, Lee raises Will out of the chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff has helped Lee get Will into the backseat of his car Through the window we see him grope blindly for Lee's bre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Duff, in the driver's seat, is lost in thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "(off-screen)  Duff. Duff turns to her. Will's head is in her lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "He stopped breathin'. Duff stops the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The undertaker sits down behind his desk. He lays out Wil other belongings for Duff and Lee, who are standing in fr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "We thought you might want these.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "Would you like me to say anything tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Guess so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "Have anything in mind?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "No. What you usually say, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "Where was your father born?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I don't know. He looks at Lee. She shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "His profession?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Well, he worked around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "And his age?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "I don't know. Forty-eight, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "Any other family?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "No. Just me. (he includes Lee) Me an' her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNDERTAKER",
+          "text": "Well, I guess that's all till tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF",
+          "text": "Okay, thanks very much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "URBAN CEMETERY, BIRMINGHAM",
+          "text": "The mechanical arm of a backhoe opens up a new grave. Duff and Lee walk away from the burial site. The camera m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What're you going to do? Duff says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Want to come up the house? You can stay there  till you get on your feet. There's no point  paying a hotel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No thanks, Lee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's just that I hate empty rooms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, what're you going to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess I'll make me some trouble in that town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Going back, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They'll run you out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, they won't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How 'you gonna live?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can always chop cotton if I have to. (he stops) If you want a ride, I'll take you home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, thanks. I'll take the bus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't be too hard on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, I'm just like him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know he wasn't much of a father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who is?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good-bye, Duff. She walks away. BIRMINGHAM ALLEYWAY (Night) From the interior of Duff's car we see Duff come out of E carrying James Lee through the rain. He deposits the scar front seat and gets in on the driver's side. James Lee sh from Duff as the seat allows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(with a kindly grin)  That window's broke, boy. You stay over there,  you're gonna get awful wet. INT. MOVING CAR (Dawn) The sun is coming up through the trees. James Lee is asle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUFF AND JOSIE'S LIVING ROOM",
+          "text": "Duff brings in the sleeping boy and puts him down on the to get his belongings. Josie has woken up and comes in from the bedroom in her n James Lee and leans over him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(softly)  Hi. James Lee opens his eyes. Josie hears Duff enter and turns to him. They come togeth other for a long moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ain't gonna be easy, baby - but it's gonna be  all right. Josie is weeping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Baby I feel so free inside.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1367"
+    }
+  ]
+}

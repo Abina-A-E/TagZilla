@@ -1,0 +1,4782 @@
+{
+  "movie_id": "MOV1035",
+  "scenes": [
+    {
+      "location": "TWO-LANE HIGHWAY",
+      "time": "DAY",
+      "characters": [
+        "COPS",
+        "MITCH, (CONT'D)",
+        "JIMMY, (CONT'D)",
+        "MEDICAL TRANSPLANT PERSON",
+        "POLICEMAN",
+        "BANG",
+        "JUDGE",
+        "LAMPLEY, (CONT'D)",
+        "WE SEE J.Q.",
+        "MIKE",
+        "DR. KLEIN, (O.S.)",
+        "JURY FORMAN",
+        "LESTER",
+        "PARAMEDIC",
+        "MIRIAM",
+        "FIRST BASE UMP",
+        "GRIMES",
+        "DODGER PITCHER",
+        "COMPUTER COP",
+        "FADE IN",
+        "DR. TURNER",
+        "VIDEO TAP",
+        "WIFE",
+        "ON POLICE VIDEO TAP CAMERA",
+        "GRIMES, (CONT'D)",
+        "VIDEO CLIP",
+        "LAMPLEY",
+        "STEVE",
+        "PERSONNEL MANAGER",
+        "MEDIA",
+        "DR. KLEIN",
+        "STATE REP",
+        "STEVE, (CONT'D)",
+        "DENISE, (CONT'D)",
+        "MONITOR",
+        "SCOPE MATTE",
+        "MOODY",
+        "MITCH",
+        "PASTOR",
+        "SECURITY GUARD, (CONT'D)",
+        "SNIPER",
+        "MAGUIRE",
+        "UNOS OFFICIAL",
+        "JIMMY, (O.S.)",
+        "SHELBY'S WIFE",
+        "AT THE DEFENDANT'S TABLE",
+        "THE SNIPER",
+        "MONROE, (CONT'D)",
+        "SLO-MO",
+        "REPORTER",
+        "THE END",
+        "NEWS REPORTER",
+        "ON SCREEN",
+        "J.Q., (O.S.)",
+        "PITONIAK",
+        "UNOS OFFICIAL, (CONT'D)",
+        "GINA",
+        "SAAAAAAAAFFFEEE",
+        "MEDICAID OFFICER",
+        "MAN ON STRETCHER",
+        "PULL BACK TO REVEAL",
+        "ADMITTING NURSE",
+        "TV EXEC",
+        "BLAM",
+        "JUDGE, (CONT'D)",
+        "TOW TRUCK DRIVER",
+        "REGGIE",
+        "PUSH IN ON",
+        "DODGER SHORTSTOP",
+        "BLEACHERS",
+        "DEBBY",
+        "J.Q.",
+        "REGGIE, (CONT'D)",
+        "DENISE, (O.S.)",
+        "ROSA",
+        "MOODY, (O.S.)",
+        "VOICE IN CROWD",
+        "GRIMES, (O.S.)",
+        "DENISE",
+        "MIKE, (O.S.)",
+        "FADE TO BLACK.",
+        "PUBLIC DEFENDER",
+        "J.Q., (CONT'D)",
+        "SECURITY GUARD",
+        "MONROE",
+        "COUNTY EMPLOYEE",
+        "UMPIRE",
+        "CREDITS ROLL",
+        "JURY FORMAN, (CONT'D)",
+        "PAYNE",
+        "MEDIA MONITORS, POLICE VIDEO TAP, TV SETS",
+        "JULIE, (CONT'D)",
+        "PIMPLY FACED SECURITY GUARD",
+        "VIDEO IMAGES FILL THE SCREEN",
+        "HOME PLATE UMP",
+        "NURSE",
+        "SUPERIMPOSE",
+        "MOODY, (CONT'D)",
+        "DR. KLEIN, (CONT'D)",
+        "SHOTS OF TV SETS AROUND THE NATION",
+        "DR. TURNER, (CONT'D)",
+        "JIMMY",
+        "JULIE"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Mancini's \"Ave Maria\" fills the screen as a white BMW spe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREDITS ROLL",
+          "text": "A BEAUTIFUL WOMAN is behind the wheel. We never see her f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A slow-moving semi obstructs her path. The woman leans ou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Suddenly, the headlights are upon her. And airhorn blasts",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SLO-MO",
+          "text": "The accident is violent and horrible. The BMW cartwheels",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The indigo horizon shimmers with the first light of morni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A man sits propped up against pillows, his sleeping wife JOHN Q. watches impassively, the irony not lost on him. S",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WIFE",
+          "text": "Honey, what is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The screen door bangs open. John Q. bursts onto the porch J.Q. Hey, what the hell are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOW TRUCK DRIVER",
+          "text": "What does it look like? J.Q. Aw, come on. That's my car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOW TRUCK DRIVER",
+          "text": "Yeah? That's not what the bank says. The truckers quickly circle to the front and hop in. John The neighbors now stand on their porches, staring. J.Q. t Their nine year old son, MIKE, appears at his mother's si",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE ON a hand circling want-ads in red ink. J.Q. sits a Denise enters, dressed in her brown and red supermarket c J.Q. Sorry. Denise doesn't respond. A chill fills the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "I talked to the bank. They promised they'd work with me. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Okay. J.Q. I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "John, that was two months ago. J.Q. We've got enough money for next month's rent. That's it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "You thought. J.Q. What did you want me to do? Have us put out on the street",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "My car is gone, John. J.Q. You know I'm out there trying to find a second job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What do you want me to say? That it's fine? Alright, it's J.Q. The car's still ours, Denise. We own it. All we have to d Mike enters dressed for school. He strikes a body builder",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Yah! Ronnie Coleman, Mr. Olympics two years running. Yah! He moves to the bread box and grabs a donut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Sit down, honey. Eat some breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "(mouthful of food) I am eating. J.Q. A donut isn't breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Yeah it is. It's a continental breakfast. J.Q. Yeah, well, you're not a continent right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Uh, Dad, what do you call North America? Denise sets down two plates of hot food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Enough about that. You're not going to school without bre Mike and John Q. wolf down their food three bites at a ti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I can't believe those jerks took our car, can you, Mom? Denise gives J.Q. the hairy eyeball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "No, I can't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "What are we going to do? You're not going to do something J.Q. Watch your language.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I would. I swear. When I grow up I'll be so strong no one J.Q. You've been watching too much of that W.W. wrestling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Not wrestling, Dad. Body building. There's a big differen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Alright, alright. Get your books. You're going to be late Mike runs out of the room. Denise starts to clear the tab",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (CONT'D)",
+          "text": "Give me a ride to work? J.Q. Sure. J.Q. takes her arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Baby, things will get better. I promise. I've just got to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An amber light flashes through the darkness, followed by",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John, Denise and Mike. Denise in the middle. John and Mik",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Rdshxshn. J.Q. Reddish Stick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "No. Rdshxshn. J.Q. Radishes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Rdshxshn. J.Q. I swear to God, I'm hearing reddish stick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "It's a radio station. J.Q. Oh, brother. You got me. It's Dad's turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Ydugskew. MIKE Yogurt and stew? J.Q. Yogurt and Stew?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Well, I don't know. Do it again. J.Q. Ydugskew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I give up. J.Q. You're going to school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Dad! J.Q. Okay. One more. It's the longest one in history.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Iplglgnstheflgvthntdstscvmrcndthrpblcfw chtstndsnntnndrgd Mike gives him a look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Pledge of allegiance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Wow. That's a good one. How about you, Mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "I don't want to play. You guys always make fun of me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Come on, Mom. It's fun.  J.Q. Yeah, Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Okay. Mom's not very good. You can always understand her clearl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (CONT'D)",
+          "text": "Dashboard. The boys giggle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (CONT'D)",
+          "text": "What? No good? Okay. Okay. Hold on. She tries to be tricky, but still it's clear as a bell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (CONT'D)",
+          "text": "Antenna. The boys laugh at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (CONT'D)",
+          "text": "See. That's why I don't play. The car stops in front of the small, red brick elementary",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John walks Mike to the gate. Mike turns, serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Hey, Dad? I've got forty-six dollars I saved from my allo J.Q. Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "We're a family. We've got to stick together, right? John rubs his son's head. He's a good boy. J.Q. Right. But you earned that money. You keep it. Mike runs toward the schoolhouse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Okay. See you later! J.Q. Goodbye. Mike turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "No, Dad. See you later. I hate goodbye. J.Q. Okay, okay. See you later. Mike does the crab before running inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Flex Wheeler, 275 pounds. Two percent body fat. Yah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sparks. Fire. Goggles. Tires as tall as two-story buildin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quitting time. Employees are showering, towling down, cha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "What's the deal with the jacket? Who died?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cement and huge. Smoke billows from the stacks. John Q. a J.Q. I've got a job interview at the machinery plant over in O",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "What job? There are no jobs. J.Q. I saw it in the paper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Forget it. J.Q. I've got to go. Denise is going to kill me if I don't fin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Oh, boy. You want me to go with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The waiting room is packed. A lot of people needing work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "This is a waste of time. Four hundred people for one job. John keeps filling out his paperwork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY, (CONT'D)",
+          "text": "I'm telling you, somebody's son, cousin, uncle has alread J.Q. Jimmy, why do they put it in the paper if they're not hir",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "They've got to put it in the paper to make it look good. J.Q. Give it a rest, will you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "I'm just saying, it's the run around. Mark my words. It's A PERSONNEL MANAGER emerges from his office and reads fro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERSONNEL MANAGER",
+          "text": "John Archibald?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John Q. sits across the desk from the P.M. J.Q. I've been working heavy machinery for fifteen years. I re",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERSONNEL MANAGER",
+          "text": "I see. J.Q. Hey, I could start today. John Q. laughs nervously as the P.M. reviews his applicat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PERSONNEL MANAGER",
+          "text": "Your resume is very impressive. You've certainly got the John Q. gets the message. He pushes his chair back and st",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The daisy wheel buzzsaws across the page. WE SEE more nam",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sunday services. The congregation sings. In the third row",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "The game starts in fifteen minutes. We're gonna be late. J.Q. I know. A few rows back, John sees Jimmy Palumbo tapping his watc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The congregation pours out of the church and parishioners",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Dad! John moves over to Denise and the Pastor. J.Q. Sorry, Reverend. No time for saving souls today. Big game",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PASTOR",
+          "text": "Have you been saying your prayers like we talked about? J.Q. Does praying for a job count?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PASTOR",
+          "text": "Work on him, will you, Denise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "He's hopeless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PASTOR",
+          "text": "No one's hopeless. Good luck! The Pastor waves as John grabs Denise by the hand and the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's a tailgate party. Parents lugging ice chests, making",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Let's go, Orioles!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Pitcher's got a rubber arm! The Dodger pitcher stretches, fires a fastball. The batte",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UMPIRE",
+          "text": "Ball four! Tommy trots down to first base.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Way to go, Tommy. Good eye. Walk's as good as a hit. Mike steps to the plate. Family and friends cheer wildly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Yeah, Mike! Drive him home, baby! You can do it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Hey, pitcher! Hey, pitcher! The pitcher smokes one down the middle. Mike swings. Noth J.Q. That's okay, Mikey. Put the bat on the ball. The pitcher burns one on the outside corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UMPIRE",
+          "text": "Strike two!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Hey, ump, you're blind! I hate this pitcher. How old is h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "He's supposed to be twelve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Twelve, my ass. Look at him. His beard just grew an inch J.Q. Don't let him rattle you, Mikey. Wait for your pitch. The catcher flashes fingers. The pitcher nods and fires. The first baseman charges the ball, scoops it on the run, Mike's foot hits the bag at exactly the same time the bal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DODGER PITCHER",
+          "text": "No way! He was out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST BASE UMP",
+          "text": "Tie goes to the runner, son. As the Dodger pitcher argues with the umpire, the Oriole",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOME PLATE UMP",
+          "text": "Saaaaaffee! Seeing an opening, Mike races from first to second, arms",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DODGER SHORTSTOP",
+          "text": "Second base! The Dodger catcher throws off his mask and fires the ball CLOSE ON MIKE, slowing, suddenly clutching his chest, gul Mike wobbles, doubles over and falls face first into the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLEACHERS",
+          "text": "PUSH IN ON J.Q.'s FACE, panicked. TRACK HIM leaping down J.Q. Mike! Jesus God. He lifts Mike's head, holds it in his hands. Denise arriv",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Mike?! Mikey, can you hear me? Mike is semi-conscious, eyes dilated, barely breathing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Somebody call an ambulance. J.Q. I'm not waiting for an ambulance. J.Q. lifts Mike into his arms and races with Denise throu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q.'s pick up speeds along a super highway, blurring pas",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A monolithic maze of glass and stone. John's truck screec",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's standing room only. Bodies everywhere. Doctors and n J.Q. Help! My son can't breathe! I need help here! Can somebod A male nurse, LEO MAGUIRE, leaves what he's doing and mov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "What happened? J.Q. I don't know. He had a baseball game. All of a sudden he. Maguire passes a female nurse in the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "I need a doctor right away. Room 6.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maguire helps J.Q. lower Mike onto an examination table, The E.R. doctor is MARJORIE KLEIN, early 30's. Klein is a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Pulse is 150. B.P. 68 over 34. Collapsed playing baseball J.Q. notices Maguire glancing worriedly at Klein. J.Q. He was running. Next thing we know he keels over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "Anything like this ever happen before? J.Q. Never. No, ma'am. Never.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Pulse is seventy-eight percent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "Let's get him on some oxygen. Maguire reaches for the Oxygen tank, lays the mask over M J.Q. He's going to be alright, isn't he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "The lungs are wet and his liver feels enlarged. Five mil Maguire moves to the counter, finds an I.V. needle, fills",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What's the matter with him? Just then, another R.N. charges in. Klein \"eyes\" the nurs R.N. Mr. and Mrs. Archibald, would you come with me? J.Q. What? R.N. He's in good hands. Please, there's a few procedures we n J.Q. What kind of procedures? The R.N. gently takes J.Q.'s elbow. J.Q. pushes her hand R.N. We're going to be admitting your son, sir. You'll need to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "For godsakes, can't the forms wait? John and Denise watch helplessly as Maguire stabs an I.V. R.N. Please, Mr. and Mrs. Archibald. It's possible your son ma The R.N. edges them out as SWOOSH, the divider curtain is",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. and Denise are escorted by the R.N. to the admitting",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADMITTING NURSE",
+          "text": "First name, Mr. Archibald? J.Q. John. The admitting nurse's fingers glide over the computer key",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADMITTING NURSE",
+          "text": "Middle initial? J.Q. Q. Quincy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADMITTING NURSE",
+          "text": "And the name of your insurance company?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY, (O.S.)",
+          "text": "John! J.Q. spins and sees Jimmy and Gina rushing through the E.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "Where is he, is he okay? J.Q. I don't know. They're running tests. We're waiting to fin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GINA",
+          "text": "What can we do? Gina throws her arms around Denise, consoling her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADMITTING NURSE",
+          "text": "Your card, Mr. Archibald? J.Q. Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ADMITTING NURSE",
+          "text": "Your insurance card. I'll need to make a copy for our fil J.Q. pulls out his wallet, fumbles for his card, hands it J.Q. and Denise walk past rows of quiet, glassed-in rooms Mike is lying supine, awake but groggy, hooked up to a he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Hi, sweetheart. J.Q. Hey, slugger, how are you doing? Mike smiles weakly, struggles to speak, points to the tub",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I can't...talk. J.Q. Relax, buddy. Get some rest. Mike closes his eyes. He's really out of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "I love you, kid. Denise reacts to all the flashing numbers on the monitors",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What's all this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "This is so we can monitor Mike's vitals. Respiratory rate Reggie points to a bank of monitors. In the middle is a f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE, (CONT'D)",
+          "text": "We'd like this top number to stay above ninety, but betwe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What would that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "Seventy and below, he's in heart failure. Reggie exits. J.Q. and Denise watch the blood pressure mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Growing. Names multiplaying. Jones, Baker, Azbirjari, Her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eight members Hope Memorial Hospital's administrative sta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "The father works part-time. Mother's a cashier in a super",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "how's the family's insurance? She shakes her head - \"we've got a problem.\" Payne sees J",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Ah, Mr. and Mrs. Archibald. Rebecca Payne, hospital direc J.Q. How's our boy doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Please sit down. John and Denise sit, and the lights are dimmed. Dr. Turne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "This X-ray is that of a normal, nine year old heart. This John Q. and Denise stare nervously at the fleshy fist-siz",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER, (CONT'D)",
+          "text": "There are septal defects here, here, and here, which have He points to Mike's heart, huge in comparison. J.Q. I'm sorry. I don't understand. Could you pout that in lay",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Of course. Basically, there's not enough blood being pump J.Q. So what's he need? An operation? Turner gathers himself, takes off his glasses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I'm afraid we're considerably beyond the point of correct The room goes silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "He's nine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Wait a second. There are other options. J.Q. What options?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "To do nothing. Medicate him. Keep him as comfortable as p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "I don't understand. We were just with him. He seemed fine",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "He's going to seem fine. But as his heart gets worse, he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "I know it's difficult, but you must face the fact that yo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Oh my God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "And transplantation is a high risk operation. You could l J.Q. What do you think, Dr. Turner?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "This isn't my decision. J.Q. I know that. I'm asking for your opinion. Without surgery",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Not long. Months. Weeks. Days. This is too much for Denise. She breaks into tears. John J.Q. What would you do if it was your son?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Mr. Archibald... J.Q. Not you. Him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I'd do the transplant. Absolutely. J.Q. looks at Denise, who nods. J.Q. Okay. Let's do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "The first step is to get Mike's name on an organ recipien",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "It's not that simple. There are other considerations befo J.Q. I've got major medical. Don't worry, I'm covered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Actually, we've already checked with your carrier. There' J.Q. There must be some kind of mistake. My son is covered. I'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "What about you, Mrs. Archibald? Do you have coverage?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "No. I've only been working at the market a short time. Yo Payne flips through the Archibald family file.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "I see that you don't own your own home. No investments, s J.Q. Did you hear what I said? I'm telling you, I'm insured.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "That may very well be, but you'll have to check with your",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "How much does a transplant cost?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Transplant surgery, doctor fees, post operative treatment J.Q. What are you saying? If I don't come up with a quarter mi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "We have treated him. We continue to treat him. Now I unde",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What kind of down payment?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Thirty percent. Seventy-five thousand. J.Q. Seventy-five thousand dollars to put my kid's name o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Our son is upstairs dying and all you can talk about is m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Yes, it takes money to provide health service. It's expen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. and Denise move down the hallway towards the elevato",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN, (O.S.)",
+          "text": "Mr. and Mrs. Archibald? They turn. J.Q. You don't want to treat my kid? Fine. I'll take him over",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "Trust me. You don't want to do that. J.Q. I don't, huh? Watch me. It's a county hospital. They have",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "No they don't. Transplantation is always considered an el J.Q. What do you want us to do? You heard Payne. We're a cash",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "I know it's outrageous, but don't give up. Talk to your i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John sits in a cubicle across from his employer's insuran INSURANCE REP. You coverage has changed, Mr. Archibald. J.Q. Changed? INSURANCE REP. We've recently switched carriers from a PPO to an HMO. It J.Q. What kind of restrictions? INSURANCE REP. This is how it works. Non-management, part-time employees J.Q. But I'm not part-time. I'm a full-time employee. It's jus INSURANCE REP. Sure. But your coverage is based on house worked. Like I J.Q. Wait a minute. I've been paying for my coverage for years INSURANCE REP. And that's why we're going to cover you for the full twen J.Q. Let me get this straight. You drop me from full-time to p INSURANCE REP. Doesn't seem right, does it? J.Q. No, sir. It doesn't. My son is very sick. If I'm not cove INSURANCE REP. I understand that, but there's nothing I can do. You migh J.Q. Yeah? The insurance rep pushes a stack of papers towards J.Q. INSURANCE REP. Here are the forms. It'll take about seven working days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. and Denise at a window counter, talking to a STATE E",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATE REP",
+          "text": "Says here you already have medical insurance. J.Q. Not enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What little we have is already used up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATE REP",
+          "text": "I understand that. But then you don't qualify. We only gi J.Q. No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATE REP",
+          "text": "You should be on Welfare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Welfare? We both have jobs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATE REP",
+          "text": "Oh, that's too bad. Sorry, I can't help you. Try MA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A county worker flips through J.Q.'s paperwork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY EMPLOYEE",
+          "text": "It says here your son's condition is congenital. J.Q. Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY EMPLOYEE",
+          "text": "Not congenitive. J.Q. So what? What's the difference?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY EMPLOYEE",
+          "text": "Big difference. It means it's a pre existing condition, o J.Q. That's impossible. He's had clean check ups every year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COUNTY EMPLOYEE",
+          "text": "I don't know what to tell you. It's right here in the rep",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Another state run facility. Another employee. Another exc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAID OFFICER",
+          "text": "No. J.Q. No, what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAID OFFICER",
+          "text": "You don't qualify. J.Q. Don't qualify? I've got a kid who's dying and I'm broke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAID OFFICER",
+          "text": "Lower your voice, sir. J.Q. I mean, what do you guys do, anyway? Why does this servic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAID OFFICER",
+          "text": "I'm sorry. J.Q. I don't need you to be sorry. I need some help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see more of the list this time. Boldfaced columns appe Vernell Tilson, Des Moines, Metropolitan Hospital, Entry",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John Q. takes the trip down with Rebecca Payne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "No, no, no. You filed an appeal? An appeal is for an alre J.Q. I don't have thirty days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "I know that. J.Q. And, frankly, I'm tired of getting the runaround. I need",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Mr. Archibald, your hospital bill is in excess of thirty J.Q. Oh, is that right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Yes, sir, that is right. But there is a limit to this hos J.Q. You want money? Alright, I'll get you your money. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John selling everything. Television, washer, dryer, sofa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "You know what you should do? You should try that newsguy J.Q. Yeah, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "The trouble shooter. Channel eight. What's his name? A woman offers twenty dollars for the coffee table. J.Q.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY, (CONT'D)",
+          "text": "Lampley. Tuck Lampley.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "TUCK LAMPLEY, 38, with plastic hair, sits at his desk, hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Tuck Lampley. Hope you don't mind if I eat while we talk. J.Q. No, that's fine. Thanks for seeing us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "So, what can I do you for? J.Q. My son, Mike, went into heart failure playing in his litt",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Lots of reasons. He don't even understand half of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "What about the hospital? J.Q. Hope Memorial Hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Yeah, Hope Memorial. Don't they have to cover it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Right, right? That's what I thought. J.Q. No. The hospital says I have to pay cash. Otherwise the o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Jesus. J.Q. Yeah. Lampley is already working on the story in his head, putt",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Bureaucracy of the medical establishment, American family",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Right. Big guy versus little guy. We were thinking you co J.Q. Anything would help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "What they've done to your son is outrageous, and I want t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The fire sale continues. The Archibald refrigerator is ca",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "After Sunday services, The pastor hands John and envelope",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike is sitting up in bed. He's pale, but he's in a good",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John, Jimmy and Gina go door to door, soliciting donation",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. reads to Mike from a book. Mike's eyes close and Joh John and Denise exchange a look. The chaplain whispers in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John and Denise are refused for a loan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tight on a diamond ring through a lapidary's eyeglass. Th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike, oxygen tubes in his nostrils, is fast asleep, the m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John selling the truck. A prospective buyer inspects as J From inside the house, the phone rings. J.Q. hurries insi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's empty. Furniture, appliances, everything's gone. Jus J.Q. Hey, sweetheart. How's Mike?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "They're releasing him. J.Q. What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Dr. Turner just left. They're sending Mike home in the mo J.Q. What are you talking about? They can't just send him home",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "It doesn't matter. They're releasing him. J.Q. But I spoke to the hospital. I took care of...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Yeah, you always take care of it. But it's never enough,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John stands in Mike's bedroom, looking at his son's thing",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUSH IN ON",
+          "text": "J.Q.'s face, thinking, thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. steps off a city bus carrying a gym bag. Windbreaker",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The broken, battered and bloodied sit on chairs waiting t A BABY BOY wails in the arms of his Hispanic mother, ROSA MITCH, 30's, black jeans, shades, and a huge hangover, si",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "What's going on? Are we going to get seen or what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "The doctor will be with you shortly, sir. MITCH Shortly? Shortly we could all be dead. We've been w The electric doors slide open and J.Q. enters and looks a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. moves through the corridors intently, a man on a mis",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "You're doing great, Carroll. You've already gained back f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHELBY'S WIFE",
+          "text": "Thanks for everything, doctor. J.Q. approaches the group. His face reveals nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Hello, John. This is Mr. Archibald. His son's a patient o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHELBY'S WIFE",
+          "text": "Well, you're certainly in good hands. J.Q. forces a smile. The Shelbys say goodbye before leavi J.Q. Denise said you're letting Mike go home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Mr. Archibald, I'm a physician. I don't make policy decis J.Q. You're head of Cardiac Surgery, Doctor. You're telling me",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I make recommendations all the time. The final decision r J.Q. wags a Hope Memorial brochure at Turner. J.Q. You and your staff did over three hundred operations last",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Please take your hands off me. J.Q. I'm not asking for charity, Doc. I'll pay. I don't know h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I'm sorry. I tried to help. But it's out of my hands. Something in J.Q. snaps. Heart pounding, he pushes Turner",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. shoves Turner inside, pulls out a Baretta .9mm, poin J.Q. I'm not asking anymore, Doctor. I'm telling. Now I want a J.Q. drops the gym bag on the floor, unzips it, pulls out",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Don't even think about it. Turner hangs up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Hey, what are you doing? J.Q. sees the stocky SECURITY GUARD, trains the gun on hi J.Q. Hands over your head. Do it. The security guard nervously raises his hands above his h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Give me your gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "I, uh, don't have a gun. J.Q. reacts awkwardly, wasn't expecting this response. J.Q. Okay. Then sit down. And stay down. The guard obediently drops into a chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Mr. Archibald, I understand how upset you are, but this i J.Q. I tried your way, Doc. It didn't work. Now we're going to In one of the treatment rooms, Dr. Marjorie Klein and Leo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "Mr. Archibald. What are you doing? J.Q. I took your advice, Doctor. I'm not taking no for an answ Several patients and medical personnel see the gun and bo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "What's going on here? Lester removes the blood soaked towel. The tips of three",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "They want me to sign. The pen. The hand. It's not going to work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Mr. Archibald, these people have nothing to do with this. J.Q. This is a hospital, isn't it? You're a doctor. Treat them J.Q. points to Lester.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Start with him. Turner stands frozen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "What's the matter, Doc? You want to see his insurance car J.Q. stands on a table addressing the room. A madman with",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "This hospital is under new management, ladies and gentlem Various reactions from the people in the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Far out. J.Q. points to the security guard. J.Q. You. Come with me. J.Q. leads the security guard to the elevators.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Kill the power.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "I don't have a key for that. J.Q. You've got the keys to the city. Now do it. Decision time. Finally the guard inserts an Allen wrench J.Q. looks around and sees a snake-eye security camera bo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A skinny, pimple-faced KID with a big chrome badge sits i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "Uh. This is the security desk at Hope Memorial Hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. paces next to the windows, sizing up the room. Nearb J.Q. Everybody does exactly what I say and nobody gets hurt. He looks around the room, everybody battered, bloodied, a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "...more hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "FREDDY B., a superbright techie-geek, pokes his head into FREDDY B. This just came in over the police radio. Someone is holdi Realizing, Lampley stares at the TV executives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TV EXEC",
+          "text": "Hope Memorial Hospital? Isn't that...? Lampley is already up and on the move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Is it a good enough story for you now, George? FREDDY B. Do you think it's that guy with the kid, boss?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "What do you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maguire leads Lester back to the treatment area. Lester h LESTER Don't lose my fingers, man. Had them fingers my wh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "(under breath; to Julie)  We were here before that guy. J.Q. You'll get your turn. Nobody's going anywhere for a while J.Q. glances at the admitting desk and sees the chair mov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "I'm going to have to ask you to join the others, Miss. The sound of a screaming baby is cutting through the room",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "What's the problem? Rosa shakes her head. She doesn't speak much English.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Yo no se que pasa. El llora por toda la noche. J.Q. Yo pienso que tiene dolor en su oreja.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Si? En su oido? J.Q. Porque lo toca. Mira. The baby's tiny fingers reach for his ear. J.Q. singles o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "This kid's got an ear infection. You. With J.Q.'s finger pointed at her, Debby falls apart, bur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "I can't. J.Q. Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "I don't know anything. It's my first. J.Q. gives her a look. \"Oh, Jesus.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "I got it. Give him this. Maguire hands a bottle of gooey pink Amoxycillin to Debby",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Unbelievable. This place is a joke. Good think I'm not cu Mitch tries to engage J.Q. with a wink and a big flashy s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH, (CONT'D)",
+          "text": "Excuse me? Hey, brother? Mitch. They crying baby. The tension. It's all getting to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH, (CONT'D)",
+          "text": "My girlfriend's in a lot of pain here. How much longer be Mitch gets up and tries to approach J.Q. J.Q. Sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "That's cool. You and me ain't got no problems. You know w J.Q. I told you once already. Sit tight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "That's what we've been doing. J.Q. shoots Mitch a look before moving to Miriam and Stev J.Q. When is the baby due?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIRIAM",
+          "text": "Any minute. Oh, boy. J.Q. rubs his head. What else? CLANK. CLANK. The J.Q. What's that? ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A red & white ambulance is parked outside. THREE PARAMEDI",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARAMEDIC",
+          "text": "Open up. Got a gunshot victim here. Lost a lot of blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q.",
+          "text": "Take him to another hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARAMEDIC",
+          "text": "He won't make it. Come on. We're losing him. Open the doo J.Q. (to Maguire)  You recognize these guys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Yeah, they're here all the time. Paramedics #2 and #3 are wearing blue jackets, blue pants J.Q. That one's a cop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "I was here when you brought in your son. Remember me? I s J.Q. studies Maguire's eyes, measures his honesty, and th J.Q. You, open your coat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARAMEDIC",
+          "text": "What? J.Q. You heard me. Take the coat off. Cop. Paramedic #1 takes off his coat. There's nothing undernea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Alright, then. Leave the stretcher. Go. Beat it. The paramedics back away and take off. Maguire rolls the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN ON STRETCHER",
+          "text": "(name's STAWITZKY) I gave them all the money in the register. They shot me a J.Q. peels back a corner of the blanket, looks for weapon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "We need to prep this man for immediate surgery. He's in b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "No, no. This is out of my department. I'm a heart surgeon",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "You are now. J.Q. Come on, Doctor. It's like riding a bike. Pretend you're Turner and J.Q. lock eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Seventy-five milligrams Demerol IV Lidocaine, local. Two Turner takes the man's pulse as they roll the stretcher t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "When I get out of here, I'm suing this hospital and your Unseen by Mitch, J.Q. has moved behind him. J.Q. What makes you so sure you're getting out of here at all? Mitch sits back down. J.Q. leans against a wall, takes a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Here we go. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The summer sun beats down as cop cars careen into the par",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What are you doing here, Lampley? Shouldn't you be out ex",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Yeah, well, screw you, too. Grimes pushes past, but Lampley dogs him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "There's a rumor floating around, Frank. Some guy's holdin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You know more than I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "You're full of shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Hey, then we're even. I never believe a word you guys say",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "This is big, isn't it, Frank? I can feel it. Come on, wha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Zip. Nothing. Read my lips. I just got here. But I promis",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Hey, Grimes. You're a real horse's ass. You know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Yeah, well... Grimes chuckles as he moves past the police barricade, si",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "This guy's in for the long haul, Lieutenant. He locked do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Any other way in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "I'm working on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "How many hostages?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "Security guard here said there could be anywhere from ten",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Any security cameras?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "The guy took out the one in the ER, sir. But the hospital",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Pinpoint cameras? I don't understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "The hospital's own private security. Every hospital has t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "They're hidden in the walls throughout the hospital. Ther",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Can we get them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "We're setting up a video tap right now. Should be up and Grimes looks at the pimply-faced kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Are you in charge of security?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "No, sir. That'd be Wally Pitoniak. He's at home. It's his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Not anymore it ain't. Get him down here. (to Moody) I need to make contact with this guy. Can you get me a se",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "Lieutenant? One of our guys is on the inside. He's got a The kid hands Grimes his walkie-talkie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Alright, but put a clamp on all phone lines to the Emerge",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "Got it. Grimes looks around, sees more news vans arriving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "And keep the media on a need to know basis. Until I say s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "Rebecca Payne, sir. She's off today, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Jesus Christ. Does anyone work at this hospital?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIMPLY FACED SECURITY GUARD",
+          "text": "It's Saturday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "So what? People get sick on Saturday, don't they?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. watches the police build-up outside. Rosa is holding J.Q. How old is he? Cuantos anos?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Ocho meses. Eight month. J.Q. nods. Memories. J.Q. Eight months. Great age. Dr. Klein approaches J.Q. with Miriam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "I'll need to do an internal examination on this woman. J.Q. Go. J.Q. sees Steve, the woman's husband, picking at his fing",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Why'd you come to an ER? Why not go right to Maternity?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Miriam went into labor early. Her water broke, we called",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Excuse me, but I think my fiancee broke her arm. Could so J.Q. moves over to Julie, regards her black eye, her swol",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH, (CONT'D)",
+          "text": "She's fine, ain't she? All that and twenty-two years old. J.Q. looks at Mitch. Is this guy for real? J.Q. (to Julie) What's your story?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Car accident. What does it look like? J.Q. I was talking to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "A drunk ran a red light and slammed into us. It was an ac A muffled voice suddenly squawks on the security guard's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (O.S.)",
+          "text": "Hello? Hello? Anyone there? J.Q. grabs the guard's walkie-talkie, presses TALK. J.Q. Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The police have cordoned off a section of the parking lot",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "This is Lieutenant Frank Grimes of the Chicago Police Dep J.Q. That's right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Who am I speaking to? J.Q. pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (CONT'D)",
+          "text": "Come on, my friend. We're going to be doing a lot of talk J.Q. Call me John Q.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Alright, John Q. Again, my name is Lieutenant Grimes. But J.Q. Sure, Frank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I'm the hostage negotiator. I've been a cop for thirty-fi J.Q. It's an Emergency Room, Frank. Everybody's hurt. Frank smiles. This guy's a comedian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "They're fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Good. As long as it stays that way, we can keep talking. Grimes walks along the perimeter of the police barricade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (CONT'D)",
+          "text": "Murphy's Law, John. You picked the hottest day of the yea J.Q. Find Rebecca Payne, Hope Memorial's Administrative Superv",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Kid? Boy or girl? J.Q. Boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "How old? You know, I've got two boys. Two girls and two b J.Q. Don't handle me, Frank. I don't want to be handled. It in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Take it easy, John. The idea's not to get too excited. J.Q. Mike's name goes on that list or there's going to be a bl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Alright. I hear you loud and clear. Rebecca Payne, right? J.Q. I'm sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Alright. Sit tight. You're in a tough spot, John. A lot o J.Q. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Why? Because that's what faith's all about. Believing whe J.Q. Just tell Payne. Donor list. She'll understand. EXT. HOPE The line goes dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Alright, what the hell is a donor list?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. paces the floor. It's slower now. Everyone just sitt",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "Mr. Q? Would you really do it? J.Q. What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "What you said about the bloodbath? Would you really shoot J.Q. I'll do what I have to do to help my kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Aw, bullshit. He can't shoot us all. There's only eight b J.Q. First one's got your name on it, Mitch. Mitch mumbles and kicks his feet up, sparking a cigarette",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "First child?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Yes, sir. You know how it is, kind of nervous. J.Q. nods, understands. J.Q. What are you hoping for? Boy or girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Miriam wants a baby girl. Doesn't matter to me, as long a Steve stops short. Realizing his faux pas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE, (CONT'D)",
+          "text": "I'm sorry. I didn't meant -- J.Q. shakes it off: \"Not to worry.\" John notices Julie, h J.Q. Who was driving? (off Julie's look) The car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "I was. What's that got to do with it? J.Q. How come she got all banged up and you didn't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "What do you call this? Mitch pulls back his hair, shows off his wounds. Surface",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Somebody get this man a band-aid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Shut up, smart ass. It hurts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "His airbag went off. Mine didn't. J.Q. What kind of car do you drive there, hot shot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Mercedes 500. J.Q. A Benz, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Sixteen valve. One point six liter. It does about a hundr J.Q. Wow. Pretty snazzy. What year?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "1986. It's a classic. The other hostages study J.Q. Where is he going with this J.Q. Yeah, well, I've got news for you, Mitch. Mercedes didn't A long uncomfortable silence ensues as the group looks at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "I was drunk. Alright? Tears stream down Julie's proud face, for the first time,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Well, well, well. My man, Mitch. Mister girlfriend beater Maguire and Turner enter. Maguire's got a big smile on hi J.Q. How's Stawitzky?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "He's going to make it. J.Q. How's it feel, Doc? Saving a life? Feels pretty good, doe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Monitor. Plink. Mike's blood pressure drops from 75 to 74",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "Lasix. It's a diuretic to help get rid of some of the flu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "And those?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "Dopamine. For his blood pressure. Dig for his heart. Prim",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Gosh, it seems like so much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "Yeah, it's a lot. This is antibiotic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "It's prophylactic. Just in case. These two, I don't reall",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Pain?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "I don't know, Mrs. Archibald. I just do what they tell me Mike groans. He feels queasy and his mouth is bone dry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I don't feel good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "This is going to make you feel yucky for a few minutes, b Mike forces a smile, dips his head slightly. \"Sounds good",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Mom? Is Dad coming?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Yeah. He's coming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Where is he? Denise steals a final look at the parents overcome with g",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "I don't know, sweetheart. I don't know. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mitch is snooping around one of the treatment rooms, alwa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "What are you up to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Never mind me. You're worthless. You know that? Some secu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "With what? Besides, I'm not putting my neck on the line. Mitch reaches, pulls a cas cart closer. He carefully slid",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD, (CONT'D)",
+          "text": "What the hell are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Looking out for number one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "You want to stay alive? Sit tight and wait for the cavalr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Wake up, fat boy. The cops are coming in shooting. They d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Yeah? He finds out you got a scalpel, you're the one that",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Really? He doesn't look so bad to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Listen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "No, listen to me, you stupid rent-a-cop. I'm not a slob.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The vending machines have been jimmied open and a huge pi J.Q. The thing I don't understand is why no one caught it befo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Was he ever diagnosed with a murmur? J.Q. Yeah, he was. About a week after he was born. But his doc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "He might not have been tested thoroughly enough. J.Q. Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "You got an HMO, right? There's your answer. HMO's pay the J.Q. Is that true?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Possible. Not likely, but possible. J.Q. Then Mike's doctors could have known about his condition",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Who knows?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Nothing personal, Doc, but you all are a bunch of damn cr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "You see,here's the problem. Over here, you've got your in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "It's all about getting paid, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "And the individual is caught in the middle of this gigant",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Because then no one gets paid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "But what about that thing you guys take? That promise? Wh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "The Hippocratic oath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "More like the hipp-crit-cial Oath to me. How's that go, D",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "I'm telling you, it's not that far from the truth. The sh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "Hospitals can't turn people away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Yeah. I thought there were laws about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "There are laws. But there are also ways around the laws. Turner is getting hot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "That's not how it works.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "That's exactly how it works. Maybe not up there on the fi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Is that how you paid for that Armani suit, Doc? Finally, Turner explodes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Shut up. Enough already. I've heard all the bitching and Turner gets up and walks into the treatment room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "Wow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "What's his problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "I've got to be honest, if my kid was dying and I couldn't",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "Me, neither.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "But I'd do something. J.Q. glances quickly at the clock. He picks up the phone,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A black SWAT phone starts ringing and the policemen freez",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER COP",
+          "text": "Sir! Grimes waves him off and cues his portable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "This is Frank Grimes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q., confused. J.Q. But...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "The line is clipped, John. You pick up the phone, you get (then) Can I help you with something? J.Q. Where are we at with that list?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I'm working on it, John. But I need some time. J.Q. Time I don't have, Lieutenant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I want to talk about the hostages. J.Q. What about them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What's going on in there? How are they? J.Q. Same as they were before, Frank. We're all just kind of w At the command post, Moody is now waving his arms. Grimes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I want you to let some of them go. J.Q. What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I do for you. You do for me. Show some good faith. We've J.Q. Good faith only takes you so far. You see, I believe in t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A navy blue unmarked Crown Victoria pulls up and out step",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "That's him. His name is John Archibald. His son's on the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marjorie Klein moves over with a very hysterical Miriam i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "Excuse me. J.Q. holds up a finger telling her to wait.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN, (CONT'D)",
+          "text": "I need to talk to you. Now. J.Q. (into phone) Can you hold on a minute, Frank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "This woman's six centimeters dilated and the baby is bree J.Q. rubs his eyes and lets out a breath. He's under a lo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Grimes has his hand over the receiver as he barks out ord",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Put people on the door. Nobody talks to the wife but me. Grimes sticks out his free hand to Monroe, who shakes it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (CONT'D)",
+          "text": "Good to see you, Gus. How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Hot. What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You're looking at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "Are you there, Frank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Yeah, I'm here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "I changed my mind. I am going to let some of the hostages",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Great, John. That's the right thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "But when I do, the clock starts. You have one hour to get Monroe is glued to the monitors. His wheels are already s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Isn't it a little early for you to be here, Gus? Who call",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "I mean it, Frank. If my boy's not on the list in an hour,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "This is bad, Frank. Lot of people watching this one. Big",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Well, give me some time. I'm working on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "Frank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I got it, John. I'm hearing you. One hour. They look on Monroe's face tells Grimes that something is GRIMES (CONT'D) Gus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "There's no time on this one, Frank. This one's just got t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. puts down the walkie-talkie and points at Miriam and J.Q. You and you. Come with me. Maguire, give me a hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIRIAM",
+          "text": "Mr. Archibald. Please let my husband go with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Honey, for godsakes, just do as the man says. Get out of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIRIAM",
+          "text": "I'm not leaving you here alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Shit, I'll go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Shut your face. What kind of man are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Screw you, Tyrone. Steve leaps from his seat and goes after Mitch, bristling John tries to get his bearings but Mitch is already swing",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH, (CONT'D)",
+          "text": "Julie, baby, get the gun. Julie gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH, (CONT'D)",
+          "text": "Shoot him, honey. Shoot him. But instead of grabbing the weapon, she picks up the Ethy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH, (CONT'D)",
+          "text": "You stupid bitch! Julie rears back, and with her go-go boot, she kicks Mitc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "That's for beating the shit out of me. She kicks him again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE, (CONT'D)",
+          "text": "That's for being an asshole. Once more for good measure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE, (CONT'D)",
+          "text": "And that's for calling me a bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Damn. The hostages look at Julie with newfound respect. J.Q. ta J.Q. Everybody's a tough guy. Grimes voice crackles over the walkie-talkie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (O.S.)",
+          "text": "Where are those hostages, John? J.Q. moves to the door, unlocks the chain, points to Rosa J.Q. Let's go. Both of you. Rosa launches into a rapid-fire monologue of thanks. She",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "What's she saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "She said she'll pray for his boy. Miriam kisses Steve, holds him tight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "Everything's going to be okay. The baby is going to be ju J.Q. puts a hand on Steve's shoulder. J.Q. Get out of here. Go. Steve is stunned. Can't get to his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Vasta. Vasta. Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The front door opens and Steve, Miriam, Rosa and the baby",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "The gunman has just freed several hostages who will immed The hostages are hustled through the police barricade by",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "Is it true an ambulance dropped off a gunshot victim afte",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIRIAM",
+          "text": "Yes. He unlocked the door and let him in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEVE",
+          "text": "If he didn't, the man would have died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "John Q. very good man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "The gunman?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROSA",
+          "text": "Si. Good man, el senor. But Tuck Lampley's attention is on the police command pos",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "They've got a camera in there. I don't believe it. They'r Freddy B. squints through the glasses. FREDDY B. How do you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Well, they're looking at something, Freddy. And I need to FREDDY B. No problem, boss. If they got it, I can get it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WALLY PITONIAK, Chief of Hospital Security, has arrived.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You mean all of this could have been avoided if you had j",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Don't you dare try to blame this on me. You think Mr. Arc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "The fact is there's a man threatening to kill innocent pe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "The fact is there are fifty million people in this countr Moody looks over from his map.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "Excuse me, but why don't we just tell him his son's on th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "That's not a bad idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "You want me to put his name on the list, fine, but it's a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "I don't personally care if you put the kid on it or not. Pitoniak has indicated a spot on the schematic by circlin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "Sir? Sir, take a look at this. Monroe moves over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "What is it? Pitoniak points to the map, marking a red \"X\" through the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PITONIAK",
+          "text": "It's a phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "So? Moody points to one of the monitors. ON SCREEN, a view of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "It's that phone.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "More waiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "So, what now? What's the plan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "Mitch...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "No. I want to know. Every day you read about this kind of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Shut up, Mitch. J.Q. He's right. You know how easy it was to get this gun? One",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "That's right. You're just a punk with a gun. I understand J.Q. Yeah, but you've got insurance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "So, what, you're going to shoot me? Because that's what y J.Q. No, I don't want to cheat anyone. I just want my kid to h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "So what's the plan, Stan? I mean, exactly? How long are y J.Q. I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Think, Einstein. Use your head. Correct me if I'm wrong, J.Q. I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Then what's your move? J.Q. I'm not letting my kid die! I'm out of options, alright?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The white BMW speeds along the highway, tries to pass the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Frank Grimes stands outside Mike's room, just watching hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONITOR",
+          "text": "Mike's blood pressure has fallen to 68. He is asleep, eac Payne arrives, and the two stand there a moment. Watching",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "No matter how many times I see it, this is the part I alw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Do you have any children, Miss Payne?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "No. No I don't. They move to the doorway and tap lightly on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Mrs. Archibald? Denise's wet face turns to see the cause of the intrusion",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (CONT'D)",
+          "text": "Could we have a word with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Denise, Grimes, and Payne by the elevators.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "This is my fault. When the hospital told me they were rel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I understand. Is he a violent man, Mrs. Archibald.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "No. Heavens, no. He's gentle. He's sweet. He wouldn't hur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "That's not what he's saying. He's talking about killing p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Hey, what is this? I get what's going on here. You want m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "He's in a lot of trouble, Ma'am. We're going to need you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Let's get something straight, Mister. You can't use me to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Mrs. Archibald...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "You, don't talk to me. I'd tell you what I think of you b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "I've decided to put Mike's name on the organ recipient li Denise looks at Payne, not daring to believe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Really. Payne nods. This is too much for Denise. She throws her a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (CONT'D)",
+          "text": "Oh, thank you. Thank you so much. Payne pats Denise on the back, awkwardly trying to comfor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Grimes and Payne move quickly through the corridors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You're good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "With the Archibald woman back there. Quite a performance. Payne's eyes flash with anger. She looks like she wants t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A restless crowd encircles the hospital, cordoned off by A police bus drives slowly into the parking lot. A SWAT t An armada of soft drink, hot dog and ice cream vendors sm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. and the hostages watch Tuck Lampley on an overhead T",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A red and white medical helicopter descends from the sky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Grimes returns to find the post empty. Nobody there excep",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What's going on? Where is everybody? Moody indicates the map and the monitor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "We're sending in one of ours through the ventilation duct",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ON SCREEN",
+          "text": "He indicates the red nurses' phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY, (CONT'D)",
+          "text": "If we can get the target to that phone, it's a clear shot",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Is that right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "Yes, Lieutenant. That is right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "On who's orders?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Police Chief Gus Monroe, Wally Pitoniak, and a SWAT Team",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Gus...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Not one word. I don't want to hear one goddamn word out o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I'm not going to say anything. I'm just going to go get y",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "What did you say to me? Are you calling me a clown? Monroe goes after Grimes and has to be restrained.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE, (CONT'D)",
+          "text": "I swear to God, I'll kill you. Boys. Boys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You going to do this behind my back, you sonofabitch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Check the time, Frank. Look at your watch, Frank. The guy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "So goddamn stupid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Yeah? What's your great idea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "There are no great ideas!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Right! Exactly. But right now I've got a shot at this guy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "The wife has agreed to speak to him. Let her talk him dow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "That's exactly what we're going to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What? You use the man's wife to set him up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Whatever works. Let me paint a picture for you. And I hop",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Bad for who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "It's an election year. Do you want me to spell it out for",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "So, you kill him? That's a P.R. bonanza.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "There's not going to be a slaughter in there. Not on my w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Out. No hard feelings. But you're officially relieved of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "It's not my first trip around the dance floor, you know. Grimes laughs out loud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Hey, I don't like it any better than you do, but I'm unde Monroe turns and walks away. Grimes calls out after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What about the hostages?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "They better keep their heads down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. paces back and forth looking at the clock. His level J.Q. Where the hell are these guys? Mitch is now contrite and trying to reconcile with his ba",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Julie...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "Leave me alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "I'm sorry. I'm a lousy drunk, okay? I get out of control.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "No, Mitch. This is always how it goes. You treat me like She takes off a big diamond from her finger and drops it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Aw, come on. Don't do that. That ring cost me twenty gran",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "Poor little rich boy. Used to getting everything he wants Lester bends over and tries inconspicuously to look for t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Do you mind? Stay away from the ring, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Hey, she don't want it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "yeah. Finders keepers, man. The hostages laugh and Mitch goes crazy. J.Q. Hey, what's so funny? Does everybody think this is a joke",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Monroe moves outside and joins the other SWAT team person",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "But he's not a wacko, Gus. Married with a family, no hist",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Don't matter. You know as well as I do that anybody can f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "He's got a gun and he's got hostages. That's a profile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "How long have we been doing this? You've got to trust me",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Well I don't. I don't like nut jobs who point guns at inn",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "He's not a nut job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Maybe you're right. Maybe he's bluffing. Maybe he's just",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I'm telling you, you're making a mistake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Yeah, well. We try harder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I want to be on the record. Monroe hands Grimes a set of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "You can be on whatever you want. Now I got you a chair. P",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Gus...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Will you stop already? Jesus, Frank. You're so emotional. On one of the monitors WE SEE the ER room and hostages. O",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "(into walkie-talkie) This is Moody. Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pitoniak climbs along the narrow catwalk until he reaches",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. paces. Everyone keeps looking at the clock. 5:12 PM. J.Q. Some first day, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "A little more stressful than I thought it would be. J.Q. cracks a smile. Just then, a loud rattle echoes thro J.Q. What was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Air conditioning unit just shut off. J.Q. Yeah? Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "The power automatically shuts down when the thermostat hi TIGHT ON J.Q. Something doesn't feel right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An armed SNIPER pops his head up and slithers along the p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Snipers lock and load assault rifles, and Tuck Lampley's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Where's my picture? FREDDY B. Coming. We just need to unscramble the police encryptment",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Well, hurry up. I've got a contact in cardiology. The cop",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper continues to crawl through the duct toward a l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Moody looks at his watch, synchronizes. Monroe does.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "(into walkie-talkie)  Are you with a wife? Good. Let's patch it through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "5:14 PM. All eyes on the clock. Hostages tired, hot, emot J.Q. Where's the phone? Which phone is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "News monitors cackle with white snow. No picture. Freddy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Come on, goddammit. They're putting the call through. Suddenly, an audio hook-up. The phone clanging like an al FREDDY B. Oh, yeah. We got sound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Good. Good. But where's the video? Come on. I need pictur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. moves from phone to phone with no luck. The phone ke",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIDEO TAP",
+          "text": "Surreal, distorted focus, like a funhouse mirror. Suddenl J.Q. This better be good, Frank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "John? J.Q. Denise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Hi, baby. We're on the list! J.Q. What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Payne was just here. Mike's name is on the list. You did",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The hostages are glued to the TV, watching covering from J.Q. Okay. Great. We're on the list. Wow. How's Mikey doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Not so good, baby. He looks like he's going away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cops are glued to the monitor. Grimes looks on, disgusted",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "They've done everything they can but he keeps getting wor Denise cracks. Tears come and there's no stopping them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper pops off the grill, revealing the acoustic til",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNIPER",
+          "text": "Two zero to base camp. I'm in position one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY, (O.S.)",
+          "text": "Go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John rests his head and closes his eyes as he listens to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "You know, sometimes I think he's an angel. A real angel, J.Q. It's going to be alright, sweetheart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Are you praying for him? Are you praying for our boy? J.Q. Yeah, baby. I'm praying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Oh my God, what are we going to do? J.Q. I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Maybe we should let him go. Maybe it's meant to be and we J.Q. No. Don't say it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "I don't know what else to think. The priest keeps coming. J.Q. Denise, don't you lose faith now. Not you. You can't give",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "Okay, baby. I'll believe. J.Q. Is he awake? Can I talk to him? INT. NEWS VAN - LATE AFTE On the monitors, the blizzard of white snow morphs into a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lampley is giving the thumbs up. They have picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Are we good? Beautiful baby. You're a genius. Lampley puts on his most sincere look as the Channel 8 ne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "This is Tuck Lampley at Hope Memorial Hospital, where we",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WE SEE J.Q.",
+          "text": "Leaning against the wall. Father and son's 911 static scr J.Q. Mike? How you doing, buddy? You hanging in there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "Uh-huh. How are you? J.Q. Me? I'm fine. Don't worry about me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper crawls from the louvered grill, moving along t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike is propped up in bed, now breathing with some diffic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "How come you're not here, Dad? Where are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "Oh, I'm kind of tied up right now. I can't get away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHOTS OF TV SETS AROUND THE NATION",
+          "text": "Quick, jagged CUTS: American families. People in bars. TV",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Mom says I need a new heart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "That's right, champ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "What's wrong with my heart?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "Not a thing, buddy. Not a thing. We just have to put a ne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper lifts a ceiling tile, exposing the treatment r",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike stops to catch his breath. He's really on his last l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Hey, Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (O.S.)",
+          "text": "Yeah, Mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Am I going to die? Denise's hand flies to her mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE SNIPER",
+          "text": "He pushes the barrel of his weapon through the opening in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Through the scope, J.Q.'s tormented face racks into focus J.Q. No, Mikey, you're not going to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "How do you know? J.Q. Hey, what good would the world be without you? Without yo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lampley stands by the news van watching the drama unfold",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "Oh my God. This is the greatest thing I've ever seen. Thi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q.",
+          "text": "Hey, Mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "Yeah, Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCOPE MATTE",
+          "text": "J.Q. moves out from behind the partition and into the ope",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper cues his mic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SNIPER",
+          "text": "On your call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The hostages are glued to the TV set. Maguire, Julie, Deb J.Q. You know how much I love you, don't you? How proud I am o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Monroe nods at Moody. It's time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "(into walkie-talkie) Take the shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "From across the room and through the ceiling, a small red J.Q. Yeah, well, I wanted to tell you that. Just in case I for",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. is in the crosshairs. Dead center. The red laser dot J.Q. Give me a Chris Cormeir, will you? Yah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "Oh, yeah. Chris Cormeir. He's great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The hostages attention has been so focused on the screen,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "What the hell. Oh, shit...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "TIGHT ON THE TRIGGER. As the sniper squeezes --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q.",
+          "text": "Get some rest, buddy. Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (O.S.)",
+          "text": "Okay. I love you, Dad. J.Q. Yeah. I love you, too. As J.Q. hangs up the receiver, the sniper pulls the trigg",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Hey, John. You're on the TV, you know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANG",
+          "text": "John turns as the bullet explodes from the chamber, muzzl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The echoing gunshot rumbles through the air like a thunde",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "He's down. We got him. He's down. Grimes pulls off his cans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Your kids are lucky, Gus. Their father's coming home toni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDIA MONITORS, POLICE VIDEO TAP, TV SETS",
+          "text": "The cops. Lampley. America. All tuned into the --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sheer pandemonium. Hostages run for cover. The phone rece",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lampley continues his live coverage as horrified crowds m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "All we know at this point is that an attempt has been mad",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. sits, his shirt soaked in blood. Among all the madne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper loses his balance and his leg crashes through",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. blinks. The wound, the hysteria, the events of the d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stunned, Monroe, Moody, Grimes and Payne grimly watch J.Q",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "He's not down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "This is very bad, Gus. A UNIFORMED POLICEMAN runs up with a cell phone and hands",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Not now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLICEMAN",
+          "text": "It's the Mayor, sir. And you better kill that video feed. As Monroe takes the phone and Moody starts barking out or",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The beautiful woman's body is loaded onto the medivac. Th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The daisy wheel keeps on turning. WE SEE the words as the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sniper now sits restrained to a chair, his hands and J.Q. It's over. Mikey's not going to make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "But the list. J.Q. What list? They're shooting at me. They're not going to h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "What about an El-vad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "No. J.Q. What's an El-vad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "A left Ventricular Assist Device. It's basically a pump i J.Q. All this time there's been a way to save his life and you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "It's not a solution. It's only a band aid. Mike's immune J.Q. Will it give him time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Not long. It's only a temporary measure. J.Q. My kid's down to hours and minutes, Doc. Things don'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The police are unceremoniously disconnecting Channel 8's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "You're going to bust me? Get real. You just shot an innoc A roar from the crowd indicates something big is happenin J.Q. Grimes. Grimes! Behind the barricade, Frank Grimes stands with Monroe and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Alright, what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Let's go out there. See what he wants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "But I thought you said I was out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "I stepped in shit, Frank. Is that what you want to hear, Frank Grimes smiles before grabbing a megaphone from one",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Hold your fire. J.Q. looks around at the hundreds of weapons all pointing J.Q. Look what I found. The crowd cheers support for their new hero.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "John. J.Q. Who are these guys? Who the hell are you? Oh, I know who J.Q. indicates his bleeding shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Almost.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "This is Sergeant Moody and Police Chief Monroe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "What are we doing, John? J.Q. You were going to call me back. I gave you your hostages",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I don't want you dead. J.Q. No, you want to kill me. You want to kill me so bad you c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Nobody wants to kill you. J.Q. Nobody wants to kill me? (indicates the sniper) Who is this? The crowd voices their displeasure in a chorus of \"boos.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "That wasn't my call. I -- J.Q. I, I, I bullshit! You tried to kill me. You tried to kill The crowd erupts. They're getting rowdy now. The cops are",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "John, listen to me. Lieutenant Grimes had nothing to do w J.Q. Don't lie to me. I don't need to be bullshitted by some l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What are we, friends all of a sudden? All of a sudden, we J.Q. hears the words and they sink in. He knows they're r",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES, (CONT'D)",
+          "text": "Look around you. Look at all of it. It's crazy. You don't J.Q. I just want my life back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I understand. It's hard to be a man these days. Hard to k J.Q. I don't believe you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I give you my word. J.Q. Forgive me for being skeptical, Frank, but your word is s The crowd goes crazy, cheering and shouting out their enc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Hey, what are you doing? Stay with me, John. You think th J.Q. I want my son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "What? J.Q. Bring me my son. I want my son inside with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "Can't do it. J.Q. There's an operation that could save his life. I'm going",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "You listen to me, you sonofabitch. You give this up right J.Q. Are you threatening me, Chief? Take your best shot. Oh, I Monroe studies J.Q. and considers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "What do you think, Frank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "I say give it to him. He's not going to hurt his boy. Monroe takes his time making his decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOODY",
+          "text": "Sir, the object is to get hostages out, not to let more i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONROE",
+          "text": "The boy is not a hostage. He's the man's son. Do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike's hospital bed flies down the hallway. Running along",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Mom, where are we going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "To see your father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The front doors burst open and Mike's bed is rolled onto",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COPS",
+          "text": "Coming through. Let's go. Move it back, folks. The mob swarms around the speeding bed, trying to get a l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Let me through. I'm his mother. But she is held back as Mike is ushered through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike's bed is rolled slowly to a stop outside the ER door",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Dad, where have you been? J.Q. Just waiting for you, buddy. Mike looks up to see Dr. Turner walking alongside. He loo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. looks at Mike as the medical team assess his conditi J.Q. How are you feeling, slugger?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I'm okay. Tired. Beep. Beep. The monitors whisper faintly, irregularly, Tu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Out. J.Q. What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I need some time to examine Mike and I don't need you get J.Q. I'll stay in the corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I'm serious, John. Let me do my job. Turner ushers him out the door and closes it behind him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q., alone, notices the simple wooden cross hanging over J.Q. Bless me, father. For I have sinned. It's been a long tim",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Turner administers the meds and Mike's eyes glaze and rol",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Are you God?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "(caught off-guard) Yeah, kid. Yeah, I am. Turner continues working, and as he turns his back to the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Where you been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q.",
+          "text": "I keep waiting for you to step in and help him. But you n Dr. Turner appears at the doorway and sees John on his kn",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "John? J.Q. looks up and Dr. Turner soberly shakes his head. The",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dr. Turner and John look through the glass at Mike restin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Mike's blood pressure has dropped into the mid-forties. H J.Q. But...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Not buts, John. Without a new heart, he's not going to ma J.Q. is devastated. It takes a few moments to sink in. J.Q. Take mine. Turner doesn't get it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "What? J.Q. You heard me. Take my heart and put it in Mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "John, buddy, you're talking a little nutsy cukoo, here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "You can't be serious. J.Q. You think I'm just going to stand here and watch my son d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "Wow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "Oh my God. Lester tries to comprehend the nihilistic existentialism",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "But that means you'll die, man. J.Q. calmly finishes Lester's thought. J.Q. And my sone will live.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "John, you can't do this. J.Q. It's the only way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "No, you don't understand. You physically can't do it. J.Q. Why not? I kill myself. You cut me open and take my heart",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "The boy crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Nutsy cuckoo, I'm telling you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "We just can't remove your heart and put it into Mike's bo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "There's too many unknowns. Matching a donor and receiver J.Q. Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Cross matches for blood type, chest cavity measurements. J.Q. Come on, Doc. I know all about compatibility. We've been",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "No, we don't. You're an adult. Mike is strong, but the am J.Q. I'll take that chance. It's better than letting him die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Out of the question. Too risky. J.Q. I'm telling you, he'll make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Can't do it, John. J.Q. You're telling me that if I'm laying dead on the floor, y",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "I think what John's trying to do is right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBY",
+          "text": "Me, too. I think it's very brave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Yeah, it's all very noble and brave. But what do you thin J.Q. Mike is too young to know what's good for him. I'm his fa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Are you saying Mike's life is more important than yours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Or that it's okay that Mike grows up without a father?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "You can have more children, John.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "What happened to Mike is bad, man. It's the worst. It ain J.Q. Accept what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "That Mike's going to die. J.Q. No. I don't accept it. I reject it out of hand. John moves over to Dr. Turner to plea his case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "I know you only think of Mike as a patient, but he's a gr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I do like him. J.Q. Please. You've got to help him. I'm begging you. If you e",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I'd like to. I really would. But what you're asking cross J.Q. I've crossed the line? No, you've crossed the line. The w J.Q. paces around the room, his hand on his weapon, his m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "I don't think you understand. I'm not letting him die. Ha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "So, what, you're going to kill me if I don't operate. J.Q. No. I'm going to kill myself. J.Q. puts the gun to his temple.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "And we'll just see what happens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "Aw, man, this is messed up. J.Q. We all know how this works, people. In order for Mike to J.Q. and Turner's eyes meet. Turner doesn't speak for a l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Alright, what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "I'll do it. If that's what you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Wait a minute. Are you serious? The room goes quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Once he's dead. Why not? Dr. Klein moves to Dr. Turner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "You're the finest surgeon I've ever known. You can't just",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Yeah, you're not God. It's not up to you to decide who li J.Q. Aw, come on, Mitch. We're all going to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Not for nothing, Doctor. But if you do this, you're finis",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "So, what are they going to do? Sue me? Disbar me? Evict m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "Raymond, you're under a lot of stress. You're not yoursel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "Yeah, well, what is myself? Because right now, I really d He takes his Patek Phillipe watch off and throws it at th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER, (CONT'D)",
+          "text": "I run six miles a day, drive around in my little black Po",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "But...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "This is still a hospital. There's a sick kid in there and The room is stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A medivac chopper swoops down, lands on the big white cro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The stretcher is rushed into the O.R. and the body is pla",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In another room, an UNOS OFFICIAL is notified of the beau",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNOS OFFICIAL",
+          "text": "She's here? He gets up and is on the move, securing his wireless head",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The UNOS Official moves into the OR. Everything the trans",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAL TRANSPLANT PERSON",
+          "text": "Female. Donor. Thirty-three years old. Five foot seven. L",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNOS OFFICIAL",
+          "text": "Lungs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAL TRANSPLANT PERSON",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNOS OFFICIAL",
+          "text": "Heart?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAL TRANSPLANT PERSON",
+          "text": "Heart is good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNOS OFFICIAL",
+          "text": "Type? The transplant team are busy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNOS OFFICIAL, (CONT'D)",
+          "text": "Come on. Blood type?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDICAL TRANSPLANT PERSON",
+          "text": "(checks bracelet) B-positive.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The TVs are now off. J.Q. looks out the window at the eve J.Q. Come on, guys. Let's hurry it up. They could bust in here",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "This was your plan all along, wasn't it? J.Q. Last resort. You think I wanted it to turn out like this? J.Q. pulls a piece of paper out of his pocket and unfolds",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "This is my will. I'm leaving my heart to my son. He holds up a pen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "I need two witnesses. Don't everybody jump at once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LESTER",
+          "text": "I ain't signing your death warrant. No way. J.Q. Come on, people. The sooner we get this done, the sooner",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JULIE",
+          "text": "I'll sign.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "Me, too. They do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD, (CONT'D)",
+          "text": "You know something, man? You're alright. J.Q. Sure am. Only one thing can stop me now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECURITY GUARD",
+          "text": "What's that. J.Q. Mitch here being B-positive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "No, sir. Type-O.ГЉ Swear to God. For a moment the mood is light. J.Q. looks around the roo J.Q. Hey, you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MITCH",
+          "text": "Yeah. J.Q. Do yourself a favor. Start doing the right thing, huh? Li J.Q. looks around the room before he leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Alright, people. See you in the funny papers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The daisy wheel buzzes, pounding letters onto the print p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PULL BACK TO REVEAL",
+          "text": "A man sitting alone in front of the computer. He rips the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A fax machine chirps in the quiet PICU. Reggie picks up t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "Oh, my sweet Jesus. Paper in hand, he sprints out of the ward and down the co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John enters to find Dr. Klein checking Mike's vitals. The J.Q. Can I have a word with him? Dr. Klein exits and J.Q. moves to Mike and gently wakes h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Hi, Dad. You find me a heart? J.Q. Yeah, kid. We got you one. Look like you've got a guardia Mike smiles and tries to go back to sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Try to stay awake for a minute, will you? I just need to He's all over the place, searching for the right words.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "And girls? You're too young for them now, but when the ti He's stumbling, trying to cram a lifetime of advice into",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Don't smoke. And try to be kind. But if someone chooses y J.Q. just sits there, the tears running down his face, no",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "Mike? Mike's eyes open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Yeah, Dad? J.Q. See you later, buddy. Mike closes his eyes before opening and closing his littl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Reggie races through the hospital, weaving in and out of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maguire, Klein and Turner speak in hushed tones as J.Q. r J.Q. Let's do it. Maguire gathers fresh, clean towels and makes a pack for",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "Wait a minute. This gun was empty the whole time? J.Q. Aw, I'm all talk. I would never hurt any of you. Only per",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Reggie flies out the main entrance and into the crowd, pu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "Miss Payne! You're not going to believe this! We've got a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Are you sure? Payne studies the fax. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "B-positive. Michael William Archibald. The only status on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's official. The heart is on the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "Well, I'll be damned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You really put the kid on the list?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAYNE",
+          "text": "I may be a lot of things, Lieutenant, but I am not a liar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "J.Q. readies himself before laying back on the roll of to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "John. Stop. I changed my mind. I won't do this. J.Q. regards Turner with positive affection. J.Q. You're a good man, Doc. I know you'll do the right thing. J.Q. lifts the gun to his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Reggie, Grimes, Payne and Monroe run over to Denise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Mrs. Archibald? I have some very, very good news.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The moment has come. Everyone's face wears the intensity J.Q. Sorry. Safety's on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Denise reads the fax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "Is this for real?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REGGIE",
+          "text": "You bet. The Lear Jet just landed at O'Hare. The helicopt Grimes offers his walkie-talkie to Denise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "You want to do the honors?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "(into walkie-talkie) John? It's me, baby. Are you there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE, (O.S.)",
+          "text": "John, honey? Pick up. J.Q. hears Denise's voice squawking over the walkie-talki",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Denise keeps triggering the walkie-talkie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "John? John? Oh, no. Desperate, she grabs the list and starts running towards",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE ON J.Q.'s GUN Moves closer to the temple til it touches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Denise breaks through the police barricade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSER ON TRIGGER as John's finger pulls it tighter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BLAM! The sound is revealed. Not a bullet. It's Denise sl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "John! It's a miracle! They found a heart! It's a miracle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The crowd points and stares as a white medivac helicopter",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PULL BACK TO REVEAL",
+          "text": "Tuck Lampley, hand over his ear, shouting above the noise",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY",
+          "text": "The heart is here. Repeat. The heart for little Mike Arch A roar from the crowd is heard as the entrance to the ER",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "Oh my goodness, here we go. The first of the hostages are Julie and the security guard are next. And are quickly us",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "More, now. And there he is. John Q. is coming out. J.Q., in baseball hat and windbreaker, emerges from the h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "The suspect's hands are up. He appears to be surrendering The police are all around him now. Pointing their weapons",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "And they've got him. The police have subdued him. The han The crowd voices their disapproval with the rough way J.Q",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAMPLEY, (CONT'D)",
+          "text": "If pictures speak a thousand words, well, I'd say these i Frank Grimes takes in the whole scene. But as he glances",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike's gurney flies through the hospital corridors. Runni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As J.Q. is pushed into the car, Grimes sees his real iden",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dr. Turner and the team work with quiet precision as Mike",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "It's time, John. J.Q. turns, knows it's over. J.Q. Can you give me a second, Frank? I just need to see this",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Sure. Put these on for me, will you? Grimes hands J.Q. a pair of handcuffs. John puts them on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Blood pressure seventy over thirty-two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "Acute respiratory distress.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "He's fibrillating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAGUIRE",
+          "text": "I don't have a pulse. John and Denise look on, helpless. Dr. Turner barks out c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. KLEIN",
+          "text": "He's going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. TURNER",
+          "text": "No! Come on, goddammit! I'm not losing this boy! Nut now the long familiar tone of the EKG is heard. FLATL",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIDEO IMAGES FILL THE SCREEN",
+          "text": "Various news related programming. \"Crossfire,\" \"Face The",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "...cannot let this man free. It sends the wrong message.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "I agree. Although he's paid a heavy price, he took matter",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "Maybe it's the wake up call this country needs...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "...socialized medicine in England has worked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "Sure, to a point. Except when it's their life on the line",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "I think the decision we see today will tell us a lot abou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEWS REPORTER",
+          "text": "The long awaited verdict is expected today in the trial o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A gavel pounding down. The black-robed JUDGE silences the We see Denise next to a grim-faced Jimmy and Gina Palumbo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Has the jury reached a verdict? The foreman stands, faces the judge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JURY FORMAN",
+          "text": "We have, Your Honor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "The defendant will please rise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AT THE DEFENDANT'S TABLE",
+          "text": "J.Q. Archibald gets up and faces the judge. His attorney, Standing next to Denise, we REVEAL MIKE - he looks health",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE, (CONT'D)",
+          "text": "The jury foreman will now read the verdict.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JURY FORMAN",
+          "text": "As to count one, Assault with a deadly weapon, we find th The courtroom explodes in cheers. In the crowd, we see fa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JURY FORMAN, (CONT'D)",
+          "text": "On count two, Armed Criminal Action. Not guilty. The crowd again roars its approval. Steve and Miriam watc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JURY FORMAN, (CONT'D)",
+          "text": "On the final count, False Imprisonment, we find the defen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Quiet! Sentencing will be one week from today. J.Q. stares straight ahead and takes a breath. After a mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PUBLIC DEFENDER",
+          "text": "He's going to do some time. But there's not a judge in th J.Q. leans over to talk to his son. J.Q. You alright? Mike nods and stands there trying to hold back the tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "It's okay, slugger. I'll be home soon. If you need anythi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Don't worry. If anybody messes with us, I'll take care of J.Q. embraces his boy and moves over to Denise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "A year, huh? I could have lost you forever. I guess I can A hand taps him on the shoulder. J.Q. looks up. Sees Grim",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Time to go, John.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENISE",
+          "text": "John? I'm proud of you. J.Q. smiles and Grimes starts to lead him away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIMMY",
+          "text": "Give 'em hell, Johnny. Don't worry about nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Bye, Dad. J.Q. Not goodbye. Remember? See you later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An enormous crowd lines both sides of the granite steps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE IN CROWD",
+          "text": "Hey, John. Good luck, man. J.Q. recognizes the voice, turns and sees LESTER. Both sm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "John Q.? Do you feel like your country has let you down? J.Q. (quietly) No. It's a wonderful country.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REPORTER",
+          "text": "I'm sorry. I couldn't hear you. Could you repeat that? Grimes steps forward and speaks directly into the camera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "He said, \"America is the greatest goddamn country in the They push past the barricades and into the street. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEDIA",
+          "text": "John Q.! John Q.!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Look at all this. You're a celebrity, John. J.Q. Yeah? Check with me in a couple of days. They move to the street and Grimes opens the car door. J.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J.Q., (CONT'D)",
+          "text": "This is ridiculous. I don't even know these people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "What can I tell you? You're their hero. J.Q. I'm not hero, Frank. I'm just a regular guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRIMES",
+          "text": "Yeah, right. Grimes slams the door. The \"cherry\" light spins, the sire",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the street, J.Q. sees Mike wave to him from the sidewa Mike's lips say \"Thank you.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John winks at his boy. EXT. STREET - CONTINUOUS Mike makes a muscle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John smiles, and the car picks up speed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The cop car pulls away. Away from the courtroom. The circ",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1037"
+    }
+  ]
+}

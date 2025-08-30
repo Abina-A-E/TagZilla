@@ -1,0 +1,3959 @@
+{
+  "movie_id": "MOV439",
+  "scenes": [
+    {
+      "location": "CAFE-DAY",
+      "characters": [
+        "TITLE CARD",
+        "START \"DONE AND DUSTED'",
+        "PARK-RIVERSIDE-CONTINUOUS",
+        "TITLECARD",
+        "OK.",
+        "EXT. CAFE-MOMENTS LATER",
+        "QUINN'S ROOM",
+        "OK...",
+        "BLACKNESS",
+        "END CHOIR MUSIC",
+        "INT. QUINN'S ROOM-MOMENTS LATER",
+        "TREE",
+        "INT. QUINN'S ROOM-A FEW MOMENTS LATER",
+        "ZOEY 10 YEARS OLD",
+        "LOUIS",
+        "QUINN",
+        "PARK-RIVERSIDE-EARLIER",
+        "DUMPSTER",
+        "ZOEY AND ANNA'S APARTMENT",
+        "INT. RESTAURANT-MOMENTS LATER",
+        "ZOEY'S FACE",
+        "EXT. ZOEY'S APARTMENT BUILDING- SOMETIME LATER",
+        "FLASHBACK-ZOEY'S HOME-YEARS EARLIER-DAY",
+        "INT. ZOEY AND ANNA'S APARTMENT- A FEW MOMENTS LATER",
+        "HALLWAY",
+        "END SEQUENCE",
+        "OTHER SIDE OF THE FIELD-AWAY FROM THE BATTLE",
+        "OPEN FIELD",
+        "FLASHBACK-ZOEY'S ROOM-A FEW MOMENTS LATER",
+        "INT. QUINN'S ROOM-HOURS LATER",
+        "FLASHBACK-ZOEY'S HOME-TEN YEARS LATER-DAY",
+        "RYAN BLOOD",
+        "PARK-RIVERSIDE-PRESENT DAY",
+        "JACK",
+        "RYAN BLOOD'S APARTMENT- A FEW MOMENTS LATER",
+        "FLASHBACK",
+        "ANIMATED SEQUENCE",
+        "QUINN'S ROOM- LATER",
+        "LOUIS APARTMENT",
+        "ZOEY AND ANNA'S APARTMENT-A FEW HOURS LATER",
+        "INT. CAFE-DAY-MOMENTS LATER",
+        "ZOEY 13 YEARS OLD",
+        "DARKNESS",
+        "ZOEY AND ANNA'S APARTMENT-EARLY MORNING",
+        "OK",
+        "START CHOIR MUSIC",
+        "OTHER SIDE OF THE FIELD",
+        "PARK-RIVERSIDE",
+        "DREAM SEQUENCE",
+        "END DREAM SEQUENCE",
+        "ZOEY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A nervous leg shakes under the table. The appendage seems to be attached to someone who has a lot on their mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LOUIS, a college student in his late twenties stares at a friend who is sitting off screen. Louis is calm, almost villainous in how collective he is. He stares at this unseen friend, trying to assess the cause for his anxious state.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smug) Something is bothering you... We finally see QUINN, also in his late twenties. He is obviously uneasy about being out in public with this person.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I appreciate the faux concern but I'm fine. Louis is taken aback.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My concern is genuine...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "With our history can you honestly say you care about my well being?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes I can, our connection is a product of destiny. I have no ill-will against you. Quinn scoffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "1941-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-The Stephen Speilberg film?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, there was that little French girl I liked. You..you violated her and torched her farm killing her family-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Actually you are jacking up the story, I violated her father in front of her...then I torched the farm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well...that makes it ten times better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn that was war, people do crazy things midst of wide spread conflict. I have gotten jaded over time. It's not like the dark ages when I had style.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When you would rape the horses and ride away on the women?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah I was such a ham. (beat) Quinn, this is what we do. I have gotten carried away in the past, but now I'm tired. I just want to get this over with. It's our calling, we help bring order and balance to the universe. (beat) Maybe I would feel less removed if you would let me win just once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This isn't a 1930's boxing match. If I take dive, I'm not lining the pockets of some bookie...I'm bringing on the apocalypse. Louis takes a drink of his coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See at least our obligation would be over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis I might be nervous, but I accept my role as savior of this world. (beat) We have been doing this for years-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-centuries-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-and in 5 days we will do the same thing we have always done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(beat) We'll fight to the death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Atta' boy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. CAFE-DAY-MOMENTS LATER",
+          "text": "We pan across the cafe to the table of ZOEY and RICK, a young college aged couple. Zoey is obviously trying to have a serious conversation, while Rick hides behind his laptop using it as a shield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...I'm not saying this is an intervention. Rick doesn't look up from his laptop screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wouldn't there be more people here if it was an intervention?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See and I don't want it to be-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(disinterested) -That's because it's not",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's just...I mean...are you gambling again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(totally removed) Nope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Because...um...the laptop, and you never go anywhere with out it-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-it's my lifeline-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Yeah well...I just know when I met you I saved you from that downhill spiral...you know...uh...the online poker-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-I'm not a project, you know that right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course not...I never said you were.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Because you act like it...I wonder if I didn't have this \"so called problem\" if you would have even been interested in me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course I would. I just-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Take it upon yourself to save people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "OK...maybe. Honestly we have to save each other, who else is going to do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(continued to be removed) People could just save themselves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "True. Is that human nature? People rely on false deities, self help books...Rick the day I realized we were alone in the universe was the day I realized we have to be there for each other. (beat) Plus don't you find it romantic that I want to save you? Like a movie...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So our relationship is like a romantic comedy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(dreamy) A Cameron Crowe romantic comedy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh well...so do you want to see what I'm doing on the computer? Zoey feels like she has broken down the \"wall\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes...of course!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick spins the computer around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Check that out Lloyd Dobler.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Shocked) Is that...porn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Red Tube...like You Tube...but with porn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um.... (lightbulb) wait...is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Us having sex?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yeah... Rick reaches over and points at the laptop screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love the part coming up. (beat) You know where I put your legs behind your head and yell \"hump bunny!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah...um...I'm not OK with this...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah...OK...I'm also breaking up with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Yeah not working any more for me-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the hell?!? How is it not working?!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are yelling...you know I don't like confrontational situations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not trying to be confrontational...I just...you are breaking up with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Yeah...Can I have my laptop back now? Zoey, still confused, slowly turns the laptop back toward Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looking at the screen) This part is fucking priceless. Zoey is bewildered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis kicks at the ground, almost as if he was searching for something. His foot finally rests on a broken tree limb. He places his foot under it and kicks it up to his right hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This will do. He throws it over to Quinn, who catches it in one swift move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what are you wanting to do? Louis searches around for a stick of his own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I figure we would train...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why? Louis finds what he is looking for as he spins his limb into attack position.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Because you dominate me every time- (beat) -ohh that sounded dirty",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you want me to help you get an advantage?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I want you to help me put on a good show. Everyone loves a good climax Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARK-RIVERSIDE-CONTINUOUS",
+          "text": "Zoey sits on a bench beside her best friend ANNA. Zoey is completely distant, as Anna's words pass through her into thin air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know I don't like interjecting myself into other people's affairs but-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(barley paying attention) -But you're going to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You let Rick do this to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Snapping to it) How so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You think you can change the men you are with. You can't get into a relationship with someone in the hopes that you can mold them into the person you want them to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rick needed someone stable-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Rick needs castrated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's slightly strong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He was an asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Misunderstood-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-OK I'll meet you half way...misunderstood asshole. (beat) You have been repeating the same cycle your whole entire life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now that's a little off base.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY 10 YEARS OLD",
+          "text": "A young BOY is sitting on another little boy's head. It looks like he is passing gas on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Remember Billy, who used to give kids the \"dirty bomb\"? You took it upon yourself to change this behavior- The boy is now doing the same to Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-This put you right in the cross-hairs to be his next victim.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY 13 YEARS OLD",
+          "text": "ZACK, a young teenager is selling drugs on the street corner. His bags of coke should be exaggerated, as well as the customers coming up to buy from him. Think if South Park was crossed with HBO's The Wire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good old Zack the neighbourhood drug dealer- Zoey takes Zack into a room labeled \"Rehab\" on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-You took it upon yourself to be his personal savoir. What did it get you? Zack is out with Zoey when a few of his old GANG FRIENDS show up looking to collect. Zack opens his pockets to show he doesn't have any dough on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well when Zach's old business partners wanted to collect on a debt- Zack slowly pushes Zoey toward them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A few days later we see Zoey being used as a human coffee table as the gang uses her back to cut cocaine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- they used you to replace their missing coffee table they broke during a drunken party. ZOEY 17 YEARS OLD. A gang member looks directly into the camera. He smiles showing his golden grille.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-And then you have Toothpick. What kind of name is Toothpick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was his gang name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course. It's prom night and Toothpick is in his \"pimp\" tux. He takes a swig of his \"40\" while he dances with Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We won't talk about prom night. Needless to say it wasn't romantic. Toothpick and Zoey are in an hotel room. Toothpick is standing over Zoey, who is facedown on the bed. It appears he is urinating on her. It's hard to tell with the black censor bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Exaggerations-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Accurate account of events... The story of your romantic life-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Unfair. Because these people need someone who is going to sacrifice their own needs for them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who else is going to do it? We're alone in the universe. If we are going to make it through this \"crazy world\" we need to look out for each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you use atheism and the whole \"we are alone in the universe\" jive to justify your actions. (beat) I regret taking you to see Dawkins because you use that as a fall back to be codependent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "First of all you are bitter about the whole Dawkins thing, because you flashed him your tits and got us kicked out-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-You didn't even know the first thing about \"The God Delusion\" until I gave you a copy-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-And someone who was huge supporter turns her back because Richard Dawkins didn't like her nipple piercing-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(playful banter) -Enjoy your suite in hell non-believer-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(more banter) -Enjoy your delusional life there fence sitter. How about you pray to Thor to hit me with a lighting bolt so I can be removed from this asinine conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're hiding behind this religious debate because you don't want to admit you have always gravitated toward the \"wrong type\" of guy. Zoey is staring off into space.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(detached) I actually stopped listening to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you staring at? Zoey points at Quinn and Louis, who are fighting with tree limbs in the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who are those guys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The one closest to us is Quinn. Very weird, socially awkward type of guy. I don't know who his friend is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are they doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know. Looks like that stuff my ex- Rob was into-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh that medieval rugby style game-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Yeah the made up sport from \"Blood Of Heroes\"...Oh...Jugger!-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Sounds pornographic. (beat) So Quinn? What else do you know about him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh no you don't! This is exactly what I was talking about! Anna senses something in Zoey that she is trying to hide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wait a second? You've already established contact with Quinn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is this MI-6?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have your sights on him already!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I'm just curious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARK-RIVERSIDE-EARLIER",
+          "text": "Zoey is overcome with emotion as she makes her way down to the riverside. She is holding something tight in her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As her hand opens a class ring was digging into her palm. It appears this might have belonged to Rick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARK-RIVERSIDE",
+          "text": "Still teary eyed, Zoey angrily throws the ring toward the river. A gust of wind causes the ring to curve and it slams into the temple of a man sitting on a park bench. Zoey walks over to apologize and meets Quinn for the first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(making her way to the bench) I'm so sorry Quinn rubs his temple and then reaches down to pick up the ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(handing the ring back to her) Is this yours? She takes the ring and shoves it into her pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kinda... Again I'm so sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No need to apologize. Quinn scoots over and motions for her to sit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you want to sit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(unsure)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK",
+          "text": "Zoey sits, still apprehensive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(reaching her hand out) I'm Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(He returns the gesture) Quinn. (beat) Zoey? Interesting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh name? Yes, most people have interesting stories behind their names...Honestly I have nothing. Not sure why my parents did that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Very unique.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smiles) I suppose that's a compliment. So I've seen you around school, but never really...in...class...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't go to Marshall, I live near the campus though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, well so what do you do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As in profession? I don't really have one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really? Rent is insane around here...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, my father provides for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's pretty cool. What's he into?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "Everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "An entrepreneur...That's awesome. (beat) Well...So do you like coming down here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "To the river?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "(smiles) Yes where we are right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "I just needed to think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Yeah me too. I just suffered a break up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "My apologies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "No it's OK. I mean I'm over it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "(laughs) My head disagrees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "It's really OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "So what did you need to think about? I mean if I'm not prying of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "No, I just have some problems. (beat) I'm not sure about my calling in life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "I'm not sure anyone is. You know if you need a friend, I'd be glad to...well you know...listen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "I'd appreciate that. I don't have many friends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know. (trying to double back) I mean...I've seen you around campus...you seem like a loner...I didn't mean you were a loser. Loner is kind of sexy, loser...well can kind of be too...I'll stop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, it's OK. I agree it never hurts to have a friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So we can maybe go out to dinner if you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And I can pay, you know..make up for the head...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You really don't have to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No I want to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well... (beat) Good let's meet up tonight. My place, 7pm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JACK, A 20 year old gay man who loves him a good \"Cosby Sweater\", is sitting at the computer desk \"surfing\" on the desktop. Anna walks up from behind and runs her fingers through Jack's hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So when does Ted Bundy get here? We follow Anna across the room where she plops herself down on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I promised her we would behave. A KNOCK is heard at the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Although knocking right as I sat down doesn't endear him to me... Jack gets up from the desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You sit your pretty little ass down hooker. Anna adjusts herself back down into the comfy couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is why I don't need a boyfriend. You are way to good to me. Jack opens the door to reveal Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look at this mother fucker. He rudely motions him to come in and sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey is in the bathroom getting ready for a night of manipulation, sit the fuck down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(confused) Um...OK? In almost the same beat, Zoey walks into the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn, is he being rude?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looking at Jack) No quite pleasant. Zoey reaches out her hand to help Quinn off the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looking at Quinn) I will call the state police in a fucking heart beat if she isn't here by midnight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(still confused)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK",
+          "text": "Anna grabs the remote trying to ignore the situation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anna, you going to call the guard dog off?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(out of it) David Smith's Candytakers is on tonight. I'm relaxing and not getting in the middle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(To Jack and Anna) Nice meeting both of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get the fuck out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Jack and Anna) Don't wait up Zoey and Quinn leave the apartment as Jack stares daggers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey shuts the door and then turns to stop Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sorry about Jack...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I like him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. RESTAURANT-MOMENTS LATER",
+          "text": "Zoey and Quinn are enjoying their meal at this fancy upscale establishment. Quinn picks up his menu, running his finger down though the menu items.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey I would be more than happy to pay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No not at all. This is on me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can cover dessert at least.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Listen Quinn, I'm an atheist-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-So you don't want dessert?-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-No, I just wanted to get it out of the way. It bothers people, I mean in this state especially. Quinn puts down the menu.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It doesn't bother me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't believe anyone is truly an atheist at the end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm pretty sure I'm really an atheist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Because I'm a logical thinker. (beat) I don't mean to offend, I'm guessing you're religious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One supports the business they are in I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Oh my God you are in the ministry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "(smiles) Kind of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "My father was a \"fire and damnation\" preacher. Baptist...He's...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "He's?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "It's nothing. (beat) Sorry I don't mean to rock your world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "(smiles) You didn't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "You poor thing. You are probably so desperate for friends-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "(laughs) What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Have you thought about St John's Wort?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "You are a very cryptic speaker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "No I'm thinking out loud mostly. I was just...well...you have some social awkwardness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Well you are latching on to religion to make you feel whole. It doesn't make you feel whole, or at least as whole as you thought it would-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "You are kind of right on that one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you are out with me...I represent everything you were brought up to combat. You're missing something and you are looking for help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am looking for help. I'm out with you though because I'm interested in getting to know you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smiles) See I'm good at reading people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(rolls eyes, smiles) Kind of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know Quinn you seem like a lost soul. I thought that when I saw you by the river.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You like lost souls don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah I actually do. Someone needs to save them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You going to save me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you let me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you might be able to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(endearing smile) So what do you need Quinn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smiles) Dessert.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jack is passed out drooling on the couch. Anna and Zoey are cross legged on the floor in the midst of \"girl talk\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know, he seems fishy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He seems harmless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have heard that a million times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know. He's in the ministry-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-and you hate organized religion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know and he's understanding of that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Plus it's to my understanding he didn't actually admit what he did. He just did a bunch of double talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was understood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah again...not feeling confident in your choices. Please Zoey... (beat)... Be careful this time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn is sleeping in his bed. His room is rather bare, with the exception of the basic living necessities. It almost appears like a room at the \"Y\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A foot is seen kicking the bed, startling Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN'S ROOM",
+          "text": "Quinn flies out of bed and sees Louis leaning against the wall with his arms crossed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where were you last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(getting his bearings) Out...thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You've done a lot of mopping and thinking over the centuries. It kind of brings me down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what do you need?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Training.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis and Quinn walk out into a huge open field. Louis is carrying a black tote bag that he drops on the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now this is a place for a climatic battle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not bad. Quinn points at the bag",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's in the bag?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You will love this. Louis goes to the tote bag and starts to unzip it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I went to the toy store last night and picked these up. He reaches into the bag and pulls out two \"nurf\" style swords out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nothing like our real stuff, but it will do. Louis throws one of the \"swords\" to Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(catching it) It's kind of lightweight..and silly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis comes over carrying his sword.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on give it a chance. Louis comes at Quinn and his instinct kicks in. The two begin their mock battle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TREE",
+          "text": "From behind a tree we see RYAN BLOOD for the first time. He hides in the shadows taking pictures with his digital camera. Quinn and Louis continue to practice unaware of the unwanted attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis sips his coffee, while Quinn just stares out the front window. It almost as if he is searching for something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have not been lively at all this go around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A lot on my mind...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We only do this once every seventy years brother. You have to enjoy it while it lasts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis our whole purpose here, is to show up, and over time establish a social base, and then kill each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know and I'm very good at the social base part, and you are not so good...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's because you find a way to screw it up every time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's because, I know this is news to you, I represent evil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Here's the thing though, I'm tired Quinn. I really want to stop being the ambassador for this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's something we agree on. I'm tired too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know if we can get off this train. It's just a viscous cycle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Letting you win is not an option.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wasn't going there... (beat) ...yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn is sitting on the couch as Jack and Anna make their way for the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You guys leaving? Zoey comes out of the kitchen with a bowl of popcorn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah we don't want to interrupt your \"date rape\". Anna hits Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesus Jack! He can't do anything here anyway. Too much exposure. Witnesses my friend...We knew he was here. Zoey sits down and hands the bowl to Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will you guys stop??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's OK. I like your friends. Anna walks over to the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So Quinn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey says you are in the ministry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sort of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are or you aren't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's complicated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "At some point you will have to explain it to Zoey. I mean don't you agree?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(put out) Will you guys leave?? Jack grabs Anna by the arm and leads her to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who is going too far now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Date Rape\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(trying to make a point) Bye guys! Anna and Jack mumble as they head out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(turning to Quinn) Sorry about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's really OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jack puts his arm around Anna, as to stop her for a second.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know I hate him because it's my nature but-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-You think I hate him because of my distrust of men?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tragedy changes people, it effected Zoey in one way...you in another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah (beat,smiles) I became a \"fag hag\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey is curled up next to Quinn on the couch. A popcorn bowl is squeezed in between them. She reaches over and picks up the remote.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tonight's Feature Presentation is \"I am Curious:Yellow\". Probably not the best date movie, but I always show this to ever guy in the beginning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's OK this will be my first film experience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, I've never seen a film before. I mean I know of films, can't live in this world and not. I've just never seen one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This might be a little hard-core for your first film.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No it's OK. I'm excited. Zoey shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I feel like I'm stealing your virginity here. Zoey slowly looks over at Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're a virgin too aren't you? Quinn shrugs",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh my god! I'm a bad girl. Quinn puts his hand on her shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smiles) You are not. Quinn motions to the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Please play the film.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(hesitant) OK? I mean I usually play this for potential boyfriends. If they can handle this, they can handle me. Zoey hits play on the remote.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess you're lucky I thought about \"They Call Her One Eye\". (to herself) I hope this doesn't jack you up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn is sitting cross legged in the middle of the field. He seems as though he is in the middle of a trance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) I am curious Yellow... Louis walks up and throws a toy sword on Quinn's lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the hell are you talking about? Quinn stands up and grabs the sword.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nothing really. The two start to sword fight, but Quinn does not have his heart in it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You half asleep Quinn? Quinn stops for a second and drops his sword down to his side. Louis pokes Quinn in the chest with the tip of his sword.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look at that ladies and gentleman the apocalypse has begun. Quinn sits down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Have you ever seen a movie? Louis follows his lead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've seen plenty of movies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah I watched \"The Sorrow and The Pity\" at Marshal the other day. You know people here have yet to figure out we are not students.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think they have a pretty good idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So in all the times we have been here, you haven't gone to the cinema?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's not what we are here to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In your bosses name, what is wrong with you? You've got to enjoy yourself. You might be chosen, but you have needs. We all do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have to stay focused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You've also burned yourself out. You're not going to be any good to me... Louis gets up and reaches out to help Quinn",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...unless you take some \"you\" time. Quinn takes Louis' hand and gets to his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can we get back to the matter at hand? Louis brings his sword back up into attack position. Quinn is back to his \"swashbuckling\" self. The two battle it out on the field, matching each other blow for blow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We creep upon Ryan Blood as he works at his computer. On closer inspection, it appears he is editing video of Quinn and Louis' mock fight earlier in the day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis' set up is more lavish than Quinn's. It's obvious he indulges just a little too much. Louis comes out of the bathroom with a towel around his waist. He starts singing \"Motown\" songs to himself. He walks back off screen to the bedroom. We still hear him singing, as we pan around the apartment. We swing back around to the entrance of Louis' bedroom. He finally comes out fully dressed. He uses the towel he was wearing to finish drying his hair. He walks up to a mirror and starts looking at himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He starts to run his hands through his hair. He tries to straighten up the mess on his head. He picks up some gel and squirts a small amount in his hand. He runs it through his hair, getting the desired look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to himself) You are a handsome devil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS APARTMENT",
+          "text": "Louis spins around and grabs his keys off of the coffee table. He then dances right out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. QUINN'S ROOM-A FEW MOMENTS LATER",
+          "text": "Louis walks into Quinn's room and finds him not there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(puzzled) Weird? Louis walks out into...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HALLWAY",
+          "text": "...the hallway. Ryan Blood is standing in the doorway of his room, across the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You looking for Quinn? Takes Louis' a second to register Ryan's question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(nodding toward the exit door) He just left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis runs outside. He looks up and down the street. In the distance he finally spots them, Quinn and Zoey holding hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to himself) What do we have here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. CAFE-MOMENTS LATER",
+          "text": "Louis stands across the street, staring right into the window of the cafe. He clearly sees Quinn and Zoey on a date. His eyes widen as their hands touch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey and Quinn walk holding hands through the apartment building parking lot. Zoey stops for a second and turns to face Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why haven't I seen your place?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My place isn't very exciting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That doesn't surprise me. I can't imagine you having a vast Blu Ray collection.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Blu Ray?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wow...Quinn, you have to start enjoying the world around you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know I realized today you are right about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you're saying you want to come up stairs and watch \"They Call Her One Eye\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(laughs) Uh...no. I'm still trying to get I am Curious Yellow out of my head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah...sorry about that...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(smiles) It's OK. Suddenly, guided by instinct, Zoey kisses Quinn on the lips. Quinn is completely thrown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I...I..I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No don't be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I shouldn't have been that aggressive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No...it's OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need to get back though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Puzzling...but I know...virgin and all-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Well...I mean...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That came out rude...I just mean...I wanted to do it. I should have taken it slower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's OK. I'll be by tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(worried) I hope so. Quinn slowly turns around and walks away. Zoey looks at him like she is unsure if she will see him again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUMPSTER",
+          "text": "Meanwhile, leaning against the dumpster, Louis watches the display unseen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan is working at his PC when a KNOCK is heard. He gets up from his messy desk and makes his way over to the door. As he swings it open we see Louis on the other side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN BLOOD'S APARTMENT- A FEW MOMENTS LATER",
+          "text": "Ryan leans back in his desk chair. Louis has cleared off a spot on a messy couch. The apartment, simply put, is a \"shithole\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're here to learn more about his \"coming and goings\". To find out what I have seen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So far you are dead on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's more than that Louis-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-You know who I am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know pretty much everything. I've watched you, studied you...I feel I'm expert on your little game every seventy years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh yes. Ryan picks up a stack of documents and throws the papers one at a time at Louis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You battled as mortals- (beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-You were a Lamanite then- (beat) -Quinn was a commander of the Nephites, last survivor of that nation- (beat) -The savoir spoke to him, showed him his future...his destiny- (beat) -See after the death of Christ there was some debate on what was going to bring on the end and signal his return- (beat) - It was decided two great warriors had to fight. The winner would determine the start of the apocalypse. Your boss of course needed someone to represent his interests. Who better than Quinn's old adversary? Louis brushes the pile of papers of his lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where are you going with this you weird little man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You had strategy in the beginning. Middle Ages...Old West...Even World War II. (beat) Let's take a step back for a second. The Old West. Lack of faith, corruption, these things make Quinn weak. The chink in his armor is his faith in people. You knew that, and corrupting America...a young land...was the key. (beat) Quinn was a step ahead of you, and looked for a human ally. That ally was Joseph Smith, and Quinn...or I mean Moroni...led Joseph to the plates that later when into- Ryan picks a book up and throws it at Louis. Louis looks down at the \"Book Of Mormon\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-His little plan didn't work, but the book is a great coffee table discussion piece. This made him weak Louis. You could have destroyed him. The problem is you've allowed yourself to become fond of him. YOU need to embrace your destiny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How do I do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This girl is distracting him. Get his mind focused on the matter at hand. At this point I'm afraid he isn't even going to fight you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm surprised this girl even likes Quinn. He comes across creepy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maybe that's the key-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(lightbulb) -Make her think he's crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. QUINN'S ROOM-MOMENTS LATER",
+          "text": "Quinn opens the door to his room and spies a silhouette in the far corner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where have you been? The silhouette comes out of the darkness and into view. It should come to no surprise that Louis is emerging from the darkness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You've been waiting long?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No I figured you were on your way back-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-because you are spying on me again? So I don't need to tell you where I've been. Louis sits down on the edge of the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who's the girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's started again. You're already jealous. You are going to do the same thing you did during the war...you're going to sabotage this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm insulted frankly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you play that game. You are being facetious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I'm being serious. You care about the girl, it's obvious. Not in a friendship or I'm curious about human behavior way. Quinn sits down beside him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So why are you here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Have you told her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who I am? Of course not!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn you only have a few days left and you care for this girl- (beat) - What's the harm in telling her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's a lot of harm in telling her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If this is real and you really care for this girl, you have to tell her. It's only fair to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She has a best friend who is very guarded of me...It's odd she eluded to the same thing. You know the whole \"I'm hiding something, and I need to come out into the open\" thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sounds to me like she is right. Quinn gets up and walks to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I better do this now then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah you don't want to lose your nerve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can you let yourself out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course. Quinn slowly opens the door and walks out. The door creeps shut behind him. Louis smiles to himself, feeling satisfaction. His face looks evil, almost demonic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. ZOEY'S APARTMENT BUILDING- SOMETIME LATER",
+          "text": "In almost a \"romantic movie\" way, Quinn runs toward Zoey's apartment. When he reaches the door he knocks like his life depends on it. Anna swings the door open, she's obviously surprised to see Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the hell? You can hear Jack inside the apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the fuck?!? I want to watch Bring me the Head of Alfredo Garcia in peace!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need to see Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about tomorrow? Or never is good. You hear Zoey off screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's going on?? Zoey comes to the doorway and stands behind Anna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn? What's wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need to talk to you, it's important. Quinn grabs her by the arm and pulls her outside, pushing her right past Anna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesus Christ! Anna slams the door shut, leaving Zoey and Quinn outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need to tell you everything. Anna is so right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you talking about? Anna is right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've not been honest with you about what I do...or who I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need to come clean. I want you to trust me. I want your friends to trust me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(nervous laugh) OK Quinn, just spit it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK",
+          "text": "(beat) I'm an archangel named Moroni and I basically represent \"light\" or everything that's good. Louis, my friend, represents \"darkness\". Every seventy years we have to fight to the death. If I win everything stays the way it is. The world continues turning. If I lose, Louis takes on the role of the Antichrist and the apocalypse will be unleashed. I'm talking Book of Revelations stuff here. So I only have a limited time left in this world... (beat) I want to spend that time with you. Zoey is stunned, silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh honey... Zoey touches his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You must have a brain tumor or something. You're obviously mentally ill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey? I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey puts her finger up to his lips to quiet him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shhh. You need me more than ever. Zoey reaches down and takes a confused Quinn's hand. She leads him to the door. Like a sheep herder, she takes Quinn inside of the apartment. The last image we see is the apartment door slamming behind them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLASHBACK-ZOEY'S HOME-YEARS EARLIER-DAY",
+          "text": "Zoey, roughly 2 years old, sits in the floor of her parent's home playing. Her DAD, only seen from the waist down, walks in front of Zoey with his bible in hand. He makes it to Zoey's MOM, on the other side of the room",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not even helping me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't even know what you want!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't run my congregation with this sickness!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sickness is in your head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're too busy running around doing whatever you feel like. I'm going to fall apart and it's all on you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLASHBACK-ZOEY'S HOME-TEN YEARS LATER-DAY",
+          "text": "Zoey, now 12, is going through some boxes in the closet. Her head bumps a shelf and a box falls on her. When she goes to pick up the box she finds a ton of VHS tapes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She goes through the box looking at the labels: \"Anna age 7\" \"Anna age 10\" \"Anna age 12\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLASHBACK-ZOEY'S ROOM-A FEW MOMENTS LATER",
+          "text": "The glow of Zoey's TV fills her face. We can neither see nor hear what she is watching. Zoey looks like she is about to throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey jumps out of bed, like she is waking from a nightmare. A startled Quinn, who was sleeping beside her, starts to arouse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. QUINN'S ROOM-MOMENTS LATER",
+          "text": "Louis walks into Quinn's room with his black tote bag from earlier. It's obvious he was meeting Quinn to go train. He looks through out the room, but quickly realizes Quinn is probably with Zoey. He slumps down on Quinn's bed. Anger and hurt is portrayed upon his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn and Zoey are having coffee. It's obvious Zoey had a rough night. She takes a sip of coffee, her mind is distant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Enjoy myself? Of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Based on how you are acting this morning I have my doubts. That's not what I meant though. You woke up screaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I understand if you don't want to talk about it. I'm just concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's not a big deal. It was...a...well wouldn't call it a nightmare...repressed memory. Hell, it's not repressed...I think of it all the time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't want to hear about it. Quinn touches her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Please? Zoey takes a deep breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My father, I mentioned him before, was a Baptist minister. He always said he had this \"sickness\". He begged my mom for help, it was more important though for her to having shopping and dinner dates with her girlfriends. Anna, my friend that \"loves you\", has been in my life since I was tiny. She used to come over all the time. My Dad adored her. When I was around twelve I found something in the closet...tapes. My Dad and Anna from the time she was like seven...He... (starts tearing up) I showed my Mom, and Dad...well he got out of prison when I was seventeen. I don't see him anymore. His church, even though they knew he had a problem disowned him. He wouldn't have done that to Anna if my mom would have supported him, got him help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who do you think is to blame?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He tried to get help Quinn, he reached out to my Mom. I should have protected Anna too...I mean-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-None of this was your fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have to protect people. This was out of my control, you Quinn...What's going on with you...I have control of that. Quinn looks at Zoey. He loves her, but a part of him pities her too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey is curled up under Quinn's arm as they sit on the same bench from earlier. Quinn stares out toward the river. It's obvious he is pondering over his choices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love being with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Me too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't renege on my responsibilities with Louis though. Zoey sits up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not actually going to fight your friend to the death are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know you don't understand this. We just need to make the most of our time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn, in 2 days things are going to be normal. This is just a delusion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know you don't understand. I just need to go see Louis today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I understand that. Quinn leans his head back. He catches something out of the corner of his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn sees Ryan Blood hiding behind a tree. He is taking video of Quinn and Zoey with a \"smart phone\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARK-RIVERSIDE",
+          "text": "Quinn jolts up. Zoey is alarmed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is it? Quinn doesn't answer. He gets up and runs to the...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TREE",
+          "text": "Quinn looks behind the tree, but Ryan is long gone. Zoey comes up from behind, she places her hand on Quinn's shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What was wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My neighbor Ryan Blood...looks like he's spying on me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need to go see Louis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis is watching the video on the smart phone. He's seen enough, he throws it back to Ryan. Louis tosses trash off the couch so he can sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sitting down) I thought him admitting his true self would break them up-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan plops down in his computer desk chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-Instead he is still hot and heavy with her. (beat) He even did the \"bipty boom\" last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The fight is pointless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's not pointless. The game has just changed is all. (beat) We have two levels here: one is making sure we keep him engaged. (beat) Honestly though that's an afterthought at this point-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what's the next move? Ryan reaches into his desk drawer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(still searching) Well when he does become engaged... Ryan throws something at Louis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis catches the item. He looks down to see a nine millimeter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...We need to make sure you still have the advantage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey is pacing back and forth. Jack rubs his face in frustration. He is tired of watching Zoey tear herself up over this guy. Anna tries to step into Zoey's path attempting to get her attention",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey is jittery, she can't handle Anna blocking her way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I haven't heard from Quinn since he wigged out today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well honestly maybe that's a good thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He needs me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He doesn't need you! Not everyone needs you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(frustrated) This isn't about me and you-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-This is about me and you! You think you can make up for what happened. The fact you didn't notice, couldn't save me in time. You were a child! I was a child! You couldn't have saved your father either! Your mother couldn't have, no one could have! He was a fucking pedophile! Zoey slaps Anna across the face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hate me all you want, but it's impossible to redeem yourself for things you had no control over. Jack is sick and tired of this display.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just show her the fucking file. Jack gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(confused) What fucking file?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn runs toward Louis' apartment. His KNOCKS sound like a jackhammer on the door. Louis answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We have a problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're right. We do. Louis moves slightly and we see Ryan Blood in the background. Louis slowly closes the door in a stunned Quinn's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis turns toward Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought coming here would give us some privacy from Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think it worked out perfectly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jack walks into the room holding a file folder. Zoey is sitting on the couch trying to get a grip. Jack throws the file in her lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So is the file folder for dramatic effect?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No it was to keep everything organized... (beat) ...and for dramatic effect. Suddenly Zoey's cell phon rings. She sets the folder aside and answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn is on a pay phone, he's shaking. At this point he is lost on what his next move should be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan Blood!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You mentioned that earlier. What is going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's with Louis. They're planning to kill me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought that was the whole plan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No it's...this isn't like Louis. I think he is trying to cheat his way to a win.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why don't you come over here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on Quinn get a grip. Just calm down and come over here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "OK so just come on over and we'll talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No I mean you're right. I need to get control of myself. I have a destiny. I need to figure out my next move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn? No wait- Quinn hangs up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY AND ANNA'S APARTMENT",
+          "text": "Zoey slowly drops her cell phone to the floor. Jack picks up the folder Zoey set aside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know. He's losing it. Jack hands her the folder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You need to look at this. Zoey takes the folder from him and starts reading.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I spent a lot of time gathering that information.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what is all this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn Wilson and Louis Marks were orphans. Zoey is flipping through documents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn displayed some erratic behavior from the beginning. One of the staff members was Mormon and they would read stories to Quinn out of the Book Of Mormon. That employee was later fired, but a seed was planted in Quinn's head. He kept going on about how he and Louis were meant to fight to the death. Some of the children at the time claim Louis would encourage this behavior. He probably thought this was Quinn's attempt at playing. (beat) As things continued the staff at the orphanage thought Quinn needed help beyond what they could offer. They sent Quinn to a hospital. Zoey puts the folder down, the documents fall to the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not telling me anything I didn't already know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That makes it worse. You're going to continue this now that you know for a fact that he is nuts?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm too far into this now. I don't have a choice. Zoey picks the documents up and places them in the folder. She then tosses the folder on the coffee table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why don't you let us save you? Please Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let me be guys. Zoey walks to her bedroom, leaving Anna and Jack exhausted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY AND ANNA'S APARTMENT-EARLY MORNING",
+          "text": "The apartment is quiet. Anna no where in sight, more than likely in her room sleeping. Jack is passed out on the couch. Zoey walks in, it's obvious she hasn't slept all night. She scoots Jack's legs over and sits on the couch. She proceeds to pick up the file folder. She starts thumbing through the documents. After a few moments she finds one of interest. She reaches over and pushes Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(rousing up) Ehhh...what? You better be a hot bear of a man. Jack looks up and sees Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Or Zoey...What do you need hun? Zoey hands Jack a document from the folder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's this? Jack's eyes try to focus on the document.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Looks like a room list from the psych hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I gathered that. Under Quinn's room...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn and his roommate is listed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn's roommate was Ryan Blood?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah...looks that way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis stares out into the open field. A gust of wind blows through his hair. Ryan Blood comes up from behind and pats Louis on the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We need to talk. Louis turns around to face Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Strategy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Strategy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes. I have a method-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-I have to hear this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A 12 point system-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(confused) - Like 12 steps?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Exactly. It's a sure fire plan to throw Quinn off of his game Louis laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh I am so all ears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well the first thing you need is a battle cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me? A battle cry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes a battle cry. Every great warrior has one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And a battle cry is going to give me the advantage in battle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course it will. Why don't you try one out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, try one out right now. It's liberating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'd rather not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(extremely confused) Right here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Here I'll go first- Ryan let's out a scream that sounds as though he is being sodomized.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That was...interesting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See? (beat) Your turn. Louis looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So right now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course. Louis inhales deeply and then lets out a scream. It comes out more like frightened little girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh come on! That sounds like you are scared of the battle. What? Are you scared of Quinn? You probably are- Louis lets out another scream, this one is slightly better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's good! Come on! Louis lets out another one that actually causes Ryan to jump back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes that's what I'm talking about! Out of nowhere, Quinn walks up to the two of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(noticing Quinn) Quinn?!? Good to see you! Quinn grabs Louis' arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We need to talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Ryan) Excuse me for a second. Louis walks with Quinn to a spot that gives them some distance away from Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know that guy and I don't trust him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't trust you anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your new friend is dangerous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So is yours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leave her out of this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You fighting tomorrow morning Quinn?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's over. This whole thing is nuts. I'm walking away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let me walk away from you first then. Louis starts to walk away from Quinn. He turns around as he continues to walk backwards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm coming at you! You are in this game like it or not!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey's car pulls up in front of an historic brick building. She slowly gets out and starts to look the structure over. It's almost like she is trying to assess if she has the right place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A awkward young man, JAKE, is sorting through boxes. He's kneeled on the floor organizing a mess of files. Zoey walks up and tries to attract his attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me? Jake comes out of his world of file sorting. He looks up at Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jake stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm looking for Mrs. Rhodes. I believe the people here referred to her as \"mother\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) People look for a lot of things. Zoey is confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sure they do. (looking at the boxes) You guys shutting down?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) We are ceasing operations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is there something wrong with you? MRS. RHODES, a 60 year old odd looking lady, comes out of the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Calm down. You need to calm down and count to ten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What? I don't know what that means. Mrs. Rhodes starts waving her hands at Zoey. She flaps them up and down in her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have to calm down and meditate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um...no...listen do you know Quinn Wilson and Louis Marks? They grew up here. Mrs. Rhodes steps back like a vampire who has just seen a cross.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No...You need to leave!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And give me your shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um...no. Zoey turns around and starts to leave. Mrs. Rhodes starts screaming at the top of her lungs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You better make your peace with God girl! The end is coming, those boys are ushering in a new era! Zoey runs down the hallway toward the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey runs outside and makes it to her car. She hits the roof of her vehicle in anger",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What a fucking nut house!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) Excuse me! Zoey jumps up and screams. She sees Jake standing creepily behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) I know the young boys you speak of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(doesn't care) And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) I was here when Quinn got sent to the mental hospital. It was like the other one set it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wait Louis? You think Louis made Quinn appear crazy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) They both believed the same thing. Louis was just smart enough to hide it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There is more to it than that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) I don't understand",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Listen \"Robot Boy\", where did this whole belief come from? This isn't something two kids come up with on their own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) Yes I believe a seed was planted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Exactly. I heard there was an employee that got fired for sharing Mormon mythology with the boys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(monotone) No. Off base. He's not the right one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. ZOEY AND ANNA'S APARTMENT- A FEW MOMENTS LATER",
+          "text": "Jack sits at the PC while chatting away on his cell phone. It appears he is looking up information for who ever is on the other end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey is parked in a parking lot, while she chats on her cell phone with Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You might be right sweetheart. The employee I was telling you about earlier was instrumental in getting Appleridge Orphanage shut down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Mrs. Rhodes was pretty well known in Huntington. I think she felt this guy was getting in the way of her master plan. Finally, nearly 20 years later, he convinced the state what was really going on there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Well...elaborate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "That girl you talked to was \"pants crapping nuts\". She actually makes your boyfriend look sane. I guess she believes that Lucifer came to her in a vision-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "-How is that different than a dream? Just saying-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "-I don't know. I think you have to be awake for a vision. (beat) Will you please pay attention? Anyway he, meaning Lucifer, gave her this jazz about...well you know the story. Two angels, fighting to the death...blah...blah...Anyway he told her she needed to look after Louis and get Quinn out of there. I guess trying to stack the odds in Louis' favor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "So she had Quinn committed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "To the same hospital where her nephew was a patient. All on the dark lord's orders I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Fucking Ryan Blood!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Your friends are fucking whack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Thanks Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "So what are you going to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm going to stop an Apocalyptic battle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goddamn Zoey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY AND ANNA'S APARTMENT",
+          "text": "Jack realizes Zoey hung up on him. He slowly puts his phone down and steps away from the computer. He walks over to the couch and sits down. He lets out a sigh of exhaustion as he leans back on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY AND ANNA'S APARTMENT-A FEW HOURS LATER",
+          "text": "Jack is now sprawled out on the couch. Anna walks in the room and sets a beverage on the coffee table in front of him. She moves his legs and sits down beside of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So where is she at now? Jack sits up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got a text about thirty minutes ago. I'm pretty sure she is going to head to Quinn's apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jack...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Her Christ Complex is going to get her killed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Trust me I know Anna. (beat) I know... KNOCKING is heard at the door. Anna gets up to answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maybe it's Quinn the jackass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anna just gets the door opened a crack when... Ryan and Louis BURST into the room. Anna SCREAMS. Louis restrains her against a wall. Jack gets up from the couch, but he meets a gun handle to the head from Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good afternoon boys and girls! I need your assistance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. QUINN'S ROOM-MOMENTS LATER",
+          "text": "Quinn walks into his room. To his surprise, Zoey is sitting on his bed. It appears she has been there for a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How do people keep ending up in my room?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(laughs) You need to learn to lock up. Quinn walks over and sits on the bed beside her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not fighting Louis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why the change of heart?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you might be right. I don't think it's necessary. I think the world will keep turning one way or another. I'm not dependant on that. (beat) I'm not a savior.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you really believe? You know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes. I do believe it. I know it actually. Since I have been with you, I've doubted what I know to be fact though. Then it hit me, it really doesn't matter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll help you Quinn. I don't want to do it for myself...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want to do it because I feel I have to. Obligations, or dark incidents from my past...That's not a reason to help anyone. It makes me fucking selfish actually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not selfish Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I care about you Quinn. That's sincerely my reason for wanting to do this. That's a first for me you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know... Quinn hugs her and they slowly lay down on the bed together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN'S ROOM- LATER",
+          "text": "Quinn gets pistol whipped across the face. Suddenly we see Louis picking Zoey up by the hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(in pain) Let her go! Louis has a hold of Zoey. Quinn gets up and goes for Ryan. Louis drop kicks Quinn and sends him flying across the room. Louis throws Zoey at Ryan. Ryan then holds her at gun point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looking at Quinn) Let me pretty the girl up a bit Ryan beats her repeatedly with the gun until she passes out cold from the trauma. Quinn tries to get to his feet, but Louis kicks him back down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hold on sunshine!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan throws Louis the gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Louis with great force repeatedly hit Quinn with the gun. Everything goes fuzzy and then we...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. QUINN'S ROOM-HOURS LATER",
+          "text": "Quinn slowly gets to his feet. He walks over to the doorway and kneels down. He sees a puddle of blood...Zoey's blood. He puts his fingers in it. He inspects his hand, rubbing the blood between his index finger and thumb. He jumps up and screams in anger. That would be Quinn's version of a battle cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A hand rips duct tape off of Jack's mouth. He let's out a loud scream.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mother fucker!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn crouches down beside Jack. Jack and Anna are both tied up, Anna still has duct tape across her mouth. You can hear her muffled screams as they fill the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's Zoey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Fuck you mother fucker! I'm going to call the fucking fuzz once you untie me! Fucking nut bag, ball sac-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(like he is talking to a retarded child) I...will...come...rescue...you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ass fuck salad- Quinn puts the duct tape back on Jack's mouth. Even though we can't make out what he is saying, he is still running off at the mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That actually felt kind of good. Quinn pats Jack on the head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll be back guys. Quinn leaves the room. Muffled cursing can be heard through out the apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long black box is pulled out from under Quinn's bed. We see Quinn's hands unlatch and then open it. Inside we see Quinn's katana. His hand grips the hilt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn gets up, holding his katana and ready for a fight. He's dressed in a black biker jacket, kind of looking like the Bride from Kill Bill. He walks to the doorway. He stands still for a second. He's preparing his next move. Bad ass comic book pose...'nuff said.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The front doors to the church swing open. Light fills the sanctuary. Zoey walks through the doors. She heads toward the alter and sees a man, in his 50's, kneeling. It appears he might be praying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She places her hand on his shoulder. As he turns around she sees her Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not doing it anymore. You will not have redemption from me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(raspy) Zoey... He reaches for her, she pulls away. She starts to back up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Take ownership of what you did. Don't rely on me to save you. I need to start saving myself. She slowly backs up and then turns to walk away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(as she is turning) Goodbye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY'S FACE",
+          "text": "Ryan slaps Zoey in the face to wake her up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ryan pulls Zoey up to her feet. He presses the gun against her head. Louis walks out into the middle of the field. He's dressed in a full ninja outfit. He unsheathes his katana.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What do you think Zoey? I'm a ninja!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(struggling under Ryan's grip) You're fucking crazy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "That's not nice! I think I look good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "I think you're a fucking nut bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "This is going to be fun. You'll see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Mrs Rhodes? Does that name ring a bell?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN BLOOD",
+          "text": "My aunt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "Yeah...yeah...she played a part in the game. Tell us something we don't know. You're such a sexy Nancy Drew right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Go fuck yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "Or a foul mouthed Velma. That gets me so hard. Does that get you hard Ryan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN BLOOD",
+          "text": "Can we go back to my aunt please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Mrs. Rhodes? What about her? Other than she fucked you guys up. She taught you, Louis how to play it straight. Then she has you fuck Quinn over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN BLOOD",
+          "text": "She didn't fuck Quinn over. She just helped him out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Yeah by getting him in contact with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN BLOOD",
+          "text": "She knew one day it was all going to catch up with her. She trained me to get into the game. She told me it was my destiny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "Is that why she placed you in that hospital?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She was my caretaker. She told me she was sending me someone. Someone I would have to guide on to the right path.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Guys I have let my parents fuck me up. There comes a time though where you have to go out on your own. Take responsibility for your own life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There is a much bigger purpose. You'll see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This whole thing was to carry out some delusional woman's master plan. She doesn't even remember who she is at this point. I went to see her...she wanted me to take off my shirt. Louis is irritated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will you shut up?!? You are ruining my climatic fight. Louis spies Quinn in the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Showtime.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "START CHOIR MUSIC",
+          "text": "Quinn lowers his katana, it brushes against the blades of grass. Louis follows suit as he slowly walks to meet Quinn in the middle. The two warriors stand on opposite sides of the battle field.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END CHOIR MUSIC",
+          "text": "Quinn looks over and sees Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let her go! Ryan grabs her tighter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not yet...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "(To Louis) Is this the game you want to play?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "I'm not going to lose this time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "(To Quinn) I thought you didn't believe this shit anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "There's more going on than you realize Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "This is fucked. Quinn you're not 5000 years old. You were born in an orphanage. None of this makes sense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "Lady, it would look weird if we roamed the earth for 5000 years without facing a mortal death! We keep getting reborn, sometimes we even switch physical form. Thanks for coming to the game late missy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ZOEY",
+          "text": "That makes total fucking sense. Color me stupid!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "(to Louis) You don't get it do you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "What?!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "If you win...you're not becoming the antichrist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "What are you talking about??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINN",
+          "text": "It's   Ryan...it's always been Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUIS",
+          "text": "(To Ryan) What is he talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's pitting us against each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm going to be honest with you Louis. I've always been honest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah sometimes to a fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We have always played this game as honest as we could. We never did anything to undermine the other. Despite what you represent, you have moral code. (beat) You are not acting with in that code today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm tired of losing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're losing right now. Your actions, you can't win like this. Not acting this way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm tired of you. I'm going to end it! Louis goes over to Ryan. He trades his sword in for Ryan's gun. Ryan holds the katana to Zoey's throat. Louis points the gun dead at Quinn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You going to shoot me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's the endgame. Tense moment as Louis aims the gun at Quinn. SUDDENLY he spins and shoots Ryan dead in the head. Ryan falls and Zoey gets free. Louis looks at Quinn and then throws the gun far out into the field.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "OK...I guess I do have some morals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey gets her bearings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey go home. We need to finish this. Louis walks over to Ryan and grabs his katana.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No you don't. Guys what are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go home girl!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you being serious? Quinn stops and turns toward Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I will always love you. You have to go though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you don't walk away from this field right now, you will lose me. I will not be in your corner. I will call for help. They will stop you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn...last chance. Zoey walks over to Ryan's body. She searches till she finds her cell phone in his front pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I will call the police Quinn... Quinn looks at Zoey, dead in the eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goodbye. Quinn turns toward Louis. He pulls his katana up to attack position and Louis follows suit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(tearing up) Wow...yeah goodbye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quinn and Louis charge each other. Zoey doesn't bother to stay to watch the battle. She slowly walks away. Quinn and Louis' swords meet. The clang is triumphant. Details of this climatic battle will be choreographed by the actors involved, but think high flying Shaw Brothers film. We don't see a clear victor, just the two boys going at it until we can't tell who is who.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OTHER SIDE OF THE FIELD-AWAY FROM THE BATTLE",
+          "text": "Zoey starts to make a call on her cell phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She starts to dial 911. Her thumb moves in the position to hit send.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OTHER SIDE OF THE FIELD",
+          "text": "Zoey stops. She slowly puts her phone away. She looks back toward where the battle is going on. She starts to walk back. The walk turns into a jog. Finally the jog turns into a full run.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPEN FIELD",
+          "text": "When she gets to the field Quinn and Louis are gone. All that can be seen is Ryan Blood's body, two katanas and an empty ninja suit. Zoey leans down and touches Quinn's katana.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(laughs to herself) I am Curious:Yellow (beat) Goodbye boys... Zoey stares out into the open field. She feels reborn. She knows there is a new world, a new perspective for her beyond the horizon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The camera slowly pans toward an older ninety year old Zoey. She's behind a podium, there is a sign on the front that reads: Marshal University Association of Free Thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "For years we have thought absence of the impossible indicated that we were exercising free thought. In my experience ladies and gentleman, that's not the case. (beat) Believing in hope my friends, opening yourself up to accepting there might be more than the world around you. That's truly being a free thinker. The camera ends with a close shot on Zoey's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey sits on the same bench where she met Quinn. Her great-granddaughter, JENNIFER walks up. She sits down beside her grandmother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey Grandma.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You look solemn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just sitting here...thinking...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you thinking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've had a great life. A wonderful husband, children, grandchildren... (motions to Jennifer) ...great grandchildren...I spent so much of my youth being angry. I wish I could relive my life now, knowing what I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You do have a lot of wisdom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've tried to pass it on to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You've taught me a lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just remember, you can believe what you want to believe Jennifer. Live by what ever moral code you want to live by. Just make sure it's yours. Don't let it stem from anger or past tragedies. (beat) Let it come from your heart. Jennifer turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My new boyfriend. The one I wanted you to meet. Zoey turns around to see the BOYFRIEND walking toward them. It shouldn't come to a surprise that he looks a lot like Quinn. Jennifer gets up and grabs her boyfriend around the waist. He reaches his hand out to Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(nervous) Nice to meet to ma'am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(shakes his hand) Likewise. Jennifer grabs his hand right after his handshake with Zoey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We better get going. We're going to grab something to eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to the boyfriend) I didn't catch your name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so sorry. I'm being rude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(laughs) He can be like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm Louis. Zoey is stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Zoey) You OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah I'm fine. (snapping out of it) Enjoy dinner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See you later on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(making eye contact with Zoey, smiling) Nice to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(returning contact, and smiles) Likewise. The two lovebirds walk away. Zoey stares at them for a second. A it \"can't be look\" crosses her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Zoey smiles almost to say to the camera that there is more out there. Things that we don't fully understand. The smile then fades. Her final look is that of content. And then as Done and Dusted plays we...",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_440"
+    }
+  ]
+}

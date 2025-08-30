@@ -1,0 +1,4622 @@
+{
+  "movie_id": "MOV1309",
+  "scenes": [
+    {
+      "location": "CITY STR",
+      "time": "DAY",
+      "characters": [
+        ". CONT.",
+        "THE BATHROOM",
+        "LENNY ,",
+        "IXT. CLARENCE'S APARTMENT, (BATHROOM)",
+        "CUTE GIRL",
+        "INT.",
+        "THE LIVING ROOM",
+        "CLIFFORD, (0.S.)",
+        "BIG GUY",
+        "SHIT",
+        "ONNY",
+        "MEAN ANYTHING AT ALL, THAT I DON'T",
+        "I5",
+        "' CLARENCE",
+        "LARENCE'S APARIMENT, (LIVING ROOM)",
+        "MEG",
+        "FUCK",
+        "_ CECILIA",
+        "OPERATOR, (V.0.)",
+        "_ . LENNY",
+        "POSNER",
+        "OLIVER, (0.S.)",
+        ". MISTY",
+        "CLIFFORD",
+        "_ CLARENCE",
+        "CECILIA",
+        "RONKY",
+        "ME WHAT THE HELL'S GOIN' ON",
+        "CLARENCE, (V.0.)",
+        "NT. RONNY'S BAR",
+        ".",
+        "P",
+        "BILL",
+        "CLARENCE",
+        "EDDIE -",
+        "LANCY",
+        "-CLIFFORD",
+        "CONT. .",
+        "CONT.",
+        "CLANCY",
+        "C",
+        "CONT. '",
+        "TRUMPER",
+        "I'M NOT",
+        "EDDIE ,",
+        ". EDDIE",
+        "GILBERT",
+        "MICKEY",
+        "RONNY",
+        "C9",
+        "MICKEY'S APARTMENT, (LIVING ROOM)",
+        "-MICKEY",
+        "KBLI FRONT OFFICE",
+        "FREEZE",
+        "MICKEY -",
+        "CLARENCE -",
+        ". CLARENCE, (V.0.)",
+        "J",
+        "MISTY",
+        "BIG GUY, (0.S.)",
+        ". MICKEY",
+        "CUTIE GIRL",
+        "I SWEAR I'LL KILL THE NEXT ASSHOLE",
+        "WOMAN, (0.S.)",
+        ". GUY",
+        "GUY",
+        ". LENNY,",
+        "GILBERT -",
+        "AAAAAAHHHHH",
+        "_ OLIVER",
+        "DR. REIGHOLD, (V.0.)",
+        "EDDIE, (0.S.)",
+        "LENNY",
+        "EDDIE",
+        "EDDIE, (V.0.)",
+        "I AM IN HELL",
+        ". CLARENCE",
+        "H YOUNG MAN",
+        "OLIVER",
+        "-RONNY",
+        "KLONDIKE",
+        "MICKEY .",
+        "I SAID, WILL SOMEBODY JUST TELL",
+        "DAY",
+        "NIGHT",
+        "_ MICKEY",
+        "WHO TALKS ABOUT ANYTHING, AND I",
+        "_ .- MICKEY",
+        "CLARENCE, (0.S.)",
+        ". CLIFFORD",
+        "CONT. -",
+        "' EDDIE",
+        ". LENNY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A Ford Mustang driving down the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "MICKEY BURNETT drives, listehing to the RADIO, which is d KBLI. Clarence Pool, the D.J. and Mickey's best friend, i talking. ;",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE, (V.0.)",
+          "text": "Hey you cool cats out there, my best friend Mickey Burnett's up after me, and you know what? It's Mickey's birthday! Mickey shakes his head and smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Tomorrow, Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE, (V.0.)",
+          "text": "So, here's a little Rockabilly medley for my pal on his 30th birthday. Yep, that's right. The big three . .. oh! MUSIC starts playing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Don't tell them how old I am. Clarence talks over the music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLARENCE, (V.0.)",
+          "text": "So, if you're listenin’, Mick, here's 30 minutes nonstop Rockabilly rock dedicated to you, buddy. One minute for each year!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE, (V.0.)",
+          "text": "And if you listeners want, why don't you call Mickey on his show later and those of you old enough, tell him what you did on your 30th birthday. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "2",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MICKEY",
+          "text": "Right, that's it. Tell the whole world. Mickey turns the radio off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Great, Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two young men are sitting in the recording booth of the s radio station KBLI (pronounced K-Billy). CLARENCE POOL, a Rockabiily. boy complete with a pompadour haircut, is the jockey. LENNY oTIs, the on-the-air guest, sits next to hi The phene light up. Clarence answers it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "The Clarence Pool .show. (pause) Sorry, we don't take requests. (pause) ‘Cause when I'm jock, I play what I wanna play, when I wanna play it. Someday, maybe, you can be a jock and, if your taste is as respected as mine, you can play what you wanna play. (pause) I den't care what Unruly Julie does on her show. I don't do it on mine. (pause) Well, then listen to Unruly Julie, dickbait! Clarence hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(under his breath) Unruly Julie... (to Lenny) Music's almost done, so we're gonna be goin’ on in a coupla seconds. You're not nervous, are ya? CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY ,",
+          "text": "Not at all. I thought I might be, but I don't feel a thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good. You'll be fine. Just don't think about making a fool outta yourself in all those millions of people's homes. (on-the-air -- talks in microphone) You're listening to K-Billy, and this is the original hillbilly cat Clarence Pool.talkin' to you. And we got a special guest in the booth today . . . and his name is --- What's your name, son?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". LENNY,",
+          "text": "Lenny Otis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Otis? You mean like the drunk on the Andy Griffith Show?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It doesn't matter. So, Lenny, you're the leader of the Eddie Cochran Fan Club?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "I'm not the leader, I'm the head of the California chapter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KBLI FRONT OFFICE",
+          "text": "MEG, the KBLI secretary, sits at a desk. Mickey walks in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEG",
+          "text": "Oh, hi, Mickey. Happy birthday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Thanks. Actually, it's tomor--- CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Meg leaves. MR. MEG ° Boy, 30 years old. I'll bet you feel terrible about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, Meg, I'm kindda sensitive about the turning 30 stuff, okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEG",
+          "text": "I can understand. I know this guy who lives two apartments down from me. He turned 30 two weeks ago. He hasn't been out of his apartment since.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's, uh, nice to know, Meg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEG",
+          "text": "Mickey, would you cover for me? Drooley's Pizza's selling a medium pizza for the price of a small to- night only, and I'm really hungry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Sure, Meg. Mickey sits down behind her desk. the station owner walks in. He's all business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Hi, Mr. Trumper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRUMPER",
+          "text": "Hi, Mickey. Look, Grandma Mohmmi will be calling tonight. Be nice to her. And tell Clarence to start playing more of Elvis's live Vegas stuff. Grandma Mohmmi likes that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Well, ‘I think what Clarence is try- ing to do is get the audience to remember Elvis back in his Rockabilly days when he was crass and cool and --- CONT. \fCONT. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRUMPER",
+          "text": "Grandma Mohmmi is this station's biggest contributor. Money talks, bulishit walks. I wanna hear Elvis's Vegas act from now on! Trumper's about to walk out, but pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRUMPER",
+          "text": "By the way, happy birthday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Thanks. : Trumper looks Mickey over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRUMPER",
+          "text": "30 years old already. Shit, how time flies. Trumper leaves. CLANCY, ancther D.J., bops into the reception area, and s on the ¢cesk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "Hey, happy three-oh, dude. You're gettin’ up there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Thanks for reminding me, Clancy. What're you doin' here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "I vas down this way, so I thought I'd come on in. Wish you a happy birthday, then maybe zonk out in the lounge ‘till after your show. I'm subbin' for Rhonda tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You look like shit, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "Funny, I feel like diarrhea. Oh, hey, I'm sorry to hear sbout Pandora givin' you your walkin' papers. CONT. \f“y>",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I con't want to talk about Pandora + + . or my birthday. - “CLANCY Man, I feel like a bunch of little guys with pointy sticks ere in ny stomach goin' .. (makes a pointing gesture and groans)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What'd you do last night? “CLANCY I was out with Jerry. You know Jerry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Harry's brother Jerry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "The same. We were experimenting with some shit . . . so strong I think an Indian tribe in Brazil has formed a religion around it. (whips out pack of gum) Want some gum? Clancy gives Mickey a stick of gun. The phone RINGS. Mick pops the gum in his mouth and answers the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "K-Billy. (pause) Oh, hi, Grandma Mohmnai. (pause) Oh, yes, we're going to play Elvis at Vegas, and I just want you to know that we all at K-Billy think you're --- (a look of horrible revulsion comes across his face)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHIT",
+          "text": "(he spits out gum)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "(laughs) Whatsamatter? Don't like garlic gum? CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cont. ,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Asshole! You stupid moronic ass- hole!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANCY",
+          "text": "Last night.mejand Jerry went into this novelty shop stoned, Have * you ever wentlinto a novelty store fucked-up? It's an experience. We bought « hundred and fifty dollars worth of shat. Clancy holds up a plastic zip lock baggie full of white p Meanvhile, Mickey's digging through Meg's desk for anythi will give him relief",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "I picked up this itchin' powder for Clarence. I thought he'd be a guy who could really appreciate it. This stuff is a killer. One little dab on the back of your hand will drive you crazy. Ya gotta wash it off. Mickey Zinds a pack of Lifesavers. He pops five in his mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MICKEY",
+          "text": "You shit-eatin' dickweed! You pile of shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "Hey, Mick . . . Grandma Mohmai. M:ckey looks at the phone, horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Grandma Mohmmi? Hello?- Hello? Mickey hangs up. He glares at Clancy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "Gee . . . you think she heard you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence is interviewing Lenny Otis. CONT. \fic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CcON?.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Do you remember when he died?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". LENNY",
+          "text": "Do I remember the date, or actually when it happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "The actual day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "I wasn't born yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Neither was I. But I remember. I remember when I was three years old. There was this one particular day. I felt really depressed. For no reason what-so-ever. -I had no idea why, but I was feelin' low. I even thought of suicide. I was gonna get in the bathtub and slit my wrists with a razor blade. I was actually gonna do it. Now for a three year old to be thinkin' like this, you gotta be feelin' pretty bad. The only reason I didn't do it was “The Partridge Family\" was about ready to come on, and I wanted to see it. So, I thought I'd watch that, and do it after the show was over. But “The Partridge Family\" was really funny that night and after the show I was feelin' better. So, I didn't do it. What were we talkin' about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "Eddie Cochran.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Oh, yeah. So anyway, I find out twenty years later that the very day I felt so depressed for no reason, low and behold, just so happens to be the day that one of the greatest rock 'n rollers of all time buys the farm. The very same date. I'm tellin' ya, I felt like someone spit in my socks. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "ow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "oo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "But in a way there's a certain symmetry to that, I guess. How many -- what's the word I'm lookin' for? It means other people who would be disciple in what you're doin’. You know what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "Members?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, that's it. Members. How many members do you have? LENNY . Six hundred in the California area.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "whoa! That's a lot. Do you have a@ get together every year at the Ramada Inn or somethin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "Every once in a while we work some- thing out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "We'll be right back talking with Lenny Otis -- You're not related to Johnny Otis, are you? Clarence puts on some music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "No. 7",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "The leader of the Eddie Cochran Fan Club... ina sec.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Well, so far, so good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KBLI FRONT OFFICE",
+          "text": "Mickey drinking water. Clancy gets up, holding the baggie itching powder. : CONT. \fof rose Conds ’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "Too bad about Grandma Mohmmi. Well, I'm gonna give Clarence this itchin' powder. ckey stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "No, you're not. You stay here and watch the phone. Mickey swipes the baggie from Clancy. ’ MICKEY I don't trust you, and I don't want you messin' with Clarence while he's doing his show.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "S'cuse me, pal. It's a free world, and I can do what I wanna do. Mickey presses close to Clancy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY -",
+          "text": "Not if you're dead, you can'r.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "(gets the point) I'll, uh, watch the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence and Lenny. MUSIC is still playing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Y'know, this has really been a good interview.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "It has?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Absolutely. I sound great. Mickey sticks his head in the booth and sings the first p the theme song to the “PATTY DUKE SHOW.\" Clarence sings t other part and they join in on the chorus. CONT. \f’ om CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Mickey, this is the leader ‘of the Eddie Cochran Fan Club.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "Head of the California chapter. Lenny Oris. Mickey and Lenny shake hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You mean like Otis the drunk on the Andy Griffith Show? Lenny doesn't have an ansver.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence, I have something for you, Mickey hands Clarence the baggie of itching powder, which Clarence immediately assumes is a bag of cocaine. Clarenc believe Mickey's flashing it around in front of a strange",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Mickey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clancy got it for you. Look, I gotta go back to the front office before Clancy ‘does something stupid. (points at baggie) We'll have fun with that later, okay? Clarence gestures “A-Okay\" to Mickey. Mickey leaves. Clarence looks at Lenny, who also assumes the bag's full cocaine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "So, Lenny, you're cool, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "- Yeah, I'm cool. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Good. Clarence pours out the bag on the counter, takes a razor from his drawer, and starts cutting lines. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Want some toot-uncommon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ . LENNY",
+          "text": "I'll pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Aaah, too cool, huh? Clarence makes two big lines and snorts them in both nost just as the song ends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "We're back with the leader of the Eddie Cochran Fan Club, Lenny Otis. Tell me, Lenny, what first got ya into Eddie? Lenny's kind of stunned. After all, this is the first tim Clarence has really let him talk. He starts telling a sto about how he first heard Eddie sing “Pink Legged Slacks.” As Lenny's talking, a weird look crosses Clarence's face. jerks his head back. First, it's an irritation, then it g out anc out pain. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "A Rleenix. Give me a Kleenix. Lenny stops talking and gives Clarence a box of tissue. C is blowing his nose as Lenny continues talking. Clarence starts rubbing his nose, then picking his nose. worse. He starts BANGING the counter with his fists.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I AM IN HELL",
+          "text": "Clarence starts FLAILING around in the booth. He points t phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(to Lenny) 911 ...911.. Meg happens to be walking by the booth, holding a pizza b sees what's happening to Clarence. \f13",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey's sitting behind the desk. Clancy's on the phone w some girl. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "C'mon, Gers dine, you know that you're the snly one I love. Let me come over tonight. I mean it, I really az in love with you... by the way, i: your roommate still outta town? Good. Anyway, I really love you... Mickey quietly takes a stick of garlic gum out of the pac gives it to Clancy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLANCY",
+          "text": "(to Mickey) Thanks. : (pops gum into his mouth) Okay, okay, so I had a little fling with Dori .. . yeah, and Paula, too. But they didn't mean anything. You're my one true --- (the garlic gum. gets to him)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCK",
+          "text": "(he spits out the gum) Mickey laughs. Meg runs in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEG",
+          "text": "Mickey, there's something wrong with Clarence! ©",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey and Meg run down the hallway. Mr. Trumper steps ou room. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRUMPER",
+          "text": "Mickey, come back here! Grandma Mohmmi just called me! He runs after Mickey and Meg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence is on the floor -- kicking and screaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "“I'll never do it again! Just make it stop! Lenny's speaking into the microphone. LENNY ‘ Ahh, somebody, I think we need some help here. Mickey and Meg rush in, followed by Mr. Trumper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LENNY",
+          "text": "(right by microphone) Well, he snorted that cocaine you gave hin. Mickey quickly covers the microphone with his hand. Clarence crawls over to the water cooler and tries to pou into his nostrils. Mickey looks down at Clarence, then up at Mr. Trumper. Mr. Trumper glares at Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey parks his Mustang, and trudges to his apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey comes in and is stopped short by a well-endowed wo PANDORA, standing in the middle of the room and holding a album. He can't believe it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pandora?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi, Mickey. CONT \fCONT. Ee walks over 15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What the hell are you -~ Baby, I'm sure glad to see you. to her and gives her a big kiss. She's taken by surprise, but.goes along with it. As he talks, Mickey kis lips, her hands, her fingers, etc. He kisses her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "How long has it been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Since what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Since the last time we've seen each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(counts her fingers) Let's see, January, February . . (holds up two fingers) Two monthes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(kisses both fingers) It seems one helluva lot longer than that. Oh, by the way, those phone calls you were getting last month . . . They'd ring, you'd answer, then they'd hang up. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "That was me. I just had to hear the sound of your voice. What's it been like for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I've been ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I don't mean to cut you short, baby, but I'm just so happy. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "\fce CONT. Mickey lifts Pandora off the ground and kisses her. on the coffee table and places her on his lap. resist at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I've been going through hell without you. You know, baby, we fight over the stupidest things. But never again. Now I got you, Pandora, I'm never gonna let you go. That's & promise, baby. In fact, she seems to be enjoying it. her arms around his neck. . ‘PANDORA Mickey, you're being so nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "And this is the way I'm gonna be from now on. Forever, and ever, and ever. Feel my heart beat. He puts her hand on his chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Fast, ain't it? Let me feel yours. (he checks her pulse on her wrist) Just like mine. A mile a minute. It must be love. (kisses her wrist) Honey, I want you to know, the last few times we talked on the phone...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I didn't mean any of that. You know that, don't you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought you hated me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I was bluffing. I wanted you to think I hated you. All I felt vas “what do I do now?” I was angry at you. Listening to you was so damned frustrating. But I never stopped loving you. CONT. 16 He sits down She doesn't She puts",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm a little surprised. I've never seen you so sweet before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "This might turn out to be a good He strokes her birthday after -- Whoa! Is that why you came back today? You re- membered my birthday? (hugs her tight) I'm so in love with you. Tell me. I gotta know. What made you come back? I promise I won't interrupt. hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "well, yesterday, I was talking to Yolanda Waxman. Do you remember her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Uh-huh. PANDORA . Yeah, well, she was over at the house. And we were going through my records, and I was telling her about this sad Rod Stewart song. So, we're looking through my albums and I can't find it. Then I re- member... it's not an album, it's a tape, and I left all my tapes here. So, I thought I'd come by and pick it up. I got it. See? She shows him the tape. Mickey's in a what he gets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "That's why you came back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, and guess what? When I vas goin' through my albums, I found one of your Elvis Prestley records. I knew you couldn't live without that, so I dropped it off. state of shock. After baring his soul, this is Pandora stands up and looks around the room. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "“+y> 15 CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "God! This place looks so empty Without my stuff. Maybe I should've left you some of my plants. The sound of a toilet FLUSHING from the bathroon,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's a toilet flushing. The bathroom door opens and-OLIVER, a handsome yuppie, st",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whooah . . . Talk about dropping a@ cheese bomb. I wouldn't go in there in the next. hour if I was you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oliver. Sweetheart. Come over here. Oliver valks over and holds hands with Pandora.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oliver, darling, I want you to meet one of my oldest friends, Mickey. Mickey, this is one of my nevest friends, Oliver Brandon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "Hey, guy. Oliver extends his hand. Mickey ignores hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": ": (to Pandora) How did you get in here? You gave me your key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, Ollie got us’ in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "You know, the old credit card in the lock routine. Hope you don't mind, guy. Had to get sugar here her Rod Stewart. CONT. \ff- eo yy Oliver looks at Mickey's Elvis albun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ OLIVER",
+          "text": "I see you lik@ Elvis. That's nice. T have an aunt who likes Elvis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oliver's a rezi:ly great actor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "You should talk. You're pretty great yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Iam not. OLIVER © You are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "You are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "I'm not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "Am not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are, too. Mickey, don't listen to a word he says. He's really glorious. Oh, I'm so stupid. I didn't even tell you the most exciting news. I got a part in a play. It's the Torrance Community Theatre production of “Godspell.” That's where I met Ollie. (to Oliver) Tell him what part you play. \fOLIVER ‘ Jesus. : (pause -- to Pandora) Well, we gotta go or we'll be late. _ We got that thing to go to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What thing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "You know, that thing. Pandora still isn't picking up on how uncomfortable Olive Mickey's presence. She plays along anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh... okay. Bye, Mickey. Call me up sometimes and we'll talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER",
+          "text": "Later, guy. They valk out, closing the door behind them. From outside Mickey can hear: .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OLIVER, (0.S.)",
+          "text": "Did you used to have a scene with that guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just a little one. Mickey just sits there, motionless. A few beats pass, then Clarence BARGES through the door, a half full bottle of beer in his hand. Mickey just sits there. As Clarence rants and raves, he t hits off his beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I can't fuckin' believe it! I can't fuckin' believe it! Trumper fires us! He fuckin' fires us! And for what? For what? Just because he thinks we have some illegal substance in his shitty booth. You know how many jocks are high when they're working? Huh? You know how many jocks are fuckin' wasted when they're on the air? Huh? CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "Mickey just sits there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I don't know either. But I can tell you this, it's a lot. I mean, if pea-brain Trumper knew how many jocks are’ shit-faced stoned when they're working, he'd shit in his pants! No! He'd shit all over the wall! That's what he'd do. He'd shit all over the vall! All over the booth! All over the station! Clarence takes a big swig off the beer, finishing it. He inside Mickey's kitchen. We hear a refrigerator door open close, and a bottle of beer get opened. Mickey just sits there. Clarence walks",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE, (0.S.)",
+          "text": "(from kitchen) I'll tell ya somethin' else, pal. We made that station. The original cool cat Clarence Pool and Midnight Mickey vere K-Billy. We were the gurus of Rockabilly airwaves, I'll tell ya that. back into the living room with his beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It was because of our shows that we got enough sponsers to increase our power so that K-Billy is now heard in Lakewood, Compton, Inglewood, and parts of Bellflower, and not just Torrance. I'll tell ya that. We fuckin' did it. Not that prissy, prima donna prick Trumper. (takes a big svig) You know, Mick, we'll open up our own radio station. That's what we'll do. ‘Cause when people hear that you and I got canned at K-Billy, they won't listen anymore. We're too big for K-Billy anyway. We have a fuckin’ cult following. Trumper's gonna regret the day he ever fucked with Clarence Pool and Mickey Burnett CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I mean, I wasn't even snortin' cocaine. Whoever heard of anyone firing somebody for snortin' itchin' powder? We could probably sue the bastard. In fact, that's what we'll do. We'll fuckin’ sue hin, take the money ve win, which will probably be a lot, and open up our own fuckin' station. Then we'll --- For the first time, Clarence realizes Mickey's just sitti there staring at hin. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hey, Mick, what's wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Pandora was just here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Pandora? MICKEY . Yeah, with some yuppie shit named Oliver. I think she just dumped me again. Clarence doesn't know what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Hell, Clarence. I get fired, I'm turning thirty, and my ex-girlfriend makes a quick pitstop to wipe her feet off on me one more time. Clarence sits down next to Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You know that girl I told you about? The one I've been seein‘ on the sly ‘cause she's got an asshole boyfriend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Yeah, uh, what's her name . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia. You've never met her, and maybe you never will. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "\fi: CONT. n> wu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "To be honest, I don't even know how long the relationship will exist. There's so many problems, and it's startin' to get to me. Especially - the part about her bozo boyfriend. Clarence makes Nov I could be mopin' about this. And I have to admit I was a little pissed there for a moment about us gettin' fired at K-Billy, but after a couple beers, I'm startin’ to feel better. Are you startin' to see the point?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "The point is, life's cool. We're cool. Life goes on. We go on. Fuck everything else. We got nothing to be sad about when it's been all Said and done. We got the future to celebrate. a toasting gesture with the beer bottle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Tonight's the night, Mickey. My best friend's birthday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "My birthday's tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(ignores Mickey's comment) What do you want to do? Have a party? Wait a minute, that's stupid. Of course, we're gonna party. You wanna get laid? (slaps himself in the head) Shit... wake up, brain. Of course you should get laid. It'd be great therapy for you. Besides, it's the big three... oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence, I'm tired. CONT. \fc CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hate to disappoint my pal, but there just ain't no time to get tired. Big things are happenin' tonight. I know ‘cause I'm psychic about stuff like that. You can't escape it. It's in the cards, and there's nothing you can do about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence, you're the greatest and I love you. Mickey stands up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hey, I love you too, pal. Mickey takes Clarence by his arm, stands him up, and lead the door. : MICKEY . But tonight I'm gonna just sit back, then take a shower, and then go to bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Mickey, you're not listening to me. Mickey nudges Clarence out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'll call you tomorrow. Sorry I'm ‘so down tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Mickey... Mickey closes the door. From outside:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE, (0.S.)",
+          "text": "(outside the door) You can't fight fate. Mickey sits back down and sighs. \f£ eo ts ww",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A dive bar. Clarence parks his car, and goes inside. INT. RONNY'S BAR -~ NIGHT . Small and dumpy. RONNY, the pudgy bartender, stands next radio playing ELEVATOR MUSIC... Ronny hums to the schmalt as he cleans glasses. Severz! CUSTOMERS are in the bar. Clarence walks over to the bar counter and unplugs Ronny'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Awv, come on, Clarence. Why can't ve listen to my kind of music? Give me one good reason.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "One good reason? (laughs) \"Cause your music sucks, mine doesn't. Clarence moves to the juke box, deposits several coins, a pushes the appropriate buttons. Rockabilly MUSIC starts p Clarence dances by himself next to-the juke box. Suddenly notices MISTY KNIGHT, who's playing pool by herself. She' very sexy and wearing a revealing dress, which accentuate Shapely figure. Clarence goes back to the bar counter. He sits down on a stcol. As he talks vith Ronny, he keeps glancing over at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Listen up, Ronny. I'm sorta on a mission tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "A mission?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That's right. I'm gonna show Mickey a good time for his birthday. A GUY walks up to the bar counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Another pitcher, Ronny. Ronny Starts pouring a pitcher. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-y- CONT. RONKY ° How is Micky? He's turning thirty, isn't he? How's he taking it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLARENCE",
+          "text": "Not good. He's had a bad night. Ronny gives Guy the pitcher. Guy pays hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Turning thirty, huh? You talkin' about Mickey Burnett? Yeah, I hear he's real busted up over Pandora droppin’ hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know Mickey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". GUY",
+          "text": "Never met him. But I know this guy who drives a cab here in Torrance. His cousin's been goin’ out with Yolanda Waxman. She knows Pandora real well. Yeah, I hear Mickey's all screwed up inside. And nov, he's turning thirty? Shit, man, I couldn't deal with all that in one night. Guy goes back to his table. Ronny hands Clarence a beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Word travels fast in Torrance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah. Clarence keeps eyeing Misty. He decides to make a move. H up, beer in hand, and approaches Misty. As Misty leans over the pool table to make another shot, moves behind her. She pulls back on the cue stick, POKING Clarence in the eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Aaahhh! — Misty turns around. Clarence has his hand over his eye. CONT. \f~“N",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oohh . .. I'm sorry. Are you all right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "No problem. I think the blindness is only temporary. He rubs his eye. Misty laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "What're you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Peeling my eyeball off my brain. ‘ MISTY I'm really sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I'm okay now. I'm just fine. See? (takes hand away from eye) Looks almost like the other one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "My name is Clarence Pool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I'm Misty Knight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Misty Knight . .. what a pretty name. Very passionate sounding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Are you the one who's playing Shakin' Stevens on the juke box?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That's me. Yeah, I --- You know who Shakin' Stevens is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oh, yes. He's my very favorite. Wait a second! Clarence Pool... not the Clarence Pool from KBLI? CONT. \f+7 c CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "The one and only.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "What a privilege to meet you. What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I come here a lot. Actually, right now I'm doin' a little recruiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MISTY",
+          "text": "Recruiting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ CLARENCE",
+          "text": "For a party. See, there's this guy... my best friend. He's really cool, the coolest. Things- have been a bit tough for him. His girl walked out on him, and he's turning thirty. His name is Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Mickey . . . Mickey Burnett? You mean Midnight Mickey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, that's hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I love his show. So, what's the scoop? Are you recruiting me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Well, I don't want this to sound . you know . . . I mean I could bring my girl and if Mickey had a girl, we could all party. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oh, I get it. You want me to be Mickey's date for tonight. Right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, I was thinking that ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MISTY",
+          "text": "Great. CONT. \fCONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It is? All right, all right. I ean, I'd only do this for a girl I liked ‘cause Mickey's the best.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It is? Fabulous. I'll have to give you Mickey's address. Misty picks up a mammoth-sized purse from the floor. She out a notebook and pen, and gives it to Clarence. Clarenc writes the address down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Nice purse. Very roomy. Sorta like a luxury model of the purses. (takes a key out of his pocket -- gives it to her) That's his key. We're best friends. We have keys to each other's place. Anyway, maybe you could go there and kindda surprise him and ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Entertain him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, right. Entertain him. Then you could talk him into coming over to my place -- he knows where it is -- and we'll have a birthday party. You and him, and me and my girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "That sounds fun. Should we talk price now or later?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Price? What price?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "My price.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Your price? (realizes she's a pro) Oh... your price. Uh, well, how much? CONT. \f4 4 ui ©",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Well, how much do you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "- How much do you usually charge?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "How much do you usually pay? CLARENCE © Uh, usually, uh, the going rate. MISTY. I should explain that I'm not a hooker, I'm a call-girl. Call- girl's are much more classier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I. know that. I knew that before I came over here. I wouldn't get just a hooker for Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(flattered) Really? : (does some figuring in her head) Fifty dollars?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I could go thirty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Forty. - Clarence thinks it over. He discreetly takes out his wall peeking over his shoulder to see if Ronny's watching. Ron eyes are practically popping out of their sockets. He lea the counter, peering at Clarence. Clarence blocks Ronny's view, hands Misty the forty dolla smiles, and so does Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I'll see you at your place... with your best friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It's gonna be a wild night. CONT. \f31 CONT. “As Misty leaves, Clarence sashays back to the bar counte looks at Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLARENCE",
+          "text": "Something wrong, Ronny? sbi Where'd she go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Mickey's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "-RONNY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "‘Cause I told her to. Is Bill Smith's Video Bakery open tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Good. See ya. Clarence leaves the bar. Seconcs later, CLIFFORD THE PIMP walks in. He's black, dr zn an outdated and unkempt. suit, and totally monotone. T is definitely in the wrong profession. He surveys the bar walks over to Ronny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Hey, dickhead, you see a girl with a short dress, blond hair, nice figure, shooting pool in here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Know where she went?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Where? CONT. \fCONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": ".I can't tell you. When a customer comes into my bar, they know that they have total privacy. They can come and go where they want and completely trust me to keep ny lips sealed. I would never betray one of my customers. No matter what. Clifford GRABS Ronny by the shirt collar, pulling him hal the bar counter. Clifford sticks his fist up to Ronny's f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "-CLIFFORD",
+          "text": "How'd you like me to squash your fat face, num-nuts?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "She went to Darwin Apartments on Carpenter Street. Apartment 13. Clifford releases Ronny, and storms out of the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "(mutters to himself) He better hepe our paths never cross again. Inv. BILL SMITH'S VIDEO BAKERY -- NIGHT This store is a combination bakery and video store. You c a tape with the pie, cake, or cookies you buy. Clarence s by the counter, looking over all the pastry. BILL THE BAK waiting on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Let me have a dozen of those doughnuts, a box of those cookies, that cream pie...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": ". Clarence, hey, hold on. You wanna give Mickey sugar diabetes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It's his birthday. Let me have that cake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Which cake? CONT. \faos 5 CONT. 33",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Whatta ya mean, which one? The coolest one. That big white one there. Bill pulls it out and sets it on the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You'll write on it for me, won't ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Yeah, sure. How's Mickey doin' anyway? I haven't seen him since Pandora cut out on hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You know about that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "All my customers are talkin’ about it. And by the way, the last time Mickey was in here,.you and him were arguin' with me, and I want to make my point clear. You didn't give me a chance last time. Now, I agree that when it came to singin' and makin' albums and performing, Elvis was king. But I'm sorry, as a actor, the guy was a lost cause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Elvis was a great actor. He just made some shitty movies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Wait a minute. Elvis wasn't a great actor. Marlon Brando's a great actor. Michael Caine's a great actor. Gene Hackman's a great actor. You put Elvis up with those guys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yes. Now just hear me out. When you say Elvis was shitty, you're probably talkin' about the Elvis who was in “Girls, Girls, Girls\", “Harem Scarem\", “Kissin' Cousins\", or “Paradise, Hawaiian Style.” (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "\fuw t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That's not what I'm talkin’ about. Not to say he was bad in those. He was as good aS & person can be in \"Clambake.\" But what I'm talkin' about is the first movies he made like “Jailhouse Rock” .-- which is one of Mickey's all time favorites -- “Lovin' You\", “King Creole\", “Flaming Star.\" He was so natural, so sexy, so Elvis. He couldda been so great He had a wonderful natural quality about him. What fucked him up? \"Blue Hawaii.” That was the first of the quote “Elvis Presley movies.” Elvis singin' a bunch of lame songs every minute. No story. Justa . real dog shit movie all around. But the fuckin' thing was a hit. So asshole Tom Parker said, “Well, that's what the people want.” So, any chance of Elvis growing as an actor, vworkin' with good directors and good scripts got shot to hell. Then they did “Kissin' Cousins” and they found out they could crank ‘em out in thirteen days. So, that's why ya had a Elvis movie out every Christmas and every summer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Yeah, I remember every Christmas and summer a new Elvis and Jerry Lewis movie would come out. And I'd keep goin' hoping they'd be good. But you know, his music was like that, too. There was never any doubt in my mind if he got himself some good material, and put out one good album, he'd be right back on top. As big as he ever was. I knew it, and so did everyone else who was cool. Just one good album was all it wouldda took. I had a picture of him on the wall. And I'd say, \"Come on, Big E” -- that's what I called him -- “Come on, Big E, you can do it.” It didn't matter he was in his late thirties. I mean, that's old -- CONT. \f(Cc CONT. 35",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Not for Elvis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "- Right, not for Elvis. While the Clarence pulis Beatles are comin' out with “Sgt. Pepper's Lonely Heart Club Band\" he comes out with the soundtrack for “It Happened At The World's Fair.” Look, what do you want written on the cake? a@ paper out from his shirt pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I have it right here. (reads) “Friendship. Friendship will always be the love between Mickey and me. The joy of always know ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Hold it. Time out, Greenbay. I can't put all that on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "I don't have that much room?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "How cuch room do you have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "I got about enough room for “Happy Birthday, Mickey.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Avv, man. Everyone puts that on their cake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Everyone named Mickey. Y'know, there's a reason, Clarence. It's short and sweet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You're right. We're not eating the lettering. Actually, we are eating the lettering, but just put down whatever. CONT. \fCc Cc CONT. . Bill starts writing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "’ You're not writing “whatever,” are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "No, I'm not writing “whatever.” Bill stops. BILL . Look, just forget it. Take the cake the way it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You're right. And I want the cookies, the doughnuts, the pie. Maybe some fudge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Fuck it. Bill starts walking to the back of the store.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "I'm getting a box, Clarence. A big one. How the fuck do ya think you're gonna eat all that shit? Bill goes into the back room. Clarence is still thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Maybe some chocolate eclairs, or some turnovers, or some apple fritters...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clifford's walking down a dimly lit Torrance street, mumb himself. —",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I'm a hand grenade with the pin pulled. He stops to read a street sign. He pauses, deciding which direction he should take.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "uw CONT. Cc Clifford continues mumbling as he walks down another s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLIFFORD",
+          "text": "I'm a fuming Volcano of rage ready to erupt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Misty stops in front of Mickey's apartment and checks the number with the address in her notebook. “MISTY - Whew. That was a long walk. She unlocks the door, using the key Clarence gave, her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey's in the shower. Obviously still depressed, he's j standing still letting the water run down his body. Suddenly, Misty opens the shower door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Aaahhh!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Hi, Micky. I'm Misty Knight, your birthday surprise. Mickey just stands there, mouth agape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(sings) Happy birthday to you. Happy birthday to you. Happy birthday dear Mickey. Happy birthday to you. Mickey still isn't moving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Now, I'll wait in the other room and when-you're done here, we can Start our party. . C (pause) o I love your radio show. { . CONT. \f“y 36",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "Misty closes the shover door. Mickey just stands there. Misty opens the shower door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oh . . . and keep it casual. What you have on is fine. Misty closes the shower door. Mickey's just standing there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence stands next to a table dialing a phone. On the t a big birthday cake, strawberry shortcake, a bowl of cand doughnuts, fudge bars, cookies, a cream pie, and a bowl o Clarence gets a BUSY SIGNAL. He hangs up. He tries again. Another BUSY SIGNAL. He hangs up. He dials the operator. talks, he dumps en entire bottle of-Vodka into the punch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Operator, I need to make an emergency phone call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CECILIA, a very attractive lady dressed in a police unifo on her bed and talks with her analyst on the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Dr. Reighold, I can't live like this anymore. I have one on one end, and one on the other. And it's tearing me apart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. REIGHOLD, (V.0.)",
+          "text": "Well, now, Cecilia. What are the choices? co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Well, Clarence is cool, at least he tells me he is. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "\f39 CONT. CECILIA ° But Eddie is supposed to be my boy- friend. And he's my partner. We drive around in a squad car together. But I have-to take a stand. I have to get out from the middle. The OPERATOR interrupts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR, (V.0.)",
+          "text": "I have an emergency call for Cecilia Long from Aldo Ray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Aldo Ray?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. REIGHOLD, (V.0.)",
+          "text": "Cecilia, you never told me you knew Aldo Ray. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I don't know Aldo Ray. Doctor, let me call you back. Cecilia hangs up. Almost immediately, the phone RINGS. WE both sides of the conversation. As Clarence speaks, he mu on a candy bar and pours yet another bottle of Vodka into punch. Ceciiia answers the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hello, baaabbbyyy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Clarence! CLARENCE ° Yeah. Who were you expecting? Aldo Ray? (he laughs) Cecilia, I just called to see if you'd like to go to a party tonight. Actually, the party's here, and it's for my best friend Mickey -- I've told you about him -- but he doesn't know about the party 'cause it's gonna be a surprise. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "a CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Clarence, listen to me .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And there'll be just the four of us. You, me, Mickey, and his girl- friend, who he hasn't met yet. Well, actually, by now he probably has, but it doesn't matter because she'll bring him here some time tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Clarence, listen to me...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I know what you're gonna say. Just wear any old thing as long as it's nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Clarence! I can't come over! In fact, I can't ever see you again!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "What? You know, this smacks of the work of that lunk-head boyfriend of yours again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Yes, it's Eddie. He's been spying on me. He knows I've been seeing you. I.can feel it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "So what? -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "So, you don't know Eddie. He's really strong... INSERT: EDDIE, wearing workout clothes, doing curls. He S",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "- . and really mean . INSERT: Eddie's bench pressing. He SCREAMS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": ". . and really jealous. CONT. \fs eo (Cc CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "4 Eddie, wearing his cop uniform, aims his .357 right at the camera. He SCREAMS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "And I'm really pissed. I'm telling you, Cecilia, he doesn't know just who he's messing with here. And when I get pissed, watch out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I'm sorry, Clarence. I just can't come over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Sure you can, baby. You can do it. You just need a little strength. The strength that a voman finds inside herself when the chips are doen, when it's time to get tough, when it's time to take a stand. ‘Know what I mean, baby? Clarence hears a DIAL TONE. He hangs up. INT. Misty’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY'S APARTMENT, (LIVING ROOM)",
+          "text": "lying on top of a coffee table practicing sexy poses. Suddenty, Clifford BURSTS in through the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "What do you think you're doin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Clifford, I'm with a customer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I get your customers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "How can you get me customers? You .can't even afford a car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Why don't you stay by the phone like I told you? CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "5 ro oo CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Clifford, you're upsetting me. Now, this is the last time I'n telling you, I don't want you to be my pimp anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "So, you don't want me to be your pimp no more? Clifford moves at her, and starts strangling her. Misty Struggles and flails with her hands. She accidently BOPS Clifford in the nose. ‘CLIFFORD Ooww! He holds his nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Clifford, you shouldn't have started choking me. Let me see you nose. Come on. Let me see. Clifiord does.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oh, you're all right. She starts laughing. Clifford really gets pissed. He grabs her again. They str",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I came all the way down here on the bus and this is what I get? Clifford THROWS Misty on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Owch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "What'd I tell you? Shouldn't be messin' with the kid. Mickey steps out of the bathroom. He thinks Misty's alone",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You know, maybe you're right. I've been down so long I need to party and --- - CONT... \f+7",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "+7 43 CONT. “Mickey stops when he sees Clifford standing over Misty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(to Clifford) Get outta my. apartment! Clifford points et Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "You! Your ass is grass, and I'm the lawn mover! Clifford pulls out a pair. of nunchakus from inside his s jacket. He starts twirling them. Misty gathers her stuff, and runs out the door. Clifford CHARGES Mickey, twirling the nunchakus. Mickey freaks. Just before Clifford's on him, he ducks ba inside the bathroom. -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE BATHROOM",
+          "text": "Mickey shuts the door. From inside the bathroom he hears as Clifford runs into the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD, (0.S.)",
+          "text": "(outside door) Ooohhh! Mickey hears another THUNK as Clifford hits the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE LIVING ROOM",
+          "text": "Mickey steps out of the bathroom and finds Clifford lying back on the floor. He's dropped the nunchakus. Mickey picks Clifford up and starts to drag him toward th door. Suddenly, Clifford breaks free. He does a “karate SCREAM\" moves into the ridiculous preying mantis stance from “Kar Kid.“ Mickey snorts, and SMASHES Clifford with a flurry of kara KICKS. CONT. \fe cont. Clifford SLAMS into the wall. Mickey BATTERS him with more karate kicks. One kick KNOCK Clifford into the kitchen. From the living room, Mickey hears the CLATTER and CLANGI Clifford falling into kitchen utensils. Suddenly, Clifford bolts out of the kitchen twirling a fl as if it were a fighting staff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Nnnyyysaaehhh! Mickey BLOCKS Clifford's first few flails. He catches the both hands. Clifford thrusts the mop forward, SMACKING Mickey right i face, and KNOCKING him down. Cliffcrd stands above the fallen Mickey, twirling the mop Lying on his back, Mickey KICKS Clifford in the groin. Cliffcrd backs up a few steps and folds, dropping the mop Mickey springs to his feet. He touches his nose with his and realizes it's bleeding. Now he's really pissed. Mickey grabs Clifford, raising him up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Lights out, prick. Mickey hauls off and SMASHES Clifford in the face with a haymaker of a punch. Clifford backpedals off camera. Mickey spins around and around, and finally falls on his from the force of his punch. Mickey scrambles “bo his feet, looking around his apartme Where did Clifford go? Mickey looks out his front door, which is still open. Dir beneath Mickey's second floor balcony is a large trash ca Clifford's feet are dangling out of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "45 EXT. DARWIN APARTMENTS -- NIGHT ‘ Mickey runs down the steps, slipping on a leather jacket T-shirt and jeans. He stops by the trash can, and looks a Clifford's legs dangling out of it. Not wanting any part of Clifford, Mickey just keeps runni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey runs to his Mustang. He gets inside and tries to s it. It won't start.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Don't do this to me. He tries again. It still won't start. A CUIE GIRL, 10. years old, zips by on roller skates. Sud she stops, and skates back to Mickey's Mustang. She raps window. Mickey nods at her, and tries to start the car. It won't She raps on the window again. Mickey rolls the window dow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTE GIRL",
+          "text": "You're Midnight Mickey, aren't you? I've seen your picture in the Enter- tainment section of the Torrance Tribune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Right, I'm me. Look, I don't want to be rude, but I'm in a real hurry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTIE GIRL",
+          "text": "Too bad about Pandora.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Yeah, well, I gotta go and --- How do you know about Pandora?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTE GIRL",
+          "text": "I read it in Beatrice Buford's gossip column in the Torrance Tribune. CONT. \fcy CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What the hell's she writing that for? I thought Beatrice liked - all the jocks et K-Billy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTE GIRL",
+          "text": "Well, that's the price of being a celebrity, I guess. Mickey tries to start his car. It won't start. just stands there, staring at hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Look, honey,. you're very nice and very pretty, and I've enjoyed our conversation, but I'm kindda busy right now. Maybe we could talk again at another time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTE GIRL",
+          "text": "Wow! Pervert-city! Wait ‘till I tell everyone that an older man like you came on to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "46 The Cute Girl What're you talkin' abour? I didn't come on to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTE GIRL",
+          "text": "You called me honey and pretty, and you said you wanted to meet with me later!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I didn't say that. I said --- She skates away. Her voice trails off:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUTE GIRL",
+          "text": "Wow! Midnight Mickey's a sickie! Mickey just groans and tries to start his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence drives his car down a street. the sidewalk. car. He sees Misty walking on Clarence parks by the curb, and gets out of his CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Misty! Over here! Misty sees Clarence. She runs over to hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That was quick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Too quick. We never got started.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Too quick . . . it was? Mickey? I thought he'd savor someone like you. Misty doesn't hear him. She's already inside his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NIGHT",
+          "text": "Clarence gets inside the car with Misty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Clarence, could we just leave?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "The experience was that bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "It was terrible. What a mess. I don't want to talk about it. Clarence starts the car, and drives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry he's not Johnny Weismuller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I didn't have time to find out. Clarence reacts to this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Please, let's just drop it. What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLARENCE",
+          "text": "Well . . . my baby left me. CONT. \fCONT. 46",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Qh, that's sad. Why did she leave you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "She has a boyfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "What a stupid reason to leave some- body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I was thinkin' about talkin’ to Mickey about it... after you two were done, I mean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "You can talk to me, if you like.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That's really nice, Misty. I don't know. Tell ya the truth, I don't really feel like talkin' about it. . Misty takes the forty dollars out of her purse, and hands Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I didn't really earn this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Sure ya did. I couldn't take it back now. Misty tries to give him the money again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Really ... I don't want it. Misty reluctantly puts the money back inside her purse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "What're you doing right now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Just drivin’. CONT. \f5 . i “=> CONT. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Seeing how your date fell through and things didn't work out for me, why don't we have that party anyvay? Justiiyou and me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You and me? Eeally? siSTY Really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An aging building with business offices inside. A YOUNG M stancs by the building strumming his guitar and singing f songs. He has a hat on the sidewalk for people to donate change. A 4wd Bronco SCREECHES to a halt by the curb. “Torrance P Depertment” insignias on the doors. Eddie gets out of the and looks at the building. He starts for the door, then s the Young Man, who's still singing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Get a job. Edd:e goes inside the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A cumpy office. ARNO POSNER, a dumpy private investigator behind his dumpy desk, drinking a can of beer. A nameplat his desk: “Arno Posner, P.I.” Eddie bursts into the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Okay, Posner, let's see the pictures.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "Eddie, I wasn't expecting you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "So what? ‘Let's see the fuckin’ pictures. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Posner pulls a wad of snapshots out from a desk draver.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "Okay, Eddie, but you're not gonna like it. He hands the pictures to Eddie. Eddie looks at them, gett angrier with each one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "I took ‘em. outside of the Dew Drop Motel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Dew Drop Motel . .. I hate that place! Eddie POUNDS his fist on Posner's desk. Papers go flying. looks at another picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Look at this. .. they're snugglin'. Eddie KICKS a trash can against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "Hey, take it easy. Eddie locks at another picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "They're kissin'! Eddie PUNCHES a file cabinet, knocking over a lamp which top of it. Eddie looks at another picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're kissin' and snugglin'! (to Posner) How could you stand watchin’ such filth?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "Just a job, pal. Eddie throws the pictures in Posner's face, and grabs him Starts SHAKING Posner by his shirt collar. CONT. \fc wn eo CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE ,",
+          "text": "How can you call doin' this shit just a job? Posner's scared to death.. He's ready say anything to sto from hurting him. -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "It was awful! It was terrible! I've never been so humiliated! Eddie stops shaking Posner, and releases hin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Who's the asshole with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "His name's Clarence Pool. Some jock for KBLI. I got a phone number on him outta the book. Posner hancs Eddie a piece of paper with Clarence's phone",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE -",
+          "text": "His address?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "I ain't got that yet. He uses a post office box. But I know he hangs out at that dive Ronny's Bar. Eddie's about to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POSNER",
+          "text": "Hey, Eddie, one thing... I think your chick was wise to me followin' her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Wise? There's nothin’ wise about someone fuckin' with me. Eddie leaves -- much to Posner's relief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie walks out of the building, and steps inside a phone CONT. \fy CONT. . Edéie looks at the paper with Clarence's number. He digs his pockets for some change. He doesn't have any.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Shit. Eddie looks at the Young Man, and gets an idea. Eddie steps out of the phone booth and marches over to th Man. He tips over the Young Man's hat, and loose change s across the pavement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "H YOUNG MAN",
+          "text": "ey! Edc:e helps himself to some change. He looks at the Young then grabs his guitar. Eddie SMASHES the guitar against t of the building. The Young Man panics, and runs for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". EDDIE",
+          "text": "Welfare wimp. Edc:e returns to the phone booth, and deposits several co the phone. Int. CLARENCE'S APARTMENT -- NIGHT",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ET SHOT on Clarence's phone machine. The phone RINGS. The answering machine kicks in. Rockabilly MUSIC starts playi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE, (V.0.)",
+          "text": "Hello, baaaby. You've reached the ring-a-ding of the original hillbilly cat, Clarence Pool. And I'm gone, all gone. So, all you hep cats and kittens leave your name and number at the sound of the guitar lick. As soon as I'm done with my fresh fish special, I'll try not to drag my axle in waltz time, and get back to you. Bye. The phone machine BEEPS. CONT. \f4s x",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(co uw uw CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (V.0.)",
+          "text": "You asshole! This is Eddie. I hope you know who I am. I hope that name means somethin' to you. I'm the man who's gonna drop-kick you to hell! |Cecilia's my woman. She's my property, and you been messin' with her. Look, garbage can, when I fi-d you and when I lay my hands on you, I'm gonna punch a hole through your rockabilly face! Then I'm gonna body-slam your rockabilly carcass to the ground! Then tie your rockabilly ass to the back of my car, and drag you down the middle of the street. I just wanted you to know that. I'M ON MY Way! RACK FOCUS to the doorway. Clarence and Misty enter, arm-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, it'd be perfect for me and Mickey now that we're not workin’ at K-Billy. There'd be a whole chain of 'em. It'll be called, “Rockabilly Burger.\" Fifties music piayin' all the time, pictures of Elvis everywhere. We'll have the Be Bopalula Burger and the Breathless Burito. One bite leaves you, “Ooohhh Breathless!\" (pause) My room's just down the hall. (sings) Rock, rock, rockabilly burger!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The hood is up on the Mustang. Mickey's working on the en using a flashlight to help him see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "There, dammit, that should do it. Mickey slams the hood shut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIG GUY, (0.S.)",
+          "text": "Hey, barf-bag! CONT. \f>~ F.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "5s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT. -",
+          "text": "Mickey turns, and sees a BIG GUY waddling toward him. The Girl follows the Big Guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BIG GUY",
+          "text": "What're you tryin' to do to my daughter, puke-face? Mickey jumps inside the Mustang.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I can't believe this shit. He starts the Mustang. The Mustang BURNS RUBBER and speed with the Big Guy and the Cute Girl running after it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bedroom is rife with Elvis and movie posters. Clarenc Misty are on the floor next to the bed. Clarence's hands been tied to a comic book stand. Clarence wears a robe, a Misty's wearing just her blouse, which stops above her kn",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "So, how long have you been a call girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Not very long. In fact, this is my first time. I haven't even been iiving here that long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Oh, I see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I'm not finished.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Oh, I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "See, for the past three years I worked at K-Mart in Cleveland.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Really? What department? CONT. \fCont.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Records and tapes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You lucky dog. I worked at K-Mart, too. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, out here. I always tried to get into records and tapes, but they stuck me in women's shoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "No kidding? I always felt sorry for those guys in women's shoes. Some of those ladies that would come in would make you try on fifty pairs of shoes before they made up their mind. CLARENCE. Yeah, but I had a foot fetish, so it evened itself out. I remember my Shining moment of glory at K-Mart. I'm telling this customer what size shoe she wears, then all of a sudden this big fat rat falls out of the air duct, right in her lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oh, my God . . . I would've freaked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "She starts screaming. The rat takes off like a shot. Wham! I go after him. I chased him all around the store for ten minutes. I finally beat him to death with a broom stick in hosiery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(laughs) That's so classic! While I enjoyed records and tapes, I still felt unfullfilléd. You know what I mean? CONT. \fCONT. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I. hear ya talkin'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MISTY",
+          "text": "So, one night I go out on a date with this guy from auto accessories and we saw a film thta was to change my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "“Dressed to Kill.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLARENCE",
+          "text": "Wonderful movie. Excellent movie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MISTY",
+          "text": "You liked it, too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Liked it? JI loved it. That Brian De Palma's a real mean motor scooter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I love his movies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "He's right up there in my cool book. The man ain't shabby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Well, you remember Nancy Allen in it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Remember her? How could I forget her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Wasn't she a knock out in that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You know, I think they should pass a law that says Nancy Allen has to have sex with me anytime I want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Remember what she was in that movie? (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "\f‘ CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "She was a call girl... and she was so cool and so together, I said to myself, “Louise, that's the job for you.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Louise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I mean Misty. \"Misty, that's the job for you.” So, I came out here to make my mark. So far I've been an absolute failure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What have you failed at?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Well, my pimp, Clifford -- he's a lousy pimp. A helluva nice guy, but a lousy pimp. I just had to face the fact he wasn't doing anything to further my career. So, I fired him and tonight, my first time at bat with a paying customer... and everything explodes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That's hardly your fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "How am I ever going to start a referral system? When people pay for a good-cime girl, they want a good time. Not get involved in a miasma. That's why I was so upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Are you still upset?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(coyly) No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "coyl Why? my CONT. \fae oN 58 CONT. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(coyly right back) None of your business. They kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You're sweet, you're nice, you have great taste in music. You know, the first time I saw you dancin’ to that music, I thought to myself, “That's my kindda woman.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Well, why didn't you do anything about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Yeah, you set me up with your friend. (pause) Why cidn't you do anything about it for you? .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "I don't know. I guess I'm just stupid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "You're not stupid. Just wrong. They kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NT. RONNY'S BAR",
+          "text": "Ronny's making himself a sandwich and listening to ELEVAT on his radio. Somebody speaks to him. He doesn't look up, totally immersed in making his sandwich.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN, (0.S.)",
+          "text": "Are you Ronny?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "(not looking up) Who's asking? The radio is suddenly turned off. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm asking. Who else is talking to you? Ronny looks up and sees cestfie dressed in her cop unifor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ONNY",
+          "text": "Okay, okay. I'm Ronny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Where's Clarence?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Clarence Pool. Where is he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "I don't know any Clarence Pool. Cecilia whips out her nightstick, and waves it menecingly front of Ronny's face. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I've had it with the games, dough- boy-face. I know Clarence comes here a lot, and I know he knows Ronny -- that's you. Where is he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Is it an emergency, officer? Cecilia sets the nightstick gently on top of Ronny's shou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "The emergency will be right here if you don't talk, nerf-nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "He's at his apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I called there, fat-head. I got his phone machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Maybe he's not answering his phone. He does that sometimes. CONT. \fCc ’ CONT. Cecilia turns, and leaves the bar. Ronny waits until she's gone, then mutters to himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Lucky for her she's a woman. Other- wise, there's no telling what I would've done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A disgruntled Mickey wipes some blood from his nose with handkerchief, then takes a key out of his jacket pocket a the coor. Int. CLARENCE'S APARTMENT -- NIGHT Mickey looks arsund. He tries the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey walks in on Clarence and Misty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence, I just -- Whooaa .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(to Clarence) What's he doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(to Mickey) What're you doin' here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What am I doing here? What's she doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(points at Clarence) I'm with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(to Clarence) She's with you? CONT. \fINT. 61",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "She's with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "She was with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(to Misty) That's true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I left. ,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "T know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(to Misty) He knows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Look, Clarence, who gives a shit? Can I please talk to you. . . alone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(to Clarence) I think you should taik to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "We better talk, Mickey. See ya in the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LARENCE'S APARIMENT, (LIVING ROOM)",
+          "text": "Mickey talks into the living room. Seconds later, Clarenc him. Clarence pats Mickey on the back and they sit down t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You don't know what just happened to me ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yes, I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You do? CONT. \fCc CONT. €2",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Misty told me, and it's nothing to get upset about. It happens to everybody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You gotta be kidding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It's happened to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ MICKEY",
+          "text": "No shit? How come you never told me about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "well, come on, it's not the type of thing a guy goes talkin’ about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Why not? We're best friends. I was gonna tell you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Okay, you're right. “I'll tell you about it sometime. Right now I --- (looks at Mickey's nose) Did you get into a fight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Bell yes! I thought you said Misty told you what happened. Hell, if you think that's something, let me tell you, pal -- after the fight I had some asshole chasin' after me accusin' me of molesting his ten year old daughter. Great night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Damn, man, you gotta loosen up. Clarence gets up. He gestures for Mickey to do the same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Come here. _ Mickey follows Clarence to the food table. CONT. \f4 on uw CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Look at that, Mick. We got fudge, shortcake, cream pie, Vodka punch, even a big birthday cake. All for you. I say we forget all the shit that's happened to you tonight and have a birthday party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'm not in the mood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Not in the mood? Hey! It's me! Clarence! Remember? When have I ever steered you wrong? Look, Mickey, tell me this -- can you think of anyone, anyone at all, cooler than me? Mickey thinks about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Billy Joe Ewald at Video Archives?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "He doesn't like Sonny Chiba's karate filns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Oh, that's right. I forgot. (thinking) What about Tommy Mero?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "He coesn't like the vanilla cokes at Cafe Fifties.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "He doesn't? What a asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Tell me about it. I wrote him right out of my cool book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I gotta admit you're the coolest, Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Case closed. Anybody who works as hard as I do at being cool isn't gonna lead you wrong. (MORE) CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "aN CONT. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You gotta face life like a man on the prowl, always on the hunt for & good time. Or life passes you by. Mickey doesn't know what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Before you say anything there's a little somethin' else. Clarence reaches behind the birthday cake, and picks up s wrappes up as a birthday present. He gives it to Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Happy birthday, Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MICKEY",
+          "text": "Thanks ...uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Open it. Mickey eagerly tears off the wrapping. It's a VHS tape of Havks's “Rio Bravo.” Mickey's really taken by this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence ... “Rio Bravo.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Picked it up when I got the cake and stuff. I know how much you like Howard Hawks. Cast ain't shabby, either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Shit, Clarence. “Rio Bravo\" ... birthday cake... Clarence and Mickey laugh, then embrace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "What you need is a hot steaming shower so you can relax. I'11 finish up in there, and maybe Misty can invite a friend over, and we'll have our party. CONT. \fon vn ave Cae",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Okay, okay . . . cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ CLARENCE",
+          "text": "Now you're talkin'. It's gonna be a wild night. i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clifford's still upside down in the trash can. He fidgets can't free himself. He's stuck. KLONDIKE, a janitor, walks over to the garbage can with a and a bag of trash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "Hey, man, you're gonna have to move for a second.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I'm stuck in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "You are? : Klendike sets his broom and bag down. He grabs Clifford's and pulis up. Clifford raises a bit, then slides back dow a THUNK, hatting his head on the bottom of the trash can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Ooovwe!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "What's wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Just get me outta here, dick-head!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "I got an idea. Klondike pushes the trash can over. It CLUNKS to the grou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Aaahhh! Klondike starts SHAKING the can until Clifford can wiggle free. Clifford slowly stands up, then brushes himself off CONT. \fic *y a an CONT. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "Here. Klondike hands Clifford a small whisk broom which hangs f belt. Clifford uses it to brush himself off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Thanks. He gives the whisk broom back to Klondike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "Quite a suit you're wearin’.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I'm a pimp. I have to dress fancy. PR end all that. (pause) Well, I'm gonna go bust up my bitch. Tharks for your help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "Well, I always say helpin' people is what life's all about. Clifford's about to leave. He pauses, then puts Klondike' bag in the garbage can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "Thanks, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "No problem. See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KLONDIKE",
+          "text": "Have a nice night. Clifford takes off. Klondike starts sweeping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia enter the apartment with a key in her hand. She l around, then walks down the hallway. She hears the shower running in the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia walks in the bathroom, thinking it's Clarence in shower. . CONT. \fCc CONT. She starts unbuttoning her police uniforn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I'm not being pushed around anymore. I'm leaving Eddie. He doesn't own me. From now on, I'm making my own decisions. Cecilia pulls open the shower door, and finds Mickey, who himself. “CECILIA Nnyyaa! Who are you? (thinks for a moment) Oh, my God! You and Clarence aren't oe. aren't... .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MICKEY",
+          "text": "Aren't what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "You and Clarence don't -go to gay bars together, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "No, we don't go to gay bars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Where's Clarence?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Obviously, not in here! Mickey SLAMS the shower door shut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia wanders out of the bathroom. She sees Clarence's door is closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia opens the door and finds a blanket over two chair a pup tent. GIGGLING comes from beneath the blanket. Clar hears the door opening. CONT. \f47",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": ": (thinking it's Mickey) Look, I love you, but you're gonna have to wait ‘till I'm done here, and I'll find someone for you. Okay? So, be cool for nov. Shocked, Cecilia backs out of the room, closing the door. Inside the tent, Clarence and Misty look at a book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's nothing here on fellatio, but the Guiness Book of World Records for kissing is 3 hours, 20 minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Okay, we can do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Let's start now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia's gulping down cup after cup of Vodka punch. She' getting loaded. Mickey, fully dressed, walks over to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'm sorry I yelled at you in the bathroom. It's been a bad night. (pause) Are you a friend of Clarence's . . or Misty's? Cecilia doesn't answer. She keeps on drinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(regards her cop uniform) I thought maybe that was your costume. (pause) Are you in the right apartment? She keeps drinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You know, there's Vodka in that punch. Cecilia stammers, having difficulty finding the right wor CONT. \f“y —_ a o CONT. f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Oohh . . . I know there's, uh, punch in the Vodka... and I can hold my... punch... all right. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Why are you drinking like that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Who's drinkin . . . I mean, how'd you like to be... just slapped » . . din the face... “MICKEY I wouldn’ t like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I don't mean... by mean... I mean, by me, you dim-wit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I mean, I'm not pushing anyone . . I mean, I'm not being pushed around. by anyone anymore...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Weil, good for you. Gotta stand on your own two feet. That's for sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I'm bein' aggess -- aggess --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Aggressive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Right! When I... see something Iwant .. . I'm gonna... grab it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Absolutely. Woman on the prowl, on the hunt for a good time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "A good time . . . like right now! CONT. \fy 4",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "55 o CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You got it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "And right now... I want what I see . . . right now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Right now? What do you --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "And I'm gonna get it! Cecilia attacks Mickey, smothering him with kisses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clifford walks down a city street, mumbling to himsel£.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I'm a fiery furnace of hatred . A howling storm of revenge. INt. RONNY'S BAR -- NIGHT",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ecdie bursts into the bar and SLAMS his fist on the bar c scowling at Ronny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You! Where is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "The girl with the asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "There's girls without assholes? Eddie reaches across the counter and grabs Ronny by his f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Listen up, butt~breath. My girl meets some Rockabilly asshole named Clarence Pool twice a week. I know the asshole comes here a lot, and I'm sure she's with him. Nov, where is she? CONT. \f. CONT. am . RONNY . At the asshole's apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's the asshole live?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Asshole lives st East Wood Apart- ments on Callahan Drive. Eddie releases Ronny, turns, and starts walking coward th He stops, and goes back to the bar counter. He grabs Ronn his face again. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Apartments have numbers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONKY",
+          "text": "Apartment 44, Eddie reieases Ronny, then leaves. Once Eddie's gone:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "‘ And stay out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "in the living room, Mickey and Cecilia are underneath a t rug, kissing and groping at each other's clothes. at the same time, Clarence, wearing his robe, and Misty, her long blouse, walk out of the bedroom, cuddling with e other. CLARENCE . I feel like Fred did when he met Ginger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Misty, I never lie about Fred and Ginger. Misty's really touched. She kisses Clarence. r CLARENCE eo Now let's party. - (loudly)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "J",
+          "text": "Mickey, I have a poem! CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence reads from a sheet of paper. He and Misty move i living room, catching Mickey and Cecilia off guard. As he they scramble for their clothes. Misty sees this, and tug Clarence's arm. He ignores it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(reads) “Friendship” by Clarence Pool. Friendship will always be the love between Mickey and me. The joy of always knowing that our affections are showing. And to show that we care, we lay our souls bare te the love we both share. (he looks up) Happy birthday, Mick --- Clarence sees Mickey and Cecilia partially undressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "What's this? What the hell's this? Mickey, how could you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Could I what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "With her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Who's she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(to Clarence) Who is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "She's ... she's...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(to Cecilia) Who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "My girlfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "No, I'm not! CONT. \fc ws nae w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(to Clarence) Your girlfriend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(to Cecilia) You are?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "She is!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "No, I'm not!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". MISTY",
+          "text": "You bitch!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "(to Misty) who are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Cecilia, how could you? And with my best friend...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(to Clarence) Your best friend? (to Cecilia) You tramp!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'm sorry, Clarence. I didn'c know she Was your girlfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It's all right, Mickey. I know you didn't. (points at Cecilia) It's all her fault. How could you in my living room on my carpeting underneath my throw rug like a ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Like a what? (points at Misty) Like a whore? CONT. \fc CONT. ’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I'm not a whore! I'm a call-girl,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ .- MICKEY",
+          "text": "What the hell's goin' on here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, Cecilia, what the hell's goin' on here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "What’ 5 going on, Clarence? Why, we're having a party. We're having fun. Cecilia marches over to the birthday table. Clarence foll her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Let's have some more fun! Cecilia picks up a can of whipped cream, and SPRAYS it al Clarence's face. :",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "You bitch! Misty runs over. She and Cecilia start fighting, while Cl wipes his face with a napkin. Mickey intervenes, pulling the two women apart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Knock it off! Both of you! Just grow up and quit acting like brats! That coesn': go over well. Misty KICKS Mickey in the shin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Ooowww! Cecilia picks up the cream pie and SMASHES it into Mickey He stumbles and falls on his butt by the table. Mickey grasps hold of the table and starts to slowly rise the same time, Clarence tries to break up the fight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Girls, don't fight over me. Misty and Cecilia PUSH Clarence away. He stumbles, FALLIN top of Mickey, who PLUNGES face-first into the birthday c CONT. \f75 CONT. ° “Misty and Cecilia continue fighting. They fall on the fl roll around. Clarence and Mickey both stand up. Mickey's covered with pie and birthday cake. Clarence hands him a napkin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hey, Mick, you're not pissed at me, are you? Mickey calmly takes the can of whipped cream off the tabl pours it all over Clarence. Mickey sets the can back down fable, steps over the battling girls, and ambles toward t athroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "There for a minute I thought he was pissed. Clarence steps over the girls, and heads for the bathroom Misty and Cecilia never break stride. They keep fighting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie's walking through the complex, looking at apartment numbers. GILBERT, a young man, is walking by.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Police! Freeze! Scared to death, Gilbert freezes. Eddie walks over to him looks him eye-to-eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "What's your name, boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "Gilbert.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Gilbert? Is that your first name? Gilbert nervously nods yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "How can you live with yourself? (pause) You know where Clarence Pool lives? . CONT. \fyy ~",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "a CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "Glarence Pool?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "' EDDIE",
+          "text": "The Rockabilly asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "I know where a Rockabilly asshole lives. Apartment 44.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "I know that -- (sissy-like) \"Gilbert\" ... . (angry again) Where's apartment 44?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "Down the hall and turn left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You know the Rockabilly asshole?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT -",
+          "text": "Well . . . I've seen him around. Eddie grabs Gilbert by his collar, and pressed close.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You ever talk to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "Maybe a couple times .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You like hin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "Uh. ..no... Eddie releases Gilbert.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "You're lucky. Now, get outta here! Eddie starts to walk away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "But, sir, I live here. Eddie stops and points at him, as if to say \"Don't talk b me.\" CONT. \fCONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILBERT",
+          "text": "T'll move! Gilbert runs away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "And get that Iname changed! Eddie starts down the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(muttering) “Gilbert” . . . shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Elevator MUSIC plays on the radio. Ronny's talking to him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "That did it. I mean it. I can't take it anymore. The next one who messes with me is getting exactly what they deserve. Clifford enters, obviously pissed. Ronny immediately pulls the plug on the radio, and blurts",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "East Wood Apartments! Callahan Drive! Apartment 44! Clifiord turns and leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cecilia and Misty are still fighting. Suddenly, POUNDING door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (0.S.)",
+          "text": "Open up! I know you're in there, . Cecilia! Cecilia and Misty stop fighting. More POUNDING on the doo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE, (0.S.)",
+          "text": "Open up! CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "o Cont. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ CECILIA",
+          "text": "‘My boyfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "How many have you got?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "He'll kill us. MISTY. Us? Why not just you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "He likes beating up people. Once he starts, he just can't seem to stop. : Eddie POUNDS even harder on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- Clarence is at the sink, washing off the whipped cream. in the shower, washing off cake and crean pie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "C'mon, Mickey. I need to get cleaned up, too. No answer from Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Look, I don't want you getting depressed or anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Don't talk to me, Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Seriously, I'm sorry about what happened. It's a simple misunderstand- ing, I'm sure. I'm gonna straighten everything all out. Okay? I'll clear up the mess with the girls and everything'll be great. We can even have our party now. Besides, what else could possibly go wrong? ‘5 \\ CONT. \fr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "yp",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "C",
+          "text": "~t vey CONT. . Misty and Cecilia BURST inside the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ".",
+          "text": "He's gonna kill us!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Who's gonna kill us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Eddie! He's here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ MICKEY",
+          "text": "(from shover) Clarence, what's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(to Mickey) Nothing. (to girls) . Now I'm pissed! And when I get pissed, watch out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie BREAKS OPEN the door. He charges inside, gun dravyn",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FREEZE",
+          "text": "Eddie realizes nobody's in the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Avright, you pompadour prick! I got a gun, and I'm gonna blast your ass off!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IXT. CLARENCE'S APARTMENT, (BATHROOM)",
+          "text": "With the bathroom door open, Clarence, Misty, and Cecilia hear Eddie's threat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Oh... shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "We have to hide. Cecilia shuts and locks the bathroom door. . CONT. \fic CONT. . Misty gets an idea. She opens the shower door. Mickey cov himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Quick, in here. Clarence, Cecilia, and Misty pile inside the shower with MICKEY . Now what? Misty shuts the shower door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Turn off the water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie in the living room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "I'm gonna fire a warnin' shot, dick- face, and then you better come out! Eddie pulls the trigger. CLICK! He pulls the trigger agai CLICK! He checks his .357.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Avw, hell . . . forgot to load it. Edeie grabs a quick load from his belt, but then pauses. thinks for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "No, that's too easy. Too fast. Eddie takes off his gun belt, holsters his gun, and sets on a table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Awright, you ducktail dork! It's hand-to-hand now! - Eddie starts ransacking the apartment, searching for Clar Cecilia. He spots some of Cecilia's clothes on the living floor, where she was with Mickey. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "81 CONT. Eddie picks up Cecilia's police blouse, and looks at it. plodes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence, Cecilia, Misty, and Mickey are crowded together the shower stall. They hear Eddie's screan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What the hell's tha---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Ssshhh, quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Shut-up. You wanna die?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Dumb-ass. Mickey reacts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie's kicking open doors, looking for Clarence and Ceci",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "I.can't wait to hurt somebody. He comes to the bathroom door. It's locked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "The bathroom . . . Of course, where else would shit hide?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie BREAKS the door open, and barges inside. He sees so in the shower. Eddie opens the shower door and finds Clar Cecilia, Misty, and Mickey all huddled together, and all partially undressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "This is the sickest thing I've ever seen. CONT. \ft",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "c CONT. Eddie clenches his fist, and winds up for a big punch. Clarence, Cecilia, and Misty SCREAM. Eddie SWINGS. Claren Cecilia, and Misty DUCK. - Eddie WALLOPS Mickey in the face. Mickey collapses on the floor. . Clarence, Cecilia, and Misty tumble out of the shower, fa top of Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Let me up! I'll kill everybody!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Eddie, Clarence, Cecilia, and Misty stumble out of the ba Edéie grabs Clarence and RAMS him against the wall all th down the hallway. Cecilia and Misty run after them, SCREA Once in the living room, Eddie gets Clarence into a headl Misty and Cecilia jump on top of Eddie. They're all so ta up, Eddie can't hit Clarence. They BANG against the walls, then BASH into the front doo closes it. They BANG against another wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". EDDIE",
+          "text": "I'm gonna kill him!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "He's gonna kill me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Don't kill him!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll kill all of ya!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "We're all gonna be killed!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mickey groggily crawls out of the shower stall,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "God, please wake me up from this nightmare. Please wake me up...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "“the four still .grepple. Eddie HURLS Misty into a couch. THROWS Cecilia over a chair. Eddie still has Clarence in lock. Mickey hobbles out’ of the beinrooe, pulling up his pants slipping on his shirt. } . t Eddie THROWS Clarence onto the floor. He looks down at hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Now I'm gonna break your Rockabilly face. . Mickey sees this. He rushes over, spins Eddie around, and CRUNCHES an uppercut into his gut. Eddie SHOVES Mickey in wall. Mickey lands a few good SHOTS, then they WRESTLE wi other. Misty and Cecilia quickly help Clarence to his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "That did it! Now I'm pissed! And when I get pissed, girls, watch out! . nce charges forward, and blindly SWINGS a wild haymaker o Edc:e sees it coming. He ducks. Clerence CLOBBERS Mickey in the face, knocking him ¢own a Clarence and Eddie look at a fallen Mickey for a moment. laughs to himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(points at Mickey) You see that? You see that, Eddie? That's just a small sample of what you'll get messin' with me, buddy! (starts dancing around Eddie, flicking a jab) C'mon! I'll hand you your ass! C'mon! Just try it! C'mon! Edcie winds up, and SMASHES Clarence in the mouth. Claren falls on his butt, out cold. Edcéze's full of macho bravura. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "awe vale EDDIE ’ Anybody else? Huh? Anybody else? Clifford charges into the apartment, SLAMMING the front d against Eddie, who SMASHES head-first into the wall. Eddi to the floor, unconscious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Oh, Clifford. What're you doing here? : Clifford's about to respond, but he sees the three guys l the floor. ‘CLIFFORD (meaning guys) Who're they? (pause) Never mind. Misty, you're comin' with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Who's he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I'm her pimp. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Ex-pimp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "- Look, whore --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Cali-girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "-- You're comin' with me. Clifford grabs Misty. She KNEES Clifford in the groin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Oooww... Clifford drops to his knees. Cecilia stuffs a waste basket over Clifford's head. He dr the floor. Misty and Cecilia look at the four guys sprawled out on t floor. CONT. \f85 CONT. ‘ ‘i CECILIA ic Pretty disgusting, if you ask me. Cecilia picks up the rest of her clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I've had enough of men tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Yeah... and I need to rethink what I want to do with my life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "What're you doing now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "I'm a call-girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "You know, I could bust you for that. if Misty reacts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Don't worry, I won't. You handled yourself pretty good with that weird-looking pimp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Maybe you should think about being on the force.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Like Nancy Allen in \"RoboCop\"? Ex-pimp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "Something like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "Wow! I'll get my clothes. Misty starts gathering her clothes. Co : CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "Meanwhile, the four guys groggily look up at the ladies, getting ready to leave. Cecilia makes the rounds, standing over each one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "(to Eddie) I don't ever want to see you again, Eddie. And I'll never be your partner on the force again either. (to Clarence) Good-bye forever, Clarence. (to Mickey) I'm sorry I threw a pie in your face, Mickey. Actually, you're kind of nice, but never again. I don't like your friends. (to Clifford) Get a new suit. Misty takes her turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "(to Clifford) .- Stay out of my life, Clifford. And get a different job. I'm sorry, but you're a lousy pimp. (to Eddie) I don't know you, Eddie, but I think you're a jerk. (to Mickey) Happy birthday, Mickey. Hope it's a@ good one. (to Clarence) Guess what? I'm going to be a cop just like Nancy Allen in “RoboCop.” Anyway, thanks for the great time, Clarence. Call me. Misty moves next to Cecilia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "How would you like a drink, Misty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MISTY",
+          "text": "At Ronny's Bar?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CECILIA",
+          "text": "I'd rather be burned at the stake. I know another place. A lot classier. CONT. \fet",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "o . MISTY Sure. Cecilia and Misty leave. The four guys struggle to their feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(to Clarence) . Did you see that? She left me. Thanks to you I've lost Cecilia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "What do you mean? Thanks to you I lost Cecilia and Misty. Well, Maybe not Misty, but --- (looks at Clifford) By the way, who're you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I'm a pimp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Will somebody just once tonight tell me what the hell's goin' on? o“-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLIFFORD",
+          "text": "(looks at Mickey) Wait a minute. You're the sonuva bitch who was with my whore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Call-girl. -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Whore? Who cares about a whore?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Call-girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "‘Cause she's my whore. Cam CLARENCE i Cali-girl. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cont. ow om",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Someone pleese tell me what's goin' on!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Well, now I'm dead. No whore ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Cali-girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "--- No business. No business, no life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "What're you bellyachin' about? How about me? Do you know what it's like to have the woman you love watch you with admiration while you smash some faggot's head in with your nightstick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "It's ecstacy . . . and now it's gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Big ass deal. I find the woman of my dreams and now she wants to run off and become a cop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "And what's wrong with that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "From where I'm standin', plenty. Mickey can't take it anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ME WHAT THE HELL'S GOIN' ON",
+          "text": "Everybody shuts up. They look at Mickey, who looks like h lost him mind. . CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "o wo CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MEAN ANYTHING AT ALL, THAT I DON'T",
+          "text": "COMPLETELY ibe wine ! Looking like a madman, Mickey glares at the other three g daring anyone to talk in riddles. Everyone's a bit freaked. ‘Eddie looks at Clifford. Cliff looks at Eddie. They both look at Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE -",
+          "text": "Uh... you-know, actually, when you think about it, Mickey's got a good point. I mean, we've all been through a lot, and talkin’ about it is gettin’ us nowheres fast. (to Mickey) Know what I mean, pal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Yeah. Clarence looks at Eddie and Clifford. They're listening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Okay .. . I suggest we stop dickin' around, count our losses, lick our wounds, and go to Ronny's Bar. Maybe after a few beers ve can make some sense outta all this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(to Clarence) You buyin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(gropes through pockets in his robe) Tell ya the truth, I don't know where I put my wallet --- Eddie, Clifford, and Mickey glower at Clarence. He can fe tension.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Oh, that's right! I left it in my pants in the other room. No problem. I'll buy. CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "“y> -y CONT. . Clarence looks. at the other three guys, waiting for some respense. Nobody says anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Well, are we goin' or not? (pats Mickey on back) How about it, Mick? You look like you could use a cold one. Mickey takes a deep breath. He gives in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "-MICKEY",
+          "text": "All right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Okay, okay. Clarence looks at Clifford and Eddie. They've relaxed a b Clificrd shrugs his shoulders. He's in. Eddie realizes he Man cut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "(to Clarence) Bring your wallet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "All righ:! Clarence raises his hand high for a high five. No one giv to him. He clears his throat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Right... Uh, I'll get dressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The radio's playing ELEVATOR MUSIC again. With his back t bar, Ronny's cleaning glasses. He hears the plug get pull his radio. He turns around and sees Eddie, Clarence, Mick Clifford all sitting at the bar counter. Ronny drops his It SHATTERS on the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Four beers, Ronny. Ronny stands frozen, looking at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Come on, Ronny. What's the delay? : CONT. \fo oe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT. '",
+          "text": "“Ronny slowly gets the beers. He silently places them in the four guys. First Eddie, then Clarence, then Mickey, t Clifford. Eddie immediately chugs his beer down and is fi by the time Clifford gets his beer. Eddie belches, then gets up from the bar counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Leavin' already?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Why? You buyin’ another round?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Uh... well ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Look, every night at about this time some asshole is throwin' an outdoor party. And every time that happens, some of the assholes there are smokin' dope. And every time that happens, I'm there bustin’ heads, which is exactly what I feel like doin' considering the mood I'm in right now. Everyone looks at Eddie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDDIE",
+          "text": "Hey, I'm mendin’ a broken heart. What can I say? Eddie walks out of the bar. Ronny vaits until Eddie's gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Boy, that guy really pisses me off. He's lucky he left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, I could see the animal rage buildin' up in you, Ronny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "It was! CONT. \f.o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY .",
+          "text": "So, who's that Eddie guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Cecilia's boyfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I thought you were her boyfriend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Iwas. I mean, we both were, but now we're not. I mean... Trust me, you don't wanna know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "The guy can hit, that's for sure. Knocked me silly in your bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You're pretty bad yourself, Mick. You were right on him layin' on pain. I was impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "For a while. After I pulled him off you, he caught mé with a punch I didn't even see. Knocked my lights out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It did? The punch was that hard? I mean, the second punch... when we were all fighting in the living room. It knocked your lights right out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Clarence gloats, since Mickey's really talking about his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "(to himself) When I get pissed, watch out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Nothing. CONT. \ff Cc 5 CONT. oe uw Clifford sniffs at his suit. Clifford pours Clarence looks",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLIFFORD",
+          "text": "Smell like a trash can. beer on himself. Mickey sees this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Why'd you do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "Rather smell like a drunk then a bum. Bad for the image.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Oh... at the clock. It's a few minutes past midnight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hey! That's it! It's past mid- night. : (to Mickey) It's your birthday!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Happy birthday, Mickey. Ronny gives him another beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "On the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Thanks, Ronny, I ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "All right! Party time!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLIFFORD",
+          "text": "How old are you? CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "” 2 CONT. Before Mickey can respond:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": ". CLARENCE",
+          "text": "Thirty! The big three... oh! This is a milestone, Mickey! We're gonna party like there's no tomo---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Clarence shuts up. Ronny and Clifford freeze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ MICKEY",
+          "text": "(to Clarence) I'd like to talk to you. . outside... now. Mickey leaves the bar. Clifford and Ronny look at Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "He's fine. Really. Everything's cool. I'm gonna go outside and me and Mickey'll have a little chat, and then we're all gonna party. Ronny, get my man, Cliff, here, another beer. Ronny gives Clifford another beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Cliff, drink up as much as you want. On the house tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNY",
+          "text": "Hey...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Ronny, get out the pretzels, the chips, the dip, and every kindda beer you got. I want it to be beer-city in here when I come back with Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clarence meets Mickey outside behind Ronny's bar. CONT. \fco oO ws",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Look, Clarence, I appreciate your sentiments. I really do. But _ I just don't vanna party. Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "' CLARENCE",
+          "text": "Mickey . . 2 apts your birthday. Mi CREY You've been saying that all night! I know it's my birthday. Nobody knows that more than me. And it's been a rotten.experience. This has been the worst night of my life. Any minute now someone I've never | seen before might walk around that corner and punch me in the mouth. What . . . you wanna party, Clarence? Fine. Why not buy a birthday cake? I'll go along so I can try it on first to see if it's the right size.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Hey, Mickey ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'm serious here, Clarence. I feel like a Soupy Sales reject. How many people do you know have ever had a cake and a cream pie smashed into their face in their whole life, let alone one night. And what's with this everyone seein' me naked in the shower shit? You know, I used to like taking showers. I found them relaxing. I really did, but not anymore. Now, if I wanna meet an idiot,.I can just jump into the shower. Some asshole'll show up. Clarence becomes somber. He walks over to the front fende car, which protrudes from an alley. You can't see the ent because the building wall blocks it. Clarence sits on the hood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence? CONT. \f‘ Cc CONT. Clarence doesn't respond. He's depressed. Mickey walks ov",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Clarence, what's the matter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You're right. It's all my fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "What's your fault?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Everything. I fucked up the whole night for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Now wait. I didn't say that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It seems like I turn everything to shit. It's really my fault ve got fired. And I ruined your birth- day party. This always happens. Like last week when you ve're gonna fight those two guys. I jump in to help you and I go and bump you ---",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Hold the phone, pal. Now, before you go blamin' yourself, consider this . . . If you hadn't accidently bumped me and knocked me into that fat girl's banana split, there wouldn't have been a diversion. If there's wasn't a diversion, the big guy wouldn't have started laughing, and you wouldn't have been able to sneak up behind him and slug him with the gumball machine. That left the other guy to me, which was one on one, and, hey, it was a piece of cake. It was teamwork, like it always is with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah . . . like Starsky and Hutch or Crockett and Tubbs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "You got it. CONT. \fr CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "But you're still a little pissed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'm not pissed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "You're pissed off. I know you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "I'm not pissed off. You keep sayin' I'm pissed off, I might get pissed off. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Then do Eastwood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Why cdo I gotta do Eastwood?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Because if you're not pissed off, you can do Eastwood, and I know you're pissed off. You're ina foul mood. .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "All right, if I do Eastwood, no more talk about me bein' pissed off, or anything bein' your fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nothin's my fault if you do Eastwood. Mickey takes a moment, then does an impersonation of Clin Eastwood as Dirty Harry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(Clint Eastwood voice) Well, what kindda gun you carryin' there, boy? Oh, a .38. Not a bad gun. Let's see what it can do. (holds pretend gun to his head) Boon! (snorts) Well, I just happen to have a .44 Magnum, the most powerful handgun in the world. Let's see if it can blow your head clean off. CONT. \f98 Cont. ~ Mickey pretends to shoot a bigger gun at Clarence. They b laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Sit down here. Mickey sits on the hood next to Clarence. Clarence reache side his coat and pulls out a joint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Here . . . goon, take it. It's from my private stash. Mickey takes the joint. Clarence gives him some matches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "_ CLARENCE",
+          "text": "Tell you what, seein' as how tonight Started on the wrong foot, why don't you light that up, you smoke it, and you relax. And when you're ready, you come back inside. In the mean- time, I'll call Misty and see if she's home. And this time, maybe we can get her to bring some friends, and we really will party.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Misty seems like a nice girl, Clarence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Yeah, I like her. So, what do you think? You wanna give the birthday party one more shot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "(laughs) Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "Happy birthday, Mickey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICKEY",
+          "text": "Thanks, Clarence. You're my best friend. — They embrace. Clarence jumps off the car hood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLARENCE",
+          "text": "It's gonna be a wild mornin'! CONT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONT.",
+          "text": "“Clarence goes back inside the bar. Mickey laughs. He lights up the joint, and takes a big dr He exhales. Suddenly, RED AND BLUE LIGHTS start FLASHING. CAMERA follows Mickey as he turns, revealing the rest of parked in the dark alley. Mickey realizes he's sitting on the hood of a police car. gets out of the car, and SHINES his flashlight on Mickey, holding the joint. Mickey reacts. la",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I5",
+          "text": "vt",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1311"
+    }
+  ]
+}

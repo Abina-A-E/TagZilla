@@ -1,0 +1,2848 @@
+{
+  "movie_id": "MOV1505",
+  "scenes": [
+    {
+      "location": "WAITING ROOM",
+      "time": "DAY",
+      "characters": [
+        "DAVE",
+        "HANK DUANE",
+        "DUANE'S GUIDE",
+        "STAN",
+        "BACK TO 0",
+        "HANK'S GUIDE",
+        "CUT TO",
+        "SUSANNA",
+        "TINA",
+        "HANK'S EAR",
+        "SURVEILLANCE VIDEO, (FROM THE LAMP-POST)",
+        "TECH",
+        "HOOKER",
+        "BOSS, (V.0.)",
+        "AD ON TV",
+        "MRS. JACKSON",
+        "SURVEILLANCE TECH, (V.O.)",
+        "STAN'S GUIDE",
+        "FIRST ASSISTANT, (0.S.)",
+        "GARDENER",
+        "TINA'S GUIDE",
+        "MANDY",
+        "SURGEON GENERAL HAS DETERMINED STEAM IS UNHEALTHY...\"",
+        "FIRST ASSISTANT",
+        "REB",
+        "DUANE",
+        "MOVES IN ON HANK'S SKETCH",
+        "VAL",
+        "GILMAN",
+        "O, (V.0.)",
+        "LAB TECH",
+        "REVEAL O IN HIS OFFICE",
+        "THE FAMILY",
+        "BLACKOUT.",
+        "BANK SUPERVISOR",
+        "SURVEILLANCE VIDEO",
+        "SECOND ASSISTANT, (0.S.)",
+        "SMASH CUT TO",
+        "HANK",
+        "DISSOLVE TO",
+        "ANNOUNCER",
+        "WE STAY WITH O",
+        "NEVER BEEN SO MUCH FUN",
+        "WALL AD",
+        "SECOND ASSISTANT",
+        "HANK, (0.S.)",
+        "OFF HANK --",
+        "WAITRESS",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A sign featuring the U.S. flag tells us that we're on the premises of \"R & D: IMAGINING OUR FUTURE\". STAN (twenties) waits. Nervously. A GUARD waits with him. Stan taps instructions into his \"Bee\", a device he wears a wristwatch. STAN'S GUIDE (a hologram that is his information interface with the world) pops up in front of him, in the form of a SEXY BLONDE, who smiles seductively",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STAN'S GUIDE",
+          "text": "Hey Stan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STAN",
+          "text": "Messages?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STAN'S GUIDE",
+          "text": "Sorry, sweetie. Stan taps his Bee, and she changes looks and voices as sh continues (he's scrolling through different versions of h Guide):",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STAN'S GUIDE",
+          "text": "How 'bout some music while you wait? You love that new cut by -- A door opens. Stan taps his Bee; his Guide disappears. 0 walks in. He's a male android who looks completely human -- like an executive in a business suit: calm, easy self-assured -- except that he's quicker, sleeker, more efficient. His (human) assistant, MANDY, accompanies him. 0 Sorry to keep you waiting, Stan, busy day. 0 nods to the Guard, who leaves. Stan blurts out anxiousl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STAN",
+          "text": "Listen, I know I blew the last -- 0 We don't expect anybody to get it right all the time, humans aren't capable of that. Stan isn't sure whether this is good or bad... \f0 Joke, Stan, loosen up. What we look for is imagination, nobody bats a thousand. I've got good news: we're going to promote you. Stan relaxes: maybe everything is okay. 0 They're going to adjust your retinal scan for security, Mandy will fill you in. If you have any questions, just give me a shout. Mandy opens a door to an anteroom. Stan, heartened, goes through the door. Smells something. Stops, panicked. Turn back -- but the door slams shut. A blinding red light flashes around the door frame. 0 It's the smell that frightens them, we need to work on that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANDY",
+          "text": "(making a note) Smells like X bombs -- that kind of sensory-inspired fear is hard to get rid of in us humans -- 0 smiles -- a smile that turns your blood cold. Mandy realizes she's committed a faux-pas -- and is frightened:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANDY",
+          "text": "Sorry about that \"us humans\", wasn't thinking. 0 I'm not sensitive, you know that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANDY",
+          "text": "I also know you want to be treated as if you're like us. 0 shrugs it off, and strides out, tapping his Bee, which implanted in his wrist: 0 We're coming to look at potential replacements for Stan of the Holloway family --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welcome to America a few years from now. It doesn't look very different from today. It's much more crowded -- larg buildings hunch up against each other, soaring shafts of steam plume out of buildings and up from beneath the streets -- but everything is organized, clean and emphatically fun: more Disneyland than Blade Runner. The busy masses of people are polite -- if very much in t own worlds, occupied with their Bees and Guides. They pay little attention to (if they notice at all) the sites everywhere. A cafe, a church, the whole front of a building are all being repaired by efficient, partially automated crews. The destruction is hidden by temporary walls, onto which (like the walls of all the buildings) is projected news, entertainment and ads. It's all bright, upbeat and distracting... like this ad:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNOUNCER",
+          "text": "Upgrade to your new, free Bee 6.0 today and receive TwO THOUSAND free credits, plus fifteen points toward Premiere Status. The Announcer morphs as people pass, their own Bees alter the Announcer's look and voice:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNOUNCER",
+          "text": "Bee 6 features SenseWorks, our fresh new interface that makes it easier than ever to change your Guide. Don't like blondes? Gone. Want your Guide's voice lower? Your sense is our command. And your own custom images and vocabulary styles are easier than ever to upload. The Bee device in the ad morphs into a smiling honey bee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNOUNCER",
+          "text": "Remember, we're your Bee -- but to us, you're always A. A BOY passes the ad. The bee winks at him. He pulls his MOTHER's sleeve:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mommy mommy, I want it --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A WOMAN IN A LEATHER JACKET AND JEANS (TINA) puts a jar o mayonnaise into her grocery bag and walks out of the stor There's no checker; nowhere to pay. Instead, as she leave her hologram Guide (a studly guy) pops up in front of her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA'S GUIDE",
+          "text": "Yo Tina, that's thirty-six bucks, twenty cents. Want to take that outa your general account?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina comes upon a BANK that has just been bombed. It's st smoldering, workers are pulling out bodies, and sliding i temporary walls to mask the devastation. Tina is the only passer-by who stops and looks. Her studl Guide tries to distract her:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA'S GUIDE",
+          "text": "This branch is closed, babe, there's one at Main and Sixth. Tina peers at the damage inside the bank. Smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA'S GUIDE",
+          "text": "Hey Tina, I got real-time video of Michael Jackson being released from prison right this minute! VIDEO of, yes, Michael Jackson getting out of prison is projected from Tina's Bee onto a temporary wall as it is fixed into place, blocking Tina's view of the bombed bank",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina passes a lamp-post. ZOOM INTO THE LAMP --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURVEILLANCE VIDEO, (FROM THE LAMP-POST)",
+          "text": "Tina goes into the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina walks into the microscopic one-room apartment. The o window is blacked-out with aluminum foil, which is covere the inside with a something white and gooey. Two other CELL MEMBERS (a MAN dressed as a GARDENER and a TEENAGED BOY) assemble three bombs at the kitchen table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GARDENER",
+          "text": "You get them? Tina takes three metal vials of liquid out of her purse. Hands one to the Gardener, another to the Teenager, and s the third into her pocket. The Teenager starts to open his vial --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "(alarmed) Not now! Rattled, the Teenager puts the unopened vial into his poc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0 strides in, trailed by Mandy. TWO ASSISTANTS who have b arguing with each other immediately quiet themselves. 0 So. Replacement for the brother in the Holloway family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "(jumping in quickly) Hank Skinner -- The four walls come alive with surveillance video of HANK (twenties; a normal, worker-bee, upwardly mobile guy -- o that's what he wants to believe; underneath, he's intuiti creative, bright -- but he denies these qualities even to himself, sensing that they are not useful, even suspect).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "Smart, funny, loyal, hard worker --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "He's risky, his parents were revolutionaries -- members of the so-called Free Republic. \f0 Do I detect sarcasm? They had the right to call themselves whatever they liked, it's a free country.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "They engaged in illegal acts against the State -- 0 And they failed, nobody remembers anything about them any more, they didn't engage the popular imagination. Not surprising with a name like \"Free Republic\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "(pointedly, to Second Assistant) Anyway, they're dead. (to 0) Years ago, car accident -- 0 That works for us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "Unless the apple doesn't fall far from the tree. 0 Any sign of revolutionary sympathies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "Hard to say, he keeps his head down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "We'd know. I mean... He gestures to the surveillance info that surrounds them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "But we don't necessarily know, surveillance doesn't tell us everything -- isn't that why we're recruiting these people for R & D? 0 It's about balance. You want them to have initiative, be curious, creative -- but not too much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And that's why Hank's perfect. This was taken this morning -- The walls display SURVEILLANCE VIDEO shot through windows from satellites, etc. It's much better than back in 2004: crisp and clear, if always from outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(A nice but miniscule apartment.) HANK, in his boxers, si beside his bed, drawing on a sketchpad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT, (0.S.)",
+          "text": "Wait till you see this...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOVES IN ON HANK'S SKETCH",
+          "text": "The sketch is of his girlfriend VAL, who is asleep in bed Looks just like her -- except that he has drawn her pregn and she doesn't look it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT, (0.S.)",
+          "text": "Val Abbott, they've been together off and on since college, she moved in for the first time five months ago when she lost her job --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT, (0.S.)",
+          "text": "Live-in girlfriend, that's a problem. (0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Or something we can use. Val wakes up. Hanks puts away the sketchpad -- but not qu enough. She reaches for it. He holds it away. She thinks it's a game, tickles Hank to make him let go of the pad:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "Come on, let me see -- She sees that he has drawn her pregnant. Freezes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "How'd you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(disappointed) Why didn't you tell me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I just found out yesterday, I was going to but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Not a good sign, is it? About us. He forces a smile. Gets up and heads to the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Photos of Hank's sketches pop up on the wall screens. The uncannily capture the subjects' moods, thoughts, secrets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "He sees people -- perceives who they are, what they want, what they're hiding. Right up our alley.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0 Very promising.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "But she's pregnant -- would he be willing to leave her behind? 0 He seems ambivalent, maybe we can take advantage of that if we move fast. Have we got a way into him? INTERCUT WITH SURVEILLANCE VIDEO from the wall screens:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One-room, puny (all the homes are claustrophobic). A sick man (DAVE SKINNER, thirty) stumbles from bed to the bathr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "Hank's older brother Dave. Only sibling, no other relatives. Neuroendocrine carcinoma. Stable now but still suffers. 0 He can't afford an SCI? And neither, I suppose, can Hank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "Neither of them are even close to Premiere Status. \f0 That's a nice shiny carrot. Other images are projected onto the wall screens: Hank at work, at the gym; out to dinner will Val, on vacations, e",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "Hank doesn't lose his cool. Anything goes wrong, he sucks it up and keeps everything under control. Doesn't even vote -- seems politically indifferent. A perfect citizen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "Or he's a revolutionary in disguise, keeping a low profile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "There's no sign of that. Also, he's a great match for the Holloway family. He had a strong, creative mother, a preoccupied father, one sibling --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "The Holloway matriarch is a grandmother, not a mother, the sibling is a sister, not a brother --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "The psychological and emotional dynamics match, the all bode well for an easy adjustment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "I've got some troubling file footage -- A new video file appears on a wall screen:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank is out with some BUDDIES, among them DUANE. Differen sports games with odds tickers are broadcast on screens, the guys eagerly place bets with their Bees:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK DUANE",
+          "text": "Get it, get it away from -- Catch the ball you -- Duane's Guide, a NAKED BIMBO, pops up: \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE'S GUIDE",
+          "text": "Hey handsome, that dickhead Palmer just lost you two hundred bucks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(laughing) You bet on Palmer? Palmer? What's wrong with you? He grabs Duane's arm, slips Duane's Bee off his wrist -- Hank taps",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE'S GUIDE",
+          "text": "Duane, your Bee's off!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE",
+          "text": "I'll lose points -- ! some instructions into Duane's Bee --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE'S GUIDE",
+          "text": "Hey stud, they just docked you twenty Premiere points -- and you were so close to Premiere status --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE",
+          "text": "Hank come on, quit messing -- Hank points his Bee at Duane's bee. Laser communication shoots between them -- Duane's bimbo Guide hiccups and rewinds, then giggles at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE'S GUIDE",
+          "text": "Ooo -- you just upgraded, sexy, you're more massive than ever! Welcome to Bee 6.0.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Your bet's erased. Check it out. Hank slips the Bee back on Duane's wrist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE",
+          "text": "How'd you do that? Hank makes sure nobody's watching, then whispers to Duane",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "When it was re-writing your software, it wrote over the last two minutes. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0 Lots of people figured out that bug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "Do we want those people working for R & D?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FIRST ASSISTANT",
+          "text": "They're exactly the people we need -- resourceful, imaginative --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "Anti-establishment? Maybe even revolutionary? I know it's a balancing act finding the right kind of recruit, but we can't keep erring in the wrong direction. 0 That's why I'm here -- androids are much better equipped for risk- assessment than humans. The Second Assistant, chastened, nods. As O heads out: 0 Besides, if he doesn't work out, he can always be promoted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank and Val grab breakfast, moving around each other wit the ease of people who know each other well -- and with t caution of lovers who know the ice is thin:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I got these chem-berries for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "They're so expensive --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Don't worry about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "Easy for you to say. He dishes the berries into a bowl for her. End of discuss \f12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": ". Thanks. (eating them, can't help but smile: ) Remember that trip we took to the coast -- when you could still pick berries for real?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "These are sweeter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "(diving in:) I didn't tell you about... that I was pregnant because I didn't want it to be the reason. The reason we split up or stay together. Hank nods, pours ingredients into a blender.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "I know you're scared, I'm scared, too --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm not scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "Hank -- let me in for once... Hank turns on the blender. She turns it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "You know, the world won't come to an end if you let me know how you feel once in a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I don't feel things as strong as you do -- He turns the blender back on. She speaks over it:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "I see you sketching -- you see things, you feel things most people can't -- how else could you have known I'm --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "They're just drawings, they don't mean anything. She turns off the blender: \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "Just cause your mother was an artist and got in trouble --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "This has nothing to do with them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "Then what're you scared of?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm not scared. It's just -- the only thing that's private any more is how you feel, it's the only thing that's all yours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "(not what she wanted to hear) You want this baby? Otherwise...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Otherwise what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": ".» I don't know. Sanctioned abortions are expensive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Not like we don't have the money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "I don't -- I don't have a job, I don't have an apartment --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You have here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "Not if we split up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You can stay here, I've got a job, I've got money, we can do whatever we want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": ". So what does that mean, you want to? Get an abortion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What do you want? \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "I want to know what you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "... I don't know. Sorry, really, it's just sudden -- Look, I gotta get to work, we'll talk about it tonight -- okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAL",
+          "text": "I knew this would screw up everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(drawing her close) It'll be okay. Tonight, okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURVEILLANCE VIDEO",
+          "text": "captures them kissing goodbye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REVEAL O IN HIS OFFICE",
+          "text": "watching them on his wall-screen. He gets up briskly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina, the Gardener and the Teenager coat the three bombs the mayonnaise Tina bought at the store, then wrap them i aluminum foil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They then place the bombs in a backpack, a purse and a plastic bag. A TV is on in the BG:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AD ON TV",
+          "text": "-- the new Sierra Spring Surgery Clinic where you'll find a full array of aesthetic services. Skin, height, voice -- you can be everything you want to be, AND you don't even need Premiere Status --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank talks on a speaker-phone while working on a virtual keyboard and monitor that are projected onto the desk in front of him (they move with him, since they're projected from a small computer that hangs around his neck): \f15. O walks in. 0 flashes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "We can hub everything through Detroit --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOSS, (V.0.)",
+          "text": "I told you, Detroit's backed up --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Can I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOSS, (V.0.)",
+          "text": "You better or you're out of here. 0 (imitating Hank's voice) I'll get right back to you. End call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Hey -- ! an identity hologram from his palm:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You're an android. 0 Don't tell me you're racist. That wouldn't be like you, not with your parents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(tapping his Bee) Get my boss back on the line -- 0 I'm here to offer you a job. (smiling) I'm hoping that my antagonizing your boss will work in my favor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank and O walk past ads (\"'REAL WORLD 50' - SURVEILLANCE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURGEON GENERAL HAS DETERMINED STEAM IS UNHEALTHY...\"",
+          "text": "\f0 We work with law enforcement agencies --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(skeptical) So it's a government job. 0 We're outsourced. I don't need to tell you it's a dangerous world, Hank. People want law enforcement to be like garbage collection -- just take away the bad stuff, don't make them see it. They don't want to worry, they want us to worry for them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank and O approach the entrance to the park: 0 We've become very efficient at gathering data. We can see and hear pretty much everything we want to. I know more about you than you'd like me to. But. What we can't do is get into people's imaginations. That's where you come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm not a psychologist or a -- Hank's hologram Guide (PABLO PICASSO) pops up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Park visit is twenty dollars each hour. 0 Picasso, huh? O waves his imbedded Bee over Hank's wrist-strap Bee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Most recent charge deleted. 0 It's on the house. Hank's Guide disappears. They walk into the park: 16. \f17. 0 Picasso saw into people's souls, you artists do that, you're empathetic to emotions --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm not an artist, I just draw people once in a while -- 0 How'd you know your girlfriend was pregnant? Hank gapes at him: How'd he know that? 0 I told you we know more about you than you'd like. How'd you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I started sketching her and I -- I guess I saw something -- 0 Exactly: We can't see that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The park is perfect: clean, sunny, the trees immaculately trimmed, the water antiseptically clean. 0 Look at this park, it's perfect -- too perfect, I'm told. I mean I like it, but then I'm synthetic. It should have been designed by people like you instead of by bureaucrats with computers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What does this have to do with -- 0 Technology, despite its advances, has no heart. And therefore it can't read hearts. Turns out that's the missing link in the security puzzle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Look, I'm just a regular guy -- \f18. 0 You may want to be, but you're not. You can't actually enjoy that job of yours --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "It's a good job -- 0 Well, it will be waiting for you if you don't like our job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I don't get it -- I'd be, what, \"imagining\" stuff all day? Drawing sketches of terrorists? 0 It's more about elaborating on data.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You've got people trained for that, intelligence officers -- 0 Intelligence, not imagination -- different wiring. We get lots of chatter which we know is important but which defies a logical approach. People like you help us figure out what the bad guys intend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I don't see how. 0 You will once you start doing it. Whether you know it or not, by sensing what people feel, you can extrapolate motives and thoughts. Everybody we recruit feels the way you do at first. But it works.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "So this has been successful? 0 Know how we finally won the war in Syria? We hired some Hollywood screenwriters to imagine what the bad guys would do next. (more) \f19. O (cont'd) We can't miss the next attack because we can't imagine what it could be. A child's ball bounces towards them... O snatches it, hurls it at Hank. Hank, startled, catches Without missing a beat, O takes a swing at Hank. Hank instinctively blocks 0's punch with his left arm, without letting go of the ball in his right hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0 Ambidextrous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(what the hell is he doing?) . So what? A LITTLE BOY approaches. 0 hands the ball back to the Boy 0 Careful, you don't want to lose the nice ball, do you? (moving Hank along) Michelangelo was ambidextrous, did you know that? Also Einstein. They did an autopsy on Einstein's brain, he had a much larger profusion of capillaries interlacing the cerebral cortex than average humans. (smiling at Hank's confusion) The two hemispheres of his brain were more evenly balanced -- like yours. You make connections other people can't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank and O return to the entrance: 0 The world is better, safer than it used to be. Lots of people worked hard to make that happen -- your parents in their own way. But there are still many terrorist groups trying to destroy us. We've made your life easy -- shouldn't you give something back? \f20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I see you're programmed for guilt. 0 (laughs) And for bribery -- the job has great benefits: You'll live ina luxurious, spacious house with other members of your family --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Family? 0 We get the best results when these research groups think of themselves as families -- it incubates their potential skills.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I was almost with you, but that's just too weird -- 0 You'll be making five figures weekly, and upgraded immediately to Premiere Status. That should come in handy with things like your brother's illness. Hank gapes at him: this is too creepy. He makes a decisio",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Thanks for the offer, but... (shakes his head, no) O hands Hank a card. It reads: \"R & D: IMAGINING OUR FUTURE\", and there's an embedded code on it. 0 I hope you change your mind. O watches Hank walk away. O's Second Assistant appears on O's Bee:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "I've got some other candidates -- 0 Not so fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECOND ASSISTANT",
+          "text": "He said no. \f21. 0 But I haven't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank and Duane, in sweats, row in a scull on a lake. Hank taps Hank nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "-- Val's not answering her Bee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "She leave a message for me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "No. You want to leave another message for her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Yeah -- no --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "I'm an artist, I don't have time for this shit. his Bee; his Guide disappears:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I gotta download a new Guide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE",
+          "text": "Trouble in Val-adise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "No no, everything's cool -- just our usual stuff, you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE",
+          "text": "Let me tell you something, buddy, there's nothing better out there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUANE",
+          "text": "When're you and Val gonna set me up with that girlfriend of hers? Cause these days it's just my Bee and my right hand, dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Yechh. The lake suddenly sputters into a digital mess around the \f22. Then it \"shuts off\", revealing they're actually in an ACTIVITY ROOM AT THE GYM, on a scull machine. The lake wa a virtual projection. Hank's Guide pops up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Sorry Hank, you're out of credit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That's impossible --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Want me to try your savings account?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Yeah, I got tons of --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Nothing in that account either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What? It's got to be a glitch --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank strides, talking with a BANK SUPERVISOR projected as hologram in front of him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANK SUPERVISOR",
+          "text": "Your accounts were withdrawn today at --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "But you need the password to do that --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANK SUPERVISOR",
+          "text": "Did anybody else have access to your password? Hank gets really worried, breaks into a run --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The apartment is dark. There's a key in the door, and the soft lights, romantic music, and wall-to-wall sunset imag all switch on automatically. Hank rushes in:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Val? \f23. The closet is half-empty. He hurries to the bathroom: Sam thing. Val's gone. He slumps onto the bed, touches her pillow...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank's Guide leads Hank through the crowded station --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "-- the signal from her Bee places her on the next platform -- Hank follows his Guide onto -- an empty platform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "She's not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Yes she is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "No she's not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Don't yell at me, I'm just a device.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Double-check the --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "The signal from her Bee is coming from this location.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(figuring it out) ... She took it off and tossed it here. Oh shit...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Incoming urgent call from Dave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank rushes in to find Dave looking terrible, lying in an cubicle, surrounded by medical devices. It's horrible:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Dave... \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "So weird, I just fainted. They say it can come back like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That sucks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "I'm so sick of always asking you for stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "The procedure? Don't worry about it --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Drugs, all that shit, I'm sure I brought this on myself --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That's crazy --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Easy for you to say. Perfect son, perfect health, never a trouble- maker --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "So, what, this is my fault?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "I didn't say that. It's just -- maybe I should just...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(calling him on it:) What? Maybe you should just what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Where are you gonna get the money for the procedure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'll take that job --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Oh no you won't, Mom and Dad'1l1 curse me from the grave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "So what do you want me to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "You can't work for the bad guys. \f25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(talking himself into it) Mom and Dad were wrong, Universal Surveillance isn't so bad -- it keeps us safe, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "You really feel safe?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "I haven't felt safe a minute of my life since they died. (admiring him) Somehow you got their... bigness, their steadiness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Come on --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "You come on -- don't pretend you didn't, not now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(seeing it means so much to him: ) . Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Even when you were a kid -- Mom'd be finger-painting with you, I'd turn up the TV loud, but she wouldn't even look at me, not even to tell me to turn it down. She'd stand behind you, tell you to concentrate, not listen to the TV, just zone it out and concentrate on whatever you were painting. She'd put her hands over yours and you paint together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "How do you remember this? I don't even remember it --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "The fridge was plastered with your shit. (more) \f26. DAVE (cont'd) One of your finger-paintings, a sunflower, your masterpiece, it stayed there till... (then) I'm just so scared, man. Hank grabs Dave's hand:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You're gonna be okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank, deep in thought, walks up the steps of The Uni-Chur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "You're out of credit. Uni-Church costs fifty dollars for thirty minutes. (disparagingly) Religion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'll go on interest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "You've been approved, ten percent interest per week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank walks in. A digital sign lists CHURCH ONE, TWO, THRE etc., each designated OCCUPIED or AVAILABLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "We're in Church Four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank walks into an empty room. There are pews, but nothin else: no religious iconography or decoration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Catholic? Methodist? Jewish?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "The usual. And the video screen walls become a Quaker Meeting House. \f27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Sermon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(sarcastic) Does it cost extra without?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0 watches Hank in the Uni-Church on his wall screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "sits in a pew, alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Want your customized news? I can order your usual take-out from Chi and it'll be ready when you -- Hank turns off his Bee, his Guide disappears. It's completely silent. A first. Hank sits and thinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BACK TO 0",
+          "text": "O's eyes shine, glued on Hank, fascinated by him --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "takes the sketch of pregnant Val out of his pocket -- 0 O's breathing becomes shallow -- what's Hank going to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Takes out the card O gave him. Waves the card over his Be",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S GUIDE",
+          "text": "Dialing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BACK TO 0",
+          "text": "whose phone rings. O leans back, relieved. Wipes sweat of his upper lip -- not very Android-like behavior. He smiles and answers the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "O leads Hank toward a lab:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You said this was a trial basis. 0 Absolutely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I need your help finding my girlfriend, she's disappeared -- 0 Disappeared -- or left you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I just need to find her. 0 That shouldn't be a problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "And I need an advance on my salary. 0 Consider it done. Welcome to Research and Development. He holds open a door for Hank --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A LAB TECH selects an earwig (a tiny device that fits in ear) from a tray:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECH",
+          "text": "This won't hurt. Hank regards the earwig warily as the Tech brings it to Hank's ear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECH",
+          "text": "You can trust me, I'm programmed specifically for this task. He fits it in Hank's ear -- (V.0.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey handsome. \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECH",
+          "text": "Go ahead and answer him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "There's no mike -- (V.0.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't need one, I can hear you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK'S EAR",
+          "text": "The earwig sprouts legs, and burrows into Hank's ear, clamping down --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (0.S.)",
+          "text": "Hey! Something's wrong --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "reaches into his ear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAB TECH",
+          "text": "It's adjusting so it won't fall out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "But how do I take it out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "O, (V.0.)",
+          "text": "You don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Teenaged Cell Member, surrounded by students, opens h locker. Puts in that backpack into which we saw him place his bomb. HOLD ON THE BACKPACK --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "as Tina sets the purse containing her bomb in a drawer at desk, and walks out. HOLD ON THE PURSE IN THE DRAWER --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank approaches, slows in amazement. It's a big old wood Craftsman house, a real throw-back. The city has built up around it, enclosing it... \f30. Hank knocks on the door. It's opened by MRS. JACKSON, six ish, with a big, kind grandmotherly smile -- but make no mistake, she's sharp, and the sugar masks vinegar underne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Mr. Skinner, you're here. Was the traffic bad? We were worried... Hank steps in, through the looking-glass --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Worried...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Well, you are ten minutes late. They like us to get these family conferences started on time --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Yeah, about this \"family\" stuff --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "You're a member of the Holloway family now, we pride ourselves on being punctual. But the cookies are still warm, I baked them myself. She offers him a plate of fresh-baked cookies. You don't no to her. Hank reaches for one --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Don't touch them! Hank jerks his hand away. SUSANNA BLADE (early twenties, seems self-assured, has gr equipment and knows how to work it) steps in, singing \"Wh Rabbit\":",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "\"One pill makes you larger, and one pill makes you small -- \" (taking him in: ) You must be my new brother --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "New brother? \f31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "You're replacing Stan, he was the hottest brother I ever had... till now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Susanna's an \"actress\" -- she tried so hard, didn't you, dear? She's been much more successful with our work here in the family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Why Grandma, what sharp teeth you have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "(ignoring her, to Hank) So we understand you're an artist? Very impressive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "It's just something I do, I've got a real job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "You have a really important job now, young man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I used to be an artist's model -- nude modelling. Wanna do me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "I'm a writer -- you've probably never heard of me: Frank Jackson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Frank Jackson, the spy thrillers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Publishers thought they'd sell better with a male name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "But your books are so... (stops himself)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Masculine? I was in military intelligence. When they put me out to pasture, I took up writing. \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "She gives most of her royalties to the National Rifle Association. Seriously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Well we can't all be bohemians. GILMAN HOLLOWAY (forties) comes downstairs, carrying a to Flash Gordon-type weapon. He's passionate about the work, but the passion hides a dark anger and fear underneath:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "(to Hank) Sorry to be late -- Gilman Holloway -- I'm the \"Dad\". I was up all night with this -- He points the toy weapon at a wall and FIRES IT. There's a nearly silent BLAST -- but when the smoke clear the wall looks unchanged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I've had nights like that. Gilman sticks his hand through where he fired: that part the wall has been blasted away, replaced by a hologram of wall the way it was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "It takes a photo of the target right before it fires, then instantly projects a hologram of the target the way it was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "That's how Al Amir got into the power plant without anyone knowing? (off Gilman's nod) 0 will be pleased. Have a cookie. (to Hank, proudly) Gilman's the one who figured out how to get the Star Wars shield up and running.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Didn't do much good, turned out the enemy was inside the shield. (more) \f33. GILMAN (cont'd) (re: the weapon: ) Stupid looking prototype, but it was lying around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "(quietly) Was it Amy's? (off Gilman's nod, to Hank) This was Gilman's house, his kid sister Amy was killed by terrorists.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "And he's done an excellent job of moving on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Mrs. J lost her husband and son in the line of duty --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Shall we \"move on\" into the family room?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Gardener (the male Cell Member), works on a planter - hiding in it the plastic bag containing the last bomb. Th image FREEZES, and we're in:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The wall screens are filled with shots of the three cell members planting their bombs. XRAY SHOTS ZOOM IN ON THE purse, locker and plastic bag, revealing black blobs inside -- As 0 briefs the family (Hank, Susanna, Mrs. Jackson and Gilman) via a holographic video hook-up: 0 We've been tracking Tina Falk's cell for several days, no apparent connections to other terrorist groups.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "There are so many out there. \f34. 0 We believe these devices to be bombs, but they've somehow disguised them so we can't get visuals. Of course, that makes them suspicious in and of itself --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Why haven't you arrested them? Or picked up those bombs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "‘Cause the bombs are decoys, right? Look at her body language -- She imitates Tina, as surveillance video showing Tina planting her purse in the office is projected on the wall",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "She's putting on a show -- making sure she's not blocking a surveillance camera, opening the drawer more than necessary so we can see inside. It's like she wants surveillance to see her. 0 Exactly. What we need you to figure out is, Why plant decoys? What are they trying to distract us from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I still don't get why you don't arrest them. 0 You think they'll just tell us what their plan is? We have to keep the cell in play until you can figure it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "But if those are real bombs, they're gonna go off --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "And that's why we need to get to work, dear. (for her earwig: ) Decoys, domestic terrorist groups. Research files pop up on the wall in front of her -- \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Change angles -- let me see the devices from above. C3 Filter. The surveillance shots of the devices change at his comma",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Susanna leads Hank in, as she listens to her earwig:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURVEILLANCE TECH, (V.O.)",
+          "text": "-- second table to your left. Susanna looks at that table, spots Tina eating alone. Susanna leads Hank to a table facing Tina, who is oblivio",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "So what's she thinking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm not psychic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Me, I need to imitate their body language, act them out -- it helps me get inside their skin, feel what they're feeling. Maybe you need to do something like that to draw them. They look at Tina, who is eating a huge lunch. A WAITRESS brings her a jar of McMahon's mayonnaise which she slathe on her food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "She can put it away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "And she's so skinny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I hate her. Susanna hands him a pencil, as if to say: Go. Hank picks up the pencil. Looks at Tina as he takes his sketchpad out of his backpack. Puts pencil to paper -- dr for a moment -- then tosses the pencil down:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "This is stupid. \f36. He gets up. Susanna grabs his hand:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Find a way to make it work. He's surprised by her urgency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "You don't run out on your family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I have my own family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Well I don't -- or I didn't before the Holloways. My foster parents adopted me for the benefits, I got them on the fast track to Premiere Status.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What about your birth parents?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Don't know. The Holloways are my family now. (then: ) It takes getting used to, but it works.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank tosses in his bed. Turns on the light. Gets up. Pick up his sketch pad. Looks at drawings of his real family.. O (V.0O., in Hank's earwig) Any brainstorms?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(startled) God! What're you, watching me sleep? (V.0.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The people you've sketched, they're all people you know. Maybe you need to know our subject better, I'll prepare a file. And we really do need you to move in to the Holloway house. Hank doesn't respond, switches on a lamp. \f37. (V.0.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is there a problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Well, I can't sleep with this thing in my ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Surveillance of Hank in his apartment is on a wall screen But O is gazing at another image (which we don't see -- y with... well, lust. What is it he's looking at? 0 We can give you something to help you sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You been able to find anything about Val? 0 The last surveillance we have of her is at the Northern railroad station -- taking off her Bee. That makes tracing her more challenging... We finally see what 0 is gazing at lustily on a wall scre it's Val, asleep in a jail cell. 0 Don't worry, we'll find her. Hank turns off his lamp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WE STAY WITH O",
+          "text": "Without taking his eyes off Val, O drops his hand and sta stroking down there, rhythmically, faster and faster -- Suddenly, he stops, aware of something, spins around to s Mandy (his assistant) staring at him, shocked. She's just come in; her hand is still on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In one incredibly fast movement, O zips up his pants, shu the door and forces Mandy to sit down. He looks down at her, regaining his composure and power, waiting for her to say something. \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANDY",
+          "text": "(shaking) » You're human. 0 Unfortunately. But I have had some work done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANDY",
+          "text": "\"Work\". ..? 0 Some people have surgery to change their mood or improve their strength -- I went in for neural transplants. He goes to his desk, takes out a syringe and a plastic vi 0 Synthetic cells. They speed up synapse connections, enable me to process information more efficiently -- As Mandy watches, not daring to move, O drains down the v into the syringe... 0 People don't question androids. They trust them to make unemotional choices, efficient decisions. It's easier to maintain authority when people don't question you. He whips a rubber strap out of his desk, tourniquets it around his arm, and shoots up: 0 Experimental but the results speak for themselves. Although I haven't been able to rid myself of all emotions yet -- as you saw. He pops off the strap -- and, holding the drained syringe approaches Mandy. She can't take her eyes off the empty needle... 0 It's bracing, like an icy cocktail. I can feel my cells firing. (more) \f39. 0 (cont'd) Right now I'm evaluating possible scenarios much more effectively than you ever could... He grabs her. Terrified, she struggles to free herself. 0 Don't struggle, let me do the work. That's what androids are for. He jabs the syringe into her neck, emptying air into her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank wakes up -- the apartment is filled with fog... or i steam? It's weird, nightmarish... Alarmed, Hank rises, trying to peer through it. He slides silently out of bed, treads carefully toward the kitchen A hand grabs his arm. Hank spins toward the intruder. Through the fog, all he can see is a powerful man -- The man (REB) drags Hank to the stove, pushes Hank's head down toward a pot of boiling water. Hank desperately struggles to free himself --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But Reb is too strong -- he twists Hank's head so that Ha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ear is right over the boiling water --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank furiously fights to get free -- Suddenly, Reb lets go of Hank's head -- but then he grabs Hank's arm and holds it over the boiling water:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "I'm not going to hurt you. Their surveillance doesn't work through steam -- I temporarily disabled your earwig, now I'm going to do your Bee. Hank looks at his Bee through the steam -- its display fizzles out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "I've only got a minute before they're back online. \f40. Hank sees that the steam that shrouds the apartment comes from a device strapped to Reb:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Who the hell are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "I don't have a name, I don't exist, not in Their records. I'm going to let you go, okay? Hank nods. Reb lets him go. Hank lunges for the door. Reb grabs him. They struggle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Listen to me, listen! Your job, it's bogus, they're lying to you. Reb gets Hank in a clinch:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "You think your bank accounts just happened to be depleted the day They offered you a job? Your girlfriend didn't take your money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(floored) . What do you know about her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Your brother's cancer, why do you think it suddenly got worse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "...What're you saying? They somehow spread his cancer so I'd --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "They're going to tell you your girlfriend is dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "what??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "They're going to tell you she's dead, it's the way they work, cut you off so you have nobody but your new \"Family\". They did it to your predecessor, but he wouldn't play along, that's why they \"promoted\" him. \f41. Hank's Bee buzzes back to life. Reb spots it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What're you saying? They killed him? Reb disappears into the steam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Where's Val? Hank peers around as the steam dissipates. Reb is gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Morning rush hour; everybody consults with their Bees. Ha hurries past a wall ad for a no-steam iron:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALL AD",
+          "text": "-- smooth as silk with none of that unhealthy steam! He slows as he takes that in, then hurries on --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wall screens are filled with images. Hank and Susanna pou over surveillance files of Tina and the other cell member Mrs. Jackson and Gilman refer to weapons files while consulting with 0 in his office via the video hologram:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "I can't find any precedent of decoy bombs that are fake -- to divert attention, the decoy has to be a real threat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "And I haven't been able to infer what the bombs might be, but there is evidence of timing devices. 0 How much time do we have? Gilman shakes his head; he doesn't know. \f42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "We're focusing on the wrong thing: The decoys are irrelevant, they'll only cause collateral damage --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "\"Collateral damage\"? You mean they'll only kill irrelevant people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Of course not dear, I mean whatever this cell is planning has to be bigger than a couple of hundred casualties. (to 0) You should arrest those three terrible people and interrogate them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "There may be other cell members involved, you don't want to tip them off --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "This is weird -- they're all eating tons of food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "(impatiently) Do try to stay focused, Hank -- Surveillance shows Tina, the Teenager and the Gardener ea huge meals everywhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I mean, look at Tina: She's skinny as a rail but since last week she's been putting it away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "And the teenager and the other guy have been porking out too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "McMahon's mayonnaise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "what? \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "He's right, McMahon's mayonnaise -- it's in every shot, they're all eating it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "(thinking out loud: ) Maybe it's a signal -- or maybe they're preparing to run off...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "What're you saying, they're squirreling away mayonnaise for the winter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "I'm sure you must have a better idea then, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "(thinking out loud) McMahon's is the fattest kind of mayonnaise around -- why would they all want to put on weight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "To raise their cholesterol -- ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "That would take months... Hank takes out his pad and starts sketching Tina...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina, the Teenaged Boy and the Gardener finish sandwiches which they slather with McMahon's Mayonnaise. Some of that gooey white substance covering the aluminum that blocks the window slides off. The Gardener gets up, slaps some more mayonnaise over the window in its place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "It's time for our next step. The Teenaged Boy and Gardener glance at each other...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "No seeing each other any more until the action. Right? \f44. The Gardener folds the Teenager into an embrace, as if they're father and son -- and never going to see each oth again. They rise somberly; something weighty just happened...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank comes in; Susanna makes a salad, her back to him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I hope you're not vegetarian. Kissing vegetarians is like making out with a lawn. Hank is surprised that Susanna knew he was there without seeing him. Mrs. Jackson, working at a counter, notices:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Eyes in the back of her head. Susanna moves to the stove to check out pasta which boils away, cascading steam around her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "And a real bitch in bed. That surprises Hank. Susanna doesn't react.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Deaf as a post when her earwig's off-line, poor lamb. Save anything you don't want her to hear for when she's steamed up. Susanna moves away from the stove and steam. Hank notices Mrs. Jackson is chopping two different thing with two knives, one in each hand. She catches his look:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "We need to get back to work ASAP. Those veggies need to be washed. (as Hank does so:) Being ambidextrous only indicates you have a predisposition for our work. You have to develop it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I don't know if I can. Gilman comes in with a color chart: \f45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "How many colors do you see here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Eight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "The Berinmo tribe in Papua New Guinea sees five -- they only have names for five colors. Our work, it's like opening yourself up to see new colors. It's wonderful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "My sainted father loved reading stories aloud -- but I always knew how they were going to end. I could see, actually visualize, the stories from inside the heads of the characters. Spoiled it for Dad. I always thought I was freakish --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Can't argue with that --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "-- until I started doing this work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Exactly, it's made me feel normal -- no, not normal, useful. My sister, all the other kids played with their toys -- as soon as I got one, I'd take it apart and put it back together ina better way. All they saw was parts and computer chips -- I saw purpose and beauty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "My turn? I'm the deaf bitch in bed. (to Mrs. Jackson) My earwig isn't my only resource. I'm keeping the rest to myself. Hank dries his hands, heads for the back door:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm going home for a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "This is your home now. \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Look, I'll help you as much as I can, but this family thing, living together, it's too weird. (heading out) I just need to take a break --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "And we need you here. You boys always think you can come and go --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(that stops him: ) Us boys? Stan left too? I thought he got promoted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Hank please, we can't afford another failure, they'll -- Mrs. Jackson flashes Gilman a warning look. Hank catches",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "They'11 what? None of them respond -- or look him in the eye. O comes i 0 Hank?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "O leads Hank in: 0 I have bad news. Val's dead. Hank freezes. How should he react? Is it even true?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "How do you know? O taps his Bee. Video clips show Val getting on a train, the train being blown-up, Val's body being pulled from it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "oh god. 0 Terrorist bombs. I'm sorry. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(grief flashing into anger: ) No you're not. 0 Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(covering) You're an android, how can you be sorry. 0 I'm programmed for it. (then) We're not so different, Hank. TI don't feel emotions, you've spent most of your life trying not to. Hank won't let O see his grief. He stalks to the front do 0 The irony is, you'll only be useful to us if you allow yourself to feel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(turning back) \"Useful\"? Are you threatening me? 0 Of course not -- but it would be disappointing if you gave up so quickly. (goes to him, hands him a card: ) Tina's address. It seems you need to interact emotionally with the subject to get into them -- that's why your drawings of Val and your brother and your parents are so incisive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What happened to Stan? Was he not \"useful\"? 0 Based on his performance, Stan was promoted. You could be, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank approaches. A HOOKER peels up alongside Hank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOOKER",
+          "text": "Hey baby, got a light? She holds up a cigarette. A tiny dart shoots out of the cigarette, hitting Hank in the neck. Hank is suddenly jello, slumping over the Hooker...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURVEILLANCE VIDEO",
+          "text": "It looks as if Hank is pawing the Hooker, pushing her int the shadows where a steam shaft blows out of the Uni-Chur ventilation system --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0, watching Hank, is surprised: 0 Why Hank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SURVEILLANCE VIDEO",
+          "text": "As Hank and the Hooker disappear into the steam, the vide and sound fizzes out --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Hooker jabs a needle behind Hank's ear. He wakes instantly, with a start, coughing:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What the hell... Reb is there, waiting for them in the shadowy steam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "You're easy to find, you go to Church when you have to make a decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm here cause Val's dead. You were right, you satisfied?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "What I said was, They were going to tell you she's dead. She's not. \f49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I saw video, I saw her body --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "I could show you video of your own death. They're detaining her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(wants to believe it) How do you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "They need something to hold over you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Why? Why would they do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Anybody the State can't control is a threat to them. They want to get rid of you, all of you with imagination, why do you think They're rounding you up into these \"Families\"?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(distraught with confusion) That's crazy --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Then leave, don't listen to me. Hank starts to leave -- but something Reb says makes sens him, no matter how much he tries to talk himself out of i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "They need us to --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Fight terrorists? That's their excuse, and your ego.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "So, what? there's no terrorists? Is that what you're saying? There's bombs, killings every --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Of course terrorists exist, because the State needs terrorists to exist. Terrorists play into Their hands -- \fReb takes 50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "This is radical paranoid bullshit, I've heard it all my --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "If there wasn't terrorism, we wouldn't need security -- if we didn't need security, we wouldn't let the State to steal our freedom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm free...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "How can you be free when the State watches your every move? When They coerce you into working for Them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(all he cares about: ) You know so much, help me -- help me find Val.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Help us. several small X-shaped devices out of a bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(scared) . All the X-bombs were destroyed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "That's what the State thinks, so They won't be looking for them -- or for you. Universal Surveillance is the State's greatest strength -- but it's also Their greatest vulnerability: If we can shatter it, Their power will be devastated. We'll help you locate Their surveillance hubs --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "But X-bombs destroy everything for a block, they'll kill hundreds --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Of Them. Some collateral damage can't be avoided -- \fHank does. Reb takes 51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "\"Collateral damage\"? You're as bad as they are --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "As bad as Them? They killed hundreds of thousands. They \"amended\" our Constitution until it meant nothing. You think you can reason with Them? Decades of talk and protests, what good did it do? People are more numb than ever, they're doped up on technology. All we're trying to do is give people back the right to think for themselves. You remember what that was like. He looks away, knowing there's truth in it...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Like I said, they're not looking for these. But just to be safe -- a jar of McMahon's Mayonnaise out of his bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Coat them with this -- something in the molecular structure, the synthetic fat, surveillance can't see through it. Hank takes the jar of mayonnaise. That's a coincidence. H stares at it, not knowing what to make of it. Reb misunderstands Hank's confusion: Reb holds",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "So simple, I know. But we're only a step ahead of Them -- soon enough They'll figure this out, and we'll have to come up with something else. out the X-bombs for Hank:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "We'll contact you, the best way to avoid being seen by Their technology is not to use it. Hank gazes at the bombs... \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Break one arm, fifteen minute delay. Break two arms and it goes off right away. Hank Shakes his head. No. He turns away without taking th bombs, and disappears into the fog.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina takes out her metal vial of liquid --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Gardener unscrews his identical metal vial --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Teenaged Boy hesitates, then drinks from his vial --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank comes in. Dave is in bed, with tubes all over the pl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Doctor says the operation went well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "(nods; then: ) Thanks, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "No problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "You look like shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "So do you. They chuckle. Dave peers at Hank, sees something's not ri \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "What's up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Everything's cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Think I don't know when you're bullshitting? Hank takes a breath. Can he tell Dave? Hank glances up at the surveillance camera -- realizes he has to be careful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Let me help you for a change. Hank wants to -- and sees it's important to Dave, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "It's Val, she's -- (eye on that camera) gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Gone? What do you mean? She left you? Hank wants to confide his doubts, but knows the camera is",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "She's dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "What?? Shit. How -- ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Terrorists.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Oh man I'm sorry. I'm so sorry. This is so screwed up, this whole world is so... I was wrong, man, what I said the other day, about your job. Working for the bad guys isn't bad if you catch worse guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(really needs to know) You think? \f54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "Mom and Dad, they were wrong. Fighting for the Free Republic? What did that even mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(cautiously) The Free Republic was against surveillance and centralization of power, the State taking over media, education --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "There are terrorists out there, killing innocent people like Val, they gotta be stopped. You're doing the right thing. He sees that Hank still isn't so sure:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAVE",
+          "text": "When I woke up from the operation, I thought, I want to live, I want to live in a world that's safe. I'll change, I'll be more like Hank, he's doing the right thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank wheels a suitcase to the front door. Takes a last lo around. Spots his sketchbook. Stuffs it in his backpack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The noise of a door closing wakes Hank -- he's spent the night in the car. He looks up at the entry to the buildin Tina has just left, is heading up the street. Hank hurrie out of his car, slipping on his backpack, follows her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Students make their way past the locker in which the Teen Cell Member placed the backpack with the bomb. There is a CLICK from inside the locker --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina's desk EXPLODES --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BLASTS, FIRE and SCREAMS rip through the crowded mall --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tina sits at her usual spot, eating her usual sandwich... Hank takes a deep breath, goes to her:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Excuse me? This is gonna sound weird, but... can I sketch you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "No thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'm not trying to sell you anything, or come on to you or anything like that -- I'm an art student, you've got an interesting face. Tina shakes her head, no. Hank turns to other diners near",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Don't you think she's got an interesting face? Other diners look at her, and at this guy making a scene. Tina doesn't want attention drawn to her:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "Okay okay, do it fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Thanks, I really appreciate it. Hank sits opposite her, starts sketching:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "There's something cool about your face -- you look decisive, like someone who knows what they want. \f56. Nothing from Tina. Hank keeps pitching as he sketches:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Knowing what you want, that's the opposite of me. I've had a lot of different jobs -- what about you? No response.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Hope you don't mind me talking, it helps me get the likeness... Hank glances at his sketch: Good likeness but not reveali He girds himself to go deeper:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You married? Got a family? (no response) I had a girlfriend, she was pregnant. Killed. A bomb. Tina takes him in for the first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You lose anybody?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "who hasn't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That's the truth. He glances at his sketch: still nothing helpful. He grabs the pencil tighter, pushes to provoke her to some emotion",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "These terrorists, they're the scourge of the planet, they should be boiled in oil or something, something worse than just death.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TINA",
+          "text": "(rising to that) There's lots of things worse than death. Hank sees a fire in Tina's eyes -- His hand starts sketching more quickly, almost independen of him, as he focuses on Tina without looking at the pad. The rest of the room recedes... \f57. His focus is broken when Tina's usual Waitress brings Tin jar of McMahon's mayonnaise with a smile:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Sorry honey, forgot your usual. Tina keeps eating without even reaching for the mayo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank reacts: That's weird. Suddenly, POLICE SWARM IN, grab and cuff Tina. She doesn' resist -- in fact, she smiles. Hank is taken aback: That's even weirder. As the Police drag Tina off, Hank looks down at the sketc In his sketch, Tina is dead! Hank, stunned, snaps his eyes back at the unopened jar of McMahon's mayonnaise. The penny drops. He's on his feet, stuffing the sketch in his pocket, racing out the door, shouting into his earwig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "O -- get me O.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank bursts in. Susanna, Gilman and Mrs. Jackson are quic flipping through wall-screen images:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I can't get O --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "They're in operation mode --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "The bombs went off --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I was there when they arrested Tina, she wanted to be arrested --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Wanted to be...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "She smiled -- \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Pleased the bombs went off --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "No it was more than that -- the mayonnaise, she didn't eat any mayonnaise --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Jesus, the fucking mayonnaise again, what's wrong with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "It blocks surveillance --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Surveillance can't see through it -- they've been eating it nonstop, they're trying to hide something inside themselves! Susanna has brought up surveillance video of the diner ar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "He's right, look, she smiles --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Freeze and Xray -- The image of Tina FREEZES INTO AN XRAY IMAGE. Everything looks normal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "MRI it. The image CHANGES TO AN MRI IMAGE, revealing Tina's soft tissue and organs -- except for the area of her stomach, which doesn't register on the image.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Can't see anything of her stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "The mayonnaise coated it --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": ". She's a Trojan horse!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "She wanted to be arrested -- \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "-- so she could bring something in her stomach to wherever they're taking her. Gilman has projected surveillance videos of the Teenaged and Gardener being arrested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Freeze and MRI. Same thing: their stomachs don't register on the images. O appears on the video hook-up: 0 I received your images -- I've been supervising the arrests and interrogations --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Where are they? 0 The Federal Center. This is real time surveillance: Real-time surveillance videos appear: Tina, the Teenaged and the Gardener are escorted separately from their individual cells by Guards down separate hallways:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Where are they taking them? 0 Arraignment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Wait wait wait, they were arrested separately, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "(thinking aloud) -- taken to different cells, they haven't been near each other since they were arrested --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "The kid, look, he's walking fast, faster than his guard, like he's rushing toward something -- \f60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "The gardener's terrified -- but she's smiling, smiling again! Something's about to happen --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "When they're all together --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "Interactive agents! They've got something in their stomachs that's going to interact when they get together -- !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "That courtroom at the Federal Center is a symbol of oppression to these terrorist groups -- Hank pulls the sketch of Tina dead from his pocket, reali",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "The bombs are inside them, blocked from surveillance! They're a bomb!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Together -- ! When they're all together!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "You've got to stop them before they meet in the courtroom -- ! 0 (issuing an order:) Federal Center: Stop the guards, return prisoners to their cells -- They watch breathlessly as the Guards escorting the three cell members separately stop, listening to their ear-piec Suddenly, at the same time: - The Teenaged Boy makes a run for the door to the courtr His Guard tackles him. - Tina knees her Guard in the groin. He slumps over, releasing her. She runs toward the door to the courtroom. He grabs her feet, bringing her down. She tries to crawl the door that is only a few steps away -- - The Gardener grabs the gun of his Guard, who is distrac by the instructions he's listening to. The Gardener shoot his Guard, and runs to the door to the courtroom -- \f61. The Gardener makes it into the courtroom -- but the other have been stopped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE FAMILY",
+          "text": "breathes a sigh of relief. It's over. 0 You just saved hundreds of lives and denied the terrorists a huge symbolic victory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "is congratulated by the Family. He can't help but be prou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank is unpacking when Susanna comes in:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "We just got the debrief. They had swallowed chemical agents, they would have mixed through the air -- the charge would've taken out a half-mile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "The chemicals could mix through their skin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Skin is porous... She takes his hand. He tenses up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I don't bite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(covering with a joke) You're my sister.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "(seductively) We're a very tight family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What happened to Stan? \f62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "(frightened) He was promoted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "To what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "(dare she tell him the truth?) . To Glory. She leaves. Hank lifts a photo of Val out of his suitcase. He's start to find something taped to the back of it: It's a business card, for the MIDTOWN SAUNA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(V.0.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(in Hank's earwig, startling Hank) Could you step into the family room, please, Hank? Hank slips the business card into his pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Video and photos of the Family's new assignments fill the wall screens as O briefs them via video hologram: 0 -- with this chip and wiring implanted in a paraplegic's brain, he can move his prosthetic arm by just thinking about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. JACKSON",
+          "text": "Surveillance of the research facility doesn't show who stole the chip? 0 The chip wasn't stolen from the facility -- it was stolen from the subject of the experiment -- Video of a dead paraplegic whose head has been sliced ope \f0 -- at a time when he was off surveillance. We've upgraded our systems so they can see through condiments, but we still have a problem with steam. 63. Hank fingers the business card for the Sauna in his pocke",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "0 We need you to tell us what uses terrorists might make of the chip -- that should help us find the people who stole it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GILMAN",
+          "text": "They could build an army of robots controlled by thought, which can't be traced -- 0 Yes, that's an application we have envisaged. But what uses might it have in the hands of evil-doers that we haven't imagined? The Family kicks into gear, pulling up video, etc. -- except for Hank, who shoves the sauna card deeper into his pocke",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I'd like to take a couple of hours off -- I'm not really useful unless I \"get involved\" with the subject, right? And since you don't know who the subject is yet... 0 (with a smile) We know how to find you. Hank heads for the front door -- 0 Hank -- how did you know about the mayonnaise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(covering alarm) . What? \f64. 0 McMahon's Mayonnaise -- how'd you know it was impenetrable to surveillance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "I didn't know, I figured it out. 0 Pretty big leap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": ". That's what you hired me for. He leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank, wearing a towel around his waist, pads through the sauna, not sure what he's looking for. He heads into the steam room...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank sits in the steam room with a couple of other guys i towels. The steam gets thicker and thicker -- the other g get uncomfortable and leave one by one. Finally, Hank can't take it. He heads for the door -- to find REB suddenly beside him, in a towel, carrying a gym",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Congratulations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "For what? Stopping three of your comrades?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "They weren't our comrades. They were blood-thirsty murderers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "And you're better than that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "There are many groups working against the State who want to create fear and terror so that they can rule. (more) \fREB (cont'd) They would overthrow one set of tyrants for another. We're the only group fighting to turn this country back to the people. we don't believe in symbolic violence --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "No, you like your murders more specific -- like Val.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "I told you, she isn't dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "How do you know that? Cause your group or whatever the hell you are, you're the ones holding her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "No. But we can help you find her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That's what you got me here to tell me? Bring her to me, then we'll talk. Hank gets up to leave --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Your parents believe in our cause. That stops Hank:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Believe? You mean, believed. Reb doesn't say anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "My parents are dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "I was with your father when he was killed --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "They died in a car accident --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "He died fighting for the cause. Reb reaches into his gym bag: \f66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "She didn't want to do this -- Hank eyes on Reb's hands -- what's he taking out of the b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "You knowing that she's alive makes it more dangerous for all of us... Reb hands Hank an old, much treasured folded piece of pap Hank, his hands trembling, unfolds it... It's a child's finger-painting of a sunflower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hank cuts his eyes, misty from steam or tears, up to Reb:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "REB",
+          "text": "Our group has a name: We are the resistance fighters of The Free Republic.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1507"
+    }
+  ]
+}

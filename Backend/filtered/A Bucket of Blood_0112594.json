@@ -1,0 +1,1004 @@
+{
+  "movie_id": "MOV048",
+  "scenes": [
+    {
+      "time": "DAY",
+      "characters": [
+        "INT CARLA'S APARTMENT",
+        "EXT JABBERJAW",
+        "-",
+        "EXT STREET",
+        "INT WALTER'S ROOM",
+        "THE END",
+        "EXT COURTYARD APARTMENTS",
+        "EXT COURTYARD",
+        "EXT LUMBER YARD",
+        "INT JABBERJAW",
+        "EXT ALLEY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "EXT JABBERJAW",
+          "text": "Leonard gets a PAPER out of a VENDING MACHINE - He reads the headline - \"HEADLESS MAN FOUND IN LUMBERYARD Leonard reads it for a beat - Walter then approaches, carrying a box -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello Leonard!  Beautiful morning, isn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was. Leonard lowers the paper - his face drops -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What do you have in the box?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just wait till you see this! Walter opens the box and removes the contents - It is the HEAD of the carpenter - Walter shoves the sculp Leonard's face - Leonard drops the paper and staggers back -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whatsamatter Leonard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You made...a bust...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(gleefully)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah isn't it wonderful? Leonard takes a few steps back -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whatsamatter Leonard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Put it down, Walter. Walter's smile fades, and he puts the head down - Leonard him -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter...Walter listen carefully. (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want you to make any more statues.  Do you understand? No more statues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(hurt)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well Why not?  I gotta make statues Leonard.  You heard Maxwell, they want me to make them. (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't go back to being a busboy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maxwell!  He's behind all this with all his stupid blowhard poetry! (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Listen, you've got to stop right away!  I'm beginning to feel responsible!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, w-what did you do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Never mind... Leonard puts his arm around Walter -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter...I decided to have that show for you, right away. Walter walks with Leonard -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When Carla comes by I'll talk to her.  She'll make up some nice invitations.  We'll have them printed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well invite the critics, and the art collectors...we'll tell them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT CARLA'S APARTMENT",
+          "text": "INSERT INVITATION - a fancy invitation to the Jabberjaw t the work of Walter Paisley - Mayolia fixes up the back of Carla's dress - Cuff and Lin chairs, and Maxwell fumbles with his tie, dressed formall",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I don't see why we can't go!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mister Leonard De Santis is afraid to have you come.  You who buy his coffee, his potables, his food. You are the heart and soul and meat of the Jabberjaw. (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And he slighted you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you get an invitation?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I did not!  But I'm going anyway. Not to drink his champagne but to see Walter's triumph. Just then Walter walks through the front door, dressed to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "After that we go no more!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hiya Maxwell. Maxwell pats Walter's arm -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I won't say good luck, Walter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It would imply you could not succeed on your ability alone! Maxwell dramatically exits - Walter watches him, then heads over to Carla, and smiles",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You look so handsome. Walter looks down at his outfit -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do? Walter then looks at Carla -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So do you. Cuff and Link crack up at his comment -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I mean, you look so pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ready?  We've got plenty of time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know.  But I wanted to talk to you. Carla looks at Walter for a beat -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok... Carla grabs her coat and bag -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We can go now if you like. Walter and carla head out -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to the others)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goodbye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bye!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(dryly)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Break a leg. Walter and Carla head out, closing the door behind them -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, why do you suppose Walter wants to get her alone? (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You suppose he could be physically attracted to her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No man, he ain't the type.  He don't get enough vitamin E.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maxwell gave him a bottle of wheat germ oil.  Maybe he started taking it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Walter and Carla walk down the street - Walter says nothing -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nice night out...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hm... The two say nothing for a beat -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well...what did you want to talk to me about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well...w-what kind of people do you like, Carla?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, I don't know.  Smart people. Creative people I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You think I'm creative?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course I do!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That means you like me! Carla looks at Walter -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I like you very much, Walter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought you did on account of you kissed me the other night! Carla sees where this is going and doesn't like it - the walking -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well that was for your sculpture of the girl.  Your nude in the chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carla - Walter tries to arrange his thoughts -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I, uh, I've been alone for a long time, and I know you've been alone because you never seem to go out with anybody - Walter looks nervously at his hands -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- even though Leonard's always asking you to go out with him and I - just -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you trying to say? Walter gestures for Carla to sit down at a nearby bench - down - Walter swallows appearing very nervous -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carla... (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want to make statues anymore!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No. (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I want to get married. (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "To you. Carla senses trouble -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh... (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...how long have you been thinking about this, Walter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh...f-for a long time.  Ever since you first came to the club. Carla looks down at the ground -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You were the only one who was ever nice to me! (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I didn't know you loved me until you kissed me. Carla suddenly feels very awkward - she takes a deep brea prepares for the rejection -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter, I really do like you. And I did kiss you.  But... that was because of your work. Walter listens intently to every word -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's more to being in love than just that. Carla gives a sympathetic look to Walter - Walter doesn't a beat, as if putting two and two together -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You mean...you don't love me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carla looks down at the ground -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm afraid that's what I mean. Walter begins to get very upset -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But you gotta love me! (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why do you think I made that statue of Alice?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter, I'm sorry... ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You just can't be sorry! I wanna - I wanna marry you! Carla looks around -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now calm down Walter! (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now, let's go in there, and when the show's over, maybe we can talk about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No! I want to talk about it now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter... (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want to hurt your feelings but there is no way we're ever going to get...together.  You know what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why not?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Because... (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're just friends.  That's all. Just friends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I get it.  I see the whole thing now. No one knows if Walter Paisley is born!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jeez, what is your problem all of a sudden?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh sure, let's string along poor Walter, see how far it will take us! Carla gets up -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're starting to freak me out, Walter.  I'll see you there. Carla heads off - Walter watches her leave -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have to love me, Carla...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT JABBERJAW",
+          "text": "The hoi polloi of the art community mingle at the private On display are Walter's creations - Dead Cat, Murdered Ma Strangled Girl and his bust of the carpenter's head - People talk about the works in muted voices, as if they a serious works of art - Art, the undercover cop, is also there, eyeing the room - Maxwell takes an hors d'oeurve off a passing tray, and no someone offscreen - Walter sits alone, dejected - a waitress presents him wit champagne glasses - Walter looks up at the tray -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No thanks. The waitress walks away - The plump man talks to an ART CRITIC -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We have many artists about but no craftsmen. The critic gestures to the voluptuous figure of Strangled",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This man knows his anatomy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'd give five thousand for this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "After you've read my review it will probably cost you ten thousand. The critic and the plump man laugh - Maxwell swaggers over to Walter, putting his empty glass champagne on a passing tray and grabbing up another - He puts his hand on Walter's shoulder -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what's the problem? Leonard watches them from across the room -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why on Earth should you be so depressed?  Have you heard some of the things they've been saying? You can make fifty thousand on these pieces alone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought you didn't respect money!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't!  But fifty thou?  That's not money, that's manna! Walter gets up -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Leave me alone. Walter sees Carla - He gets up and heads over to her - Carla glares back at him  - Walter looks at her with a st in his eyes -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry about what I said before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(softening)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Forget it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've been thinking... (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carla, would you do one favor for me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just about anything, Walter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would you let me make...a statue of you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carla smiles -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would you really like to?  That would make me very happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok...tonight.  I'll make a statue of you tonight, OK? Carla smiles and nods - then her smile fades - Leonard takes a sip of champagne and notices something ac room - Cuff and Link have crashed the party - they head over and look at Murdered Man - Leonard puts his glass down and heads over to them - ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cuff takes his cigarette and jams it in the mouth of Murd Leonard approaches -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, we've come to make the scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You weren't invited.  Now get out of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess we're not good enough to get a private show.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right!  And we're not open for business!  This is an art exhibit!  No bums! Leonard pushes them out the door as Cuff grabs his cigare",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man, you're the worst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah right right - goodbye!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's alright, we got a pressing engagement!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, right outside the door! Leonard closes the door behind them - Carla is looking at the collection - she inspects Dead Ca carpenter's head - She then approaches Strangled Girl - She smiles, drinking sculpture - Then she sees something that troubles her -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh - oh. She looks closely at one of the hands - a FRACTURE has fo of her fingers - Carla gently goes to touch it when the piece CRACKS OFF - Carla picks up the piece and goes to put it back - She sees a HUMAN FINGER protruding from the sculpture - Carla stands back, in shock - She looks around the room - soon shock turns to horror - She makes a bee-line for the front door but is stopped by",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where are you going Carla? Whatsamatter? Carla is mute with terror for a beat, but manages to get words -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter...there's...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's...a body inside that statue! Walter smiles innocently -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, that's Alice. Carla is speechless -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's alright, Carla. (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maxwell said it's alright. Walter takes a few steps closer -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let them become clay in his hands so that he might mold them. Carla is clearly frightened -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter...stay away from me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you see Carla?  I made them immortal. Walter takes a few steps closer -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you see?  I can do the same for you! Carla waits for a second, then SHOVES Walter out of the w out the door - Walter looks around to see if anyone is looking - Nobody is - He takes this opportunity to BOLT out the door in pursuit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Carla runs down the street as fast as she can - Walter follows, in hot pursuit -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT JABBERJAW",
+          "text": "The critic stands in front of Strangled Girl - Art approa behind - The critic has noticed the EXPOSED finger -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I'll be.  Look at this! A WOMAN approaches -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's another work...inside this work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My Heavens!  It looks...like a real finger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's unparalleled...reality cased in layers...concealed in a shield of whiteness, blankness... Art scrutinizes the finger - several other people begin t admiring the discovery -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah...that's reality alright - Art does not like what he sees - Art heads over to murdered man - He inspects the hand - sees a RING shape on one of the fi A horrible realization forms in Art's mind - he grabs a B off a table and begins to chip away at the hand - Maxwell sees this, begins to stumble over to it -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Precisely what are you doing! Art breaks the plaster off the fingers - he inspects the Lou's finger -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lou...Lou! (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get back! Everyone spins around as Art grabs a chair - SWINGS IT at Man - There is a loud CRASH as Leonard watches Art hit the scul whole crowd then SCREAMS - the jig is up -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Carla continues to flee from Walter - Walter appears to be gaining some ground - Carla turns a corner -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Help! Walter then follows her around the corner -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT JABBERJAW",
+          "text": "Art, Maxwell, and the critic run over to an ashen-faced L",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Call 911 get a patrol car down here - I'm going to get Paisley!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm going with you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT JABBERJAW",
+          "text": "Art, Maxwell and the critic burst out the front door - Cu see them -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey what's the deal!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walter Paisley is a murderer!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Man he just chased Carla down the street - Art, Maxwell and the critic head off - Cuff and Link foll running -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT JABBERJAW",
+          "text": "Leonard is on the phone, biting his nail -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT ALLEY",
+          "text": "Carla ducks down an alley and crouches behind a dumpster by some garbage cans - Walter turns into the alley, and looks around - Carla freezes - Walter then SPOTS HER - He lunges after her, but Carla throws some garbage cans i him and runs away - Walter throws the cans aside and continues to chase her -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT LUMBER YARD",
+          "text": "Carla runs into the yard and hides behind a large stack o Walter then approaches, looks around, then suddenly - Walter looks around - Carla hides, but inadvertently KNOCKS OVER a piece of woo Walter hears it rattle across the ground - he runs toward",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "-",
+          "text": "Carla grabs a bookshelf-sized PLANK as Walter approaches Walter freezes for a beat, a manic expression on his face",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get back Walter... Walter starts to approach -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get back Walter! Walter lunges and WHAM!  Carla slams the plank over Walte he hits the ground - Carla runs off in the direction she came from - Walter staggers to his feet, clutching his head - he look not knowing which direction Carla went - he runs in the o direction -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Walter runs down the street, stopping to catch his breath continues to run down the street -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Carla runs into Art as he pursues Walter -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you alright?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah - he's flipped out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where is he? Carla gestures with her head and Art takes off -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Art runs down the street, pulling out his REVOLVER -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT ALLEY",
+          "text": "Walter runs down the alley -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STREET",
+          "text": "Cuff and Link runs down the street, followed by Maxwell a Maxwell stops to catch his breath - Carla pushes him forward - the critic follows -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT COURTYARD APARTMENTS",
+          "text": "Walter looks around the street, desperate - He then looks toward his house, and runs to the gate -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT COURTYARD",
+          "text": "Walter flies through the gate - Mrs. Swicker approaches - Walter nearly CHECKS her into t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What in the name of - Walter opens his door and slams it behind him -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT WALTER'S ROOM",
+          "text": "Walter locks the door - Walter looks around the room, panicking - he accidentally Carla's picture to the ground -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you gonna do now Walter? Walter looks in his closet - Walter then looks up, as if getting an idea - He begins to frantically barricade his door -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT COURTYARD",
+          "text": "Mrs. Swicker points at Walter's door as Art, Maxwell, Cuf Carla, and the critic run toward it -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's in there - he's gone crazy! Art tries the door -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Paisley!  Open the door!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT WALTER'S ROOM",
+          "text": "Walter frantically mixes the plaster in the trough - He looks back at the relentless banging at his door, and plaster with increased fury -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT COURTYARD",
+          "text": "By this time a whole crowd of people have assembled at Wa - Art, Maxwell, and Leonard alternately kick and bash the door begins to give -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harder! They continue to bash the door until finally -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT WALTER'S ROOM",
+          "text": "CRASSHHHH!!! The door bursts open and Art, Maxwell, Leona Cuff, Link and the critic all stumble in, pushing aside a obstacles - Everyone begins to pour in but as they look ahead, there collective gasp - They are looking at Walter, HANGING from a NOOSE, and cov dripping plaster - The crowd gathers around Walter in stunned silence - Carla looks remorsefully at Walter -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh no...Walter...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Unbelievable...this will command a small fortune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I suppose he would have called it Hanging Man... (Beat)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...his greatest work. PULL BACK to reveal the room of spectators, looking at Wa final creation -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE END",
+          "text": "(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date(); m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parent })(window,document,'script','//www.google-analytics.com/a ga('create', 'UA-67290913-1', 'auto'); ga('send', 'pageview');",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_048"
+    }
+  ]
+}

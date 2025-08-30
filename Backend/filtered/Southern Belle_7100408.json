@@ -1,0 +1,4469 @@
+{
+  "movie_id": "MOV1708",
+  "scenes": [
+    {
+      "location": "HIGHWAY",
+      "time": "DAY",
+      "characters": [
+        "TEENAGE JAMIE",
+        "LIBRARY",
+        "TEENAGE CASEY",
+        "STALL",
+        "THE END",
+        "JASON",
+        "LIVING ROOM",
+        "JAMIE",
+        "TEENAGE CHRIS",
+        "ON SCREEN",
+        "ROB, (V.0.)",
+        "BATHROOM",
+        "BURNOUT PROM KING",
+        "LOUISE, (V.0.)",
+        "HALLWAY",
+        "DOUCHEBAG PREP",
+        "CASEY",
+        "ROB",
+        "KANE",
+        "DAY",
+        "ROB, (V.0O.)",
+        "CASEY, (0.S.)",
+        "AL",
+        "RUDY",
+        "MAIN HALLWAY",
+        "DINING ROOM",
+        "BACK TO PRESENT DAY",
+        "SARAH, (0.S.)",
+        "DOWNSTAIRS HALLWAY",
+        "UPSTAIRS HALLWAY",
+        "OFFICE",
+        "ICY BLONDE",
+        "VIVIEN, (0.S.)",
+        "GUEST ROOM",
+        "CHRIS",
+        "VIVIEN",
+        "LOUISE",
+        "KITCHEN",
+        "SARAH",
+        "DJ, (V.0.)"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "An overcast sky. A dark truck cruises down the two-lane blacktop, passing hideous trailers. The pick-up slows as it nears a dirt road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "Broken radio. A cigarette pack rests in the cupholder. A camcorder sits in the passengerвЂ™s seat. CHRIS WHITEHEAD, 28, drugged-out neвЂ™er-do-well, handles wheel, feeling every bump the old road has to offer. His frenetic eyes stare out the windshield, searching for certain spot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "(whisper ) Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Woods everywhere. Not a house in sight. Rampant weeds conquer the secluded yard. Empty bottles an cans scatter across the lawn. The truck pulls in. Chris steps out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Chris. Chris stumbles around, panicking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHRIS",
+          "text": "Where are you? He stops, stunned. Chris sees LOUISE LEWTON, 16, innocent country girl, standing a few feet away. A torn dress covers her smooth skin. She glares at Chris, holding his gaze. ChrisвЂ™s eyes go blank. Hypnotized. He stares at Louise he needs her approval.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "IвЂ™m watching. Louise watches Chris undress. He pulls down his boxers. H naked, vulnerable. Leaning over, Chris grabs the camcorder. He places it on truckвЂ™s hood. The camcorderвЂ™s red record light glows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "ItвЂ™s your turn, Chris. Chris grabs a longneck off the ground. He SLAMS it agains the pick-up, SMASHING it into a million pieces. His blood hand grips a large shard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Do it, Chris. Facing Louise, he gets down on his knees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Do it for me. Chris opens his mouth. Raises the sharp piece of glass ov it. He slowly lowers the shard, the glass disappearing down h throat, going deeper and deeper. Louise watches him with merciless eyes. Blood trickles down ChrisвЂ™s mouth as he stares at her. gags, WHEEZING up blood. One final shove. Like a spear, the glass protrudes out th back of ChrisвЂ™s neck. He collapses to the ground. Convulses. Blood flows around the lodged shard, running through the tall grass. All the while, the unrelenting camera records the grisly scene. Chris goes still, lifeless. His body lies in the yard, all alone. Louise is gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Afternoon. The sun struggles to break through. A Honda zips down the desolate road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "Messy, cramped. An early-2000s pop SONG plays on the radi VIVIEN TRACY, 33, elegant yet headstrong, sits behind the wheel. Her husband JAMIE, 28, scrawny introvert, slouches over in the passengerвЂ™s seat. VivienвЂ™s cell phone lies in the cupholder. A flamboyant flyer hangs out of her purse: Welcome back, Class of 2006 Gazing out the window, Vivien admires all of the local farmland.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ItвЂ™s gorgeous. Jamie glances at the fields, unimpressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Looks the same. Vivien grabs her phone and checks the GPS. Ten miles from their destination.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You know you donвЂ™t have to do this. Vivien looks at him, a little confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What do you mean? Jamie shifts in his seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Coming here. ItвЂ™s not your reunion. She rests her hand on his leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Babe, I want to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Naw, IвЂ™m serious. LetвЂ™s just go to Florida or something. Fuck all this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What? ItвЂ™s a better idea, donвЂ™t you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What would we tell everybody? Sarah, Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Invite them to go with us! ItвЂ™1ll be like Daytona.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, itвЂ™s too late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Seriously, youвЂ™d pick Whigham over Daytona?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Not when you put it like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m telling you, youвЂ™re gonna be bored as fuck. This townвЂ™s nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ItвЂ™s where you grew up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Sadly. Like an excited tourist, Vivien points toward a herd of cattle grazing in a wide field.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Look at it! ItвЂ™s so pastoral.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "\"Pastoral?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Peaceful. Grinning, Jamie points her toward a dilapidated shack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah, thatвЂ™s some \"pastoral\" shit right there. Vivien gives him a soft punch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Look, itвЂ™s a waste, IвЂ™m telling you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, itвЂ™s not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Trust me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "YouвЂ™re not even giving it a chance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Why would I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Well. I think itвЂ™1l be good for us. Jamie groans as she squeezes his arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ItвЂ™s a change of pace, something different.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah. A change of pace, alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Besides, IвЂ™m a little curious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Maybe I want to know more about my mysterious husband.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m right here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Like your past past. Like what you were like in high school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "God, whoвЂ™d wanna know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "That shit should stay buried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh my God. Whatever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I donвЂ™t wanna remember. Not like all these other losers thatвЂ™1l be roaming the place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Well, let me find out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ThereвЂ™s nothing to know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "The only time I ever heard anything was from your mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Stick with that version. Vivien wraps her arm around Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "This is going to be fun. ItвЂ™1ll be like solving a mystery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yikes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "The enigmatic Jamie Tracy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "\"Enigmatic?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Strange, elusive. Like a riddle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You make me sound like a magician.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "And you sound like youвЂ™ve got something to hide. A flamboyant DJ chats over a TRACKвЂ™s final seconds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That oneвЂ™s going out to Marion whoвЂ™s in town for the reunion this weekend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Like another wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Damn, you got me. Vivien laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Keep those skeletons in the closet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DJ, (V.0.)",
+          "text": "HereвЂ™s another hot one for you, class of two-thousand-and-six. Straight out of the MySpace vaults. Another annoying mid-aughts SONG comes on. Vivien smiles, recognizing the catchy tune instantly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh my God! She turns up the radio. Jamie groans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Back from the dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I love it! Jamie watches her groove to the beat, amused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "This is gonna be a long trip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Whatever. You know you like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Lies. Belting the awful lyrics, Vivien grabs JamieвЂ™s hand, serenading him. Jamie fakes a cringe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, boy. Vivien smiles and hits his shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Come on, sing it with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Naw, I canвЂ™t compete with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "VivienвЂ™s Honda cruises past a thick forest. Like a morbid statue, Louise stands near a cluster of dyi trees, watching the car drive out of sight. EXT. CASEYвЂ™S HOUSE - FRONT YARD - DAY Trimmed hedges surround a large country home. Decorated walkway. Brick mailbox. Picture perfect. A squad car and flawless sports car sit out front. VivienвЂ™s Honda parks further away. Vivien opens the door and steps out. SARAH THORNTON, 28, beleaguered former beauty queen, rush up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hey, you made it! She greets Vivien with a hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I know. ItвЂ™s been forever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Too long, girl. Holding VivienвЂ™s purse, Jamie exits the Honda. CASEY, 28, washed-up alpha dog, SarahвЂ™s husband, walks toward him, a mischievous smirk on his face. He wears his police uniform with pride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nice purse, \"Janie.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Really, Casey? Jamie plays it off. He hands the purse back to Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Thanks, man. Vivien gives him the keys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "ItвЂ™s about time you came outta the closet. Jamie and Casey exchange a bromantic handshake. Sarah looks over at Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "HowвЂ™d you train him to do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "A lot of practice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Looks like you made him your little bitch to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Come on, now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Just saying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "All that psychology.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "ThatвЂ™s her forte, right? Vivien notices the impressive house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Wow. Jamie leads Casey to the trunk. Casey flashes Vivien a sm grin. \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ItвЂ™s nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(to Casey) DonвЂ™t take too much credit for it. She leans in toward Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "His dad forked over the down payment. Jamie opens the trunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Hey, it wasnвЂ™t that much! Sarah rolls her eyes, prompting a chuckle from Vivien. INT. CASEYвЂ™S HOUSE - LIVING ROOM - NIGHT A flat screen plays a muted slasher MOVIE. An auxiliary cord connects CaseyвЂ™s phone to a gigantic speaker, blasting mid-2000s rock TUNES. Longnecks and empty cans populate the long coffee table. small trash bin sits next to the table. Vivien and Jamie occupy a couch, Sarah on the other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "IвЂ™ve been planning it for awhile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "ThatвЂ™s awesome!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Yeah, weвЂ™1l see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You should totally do it. ThatвЂ™d be great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I know. ItвЂ™s been my dream. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Hey, IвЂ™m banking on it too. Sarah laughs as Vivien hits him. Wearing a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™ve gotten used to the luxuries of being a doctorвЂ™s husband.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Your sugar mama.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Gross.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY, (0.S.)",
+          "text": "Sugar mama? sloppy bathrobe, Casey enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "ItвЂ™s about time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "(to Jamie) I always knew youвЂ™d make a good housewife. Vivien rubs JamieвЂ™s leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "The cub to my cougar. Casey plops down next to Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Thanks, \"sugar mama.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Aww.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Surprise, surprise. Casey tosses a Ziploc bag to the table. Marijuana city. Jamie grabs it, excited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Holy shit! \f12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Where the HellвЂ™d you get that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Wow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Perks of the job. Relax. Sarah punches his chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Ow! Damn, Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Boy, are you crazy? You canвЂ™t be doing shit like that! Casey pulls out the coffee tableвЂ™s drawer. An exquisite glass pipe lurks inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "So what? Who cares?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I do!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Yeah, not the smartest idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "YвЂ™all, no oneвЂ™s gonna miss it, alright. This shit was gathering dust.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Good point. Casey packs the bowl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You think IвЂ™d be dumb enough to get caught?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Uh, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I mean thereвЂ™s nothing wrong with it. \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "There. You see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Just as long as you share. Casey offers his fist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "My man! Jamie completes the fistbump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Idiots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Baby, I was super careful, I promise. He puts the pipe to his lips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "That donвЂ™t mean shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "No oneвЂ™s wanting it, no oneвЂ™s gonna miss it. Lifting a lighter, he ignites the cannabis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "So weвЂ™re gonna enjoy it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Ugh. He inhales. Coughs like a first-timer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Reunion pot. Nice. Casey holds it toward Sarah. With reluctance, she obliges",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Exactly. Janie gets it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s Jamie, man. Sarah hits it. A violent cough. \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "So is that like a high school thing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "\"Janie?\" Like a bully, Casey chuckles with glee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Oh shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No, itвЂ™s just some stupid shit he came up with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Fits like a glove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Hey, fuck you, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yo, you brought it on yourself, bro. Sarah hands the pipe to Vivien. Trying to be polite, Vivien declines.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What? Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "That doesnвЂ™t mean it has to follow me for fifteen years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yeah, like youвЂ™ve really earned your man card. Marrying a doctor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "(to Sarah) I really shouldnвЂ™t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(muttering) Shithead. \f15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "(to Vivien) Come on, do it! He leans in, goading her on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "This is the real shit. Deadass serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "She doesnвЂ™t have to. CaseyвЂ™s pressuring makes Vivien reconsider. She eyes th pipe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "\"EverybodyвЂ™s doing it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(annoyed) Casey. Jamie looks at Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "If you donвЂ™t want to, itвЂ™s--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Let her make up her own mind, \"Jamie.\" Goddamn. Vivien chuckles. Jamie glares at Casey. Casey snatches the pipe from Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Here. He leans in toward Vivien, a little flirtation in the gesture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "SheвЂ™s a big girl. Vivien flashes him a sly smile. She grabs it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yeah, there you go! \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Get it, girl. Casey performs a slow clap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Dr. TracyвЂ™s in the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Dr. Dahlgren actually. Casey nods, a little awkward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Okay. His emotions eviscerated, Jamie looks away. Sarah pats Vivien on the back. With excitement, she watch Vivien take a hit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "whoo! Smiling, Vivien leans forward and coughs in JamieвЂ™s lap",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Oh shit! Jamie grins and rubs the back of VivienвЂ™s head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God. She hands it to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Courtesy of Whigham Public Safety.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Of course. Jamie inhales. He hacks. Hands the pipe back to Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Janie the lightweight over here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I think thatвЂ™d make anyone a lightweight. \f17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "True. Jamie leans back, still struggling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Jesus, Jamie. DonвЂ™t die on me, buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "YouвЂ™re the cop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "I ainвЂ™t performing CPR on no dude. Casey takes a hit. Vivien grabs a longneck off the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Well, whereвЂ™s this new school at? The gymnasium. Jamie glances at the television. The slasher flick features a nighttime sequence in a rura forest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "ItвЂ™s a few miles out past the old one. Cal Cloud Road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Kinda looks like a prison.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah, itвЂ™s huge. On screen, Louise stands in a clearing, her eyes staring right at Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(to himself) Fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ThatвЂ™s all high school is. Just one big cell for our dreams and aspirations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Geez, you make it sound like a horror movie. \f18. Louise steps toward the screen, holding JamieвЂ™s horrifi gaze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I donвЂ™t know. I work with all these kids and it kills them, it really does. The education systemвЂ™s so weak and when you combine that with bullying, peer pressure. It just makes it tough. Louise nears closer and closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Maybe for some kids. He nods at the uneasy Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Like this guy. Sarah hits Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Chill out with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "What? HeвЂ™s my best friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Your only friend. On screen, Louise holds her hands out, reaching for Jamie",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "(whisper ) Jamie. The trembling Jamie leaps off the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. Vivien tries to grab him. Jamie backs away, avoiding her touch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What is it? WhatвЂ™s wrong? She stands up. \f19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yo, you alright? They watch Jamie stagger back. Breathing heavy, he looks back at the television. No Louise. Just another MASKED PSYCHOPATH trapped in a low-budget movie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No, she was just there. Vivien snags JamieвЂ™s arm, startling him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Oh fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, itвЂ™s just me. He pulls back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "DonвЂ™t fucking touch me! Casey stands up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yo, chill out, bro. Jamie stares at them, desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "It was Louise! Sarah gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Louise? Casey stops next to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Do what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I just saw her! He points at the T.V. His friends turn to see. Masked Psychopath stalks a BLOND BOMBSHELL. \f20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "She was right there! Casey glares at Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You couldnвЂ™t have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I did!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "(subtle anger) LouiseвЂ™s dead, Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No, Goddammit! Sarah staggers up, trying to diffuse the situation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jamie, heвЂ™s right. A pale hand grabs JamieвЂ™s shoulder. He screams and whirls around. Louise stands right behind him. Her haunting eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Babe. Vivien pulls Jamie toward her, hugging him close. Casey looks on, stunned into silence. He watches Louise turn and look at him, marking him with those eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "(to Jamie) ItвЂ™s okay. Louise lunges forward. Someone grabs CaseyвЂ™s arm. He jumps and turns. Sarah. \f21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey, relax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Shit. Vivien rubs JamieвЂ™s back. Jamie looks back. No Louise. SheвЂ™s gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Sheesh, whatвЂ™s gotten into yвЂ™all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "ItвЂ™s nothing. Casey glides past her, heading toward the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Ugh. Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Just gimme a sec. Sarah follows after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Why? Vivien grabs JamieвЂ™s chin, making him face her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, what was it? WhatвЂ™d you see?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I already told you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "They said sheвЂ™s dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What? So youвЂ™re saying IвЂ™m crazy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, not at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "SheвЂ™s not dead. I saw her, I swear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. I donвЂ™t know. Vivien strokes his worried face. \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "IвЂ™m sorry. On screen, the woods scene continues. Masked Psychopath closes in on Blonde Bombshell. Their gloved hand raises a long knife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BATHROOM",
+          "text": "Bright lighting. Clean. A long mirror. A crammed magazine rack sits by the toilet. Casey rummages through the medicine cabinet, KNOCKING ove various bottles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Come on. He finds what he was looking for: a small Ziploc bag. whi powder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HALLWAY",
+          "text": "Cluttered counters. Sarah navigates through the narrow ha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! She bumps into a counter. A framed photo of the couple on vacation TUMBLES to the floor. Sarah stumbles back, stepping on the glass, CRACKING it. looks down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Shit. Sarah picks up the remnants and lays them on the counter. She hears a loud SNIFF. She looks at the bathroom door, her eyes full of fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You bastard!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BATHROOM",
+          "text": "The enraged Sarah opens the door. Casey leans over the counter, ready to snort another whit line. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Goddammit, Casey! He stops and stares at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Wait.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "No, fuck you! He reaches toward her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Let me explain. Sarah storms out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Sarah! He charges after her. She SLAMS the door in his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A cool BREEZE whips through the towering trees. The uneasy Vivien walks amongst the high grass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB, (V.0.)",
+          "text": "(praying) I beg of you. Vivien looks around, searching for Rob.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB, (V.0O.)",
+          "text": "I canвЂ™t do this alone, Lord. EXT. LOUISEвЂ™S HOUSE - FRONT YARD - NIGHT Desolate, no neighbors. A clean lawn. Religious ornaments decorate the yard. Vivien emerges from the forest. She sees the log cabin. \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB, (V.0O.)",
+          "text": "Forgive me. Please. INT. LOUISEвЂ™S HOUSE - LIVING ROOM - NIGHT Decadent crucifixes hang along the walls. An antique pian rests in the corner. A cozy fireplace. The muted T.V. plays a black-and-white film. Vivien pushes the front door open and staggers inside. He frantic eyes scan the room, but see no one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Hello? She notices a portrait of Louise hanging over the firepla Like a starlet, Louise poses in the shot, looking so prop and regal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB, (V.0.)",
+          "text": "Please, Lord. Vivien journeys through the rest of the room until she st in something sticky. She looks down. Moist blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB, (V.0.)",
+          "text": "Look after her in Heaven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DINING ROOM",
+          "text": "A gorgeous chandelier provides bright lighting. The long dinner table lines up, two chairs seated at each end. Vivien enters, her nervous steps CREAKING on the wooden floor. She sees ROB LEWTON, 44, bearded holy roller, sitting at head of the table, weeping, his face turned away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "Protect her. Vivien approaches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "Protect my baby girl. He lowers his hand, revealing a blood-stained butcher kni The terrified Vivien stops right next to him. \f25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "ThatвЂ™s all, Lord. Vivien reaches toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "Protect Louise. Rob snatches her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! He looks up at her, his eyes full of despair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "YouвЂ™ve gotta believe me! Breaking away, Vivien trips and falls to the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "I didnвЂ™t do it! The dazed Vivien turns. She screams in horror. LouiseвЂ™s dead eyes stare right back at her. Blood flows her slit throat, the thick redness sliding down her body, spreading throughout her dress. Rob stands up, shoving his chair back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "I didnвЂ™t kill my baby! Louise leans upright. Blood DRIPS off her fatal wound, SPLASHING to the floor. Vivien crawls back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No! Rob glances down at the knife. He clutches the wooden handle. Closes his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "Protect me, Lord. Give me strength. Louise reaches toward Vivien. Vivien stumbles to her feet and turns, just avoiding LouiseвЂ™s hand. Rob YELLS and lurches forward, ensnaring Vivien in his ar \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "The Good Lord will look after me! Rob raises the sharp blade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "HeвЂ™1l1 look after us all!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, donвЂ™t do this! He THRUSTS the knife into VivienвЂ™s stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROB",
+          "text": "Protect us, Lord! She screams as he JAMS the blade into her fragile flesh o and over. INT. CASEYвЂ™S HOUSE - GUEST ROOM - NIGHT Two windows showcase the manicured lawn. Casey and Sarahв portrait hangs over a trophy case. Useless awards from th far-too-distant past. Vivien awakens from her nightmare. Breathing heavy, she checks her surroundings, making sure sheвЂ™s safe. No Rob knife, no Louise. Vivien looks over at the sleeping Jamie Her adrenaline dying down, she notices a collection of framed photos, all of them highlighting CaseyвЂ™s tenure high school baseball star. Some of the pics even show him with a nerdy, benchwarmer Jamie. Vivien cracks a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Morning dew drips from the trees. Crime scene tape surrounds the scene. A couple of police cars sit nearby. Several OFFICERS investigate. PARAMEDICS load ChrisвЂ™s corpse into an ambulance. \f27. Standing in the middle of the yard, KANE THORNTON, 55, ja sheriff, glances over at Officer JASON EARLE, 25, smartas newbie. Like an arrogant photographer, Jason takes pictures of th blood-stained grass, having more fun than he should.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "(in disbelief) Completely naked. Not missing a beat, Jason leans in for a closer shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Yes sir. Naked as a jaybird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Jesus Christ. Jason faces him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "I got the glass in the car if you wanna see. Kane holds up his hand and steps away, heading for his ca",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "No thanks, Jason. I think IвЂ™ve had enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Suit yourself, Sheriff. Kane opens the door. He looks off toward the dirt road, l in thought. Jason inspects more blood spatter. Like a grisly finger painting, the splashes of redness spread all across the unkempt lawn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Yes sir. I ainвЂ™t ever heard of no man getting naked before offing himself. He holds the camera steady. Kane remains quiet, an uneasy expression on his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Maybe a woman. I wouldnвЂ™t mind no crime scene like that now. \f28. Forcing a laugh, Jason takes another shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Maybe next time yвЂ™all can call me for one of them bathtub suicides-- An engine CRANKS, interrupting Jason. He turns and watche Kane PULL AWAY. INT. CASEYвЂ™S HOUSE - LIVING ROOM - DAY Afternoon. Sarah, all dressed for the reunion, cleans up coffee table. She CRUSHES a beer can. Wearing a fresh blazer, Casey clutches a longneck and lea against the wall, watching her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I told you to quit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yeah, well, itвЂ™s called stress. Maybe if you worked, youвЂ™d understand. The lackadaisical Casey takes a sip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "The police officer in a hick town. So stressful and important. Sarah slings the can inside the trash bin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUEST ROOM",
+          "text": "Vivien sits in front of the dresser mirror, putting on her make-up. Straightening his suit, Jamie leans in behind her, trying see his reflection. Vivien glances at him, impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You look good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You sound so convincing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, IвЂ™m serious. Jamie steps away. \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah, yeah. Vivien turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Can I ask you something? Jamie stops near the bed, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah. Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What you saw last night. I mean-- Jamie avoids eye contact, a little flustered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, look, it was nothing, I promise you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You seemed upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Vivien. Vivien stands and approaches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I could tell it was bothering you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s not a big deal. Vivien stops in front of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "If it has something to do with your mom, we--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No, fuck no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I understand- -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "It had nothing to do with that. Vivien grabs his arm. \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I know how hard itвЂ™s been, Jamie. She was all you had. Jamie breaks away from her grasp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Not anymore. IвЂ™ve moved on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Look, just what are you trying to say? You think IвЂ™ve got some kindвЂ™ve fucked-up mommy complex or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No! Babe, people react to these things in different ways. ItвЂ™s part of the grieving process.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Awesome. The great Dr. Vivien Dahlgren heals her husband.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "IвЂ™m not saying itвЂ™d have to be with me, but thereвЂ™s nothing wrong with talking to somebody, Jamie! Society gives it such a stigma, but itвЂ™s normal. Jamie scoffs. Trying to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I promise it can help if youвЂ™d just give it a chance. Whatever feelings you have, you can be at peace with them. downplay the topic, Jamie caresses VivienвЂ™s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Vivien, I love you, and I know youвЂ™re just trying to help, but IвЂ™m not one of your patients. IвЂ™m fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Just keep it in mind, will you? Please. For me. \f31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Alright, IвЂ™11 think about it. How about that? Vivien wraps her arms around him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ThatвЂ™s all IвЂ™m asking. They kiss. Jamie smirks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Why Dr. Dahlgren anyway? Why not Dr. Tracy? Vivien laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "DonвЂ™t tell me youвЂ™re jealous?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Maybe a little. He reaches inside his suit pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "YouвЂ™re a real head case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I prefer \"enigmatic.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Fair enough. Jamie retrieves a jewelry box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh. Jamie. He opens the box. A decadent necklace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh my God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You like it? Vivien kisses him. \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Yes, itвЂ™s beautiful! Vivien grabs the box. She holds up the necklace, enamored the beautiful jewelry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Wow, where did you find this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Go on, put it on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UPSTAIRS HALLWAY",
+          "text": "Spacious. Generic paintings cover the walls. Casey and Jamie argue near a granddaddy clock. Casey wave the longneck around, spilling booze over his blazer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "(failing at whispering) What the fuck were you thinking back there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m sorry, I--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "We made a promise, remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I know, but I wasnвЂ™t lying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Bullshit. Jamie leans in closer, nose-to-nose with Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I fucking saw her, man! She was in the house. Casey goes quiet. He takes a sip, his eyes wide and restless. Jamie notices his despondency.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Fuck. You saw her too, didnвЂ™t you? Casey looks around, paranoid. \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You had to. I-- Casey pushes Jamie back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "It was the dope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No, it wasnвЂ™t! It was Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "That bitch is dead, Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah, cause of us! Casey slams Jamie against the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Shut the fuck up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Casey. Like heвЂ™s wielding a dagger, Casey points the bottle at Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "That bitch ainвЂ™t ever coming back you hear me? Jamie offers a timid nod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Just keep your fucking mouth shut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIVING ROOM",
+          "text": "Sarah places CaseyвЂ™s pipe in the table drawer. A KNOCK at the front door distracts her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUEST ROOM",
+          "text": "Sitting in front of the mirror, Vivien giggles as she readjusts her necklace. Glass BREAKS. The startled Vivien whirls around. She sees a framed phot on the dresser. A picture of Jamie and Casey in the dugou A large crack now runs across the frameвЂ™s glass, right the friendsвЂ™ faces. \f34. Vivien stands up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What in the world? She grabs the photo. Traces her finger along the crack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (0.S.)",
+          "text": "Casey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KITCHEN",
+          "text": "Empty beer cans and longnecks fill an overcrowded garbage can. Sarah throws a few more stragglers on top of the hea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "SomebodyвЂ™s here! Another ferocious KNOCK. Groaning, Sarah goes to the door",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Ugh, nevermind!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOWNSTAIRS HALLWAY",
+          "text": "Sarah enters. Jamie and Casey descend the stairs, both of them silent. Sarah glances at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "YвЂ™all cleaned up nice. Ignoring her, Casey disappears inside the kitchen. Sarah looks at Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Sheesh, whatвЂ™s wrong with him? Jamie doesnвЂ™t answer as he stops in the hallway. Sarah opens the door. Kane. The sight makes Jamie bump into a counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Oh, hey, Mr. Thornton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "My, Sarah, you look lovely. \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Thank you. She holds the door for him as he steps inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Come on in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "I sure hate busting in like this. I know yвЂ™all been busy getting ready. Sarah shuts the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "No, youвЂ™re fine. Kane notices the nervous Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Hey there, son. Long time no see. Faking a smile, Jamie sticks his hand out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "How are you, Sheriff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Been better. They shake hands. An awkward exchange.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "IвЂ™ve got some bad news, IвЂ™m afraid. Casey emerges from the kitchen. He TWISTS the top off of fresh longneck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "WhatвЂ™s up, daddy? Kane looks at Casey. Subtle yet intense eye contact.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Where were you this morning? I done called you five times. Sarah glares at Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey. \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "What? So we partied a little, I slept in. So what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Goddammit, son, this is serious. Casey cackles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "In Whigham? wWhatвЂ™s the fucking emergency? Casey clasps JamieвЂ™s shoulder, feigning a good mood. Ja forces a smirk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "I mean did the McKenziesвЂ™ yard get TPвЂ™d again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(aggravated) Casey. Vivien walks down the stairs and stops next to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You catch a couple of teenagers fucking on Green Creek?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Son, we just found Chris Whitehead with a piece of glass jammed down his throat. Casey stumbles back, spilling beer. Vivien grabs JamieвЂ™s arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh no. Jamie stares at Kane, stunned by the news.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You sure it was him? Kane offers a morose nod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "His mama came and IDвЂ™ed him a little while ago. \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "What the fuck? ArenвЂ™t there any suspects? Why arenвЂ™t we out riding around?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "It was a suicide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jesus! Chris whitehead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "The lab boys confirmed everything. Crazy son-of-a-bitch did it himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "ThatвЂ™s horrible. Kane steps toward the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "I hate having to tell yвЂ™all like this when yвЂ™all are all ready to celebrate, have a good time. I guess I just remembered how tight yвЂ™all all used to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "God, I had no idea. I hadnвЂ™t talked to him in years. Vivien clutches JamieвЂ™s hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ItвЂ™s okay. KaneвЂ™s harsh eyes lock in on Casey. INT. CASEYвЂ™S HOUSE - DOWNSTAIRS HALLWAY - DAY (LATER) Vivien looks out the window, watching Kane, Jamie, and Ca converse on the front porch. Sarah fixes the counter Jamie stumbled into earlier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "So thatвЂ™s his daddy? Vivien faces Sarah. \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah. HeвЂ™s nice once you get to know him. Sarah steps away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I better finish getting ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Wait, Sarah. Sarah stops and turns. Vivien walks up to her, a little awkward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Are things any better? Sarah goes silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "IвЂ™ve been meaning to ask. I hope I donвЂ™t seem nosy. Sarah displays a weak smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "No. ItвЂ™s part of your job, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I just know itвЂ™s best to have someone to talk to. Glancing out the window, Sarah looks at Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "He hasnвЂ™t changed. Sarah faces Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Just gotten worse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God. Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "He canвЂ™t even afford the phone payments. HeвЂ™s got his fucking daddy doing everything for him and pampering him. Sarah turns away, fighting back tears. \f39. Vivien reaches toward her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Sarah. Sarah avoids her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "And he takes it all out on me! Sarah shows Vivien her arm. Brown bruises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "This is what he wants from me! He said itвЂ™s all IвЂ™m good for! That IвЂ™m just a worthless cunt!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, youвЂ™re not, Sarah! YouвЂ™re so much better than that! Vivien rests her hand against SarahвЂ™s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You canвЂ™t stay with him. Not when heвЂ™s like this. Sarah backs away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I saw a lawyer and filed the papers and all, but I still havenвЂ™t told him. I canвЂ™t. IвЂ™m too scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You have to. ItвЂ™s the only way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "But where can I go? Look at me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "YouвЂ™1l1 be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I got no degree! No job! HeвЂ™s all IвЂ™ve got!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, heвЂ™s not! \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I canвЂ™t go anywhere. Vivien holds SarahвЂ™s hand, a soothing touch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You can stay with us. Until you get on your own. Wiping away her tears, Sarah looks at Vivien, some hope i her wounded eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Yes. WeвЂ™1l support you. I can help you find a job. WeвЂ™1l get you out of this once and for all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Oh God. Thank you so much. She hugs Vivien. Vivien rubs her back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "ItвЂ™s okay. YouвЂ™re going to be fine. Sarah looks at Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "IвЂ™11 tell him tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "HeвЂ™s never going to hurt you again. EXT. CASEYвЂ™S HOUSE - FRONT YARD - DAY The evening sunlight fades away. Jamie, Casey, and Kane argue on the porch. Sweat streams down the livid KaneвЂ™s face. Jamie stays quiet, withdraw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Look, I already told you, daddy! I donвЂ™t fucking know. \f41.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Be honest with me, Goddammit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "How the Hell am I supposed to know? I havenвЂ™t talked to that asshole in years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "There had to be a reason.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Everybody knows his stupidass was fried on meth. The fuckerвЂ™s nuts!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Goddammit, boy, itвЂ™s not just the suicide. ItвЂ™s how he was found.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Chris Whitehead was naked! He stripped himself down before doing this shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Well, that sounds a lot like Chris then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "No, Goddammit! DonвЂ™t you remember that girlвЂ™s father? Casey laughs and turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Fuck me. You too? Kane snatches CaseyвЂ™s shoulder, forcing Casey to face h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "He did the same shit! We found him in the cell stark naked when he hanged himself. Casey breaks away from KaneвЂ™s grip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Rob Lewton killed himself cause he killed that little bitch! Jamie stares at them, an uneasy expression on his face. \f42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "They never found the body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "The boyвЂ™s right, Casey. Casey shoves Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yo, shut the fuck up, Janie! YвЂ™all are both talking crazy! Rob did it! They found the knife. His fingerprints were all over it! Casey raises the bottle for another sip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "IвЂ™m not so sure. Startled, Casey lowers the longneck and glares at Kane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "What the Hell are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "That crazy bastard couldnвЂ™t have hid the body on his own!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "(a little uncertain) But the knife. It was a slam dunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "He was a Slam dunk scapegoat to shut the town up! I made sure of that!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "No. Kane leans in closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Who do you think started the incest rumors, huh? Someone had to take the heat off of yвЂ™allвЂ™s sorryasses! Casey tosses the longneck toward the yard, HITTING a sprinkler. \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Bullshit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "IвЂ™m telling yвЂ™all, stay away from that Goddamn reunion! Something ainвЂ™t right! Louise Lewton could still be out there! Jamie faces Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I donвЂ™t know, man, maybe heвЂ™s right. Casey scoffs in disbelief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Are yвЂ™all crazy? Chris was a fucking loser. It was only a matter of time before he turned up dead or went to jail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Someone out there knows what yвЂ™all did. They know the truth. The angry Casey points at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Shut the fuck up! Kane gets in CaseyвЂ™s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "You better show me some respect, boy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "No, fuck you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Daddy canвЂ™t bail you out everytime! Casey slaps Kane. Kane grabs his cheek, startled by the move. The stunned Jamie stares at Casey. Casey seizes the momen exploiting his prowess. \f44.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "YвЂ™all both need to get yвЂ™allвЂ™s shit together! The Lewtons are fucking dead! No oneвЂ™s ever gonna know the truth! Tense silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "I sure hope youвЂ™re right, son. Kane slides on his lawman shades.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "I really do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Potholes galore. Roadkill rots on the roadside. CaseyвЂ™s sports car ZOOMS past a bullet-riddled speed li sign. INT. CASEYвЂ™S SPORTS CAR - MOVING - NIGHT Meticulous, clean. All the signs of a devoted car owner. Casey controls the wheel, enjoying himself. Jamie and Viv occupy the backseat. Sitting in the passengerвЂ™s seat, Sarah leans over and c the speedometer. Well over seventy. Make-up now conceals dark bruises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Geez, will you slow down? Casey takes out a cigarette pack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You sound like a granny. Sarah knocks the pack away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Hey, what the fuck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I told you to quit. \f45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You didnвЂ™t say cigarettes, \"dear.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Y'all. Sarah groans and turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Such an asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "And youвЂ™re a fucking bitch so that makes us the perfect couple, right? Casey turns up the radio. Vivien grabs SarahвЂ™s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "(whispering) Ignore him. A mid-2000s pop song BLARES. Vivien smiles after recogniz the tune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh, leave it here! Casey pretends to change the station. Vivien leans forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No, donвЂ™t! Sarah grabs CaseyвЂ™s hand. He chuckles, enjoying himself",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "IвЂ™m just playing, yвЂ™all. Goddamn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "ItвЂ™s hard to tell when youвЂ™re always being a douche.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Ditto. Vivien sings along to the lyrics, trying to drown out the bickering. The impressed Sarah listens, an audience of one. \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah! Get it, girl! She high-fives Vivien. Casey holds his hand in the air, pretending to be a drunk rock fan. An easy acting job for him. Vivien turns and sees Jamie looking out the window, disappointed to not see him join in on the jovial fun. The old high school lurks up ahead. A deep forest surroun the crumbling, two-story building. Dirt and dying grass conquer what was once a paved driveway and parking lot. Egg stains plaster the dilapidated brick sign: Whigham Hi Casey points at the school as they pass by.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "YвЂ™all remember that beauty, donвЂ™t you? Vivien and Jamie stare at it, stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Is that it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Looks like shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah, the new oneвЂ™s a lot better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Ten years makes that much of a difference?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hell yeah, girl. Jamie watches the school disappear out of sight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Just look at us. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A full parking lot. The large building looks exquisite and mighty, it and the neighboring school building the complete opposite of the decrepit old high school. ATTENDEES head for the entrance. Loud MUSIC blares from inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Countless stands contain wine bottles and snacks. Pop mus BLASTS over a sweet dance floor. Jamie and Vivien make their way through. Vivien notices the other attendees flashing cold glares a murmuring to themselves as the couple walk by. DOUCHEBAG PREP and BURNOUT PROM KING converse near a trop case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUCHEBAG PREP",
+          "text": "(drunk whisper ) Holy shit, is that him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BURNOUT PROM KING",
+          "text": "Yeah, what the fuckвЂ™s he doing here? Vivien looks at Jamie. He seems nonchalant about the chil reception as he leads her toward one of the decorated tables. Wine bottles, snack bowls. They stop at the end of the line. An ICY BLONDE and her LESS ATTRACTIVE FRIEND stand at the front of the table. They see Jamie, both of them reacting quick and snatching their drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ICY BLONDE",
+          "text": "LetвЂ™s go. They scurry off. Vivien grabs JamieвЂ™s hand. They exchange uneasy looks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I told you this was a bad idea. \f48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "DonвЂ™t say that. Jamie recognizes the guy waiting in front of them. AL PEC 27, conformist nerd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Al? Al bites his lip. He turns around, forcing a shit-eating grin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "Hey. Jamie. I thought that was you. Jamie holds his hand out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "HowвЂ™ve you been, man? Al completes the weak exchange, eager to pull back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "IвЂ™ve been doing alright. Jamie acknowledges Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "This is my wife Vivien. Al nods at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "ItвЂ™s nice to meet you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh, itвЂ™s nice to meet you too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "This whole reunion stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "Yeah, tripping you out too, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "So were yвЂ™all pals in high school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah, I guess you could say that. \f49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "(cold tone) We were.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh. Al faces Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "ItвЂ™s a real shame about Chris, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah. Yeah, it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I didnвЂ™t know him, but it sounded terrible--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "I guess heвЂ™d been going down that wrong path for awhile. Like an aggressive detective, Al looks right into JamieвЂ eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "Like a lot of us. Across the room, SCRAWNY FEMALE waves Al over. Jamie and Vivien notice her waves becoming more desperate",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AL",
+          "text": "Excuse me. He walks toward Scrawny Female, leaving Jamie and Vivien the lone attendees at the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Dickhead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Yeah. The angry Jamie snatches a bottle. He pours two cups of wine. Vivien sees Al and Scrawny Female watching them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What a jerk. \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I guess heвЂ™s just being honest. Vivien grabs JamieвЂ™s arm. He jumps, spilling some of th wine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Forget about him, babe. YouвЂ™re better than that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I guess. Vivien loosens her grip. Jamie hands her a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Now I see why you never come back. Jamie reveals a nervous smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I told you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hey, there they are! Sarah and Casey approach the couple. RUDY GABLE, 28, chubby drunkard, stumbles behind them. Al of them hold drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "(to Rudy) Oh, hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "WhatвЂ™s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Holy shit, Rudy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Yeah, dude. Rudy and Jamie exchange a bromantic handshake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "We found him near the stage. Drunk bastard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Like always. \f51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(to Rudy) This is my wife Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Hey, nice catch, man. Vivien smiles, pleased to meet someone friendly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Yeah, I got lucky. Casey glances around, taking note of all his unwelcoming peers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "So yвЂ™all wanna get a table or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Uh, yes, please. Casey lifts a bottle off the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! The laughing Rudy points at Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Still the same olвЂ™ Thornton!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Still an asshole. Casey strong-arms her toward the back, leading the others",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Come on. The CROWD disperses around them, giving them a little too much space. Vivien grabs JamieвЂ™s hand, showing her support. \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Darkness conquers the scene. A cool breeze SWAYS the crim scene tape. A squad car sits near the yard. Kane leans against the do on the driverвЂ™s side. He takes a swig from a longneck alleviating his nerves. He gazes toward the lot. Sees the spot where Chris killed himself. The dry blood. Kane shakes his head. One final sip empties the bottle. He chucks the longneck into a deep ditch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The friends have the corner all to themselves. A few empt wine bottles stand on top of their table. Sarah flips through a 2006 yearbook, checking out their senior portraits. Vivien looks on, her curiosity piqued. Rudy downs his cup before leaning back. He belches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Puss. Rudy points at CaseyвЂ™s half-filled cup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Not like youвЂ™re doing much better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Hey, IвЂ™m working on it, bitch. Sarah traces her finger over her model-level photo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "God, we looked so good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "I know. What happened to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Fuck you. Vivien sees JamieвЂ™s photo. Handsome yet gawky. She looks over at Jamie, meeting his eyes. \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Impressive, huh? She wraps her arm around him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Not bad at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah, I picked the wrong one. Typical.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Ouch. With braggadocio, Casey points toward his photo: a seventeen-year-old who knows heвЂ™s good-looking, invinci and makes sure everyone knows it. An asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Hey, nine out of ten women would make the same mistake. Casey downs his drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "And the other one out of ten?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Hideous and blind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Mama was right. Total mistake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Moms usually are. Sarah turns the page. Senior Superlatives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Oh fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What? Knocking over a glass, the horrified Rudy covers up his Class Clown photo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "DonвЂ™t look! \f54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Come on, itвЂ™s not that bad. Casey pushes RudyвЂ™s hand away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yeah, loosen up. Casey glances at the embarrassing photo. He chuckles with delight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Oh shit! Goddamn. Sarah flashes him a death stare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Thanks, Thornton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "You should sue the school over that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "I think they made me look fatter on purpose. Sarah flips through the pages.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Well, at least you got one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Yeah. Too bad I couldnвЂ™t have one of the cooler ones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yeah, I shouldвЂ™ve won Best Looking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Most Annoying. Sarah lands on the sophomore pictures. LouiseвЂ™s photo l in the corner. Innocent and pretty. Big eyes. Noticing it instantly, Rudy points at the image.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "Shit, that was her last one, wasnвЂ™t it? \f55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah. Louise Lewton. The quiet Casey turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "So what happened to her exactly? Jamie stares at the picture. LouiseвЂ™s eyes pierce right through his soul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "ThatвЂ™s the thing. No one really knows. Casey glares at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Dude, donвЂ™t play that paranormal bullshit with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "IвЂ™m just saying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Her father did it. The son-of-a-bitchвЂ™s where he belongs now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jail? Casey leans in toward Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Hell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "(to Vivien) Well, anyway, he killed himself right before the trial. They found him hanging. Completely naked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Like I said, the fucking perv got what he deserved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "But they never found her body. She-- \f56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Give it up, Rudy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Wait, they never found her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "No! ThatвЂ™s the weird part. Vivien stares at Rudy, fascinated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "So whereвЂ™d she go? WhatвЂ™s the theory?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Fuck the theories.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "I donвЂ™t know. Rudy points at Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "His dad oversaw the whole thing. Casey SHUTS the yearbook. Sarah groans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I was just looking at it! Jamie turns away, uneasy. Casey holds up his hands, the booze elevating him to elit asshole status.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Alright, enoughвЂ™s enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Who wants another drink? Rudy raises his empty cup.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUDY",
+          "text": "I do! Casey grabs JamieвЂ™s shoulder. \f57.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Come on, \"Janie.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Jamie, man. How many times I gotta say it? He follows Casey and Rudy to the wine/snacks table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "DonвЂ™t get your panties in a wad. Vivien flashes Sarah a sly smile. EXT. LOUISEвЂ™S HOUSE - FRONT YARD - NIGHT Tall grass, rampant weeds. The abandoned cabin still remains, a shell of its former self. Shattered windows. Torn crime scene tape surrounds the busted-open doorway. KaneвЂ™s squad car parks near the porch. He steps out. An empty twelve-pack rests on the floorboard. Raising his flashlight, he makes his way toward the home. INT. LOUISEвЂ™S HOUSE - LIVING ROOM - NIGHT Crooked crucifixes line up along the walls, some of them lying on the floor. The lonely piano, its keys long broke stands near the busted T.V. Obscene carvings and spray-painted graffiti decorate the walls, phrases like KILLER, SICK FUCK, and BURN IN HELL. Empty longnecks pile up in the decrepit fireplace. Kane enters. He aims his flashlight through the rest of the room, illuminating cobwebs, dusty candles, and religious statue The beam hits the portrait of Louise. Her pictureвЂ™s beautiful eyes stare right at Kane. Kane catches a chill. He notices a bedroom door in a narr hallway. The piano KEYS play on their own, startling him. \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Shit! The MUSIC stops. Kane turns and looks back at the portrai He trembles, terrified. The picture now features a decomposing Louise. Blood flow from her eyes, dripping all down her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "(praying) Father in Heaven. Kane whirls around, breathing heavy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "If tomorrow doesnвЂ™t come, I want you to know how much I love you. Kane retrieves his gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "You have guided my steps today. His trigger finger shaking, Kane steps toward the bedroom door. LOUISEвЂ™S BEDROOM Antique furniture. Cobwebs dangle from the ceiling. Spide scurry across the peeling wallpaper. A canopy bed sits in the center of the room. Torn curtain encircle the large bed, disguising whatever lurks inside. ChrisвЂ™s camcorder rests on top of a monstrous dresser, lens pointed right at the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "And brought me home safely to my family. Kane walks inside, clinging to his flashlight and pistol.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "You sing over me daily. Kane traces LouiseвЂ™s voice to the bed. \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Thank you, Father. As Kane reaches toward the curtains, his flashlight cuts out. Total darkness. He stops, panicking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "Goddammit !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "I love you. Amen. LouiseвЂ™s pale hand emerges from the curtains, snatching KaneвЂ™s wrist. Nerves ravage his psyche. He staggers back. Drops the flashlight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KANE",
+          "text": "No! Let go! The curtains part, revealing the gorgeous Louise. She sta up. Kane looks right into her ominous eyes. He stops fighting back, giving in to her. The flashlight cuts on, its beam so vivid and bright. Louise lets go. Gazing at her, Kane unbuttons his shirt. He strips down t his bare skin. Sits on the SQUEAKY mattress. Louise watches Kane jam the pistol upward into his mouth. Without remorse, Kane PULLS the trigger. Like water exploding from a whaleвЂ™s spout, the bullet S OUT the top of KaneвЂ™s head. Blood and grue decorate the curtains. Kane slumps back. Louise glares down at his corpse, nothing but contempt in her eyes. The camcorderвЂ™s red light goes out. \f60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Filthy. Dim lighting. Jamie checks his disheveled reflection.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STALL",
+          "text": "Vile graffiti covers the wooden walls. Casey sits on the closed toilet, preparing a line of coke the metal toilet paper holder. He snorts the drug and lea back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Whoo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BATHROOM",
+          "text": "Casey shoves the stall door open. The startled Jamie turns around. Casey waves him over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yo, you gotta try this shit! Jamie steps toward the bathroom door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Naw, man, IвЂ™m good. Casey approaches Jamie, his footsteps loud and ominous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Come on, youвЂ™re pussing out again, Janie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I said I didnвЂ™t want any. Jamie grabs the door handle. Casey snatches his wrist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What the fuck, man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "WhatвЂ™s gotten into you lately? We used to do this shit all the time! Jamie pushes him back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I canвЂ™t risk that, man! Casey cackles. \f61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Risk what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m not throwing everything away over that shit! It ainвЂ™t worth it. Jamie turns. Casey grabs him by the shoulders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STALL",
+          "text": "Casey throws Jamie against the seat. Jamie stares at another line, the white powder calling hi name. Casey blocks the doorway, taunting him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Come on, Janie! Casey slaps Jamie upside the head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "DonвЂ™t tell me youвЂ™re a scared little bitch again. Helpless, Jamie turns and faces Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I canвЂ™t. Casey hits him again, even more force this time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "DonвЂ™t puss out on me, Jamie! Be a fucking man! Jamie leans in toward the drug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yeah! Jamie grabs the straw. Raises it over the powder. \f62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "There you go, buddy! Casey watches Jamie snort the coke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Whoo! Now weвЂ™re talking! Jamie collapses against the stall. Casey performs a facetious slow-clap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Jamie Tracy finally grew some balls, ladies and gentlemen. He pats the shaken Jamie on the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Yo, you alright? Jamie gives him a timid nod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Alright. Casey pushes Jamie to the side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "My turn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Vivien and Sarah wait at the table. Sarah looks toward th bathrooms, growing restless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Sheesh, whatвЂ™s taking them so long? She takes a sip from her cup. Vivien turns to see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I donвЂ™t know. Vivien stops and looks on, startled. She sees Al and Scrawny Woman hanging by the bathrooms. Sarah watches former CLASSMATES laugh and enjoy themselve on the dance floor. \f63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Ugh, he never wants to do anything. Just gets high and bitch. Al and Vivien make eye contact, AlвЂ™s harsh eyes glaring right at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CaseyвЂ™s sports car ZOOMS down the ruptured pavement. INT. CASEYвЂ™S SPORTS CAR - MOVING - NIGHT Casey controls the wheel. Sarah glares at him from the passengerвЂ™s seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You couldnвЂ™t do one song?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Who cares? ItвЂ™s not like weвЂ™re missing anything. In the back, Vivien looks over at Jamie. He faces her, forcing a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "The dance-offвЂ™s the funnest part.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "IвЂ™m too fucked-up for that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah, no shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "(to Jamie) IвЂ™m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s okay. He looks out the window, concealing his emotions. They near the old high school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(to Casey) I bet we still wouldвЂ™ve won it too. \f64. Casey turns up the RADIO, eager to overpower SarahвЂ™s complaining.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CASEY",
+          "text": "Probably embarrass ourselves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah, well, you took care of that on your own. Casey looks back out the windshield. Headlights illuminate Louise standing in the middle of th highway, a wild breeze whipping through her hair. Casey stares at her, stunned. Jamie sees her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. Jamie leans forward, snagging CaseyвЂ™s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Look out! Casey swerves the wheel, just avoiding Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cavernous, ominous woods encompass the property. Like a haunted castle, the abandoned school stands tall. CaseyвЂ™s sports car careens down the driveway. INT. CASEYвЂ™S SPORTS CAR - PARKED - NIGHT The stoic Casey cuts off the headlights. He snatches the keys out of the ignition.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! CaseyвЂ™s blank eyes stare toward the school. Sarah reaches for him. \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What the Hell are you doing? Casey avoids her hand. He opens the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Is he okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Hey, Casey. Sarah grabs CaseyвЂ™s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Look at me, asshole! He sends her back with a harsh shove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Ow! Casey! Casey steps out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What the fuck? The friends watch Casey SLAM the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Stupidass. Sarah opens the glove compartment and grabs a flashlight. Casey lumbers off toward a shattered classroom window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The eerie building awaits, its double door entrance resembling a barricade hiding sinister secrets. Sarah hops out the sports car. She points her flashlight toward the window. No oneвЂ™s there. Casey is gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! Vivien and Jamie exit the vehicle. Sarah rushes toward the window, stepping over countless b cans. \f66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You better not be playing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Boxes, filing cabinets, and crumbling student desks. A broken teacher desk sits in front of a busted whiteboard. Like Halloween decorations, ridiculous spiderwebs trickle down the windows and roof. Large holes cover the battered walls, revealing countless RODENTS and BUGS. Jamie, Vivien, and Sarah journey through.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You think heвЂ™s trying to scare us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "HeвЂ™s a sick dumbass, so yeah, probably. Jamie doesnвЂ™t say a word. He steps in a pile of dry vom",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! They near the open doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "It was like it wasnвЂ™t even him. He acted so weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAIN HALLWAY",
+          "text": "No windows. Rusty lockers and tall classroom doors align both sides. Smashed beer bottles and smudged cigarettes litter the cracked floor tile. Sarah shines the flashlight around, illuminating the desolate scene. TheyвЂ™re all alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Maybe we should go. \f67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "No! We need to find him. Vivien notices a black-haired porcelain doll lying on the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What in the world? She picks up the doll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What? Vivien examines its cryptic appearance: gouged out eyes, ripped hair, dirt-smeared face. The others stare at it, disturbed by its appearance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Creepy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Yeah. Loud FOOTSTEPS echo down the hall. The startled Vivien drops the doll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! The porcelain doll SMASHES against the brutal tile. Sarah rushes forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! Vivien follows after her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Sarah! The classroom door CREAKS. Jamie turns around, just in time to see the door SLAM shu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Shit! Jamie grabs the handle. Locked. He SLAMS his fist against the wooden surface. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Goddammit !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN, (0.S.)",
+          "text": "Jamie! Further down the hall, more FOOTSTEPS echo toward Vivien Sarah. They scan the area. All the doors are closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Where are they? The frantic Sarah shines her light all over the place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I donвЂ™t see anything. The noises stop. Dead silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Shit. Loud BANGS RATTLE the lockers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! Sarah points her light at the lockers. Some of the metal doors still SWING back-and-forth, but n oneвЂ™s around. Jamie stops next to Vivien and Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "The doorвЂ™s locked!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What? Vivien runs toward one of the closed doors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "WeвЂ™re fucking trapped! Vivien turns the locked doorknob.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Are you kidding me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "(praying) . Lord, bless daddy and keep him safe. \f69. The terrified Jamie searches for Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, God! Vivien and Sarah look at him, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, whatвЂ™s wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Lift your countenance upon him and give him peace. Jamie covers his ears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Fucking stop! Vivien grabs his arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. Jamie confronts Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s Louise!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "(whisper ) Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You donвЂ™t hear her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No. Jamie, it canвЂ™t be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s her! Sarah hears loud CREAKING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Oh shit! She aims her flashlight down the hall and sees a narrow d SLAM shut. Sarah yanks VivienвЂ™s wrist. \f70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Come on!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICE",
+          "text": "Cramped. A large desk occupies the center of the room. Photographs and newspaper clippings lie on top of it. Nails and tacks pin snipped headlines and pictures to the walls. Sarah lets go of the doorknob, letting the door creep ope",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey? The group walk inside, Sarah illuminating the office with her flashlight. Casey isnвЂ™t there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Shit, where is he? Sarah notices the pinned headlines. She stares at one, horrified. The bold font: Louise Lewton Declared Dead. The Search Fo Her Body Continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Underneath it rests a small black-and-white photo of Loui Her sophomore picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "YвЂ™all, come here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What is it? Her and Jamie see the clipping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(scared) Louise. Sarah moves the light toward the other clippings. All of them detail the same report. LouiseвЂ™s death. The disappearance of her body. A stack of photos and articles SLIDE off the desk, scarin the friends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! Sarah leads Vivien to the spot. \f71. Jamie looks at the wall, staring at a photo of Louise. Th picture shows her standing beneath a large tree. Her dres looks brand new, not torn and ragged. Sarah grabs a clipping off the desk. The headline: Rob Lewton Found Dead. Suicide By Hanging. Sarah covers her mouth, horrified. Vivien stares at RobвЂ™s photo. His scruffy beard and wil eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Casey wouldnвЂ™t do this, would he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I donвЂ™t know. The trembling Sarah drops the article.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I donвЂ™t think so. Jamie sees another picture of Louise. In the shot, an eight-year-old Louise holds a puppy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "He wouldnвЂ™t just leave us like this. HeвЂ™d at least show up and laugh at us. Vivien rummages through the other articles. She glances a different photos of Rob with Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "All these pictures and articles. He couldnвЂ™t have. Jamie looks back at the outdoor picture. Louise now stands a few feet away from the tree, closer toward the camera. A harsh glare replaces her neutral expression. Jamie stumbles back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Fuck! The startled Vivien and Sarah turn and look at him. \f72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. Jamie faces them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s Louise! ItвЂ™s her. SheвЂ™s doing this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "SheвЂ™s dead!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I donвЂ™t know, but sheвЂ™s here! SheвЂ™s been following us this whole time!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Babe, she couldnвЂ™t have. The disturbed Jamie turns. He look at the tree picture again. His eyes go wide in fear. Louise is gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. A cold hand snags JamieвЂ™s shoulder. He whirls around. Louise. Jamie stares into her haunting eyes. She leans in closer. The worried Vivien and Sarah look on. They only see Jamie",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "WhatвЂ™s he doing? The photographs and articles FLY off the desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Shit! Vivien and Sarah panic. They rush toward Jamie. Nails and tacks POP out, releasing the headlines and pictures. \f73. Vivien pushes Jamie out of the room, helping him evade Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Go! He turns and glimpses back. Louise is no longer there. The desk SLIDES across the room. The outdoor picture now lies on the floor. Louise is back it, standing closer toward the camera, a vivid slice runn across her neck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAIN HALLWAY",
+          "text": "Jamie, Sarah, and Vivien leave the office, Vivien SLAMMIN the door behind them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What the Hell happened back there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "I donвЂ™t know. Sarah staggers around, desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Goddammit, Casey! Vivien looks at the quiet Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, what is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I already told you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "They said sheвЂ™s dead!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "SheвЂ™s alive! The weary Sarah leans against a locker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, itвЂ™s-- From further down the hall, rapid FOOTSTEPS charge toward them. \f74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! Sarah stands up. She points her flashlight that way, look for the culprit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! A door SWINGS open on its own. Sarah jumps back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Shit! The flashlight cuts out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Oh God! No! Sarah hits the back of her flashlight. No use. Vivien rushes toward the door. Jamie grabs her arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Vivien, donвЂ™t!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, let go! She breaks away. The FOOSTEPS sound louder, closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIBRARY",
+          "text": "A torn carpet spreads across the floor. Crammed bookshelv gather dust. Old computers sit on top of wooden counters. Vivien steps inside, Jamie and Sarah following in behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Casey! They stop near the front counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "YвЂ™all, letвЂ™s get the fuck outta here! We can come back-- \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Shut the fuck up, Jamie! The door SHUTS behind them. Jamie turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Fuck this! He grabs VivienвЂ™s arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "LetвЂ™s go! Vivien pulls away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Wait. Sarah points across the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "There he is! Sitting on the couch, Casey looks straight ahead, turned away from them. A long table stands in front of him. ChrisвЂ™s camcorder on top of a sofa sitting across from the couch Casey occupies. The cameraвЂ™s red light glows, its lens pointe right at Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey! Casey continues ignoring them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "WhatвЂ™s he doing? Sarah charges toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Stop it, Casey! Vivien follows her. The hesitant Jamie waits behind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "SomethingвЂ™s not right. Sarah stops near the couch. She jumps back, startled. Dro her flashlight. \f76. The nude Casey sits on the sofa. He looks on at the camcorder, his eyes blank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jesus! Casey! Vivien stops next to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! Sarah grabs CaseyвЂ™s arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What the Hell are you doing? He doesnвЂ™t move, refusing to face her. Jamie snatches the locked door handle. No way out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Fuck! Sarah shakes Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey, look at me! Casey shoves her to the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Sarah! The helpless Sarah looks on as Casey stands up. Vivien leans down next to Sarah, holding her close. Jamie watches Casey FLIP the table upside-down. Three met legs jut out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Shit. Jamie runs toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Casey! Casey turns around, confronting the group. Jamie comes to a stop a few feet away from him. \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey. ItвЂ™s me. Casey falls back onto one of the table legs. The metal slides up his ass, SPLATTERING blood over his naked body. He remains quiet, despondent. No sense of panic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! Covering her mouth, Sarah turns away, horrified. Like a javelin, the metal leg protrudes through his crotc Casey grabs at it, his eyes lacking emotion. The camcorder records Casey convulsing. Blood and saliva pour out of his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "God. Jamie watches him go still.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey. The camcorder turns off by itself. Jamie faces Vivien and Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I told yвЂ™all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "ItвЂ™s Louise!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Stop this!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m not crazy, Goddammit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Did yвЂ™all hear that? The confused Vivien helps Sarah stand up. \f78.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Hear what? Terrified, Jamie searches for Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Where is she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie, sheвЂ™s not here. A computer CUTS on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Shit! He stumbles toward it. A video plays on the screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What is that? Jamie stops in front of the monitor. He recognizes the footage. The abandoned lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No! Vivien and Sarah crowd around him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. He pushes them back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "DonвЂ™t look!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "SheвЂ™s fucking lying!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Jamie. Jamie turns and glares, trying to find Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(to Louise) Goddammit, leave me alone! \f79. The video shows ChrisвЂ™s truck. TEENAGE JAMIE and TEENAG CASEY hang out. Sarah recognizes them in the clip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Casey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(to Louise) You fucking bitch! Jamie throws the computer down, SMASHING the screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jamie! He confronts them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "SheвЂ™s trying to tear us apart! DonвЂ™t you see? SheвЂ™s lying!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Jamie. Jamie glances up at the ceiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Leave me alone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "YouвЂ™re crazy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. Babe. Different screens all turn on. The same video. The abando lot. Sarah points Vivien toward the monitors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Look! Jamie faces the computers, horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No! You canвЂ™t do this to me. Vivien and Sarah stop in front of the closest monitor their curiosity overpowering them. Jamie leans against a wall. He turns away, defeated. \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ON SCREEN",
+          "text": "Ten years ago. The same yard where Chris killed himself. Teenage ChrisвЂ™s truck sits parked in the middle of the Longnecks and cans litter the ground. Crushed joints and cigarettes scatter across the truckвЂ™s hood. Standing a few feet away, Teenage Jamie, 18, watches Teen Casey, 18, drag Louise to the ground. Teenage Casey cackles while groping Louise like a savage. She struggles, unable to break free. TEENAGE CHRIS, 18, stands further away, recording the act with his camcorder. Cigarette ashes and beer stains cover the boysвЂ™ graduat gowns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "No! Let me go!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Shush, baby. Teenage Chris chuckles behind the camera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Is this one for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "No, tonight weвЂ™ve got a graduation gift for a special someone. Teenage Chris points the camera at Teenage Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "And we have a winner!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE JAMIE",
+          "text": "Who? Me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "(to Teenage Casey) You fucking creep! Teenage Casey slaps her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Shut up, bitch! \f81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE JAMIE",
+          "text": "Naw, man, I canвЂ™t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Yo, you canвЂ™t be a virgin forever bro.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "ItвЂ™s time to pop that cherry, Janie. Louise faces Teenage Jamie, desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "Jamie, donвЂ™t! Please! Teenage Jamie doesnвЂ™t move, unsure what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "Help me! Teenage Casey tears LouiseвЂ™s dress, revealing her breas He grins and looks over at Teenage Chris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "You getting a close-up? Teenage Chris zooms in on LouiseвЂ™s chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Got it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "Let me go! Teenage Casey glares at Teenage Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Yo, hurry the fuck up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Yeah, donвЂ™t puss out, Janie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Fucking Janie! Louise cries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "Jamie, please! DonвЂ™t do this! Teenage Jamie stares at her, his eyes blank. \f82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "YouвЂ™re better than them!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Come on, Jamie! DonвЂ™t you wanna lose it, buddy? Teenage Casey reaches under LouiseвЂ™s dress. She cringes his rough touch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "ArenвЂ™t you tired of always striking out? Think about it, Jamie. Teenage Casey retrieves LouiseвЂ™s thong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "You donвЂ™t wanna be a virgin forever, do you? Being that scared little bitch like youвЂ™ve always been. ArenвЂ™t you tired of that, Jamie? Like a celebration, Teenage Casey tosses LouiseвЂ™s thong to the side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "We got her all ready for you, buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Get some, Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "No, Jamie! Please!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Now all you gotta doвЂ™s just be a fucking man, Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Yeah, show that bitch whoвЂ™s boss!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "Jamie, no! Teenage Jamie UNZIPS his pants. \f83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "There you go, Jamie! Now thatвЂ™s what IвЂ™m talking about! Teenage Jamie leans over Louise. She stares at him, helpless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "No, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE JAMIE",
+          "text": "All this time, you just wanted them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "Yeah, Jamie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE",
+          "text": "Jamie. Teenage Jamie covers LouiseвЂ™s mouth, suppressing her desperate pleas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE JAMIE",
+          "text": "Now you want me to help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Get that bitch! The excited Teenage Casey watches Teenage Jamie climb on of Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "ItвЂ™s showtime!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CHRIS",
+          "text": "Hell yeah! Louise closes her eyes and turns away. The eager Teenage Casey and Teenage Chris gear up to watc the \"show.\" Teenage Jamie thrusts against Louise, over and over. Loui cringes, the pain unbearable. Teenage Chris steps forward for a close-up. Like a demented teammate, Teenage Casey pats Teenage Jami on the back, offering support. \f84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGE CASEY",
+          "text": "You got this, Jamie! YouвЂ™re the fucking man, bro!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The footage keeps rolling. Teenage Jamie collapses on top the petrified Louise, breathing heavy. Horrified, Vivien and Sarah turn to Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "(disgusted) You sick fuck. She charges toward Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What the HellвЂ™s wrong with you? Jamie faces her, ashamed. Tears well up in his eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m sorry. Vivien hits Jamie in the face, knocking him back against wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "How could yвЂ™all fucking do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m sorry. Vivien--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You sick bastard!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Both of yвЂ™all hid this from us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "They made me! I couldnвЂ™t tell anyone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "That doesnвЂ™t make it right, asshole! \f85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "She tried going to the Sheriff, but the fucker. He covered it up. Bitter tears stream down VivienвЂ™s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "He didnвЂ™t do a Goddamn thing. Covered it all up for Casey. Vivien snatches her necklace off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You bastard! She hurls the necklace at Jamie, hitting him in the head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "You sick fuck! Jamie turns and looks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(ashamed ) I donвЂ™t even know if her dad did it. Sheriff smeared him for us, made sure they got him. Kept that whole Goddamn family quiet forever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "YвЂ™all are fucking sick! All of yвЂ™all! Jamie confronts them, tears sliding down his cheeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "She didnвЂ™t have a chance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I know, Goddammit! I know! The monitors cut away from the rape footage. A new clip appears: Louise in her living room. Vivien notices the change.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! They all watch the footage. \f86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Louise. Louise stares at the camera, her eyes looking right at Jamie. Her pale hand raises the butcher knife. Tears flowing from her eyes, Vivien covers her mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "No. Without hesitation, Louise slides the blade over her jugular. Blood SPURTS out, hitting the lens. Vivien looks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Oh God! All the while, Jamie watches the graphic clip, haunted by the video.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "We did it. We caused her to die. Sarah hits his shoulder, enraged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Goddamn you! Jamie backs away. A surveillance video plays on the monitors: A naked Rob i his cell. Shedding tears, he stands up on the cot. Fasten the noose around his neck. Sarah watches, mortified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No. This canвЂ™t be happening! Rob hops off the bed, the noose SNAPPING his neck instant His nude corpse SWAYS back-and-forth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jesus. Sarah stumbles toward Vivien. Vivien holds her, both of t keeping their distance from Jamie. Various suicide clips now play at a rapid rate. Chris. Ka Casey. LouiseвЂ™s \"victims.\" \f87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "ItвЂ™s all cause of yвЂ™all! Jamie bumps into the counter. He touches the surface, cutting his hand. Sarah lunges toward him, barely restrained by Vivien.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Fucking pigs!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Sarah. Jamie looks down at the counter. LouiseвЂ™s butcher knife. Jamie grabs the wooden handle. Blood drips from the sharp blade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No. Vivien and Sarah stare at the knife, the weapon making th uneasy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "Jamie. Jamie turns and faces them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "DonвЂ™t do this. Jamie looks back at the monitor. The suicide video loop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m sorry. Heavy books TUMBLE off the shelves, startling Sarah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Oh fuck!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Jamie. Jamie glances around the library, trying to find Louise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Louise! The unnerved Vivien watches him stumble around. \f88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISE, (V.0.)",
+          "text": "Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "HeвЂ™s flipped out! HeвЂ™s fucking psycho!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "They all have. Louise repeats JamieвЂ™s name, creating an eerie chant. Jamie stops and checks a computer screen. The monitor now shows footage from the library: Jamie staring at the screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, fuck! Vivien and Sarah notice the live video.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIVIEN",
+          "text": "What the Hell? His eyes glued to the screen, Jamie watches Louise emerge from the corner shadows, gliding toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, God! Jamie whirls around. Louise waits behind him. Her unwavering glare holds his gaze. She looks glorious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Louise. Jamie backs away, Louise following him step-for-step. Vivien and Sarah glance at a monitor. They watch Jamie sit on the sofa across from CaseyвЂ™s co Neither of them see Louise. SarahвЂ™s flashlight cuts on, illuminating Jamie like a m spotlight. The camcorder switches on by itself, turning on its own t point right at Jamie. Louise approaches him, her movements so effortless. \f89. Panicking, he looks up at her. Nowhere to run.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You bitch! Jamie swings the knife and slices LouiseвЂ™s chest, cutti through her dress. A stream of black blood oozes out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, God! Louise stands still, her glare even more ominous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Why? Why are you doing this? He slams his fist against the sofa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "You didnвЂ™t have to kill yourself! The angry Jamie turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Goddammit, we donвЂ™t deserve to die! A babyвЂ™s CRIES erupt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Aw, God! Jamie looks for the infant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What the fuck was that? The unsettling CRIES grow louder and louder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "What the fuck? LouiseвЂ™s abdomen THROBS. Jamie jumps back. He stares at it, mortified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "No! No, Louise. He looks up at Louise, his eyes pleading.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "IвЂ™m sorry! Goddammit, IвЂ™m sorry! Tears stream down his face. \f90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "I did murder you. The hidden presence in LouiseвЂ™s abdomen PULSATES again again, each THROB more intense than the last. Louise reaches toward Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Our child. Giving him a slight nod, Louise grabs the back of JamieвЂ head, drawing him in closer toward her abdomen. Jamie looks up at Louise, greeted by her harsh glare. His eyes go blank. Emotionless. The babyвЂ™s monstrous WHINES become shriller as LouiseвЂ abdomen rots and falls apart. A gruesome FETUS BURSTS out of her stomach. The gory organism drips vivid goo. It reaches out with ti claw-like hands, its underdeveloped eyes targeting Jamie. Bellowing murky CRIES, the fetusвЂ™s claws latch onto Jam digging in deep through his tender flesh. Razor-sharp teeth emerge from the babyвЂ™s disjointed mou The flashlight beam showcases the babyвЂ™s fangs sinking JamieвЂ™s neck. Blood SPLATTERS over the walls and floor. A vicious feast Louise watches the attack, a gratified expression on her face. The camcorder films away, positioned at a perfect angle. Vivien and Sarah stare at Jamie, both of them disgusted b the sight. They donвЂ™t see Louise or the baby. Instead, they only s the naked Jamie holding LouiseвЂ™s butcher knife. Multipl stab wounds cover his crotch, his penis severed. A rough self-castration. Blood everywhere. The library door CREAKS open. The dying Jamie holds his hand out toward Vivien. \f91.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Vivien. Sarah grabs VivienвЂ™s arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(weak) No! Spurning him, Vivien turns away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "Please... The weakened Jamie lowers his hand. Together, Vivien and Sarah exit the library, leaving the massacre behind. Leaning down, Jamie shuts his eyes. Blood DRIPS from his lifeless body. Flowing blood oozes toward the dying flashlight. The redn collides with the flickering beam before the light finall cuts out. Darkness suffocates the scene. FADE OUT.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1710"
+    }
+  ]
+}

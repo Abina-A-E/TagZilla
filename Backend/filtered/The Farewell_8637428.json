@@ -1,0 +1,4153 @@
+{
+  "movie_id": "MOV1990",
+  "scenes": [
+    {
+      "location": "NYC",
+      "time": "EVENING",
+      "characters": [
+        "SUN AO",
+        "RADIOLOGIST",
+        "NAI NAI, (0.S.)",
+        "HAIYAN, (0.S.)",
+        "BETWEEN BILLI AND NAI NAI FOR PHONE CONVERSATION",
+        "GENERAL ZHU",
+        "OK...",
+        "THE END",
+        "BILLI",
+        "SHIRLEY, (CONT'D)",
+        "WEDDING COORDINATOR",
+        "JIAN, (CONT'D)",
+        "MICHAEL",
+        "STREET CANVASSER",
+        "BANQUET CHEF",
+        "MICHAEL, (CONT'D)",
+        "BILLI, (0.S.)",
+        "LAUNDROMAT OWNER",
+        "MR. LI",
+        "KATHY",
+        "UNCLE HAIBIN LITTLE NAI NAI",
+        "DOCTOR SONG",
+        "60.",
+        "SHIRLEY",
+        "GENERAL MU",
+        "UNCLE HAIBIN",
+        "HALYAN",
+        "BILLI, (CONT'D)",
+        "MRS. GAO",
+        "AIKO",
+        "COPY CENTER OWNER",
+        "GU FU",
+        "GU GU",
+        "HAIBIN",
+        "UNCLE HAIBIN, (CONT'D)",
+        "BAO",
+        "GENERAL FU",
+        "NAI NAI, (CONT'D)",
+        "HAO HAO",
+        "NAI NAI",
+        "LITTLE NAI NAI",
+        "HAIYAN, (CONT'D)",
+        "AUNTIE LING",
+        "LITTLE NAI NAI, (0.S.)",
+        "TEEN GIRL",
+        "PHOTOGRAPHER",
+        "UNCLE HAIBIN, (0.S.)",
+        "NICO",
+        "HA",
+        "JIAN",
+        "GU GU, (CONT'D)",
+        "MASSAGE PARLOR RECEPTIONIST",
+        "HAIYAN",
+        "BUSINESSMAN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "NAI NAI, (0.S.)",
+          "text": "[Hello?] [*Note: All Chinese Mandarin dialogue in brackets. Other languages will not be subtitled. ] NAI NAI (80) walks into frame holding a cell phone. A hea neatly-permed white hair, this woman is the consummate matriarch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (0.S.)",
+          "text": "[Nai Nai. Hi!] Hearing her granddaughter’s cheerful voice, Nai Nai break into a warm smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Billi! It’s the middle of the night there, why aren’t you sleeping? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (0.S.)",
+          "text": "[Middle of the night? It’s seven...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Seven at night?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Horns BLARE as BILLI WANG (30) walks quickly through the kinetic streets of New York City. She’s in her element he Her movement is effortless, even as she switches between speaking Mandarin and English. WE INTERCUT BETWEEN THEIR PHONE CONVERSATION.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Yea, it's always twelve hours time difference! Isn’t it seven in the morning in China?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s almost seven thirty!] (beat) (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "[Is it cold there? Are you wearing enough? Cold travels through the head! Are you wearing a hat?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "{I am.] (she’s definitely not) [Stop worrying about me! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You have to be careful. I read that in New York there are men who steal your earrings. They rip them out! And then you have to go to the hospital to get your ears stitched up!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I’m not wearing earrings, Nai Nail]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Ah. So you heard too. ] A loud Chinese ANNOUNCEMENT blares through the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Hey, what’s that sound? Nai Nai, where are you?] The announcement continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Me? I'm... I'm at your great aunt’s house. ] Clearly in a hospital, Nai Nai tells this lie with total ease.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[What are you doing? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I’m heading to Mom and Dad's for dinner...] Before Billi can finish, a STREET CANVASSER interrupts wi performative cheerfulness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STREET CANVASSER",
+          "text": "Hi! Do you have a minute to save the polar bears? Billi stares blankly, annoyed by the interruption.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I really wanna say something snarky, but I used to have your job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STREET CANVASSER",
+          "text": "(still smiling) So you know how important it is to support us!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I know your job sucks. Suddenly sympathetic, Billi stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "(on phone) [Hold on, Nai Nai...] She pulls out her wallet. All she has is a dollar. She ha it to the stranger, who eyes it cynically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STREET CANVASSER",
+          "text": "Lemme guess, you got fired?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(feigns being offended) I quit! (beat, with a laugh) Cuz I was about to get fired! Billi and the canvasser share a laugh before Billi return her attention to Nai Nai.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "[Sorry, Nai Nai.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(What was that?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(Nothing. Just um... a friend...] Another announcement blares through the hospital speakers",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "(Hey, Nai Nai, what is that? What’s going on?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s nothing. I’1l call you back later, OK?] Nai Nai’s abruptness catches Billi slightly off-guard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh, OK...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’1l call you back granddaughter! I promise I’1l1 call you back!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "OK. [Call me la...] The line clicks before Billi can finish. It’s odd, but Bi shrugs it off and descends into the subway station. INT. THE PEOPLE’S HOSPITAL, CT SCAN MACHINE - DAY The bed slides out of the machine. A RADIOLOGIST helps Na Nai sit up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RADIOLOGIST",
+          "text": "[You can get dressed. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Where's my sister?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RADIOLOGIST",
+          "text": "[She’s with the doctor. ] INT. THE PEOPLE’S HOSPITAL, DOCTOR WU'S OFFICE - DAY Little Nai Nai sits alone across from DOCTOR WU. Though w don't hear their conversation, Little Nai Nai absorbs wha clearly terrible news. INT. THE PEOPLE’S HOSPITAL, HALLWAY - DAY Little Nai Nai is overwhelmed with grief, but there’s no for this. Her mind races. Then, with a deep breath, she m her decision. Yes, it’s clear what she must do. INT. THE PEOPLE’S HOSPITAL, WAITING ROOM - DAY Little Nai Nai approaches her distressed sister in the waiting room. She musters up a believable smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "(OK, let's go.] Her voice is light and bright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Did you talk to the doctor?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Yep. You're in full health. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Really? What about the CT scan? What about the spots they saw before? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[It's all clear. Turned out to be nothing. Just... benign shadows. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Benign shadows? What's that mean?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "(shrugs nonchalantly) [That's just what the doctor said.] Nai Nai seems uncertain as she looks at her sister’s beam smile. Little Nai Nai helps her stand, still radiating wi optimism. As they leave the hospital, Nai Nai seems sufficiently convinced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (0.S.)",
+          "text": "(prelap) «++. and one day the wife goes out of town. When she returns, her husband greets her right away, and he says, ‘honey your cat is dead.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HAIYAN WANG (late 50’s), also known as DAD, smiles with s assurance as family and friends anticipate the rest of hi joke. Billi watches her father adoringly, sipping brandy around remains of their dinner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "The wife gets very upset, you know? She says to her husband, how can you be so insensitive? You just tell me so abruptly like this? Despite his slight Chinese accent, Haiyan's a natural storyteller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "Her husband is you know, confused! He says to his wife... OK, how do you want me to tell you in the future? She says, “You have to not be so direct. It’s too sudden. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have to, you know, be more gentle in delivering the news. For example, ease me in with something like ‘Listen, honey... your cat... it got on the roof...’” A few scattered chuckles from the table. JIAN LU, also kn as MOM (late 50's), enters with plates of cake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KATHY",
+          "text": "Oh my gosh, I’m stuffed. I don’t know if I have room for dessert. Haiyan is slightly irritated by the interruption.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Come, sit down...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Come, Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Where was I? Oh right... A few months go by. The wife goes out of town again. When she returns home, her husband’s there to greet her again. This time, he learned his lesson. When his wife comes through the door, he says, \"Listen, honey, you know, your Mom... she got on the roof...” The table bursts into laughter. Even Billi and Jian chuck despite having heard the joke a million times. INT. BILLI’S APARTMENT - NIGHT Sound of KEYS in the dark as Billi lets herself in. She’s greeted by a LOUD CRASH - like a vase shattering. Billi d her mail, suddenly on guard. She’s scared, but ready to defend herself. Something FLIES overhead, knocking items off a shelf. Bil eyes dart across the room, spotting the culprit. A SMALL HOUSE BIRD on the windowsill. Billi’s eyes meet t bird's. Both parties are equally stunned. As she collects herself, she realizes all the windows are closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "How'd you get in here? The bird stares up with its beady eyes. Billi opens a win to let it out. The traumatized bird doesn’t move. \fBilli’s phone buzzes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (0.S.)",
+          "text": "(Hi Billi. Sorry I hung up earlier. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[That’s OK. What’s going on?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETWEEN BILLI AND NAI NAI FOR PHONE CONVERSATION",
+          "text": "MR. LI (80's) shuffles past Nai Nai carrying a THERMOS of tea. Mr. Li is the kind of man that wears the same cap indoors, outdoors, even at weddings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(genuine relief) (Nothing, nothing. I’m OK. You don’t have to worry, child. ] Nai Nai notices the trail of water following Mr. Li.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[It’s leaking! ] He’s oblivious. Nai Nai taps him, then shouts louder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[It’s leaking! ] Mr. Li shuffles unhurriedly back into the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[This old man! So careless! ] INT. BILLI’S APARTMENT - NIGHT Billi picks her mail off the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[You mean Mr. Li?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I never should've gotten together with him! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Nai Nai! INT. NAI NAI’S APARTMENT —- MORNING As Mr. Li wipes up the water -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "[It’s OK, he’s going deaf. He can’t hear me anyway. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(Why are you still with him?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(sighs) [It’s been so many years. We get by. Anyway, it’s better than living alone. At least there’s a live body in the house. Otherwise, when you get up to go to the bathroom, all you see are your own shadows. Listen, do you have a friend yet, my child? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I um... I have lots of friends. Nai Nai...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I mean a special friend. I worry about you on your own. In a big place like New York. ] INT. BILLI’S APARTMENT - EVENING Billi opens an envelope, pulls out a letter. A rejection the Guggenheim Foundation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (0.S.)",
+          "text": "(Billi? Is everything OK?] She's deflated, overwhelmed by the sense of failure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I’m fine. I’m uh... I’m just tired. ] And suddenly, she does seem tired. Spiritually, that is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[If you're tired, go to bed!] Billi nods to herself, too familiar with the way these th get lost in translation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK...",
+          "text": "(beat) I love you Nai Nai...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I lauf you, I lauf you! These are the only words Nai Nai knows. As broken as they sound, she says it with all her heart. Billi summons a we smile, just in case Nai Nai can hear her smile. She looks back at the windowsill. It's empty. The bird is gone. EXT. BILLI’S APARTMENT - DAY Billi marches out of her apartment holding an ENVELOPE. I a new day. She enters the laundromat just downstairs from apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi stands across from SHIRLEY (20's), folding stacks o laundry for customers. Her first-generation immigrant mot attends to customers nearby. She is the LAUNDROMAT OWNER landlord of the building).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAUNDROMAT OWNER",
+          "text": "(in another language) Late again! She’s always late, and she didn’t even pay last month! Billi looks between Shirley and her mother, anxious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I wrote a couple pieces for this stupid web company and they screwed me on the payment, but look it’s all here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHIRLEY",
+          "text": "For what month?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(confused) This one? May?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHIRLEY",
+          "text": "And what happened to April’s rent? My mom says you didn’t pay April yet. Billi is blind-sided as she realizes her error.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHIRLEY, (CONT'D)",
+          "text": "You know if you moved out, we could double the rent right now? \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi steps outside, realizes she’s still holding her laundry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi bursts through the door carrying the laundry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Ma! Ba! Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Shhh! What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I've been calling, why didn’t you guys pick up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "We busy. Have you eaten? I’1l make you some wontons. As Jian heads to the kitchen, Billi heads into the laundr room and puts clothes into the washer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "So what, you broke? That’s why you come. I know you... You need money, right? Billi tries to deflect with humor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "No, I just love an excuse to come see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "What’s going to happen to you? Are you always going to live like this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Poor but sexy? I hope so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Why you not save? You should change your expensive lifestyle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Seriously, Mom. If you’re gonna give me shit every time I come home, I won’t come back anymore! \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Lower your voice. Dad’s sleeping!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "It's six o'clock. What’s wrong with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Nothing. He’s just resting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Is he OK? Jian turns away from Billi and grabs frozen wontons from freezer. Her body language is evasive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "He’s fine. We just very busy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Doing what? What’s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(lets out a sigh) Hao Hao’s getting married, so we have to go to China.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What? Since when? Didn’t he just start dating this girl a few months ago? Jian doesn’t respond, intently focused on chopping scalli",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "I can’t go to China right now, Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "You don’t have to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "He’s my only cousin, shouldn’t I be there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "No one expects you to go. Billi considers this suspiciously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "You think he knocked her up? Jian silently continues cooking. \f12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "How many wontons you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Um... Five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Only five? That's not enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Then make a dozen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "I think ten's good. Billi looks around - the house is eerily quiet. Something not right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi stares at the closed door. The light is on inside. knocks gently and opens the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Haiyan sits on the edge of the bed, facing away from Bill",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Dad? His stillness, his silence - it’s eerie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "What's wrong, Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Did you and Mom get in a fight? Haiyan fights back tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "Have you been drinking? More silence. Terror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "Can you please talk to me? You're scaring me. Billi looks up to see Jian at the door. \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "What's going on? More silence. Billi’s insides are shrieking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "(raises her voice) Something's going on! Just tell me what's going on!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(dry, to-the-point) Nai Nai's dying. She has lung cancer. It's stage four. Billi’s heart drops. She collapses onto the bed, sitting beside her father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What? I just spoke to her, she didn’t say anything...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "She doesn’t know yet. Billi’s mind races.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "How long does she have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Doctor says three months, but you never know. Could be faster. Billi reels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I need to call her...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "No, Billi...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I need to see her!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "You can't do that. Haiyan puts aside his own grief momentarily. His words ar measured. \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "She doesn’t know... And the family thinks it’s better not to tell her. So you can’t say anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I don’t understand. She needs to know, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "There’s nothing they can do, so everyone decided it’s better not to tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Why is that better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Chinese people have a saying. When people get cancer, they die... Billi squints - what the fuck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "-.. it's not the cancer that kills them. It's the fear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What about the wedding? Jian joins her family on the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "That was your Dad’s idea. If everyone rushed back to see her right now, she would wonder why.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "So you're throwing a fake wedding to lie to her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "It’s an excuse for everybody to see her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "When were you planning on telling me all of this? We're back to silence. \f15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "(accusatory) How could you let me find out like this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(defensive) How should I have told you? ‘Oh, your grandma’s on the roof? This doesn’t get a laugh, but Jian wasn’t expecting one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I need to go see her...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "You can’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Everyone thinks it’s better if you don’t go. Look at you. You can’t hide your emotions! Nai Nai will know right away!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I need to say goodbye. What if she dies and I don’t get a chance to say goodbye? The very thought of this makes Billi break down. Tears st down her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "You can go later. If you go right now you’ll give it away. You can’t help it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi stares out the window, past her own reflection, her grief apparent. Her laundry bag sits beside her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lit candles on a birthday cake. Everyone sings ‘happy birthday’ for their friend TONY. Billi’s mind is clearly elsewhere, even as she sings along. Her mother’s right - she’s no good at hiding her emotions \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An ELDERLY CHINESE WOMAN waits for her train across the tracks on the opposite platform. As Billi watches her, sh fights back emotions. As the train arrives, we see Billi’s grief transform into determination. She knows she must go. As the train whisks the elderly woman away...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A sea of Chinese faces. The ceiling is low, the floors ar glossy white marble. It takes a few moments before we spo Billi in the crowd. CHINESE VOICES echo around her. Billi gets shoved into a stranger. As a reflex, Billi say ‘I’m sorry’ in English. The stranger responds with a flur of Chinese. Billi reacts, trying to orient herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A group of TAXI HUSTLERS target Billi, invading her perso space. They inundate her with questions: “Do you need a taxi?” “Where are you going?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi stares out the window. Construction cranes dot the skyline, wide streets interrupted by the skeletal frames unfinished buildings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The DRIVER honks repeatedly as he pulls down a narrow all Pedestrians and rickshaw peddlers make way for the car to pass. EXT. NAI NAI’S APARTMENT - DAY The taxi pulls up to a complex of PEACH BUILDINGS. Billi gets out. She stares up at the looming building, no sure she’s prepared for the challenge she’s about to face",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi climbs the stairs. The narrow staircase is dimly li a single bulb. She KNOCKS. We immediately hear barking. A Billi waits, the automatic light goes off, leaving her in dark for a few brief moments. \f17. Mr. Li opens the door, letting out a shaft of cold fluorescent light from inside the apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. LI",
+          "text": "[Who's that?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(Mr. Li? It’s me, Billi.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. LI",
+          "text": "[Who? ] Mr. Li shouts his words, as one does when they’re losing their hearing, and perhaps even their mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Billi!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. LI",
+          "text": "(Billi? What are you doing here? Come in, come in!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(peering inside) [Nai Nai?] INT. NAI NAI’S APARTMENT, LIVING ROOM - CONTINUOUS As Billi moves into the living room, everyone reacts. Nai Nai, Haiyan, Jian. There’s also UNCLE HAIBIN (early 60's), distinguished gre with black-rimmed glasses. AUNTIE LING (60), quiet but shrewd. The pimple-faced and sheepish cousin is HAO HAO (early 20 ‘on the brink of tears’ is his eternal state of being. AI is his sweet but confused Japanese bride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Billi? Oh my god, Billi’s here! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Why'd you come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[What are you doing here? We all thought you weren’t coming! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "How'd you get here? They talk AT her, all at once. Nai Nai is the only one wh seems pleased by this surprise. In fact, she’s overjoyed. \f18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Billi! Billi! What are you doing here you stupid child?] Nai Nai approaches Billi, analyzing her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Let me look at you. Oh you’re not that skinny! Your Mom said you got skinny, but you’re not that skinny! ] Nai Nai embraces Billi. Billi’s throat swells shut. Her m quivers as tears flood to her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Oh my granddaughter! Why didn’t you tell me you were coming? I've been trying to call you all week! ] A deer in headlights, Billi doesn’t speak, as if the secr would spill out if she opened her mouth. Family members observe her carefully, exchanging looks of concern. Nai Nai kisses her all over her face. Billi fights for control of her emotions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Your mother said you were too busy to come! ] Billi opens her mouth and still, nothing comes out. Anticipation lingers in the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[What’s wrong with you? Why aren't you talking? ] Billi looks at her family, then back at Nai Nai. She swal hard. After a few long beats -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I missed you.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Sure, but your work comes first. You shouldn’t have come if you're so busy. How’d you get here? Did you fly?] Billi musters a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(No, I swam...] \f19. Nai Nai laughs and slaps her on the butt. The tension beg to subside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "You should’ve called. Nai Nai pats Billi's butt as they all head back to the co",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Silly child. This butt. This butt never changes! I’ve always loved this little round butt. Come sit!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A meat pie fries in the pan. Jian is at the stove as MRS. (40's) chops veggies and Little Nai Nai kneads dough. Billi peers in and hugs Little Nai Nai.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Little Nai Nai...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "Billi! You must be starving. I'm making your favorite - meat pies! It's your favorite, right? I remember it's your favorite. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Looks great...] As Mrs. Gao crosses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "Billi, this is Mrs. Gao.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. GAO",
+          "text": "You’re the granddaughter! You came home too! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "Last time you were here, we still had Ms. Jin, right?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Ms. Jin? I remember Mrs. Ma?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "Mrs. Ma was four maids ago! Has it been that long since you’ve been back? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi turns her attention to Jian, who stands over a fryi pan, giving her the cold shoulder. Billi bear hugs her mo from behind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Stop fooling around! The oil's hot!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Don’t be mad, Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "How you buy ticket here? Credit card, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Don’t worry. It's all fine, Mom. Look at my face. Look. Billi gives her the widest possible smile. Jian stifles a chuckle, too proud to give in. She feigns stoicism and sh a plate of meat pies into Billi's hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Go put these on the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The family eats, making small talk about the food. Billi scans the table, watching everyone devour meat pies. Nai Nai beams at the sight of the entire family around th table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s been far too long since we've all been united like this.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "[What's it been? 20 years?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Haiyan left China 25 years ago. And you guys left for Japan soon after. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[That's a long time. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Time flies...] Mrs. Gao comes out with a plate of piping hot meat pies. \f21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. GAO",
+          "text": "[These are hot. Eat these fresh ones! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Look at these two wonderful grandchildren of mine! ] Nai Nai playfully touches Billi and Hao Hao.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[You see... my granddaughter is very strong. Independent. Not someone who just follows everyone else. ] Billi swallows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Hao Hao was always a sensitive child, but look at him now. All grown up and getting married! I've been looking forward to this day for a long time. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "[Too bad neither of them speak Chinese very well! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Hao Hao’s Chinese is fine. He’s just being shy. Hao Hao, talk to Nai Nai in Chinese! ] Everyone stares at Hao Hao. He reluctantly obeys, speakin slowly in his broken Chinese.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAO HAO",
+          "text": "[Nai Nai... We don’t need a big wedding banquet. We just came to spend time with you. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Don’t be ridiculous! You guys came back home to get married. We must have a proper wedding banquet. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "[Let’s just keep it small. We don’t need to go overboard. ] \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Stop it! Everything’s already booked and I sent out invitations last week! My only grandson's getting married, we can’t look cheap! J] Little Nai Nai picks at her food. Everyone turns their fo to the food, chewing intently. Hao Hao is, quite reliably the brink of tears. Nai Nai suddenly notices Billi’s untouched meat pie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "(accusatory) [Why aren't you eating?] Billi stares down at her plate, unable to work up an appetite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(I’m not hungry. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[How can you not be hungry? You've been traveling for 24 hours. Eat, eat. ] Nai Nai picks up the meat pie and feeds it to Billi. Alwa child in her grandmother’s eyes, Billi takes a reluctant bite.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi closes the door. She lets out a breath as she sits the toilet - a moment of refuge. On the wall in front of her is a poster of a chubby, over cheerful baby. Underneath, in Chinese, it reads: They all say I'm adorable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Passing Nai Nai’s bedroom, Billi notices details of her simple life: the neatly-made bed, framed photos of Billi surround the room. In the next bedroom, Mr. Li shuffles around loudly in his slippers. He hacks up a loogie. INT. NAI NAI’S APARTMENT, DINING TABLE - NIGHT Billi returns to the table in a daze. Nai Nai turns to lo at her with concern. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "What’s wrong? ] The threat of being exposed lingers in the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I’m fine. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "It's probably the jet-lag. Come, I’1ll take you to the hotel. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Hotel? Why can't I stay here? I always stay here. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "With so many people visiting, it's easier if everyone stays at a hotel. It’s very close.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Don't worry, it's an excellent hotel. It’s brand new. ] Billi swallows her disappointment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "Go get some rest. We have a lot to do the next couple days before the wedding. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The family’s eyes linger on her, menacing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi and Uncle Haibin walk side by side in awkward silen They pass street vendors wrapped in smoke and incandescen lighting, selling meat skewers off their grills.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Nai Nai is very sick, you know?] He speaks in an eerily calm, matter-of-fact tone. Not sur the question is rhetorical, Billi answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I know. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Nai Nai herself doesn't know. We're not going to tell her.] \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I know. Dad told me. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(not listening) [She doesn't have long left. We got several opinions already. I also spoke to a doctor in Japan. A cancer specialist. ] Billi stares straight ahead, unengaged. This doesn’t dete Uncle Haibin. UNCLE HAIBIN (CONT’D) I got her some medicine. It was expensive. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(hopeful) From the Japanese doctor? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(matter-of-factly) From the internet. ] Billi is at a loss for words. More awkward silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "Nai Nai... she loves you so much, you know? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I know. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "You and Hao Hao spent every summer with her and grandpa until you moved to the US. But you were very little then, so you probably don’t remember. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I remember. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[She doesn’t know. So you have to be very careful not to tell her.] It feels like he’s testing her. Billi’s patience wears th She raises her voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I know! Dad already told me! ] \f25. Like a broken record, Uncle Haibin’s tone remains consist",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "e oesn now a ing. She d 'tk thing Billi relinquishes with a sigh. As they continue on, thei repetitious dialogue falls into pace with their walking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I know. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[We’re not planning on telling her. J",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I know. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[No matter how sad you feel, you cannot say anything. ] Billi stares ahead as they head into a brightly lit commercial district.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I know. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi and Uncle Haibin stand across from MICHAEL (late 20 the hotel manager.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(What do you mean the elevator broke? Isn't this a newly opened hotel? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "[We're working on it. Come come, I'll carry this. ] A group of lively BUSINESSMEN and MISTRESSES walk in. Bil studies them - clearly in the hotel for a different reaso",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BUSINESSMAN",
+          "text": "[We want the same room as last time. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(I'll check for you. ] Michael finds their key for them. \fBilli nods 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(to Billi) [You're OK, right? I'm gonna head back. Get some sleep. ] and he leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi follows Michael upstairs. Several flights later, sh stops to catch her breath. This makes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Are we almost there? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Almost there! It's not much higher. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Are you visiting from abroad? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Yes. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "From where? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "America. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "America? You don't look American. ] Billi pause, but she’s used to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "What are you here for?] Billi debates which answer to give him. She decides on th lie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "A wedding. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(beat) Who’s getting married? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "My...] cousin. (remembers the Chinese) ‘Tang di.’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "[Oh your cousin. He’s also from America? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[No, they live in Japan. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael lets Billi into her room. INT. HOTEL BEST, BILLI’S ROOM - NIGHT Billi surveys the room as Michael drops off her bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(Japan?! What are they doing in Japan? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I don’t know. My uncle’s an artist. He paints. ] The odd-patterned carpet, the strange paintings, the wallpaper - it all clashes, yet somehow, it works.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "And what does your father do in America? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "He’s a translator, do you have water? For drinking? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "You can use the boiler. ] Michael points to an ELECTRIC BOILER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "So tell me, what’s better? China or America? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Uh... they’re different. ] Billi tries to usher him towards the door, but he continu to linger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What do you mean different? It must be much nicer over there. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[It’s just... I don’t know, different. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "[But you’re probably more used to America, right?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "{I guess...] She continues to inch him out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "[Well let me know if you need anything else. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(K thanks. Bye. ] INT. HOTEL BEST, BILLI’S ROOM - LATER Billi fills the boiler. She sits on the edge of the bed, literally waiting for the water to boil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (0.S.)",
+          "text": "(prelap)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HA",
+          "text": "EXT. NAI NAI’S APARTMENT —- MORNING Nai Nai swings her arms, hitting herself all over her bod Her face beams, her eyes sparkle. She’s full of life and Billi seems like a drag in comparison.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Come Billi! Do it with me! It’s good for you!] Billi does a weak imitation of Nai Nai’s exercise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "(No, stronger. HA! It clears out all the bad toxins. Then you inhale, take in lots of fresh oxygen. HA! You do it. You also have to slap yourself to get the circulation going. (demonstrates slapping) Slap your arms. Slap your legs. Slap your back like this... Try it!] \f29. Humoring her grandmother, Billi obeys her orders and laug at herself. For a moment, she forgets the circumstances o her visit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Good! Bigger! From your gut. ] For a moment, they revel in the joy of slapping and shout INT. NAI NAI’S APARTMENT, STAIRWELL - MORNING Nai Nai’s knuckles turn white from her grip on the railin pulling herself up one step at a time. It pains Billi to see this. She tries to help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’m alright, I got it. I come down by myself every morning. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Doesn’t that hurt your legs?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Even so, I have to come down to exercise. It’s the reason I’m so healthy. Even at my age!] Billi swallows, unable to contradict her. INT. NAI NAI’S APARTMENT, DINING TABLE —- MORNING Billi and Mrs. Gao set out Chinese breakfast foods. The door bell rings and Chen YuPing (40's) waltzes in. (W refer to her as GU GU, which is Chinese for Aunt). She ha the hip confident style of someone much younger and exude attitude of success.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "(Billi! I heard you came! ] Gu Gu's son LITTLE BAO (8) trails in behind her, playing his iPhone. Bao is what the Chinese call a little emperor pampered and well-fed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU, (CONT'D)",
+          "text": "[You remember Bao, right? Bao! Say hi to the big sister! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Little Bao, you've gotten so big!] \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAO",
+          "text": "(barks ) It's not Little Bao! I’m just called Bao! ] Nai Nai calls everyone to attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Alright, alright hurry up and eat breakfast! We have a big day ahead! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "Have you taken your pills?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "I'll take them later. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "You have to remember to take them every day, or there's no point! Where are they?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Next to my bed. Come you guys! Eat before the food gets cold!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "Ma, you sit!] As everyone finally takes their seat -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "OK, listen to me all of you. I know everyone's excited to see me, but let's not forget why we're all here. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Furtive glances around the table. Nai Nai gestures to Hao and Aiko.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[The wedding is the big event.] As if they really had forgotten, they all nod a little to enthusiastically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(mutters unconvincingly) [Yes... that's right. The wedding is the big event.] \f31. INT. NAI NAI’S APARTMENT, KITCHEN - MOMENTS LATER As Jian helps Mrs. Gao clean up, Nai Nai sidles up to her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Jian, something's off about Haiyan on this trip. Have you noticed? His face is all puffy and discolored. He seems very unhappy. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[He's fine, Ma.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[He just looks so tired. Is he still drinking? You can’t let him drink. Alcohol can ruin a person. I know so many men around here who have drank themselves to death. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[He barely drinks at home anymore. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Is everything OK between you two?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[Everything's fine. We're fine.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I know you guys have had your issues in the past...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(defensive) [It's got nothing to do with us. We're doing great! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You shouldn't have him work so much. It’s too much pressure for one person to support your entire family...] Was that a jab at her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[I told him to close the office and retire, but he refuses! He feels useless at home if he has nothing to do. He loves being surrounded by people who need him - clients always coming to him... (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "oh Mr. Wang, help me with this, help me with that. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(nods ) [Well it’s also good to have something to do. Being idle can be bad for your health. He just doesn’t know how to take care of himself. You have to think about him more. Give him lots of medicine. Let’s put it this way - if he’s not well, you can’t live well either. Right?] INT. NAI NAI’S APARTMENT, DINING TABLE - MORNING As Nai Nai rejoins the table, she clocks Haiyan again. Something’s definitely not right. Uncle hands her a couple pills. Nai Nai clocks Billi’s concerned look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[They're just vitamins. Your uncle bought them from Japan. He says they’re expensive so they must be good. Japanese people know how to take care of themselves! ] Mr. Li gets up from the table silently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "[Uncle Li, you’re done eating?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Don’t mind him. That’s how he is! He eats and leaves. He doesn’t care about anything that doesn’t concern him! ] Mr. Li is immune to Nai Nai’s insults. Nai Nai tries to s food. Everyone yells: Sit down! Serve yourself! Hurry up eat!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "(I want to talk to you all about something. If anyone asks, none of you are to say that Hao Hao and his bride have only been dating three months. ] \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "[Ma, I already told you, Aiko's not pregnant. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Doesn’t matter! You know how people think! I don’t want everybody talking behind our backs. If anyone asks, just say they’ve been dating 6 months. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(sarcastic) [Why not just say a year then?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Good idea. A year sounds better. The wedding banquet is in three days. We have so much to do. I need someone to come see the banquet hall with me.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I‘ll go.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "You don’t need to come. You won’t be much help anyway. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Ma, I can come. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "No you need to rest! Look at your face - it’s not right!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIBIN",
+          "text": "Why don’t you stay home and rest, Ma? I‘ll go check on the banquet hall. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "You don’t even know who to talk to! I have to go myself. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What can I do, Nai Nai?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Nothing. You don’t look great either, must still be the jet lag.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[What if I take them to the massage parlor? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[That’s a great idea! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Nai Nai I want to come with you.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(No, you guys go relax. You better not get sick before the wedding! ] Nai Nai piles more food on Billi's plate, then shoves a doughy cruller in her own mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nai Nai and Uncle Haibin stand across from the WEDDING COORDINATOR in an empty banquet hall. Nai Nai is visibly upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s not right! I ordered meal set one! When I booked the wedding, you guys told me meal set one would come with lobster. That’s what you said. Now you act like you don’t know anything about it?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WEDDING COORDINATOR",
+          "text": "[I really don’t know anything about that. I was told it’s crab, but I can check with the chef. (screams ) Little Ping! Little Ping!] LITTLE PING, a young cook dressed in a tall chef’s hat wa from a nap at a nearby table. WEDDING COORDINATOR (CONT’D) [Go get the chef! ] Little Ping drags himself into the kitchen. WEDDING COORDINATOR (CONT’D) (Why don’t you look at the alcohol options in the meantime. We have baijiu, red wine, white wine, beer...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[We also have champagne. ] \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(Champagne? What champagne? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Your brother brought it! He didn’t tell you? He got several cases! It’s from France. Looks very nice and expensive! ] Something about this rubs Uncle Haibin the wrong way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(frowning) [Chinese people aren’t accustomed to drinking champagne! Get the baijiu.] The BANQUET CHEF approaches -—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WEDDING COORDINATOR",
+          "text": "(Chef, Mrs. Zhao says she was told that meal set one would include lobster, not crab. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANQUET CHEF",
+          "text": "[It’s crab, not lobster. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[What kind of scam is this? It’s three days before the wedding, we already paid a deposit and you make this kind of a change without telling us!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BANQUET CHEF",
+          "text": "[I don’t know anything about that. I was told we're serving crab. ] Agitated, Nai Nai coughs and collapses onto a chair. Uncl Haibin rushes to her side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(Ma! Don’t get all worked up, crab is great! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’m fine. I just need to rest a moment . ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Numb with anguish, Billi and Haiyan sit waiting, dressed oversized spa pajamas. \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "So what's going on with the fellowship?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "You still haven't heard anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "When are they going to let you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(irritated) I don’t know Dad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "How’s your money? Can you afford this trip? Do you need help?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I’m fine. Before Billi can continue, Gu Gu approaches, also in paja She's accompanied by a MASSAGE PARLOR RECEPTIONIST.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[All set, let’s go.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi, Gu Gu and Haiyan walk down the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Sis, you’re too generous. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[You’re family. It’s so rare for you guys to come home. Let’s just all relax so we can be happy in front of Nai Nai.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MASSAGE PARLOR RECEPTIONIST",
+          "text": "[What kind of treatment would you like, ‘mei nu’?] Gu Gu clocks Billi’s confusion. \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[She’s from America. Her Chinese isn’t great. Just give her the full body massage. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MASSAGE PARLOR RECEPTIONIST",
+          "text": "[Cupping too?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[The whole package. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MASSAGE PARLOR RECEPTIONIST",
+          "text": "[You want the same thing, ‘mei nu’?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[I don’t need cupping. ] Gu Gu speaks too fast for Billi to understand. She turns her father for a translation -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What’s ‘mei nu’?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "It means ‘beauty’.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Always beauty, beauty. They call everyone that in China these days. Old or young, beautiful or ugly, everyone’s a beauty! It’s so stupid. ] The MASSAGE PARLOR RECEPTIONIST turns to Haiyan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MASSAGE PARLOR RECEPTIONIST",
+          "text": "[Sir, what about you?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(jokes ) [Oh you can call me beauty. I don’t mind. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MASSAGE PARLOR RECEPTIONIST",
+          "text": "(doesn’t crack a smile) [I meant what kind of treatment would you like, sir? May I recommend our bath and massage package? The tub is filled with herbs and you can soak in it.] Gu Gu and Billi watch Haiyan. He's indecisive. \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(to Gu Gu) [What do you think?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Why are you asking me? It's your massage! Do you want to soak in a tub? ] Haiyan contemplates this carefully, as if the right treat might cure his grief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Can you show me the tub?] The receptionist leads Haiyan down the corridor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi paces anxiously. Gu Gu clocks this and tries to che her up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "(teasing) Hey Billi. Do you know why they separated your Dad from us?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Why? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "You really don’t know? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What? }",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "(smirks ) \"Hit the airplane'.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Hit the airplane? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "You don't know this phrase? You're not married yet. I shouldn’t tell you this stuff.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What’s it mean?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gu Gu covertly demonstrates a jerking-off motion, gigglin \f39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[You know, it shoots so high he could hit an airplane! ] Despite herself, Billi laughs. Haiyan appears at the door",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[The bath looks nice. I think I'll do that.] Billi and Gu Gu burst out laughing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "(confused) What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lying on her stomach, Billi stares down at the masseuse's feet in nylon stockings inside white pumps. She cringes a the masseuse lights a cup on fire and places it on her ba",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[It hurts! Gu Gu, you said it was a massage. ] BILLI’S MASSEUSE [A little pain is normal. Otherwise it doesn’t work. Just relax. ] Billi turns to Gu Gu, who’s absorbed in her cell phone wh getting a foot massage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Gu Gu... Don’t you think we should tell Nai Nai?] Gu Gu’s attention stays on her phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Tell her? What for?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[What if she has things she wants to take care of?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "(matter-of-factly) [She doesn’t have anything like that... Ow!] Gu Gu yanks her foot back from the masseuse. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU, (CONT'D)",
+          "text": "(That hurt, what was that?] GU GU’S MASSEUSE [That’s your stress point. Have you been anxious lately? You must try to relax. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[But... what if she wants to say goodbye? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Say goodbye? That’s so painful! What’s the point of that?] Billi winces with pain, her entire back covered with cups Gu seems very pragmatic and matter-of-fact.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU, (CONT'D)",
+          "text": "[You see her for yourself. She seems fine, right? Just like a normal person...] Billi realizes this is valid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU, (CONT'D)",
+          "text": "[If you tell her, you’1l ruin her good mood. ] Billi considers this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aiko and Hao Hao pose in front of a backdrop, dressed in elaborate wedding attire. They're as stiff as the plastic bride and groom toppers on a cake. A PHOTOGRAPHER adjusts the couple's positions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHOTOGRAPHER",
+          "text": "[Get a little closer. Even closer. ] The cake toppers don’t know where to put their hands. It’ all very forced and awkward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Get closer! What's wrong with this girl? Can't you look like a normal couple in love?] Nai Nai instructs Aiko sternly in Chinese. (Aiko doesn’t understand Chinese). \f4l.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Put your head on his shoulder. Put your hand around her. And smile! ] Aiko looks to Hao Hao for a translation, but he’s too bus figuring out how to smile. Nai Nai directs her disapprovi look to Billi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[That girl is so unaffectionate. Nothing like our family. I have to yell at her just to hug him or put her cheek against his! Makes me wonder what they do in the bedroom when I'm not there! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[She seems really sweet, Nai Nai.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I don’t like her. She’s dumb. She doesn’t understand anything! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[She doesn’t understand, because she doesn’t speak Chinese...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[No, it’s because she’s dumb. ] On cue, something on set falls, making Aiko trip. Everyon reacts. Against the chaos of the photo shoot, Nai Nai calmly shif her attention to her granddaughter. Billi is clearly the better bride in her eyes - if only she’d find someone to marry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Look at you. Smart. Beautiful. You should have someone take care of you. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I take care of myself, Nai Nai.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The conversation is seamless, but in the background, the bride and groom pose against a different backdrop. \f42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[You’re still young. But as you get older, it’s good for you to have someone to take care of you.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Does Mr. Li take care of you?] Nai Nai looks away. She takes a beat before answering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s also good to be independent. A woman needs to be self- sufficient. ] The woman’s got a response to everything. Billi laughs as Nai presses her cheek against Billi’s. Meanwhile, on set, Aiko stumbles in her impossibly high h and Auntie Ling rushes to her assistance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Stupid child. You are too lovable. I’ll never forget when your parents brought you to my house the summer before you turned two. You were so small, so skinny. You had that horrible nanny who stole your eggs and she’d take you all over the city and only feed you popsicles. Do you remember this?] Billi shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Why did she steal my eggs?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Eggs were rationed back then. Your parents saved theirs so you could have at least one a day.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi considers this sacrifice, internalizing the complic mix of love and guilt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You poor thing, I felt so bad for you. You had terrible digestion, from too much dampness trapped inside, so you’d have diarrhea all the time, everywhere... all over the floor. ] \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I’m sorry I pooped on your floor. ] And she does seem sorry. Behind her, the young couple hol flutes of fake champagne for a photo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It wasn’t your fault! I told your mother to leave you with me so I could fix you. Spending that year with me, you became fatter, the color returned to your cheeks. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[You fixed me! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You were just a happy child. Everyone loved you. You were so open, always smiling. My child, there’s been so much going on this trip, we haven’t been able to talk much. ] On cue again, a LOST BRIDE waddles onto set from a back d Suddenly, there are two brides against the backdrop, caus momentary confusion. The BRIDE HANDLER immediately pulls back out, apologizing. Nai Nai is unfazed by all this, her attention fixed on Bi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[This event is very important. There will be a lot of relatives and friends who haven’t seen you since you were little. I know you have a lot on your mind, but you must still be generous in spirit. Be courteous! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nai Nai takes Billi's hand as they walk through a Garden Eden setting. They walk past fake tropical trees and a ra peacock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[When you see people, you should loudly say 'hello auntie! Hello uncle!' Don't be 'nio nio ne ne'.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "['Nio nio ne ne?’]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You don't know ‘nio nio ne ne’? You know... like this...] Nai Nai demonstrates the phrase comically. Billi chuckles",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[That's 'nio nio ne ne'. Very selfish, closed off. Nobody likes that kind of person. Promise me. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "OK...[I promise. ] Nai Nai affectionately pats her butt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[When you get married, I'll throw you an even bigger wedding banquet! ] We stay on Billi’s face as this lands on her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The entire family gathers around a large round table cove with food. There are a few new family members including G (Gu Gu’s husband) and two cousins - SUN AO (early 40’s) a his wife NICO. Gu Gu pours beer for everyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Come, let’s toast. Welcome home, welcome home! How rare it is for us all to be together. Just look at your mother’s face...] Everyone raises their glass and drinks. Sun Ao gleefully refills for everyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Sis, thank you for everything...] Gu Fu dismisses him playfully with a wave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU FU",
+          "text": "[We're all one family. No need to talk about thanks. Come on, let’s all drink. ] \f45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUN AO",
+          "text": "[Let’s see who can handle their alcohol better, Americans or Chinese! ] Uncle Haibin lights up a cigarette. As he offers one to Haiyan, Billi intercepts -—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[My dad quit.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Really?] Uncle Haibin looks at Haiyan in disbelief and Haiyan avoi eye contact.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "(to Billi) [I don’t think so. I think he just told you that. ] Sun Ao sees that Nai Nai didn’t finish her beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUN AO",
+          "text": "(Auntie, don’t think you're excused! You also have to gan bei! ] Nai Nai laughs, and nods. She makes a show of emptying he glass. Her family cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NICO",
+          "text": "[Hey Billi, you ever think about moving back to China? A lot of foreigners are moving here to make money now! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[How long would it take to make a million dollars in America? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(Um... a long time. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Really? It’s very easy in China. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Money is not the most important. There are lots of things that money can’t buy.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "[Look at my granddaughter! She’s so wise! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[But if you get rich, first you buy the things money CAN buy. Then you can also enjoy the free stuff money can't buy!] Jian is triggered by this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[YuPing, if you can get rich in China, then why are you planning to send Bao to America for college?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[For more opportunity...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[What kind of opportunity? Money- making opportunity? After studying in America, maybe Bao also won't care about money. Just like Billi. She's got different values. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Mom, can you not talk about me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "(trying to make peace) [You guys don’t have to worry. When she becomes a big famous writer, she can make big money. You're investing in her talent! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[So raising a kid is like playing the stock market? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(to Dad) What’s that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "They're saying you’re a stock investment and you'll make us rich.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "But I can’t expect that from you, right? You're a losing stock. Jian smiles at her own joke, but Billi isn’t amused. 46. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[These American kids are only concerned with their own dreams. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUN AO",
+          "text": "[Nowadays, Chinese kids are that way too!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[But in America, they actually have the freedom to pursue their dreams. Doesn’t matter if you’re rich or poor, everyone has the same opportunities. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "You're kidding right? You think everyone in America has equal opportunity?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[You know, the first year we moved to America, our friend Henry introduced us to an American church. The first time we went, we were really nervous, didn’t understand anything. After the service, we walked past the piano and Billi stood in front of it, staring. She reached her hand out and Haiyan stopped her. The pastor came over to introduce herself. Haiyan explained to the pastor that Billi used to study piano in China. She stopped after we moved and really missed it. We couldn't afford it. The pastor didn’t say anything, but came back moments later and handed me a key. She said, “This key opens every door on this property. Come anytime and Billi can play the piano.”]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Really? They really did that?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[I didn’t speak English so I thought I misunderstood and Haiyan translated for me. I almost started crying. ] \f48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[They even got her a piano teacher for free. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Look at that. That would never happen in China. America really is different, huh?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NICO",
+          "text": "[But China has China’s benefits! We're not totally useless. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[Yea, the roast duck is still delicious! ] Jian’s the only one laughing at her own joke again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Mom. That one church is not representative of all of America. We have so many problems - healthcare, guns, public education...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(suddenly defensive) If you think China’s better, then why don’t you move here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[That’s enough. You listen to me! You can't go around criticizing your motherland. Don't any of you forget that you're still Chinese! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(jokingly) [Well, technically, we're American. ] The Chinese family all glare at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "(nervous smile) [I just mean that we're American citizens now. We hold American passports. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[That’s just a piece of paper. The blood in your veins is still Chinese! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[I'll always be Chinese. No matter where I live or what passport I hold. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[You all think the moon outside of China is rounder, but do you ever think about your mother? Having to grow old without her kids around. ] Haiyan and Haibin both grow quiet with guilt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "OK OK, enough! Everyone’s home, let's talk about happy things! ] Jian’s got a bone to pick and she just won’t let it go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "But YuPing, you say you still plan on sending Bao out of the country for college? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "He won’t stay there. He’ll come back. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "You can’t guarantee that. ] Gu Gu knows that Jian’s right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "But even with the risk that he won't return, you’d still send him out, right?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gu Gu swallows. The table is silent as everyone chews intently. Food is always there to fill the awkward spaces Sun Ao tries to change the subject.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUN AO",
+          "text": "[So um... how’s your piano Billi?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I don’t play anymore. ] What little air remains in the room is sucked out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long hallway. The entire family marches back to their rooms, one after another. Billi lags behind. \f50. Smoke lingers out of an open door in the hallway and she peers inside. A group of drunk middle-aged men smoke arou mahjong table, a few of them shirtless. Billi watches the women around them. One SEXY WOMAN catch Billi’s gaze. Their eyes lock, each caught by the other i their performative act. INT. NAI NAI’S APARTMENT —- NIGHT Little Nai Nai, Mr. Li and Nai Nai walk through the front door. Nai Nai is coughing. Mrs. Gao attends to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Go home, I’m fine. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[You’re coughing a lot.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s probably the flu. I’1l be fine. Don’t mention it to anyone, I don’t want them to worry. ] Little Nai Nai nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Go on. Go upstairs. I’m fine. ] Little Nai Nai grapples quietly with the consequences of lie. With no other choice, she leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi takes her shirt off and examines her back in the mirror. It's covered with large round purple welts from t \"ba guan\" (cupping). INT. HOTEL BEST, BILLI’S ROOM - MORNING Billi wakes to voices echoing through the hallway. She op her eyes to find a SMALL HOUSE BIRD on the windowsill. It looks just like the one that got stuck in her apartment. Her eyes meet the bird’s. What does it mean? Shouting continues in the hallway and she gets up to investigate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As Billi steps out of her room, Uncle Haibin rushes past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(Hurry up, I’ll meet you downstairs! ] \f51. Billi turns to see Haiyan getting dressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Do you know how to get there?] Uncle Haibin holds his cell phone as Little Nai Nai’s voi shouts through the speakerphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[It’s building 8!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[OK auntie, I'll figure it out. Just get over there and we’ll meet you! ] Billi looks back and forth, caught in the middle of this crossfire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[What’s going on?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Nai Nai went to the hospital. ] Hao Hao steps out of his room, still half asleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What happened?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "I don’t know. Billi’s heart sinks as she and Hao Hao lock eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi, Hao Hao, Haiyan and Uncle Haibin are lost as they frantically try to orient themselves. INT. THE PEOPLE’S HOSPITAL, EXAM ROOM - MORNING Nai Nai sits on the exam table with Mrs. Gao by her side. Billi, Haiyan, Hao Hao and Uncle Haibin rush in, Nai Nai scrunches her face in annoyance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Why did you all come?] She turns to Little Nai Nai. \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[You told them? I told you not to say anything! You didn’t need to come! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[You come to the hospital by yourself while your sons are all here! If something happened and I didn’t tell them, they’d blame me!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I didn’t come alone. Mrs. Gao brought me! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Ma, you can’t just disappear without telling any of us!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[I’1l go see where the doctor is...] As Little Nai Nai opens the door to leave, a group of doc rush past with a stretcher, another reminder of what’s ar the corner. Nai Nai clocks the fear in Billi’s eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’m fine! I just came to pick up some medicine. It’s not a big deal! ] Billi takes a seat beside Nai Nai. She takes her hand as rest of the family looks on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[What medicine? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I have this lingering cough from the last time I had a cold. I just wanted to see if there’s better antibiotics to help me heal faster. ] Billi grasps Nai Nai’s hand, brings it to her face. She t in the scent of her grandmother's skin, the feel of it on face. She kisses Nai Nai’s hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[I’m fine my child. ] \f53. The words sit on the tip of Billi’s tongue. She knows she needs to tell her the truth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[You’re not. Nai Nai...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You don’t need to worry about me. Anyway, I’m 80 years old. I’ve lived a long life. I’m not scared and you don’t have to be scared for me. I just want you to be successful and have a good life and I'll be satisfied. I know you’re worried, but I’m OK. Don’t worry. I'm fine. ] Before Billi can say anything else, Little Nai Nai enters with the young handsome DOCTOR SONG.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "(Mrs. Zhao. Let’s have a look.] He’s on autopilot, going through the motions of a routine exam. Little Nai Nai holds her breath. DOCTOR SONG (CONT’D) (Breathe, breathe, cough. You have some infection...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’m already on antibiotics but it’s not working! You gave me bad medicine. You have to change it. Give me a better one so I can feel better! ] Nai Nai gestures to Hao Hao.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[This is my grandson, he’s getting married in two days!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "[Ah. Congratulations. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Everyone came back for the wedding! This is my granddaughter. She’s from America. ] Doctor Song’s eyes widen with excitement as he turns his focus to Billi. He switches to English. \f54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "Oh, you visit from America! I went to school many years in the UK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Oh. Cool. That's um...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "Where do you live?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "New York...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "I always want to visit New York City. Very beautiful city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "It is... but listen... Do you know about my grandmother's condition? Haiyan clocks what's going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Billi, don’t...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "What are you guys talking about?] Billi smiles broadly for Nai Nai'’s sake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Oh Nai Nai, he studied in England so he speaks English! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Really? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "It's true.] Nai Nai smiles at Dr. Song, clearly having her own agenda",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Doctor Song, let me ask you. Are you married? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "(blushes ) Not yet.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[So handsome. A doctor. And you speak English. Not married? Impossible! ] Billi switches back to English. Nai Nai watches them, clueless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "How bad is she? Tell me the truth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "The cancer is quite advanced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Don’t you think you should tell her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "It’s complicated. In her situation, most families in China wouldn't tell her. When my grandmother had cancer, my family also didn’t tell her. Billi registers this with surprise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Don’t you think it’s wrong to lie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "It’s not really a lie if it’s meant for good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "It’s still a lie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "It’s a good lie. Billi doesn’t understand the idea of his good lie. Good f what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "And how’s your grandmother?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "She passed away. A few months after she was diagnosed. This affects Billi, but Haiyan also registers this. \f56. DOCTOR SONG (CONT’D) (to Nai Nai) [Mrs. Zhao, you had pneumonia a few months ago so I’m thinking this could be some residual infection in your lungs from that. We should do an X-ray to make sure the infection isn’t spreading. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[That’s not necessary! I just came in to change my medicine. Can’t you just give me a better brand of antibiotics? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR SONG",
+          "text": "[We can change your medicine, but just as a precaution, let’s do an x- ray.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Sis, since you insisted on coming and you're already here just do the X-ray!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[You heard him, Ma. It’s just precautionary. ] Nai Nai looks to Haiyan for his opinion. He diverts his g to the ground. INT. THE PEOPLE’S HOSPITAL - DAY Nai Nai sits alone in a hospital gown awaiting her X-ray. has a coughing fit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Haiyan paces back and forth, carefully considering his wo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Maybe it’s time we tell her.] Everyone looks up, as if betrayed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "[And we make some plans... like who's going to come back to stay with her when she’s sick.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[We can make plans without telling her. J \f57. Haiyan lets out a conflicted sigh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[It’s just... in America, we would not make this kind of decision. We couldn't, really.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[It'd be...] (switches to English) Illegal. How do you say illegal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Illegal. In America, this is illegal. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN LITTLE NAI NAI",
+          "text": "[This isn’t America. ] [I recommend...it’s not time yet.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[How do you know? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[I just know. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Don’t you think she'd be furious if she found out that we all knew and were keeping it from her?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[How can she be mad when she did the same thing herself?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(What do you mean? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "(When your grandfather had cancer, your Nai Nai lied to him too. It wasn’t until he was very close to the end that she finally told him. She said, “Old timer, you have the same disease that took our prime minister.” He died three days later. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[So she did tell him. ] \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Yes, in the end she told him. She thought it'd be cruel to let him leave this world without knowing what got him. (beat) When your Nai Nai reaches that point, I’1l tell her too.] EXT. NAI NAI’S NEIGHBORHOOD - DAY The family unit makes their way back, past our familiar p buildings. INT. NAI NAI’S APARTMENT —- AFTERNOON Close on ELLEN, a chihuahua whose white hair matches that the two Nai Nai’s. She whimpers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI, (0.S.)",
+          "text": "[Sing Ellen! Sing! Sing a song for us!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Sing a song, Ellen, sing!] Under duress, Ellen begins to \"sing\" - yelping at the top her lungs. Everyone laughs. As the dog stops singing and the laughter dies down, they suddenly remember. We linger on each individual face - th smiles drop, replaced by silence filled with uncertainty fear. INT. NAI NAI’S APARTMENT, KITCHEN - NIGHT Jian, Little Nai Nai and Auntie Ling cook tirelessly, dripping with sweat. INT. NAI NAI’S APARTMENT, LIVING ROOM - CONTINUOUS Uncle Haibin pours the remainder of a beer into Haiyan’s glass. They drink compulsively, surrounded by empty bottl Hao Hao and Aiko play a game on Aiko’s iPhone. Billi is at the piano. She hits a few keys. It’s out of t clashing with the cacophony of voices behind her. Nai Nai notices her sons’ empty beers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Mr. Li, go get the Mao Tai we saved! ] \f59. Jian rushes out of the kitchen in a panic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[Ma, the wedding’s in two days and there will be a lot to drink. Maybe it’s best to save that bottle...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(What am I saving it for?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. LI",
+          "text": "[Where’s the Mao Tai again?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(In the bookshelf! ] Mr. Li goes to find the bottle. The sound of Billi’s pian continues to escalate, forcing Jian and Nai Nai to raise their voices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[You know these two sons of yours. Once they start, they can’t stop. The doctor says Haiyan’s already got a fatty liver!] Mr. Li brings out the bottle and pours for Haiyan and Unc Haibin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s rare for them both to come home. If they want to drink, let them drink! We’re celebrating! ] Suddenly, Billi breaks into a full impassioned piano piec (perhaps Liszt or Prokofiev). Everyone stops what they’re doing to watch, a little surprised. Billi’s fingers fly furiously. Expressing through music w she can’t express in life, Billi’s eyes flicker with rage As Billi finishes, everyone is stunned silent. To mask th awkwardness, Little Nai Nai claps enthusiastically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Good! Oh my god, too good! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Play another one. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[But play something happier...] Billi sits at the keys, raw with emotion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "60.",
+          "text": "The men stagger back to their rooms with the help of thei wives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[I told you not to drink, you had to drink! Your mother’s always telling me to take care of you, but if she’s giving you booze she doesn’t worry about your health? Every time you drink you get drunk! J",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Mom, leave him alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(Who drank too much? I’m not drunk! My mom gave it to me. I drink with my Ma... I drink for my Ma...] INT. HOTEL BEST, JIAN & HAIYAN’S ROOM - NIGHT Billi watches as Jian removes Haiyan’s jacket in bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Grab me the water. Over there. Billi grabs the bottle. Jian brings the bottle to Haiyan’ mouth, forcing him to drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "Come. Help me remove his shoes. Billi and Jian undress Haiyan as he groans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Nai Nai shouldn't be organizing this wedding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "She enjoy it, so just let her do it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "She's sick. She should be resting or in the hospital, not stressing about a fake wedding!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "You don’t know your grandma as well as you think you do. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "Don’t you know, she loves to boss everyone around! Make her feel important and in control.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Mom...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "It’s true! That’s why she hated staying at our house in America. Because she couldn’t tell anyone what to do. She see me and nothing I do is good enough for her but in America she couldn't say anything there because it was MY house. Jian becomes increasingly aggressive with undressing Haiy stripping him down to his underwear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Stop it, Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(suddenly defensive) What? [What did I do?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I know you've always had issues with her, but you need to drop it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "I don’t have issues with her. She has issues with me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "She’s dying! Can’t you be a little more sensitive? Haiyan groans as their voices raise to a shout.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "What do you want from me? To scream and cry like you? You know, when my father died, I also sad... But I not act like you! When I went back to China for the funeral, everyone was watching me, all expecting me to fall apart! They think if I don’t cry, I don’t love my father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "No one’s asking you to cry. \f62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Death is very personal. I don’t have to cry in front of everyone to prove anything! I don’t like to put you know... all my emotions on display, like I’m in a zoo! Here they think that’s the only way to grieve. By performing for everybody. Otherwise they think you're not respectful. You know, in China... they even hire professional crier just WAAAAAH screaming crying to show oh how sad they are. It’s ridiculous! I hate that! Billi can’t look at her mother. She is at a complete loss Prelap the sound of WAILING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A funeral procession is led by a melodramatic CRIER. Noth specifically indicates whether she’s professional or amat Nearby, the Wang family (including Gu Gu and Bao) gather around YE YE’S GRAVE. The tomb bears a PHOTO OF YE YE. They quickly set out fruit, eggs, bao zi (dumplings), bam wrapped sticky rice, and other offerings. Everyone talks each other in a lively manner. Despite being in a graveyard, the setting is full of life Nai Nai hands Hao Hao a bag of food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Here, put these out. ] She hands Billi some bananas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Give Ye Ye some bananas. He loved to eat bananas. ] Haiyan opens a bottle of Chinese baijiu. He pours it over Ye’s grave, then takes a drink himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Dad, I’m toasting to you.] Aiko and Hao Hao converse in Japanese over some tangerine",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(Hurry up and set those out! ] \f63. They put them on the grave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[You have to peel them! ] Hao Hao picks the tangerines back up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Do they need to be peeled? I don't think they need to be peeled. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Yes, yes. Peel them! Otherwise Ye Ye can't eat them! ] Haiyan hands Billi the bottle of baijiu. She takes a swig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Hey, what are you doing? Pour it there! As she finishes pouring, Nai Nai hands her a bag of cooki",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Should I open these too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(No. Just set those out. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[No! You have to open everything! ] Billi tears open the plastic wrap on the cookies. Gu Gu h everyone bunches of flowers, and rips off some petals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU, (CONT'D)",
+          "text": "[You have to rip the petals off too.] She demonstrates by aggressively tearing up the flowers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Why do we have to rip the flowers? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Because of the thieves! There are people who steal offerings off your grave and put it on their own family’s! This way, they won’t steal it!] Billi is perplexed by all this, but obeys nonetheless. Ha lights a cigarette and sets it upright on the grave. \f64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Hey, don’t give him cigarettes! He already quit!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(teasing) [Ma, he never quit. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[He did! A few weeks before he passed, he quit. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[He just told you he quit, but he never quit...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(Ma... let the man smoke. He’s already dead, what else can happen? ] This makes Nai Nai laugh, and her laughter is contagious. Nai Nai takes a bite of banana, then feeds some to Billi. Jian eats an egg, Haiyan smokes a cigarette. It’s a feast",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Smoke and ash rise from a blazing fire near the grave. Bi pokes at the fire with a stick, burning fake money, a pap iPhone. Nai Nai tosses a paper “coat” into the fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Burn the coat so Ye Ye can stay warm in the winter. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The entire family is lined up in front of the grave. Ash settles gently on their hair and their clothes. Nai Nai leads them in paying their respects.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(to the grave) [Old timer, we all came to see you. Your grandson's getting married tomorrow. We came to get your blessing. ] The sun beats down. Heat rises from the cement. Billi squ through the lingering smoke. \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[We ask you to bless Hao Hao and his new bride. Bless them with happiness and bless their child with health and strength. One bow, two bows, three bows. ] As Nai Nai bows, the rest of the family follow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Old timer, you left us too soon. Why did you have to leave so early? We hope you are at peace, wherever you are. We wish you well... One bow, two bows, three bows. ] They bow again. Hao Hao wipes away some tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Bless both our sons, Haiyan and Haibin with success in their businesses. One bow, two bows, three bows. ] More bows. Sweat pours down their faces, but Nai Nai is o getting started.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "Who else? Bless Billi, and her future. That all the elements of her life will come together soon. One bow, two bows, three bows. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "Still bowing! We’re all dizzy!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(ignores her) And bless my sister. Bless her to...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "(interrupts, jokes) Bless me to win lots of money when I play Majong!] Nai Nai doesn’t crack a smile as she continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Bless your niece, YuPing and also Bao to do well on his exams. One bow, two bows, three bows. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As the embers die down, a GRAVE CLEANER approaches to swe away the ashes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The group meanders out of the cemetery, snaking through t sea of gravestones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "When the time comes, let’s just send my ashes into the ocean. No one’s ever home anyway. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "What are you talking about? I’m here! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Still, let’s just send it in the ocean. That way no one has to travel back and forth all the time. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "Send it into the ocean, what nonsense! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "You don’t agree? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "I don’t agree! We’re Chinese... Humans need to return to the earth they came from! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nai Nai lets out a dejected sigh as they continue their m back into life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They drive past a significant landmark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Hey I remember that...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[This is Nai Nai’s old neighborhood. ] Billi leans toward the window to see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "You remember that house? The one with the garden? \f67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Where? Where is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[We already passed it.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Can we go back? I want to see it!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[There’s nothing to see. Our old neighborhood is long gone. Even I don’t recognize it anymore. ] Billi stares out the window, eyes longing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They enter through the hotel’s revolving door, one after another. INT. NAI NAI’S APARTMENT, BEDROOM - NIGHT Nai Nai soaks her feet in a bucket of hot water, as Mr. L attends to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. LI",
+          "text": "[Is it hot enough?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[It’s still a little cold.] Mr. Li carefully pours hot water from a kettle into the bucket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "(OK OK, that’s enough. ] Nai Nai watches as Mr. Li shuffles away holding the kettl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "(Careful, don’t burn yourself. ] He doesn’t acknowledge her. Perhaps he didn’t even hear. Alone in her room, Nai Nai drops a certain performance of own. She is weary. She coughs. Perhaps she knows the trut Or perhaps, at 80, she just knows her time is limited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Haiyan and Haibin smoke near an open window. They are engulfed by shadows, as if in hiding. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[I think that’s something we’1l need to discuss with her. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[What’s to discuss? Of course ma has to be buried beside ba. Her relationship with Mr. Li is just one of convenience! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[But she’s still with him so I think it should be her decision. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (0.S.)",
+          "text": "Dad? Haiyan takes one last inhale before stamping out the cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "Are you smoking?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HALYAN",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "You said you quit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HALYAN",
+          "text": "I did. A plume of smoke exits his nostrils.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN, (CONT'D)",
+          "text": "I will. Uncle Haibin offers Haiyan another cigarette. Billi grabs box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Stop giving him cigarettes! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Don’t control him! He’s your father, you shouldn’t control him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Go to bed, Billi. Billi looks at the two men, sensing something’s up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What are you talking about? \f69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Are you going to tell her?] Uncle Haibin examines Haiyan carefully. Haiyan doesn’t me his gaze. He sighs in a way that tells us he’s conflicted",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[I can’t, Billi. I won’t go against my family.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Dad...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[You know Billi. You need to understand something. You guys moved to a Western country a long time ago, so you’re no longer connected to the Eastern way of looking at things. In America, you think one’s life belongs to oneself. But that’s the difference between the East and the West. In the East, your life is part of a whole. Family. Society. ] He lectures to her like she’s a child. Still, his words register.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "[You want to tell Nai Nai the truth because you feel too much responsibility carrying it. If you tell her, then you don’t have to feel guilty anymore. We’re not telling her because it is our responsibility to carry this emotional burden for her. ] INT. HOTEL BEST, HAO HAO AND AIKO’S ROOM - NIGHT Hao Hao, Auntie Ling and Jian crawl around the floor as B walks past the open door. She stops to watch them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(Billi, don’t just stand there. Come help us find Aiko’s earring. ] Billi joins the others and gets on all fours. \f70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Where did you drop it?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAO HAO",
+          "text": "[Somewhere close. ] Auntie Ling speaks to Aiko in Japanese. This is not subtitled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUNTIE LING",
+          "text": "Be careful, don’t move! Maybe it’s caught on your clothes somewhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Mom. I want to stay. To help take care of Nai Nai. Jian looks at Billi like she’s crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "You stay? For what? You can’t cook, you can’t clean. You barely speak Chinese!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I'll figure it out. Jian realizes her daughter is being serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "So... you just stay and what... wait for her to die? What about the fellowship? You’re 30 years old and you just stop your life. Stay here. And every day she has to look at you... with that sad look on your face. That’s not nice for anyone, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "So what can I do? Tell me what I should do! Because she’s all that’s left. One of the few good memories I have of my childhood were those summers in Nai Nai’s house where they had that garden and Ye Ye and I used to catch dragonflies. We moved to the States and everything was different, everyone was gone and suddenly it was just the three of us. This finally gets to Jian and she softens. \f71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "I know it was hard. It was hard for us too...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "But you chose to leave. You were adults and you understood why. I was just a kid. Nobody ever asked me what I wanted or how I felt. I just had to trust you and you told me it was a good thing to leave, but it didn’t feel like a good thing when you and Dad fought all the time because we didn’t have money and I was the weird Chinese girl in school who didn’t speak English and had no friends or anyone to talk to. I wanted to believe that it was a good thing, but all I saw was the fear in your eyes. I was confused and scared constantly because you guys never told me what was going on. Hao Hao, Aiko and Auntie Ling observe awkwardly as Billi finally lets it all go, tears streaming down her face. Hao Hao hands Billi a tissue.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "And then Ye Ye died and you guys didn’t tell me he was sick so it felt like, he just vanished suddenly. And you didn’t even let me go to his funeral!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "You were in school. We didn’t want you to miss school. We did what we thought was best for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "But I never saw him again! When I came back to China, he just wasn’t here anymore, and every time I come back, he’s just... gone. The house is gone, Adia’s gone, our Beijing home is gone, and soon she’1l be gone too. This is it. This is everything she’s been feeling. Billi out a deep sigh of relief from the catharsis. \f72. INT. HOTEL BEST, BILLI’S BEDROOM - NIGHT YE YE (60) smokes a cigarette by the window. It’s the mid of the night and Billi opens her eyes, as if stirred by h presence. Her POV of the window: Ye Ye isn’t there, but his smoke lingers like a ghost.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A row of identically-clad waiters shout a long-winded Chi welcome in unison, with wide smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A lion dancer leads the bridal party in. Nai Nai is at th head of the family, greeting guests. Billi watches as Nai Nai works the room. Nai Nai gives Bi a stern glare to remind her of her duty. Putting on her b smile, Billi calls out to relatives with forced enthusias",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Hello uncle! Hello auntie! ] Nearby, Nai Nai catches up to Little Nai Nai.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Have you picked up the test results from the hospital? Weren't they supposed to be ready yesterday? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Not yet, I’1l go tomorrow. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Tomorrow’s Saturday! Now we won’t be able to get it until Monday! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[So I’1l get it Monday! Stop worrying! You're fine!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Plates of CRABS exit the kitchen. Waiters set the crabs o tables. Kids run amuck as Nai Nai goes from table to tabl greeting guests. Hao Hao and Ami also greet guests. On stage, SUN AO (early 40’s) and his wife NICO give a to Both are tipsy and exuberant. \f73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUN AO",
+          "text": "[We are very happy to have you all back in Changchun! Doesn’t matter if you are in America or Japan or anywhere else... We are all one and the same! Citizens of the planet earth, of the Milky Way galaxy, of the universe! The only thing you should all know is that no matter how far you go, even if it’s to the moon! You will always have a home here in Changchun. We will always, always welcome you. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NICO",
+          "text": "(Please, let’s all have a toast so you know when you come home to Changchun, you know that you’1ll always eat well, drink well and be merry! That way, you’1ll come back often! J As her family eats, Billi stares at the mountain of food front of her with no appetite. Mic feedback alerts the room that someone has taken the stage, though they’re reluctant to stop eating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uncle Haibin clears his throat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "[Keep eating, keep eating, I don't mean to interrupt your meal. As the eldest son, let me say a few words on behalf of myself and my brother. ] Their attention is dispersed as Uncle Haibin launches int his speech.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "[It's been over 25 years since my brother and I have both been in China at the same time with our families. I'm very happy to welcome Aiko to our family. Perhaps next time, when we return again, we'll bring a new baby. ] Uncle Haibin’s voice drifts as he struggles to stay focus \f74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "[My little brother and I haven't been around, and all these years, we've had to rely on all of you to take care of our ma. Chen Ping... you've been here all these years, by our mother’s side, treating her like your own. I’m very grateful to you. To all of you... I want to thank you, from the bottom of my heart. (long beat) But the person I want to thank the most...] His face quivers. Billi leans in, holding her breath. The entire room suddenly gets quiet. The awkward silence underscored by the sporadic SOUND OF CHAIRS AND UTENSILS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "[The person I want to thank the most... is... (his voice breaks) My mother. Forgive us for not being around, Ma. Everything I am, everything I've become... ] The dam ruptures with force. Tears stream down his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "[-.. is because of my Ma!] Uncle Haibin's shoulders shake as he sobs uncontrollably stage. Uncle Haibin had warned her about this very thing, now he's the one falling apart. Billi watches in disbelief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (CONT'D)",
+          "text": "[Ma, you are the best mother in the entire world. (he bows) Thank you, Ma.] As he finishes, scattered applause fills the room. Billi turns to Nai Nai, who dabs the moisture from her ey with a handkerchief. It’s hard to tell what she’s thinkin Billi scans the rest of the room. HUNGRY GUESTS, includin Mr. Li and Bao, shove food into their mouths. She leans o to Haiyan. \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Does everyone know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "I think most people don’t know. But I’m not sure. A giant shrimp suddenly appears in front of Billi’s face Nai Nai’s chopsticks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Eat more, eat more! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aiko wobbles slightly on stage as she delivers a toast. S speaks in JAPANESE, smiling broadly as Auntie Ling translates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIKO",
+          "text": "I’m very happy to be here to celebrate with you all. Hao Hao is very nice, good man. I promise to always treat him well. And, we hope... maybe next time, we will bring back a baby. Hao Hao blushes. Everyone laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The unaffected LION DANCER smokes a cigarette. A BORED WAITER sits nearby on her iPhone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nai Nai escorts Hao Hao and Aiko from table to table, toasting guests.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "GENERAL ZHU, GENERAL FU and GENERAL MU sit around Nai Nai reminiscing about the good ol’ times. Haiyan and Uncle Ha are also at the table. Everyone chain smokes around her. As Billi approaches, Nai Nai motions to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[This is my granddaughter. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL MU",
+          "text": "[Oh she’s quite pretty!] \f76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL ZHU",
+          "text": "[Married yet?] Billi's smile tenses up as she stares at the shroud of sm around Nai Nai. Nai Nai herself seems unbothered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "(to Billi) [I used to work with these grandpas in the army. They’re all very important officials in the government now! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL FU",
+          "text": "(laughing) [We're long retired now! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL ZHU",
+          "text": "(to Nai Nai) [Hey Little Ting, I see you're limping. Is that still from the bullet you took in the war?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You still remember that?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL ZHU",
+          "text": "[How could I forget it? Tell you the truth, I had it all figured out. After the war, I was going to ask you to marry me. But then you got injured, and Little Wang carried you off and that was the end of that. Sly motherfucker. ] Nai Nai blushes and Billi clocks this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL FU",
+          "text": "[That was a lifetime ago! Now, you're confessing your love?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL ZHU",
+          "text": "[Well if I don’t say anything now, I'll take it to my grave. Isn’t that right, Little Ting?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Little Ting? I’m old Ting now! ] General Mu turns to Billi. \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GENERAL MU",
+          "text": "[It’s rare for you to come back, child. Take the opportunity to talk to your grandmother. ] Billi nods. Nai Nai gestures to the stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Go on. Go say a few words. ] Billi looks at Nai Nai, remembering her earlier words. Gracious. Generous in spirit. She takes a deep breath. INT. BANQUET HALL, STAGE —- CONTINUOUS Billi hesitantly makes her way up to the stage. She takes mic, but nobody's paying attention. She meets Nai Nai's encouraging gaze and starts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Hello everyone. As you all know, I left China when I was very little.] She pauses, searching for words she hasn’t said in a long time, if ever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "[My Chinese isn't so good. I’m sorry...] A guest shouts “It’s great! Express yourself!” from off s followed by a few chuckles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "(OK... um... I almost didn’t come back this time. I uh...was very busy with my work. But I still came back. ] Billi looks at her parents, Uncle Haibin. All eyes are on her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "[In America, we don’t have many family. I miss all of you. I’m very happy to be here. I’m very happy to celebrate with you all.] She looks out at Nai Nai, beaming with pride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "[And I just hope... that you’re happy too. ] \f78. Scattered applause as Billi leaves the stage. Thank god that’s over. But then she remembers something and quickly runs back up -—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "(Oh, and uh...] (yells offstage to Haiyan) Dad, how do you say congratulations?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "Gong xi!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Gong xi Hao Hao and Aiko! The room bursts into applause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi and Dad sing a karaoke duet of the Fugee’s version \"Killing Me Softly”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ON STAGE. Aiko and Hao Hao sing a Japanese karaoke song. They're both incredibly off key. MAIN TABLE. Jian and Little Nai Nai watch the awkward performance in silence. Jian senses the weight of Little Nai’s grief amidst all this celebration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(Auntie, you've spent so long taking care of your sister. You also have to take care of yourself and consider what’s next for you.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "(nods ) [You don't need to worry about me. I'm very rational about all this. After she’s gone, I can go be with my husband in ShenZhen. All these years, working out there alone has been hard for him too, but he’s almost retired. And then he and I will be able to take ourselves on a world tour! ] Jian’s not fooled by her feigned cheerfulness, but plays along. \f79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[You can come visit us in America...] Little Nai Nai’s performative smile grows wider.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "(Definitely! I've always wanted to see your house! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[We'll take you around the country. Wherever you want to go.] Little Nai Nai nods a little too eagerly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[I can even go visit Haibin and his family in Japan. See, I've thought things through very clearly. You don't have to worry about me.] As Little Nai Nai turns back around to face away from Jia her smile drops. The effort of these performative emotion takes its toll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A MOTHER DAUGHTER DUO does a choreographed K-pop dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The entire family flaps their arms like birds. This is a drinking game. Joyful and exhilarating, the game allows t all to forget for the time being. Hao Hao keeps messing up the game so he drinks. He drinks and drinks and drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ON STAGE. A YOUNG CHINESE WOMAN sings a melancholic Itali opera. In the middle of the room, Hao Hao bawls uncontrollably. Seeing this, Gu Gu runs up to him. A few TEEN GIRLS also huddle around him. Gu Gu locks eyes with Billi and waves frantically. Billi rushes over, searching the room for Nai Nai. Nai Nai is distracted by a conversation with Mrs. Gao. \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEEN GIRL",
+          "text": "(What’s wrong Hao Hao? Why are you sad? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[He’s fine. It’s OK.] Gu Gu’s eyes well with tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEEN GIRL",
+          "text": "[Why are you crying Hao Hao? Don’t cry...] As she says this, Teen Girl #2 begins to cry. This gets T Girl #1 crying too. It’s contagious - the louder one girl cries, the louder the other girl cries. Gu Gu dries her tears, annoyed by the hysterics.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GU GU",
+          "text": "[Why are YOU crying? ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEEN GIRL",
+          "text": "[I don’t know...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEEN GIRL",
+          "text": "[I don’t know either! ] INT. BANQUET HALL, BACK AREA — DAY Billi tries to console Hao Hao. They can’t communicate, b it’s a tender moment. INT. BANQUET HALL, PORTRAIT BACKDROP —- DAY Nai Nai is surrounded by the entire family, posed for a portrait. Uncle Haibin sets up the camera on a tripod. Nai Nai notices Hao Hao’s face - it’s red and puffy from crying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[What's the matter Hao Hao? Did you drink too much? ] Tears leak down Hao Hao’s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[You can’t take a wedding photo with the groom crying. What are you crying about?] \f81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[He’s fine. He’s just happy. Those are tears of joy! Isn't that right, Hao Hao?] Hao Hao nods weakly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN, (0.S.)",
+          "text": "[OK, everybody look at the camera! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Will you take one with my camera too? Sis, where is it?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I gave it to Mrs. Gao. It’s in her purse. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Where is she?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I sent her to the hospital to pick up my test results. ] Little Nai Nai’s face drops and Billi clocks this. Uncle into the photo -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE HAIBIN",
+          "text": "(On the count of three, everybody say ‘eggplant!’] Everyone says ‘eggplant’ with a forced smile. The camera off with a flash. Billi and Little Nai Nai’s faces are frozen in a look of shock. As the rest of the family stays frozen in a smile, Billi awkwardly excuses herself from the group photo. She begin run.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi sprints through the city with all her might. She st momentarily to catch her breath and her thoughts catch up her actions. There’s no time to think. She takes off running again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi runs inside, asks someone for directions. \f82. INT. THE PEOPLE’S HOSPITAL, SECOND FLOOR - DAY Billi bolts up the stairs and frantically searches for Mr Gao. She spots her and runs up to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. GAO",
+          "text": "Oh, what are you doing here?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(out of breath) Did you get it?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. GAO",
+          "text": "The test results? Yea.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Where? ] Mrs. Gao digs into her purse and pulls out a document. Sh hands it to Billi, scanning the panic on her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. GAO",
+          "text": "What’s the matter? What’s it say?] Billi looks up at Mrs. Gao, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I don’t know. I can’t read Chinese. Didn’t you read it?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. GAO",
+          "text": "(blushes ) I... I can’t read.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(beat) I never went to school. ] Despite her relief, Billi softens with sympathy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Come on, let’s go.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The test result document is scanned into a computer. Billi, Little Nai Nai and Mrs. Gao huddle over the COPY CENTER OWNER as he tries to doctor the results in his computer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COPY CENTER OWNER",
+          "text": "[What should I write?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Just write benign shadows. ] \f83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COPY CENTER OWNER",
+          "text": "[Benign shadows? What’s that?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[It means... it’s not fatal.] INT. NAI NAI’S APARTMENT —- NIGHT The entire family gathers around Nai Nai as she examines document. Time slows. Nai Nai nods, as if she knew all al",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[See. I told you I was fine! ] EXT. NAI NAI’S APARTMENT - DUSK The family walks in epic slow-motion as a single unit. Little Nai Nai, Aiko and Hao Hao. Uncle and Auntie. Haiya and Jian. Billi is framed in the center. They're all in this together. There’s no turning back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s dark and the city is still asleep. A light comes on one window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nai Nai opens the closet door and grabs a RED ENVELOPE. S hands it to Billi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Don’t give me money, Nai Nai...]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Take it, child! Take it! I gave one to Hao Hao so I want to give you one too. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "(But... I didn’t get married. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Even more reason! You’re all on your own, with no one to support you. And I can’t be of much help to you. I’m sorry. I wish there was more I could do to help you.] Nai Nai’s eyes well with tears as she grapples with her helplessness. She pushes the envelope into Billi’s hand. \f84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[Take it, my child.] Billi nods, emotional.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[And don’t spend it on anything practical like rent! Buy yourself something nice...] Billi smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I don’t want to leave, Nai Nai.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You'll be back.] Billi fights back tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "[I know you’re always thinking of me. But you don’t need to worry. I'm fine. I’ve been taking the new medicine and I feel much better. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Really?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[You have work to do. You have so much ahead of you. I’m proud of you. ] Billi diverts her eyes, something clearly on her mind. Af a beat, she decides to be honest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[I didn’t get the grant. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Really? You just heard?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Last week. I didn’t tell you because... (beat) I didn’t want you to worry. ] Nai Nai considers this and nods. \f85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’m not worried. You’1l be fine. Child, I’ve walked the path of life and I have a piece of advice for you. Whatever you encounter in life, you must fight to stay positive. Your journey ahead is still long and you will have difficulties, but when you encounter something catastrophic, you have to think it through with an open mind and find the light. Don’t be a bull ramming its horns into the dark corner of a room. You'll get stuck. Your mind is incredibly powerful. Where your thoughts go, your body follows. You must keep your perspective... and keep going forward. ] Billi nods as she absorbs Nai Nai’s advice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI, (CONT'D)",
+          "text": "(beat) [You've always been fearless. So I know you’re gonna be fine. ] Billi puts her head on Nai Nai’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "[Are you really OK, Nai Nai?]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[Yes! Why would I lie to you?] There’s a knock on the door as Little Nai Nai opens the d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Taxi’s here. Come on.] Billi and Nai Nai savor this moment, side by side. Mrs. G passes them in the doorway, sweeping. INT. NAI NAI’S APARTMENT, STAIRWELL - MORNING Chaos and commotion as Billi, Jian and Haiyan attempt to goodbye. It’s impossible, so instead of goodbye, they sho at each other, everyone overlapping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "(Ma, don’t come down! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I‘11 come down with you, come on.] \f86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LITTLE NAI NAI",
+          "text": "[Sis, you don’t need to go! It’s cold outside! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "(Ma, don’t catch a cold!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I’m coming, I’m coming! Hurry up let’s go!] Nai Nai struggles down the dingy stairwell despite everyo urging.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi and Nai Nai hug goodbye. Both struggle to maintain composure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Don't cry, Nai Nai.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "I'm not crying. You don't cry.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "I'm not crying. ] Billi smiles as convincingly as possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "I'll be back to see you.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Yes, I know. You'll be back. I’11 see you very soon. Go on, let's not drag this out anymore. It hurts my heart. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Ma, take care of yourself. ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "Stop it. Don't make a scene. Just go. Hurry up or you'll miss your flight!]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're all back to shouting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "[Go upstairs, Ma! It's chilly! Hurry and go!] \f87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAIYAN",
+          "text": "[Ma, go upstairs! ]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAI NAI",
+          "text": "[I will after you get in the car. Go on or you’1ll miss your flight! ] They get in the car, but Nai Nai doesn’t leave. She limps after the car as it pulls away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "POV from the back windshield. Nai Nai stands at the end o the alley, watching as the car drives away. She waves as squat figure gets smaller. Little Nai Nai tries to get her sister to leave, but she doesn’t budge. She remains in the same spot - watching, waving, her heart in her throat. The car turns the corner just like that, Nai Nai’s gone. Billi turns around, numb with grief. To her surprise, she sees Jian weeping silently. There are no words.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Haiyan is asleep in the front seat. After what seems like endless silence, Billi finally turns to her mother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Mom... if one of you guys got sick... in America... what should I do? Would you want me to lie to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "Definitely not! Are you crazy? Billi and Mom both chuckle through their tears. At least they’re on the same page about something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "Do you regret that we brought you to America?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Of course not. Another long pause as Billi considers Mom’s question.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI, (CONT'D)",
+          "text": "Do you? Leaving I mean. \f88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "I don’t regret, but... it’s complicated. Outside the car, the sun is rising and the city begins to wake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "You know... when I was still living in China, when you were very young, I visited a blind psychic. He told me I’d have three children. He said there’s a lot of water in my life. Water means talent, so a lot of talent. But my water is long and flowing - a river, so I cannot keep any of it. POV of long empty highways to the airport.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN, (CONT'D)",
+          "text": "But my daughter, he said. She is also water but she is big ocean water. So my river will flow into her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "What if I can’t be your ocean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "It’s not whether or not you can be. The psychic said you already are. If you believe it, then it’s true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLI",
+          "text": "Well he was wrong. You didn't have three children.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JIAN",
+          "text": "No, he was right. I was meant to have three. But it was China. We couldn't. You were first. So you were it. Billi’s heart swells with compassion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mom and Dad are fast asleep. They’re weary and vulnerable They’re human. \f89. INT. BILLI’S APARTMENT - NIGHT Billi walks into the dark apartment with her suitcase. Despite being a small studio apartment, her place now fee enormous. Empty. Silent. Nothing but her own shadows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billi strolls down the sidewalk, the weight of the world her shoulders. Overwhelmed by emotion, she appears to be the verge of breaking down. She stops in the middle of the street. Strangers walk aro her, absorbed in their own lives. As Billi stands there amidst the chaos of the city, a different energy suddenly overtakes her. Instead of crumbling, she lifts her chin and inhales deeply. Then, with all the life force in her, with the spirit of Nai, she shouts -—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HA",
+          "text": "EXT. NAI NAI’S NEIGHBORHOOD, CHANGCHUN CHINA - DAY Our familiar peach-colored buildings surround a LARGE TRE Billi’s voice echoes loudly into this shot - echoing acro the globe. BIRDS scatter from the tree, flying off into the distance a unit, the pattern of their formation silhouetted agains the sky.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1990"
+    }
+  ]
+}

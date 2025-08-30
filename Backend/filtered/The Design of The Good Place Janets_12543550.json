@@ -1,0 +1,1345 @@
+{
+  "movie_id": "MOV1963",
+  "scenes": [
+    {
+      "location": "JANET'S VOID",
+      "time": "A LITTLE LATER, (D1)",
+      "characters": [
+        "NEUTRAL JANET",
+        "NEIL",
+        "END OF ACT TWO",
+        "CHIDI-JANET, (CONT'D)",
+        "PILLBOL",
+        "JASON",
+        "CHIDI",
+        "PILLBOIL",
+        "RANDOM PERSON 4",
+        "MICHAEL",
+        "JANET, (CONT'D)",
+        "END OF ACT ONE",
+        "MATT",
+        "CONTINUED",
+        "RANDOM PERSON 2",
+        "ELEANOR-JANET, (CONT'D)",
+        "MICHAEL, (CONT'D)",
+        "END OF EPISODE",
+        "ELEANOR-JANET",
+        "TAHANT",
+        "END OF COLD OPEN",
+        "ELEANOR-JANET, (JASON CLOTHES)",
+        "ELEANOR",
+        "ACT ONE",
+        "END OF ACT THREE",
+        "ACT TWO",
+        "JASON-JANET, (ELEANOR CLOTHES)",
+        "CHIDI-JANET",
+        "RANDOM PERSON 3",
+        "NEIL, (CONT'D)",
+        "RANDOM PERSON 7",
+        "RANDOM PERSON 5",
+        "ELEANOR, (CONT'D)",
+        "RANDOM PERSON 6",
+        "TAHANI-JANET",
+        "ELEANOR-JANET TAHANI-JANET",
+        "JASON-JANET",
+        "JANET",
+        "ACT THREE",
+        "ACT FOUR",
+        "RANDOM PERSON 1"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "AN INFINITE WHITE SPACE. Then: MICHAEL and JANET POP INTO IT! Michael takes it in -- relieved, giddy, out of breath",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Janet... you did it! You brought us into your void! Wow. If I had a heart it would be pounding!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Michael...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "You'd think there’d be some side effects, but I feel fine! How’s my hair? still amazing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "There may have been a couple of side effects for the humans. Michael looks over --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "...Huh. REVEAL: ELEANOR, CHIDI, TAHANI and JASON... all look like FOUR IDENTICAL JANETS. Michael, at a loss, just stares.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "Dude. Why are there so many Janets? And why do I sound like Janet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "You also look like Janet. Do I? Why?! What? What is happening?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "(realizing, terrified) Oh no. Am I... wearing a vest?! Michael, help me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "This is gonna be tricky. How are we even going to tell them apart?! One of the Janets is playing with (or pointing to) her ow (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” {310] 2. (C/O) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "...-Okay, so that one is Jason.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "This is exactly what I always thought heaven would be. (giddy) Guys! We made it to The Good Place!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END OF COLD OPEN",
+          "text": "\f1002 The Good Place “Janet(s)” [310] 3. Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT ONE",
+          "text": "INT. JANET’S VOID - MOMENTS LATER (D1)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Janet (the actual one) approaches Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "I can’t put the humans back in their own bodies, so I’ve done the next best -- but still not that great -- thing! (T)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "1002 REVEAL: they’re still Janet, but are now dressed in their outfits. Tahani-Janet checks out her dress, unimpressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "I suppose this outfit will do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "(sarcastic) Are you sure? I mean, wearing a floral print to an infinite void, at this time of the nothing?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "So, where are we, exactly? We’re not on Earth, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "That’s correct, Chidi-Janet, you're not. Your real bodies dematerialized when you entered my void, and your essences reconstituted themselves in this form.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Cool, cool. And when you say “void”...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "I mean a subdimension outside of space and time, at the nexus of consciousness and matter, tethered to my essence. Does that help?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "It does not help. Makes it way worse. I just wanna lie down. (freaking out) Where is down?! Reveal Jason-Janet is UPSIDE-DOWN, above them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "I found it! It’s up here. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 4. (I) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Here you go: She BLOOPS in a LIVING ROOM SET. Chidi-Janet lies down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay: Janet's void has a back door to the Janet Warehouse in the Neutral Zone, which is right near Accounting. You four will stay here while Actual Janet and I sneak through it and find the Head Accountant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "Why can’t we go with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "The void is the only place you’re safe. You just “died,” which means you’re the first humans in history to not immediately go to the Good or Bad Place, which in turn makes you interdimensional fugitives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Also the Judge is probably still pissed at me, for, you know, breaking all the rules, and she might take it out on you. Plus the Bad Place is probably hunting for us. So, literally the entire universe is against you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": ".-.--Okay, but what’s a fourth really good reason? (off everyone's silence) Just trying to lighten the mood. Jeez. Tough void.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Janet and I will pose as Good Place employees, and sweet-talk the Accountant into showing us his books. If I’m right, we'll find proof that the Bad Place is tampering with the points system. The Accountant will tell us what to do, and this will all be over. (reassuring) We're almost at the end, guys. Just stay here and keep Janets’ heads on straight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "But if they do fall off, you can just screw them right back on. You just sort of push down and turn. You'll hear a “click.” Okay bye! (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1002 1003 The Good Place “Janet(s)” [310] 5. (I) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Michael and Janet disappear. INT. ACCOUNTANT’S OFFICE - RECEPTION - MOMENTS LATER (D1)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael and Janet are waiting in a reception area. A NEUT JANET is there behind a desk. She has a thousand-yard sta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(aside, to Janet) Is that a Good Janet or Bad Janet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "It’s Neutral Janet. She’s kind of the Black Sheep of the Janet world. Or, the blank sheep, I guess. (excited) Ooh, I can throw shade now! That’s cool! They approach her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEUTRAL JANET",
+          "text": "You have arrived at the accounting office. All point calculations for actions taken on Earth are made here. End of conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "My name is Michael. I need to speak with the Head Accountant, on official Good Place business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEUTRAL JANET",
+          "text": "I will inform the head accountant of your presence, and he either will or will not see you in a certain amount of time, end of conversation. Michael notices a poster on the wall of Eleanor, Chidi, Tahani, and Jason. It says “Wanted for Processing.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(aside) Good thing your “void” plan worked out, huh? Janet tries to answer, but lets out a very long burp. As continues, it begins to sound auto-tuned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Burrrrrrrrrrrrrr-eeeeeeeeeeeececeee-—ieve in life after love? Janet covers her mouth, embarrassed. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 6. (I) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET, (CONT'D)",
+          "text": "Having four humans in my void is weird!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chidi-Janet is pacing, continuing to freak out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "This is nuts. We’re in a void, in the body of a white lady --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET TAHANI-JANET",
+          "text": "Not a lady. Not a lady, darling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "But we are white! Let’s all say white things: (just announcing things) “Billy Joel!” “Mild salsa, please!” “There was nowhere to park!\" “Did you refill the Brita?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "I find this void quite calming, actually. It’s like: this time, the Xanax took me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "I have the worst stomachache. Sorry -- (sarcastic hand quotes) -- \"I\" “have” a “stomach” “ache???”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "Dude, relax. Here... let's see if I can figure this out... BLOOP! ELEANOR-JANET creates a cute PUPPY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "(delighted) Oh, wow. Eleanor, how’d you do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "(shrugs) I dunno. We’re Janet now. That’s what Janet does. ACTUAL JANET pops in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "What just happened?! What did you do?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "Sorry! I was just trying to help Chidi calm down by conjuring up -- (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 7. (I) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "(noticing, cute voice) Awww, puppy! Cuuuute! (then, serious) But: the structural integrity of this void is already at risk, you can’t start randomly conjuring up objects. (cute voice; petting puppy) Because it might shatter the void! Yes it might! It might blow up everything and we’ll all disappear forever! (serious voice) So stop it. Janet disappears --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-- and pops back into the Accountant's office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Everything okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Nope!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEUTRAL JANET",
+          "text": "The Head Accountant has decided to see you, this will happen now, end of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "conversation. 1006 INT. ACCOUNTANT’S OFFICE - BULLPEN (D1) 1006 The Head Accountant, NEIL, approaches -- a congenial fell who just goddamn loves being an accountant. He’s sipping from a mug that says Existence’s Best Boss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Hey-oh! There they are! So sorry to keep you waiting. I’m Neil, the Head Accountant. You must be Michael and Janet -- I really depreciate you coming. (chuckles) Just a little accounting humor. What can I do for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well, it’s sort of a long story. But I’m concerned about certain... anomalies, in the points system. I’m worried that somehow, the Bad Place has been tampering. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 8. (I) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "As they go 1006",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Tampering? No no no. Quite impossible. Laughable, really. Janet -- remind me to laugh about that later?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEUTRAL JANET",
+          "text": "Your amusement has been scheduled, end of conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "(rolling his eyes) She’s a lot of fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Could you just humor us? Show us how the system works?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Ehhhhhhhhhh... I suppose I can give you a quick tour. We don’t get many visitors. Follow me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "Love your suit, by the way. Sharp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh... and I like your tie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Thank you! It’s impossible to remove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chidi-Janet and Eleanor-Janet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "How'd you know I always wanted a dog like this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "Funny story: it’s one of the things I saw in the alternate timeline where we were soulmates on and off for 300 years. (beat) Maybe... we should talk about that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Well, I suppose we can, but there’s not that much to talk about. The things you saw weren’t part of my life, so they didn’t happen to me. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 9. (I) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "1007",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": ".-.The hell are you talking about, man? Of course it was you. I saw it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Well, it was a Chidi, sure, but it wasn’t (points to himself) me Chidi. This is a classic philosophical question: the concept of “the self,” or “who we are.” Philo- sophically speaking, there’s the Chidi I am, who lived a certain life, and there’s the Chidi you saw -- your soulmate, or whatever -- who had some entirely different life. Not the same Chidis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "Ohhhhh. Okay. Cool. Counterpoint: that’s the dumbest thing you've ever said, and you do not deserve a puppy right now! I’m un-blooping your puppy! She tries to un-bloop the puppy -- but accidentally keeps blooping MORE AND MORE PUPPIES into existence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET, (CONT'D)",
+          "text": "Gah! This is getting cuter and I want it to get less cute!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END OF ACT ONE",
+          "text": "\f1008 The Good Place “Janet(s)” [310] 10. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT TWO",
+          "text": "INT. ACCOUNTANT’S OFFICE - BULLPEN - LATER (D1) 1008 Michael and Janet follow Neil past other ACCOUNTANTS, wor at desks. Janet looks a little out of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Morning Greg! Hey there, Kioko -- TGI-7, am I right? Neil stops at a huge monitor with constantly scrolling te",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "So! This is the main feed. Every single action, by every single human on Earth, is recorded, and sent here to be assigned a point value based on the absolute moral worth of that action. I shouldn’t really let you see this, but what the heck -- one little example won’t hurt. (re: screen) A couple in Osaka, Japan just decided to have a destination wedding. That's negative 1200 points. (checks ) Oh dear. It’s a destination theme wedding. Negative four thousand three hundred-- (checks again) The theme is Lord of the Rings. They’re basically doomed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An ALERT sounds. The monitor flashes “UNDEFINED ACTION.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "Ooh, this is fun! A human has just done something no one has ever done before!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(reading) Richard Moore, of Sugarland Texas, hollowed out an eggplant, and filled it with hot sauce and nickels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "How about that -- it wasn’t a weird sex thing! Ninety-nine percent of all new human behaviors are weird sex things. (checks again) Oop, nevermind, actually it was a weird sex thing. So! Now: we zip it over to the relevant specialists for valuation. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 11. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "In this case, Anastasia in the Stuffed Vegetable Department, Hector over in American Coins, and my buddy Matt, in Weird Sex Things. He gestures to the accountants. MATT looks traumatized, l he hasn't slept in years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATT",
+          "text": "(twitchy) I’m still waiting for a response to the latest request I filed, for immediate suicide?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Request denied. (to Michael) I love Matt! He’s hilarious. Matt deflates. He and Anastasia begin typing furiously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "So, they now examine the action -- its use of resources, the intentions behind it, its effects on others...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Correct, and they arrive at this: Below the monitor, a printer prints out the results: ACTION NUMBER 6&7GGp*W4*41211E146 = -9.884 POINTS",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "And here’s why tampering is impossible. The result is then double-checked by three billion other accountants -- selected at random -- and if they all come to the same conclusion, which they always do: ON SCREEN: A green check pops up -- MATCH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "-- it becomes official. Anyone who does this exact thing in this exact way will lose this many points. The screen DINGS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Someone else just did it?! How is that possible? (checking) (MORE ) (CONTINUED )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1008 1009 The Good Place “Janet(s)” [310] 12. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Oh. Because the first guy posted about it on Reddit. The screen DINGS over and over again... INT. CONFERENCE ROOM/NEIL’S OFFICE - LATER (D1) 1009 Neil crosses to a controller with LARGE BUTTONS, one gree one red. On either side are huge TUBES, one green, one re",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "When people die, their biographical history and final point totals are sent to the relevant destination. That batch is headed for the Bad Place -- A WOMAN puts a sack of files under the RED TUBE and hits BUTTON -- it flies up and out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "-- they get the files, process the people, then it’s either “Yayy!” Or (mock horrified) “Gahh gimme my penis back!”, and Bob’s your uncle. It’s a flawless system, and tampering is quite impossible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I see. Could we look at one specific file, though, just to make sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "(intrigued) Mmm. All right. Who do you wanna see? Genghis Khan? Marie Antoinette? Walt Disney has some weird stuff in his file...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Doug Forcett. Neil smiles. 1010 INT. JANET’S VOID - A LITTLE LATER (D1) 1010 Eleanor-Janet turns to Chidi-Janet as Tahani-Janet and Ja Janet look on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "I don’t get this, man. Why wouldn’t you want to know what our life was like? You're not even a little curious what it was like to hit -- (re: her body) -- this? (MORE ) (CONTINUED )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 13. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET, (CONT'D)",
+          "text": "(realizing, annoyed) I don’t mean “this this.” Although, frankly, I would also hit this this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "I don’t want to see those memories because, philosophically speaking, they’re none of my business. They happened to someone else. Let me explain. Chidi-Janet conjures three desk-chairs and a pre-written blackboard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "We can conjure any object in the universe, and you chose a blackboard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "As long as you’re conjuring stuff, can I have a magical rocket ship with laser cannons? (then, revelation) Oooh, no, wait -- gum! Eleanor-Janet BLOOPS some Big League Chew and hands it to him. He tosses it in his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Conceptions of the Self! Let’s start with John Locke, who believed that personal identity was based on having a continued consciousness -- essentially: memory. Memories are links in a chain that together form a single self. If I can’t remember what happened, because it happened to a Chidi from another timeline, it’s not a unified “me.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "Just because you don’t remember doing something doesn’t mean you didn’t do it. I have no idea how it happened, but there is definitely a tattoo on my butt that says “Jasom.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "That leads us to Derek Parfit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "It does? (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 14. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Parfit said: even if I have memories from an earlier time, that doesn't necessarily mean it was “me.” After all, if my brain was split in two and each half was put into a different person, which one is “me?” All I know is, that other Chidi doesn’t exist anymore, and (points to herself) this one does, so this must be the real Chidi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "And all I know is, you’re just barfing Wikipedia all over everyone to avoid talking about your feelings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "(beat) -..-Let’s talk about David Hume! 1011 INT. CONFERENCE ROOM/NEIL’S OFFICE - SAME TIME (D1)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael, Janet, Neil. Neil goes to the bookshelf and pull out The Book of Dougs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Here we are -- the Book of Dougs. (flipping pages) Forbush... Forcap... Forcearch... Doug L. Forcett! He waves his hand and a SCREEN pops up. Michael tries to peek at the screen--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "Ah ah -- no peeking. Accountants only.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Can you just tell me his total?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Looks like he’s at... 520,000 points. Well done, Doug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "---So that’s good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "It’s excellent! (then) Oh -- he’s 68 years old? It’s terrible. He’s screwed. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 14A. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Ha! I knew it! Doug has spent his entire life being nothing but good. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 15. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "He once found a dollar on the ground and sent it to the Canadian government to help pay down their national debt -- and he’s not even close to getting in?! How can that be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "(shrugs) Look, mate, the points are indisputable. They have been, ever since the very beginning. He points to a PAINTING of a caveman handing another cave rock. Plaque reads: Og Gives His Rock To Grog. 201,993 B.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(nodding) “Og gives his rock to Grog.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "The very first altruistic human decision. Og earned ten thousand points that day. (beat) Then Grog used the rock to bash Og’s head in, and he lost a million. We see another painting: the second caveman bashing the f caveman’s head in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL, (CONT'D)",
+          "text": "Point is, the math is cold, objective, and airtight. And unless you have some other proof that says otherwise, I don’t know how I can help you. Matt pops in holding FILES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATT",
+          "text": "I just got seven hundred new “Weird Sex Thing” files in the last one second.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "(to Michael) Burning Man just started. Buckle up, Matty! 1012 INT. JANET’S VOID - LATER (D1 1012 Chidi-Janet lectures... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 16. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "So, in essence, Hume thought that we don't truly have a “self,” we are just a bundle of our ever-changing impressions --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET",
+          "text": "Just admit it, man -- you’re embarrassed that you fell in love with an Arizona trashbag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Eleanor, it’s not personal. Someone fell in love with you, it just wasn’t “me.” Eleanor-Janet looks hurt. Janet appears, furious --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "I told you not to conjure anything!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Sorry, I just swapped the living room for a classroom --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "No, not you -- him! Jason! What is wrong with you?! Jason-Janet is sitting in an EMPTY HOT TUB with PILLBOI.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "Sorry, Janet! I didn’t mean to conjure Pillboi -- I was just thinking about how much fun we used to have hanging out in his broken hot tub, and he showed up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PILLBOIL",
+          "text": "Yeah, I was just chillin’, being nothing? And then all of a sudden: I was!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Goodbye, Pillboi. As he and the hot tub disappear into the vanishing point",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PILLBOL",
+          "text": "Oh dip -- I’m “not” again!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "This is bad. Your thoughts and feelings are starting to directly affect the void. (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 17. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET, (CONT'D)",
+          "text": "I’m not sure how much longer I can contain you in here. Maybe you should split up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "Good idea, we’ll all go to our neutral corners, as it were. (looking around) Janet, can you make some corners? 1013 INT. CONFERENCE ROOM/NEIL’S OFFICE - MOMENTS LATER ( Michael and Neil. Janet pops back in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "(aside to Michael) You need to hurry. My molecular essence is fragmenting, and it’s giving me the worst headache.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay, here’s a question: if Doug Forcett’s not getting in, who is? Let’s look at one more file -- someone who got into the Good Place this year. Neil slides over to a COMPUTER and TYPES...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Okay. Why don’t we look at... (reading) No one. No one got in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "-.-.-No one’s gotten in for a year?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Correct.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "How about the last three years?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "(more typing) Okay... doo doo doo... ah, here we go: no one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "...-When was the last time someone got in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "The last time a person got enough points to get into the Good Place was... five hundred and twenty-one years ago. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1013 1014 The Good Place “Janet(s)” [310] 18. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Michael and Janet react, shocked. Janet puts her hands ou front of her... her skin is CRACKING... she looks concern INT. JANET'S VOID - LATER (Dl 1014 Chidi-Janet sits alone. Jason-Janet comes over to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "Yo homie -- you and Eleanor were fighting before, and I couldn’t help but overhear. (then) Hey: if we hear with our ears, why’s it called “butt overhearing?” Chidi-Janet stays quiet. JASON-JANET (CONT’D) Bro, if you don’t like her, you should just tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "It’s not about whether I “like” Eleanor. I got into philosophy so I could make sense of a world that almost never makes sense... and that was before I learned I died, and then un-died and then re- died... I just can’t take one more thing right now. It’s too much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "I’m gonna tell you a story. Back in Jacksonville, there was a guy in my 80- person dance crew named Stank Toby --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "(suspicious) Hang on. It was a 60-person dance crew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "(caught, desperate) Uhhhh.... oh dip, what are “numbers?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "(furious) You’re not Jason-Janet! You’re Eleanor- Janet pretending to be Jason-Janet! That is so wrong -- and so confusing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET, (JASON CLOTHES)",
+          "text": "What was I supposed to do?! You wouldn’t talk to me. This seemed like the only option. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1014 The Good Place “Janet(s)” [310] 19. (II) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "In what universe is any of this... the only option?! Jason-Janet approaches in Eleanor's clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET, (ELEANOR CLOTHES)",
+          "text": "(high-pitched “Eleanor” voice) Hi, Chidi, I'm Eleanor. I’m Arizona shrimp horny!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET, (JASON CLOTHES)",
+          "text": "That’s not what I sound like, Jason! Get out of here! Jason-Janet exits. Eleanor-Janet BLOOPS her own clothes back, and rubs her face, fed-up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR-JANET, (CONT'D)",
+          "text": "Look, you know what?! Just forget it! What am I even doing? I'm chasing a dude who isn't into me, I’m making myself vulnerable for no reason -- I don't even know_who I am anymore! Chidi-Janet looks at Eleanor-Janet, concerned --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "-..-Uh oh. This is new. REVEAL: Eleanor-Janet has changed into a DIFFERENT PERSON",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 1",
+          "text": "I’m so annoyed at myself! Gahhhh! Stupid Eleanor! off Chidi-Janet, stunned...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END OF ACT TWO",
+          "text": "\f1015 The Good Place “Janet(s)” [310] 20. (IIT) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT THREE",
+          "text": "INT. JANET’S VOID - SOMEWHERE - SAME TIME (D1) 1015",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tahani-Janet and Jason-Janet walk through a different par the void.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "I know I asked you this before, but --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "No, darling. This is not “where the Mac and PC guys live.” They happen upon a giant screen hanging in the void.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "Whoa! Check out this dope flat-screen, it’s air-mounted! You see this, Tahani? The screen JUMPS to life -- a profile appears, with pictu of Tahani and a list of everything that ever happened to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "Oh my goodness... this must be where Janet keeps all her information. (realizing) This screen can literally show us anything that has ever happened --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "(to the screen) Cartoons. Cartoons. I think it’s broken. “TV: play cartoons for Jason!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANI-JANET",
+          "text": "Can't believe that’s what you want to use this for -- (noticing) Oh my... Jason's profile comes up -- it’s covered with pink hearts and the name “Mrs. Janet Mendoza” written over and over i cursive, like it was decorated by a lovestruck 14 year-ol TAHANI-JANET (CONT’D) Jason... Janet has a crush on you! (looks closer) Sorry, not just a crush... I think, in one of the reboots, you two were married! On the screen, we now see the WEDDING ANNOUNCEMENT of Jas and Janet from #110. Jason-Janet reacts, surprised. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1015 1016 The Good Place “Janet(s)” [310] 21. (IIT) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON-JANET",
+          "text": "Whoa. Married? (then) Ohhhh. This flatscreen must've been a wedding present. It’s all starting to make sense. INT. JANET’S VOID - CHIDI-JANET AND ELEANOR (D1) 1016",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chidi-Janet is looking at (the new) Eleanor, confused. Sh still doesn’t know what’s going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 1",
+          "text": "This whole thing sucks, you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Eleanor... you... you’re not -- She is now another NEW PERSON -- a 53 year-old Chinese ma",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 2",
+          "text": "The one thing I never wanted to do, ever, for any reason, was follow some guy around, like a lame puppy dog. I mean -- look at me, I don’t need to do that -- I can get any guy I want!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Eleanor, just -- hang on -- Eleanor is yet ANOTHER RANDOM PERSON -- an 11 year-old bo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 3",
+          "text": "What, dude? What? What do you want? All around them, the walls of the void begin to CRACK. Ja POPS IN and sees “Eleanor.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "What is going on?! (notices) Okay. Well. This is bad. Eleanor is now an 80 year-old lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 4",
+          "text": "Why are you staring at me? Do I have a zit on my nose or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Your sense of self is crumbling, and it’s taking the void down with it. She is now a 16 year-old girl. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 22. (IIT) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 5",
+          "text": "Great. So I don’t feel like myself for two seconds and it breaks the universe?! How come nothing went wrong when Chidi freaked out about his identity for three hours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Because freaking out about everything is my identity. (faux cocky, wilting) Not to brag!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "You have to hold it together. Try to do something Eleanor-y -- laugh at someone who falls down, or show up at an event underdressed and then get mad at everyone else somehow. I/’11 be right back -- Janet POPS OUT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Neil walks Michael toward the exit... Janet pops in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Well! I gotta run -- we’re having a little “thing” in the breakroom for Marisol’s birthday. She’s turning 39 million -- again. (chuckles) So, if there’s nothing else...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "“If there’s nothing else?!\" Neil, please: be logical. Not one Good Place resident in over five hundred years?! Not Jonas Salk, not Harriet Tubman, not one single Golden Girl?! The Bad Place has hacked your system!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "(stern) For the last time: no, they have not, and frankly, I’m beginning to resent your tone. If you have a problem, go back to the Good Place and take it up with the Committee. Now if you’1ll excuse me, there’s cake over there, and if I don’t move quickly, Erika will get the last corner piece!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He stomps off... (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 23. (IIT) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, no, no. This can’t be happening. He was supposed to tell us what to do! If he can’t fix this, who’s going to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "You, Michael. It has to be you. (off his look) We keep wandering around these different realms, expecting someone else to have the answers. But no one does. You're the guy, Michael. You’re the only person who can fix whatever’s wrong with the afterlife. Michael takes this in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET, (CONT'D)",
+          "text": "But before we get into that, Eleanor’s identity is shattering, inside my void, and I might blow up, so I’m gonna need you to grab a paperclip and marbelize me like yesterday. Janet's face starts to crack! Light pours through the cra",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What will happen to the humans?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "No idea, but I can’t take them out of my void in the middle of this office, and if we do nothing, everyone is gone-zo! Marbelize me, get us somewhere safe, and bring me back! Michael looks around frantically --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Paperclip! I need a paperclip! (sees Matt) Matt! Do you have a paperclip?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MATT",
+          "text": "(scared) What are you gonna use it for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The ground shakes, walls shattering. Eleanor is now a JAC BODY-BUILDER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 6",
+          "text": "Chidi? I’m scared. (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1018 The Good Place “Janet(s)” [310] 24. (IIT) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "I know. The walls keep cracking. Eleanor is now an OLD MAN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RANDOM PERSON 7",
+          "text": "What am I supposed to be doing right now? I don’t remember. I’m having a hard time... remembering... Chidi-Janet gets an idea. Eleanor keeps becoming DIFFEREN PEOPLE as Chidi-Janet talks:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET",
+          "text": "Right. Memories! You need to remember who you are: (then) You’re Eleanor Shellstrop, from Phoenix, Arizona. Your favorite meal is shrimp scampi, you listed your emergency contact as Britney Spears as a longshot way of meeting her, and your favorite movie is “that clip of John Travolta saying ‘Adele Dazeem’.” You flew halfway around the world because you wanted to be a better person, and it was very brave. Within the ever-changing Eleanors, one out of every four Eleanor-Janet. Chidi-Janet sees that as a good sign...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI-JANET, (CONT'D)",
+          "text": "You’re sharp and you’re strong. You make fun of me a lot -- you once called me a “human snooze button” -- but you also showed up in my classroom when I was drowning in despair and canned chili, and basically saved my life. You have very high self-esteem, and a very low tolerance for men who wear sandals, and your worst nightmare is someone saying something nice about you to your face, but too bad, because you deserve it, and I need to say it, because -- because -- Chidi-Janet waits, then sees ELEANOR-JANET and GRABS her KISSES HER. It’s a Janet kissing a Janet. The camera SWOO AROUND them. Somewhere, during the kiss, through the magi of computers, they become ACTUAL ELEANOR and ACTUAL CHIDI The cracks in the walls slow. Eleanor looks at herself...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR",
+          "text": "Nice work, bud. (then) (MORE ) (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fThe Good Place “Janet(s)” [310] 25. (IIT) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR, (CONT'D)",
+          "text": "Did you mean what you said, or did you just say it because the world was ending?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHIDI",
+          "text": "...I really wanna play this cool, but I’m afraid I’m gonna ruin it if I try to be sexy. (wilting) I already ruined it. Saying the word “sexy” is not sexy -- She kisses him again. The cracked walls start to heal. Th white void turns brilliant colors all around them. 1019 INT. ACCOUNTANT’S OFFICE - BULLPEN - SAME TIME (D1) Michael is about to marbelize Janet, when --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Wait! I’m okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "--.You’re sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET",
+          "text": "Yes. I’m okay. Wait... uh oh... (she GAGS) They’re not Janets anymore... they’re... them... and they’re not sitting well... (gags) Incoming! She “barfs.” Eleanor, Chidi, Tahani, and Jason pop in, ba to their normal selves. Michael and a wobbly Janet watch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JANET, (CONT'D)",
+          "text": "Oh man. Ugh. That was gross. I feel so much better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "On the bright side, they’re all here, and they’re safe. A loud ALARM SOUNDS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "-- From the old scary thing. Now there’s a new scary thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "END OF ACT THREE",
+          "text": "\f1020 1021 The Good Place “Janet(s)” [310] 26. (IV) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT FOUR",
+          "text": "INT. ACCOUNTANT’S OFFICE - BULLPEN (D1) 1020",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "ALARMS BLARE. Neil walks up, wearing a party hat, holding some cake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Hey guys! I’m Neil. Welcome to Accounting! Now it does look like the four of you are interdimensional fugitives, so I did go ahead and hit the alarm. Sorry about that! On a lighter note, we do have some cake left, if you’re interested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Yyyyyes!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAHANT",
+          "text": "Michael, what do we do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry, guys. The Accountant was no help --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Rude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "-- no one has gotten into the Good Place in 500 years, and we have no plan. Nobody’s coming to save us. He looks at Janet. She nods. He swells up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "So I’m gonna do it. Follow me! He SMACKS NEIL’S CAKE out of his hand --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Nooo! Corner piece! -- with Neil distracted they all RUN into --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. CONFERENCE ROOM/NEIL’S OFFICE - CONTINUOUS (D1) 1021 Michael locks the door, grabs the Book of Dougs. Looks ar frantically... gets an idea. Neil bangs on the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEIL",
+          "text": "Hey! You can’t take that! (CONTINUED)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f1021 1101 The Good Place “Janet(s)” [310] 27. (IV) Shooting Draft (GREEN Rev.) 7/26/18",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I need one of you to volunteer to try something outrageously insane, that will either make you cease to exist or be really fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "That’s most of the things I’ve tried!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "That's my guy. Get in the tube!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "Oh hell yeah -- I love gettin’ in stuff! He does. Michael SLAMS THE GREEN BUTTON, Jason FLIES UP i the tube...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well... no way to know what happened to him. The rest of you -- go! INT. GOOD PLACE OUTPOST - DAY (Dl 1101 We’re in an old quaint HOUSE. Camera pulls back to reveal large ANTIQUE MAILBOX. We hear: THUNK! THUNK! THUNK! Six times, with accompanyin muffled “Ows!” And “Gahhs!” DOOR is pushed open. Jason crawls out. Then Chidi, Tahani Eleanor, Michael and Janet -- like from a CLOWN CAR. They look around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR",
+          "text": "...Where are we?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "We're in the Good Place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELEANOR",
+          "text": "No offense dude, but you’ve told us a lot of lies in the last 300 years, so for real: where the fork are we? (realizing) Fork. Shirt. Ash-hole. (hearing it, emotional) Holy forking shirtballs... we’re in the Good Place! They all look around, shocked...",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1963"
+    }
+  ]
+}

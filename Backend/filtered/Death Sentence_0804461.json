@@ -1,0 +1,2585 @@
+{
+  "movie_id": "MOV535",
+  "scenes": [
+    {
+      "location": "CORPORATE OFFICE HIGH-RISE BACK-BAY BOSTON",
+      "time": "DAY",
+      "characters": [
+        "BODIE",
+        "DOG",
+        "COP",
+        "BAKER",
+        "FRONT DOOR -",
+        "SPINK",
+        "ARMED GUARD",
+        "AT THE STAIRS--",
+        "GUARD",
+        "DESK GUARD",
+        "BONES",
+        "KEVIN",
+        "BONES, (0.S.)",
+        "-- 7-6-5--",
+        "HENNING",
+        "CUT TO",
+        "JAMIE",
+        "BAGGY",
+        "MOM--",
+        "JOE",
+        "HECO",
+        "BILLY",
+        "CLERK",
+        "--",
+        "AT THE END OF THE ALLEY--",
+        "DOCK-RAT",
+        "JUDGE GOULD",
+        "DOLLYING THROUGH THE HOLE TO THE OTHER SIDE OF THE WALL,",
+        "SAM",
+        "HELEN",
+        "BETWEEN ALL THREE",
+        "ARMED GUARD/ DESK GUARD",
+        "DAY",
+        "MARSHALL",
+        "ON THE METAL STAIRCASE--",
+        "ORDERLY",
+        "FAMILY, ON TAPE",
+        "THE NEIGHBORING HOUSE",
+        "10-9-8--",
+        "JOHN",
+        "OUTSIDE -",
+        "TO",
+        "BRENDAN",
+        "FROM THE ALLEY",
+        "GUN-CLERK",
+        "INSIDE -",
+        "FATALITIES",
+        "LUCAS",
+        "OUTSIDE THE CAR -",
+        "BARING",
+        "OPERATOR",
+        "-",
+        "CUT",
+        "OK",
+        "MR. PERLE",
+        "WALLIS",
+        "COACH WALDREN",
+        "HELEN-- LUKE--",
+        "OUTSIDE--",
+        "A BLINDING WHITE-LIGHT SNAPS ON-- WE'RE IN A POLICE LINE",
+        "TELLER"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "We float over a large corporate office, a grid of cubicle slides under us, perfect, symmetrical-- EMPLOYEES working desks, milling in and around the cubicles-- We slide toward the outside walls-- light bathes in from windows, reflections curve off glass-dividers, setting of the nicer offices--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One of the nicer offices, glassed-in-- at the desk: JOHN HUME, 40's-- tie, shirtsleeves, glasses perched-- company man, polished, not overly-so-- pores over spreadsheets, marking them up-- The spreadsheets-- columns of numbers arc, graceful-- Joh sifts through decimal-chains, crossing out-- shakes his h then: he sees something, a pattern in the chains-- he cir a long rising line-- half smiles-- We see headings: DEATHS, NATURAL; DEATHS, MISHAP; CHILD",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FATALITIES",
+          "text": "FATALITY CLAIMS PAID, DENIED-- he circles another chain--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quietly-- amused) Huh-- there you go-- John looks up-- AMY, his assistant, the EMPLOYEES out on floor, working, joking, all ages, men, women-- happy, bus numbers-- KEVIN-- 30, appears at his door, file in hand--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "Bother you? John-- back at his numbers-- smiles--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Just when you think there's no order anywhere, there's order looking right at you-- Kevin-- not following--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh-- right-- John looks at Kevin's file, Kevin brings it-- John scans-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "What do you need, here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "Annie said I need you to approve this, no beneficiaries, wife dead-- no kids-- easy-peasy-- John looks up, on easy-peasy-- he doesn’t sign it-- close the file, pushes it-- KEVIN (cont'd) But-- there's no estate-- the lawyer's got dementia--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I saw that. So-- what do we do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "(galled) Don't make me file with the state-- for a twenty-five-hundred dollar policy? John bristles-- Kevin sees it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "We file with the state. So one day, in the unlikely event somebody looks back at this guy's death, they'll know we did our job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "(scoops up the file) Oh-- we cover our asses, duh-- got it, sorry--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "No-- we do our job. Kevin-- chastised-- John smiles-- JOHN (cont'd) And we cover our asses for when the illegitimate children show up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looks ) I didn't see-- illegitimates--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Well, illegitimate children will leap into being and sue us pantless if you don't give enough of a shit about their dad to put on record that we in the office of life and death made an effort to pay somebody twenty-five hundred bucks in compensation for his passing-- John picks up his spreadsheet again-- smiles at Kevin-- JOHN (cont'd) -- lest he die in vain. OK? (back in his numbers) Might even make some poor bastard feel better. Kevin-- excused-- hesitates, nods at the spreadsheets--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "What's the order-in-the-universe thing? John-- poring over it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "We spent three hundred thousand bucks for these guys to make us this new model, new field-data, new society, who-dies-when-and-how-- but they screwed up all the decimal weights. It's three-hundred thousand bucks worth of dogshit-- Kevin-- following as best he can-- JOHN (cont'd) But even so, it says people with kids live longer than people with no kids, people with two live longer than people with one-- (flipping pages) Smoking is bad-- speeding is bad. Divorce is bad. Deaths in the family are bad. John smiles-- \fJOHN (cont'd) It's nice to see all that crap's still true. If you have twenty kids, anyway. So you'd better drive home under the speed-limit and get busy with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "(smiles) I've got my illegitimates. John-- benign teacher-- he’s dismissed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "And aren't they the lucky tykes? Kevin goes-- John, back to his numbers-- he glances up, e catches the PHOTO on his desk-- HELEN, his wife, 30's, beautiful, sharp-eyed, as smart as him, or smarter-- TWO BOYS-- BRENDAN, the older, LUCAS, t younger-- John looks at the picture-- contented--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A prep-school office, rolling fields, fall trees outside- LUCAS, 14-- a couple of years older-- and more pissed-off than in his picture-- sits in front of the dean's desk, waiting-- the dean isn't there-- A WELL-DRESSED WOMAN steps across, putting a file back in cabinet-- she turns, sits at the desk-- It's HELEN-- LUCA",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Of course it isn't fair, but when you screw up, it's embarrassing-- I'm supposed to be a dean--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "It's not like I killed somebody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Telling a teacher to shove it is as close as we get here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The guy's a buffoon, Mom, I was quoting-- it was like an ironic shove it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "You want an ironic probation? Lucas doesn't answer-- looks out the window-- KIDS are running track, outside, he watches them loop-- HELEN (cont'd) We haven't even gotten to the home punishment, this is the school-end-- Lucas-- winces-- stares out the window-- she watches him- HELEN (cont'd) So-- what do we do? Lucas-- still looking out: A BUNCH OF OLDER BOYS cuts acr the track, bags, hockey-sticks slung-- BRENDAN, 16, Lucas older brother, with them-- laughing, jocky-- golden-boy--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(still out the window) Anything but community-service.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "(smiles, mock-amazed) Luke, that's brilliant-- community service is a great idea-- He rolls his eyes-- HELEN (cont'd) The assisted-living home's having a dance party, they need help-- you know-- Leisure World--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "For the love of God, Mom-- Seizure World?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "(smiling-- benign torture) OK-- hockey team needs a laundry boy-- you could help your brother out, support the team-- Lucas looks out, at Brendan and his crew, strutting, goof",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll take the dance of the dead. I can man the diaper-station. Helen-- cheerfully tough-- loving, if he cared to notice- notices-- isn't going to admit it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Last time, OK? Lucas-- it’s a fair bust-- he smiles, barely, nods-- Hele takes it-- exhales-- HELEN (cont'd) Thank you. Very much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BRENDAN-- with other PLAYERS, skating sprints up the ice, COACH WALDREN watching-- Brendan shoots along the ice, guiding the puck like it's glued to his stick, fast-- effortless-- aggressive-- the whistle blows-- everybody stops, except-- Brendan-- He keeps skating-- the coach blows the whistle again-- Brendan spins to a stop, breathing hard, smiling--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COACH WALDREN",
+          "text": "Who wants to start on Saturday, in beautiful Roxbury? They wait-- trick-question-- he looks at his list-- COACH WALDREN (cont'd) (reading off) Larkin, Hume, Tomacek, Whelan-- Brendan-- smiles on 'Hume'-- nods--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A nice old colonial, rambling kitchen-- HELEN, BRENDAN, LUCAS, at the table, eating--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "Yeah, because you're a kiss-ass--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "(laughs) I got the skills, that's all-- God gave me the skills--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(to Helen) Mom, I need to go kill myself, can I be excused? Helen-- heard it before-- clearing her plate, putting foo from the pots into containers--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Of course you do, Lukey--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "I've got a cretin for a brother--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "I've got a no-dick for a brother--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "(sharply, to Lucas) OK-- you stop, right now-- (to Brendan-- softer) And you should know better. Luke catches the softer voice for Bren-- used to it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "(all innocence, to Helen) What? Helen, back to the leftovers-- shaking her head--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Let's be a family, shall we?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(snorts, laughing) Do I get to say no? (bangs the table, yelling) I demand emancipation-- I want a lawyer, I'm filing, right now-- Brendan-- smacks Lucas on the head, not too hard-- Helen- another warning-look--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "\fEXT. HUME’S HOUSE - DRIVEWAY - NIGHT JOHN pulls up-- but the driveway’s blocked by TRASH-CANS- gets out, drags them aside-- glaring at the neighbor's ho",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HUME’S HOUSE - KITCHEN - NIGHT Helen's still looking at the boys, coming off her warning shot-- the front-door bangs closed-- Helen-- smiles despite herself-- JOHN comes in, coat, briefcase-- exhausted--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I missed dinner? Helen-- dumps the containers back into the pots--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "No, there's-- plenty--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "(to John) I need a ride to Southie Saturday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Southie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "Roxbury-- it's an exchange game. I'm starting again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(beaming) That's fantastic-- Waldren loves you, huh? Lucas sees the glow on John-- like Lucas isn't in the roo anymore-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "Yeah, 'cause he's a kiss-ass-- John nods-- he approves, in this case--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Well, good for him-- we all going? He bumps Helen aside, gently, loads a plate--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Luke's got soccer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "But I'm not even starting, so--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "You should kiss some more ass. Or not suck so bad-- Lucas flips Brendan the finger-- John bristles, looks at Helen-- Lucas-- knows he went too far-- Brendan-- steps i covers for Lucas-- BRENDAN (cont'd) Come on Dad-- he's kidding-- he's being an idiot-- Lucas-- grateful-- John looks to Helen-- she does this al day--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(to Brendan-- benign) Don’t call him an idiot-- (to Lucas) Lucas-- you have a loyal and loving brother--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(he smiles) Loyal loving kiss-ass-- Brendan laughs-- John-- tired and hungry--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Let's be civilized, or I'll kill somebody. Fair? Brendan scrunches Lucas by the back of the neck-- Lucas shrugs him off, goes-- Brendan shoves him ahead--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "Whatever, weasel--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(mimics, dumb-jock voice) Uhhh, whatever, weasel-- John watches them go, Helen dumps leftovers-- again--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "See what you miss when you don't come home? \f10. He nods, smiles--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "They stopped throwing food. She nods-- smiles-- rinsing dishes-- he watches her-- JOHN (cont'd) I can do those. She drops the dish she's holding, grabs a wine-bottle, po two glasses, sits-- day's end--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Lukey told Roger Perle to shove it. They look at each other, dead-serious-- then-- John start laughing-- cracking up-- she does too--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Didn't you tell that guy to shove it last year? She's laughing harder, trying not to-- nodding--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "It was so hard to punish him without laughing--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "He's your son alright-- She bursts out laughing, louder, nodding, John too-- she looks to the door, tries to stop-- they fall quiet, final she sips her wine, shakes her head--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Two boys. No justice. He smiles at her-- they look at each other--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CROWD of blue-collar and white-collar PARENTS, hooting, yelling-- COACH WALDREN at the benches, intent-- JOHN-- i the stands, watching as-- BRENDAN-- like he was born on the ice, dodges DEFENDERS, drives forward, weaving-- he feints, shoots-- GOAL-- the score clicks up on the board-- the crowd's yelling-- \f11. John, stamping his feet, clapping, hooting-- he smiles, watching Brendan gliding on the ice, beaming-- He skates away, John watches-- his jersey-- 'HUME' in red letters, big ‘11’-- Brendan shakes his stick high, crowd roars again-- John smiles, shakes his head-- proud-- tickled--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "Late in the day, light waning-- it's a crummy area, proje slum-tenements, wasteland-lots-- far cry from Arlington-- JOHN, driving, BRENDAN, riding, smiling-- good day--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "(watching the streets) Some of the guys have been talking about college in Canada--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(driving-- smiles) We're thinking about college? Don't you have another birthday before we think about college?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "‘Plan for success,' Dad--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(impressed) I said that? That's excellent advice. Brendan doesn't answer-- John watches the road-- JOHN (cont'd) Canada. Canada's-- far--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "(smiles) You'll still have Lukey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "There's a comfort-- Brendan winces, protective-- John catches it, smiles-- \fJOHN (cont'd) You had a very good game today. You've had a few good games. But professional hockey, Bren-- that what we're talking about? Brendan shrugs-- nods-- JOHN (cont'd) -- that's a high-risk business.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "This is from your extensive professional sports background--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "My extensive risk assessment background. Risks-- liabilities-- the stuff of life, son--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "Stuff of your life-- exactly--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(smiles) Don't make fun of your father. Brendan falls silent-- wasted streets slide by-- JOHN (cont'd) Well-- let's look at this-- you have a talent, I don't dispute that. Let's evaluate it, like any asset, see how far you can take it-- in a business-way. Brendan looks at him-- JOHN (cont'd) I can talk to Coach Waldren. We can research schools-- in Canada if we have to-- find somebody who can-- educate us on hockey versus, say-- law-school--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "Educate us? Dad, I just want to play some hockey--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(he smiles) I'm saying we can look into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brendan gets it-- nods-- smiles-- JOHN (cont'd) Just don't tell Mom. Brendan-- grins, laughs-- John rounds a corner, looks ahe stumped-- searching-- JOHN (cont'd) Where the hell's the damn expressway? No signs-- just dark, shabby streets, half-industrial, housing projects beyond-- an alarm pings-- John looks-- a flashing orange gas-pump on the dash-- JOHN (cont'd) Great-—— John looks around the bleak streets-- feels tension, biti then-- he sees the lights of a gas station-- eases, sligh JOHN (cont'd) (goofing, like a general) We may be lost, men, but we'll have gas, by God-- onward to petroleum-- Brendan laughs-- they pull in--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN pulls up to the pump, lights from a convenience stor glare-- John looks around-- wary of the neighborhood--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTSIDE THE CAR -",
+          "text": "JOHN gets out, squints at the pump-- BRENDAN gets out too starts for the convenience-store-- John stops--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Where do you think you're going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "(smiles) Need my fluids, Dad-- John looks around-- wary-- but-- no obvious danger--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Ahh-- the obligatory slushy-stop-- \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRENDAN",
+          "text": "They have 'em in there, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "That, or something worse for you. You have money? Brendan starts across-- John punches buttons on the pump- JOHN (cont'd) In and out, OK? We have to get home-- Brendan smiles, walking backward, half-way there-- John p the pump in the tank, keeps an eye on Brendan until he disappears inside the store-- we glimpse him, pumping slu John laughs, quiet, shakes his head-- pulls out his phone speed-dials, gets Helen's voice-mail-- JOHN (cont'd) (on cell) Just letting you know your son's gone to Canada to play hockey. We didn't want to drag out goodbyes, so I left him at the airport. He'll call us. If he can. Of course, we may never see him again, but as long as he's happy, right? He pauses-- cars flash by-- a big truck rolls in-- JOHN (cont'd) Home soon. He closes his phone, scans the street-- a strange hush fa a loose sheet of newspaper scuds across the street, twirl upward-- it catches John’s eye, he follows its motion--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FROM THE ALLEY",
+          "text": "Behind John-- wheels whining-- cars cornering fast-- John turns, sees: two pimped-out muscle cars rounding the corner, pulling up to the convenience-store-- John’s guard goes up-- his eyes flick to the store, he se BRENDAN-- paying-- sipping the slushy-- John’s eyes flick back to the muscle cars-- he can barely heads inside through black-tint windows-- arms going up-- like they're pulling masks _on-- John’s eyes go wide-- as \f15. GANG-BANGERS in black ski-masks burst out of the cars-- g in hand-- charge toward the store-- John-- his eyes widen in fear, shock-- He charges forward, knocks right into the gas-hose, knock loose, it sprays him-- he clambers past, frantic, looking",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BANGERS burst in-- hold guns at Brendan, the CLERK-- Bren wide-eyed-- as a tall banger-- BILLY DARLEY-- the leader, scoops cash out-- the clerk reaches for an alarm, Billy swings his gun and shoots him in the chest-- then, same instant, smacks a scrawny banger-- JOE, his little brothe on the back of the head, hard--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(smacking the scrawny one) Do it, you faggot--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTSIDE -",
+          "text": "JOHN-- running forward blindly, eyes on Brendan-- a car pulling in to pumps clips him, knocks him to the concrete he scrambles up, another car pulls out, barely misses crushing his head as he stumbles, runs-- as:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INSIDE -",
+          "text": "JOE-- jittery-- scared-- eyes in his mask full of fear, h Brendan-- staring-- terrified-- BILLY (cont'd) Do it-- (grins, at Brendan-- yells) Ready, kid? You ready? John-- running-- hears Billy yell-- rushes up as: Joe-- like mean liquid, turns-- walks to Brendan, snake-f = pulls a LONG MACHETE from his jacket-- and slashes the blade up, across Brendan's throat-- gashing it open--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTSIDE--",
+          "text": "JOHN-- sees-- in horror-- as: \f16. Brendan-- stares-- staggers out, toward John-- falls thro the door-- drops--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTSIDE -",
+          "text": "JOHN-- charges toward Brendan-- BRENDAN-- throat _open-- lying on the concrete-- blinking gasping-- JOE-- stares down at Brendan-- amazed, or terrified, at t sight-- what he's done to him-- BILLY and the other BANGERS charge through the door, scat except: Joe-- he sees John-- hesitates-- machete in hand- Joe-- runs for the street-- passes near him-- John lurche tries to grab him-- he gets him by the throat, throws him down-- he drops his machete-- John gets his mask off-- se his face-- as-- The BANGERS stop-- look back at John and Joe-- Heco start for Joe, to help, Billy holds him back-- smiles, not yet- lets Joe struggle-- JOHN-- smacks Joe into the concrete-- trying to get free get to Brendan-- Joe swipes at him-- John bangs him down- JOE-- finally-- gets his weight out from under John, flip up, throwing John down on the concrete, smashing John’s h against it-- John falters, almost blacking-- Joe jumps up jumps over John-- runs for the cars, but-- Billy jumps in-- engines ripping, cars shoots backward-- Joe runs to them but the cars peels out without him-- Joe runs out into the street, looks back at John-- And is smacked by a pick-up truck-- spun by impact, Joe sprawls on black-top, out cold-- traffic stops, horns hon John-- on the concrete, barely conscious, blood drips in eyes-- he blinks it away-- Brendan's motionless-- white-- John crawls to him-- fadin takes Brendan’s body in his arms, screaming--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(screaming) Help-- help me--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see into the two muscle-car speeding away, racing, sid side-- the bangers peel off their masks, we glimpse: BILL 20's, Boston Irish-trash, hard as cross-nails-- BODIE, bl hard-timed, hard-eyed-- HECO, Salvadoran, silver bead on lower lip, chin jutting-- BAGGY, Cuban, head shaved-- SPI and JAMIE, Irish-trash, DOG and TOMMY, black, jailhouse-m all pumped-- whooping-- Bodie looks back--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "Where’s your brother?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(laughs-- callous) He's a man now-- he can take the subway-- They cackle-- speed away, whooping--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A burst of activity-- Brendan wheeled into the ER, JOHN, agonized, trots by Brendan’s side as ORDERLIES rush him i",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In slow motion without sound: looking down a hospital corridor, we see a distraught HELEN and LUCAS run up to J The ER DOCTOR approaches, talks to them-- we can’t hear-- Helen collapses into John, sobbing, shaking-- John holds tears well out of him but he doesn’t break down, his face stone-- Lucas, stunned, left-out-- FADE TO BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- bandaged-- staring through one-way glass-- a group Irish-trash STREET-RATS squint in the glaring light-- JOE among them, under a big ‘6'-- \f18. John stares at Joe-- runty-- malevolent-- in a dead-dream DETECTIVE WALLIS, 50's-- waits-- John breathes--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Six. Number six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "(nods) Joe Darley.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "He's a-- kid--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "He's a runt, almost twenty. And he's an animal. John stares at Joe, a trapped rat-- hate boiling up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bleak. Raining. Cold. The HUMES watch as their first-born is lowered into the ground-- John watches the casket-- no tears-- he’s far from Luke, from Helen--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Empty, silent kitchen-- we hear the front door close, off JOHN, in a funeral-suit, comes in, turned to stone, dry-e HELEN and LUCAS-- shell-shocked, follow-- none of them se to know why they've gone in there-- Helen begins to cry, leans back against a counter, suppre the tears-- she looks to John-- but he's locked-in-- sile Lucas-- sits at the table, looks at both John and Helen-- neither of them seems to notice him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I'll make some eggs. Helen-- doesn't answer-- John drapes his jacket on a chai goes to the fridge, gets eggs out, starts making them-- \f19. Helen watches him-- sits next to Lucas-- they sit in sile as John scrambles the eggs-- finally-- Helen looks down at her black dress-- picks at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "I should probably change. She looks to John for a response, there isn't any-- she g up, goes-- finally Lucas gets up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(to John) I guess I'll change too. Nobody answers Luke-- John whisks the eggs-- Lucas watche him a moment-- and goes--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quietly-- after Lucas is gone) OK. John looks up, sees Luke's gone-- he stands there, stirri the eggs-- Suddenly-- he slams the pan across the stove, eggs splatt out, burn on the flame-- He stares at the mess-- grabs a towel, cleans it up-- sta a new batch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN and HELEN, in bed, in the dark, unable to sleep--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "They said there's a-- pre-trial hearing tomorrow, they want me to go. Make a statement or something. Do-- you want to go with me? She stares-- fighting pain--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "You go. Put that-- animal in jail. \f20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "That's what the cop called him, an animal-- John-- trying to make order-- JOHN (cont'd) Some kind of-- mad dog. Helen stares into the dark-- she takes a breath--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "The school said they wanted to do a memorial-- at the next game. The team wanted to do something. John-- it's cold comfort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "That's-- nice of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "(she nods) He would have been playing. Helen closes her eyes-- reaches for John’s hand-- he take it, she squeezes it, as hard as she can, crying, softly, trying not to-- weary of crying-- John holds her hand--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LUCAS-- in bed, awake-- staring too-- He gets out of bed-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LUCAS comes into Brendan's room-- stands in the doorway, staring at it-- posters, his bed, books, his hockey-stuff He stays, a moment-- lays his hand on the bed-stead-- goe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John hears LUCAS walk by their door, back to his room-- h hears Luke's door close again-- he doesn't move--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN, on his way to court-- sees empty TRASH-BARRELS righ behind his car, blocking the way-- he looks across to:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE NEIGHBORING HOUSE",
+          "text": "BAKER, the neighbor, rushing back, obviously the culprit- glares at John-- righteous, annoyed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAKER",
+          "text": "(yells over) You're supposed to take them in-- John glares-- drags the barrels aside--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LUCAS-- staring at his desk as MR. PERLE, 40's, drones, b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. PERLE",
+          "text": "-- there may not be much actual justice, but if the code said ‘an eye for an eye' carved right into a big stone slab, they could say, look, it's in writing-- Lucas-- rubbing his knuckles on the desk, distracted-- MR. PERLE (cont'd) (in bg) -- don't riot, don't rebel, keep Slaving in the pyramids, watch hieroglyphic cable'-- Lucas rubs harder, the skin opens, starts to bleed-- A GIRL next to him sees-- he looks at his hand-- surprise HENNING-- a 'friend,' callow-- snickers-- Perle looks bac \f22. MR. PERLE (cont'd) My friend Mr. Hume-- (not without sympathy) Joining us today? Luke sits up-- picks up his pen-- HENNING looks, ridiculi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENNING",
+          "text": "Chill, Humey-- Lucas stares-- seething--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HELEN, trying to work, looks out-- the HOCKEY TEAM, stick their shoulders, all very like Brendan-- she looks at her files-- and gently but firmly shoves them off the desk--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- with MICHAEL BARING, ASSISTANT DA, 40's-- with som JUNIOR DA's, and DETECTIVE WALLIS--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "Today's easy-- John looks at Baring-- it isn't easy for him-- BARING (cont'd) I need you to sit there, put the fear of God in this guy-- if the judge asks you to, you tell him what you told us, and identify Darley in court-- John, nods-- BARING (cont'd) The minute I get your statement in, with you sitting right there, the public defender's going to wet his pants and fold, I'll make a deal in five minutes, get this guy in jail today-- easy-peasy-- John-- stares at Baring-- \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "What the hell are you talking about? What deal? I want this guy in jail-- for the rest of his life--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "No-- I can get you three-to-five, guaranteed-- that's a very decent result in the-- John-- outraged--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "He killed my son-- Baring-- blinks-- sympathetic, but-- overwhelmed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "Guaranteed time-- not maybe, not the jury didn't feel up to it-- that's worth more than chasing a make-believe ten-to-life and the guy walks free-- you want that? John-- furious-- ready to jump out of his chair--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "You aren't using my son's death for a card-trick-- do you understand? Baring-- wishes it were otherwise--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "Mr. Hume-- this is what my office is willing to do. I'm fighting a pattern here, initiation killings are just part of it, I get a banger off the street a year or so, somebody does my job for me, he never comes out alive, fine with me, he finds Jesus, fine with me-- John-- missing something--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "What do you mean-- initiation killing? JI thought it was a robbery-- Wallis shrugs-- uncomfortable-- \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "It just looked like one. It was an initiation-- you kill someone at random, to get made in a gang. It's the-- price of admission.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "You're saying my son was murdered so some asshole could feel like a man? So he could be in some club? Wallis-- Baring-- look at John-- he stares, numbly-- stun JOHN (cont'd) There's-- no sense to that-- John-- shock slips to-- rage-- growing second by second-- Baring-- sorry, but:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "This is a take it or leave it thing, Mr. Hume. Sorry to say. John-- stares at Baring--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- on the stand-- he looks at: JOE and his public defender, WILSEY, 30's suit, pony-tail-- BARING standing-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "Your Honor, I'd like to enter the statement of a witness present at the attack-- father of the victim-- The judge glances at John-- at the clock--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE GOULD",
+          "text": "We can enter that at trial, can we not, Mr. Baring?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "I believe your honor, if we enter the statement today, defense will change their plea to guilty and save the people the time and expense of a trial-- The judge looks at John again-- John’s staring at Joe-- t judge waves Baring to the bench-- \f25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE GOULD",
+          "text": "That's the statement? Baring brings John's statement, the judge looks at it-- John's still looking at Joe-- JUDGE GOULD (cont'd) Mr. Hume, you're giving evidence that Mr. Darley here, before your eyes, attacked your son and caused his death? You’re saying you'll testify to that in a trial? John-- staring straight at Joe--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "No sir. I am not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "What? John looks at Baring-- Joe's starting to smile--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "There were a lot of them. It was dark. I can't be sure any more. Baring-- furious-- Joe-- grinning like a coyote-- John st at him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE GOULD",
+          "text": "Do you expect to obtain evidence other than Mr. Hume's here? Baring-- dead-ended--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARING",
+          "text": "No your Honor. I do not. The judge-- skeptical-- but nowhere to go--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE GOULD",
+          "text": "I'm dismissing this case-- I humbly note you might have been better off taking your chances with a jury, Mr. Baring-- John stares at Joe as the judge talks-- JUDGE GOULD (cont'd) (to Joe) You are released from custody. \f26. You may return with a bailiff to the holding cells to retrieve your personal effects. Joe gets up-- struts out, right by John, smiling-- John watches him go--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Winds blowing-- colder weather moving in-- JOE-- carrying a plastic bag of personal effects-- talkin his cell, laughing-- hunching in his jacket from the cold ACROSS THE STREET -— JOHN-- in his car, staring at Joe-- eyes burning into him Joe sits on a bus-stop bench-back, waiting-- John watches him-- glances in his rear-view-- Brendan's g bag, his hockey stick-- still in the back seat-- he looks it, a moment-- then looks ahead as: The muscle cars pull up-- BILLY the others, pile out, laughing, smacking Joe around, he laughs-- they do a sort leering cheer, roasting him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(we just hear, from across) You fucked that up pretty good, huh? Who's aman, now? Joe laughs-- all cocky, now--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "That fucker was sitting in a pool of pee, man-- that’s right I’m walking, pucker the fuck up-- John-- seething-- stares at their faces-- Billy-- Bodie, Heco, all of them-- he knows who they are-- JOE-- gets in they pull away-- John watches the muscle cars go-- he hesitates-- breathin hard-- and starts his car-- follows--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- following the cars-- deeper and deeper into the Southie war-zone-- he catches glimpses of JOE, through th window-- The neighborhood turns darker, more ragged-- closer to th part of town where Brendan was killed-- John follows, watches-- finally-- they pull up, JOE gets Billy and the others are grinning--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A GIRL-- waiting on the step of the decrepit project buil she pulls a little vial out of her pocket, shakes it, grinning-- BILLY and the others shove him forward, laughi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "Have a nice time, weasel-- Billy smiles-- goes to her-- she and Joe kiss as the cars pull away-- JOHN-- parked up the street-- watching-- She pulls Joe’s keys out of pants for him-- they go in-- door of the building closes behind Joe-- John stares at the door-- leans his head on the steering wheel, lost-- no idea what to do-- He sits up, gripping the wheel with all his might-- start the car, finally-- pulls away--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John pulls up-- jumps out of the car-- starts looking aro the garage-- he scans the tools hanging on the walls-- He picks up a weeding spade, grabs it-- puts it down agai he opens a locker-- an axe-- he hefts it-- not right, dro it-- He reaches up to a top shelf-- straining-- pulling down a dusty plastic tool-tub-- riffling through, loudly-- \f28. LUCAS has come out-- he stands at the door, watching John",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "Hey-- John stops, briefly-- then--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(searching again) Hey-- Lucas keeps watching him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "What are you doing? John pulls out a large scythe-- hefts it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Nothing-- son-- John scans the garage for another weapon-- he drops the scythe back in, we see: a half-rusted old hunting-knife-- dirty, dull-- but deadly enough-- John takes it in his ha Lucas watches John, not seeing what’s in John’s hands-- h picks up a box-cutter from the tool-bench, fiddles with i John sees-- JOHN (cont'd) Don’t play with that-- put it down-- Lucas puts it back-- thinking--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "So-- it was like a gas-station? John stops-- agitated-- LUCAS (cont'd) Where Bren got killed-- John-- thrown-- on edge-- covering--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Yes. It was a gas-station-- (he hesitates) Why do you want to know? Lucas doesn’t know himself-- trying to make sense of it-- \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "I wondered where he died. John-- not what he wants to talk about now-- but--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(as gently as he can) It was a-- Kwik-Stop. In Roxbury. John-- scans around again, still searching-- on edge-- st holding the knife--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(nods ) Do you think he was scared? John can barely stand it-- he nods-- looks at the knife i his hand--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(gently-- near-cracking) Yes. I think he probably was scared, Lucas. The headlights of an approaching car, hit them-- HELEN, arriving home from work-- John drops the knife through th open window of his car, on to the seat-- out of sight-- Helen gets out-- she comes closer--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "How did it go? John hesitates-- gathers his courage--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "They let him go. Her eyes widen-- she stares at him-- so does Lucas-- Hele can't believe it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "They did what? Why? John-- dying-- lying--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I don't think it was him. Helen-- disbelieving-- Lucas too-- \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "But-- you said it was him-- you said they had him-- John doesn’t answer Helen-- staring incredulously-- undon HELEN (cont'd) Are they going to keep looking?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(lying again) They said they would. She keeps staring at him-- bereft-- JOHN (cont'd) (quietly) I'm sorry. John-- still agitated, still covering-- he heads for his JOHN (cont'd) I think I left something I need at the office-- I’d-- better go back--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Now? Jesus, John-- John bursting-- gets into his car--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I'll be home as soon as I can-- John drives off-- leaving Helen and Lucas standing there- Helen turns-- storms past Lucas into the house, smashing aside the partially opened door-- Lucas stands there, alo he looks at the box-cutter-- pockets it-- goes--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- parked up the block from the building Joe disappea into-- watching-- forcing himself to take measured breath A YOUNG MOM, pretty, latina, rounds the corner, rushing, strapped to her, stroller loaded with grocery bags-- she crosses, hurries into her building-- John watches another moment-- then shakes his head-- blow out air-- he reaches for the key, about to turn it-- \f31. He stops, suddenly-- doesn't turn the key-- the building is opening-- John watches-- JOE steps out, carrying a bag of trash, smoking a cigaret heading or the alley-- John's eyes widen-- he watches Joe walk toward him-- Joe-- stuffs his free hand in his pocket, against the col sucks on the cig-- John-- hyper-ventilating, gasping, trying to stay calm-- looks across the sidewalk, through shadows-- the trash-al John gets out of the car-- no idea what he's doing, but h doing it-- Joe half-slips on the sidewalk-- dogshit on his shoes, he starts scraping it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOE",
+          "text": "Jesus-- christ-- John pulls his collar up, goes into the alley-- Joe scrap the dogshit off, pays no attention to John-- Joe-- walks on-- nearing the alley-- JOHN-- steps out, in front of him-- Joe looks up-- doesn' recognize him at first-- then he does-- fear flickers-- they're alone-- John-- enraged-- terrified-- Joe-- laughs at John-- JOE (cont'd) You're kidding me-- Joe holds the trash out to drop it, but before he can, Jo lunges forward, grabs Joe by the jacket-- the trash drops Joe stumbles backward over it-- John drags him with all h might toward the alley-- Joe, shocked by the force John is dragging him with-- tri to wrestle out of his grip-- John-- drags Joe backwards into the alley-- light of stre receding-- Joe’s panting, fighting-- surprised, afraid of John now-- John-- huffing-- grunting-- dragging Joe further and furt back into the dark, cinder-blocks, over trash, no matter much Joe kicks and twists and claws-- Joe can't get leverage, John keeps dragging him-- \f32. John finally slams Joe to the ground, slams Joe into the concrete again and again and again-- Joe grabs at John's throat, John pulls back, slams Joe again-- Joe-- grabs at John's coat, yanks him sideways trying to over him-- John loses his balance, slips down-- The knife falls out of John's coat, bounces-- Joe and John both see it-- both lunge for it-- Joe gets i first, gets over John, kicks him down, jumps up, pulls th knife out-- hops back, wielding it-- John-- on his knees-- looks up at Joe-- the blade-- Joe swoops in at him, swiping the blade at John-- John charges at him-- slams Joe back into the wall-- grab the knife-hand, holds it as tight as he can, trying to contain it-- tries to pin Joe with his body-- his elbow pressing his head down-- They're locked on the ground, breathing, gasping, deadloc John pinning him-- Joe choking John-- strangling him-- John shifts one hand, starts to edge the handle out of Jo fingers, slowly-- Joe’s wriggling, but can't budge John-- John gets the blade free, yanks his throat back away from Joe, and suddenly swoops the blade into Joe's gut-- a sav blow, it shocks John-- and Joe--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Joe gasps-- rattles-- and stops-- silent--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John stares in shock-- staggers backward, drops the blade he turns away, falls on all fours, guts wrenching-- He vomits-- sweat beads over him, he rolls back away from pool of sick-- stares at Joe's body-- amazed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AT THE END OF THE ALLEY--",
+          "text": "In upper windows, curtains part-- NEIGHBORS looking out-- John claws backward, into the shadows-- the curtains clos again-- no yelling-- no sirens-- quiet-- He scrambles to his car-- and takes off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN pulls up in his car-- he steps out-- and hurls his k into the water-- it splashes, disappears-- he goes--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HELEN, on the living-room floor, piles of video-tapes aro her, a big basket-- she’s sorting, manic-- LUCAS, near he the floor, sorting through too-- staring at old video-tap an old family video, a town New Year's Eve party, plays, Helen looks at Lucas, no idea what to say to him-- she tr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "(sorting-- keeping busy) I’ve been meaning to do this for-- months-- it’s very-- grown-up of you to help-- She catches herself, knows she came off patronizing-- Luk keeps sorting through-- a big laugh, roar, on the tape on tv-- JOHN, HELEN, BRENDAN, LUCAS laughing-- goofing-- HELEN (cont'd) (taken-- touched) What a bunch of knuckleheads-- Luke watches-- doesn't answer-- the front door bangs shut they both look up-- JOHN walks in-- smeared with mud, sweat, his coat torn-up Helen sees, jumps up-- HELEN (cont'd) Jesus-- what the hell happened to you? John sits in a chair, heavily-- he looks down at himself-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I-- slipped-- at the station. It was icy-- Helen-- staring--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Jesus Christ-- \f34. Lucas studies John-- Helen-- starts pulling his coat off, fussing over him-- HELEN (cont'd) My God, look at you-- He looks at her-- his face is open-- almost at peace-- He notices it-- warms to it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I’m going to-- get in the shower--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "I’1l bring you something to eat-- John gets up-- some kind of relieved trance, a weight lif he sees Lucas staring at him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "How are you doing. You OK? Lucas nods, barely-- welcomes the connection, brief or no on video, in bg: the countdown starts, bg-- 10-9-8--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "I'm OK. I guess. John nods-- lays his hand on Lucas' head, scruffs-- first time he's touched him since Brendan died, Helen catches i Lucas looks at John, their eyes meet-- John nods-- the cr counts down: 7-6-5--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Good. That’s good. John goes-- Lucas, warmed briefly, sinks cold again-- in on video-- 3-2-1--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John stands in the shower with his head hung, water washi away pain-- guilt-- and the front he’s kept up-- Overwhelmed, he breaks down-- slides down the wall into a foetal position, crying for his son-- naked, vulnerable-- HELEN comes in-- sees him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "John-- \f35. She rushes to him, turns off the water, kneels, embraces John, shaking-- crying with grief-- relief--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I'm-- sorry-- I'm so sorry-- She tightens her hold on him-- begins to cry with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Oh, John-- shh-- shh-- They’re together now, for the first time since Brendan di They hold each other, squeezing the pain away, as best th can-- Helen, part-relieved-- at least John's with her, no",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN, heading for work, comes out as BAKER, the neighbor, leaving the trash-barrels behind John's car again-- John-- throws his briefcase down-- starts marching across lawn at Baker-- Baker blanches-- starts backing away-- sees the look on John's face-- homicidal--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAKER",
+          "text": "(backing away) Uh-- I'm only-- John storms after him, grabs him by the shirt-- gives a h shake, neck-snapping-- Baker's gasping, terrified--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "You want to clean something up? You want to? Baker-- spluttering--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAKER",
+          "text": "Jesus-- Christ-- John-- drags Baker across toward Baker's trash-barrels-- through grass and flower-beds, mud-- Baker can't get free BAKER (cont'd) Let me go-- Jesus-- \f36. John-- shoves him with all his might into Baker's barrels Baker falls backwards, slips, skins his elbows-- John stands over him-- points a finger in his face--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quiet-- deadly) If I see you on my lawn again, I'll kill you. OK? That OK with you? Baker-- stunned-- nods-- John walks away, amazed-- that felt qgood--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRONT DOOR -",
+          "text": "HELEN and LUCAS-- on the front porch, heading out-- they’ been watching-- John straightens his tie, clears his thro JOHN (cont'd) Sorry guys-- (lying through his teeth) I, uh-- I shouldn’t have done that. He gets in his car, pulls out-- they watch him go--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A body-shop office, half in shadow-- BILLY comes in, duffel in hand, heads for the back-- we h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES, (0.S.)",
+          "text": "Where the fuck you been, Nancy? Billy stops dead, turns and sees-- hidden in shadow-- BONES-- 40's-- black-Irish, black-heart, heavy as death-- behind the counter, locking away his prized possessions-- array of guns, laid out-- Billy tosses the duffel-- it lands near the guns-- BONES (cont'd) Watch the pieces. They’re worth something-- unlike you-- Billy, slow-blinks-- Bones looks in the bag-- angrier-- \f37. BONES (cont'd) What the fuck you call this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "That's our night. Bones-- pops a gun-slide-- chambers a round-- pops the ro out again-- looks at Billy--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "When I take pity on you and your faggot half-wit friends, give you a couple of corners to run-- (raises his voice, just) You better deliver, or I'll know you're stealing from me. And I'll kill you. Bones stands up-- Billy flinches-- barely. BONES (cont'd) You can be the prince of Pa-Yan, you're light-bagging me, I'll kill you. Good? Billy-- shrugs as much as he dares-- nods-- full of hate-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(quiet-- just as deadly) Good. Bones-- scoops the cash out of the bag-- throws the empty at Billy’s feet-- turns back to his guns--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "(not looking up) Lord knows I've been patient-- (still not looking up) Yes, you can get out of my sight, now. Billy-- full of hate-- grabs the bag and heads out the do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billy storms out of the body shop-- couple of YARD-DOGS, chained, low-growling, behind him-- he heads for his car- A car screeches up, cuts him off-- BODIE jumps out-- Bill guard up-- \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "You hear? Your brother, dude-- Bodie-- doesn’t know how else to say it-- BODIE (cont'd) Somebody stuck him. He’s dead. Billy-- shocked-- burning--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "What? You're lyin’-- Bodie’s not lying-- Billy looks back at Bones' shop-- and marches to his car--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- at his desk-- devouring a sandwich-- cranking thro his numbers again, swift-- sharp-- MARSHALL, 50's, John's boss-- stops at his door, sees Joh zipping through-- John looks up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARSHALL",
+          "text": "You're doing a huge job for us with this thing of yours--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Well-- work helps-- Marshall-- sympathetic--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARSHALL",
+          "text": "How are you guys faring? You-- getting through it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "We're ok. You find compensations. It's what we do, right? We compensate for loss-- move on-- Marshall-- taken aback-- John seems almost too recovered-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARSHALL",
+          "text": "If anything like that ever happened to me I think I'd-- snap-- \f39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(covering) You really don't know what you'll do. Until it happens. You-- surprise yourself-- WALLIS appears in the doorway-- John tenses-- on guard--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "I’m sorry to break in on your day--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(tense) No, that’s-- (he stops) Marshall-- this is the detective-- for Brendan’s-- John can’t quite say ‘murder’-- he waits--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "That guy we thought killed your son. Somebody killed him. John-- on edge-- waiting for Wallis to accuse him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(covering) What was it-- some kind of-- gang thing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "(nods) We think so. John eases, relieved-- he’s getting away with it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARSHALL",
+          "text": "Jesus-- there is justice, huh? John looks at Marshall-- Wallis-- blinks--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I suppose there is. Wallis-- sympathetic-- or suspicious-- both--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "I thought you’d like to know. I thought that might mean something to you. If he was the one, I mean. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quiet-- covering) Thank you. Wallis glances at John’s work, spread across his desk--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "I’ll leave you to it, then-- Wallis goes-- Marshall steps to the door too--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARSHALL",
+          "text": "Me too-- I'm here when you need me-- Counseling, anything-- John buries a smile-- half-haunted--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "We’1ll-- manage-- Marshall leaves-- John sits back-- breathes-- looks out t window, a shining day, blue sky, white clouds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LUCAS-- other PLAYERS, leaving the field after soccer-- sweaty, muddy-- played to the death-- HENNING-- taunting-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENNING",
+          "text": "Jesus, Hume, you're like a blind- man, three guys open and you take a nap on the ball-- Lucas-- ignoring him-- Henning-- knows he shouldn't, but- HENNING (cont'd) I'm sick of losing 'cause you have your head up your ass about your damn brother-- Lucas wheels-- punches Henning in the face, Henning drops Lucas jumps on him, punching, brutally-- he can't stop-- KIDS try to pull him off-- Henning cowers, tries to get h hands up-- Lucas punches through them-- over and over--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "(punching and punching) Shut up-- shut up, you prick-- \f41. Lucas-- punching-- savage, rage boiling out of him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HELEN-- with LUCAS-- her heart breaking for him, but does know where to start-- cold silence--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "Can we get to the punishing now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "(clears her throat) Certainly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A hole-and-corner river-rat bar-- BILLY, BODIE at a booth, with HECO, BAGGY, JAMIE, SPINK, and TOMMY-- beer and whiskey, silence--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "I'd like to find the motherfucker who did that to him-- They nod--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SPINK",
+          "text": "I'd take a piece of that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "Me too. He was a good boy. Billy-- waiting--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "So? Who the fuck was it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAGGY",
+          "text": "Wasn't MS-13-- I'd know about it. Billy stares at him-- BAGGY (cont'd) I'd know, OK? They look to Bodie-- \fSilence-- 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "Wasn't B-Street, wasn't the Hall. Wasn't any of those assholes, none that's bragging on it, anyway-- nobody's saying shit, nobody was over there, anyway. It's bullshit--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAGGY",
+          "text": "My sister said she saw some fucker in a suit down there--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "How many fuckers in suits you ever see in Dover Hall? Billy gets up, goes to the bar-- AT THE BAR -— Billy passes SAM, the bartender, goes to a stack of newspapers scattered at the end, riffs through-- he stops headline, about Brendan's death-- Sam watches-- “ARLINGTON YOUTH SLAIN IN ROXBURY\" Billy comes back to the table--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "There's a comical thing-- we never make the papers when one of us gets killed-- (reading) Son of a senior vice-president of Boston-based Aurora Life Insurance-- Billy throws the paper on the table-- looks at them-- They nod, BILLY (cont'd) We sentence this motherfucker. He's done breathing. real as death--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LUCAS, on his bed, holds the box-cutter over his wrist-- starts cutting-- stops-- punches the blade into his arm-- throws it across the room, punches the wall, raging-- He gets up-- grabs the box-cutter, his back-pack-- walks",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- with a few other LATE-WORKERS-- comes out of his building, edges the square, heading for the 'T' train-- He sees a POLICE-CAR cruising, seems to slow down as it passes-- he flinches, reflex-- it keeps going-- so does h We see a blur-- somebody darting into a doorway-- John lo behind him-- nobody but a few last late commuters--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN, a few COMMUTERS board the train-- we catch flashes- somebody looks like SPINK-- somebody looks like HECO-- Jo looks down the cars-- no sign of them, if they were there",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN, riding-- the car deserted-- the train pulls to a st",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN gets off-- deserted platform, old cast-iron station- looks around again-- wary-- heads for the stairs-- BILLY-- steps out of a tunnel, behind John-- gun in hand- strides up behind John, gun aimed at John's head-- John s him, dives downward, as:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billy shoots-- misses John-- John whirls, running, lookin back-- Billy shoots again, John flinches, cowers, stumble backwards on to the stairs--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks-- TOMMY, SPINK, DOG, BODIE, JAMIE, BAGGY, HECO-- rushing forward-- he sees their faces-- recognizes them, remembers them circling Brendan-- Billy shoots again-- it pings on the metal stairs-—- John clambers up the lower steps-- runs up the metal staircase-- Billy shoots after him again--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY-- runs up onto the bridge from the stairs-- no sign John-- Billy whirls-- as-- JOHN-- jumps out of an archway, smashes Billy in the face with his elbow, grabs Billy by the forearms, shoves him backward, all his might-- Billy digs his heels in, his ar bangs a pillar, he drops his gun, it clatters-- John, too scared to let go, swings Billy-- keeps shoving Billy backwards toward another set of stairs-- Billy-- back-wheels, fighting it, but-- John shoves him, his might, he falls down the stairs-- he smacks the metal stairs halfway down, bleeding-- Dog yells:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOG",
+          "text": "Billy-- John looks at Billy-- he knows his name now-- looks at DO TOMMY-- the OTHERS-- guns up and blazing, charging at Joh John-- dives, cowers-- sprints for the other end of the bridge for other stairs-- BULLETS PINGING AROUND HIM, concrete popping, wired-glass shattering-- John stumbles at the top--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ON THE METAL STAIRCASE--",
+          "text": "He somersaults down, head, elbows, smacking-- \f45. He rolls out, at the bottom, runs to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- runs for his life across the footbridge-- just as TOMMY crests the stairs at the other end-- John dodges ar the corner into--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN runs in-- bolts for a row of cars across the concret diving behind one-- cowering, peeking out-- BILLY runs in, gun up-- scanning-- John-- scrabbles sidew behind the car-- he looks up-- a FIRE-EXTINGUISHER on the wall-- he starts to crawl toward it-- sets off a car-alar he scrabbles away, frantic-- BODIE-- all the OTHERS- swarmed into the lot now-- start shooting at the car sounding the alarm, riddle the car, t wall, with bullets-- John’s surrounded-- he looks at the stairway-- looks at t extinguisher-- he crouches and bangs car after car after in a row, staying behind them, as alarm after alarm sets BILLY and the others fire and fire, only glimpsing John between cars, clouds of concrete busting out as bullets s and alarms go off-- John finally gets to the extinguisher, yanks it off the w metal squeaks, it’s deafening, even among the alarms-- he holds it in front of his head, charges straight for the stairs-- JAMIE is in his path, John roundhouses the extinguisher around, smashes Jamie in the face-- and keeps running for stairs-- shots pepper the wall-- he throws the extinguish behind him, bullets pop into it, explode it-- John runs-- smashes a fire-alarm as he goes into the stairwell-- emergency-lights flash on, blinding-- Billy a the others, squint, shooting wild-- sprinklers shower dow Billy, the others-- John runs up the stairs--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- frantic, running-- shots smacking the walls below he passes one level, keeps going up to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN runs straight for another row of car-- crouches, crawling along-- watching the stairs-- BILLY and the othe run by-- Billy hesitates-- looks down the stairs, other levels-- he nods to Tommy--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "In there-- Tommy runs in, Billy and the others charge up-- JOHN crawls along behind cars-- tracking as TOMMY runs in John-- sees his car-- Tommy's right next to it-- John tak his keys-- beeps the locks-- Tommy spins, looks at the ca John charges him from behind-- grabs him, wheels him, doi anything to keep him from turning around and getting his or his hands on him-- he smack-wheels him into a concrete pillar, Tommy bounces, his gun spins away-- John scrambles for his car-- gets the door open-- as Tomm rushes him from behind, grabs John, strangling-- John-- his head inside-- Tommy pulling him out, to kill h John sees, in the back-seat, Bren’s hockey-stick-- he gra it, shoves it backward with all his might into Tommy’s fa Tommy reels back, John jumps out, holds the hockey stick across Tommy’s throat-- Tommy struggles, John squeezes do the stick snaps in two-- John spins it and stabs it against Tommy’s chest, it hits bone, barely sinks in-- but Tommy’s pinned, gasping-- bleeding-- Tommy reaches his gun, on the concrete, starts spraying bullets, but he can’t get the gun to point at Jo car-windows, windshields shatter, more alarms--—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY and the others hear-- Billy and Bodie look at each other-- run back--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tommy finally beats John backward, John falls, with the hockey stick-- rushes to the nearest car, windows’ smashe yanks the door, trying to slide through to the other side before Tommy can shoot-- TOMMY jumps after him-- dives on him in the car-- they wrestle, death-lock-- John starts to get out of Tommy’s grip-- desperate-- he s the hockey-stick deep into his throat-- it sinks in-- Tom gasps-- splutters-- but still clabbers with his hands, tr to wring John’s neck--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The brake-lever pops up, as they fight-- the car starts rolling backward, down the slope-- they're going together closer to a thin metal-rail-- John fights, madly-- closer Tommy, spluttering-- fights as hard-- The car rolls back faster and faster-- they're almost at edge-- John-- still holding Tommy he kicks the windshield, all h might-- 1--2-- 3 times-- it pops-- he bangs his elbow dow into Tommy's face, gets loose-- he wraps the seatbelt aro Tommy’s neck, around the gear-stick-- he scrambles out, slides over the hood: Tommy-- wedged inside, caught in the seat-belt--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AT THE STAIRS--",
+          "text": "BILLY and the others run in-- as Tommy, trapped in the ca smashes through the railing-- Billy and the others stare",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car-- Tommy in it-- smashes through, dead-drops a hun feet, and-- smashes at the bottom, the entire front collapses, Tommy's crushed-- dead--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- frantic, desperate, jumping his car, starting it-- screeches out of there, leaves Billy and the others stand they wheel, look at him, he races away-- Billy stares-- furious-- he sees something on the ground- peers closer-- it’s John's wallet, he dropped it-- Billy picks it up-- looks inside-- smiles--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John-- driving-- panting-- haunted-- he careens around tu after turn, getting out of there, he can't seem to slow d he looks in his rearview, again and again-- nobody seems be following-- he keeps looking, in fear for his life-- His cell rings-- he jumps-- looks, it's Helen-- he answer looks at his watch--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(trying to sound half normal) Hi-- I'm sorry I’m late, I-- (he stops) What do you mean, you can't find him? Did you call his friends? John-- a chill goes through him-- JOHN (cont'd) Jesus-- honey-- I’11 call you back-- I think I know where he is-- He throws the phone at the seat-- fish-tails the car arou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John driving, fast, anxious-- it's the street where Brend was killed-- the same gas-station-- he looks ahead: John’s eyes widen-- LUCAS-- in the distance-- standing on spot where Brendan died-- John pulls up-- jumps out-- looking around-- LUCAS-- hand his pockets-- shivering-- staring at the ground-- JOHN runs to him-- Lucas looks up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(furious-- yelling) What the hell are you doing? Your mother's terrified-- Lucas blinks-- John-- wary-- he barks-- pointing-- JOHN (cont'd) Get in the car-- Lucas-- staring to cry-- backs away--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "No--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I_ said get in the car--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "I don't want to get in the car-- John-- had enough-- he marches over, grabs Lucas-- picks up-- Lucas writhes, fighting John-- kicking-- punching-- gets out of John's grip-- collapses to the concrete, sobb LUCAS (cont'd) (screams ) Fuck you-- John stops, on guard-- fearful for Lucas--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "This isn't a safe place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCAS",
+          "text": "Yeah, I know that much, don't I? John-- can’t answer him-- \f50. LUCAS (cont'd) Would it have been better if it was me? Is that what it is? You guys could have handled that a lot easier than losing Bren the golden- boy-- John-- stares at him-- Lucas finally has his attention--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Jesus-- son-- John grabs Lucas, hugs him-- looks in his eyes-- JOHN (cont'd) I swear to you, son-- that isn't true. I love you. I swear to you-- Lucas-- breaks down, sobbing-- John helps him up, still o guard-- JOHN (cont'd) (quietly) Come on. Let's get you home. They walk toward the car-- John watching, on guard, every step--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HUME’S HOUSE - KITCHEN - NIGHT JOHN and LUCAS come in-- HELEN rushes to them, wraps her around Lucas, holding him for dear life-- John stands by, almost an outsider, then wraps his arms around both of th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quietly) It'll be better-- I promise you-- Helen looks up at him-- JOHN (cont'd) We'll be a family again. Soon. -- but he has no idea how-- he looks out-- holding them--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A cheap store-front, fake-wood panelling, plastic chairs, counter with bars-- more like a bail-bonder than a funera home-- BODIE, the OTHERS stand by the counter waiting-- silent-- furious-- BILLY-- his back to them, stares out to the street, hard nails-- tapping John's wallet on the door-- A CLERK comes back to the counter with some forms, cranks numbers on old paper-tape calculator-- looks at Bodie--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Memorial service is only another hundred-- Billy looks at the clerk from the door-- as if he’d like kill him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(calls over) He doesn't need a service. Just burn him. The clerk hesitates-- Bodie leans in-- threatening--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "How about we respect the bereaved's wishes or I'm burning you too-- The clerk punches the calculator-- it rattles out tape--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Cremation and disposal. Seven- hundred. Billy pulls John's wallet open-- walks to the counter-- f out two bills--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "You see this wallet? This wallet’s got two hundred. And this two hundred takes care of my brother. Billy stares at the clerk-- daring him to argue-- the cle throat creaks, a scared little cough-- \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "(he nods) Two hundred. (clears his throat) We’re-- sorry for your loss-- Billy turns for the door-- he stops, looks at the body-ba a gurney, next to the counter-- Joe's body-- he looks at bag-- then he looks at the wallet, walks out-- they follo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY-- still carrying John’s wallet-- comes out with the OTHERS-- Billy locks eyes with: BONES-- sliding by in his sedan-- staring at them, seriou a hanging-- Billy, the rest tighten-- fear shows-- Bones pulls up, hard, steps out-- crosses to them, a scrunched-up newspaper in his fist--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "What are we doing here? Huh? Billy eyeballs him-- the others somewhere between backing Billy and fearing Bones-- nobody answers-- BONES (cont'd) -- maybe somebody’s going to tell me when you girls are planning to put in a few minutes on the perfectly good corner I gave you? He slaps Bodie in the face with the newspaper, Bodie flar doesn't budge-- BONES (cont'd) And now I get to read all about gang-wars and dead pieces of shit because somebody had to go kill a rich little faggot. Way to make the papers-- I don’t need help like that-- They look at him-- hating him-- but more afraid of him-- Bones-- steps closer, like death himself-- BONES (cont'd) Listen to me, kids. You work for me, you work for me. \f53. You don't in-and-out, you don't half-ass, you pay me. J say when you're done, and when I say that, one of you leaves the shit-hole you live in after your morning needle one pretty day and wakes up bleeding to death in the trunk of my car, OK? ‘Cause when you're with me I'm your life and death. I'm the world on a cracker. He stares at them-- BONES (cont'd) So which one of you boys going to bleed to death in my trunk? (in Billy’s eyes) Huh? You, Billy boy? Gang-lord? Bones snorts, derisive-- BONES (cont'd) Whatever you little fucks think is important ain't important. So stop it. Right fucking now. (paternal, good-coach) You're all good boys. Now buckle down for me. He turns-- starts walking away-- Billy looks at the funer home-- sees a little plume of brown-gray smoke, billowing",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(calls after him) They're burning Joe-- if you're interested-- Bones nods, walking-- tenses, barely, but-- not intereste",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "(walking away-- sing-song) He'll be the lucky one, boys-- Billy-- watches Bones go-- madder-- burning-- he looks at John's wallet in his hand-- throws it to Bodie, it slaps his chest, he catches--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. HUME’S HOUSE - BEDROOM - MORNING John getting dressed, looks on the dresser, pats his hip- pocket-- his wallet’s missing-- he goes to the closet, pa the suit he was wearing yesterday-- not there either--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John pulls up into the parking garage-- COPS, YELLOW TAPE everywhere-- he keeps going to:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No cops on this floor-- John parks, goes to the edge, loo down-- a crane is lifting the smashed car up-- MORE COPS everywhere, STATION OFFICIALS-- Tommy's body is covered u with a white sheet-- He looks down around the wreck-- sees WALLIS-- he scans t ground for any sign of his wallet-- none-- Wallis looks up, at the broken guard-rail-- John pulls ba out of sight-- breathing hard-- He looks across to the tracks-- COPS there, too-- he’s driving to work today-- he goes back to his car-- pulls o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN drives by the broken railing, the COPS-- scans the ground as he goes-- no sign of his wallet-- he drives on-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WALLIS-- looking at the smashed car-- the evidence-bag of bullet-casings-- thinking-- he watches the bloody hockey- stick going into a bag--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. JOHN’S OFFICE - DAY John-- agitated-- tries to focus on his project, his numb he can’t-- he slams the spreadsheet down, gets up-- paces",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BODIE-- crosses the lobby of John’s office building-- carrying a package-- He looks at the directory-- heads for the elevator-- a GU at the desk sees him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK GUARD",
+          "text": "You need to sign in-- Bodie looks at the guard-- DESK GUARD (cont'd) Messengers drop off over there-- The guard points the other way to a messenger center, oth MESSENGERS dropping off-- another GUARD-- armed-- nearby-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "No-- I need to hand-deliver this-- to John Hume-- The armed guard glances at Bodie-- looks him over--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARMED GUARD",
+          "text": "You can sign in and drop it off like everyone else. Bodie looks at the elevators-- the guard’s defenses up-- Ding-- the elevator door opens-- Bodie waits-- as the elevator door closes, he runs for it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ARMED GUARD/ DESK GUARD",
+          "text": "Hey! The armed guard chases after Bodie, but the door shuts be he gets there-- he runs to an adjoining elevator. The desk guard rolls his eyes-- picks up the phone--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. JOHN’S OFFICE - DAY John-- trying to focus-- hears yelling, outside-- he look up, sees: BODIE-- zig-zagging through the cubicles, knocking into people and furniture-- trailed by four SECURITY GUARDS--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "(yelling) John Hume-- John Hume-- John sees Bodie-- he gets up, goes to his door-- Bodie sp John-- heads straight for him, comes up face to face-- BODIE (cont'd) Nice office. Motherfucker. John-- seething with anger--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "What the hell do you want? Bodie hands John the box--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "That’s the gift of freedom, baby-- The guards grab Bodie-- Bodie eye-balls John-- the lead G looks at John-- thrown, they seem to know each other--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUARD",
+          "text": "Sir? Should we escort this person out? John-- doesn’t answer-- Bodie grins-- GUARD (cont'd) (to John) Sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "(staring at John) You’re free from wondering how you’re going to die, now. (he smiles) You’re free from wondering if you’re going to die alone. Hear? Bodie laughs-- deadly-- low-laughs-- \f57. BODIE (cont'd) (sings-- low-- deadly) -- ‘cause you'll get pie, in the sky, when you die-- John stares-- Bodie snaps the guards’ hold off him, fast snake, and walks away-- the guards try to hustle him, he shakes them off again-- keeps walking-- MARSHALL-- KEVIN-- AMY-- and everyone else in the office staring at John-- John takes the box inside, sets it on his desk like it’s going to explode in his face-- he stares at it, tension growing-- he lifts the lid-- revealing: His wallet-- John lifts the wallet out-- opens it-- riffling through i stopping at a picture of him and his family-- He pulls the photo out-- its smeared in blood-- John’s ey wide, in horror-- something catches his eye-- Reflected in the shiny surface of his desk-lamp-- the bac the photo-- a phone-number, backwards-- he turns the phot around-- He stares at the phone-- he picks up, dials the number-- breath harder than the last--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We move through a dark corridor, lit only by a red, overhanging lamp, to a ringing pay-phone. A hand picks up-- it’s Billy-- but he doesn't say anythin he smiles, waits, breathes, loud enough for John to hear-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Where are you, you bastard? Billy smiles, waits-- let’s John twist--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "Family's everything, eh? Isn't it? It is to me. \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Where are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "Oh, I see, you'd do me down like you did my brother. He was a kid you know, once. Did you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(yells-- furious) Like my son?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "We had birthdays, we had all that. You had a few for your boy? Cake? Singing? John-- too enraged-- too gut-twisted to answer-- BILLY (cont'd) Well-- you and your little loves-- see? John waits-- bursting-- Billy-- calm as death-- BILLY (cont'd) You_just bought yourselves a death sentence. All of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billy hangs up-- dial tone-- John-- in a panic--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Don't hang up-- god damn you-- John-- hyperventilating-- everyone’s staring-- he yanks o his desk drawer, spilling papers, a stapler-- digs-- as h dials, frantic--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HELEN'’s desk-- her phone rings-- she’s not there-- John-- frantic-- listening to the rings--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Damn it-- Helen comes in, looks for something, letting the phone ri she finally picks up-- \f59. JOHN (cont'd) Jesus, honey are you OK? Is Luke",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK",
+          "text": "Helen-- frightened--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Yes-- we’re-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "-- stay there-- keep Luke there-- don't go home, alright?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "John? What’s happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Just stay there until somebody comes-- promise me-- She’s thrown-- terrified--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "Who? Who's coming?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "The police-- She goes cold--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "John? What the hell is going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Just stay there until the police come-- then go home, I'm coming home-- alright? He hangs up-- he’s still digging through-- he finds Walli card-- grabs it-- and runs out--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. JOHN’S BUILDING - ELEVATORS - DAY JOHN runs to the elevators, chasing Bodie-- bangs the but can’t wait-- he runs for the stairs-- charges through the door--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. JOHN’S BUILDING - LOBBY - DAY JOHN runs through the lobby-- crowds of PEOPLE-- no Bodie he runs out to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "EXT. STREET OUTSIDE JOHN’S OFFICE - DAY JOHN runs out-- crowds, cars-- no sign of Bodie-- he’s go he sees a UNIFORM COP, moving a double-parked truck along he looks at the cop-- He peers at Wallis’ card, hesitates-- then dials his cell frantic-- as he’s running for his car-- He runs, frantic-- gets in his car as an operator picks u",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(on cell) I need Detective Wallis-- now--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "Hold--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT./EXT. JOHN’S CAR - DAY JOHN-- starts up, yanks the wheel, pulls out into traffic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(yells-- jamming the wheel) No-- I need to talk to him right now-— Cars screech, horns blast at him, he peels through-- Operator hesitates-- John-- panting, breathless, desperat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OPERATOR",
+          "text": "I’m putting you through--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. WALLIS’ OFFICE - DAY WALLIS, typing-- the phone rings-- \f61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "-",
+          "text": "JOHN-- driving like a banshee-- careening through gaps--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "They've threatened my family-- Wallis-- catching up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "Mr. Hume?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Those trash threatened to kill my family--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "(takes control-- working) OK-- where are your family right now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "They’re at the school-- St. Bartholomew-- John-- panting-- barrels through a red light--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "Now-- what trash are threatening your family? Why would they want to do that, Mr. Hume? John-- panting--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Just-- help us-- please--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "I will. John throws his phone aside-- jams the accelerator, jets to the expressway-- Wallis-- line dead-- gets up, grabs his jacket--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "EXT. OUTSIDE HUME’S HOUSE - DAY JOHN pulls up, still driving like a maniac-- the COP CAR there, TWO COPS inside-- John runs inside--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HUME’S HOUSE - KITCHEN - DAY LUCAS and HELEN are at the table-- frightened--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "What the hell is happening? He looks at her-- looks to the cop-car outside-- he can’t answer her-- he starts running through, locking doors, windows, closing blinds-- Helen watches-- fear mounting-- John heads to the living-room--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. LIVING-ROOM —- DAY JOHN-- rushes through, locking windows, dropping blinds-- stops-- all he can do-- HELEN comes in-- stares at him-- The doorbell rings-- John tenses, looks-- as WALLIS peers in through the windo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John goes to the door, opens it-- Wallis comes in-- John leads him toward the living room--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Thank God you’re here-- Wallis looks at John-- weighing--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. LIVING-ROOM —- DAY JOHN and WALLIS come in-- \f63. Wallis looks at the living-room, sees an alcove bristling with Brendan’s hockey trophies-- medals-- bronze pucks-- pair of crossed hockey-sticks--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "Your son was a hockey player. John-- thrown-- Wallis nods-- WALLIS (cont'd) The car’ll stay here tonight-- (keeps staring) I think it’s time you told me-- who did what to who? John doesn’t answer-- Helen stares at John-- Wallis-- ang WALLIS (cont'd) You make war on the wrong dog? That what you did? You figured you could just go kill some little asshole because you live out here? Helen stares at John, at Wallis, horrified--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "What are you saying? (to John) What is he saying, John? John-- twisting-- he lies-- miserable-- desperate--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I’ve done nothing wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "How about you tell me how you get Billy Darley this pissed off at you? Huh? John-- cuts him off-- Helen is staring at him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Billy? Billy's Darley’s brother? Wallis-- nods, guarded-- JOHN (cont'd) He's the one who made Joe Darley kill my son? He's the one who runs these animals? Wallis-- hardens-- \f64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "Listen to me, Mr. Hume. Just get through tonight. And Thank God you're alive this long. But if you started a war, God help you. Wallis-- snorts-- WALLIS (cont'd) I meet a lot of killers say the same damn thing. Helen looks at John-- breaking in two-- Wallis goes out i the hall-- Helen stares at John-- doesn’t dare ask him-- but:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN",
+          "text": "What have you done? John looks at her-- he can’t say it-- but he doesn’t have Helen realizes, she half-collapses in shock, fear, leans against the couch-- staring at him-- John looks away from her-- and follows Wallis out--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN comes out after Wallis-- Wallis stops--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "How do I stop this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "Did you start it? John-- says nothing-- but his eyes admit it-- Wallis nodd weighing-- John’s waiting for him to arrest him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I don't care what happens to me. But I need them safe-- how do I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wallis looks at John-- weighing--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "(nods to the squad car) Do everything those guys tell you. \f65. (starts out) You might pray, too. Wallis goes-- Helen comes out-- stares at him, in shock-- fear-- he looks away again-- locks the door--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT./EXT. PATROL-CAR - IN FRONT OF HUME’S HOUSE - NIGHT All’s quiet-- wind rustles the trees, the house is dark-- The COPS sit, waiting, silent-- the one in driver’s seat takes a last drag on his cigarette-- hits the button to l his window, just a couple of inches, tosses the cig out-- The blade of a machete-- slides through the gap, drives r into the cop's throat-- he gasps, twists, tries to reach blade it goes deeper, he goes limp-- the OTHER cop tries pull his gun-- the passenger door opens behind him, he's grabbed from behind, yanked backwards-- he tries to reach radio but a blade rips across, opens his throat-- he gurg slumps--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. JOHN & HELEN’S ROOM - NIGHT HELEN-- sleeping, fitful-- wind blows outside-- curtains lift, blown by drafts-- the window rattles in the old fra JOHN-- wide-awake-- on guard, on edge-- looks at the wind almost frozen with fear-- He gets up, goes to the window, jams it tighter, the ratt stops-—- He looks out-- the POLICE CAR, still there, under the streetlight-- he just makes out the driver COP’S uniforme elbow, resting against the driver-side window-- branches in the wind-- John looks up and down the street-- not a soul in sight-- He hears a thump-- downstairs-- can't tell what it is-- h looks at Helen-- reaches under the bed-- the scythe, from garage-- he takes it-- goes out to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. HUME’S HOUSE - HALL OUTSIDE LUCAS’ ROOM - NIGHT JOHN looks in on LUCAS-- he’s sleeping-- wind blows outsi Lucas’ window rattles too-- John looks behind him, into t hall, spooked suddenly-- some shadow, moving-- nothing th He looks up and down the hall-- another thump-- a creak-- can’t tell if its the wind, or what-- his blood chills-- He looks at Lucas’ door, at Helen’s-- he goes to the end the hall, looks out that window, sees--— THE COP CAR-- from another angle now-- reflections of blo branches slide over the windshield, he can’t see inside-- then-- as the trees blow harder the reflection shifts, he sees inside: THE COPS-- dead-- throats cut-- JOHN'S EYES GO WIDE-- he spins-- as: BILLY, BODIE and the OTHERS charge up the stairs, straigh him-- shooting-- swarming at him-- plaster, glass, explod John flinches as glass splatters his face, the gun-flashe are blinding-- he drops his scythe as a bullet pops his t open, red bursts out across the wall-- He half-drops, grabs the scythe-- he darts his eyes to Lu and Helen's doors-- but Bodie and the others are charging already, swarming right, left, screaming-- John bolts up, his scythe raised, eyeballing Billy, who's standing in the center of the hall, smiling at him-- John charges-- him as-- HELEN-- with Heco dragging her by the hair-- is dragged o screaming-- John rushes toward her but HECO rushes in, smashes John in the face-- John drops, struggles to get u But they are dragging Helen away-- LUCAS, dragged by SPIN is half-thrown out into the hall, Lucas smashes against t wall-- John’s eyes meet Lucas’-- they look at each other- John charges up again-- Spink laughs, looking at John, as Heco smashes John down again-- and drags Lucas away as He grabs John by the throat, grinds his boot into John’s wou leg-- John looks-- as Helen and Lucas are dragged away from him down the stairs-- helpless-- Heco pokes him in the temple with a gun, laughing-- starts to drag John along too-- \f67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HECO",
+          "text": "(laughing) Come on and kiss my ass while we watch them dying-- John explodes-- twists out of Heco’s grip-- gets the gun from him-- fumbles trying to get a shot, but Heco kicks J in the face-- John drops the gun-- but he’s out of Heco’s grip, he scrambles along the floor, charges for the stairs-- Heco shoots after him, plaster bursts from the wall-- John disappears down the stairs-- Heco chases him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HELEN-- crying hysterically, on her knees, Lucas, bleedin looking with hate in his eyes-- BILLY and the OTHERS-- looking at them, guns raised-- JOHN bursts in-- yells--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELEN-- LUKE--",
+          "text": "They turn-- their eyes meet John’s-- John rushes at Billy the others, straight into their guns, putting his body between the bullets and his family--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAGGY",
+          "text": "(whoops, looks to Billy) Let's get it done! Billy nods-- he and the others open fire, gunflashes everywhere, walls, porcelain, exploding-- John wades stra at them, going for Billy-- John’s hit in the side but-- he keeps going for Billy-- HELEN is hit in the chest-- blood bursts, she falls-- Luc is hit in the face, then the shoulder, he drops, spinning John turns-- sees Helen and Lucas falling, dead-- Billy smiles, looks at John-- shoots him in the back-- John’s b spins-- then: Billy takes aim at John’s head-- fires-- it grazes his head, slices through his scalp, but his head s back, bleeding as if head-shot-- he drops-- \f68. Silence-- no more guns-- Billy and the others look at Hel Lucas, John, a wounded heap on the floor-- Billy looks at John, takes a step closer-- sirens wailing, closer--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BODIE",
+          "text": "Come on. He's dead. Billy turns-- we follow their boots, walking out, over debris, over the bodies of John and his family-- we hear smashing, crashing, off-screen, as Billy and the others casually rash the place as they go, tipping over shelves, laughing-- finally they’re gone, silence presses in-- HELEN-- dead-- LUCAS-- dead-- JOHN-- dead-still-- lifeless, but-- we go closer-- closer We hear the smallest, merest rasping breath pass from his seemingly dead lips-- he’s still breathing--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN in a hospital-bed-- hair shorn where the bullet graz his head-- raging, drugged, half-conscious, tearing at tu wires-- screaming with loss-- horror-- guilt-- ORDERLIES rush in, past the UNIFORM COP outside, the cop rushes in too, they try to subdue John-- John fights them slides off to the floor, fighting-- finally they gang up, hold him down-- inject him-- he yells out, louder-- FADE TO BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN's eyes open-- blinding lights-- he’s in bed, bandage the horror of the memory floods him-- an ORDERLY hangs a bag on his I-V-- the monitor beeps, softly, John’s heart- seems to hate the sound of it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Can we turn that off? The orderly-- half-afraid of the look on John’s face-- tr a joke--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORDERLY",
+          "text": "The monitor or your heart? \f69. John-- no answer-- ORDERLY (cont'd) I’ll ask the doctor. John stares-- the orderly goes, past the COP on guard jus outside-- as: WALLIS comes up the hall, comes in-- looks at John-- the patch on his head where the bullet snaked through his sca",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "You know, my Dad was on the job thirty years, got shot twice, missed his organs, hail-mary’s-- clean-through’s, just like you. “They keep missing me” he said. Then he takes another one, five years before pension. Went into his guts, he bled to death, slowly though, took a week. My Mom and I came every day. WALLIS (cont'd) You know what he said to me before he died? “It’s the last one that gets you.” Funny, huh? John-- doesn’t answer-- WALLIS (cont'd) You’re done. Understand? Wallis nods at the guard-- WALLIS (cont'd) You think he’s here protecting you? He’s here to haul your ass to jail if I say so. I got a DA doesn’t want to put you away, thinks he’1l lose votes, thinks you’re going to look like a hero. You don’t look like a hero to me. Wallis blinks-- WALLIS (cont'd) This thing stops right now. God knows why you’re alive but you’re getting a second chance. Don’t fuck it up. John-- doesn’t seem to care if he lives or dies-- \f70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I’m going home. Wallis doesn’t buy it-- shakes his head--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "You’re going home when I tell you to. You’re going home when I believe you. John-- struggling-- breaks off-- he can’t go on-- he clos his eyes-- fighting tears down--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I killed my family. JI killed them. Wallis looks at him-- half-comfort, but half-damning-- is going to let him off--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "I’m sorry you lost your family. But we’ll find those fuckers and we'll bring them to justice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "If there was justice my family would still be here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "And where’s your retribution gotten you? John-- no answer-- WALLIS (cont'd) Everybody’s right in a war, aren’t they? Everybody's doing the right thing. John looks at him-- WALLIS (cont'd) Well, all of them end up dead. You were never going to win this thing. You’re not going to win it now. John-- looks at him-- pain shifting, hardening again-- to anger-- Wallis stares at him-- and walks out-- John watches him g looks at the cop-- then: John looks at the closet, sees his clothes-- \f71. He sees his wallet, keys, and cell-phone in a plastic tra a table-- he pulls himself up-- gathers his strength, get out of bed-- He goes to the table, opens his wallet-- the picture, wit the number on the back-- He coughs-- leans on the table-- picks up his cell-- powe it-- it works-- he dials--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(on cell) Kevin-- I need you to run a number-- 555-9815-- yeah-- (waits-- he sags) -- nothing? Look somewhere else. Get it for me. He hangs up-- gets his clothes, starts getting dressed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HOSPITAL - HALL OUTSIDE JOHN’S ROOM - DAY JOHN-- dressed-- comes out-- the COP goes on guard--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Am I under arrest?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "You’re not going anywhere, I can tell you that much--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(in his eyes) Do you have kids? The cop nods-- barely-- JOHN (cont'd) I had kids. I had a wife. John looks as if his soul has died-- the cop can see his heart breaking-- it affects him-- JOHN (cont'd) And now I want to go home. The cop-- affected-- but-- wary-- JOHN (cont'd) Let _me go home. \f72. The cop-- wants to do it, but-- can’t-- he pulls on his r mic-- sees the look in John’s eyes--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COP",
+          "text": "Sorry, buddy-- you don’t get to go home right now-- John-- ready to explode-- Something snaps inside John-- the cop looks at him-- COP (cont'd) (on radio) -- 2-3, 2-3-- I'm gonna need-- He stops talking-- because his night-stick just got jamme into his gut-- he bends over-- John’s holding the club-- cop reaches for it, and John swipes it across his head, knocks him cold-- John looks up and down the hall-- nobody saw-- he drags t cop through the door--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quiet-- dragging him) Yes I do. Sorry-- buddy--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "EXT. HUME’S HOUSE - NIGHT Raining-- bleak-- JOHN walks toward his door-- police-tape everywhere-- he stops, his eyes dead-looking-- he rips the police tape as goes inside--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HUME’S HOUSE - LIVING ROOM - NIGHT JOHN-- alone-- raining, bleak-- the horror of what's happ pressing in on him-- he can barely stand it-- He stands, staring-- smashed debris-- he looks through to kitchen, and can’t quite stand it-- but he goes through t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN comes in-- looks at the floor where Helen and Lucas fell, debris everywhere-- crime-scene tape-- grief floodi over him-- He sinks back against a window-ledge-- he turns, looks ou at the pouring rain-- torrential, whipping-- FADE TO BLACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Next morning-- WAL-MART- the gun-counter-- mild-looking C helping an OLD MAN with an automatic-- John walks up, doesn’t wait--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(loudly) I_want a gun. Now. The clerk-- busy-- thrown--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUN-CLERK",
+          "text": "Be right-- with you-- John looks at the wall-- shotguns-- pistols-- he points--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I want two of those and two of those-- The clerk and the old man stare-- John looks like a mad-m wide-eyed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Well-- you can-- start with the forms there-- (nervous ) There’s a-- three-day wait--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I can't wait three days-- understand? I need them-- John stops-- aware he’s masking a scene-- The clerk picks up the phone, as if he’s going to need to call security-- \f74. John turns, walks out-- he walks past: a wall of machetes looks at them-- keeps going--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Outside, in his car, dead-ended, at a loss-- tears start come, he fights them down-- His phone rings-- he answers--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Yeah-- It’s Kevin--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KEVIN",
+          "text": "(on phone) I got that number run-- it’s a bar in Southie-- the Four Roses-- what’s the-- John-- he breathes-- cuts him off--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Thank you. Goodbye, Kevin. He hangs up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. ARLINGTON - MASS FEDERATED BANK — DAY JOHN at a teller-window-- the TELLER is counting out huge stacks of cash-- looking at John-- the look on his face--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TELLER",
+          "text": "(counting-- on edge) Do-- you want bags for this? John-- nods his head-- she keeps counting, still on edge- she hesitates-- TELLER (cont'd) And you said the savings too? John-- nods--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Everything. All of it. \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TELLER",
+          "text": "Pulling out the college fund, huh? John-- bites down-- doesn’t answer-- she keeps counting-- eyeing him-- nervous-- TELLER (cont'd) And do you want a-- guard-escort? To your car? John laughs, barely-- breathes out-- he stands there like ghost-walker-- waiting--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(quiet) No. Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN comes in, a duffel-bag in hand-- it’s dark, deserted except for a HARD-TIMER, a DOCK-RAT, drinking his pay, an SAM, the bartender-- loading cases off the bar-- John walks to the bar--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I’m looking for Billy Darley. Or any of his friends. Sam-- appraising-- John's looking almost like a local-- haggard-- his face battered-- he goes on loading-- nods t the door--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAM",
+          "text": "They’re outside that door somewhere. So get the hell out. John-- pulls out a wad of cash-- slaps it on the bar-- th bartender hesitates-- sneers-- SAM (cont'd) You get a popper through your ear, might help you hear a little better, yeah? That what you want? John lunges across the counter, grabs Sam by the shirt, s his face down, bangs it on the counter-- the hard-timer g his blood up, climbs off his stool, starts walking at Joh \f76. SAM (cont'd) (struggling) Fuck you-- fuck you-- Sam-- feels his cheek where John bashed it down-- the har timer comes at John-- grabs him by the back of the head w his free hand, bounces him off the bar-- the guy drops, d to the world-- Just as the DOCK-RAT rushes up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCK-RAT",
+          "text": "Hey-- piss-ant-- back it up-- John-- still holding Sam down, doesn’t know what else to he swings his elbow with all his might into the dock-rat’ face-- The dock-rat falters, and John kicks his feet out from un him, he goes over backwards-- stumbles up-- John looks at the dock-rat-- blinks-- and-- John bashes Sam's head down again--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAM",
+          "text": "(yells) Get the hell off me-- John-- shakes him-- growling--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Tell me where to find Billy Darley-- tell _me-- Sam-- a little gash on his cheekbone-- blinking-- John sc more money out, practically shoves it in Sam’s face--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAM",
+          "text": "You don’t want Billy Darley, buddy-- John-- bangs him again--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Where is he? John slaps another wad out with his free hand-- bangs Sam again-- JOHN (cont'd) I've got business with him-- \f77. Sam looks at the small mountain of cash inches from his f he gives, finally--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAM",
+          "text": "OK-- let me go, OK? Let me go-- John eases off-- Sam straightens up-- starts shovelling c SAM (cont'd) (he nods) His boy Heco’s crashing in 113, up the block. Top back. John nods-- still staring-- SAM (cont'd) (mimes a syringe poking his arm-- smiles) He’s usually hooking up around dinner-time, you know? OK? John-- nods-- he hesitates-- slaps another wad of cash on bar--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "And I need to buy some guns. Sam-- wary-- what’s he done-- but then he looks at the mo and shovels it up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAM",
+          "text": "LaVallete and Forge-- only thing over there. Guy named Bones. John nods-- heads for the door-- SAM (cont'd) Don’t let his little friends eat you-- John-- hesitates-- goes--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN walks to the gate-- sees the pair of yard-dogs, at r low-growling-- John moves past them, cautious-- He heads for the office--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN comes in-- wary-- sees BONES, half-obscured in shado sitting on the cheap metal chair like Satan on his throne counting cash into a metal box-- metal baseball bat in vi on the counter-- gun under a ledge, beyond that-- Bones's head comes up, wary-- stops counting-- eyes John, weighing--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "Help you? John-- cautious-- stony--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I need guns. Bones hardens-- squints-- his eyes are animal-- John catc something-- ferocity-- John's own fear--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "I don't know you. Bones-- his eyes flick to the baseball-bat-- then to the John catches it-- tightens--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I came from the Four Roses. John turns-- looks at the dogs, outside, low-growling-- B follows John with his eyes-- watchful-- meaner by the bea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "I’m going to guess you’re a little bit far from home. John opens the duffel-- shows Bones the cash-- Bones looks at it-- nods-- pulls a key from under the counter, unlocks a steel wall-cabinet-- John stares-- every kind of gun you can imagine, bigger, shinier, deadlier than anything Billy or his gang have ha BONES (cont'd) (handling each, showing off, popping actions) \f79. You got your Colt Python-- that’s a sweetie got your Smith and Wesson -45, that’s a hungry-man-sized friend-- got your Desert Eagle-- king of mayhem, take this to the holy-land, do your own crusade-- (to John-- heavy) Any one of these’1ll get it done. John scans the guns-- bewildered-- in a strange country--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(nods to the Python and the Smith and Wesson) Those-- and-- John looks behind-- to a double-barreled breech shotgun-- JOHN (cont'd) That-- Bones pulls it down-- looks at the neat stack--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "That’s three fucking grand worth of killing. You got three grand worth of killing to do? John doesn’t answer-- his face says it all-- he counts ou the cash-- Bones lays up cartridges for him-- and some be holsters-- BONES (cont'd) I’m going to comp you some accessories, ‘cause you got a thing about you-- Bones looks at him-- a death-look, almost smiles-- John blinks it away-- starts loading the guns into his bag-- BONES (cont'd) You got a killing thing about you, you surely do-- Bones starts to laugh-- John doesn’t answer-- shoves the belts, the bullets into the bag-- John zips it-- starts out for the door-- he feels Bones e on him-- Bones, watching him, looks at the gun under the ledge, but then-- lifts a big automatic down, the Desert Eagle, half a foot long-- he loads it-- John hears the ‘click’-- hesitates, keeps going-- \f80. BONES (cont'd) You the motherfucker after my son Billy? John stops dead-- turns, looks at Bones-- he gets it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Billy? Bones stares at John-- malignant-- a deadly look, more de than anything John's seen in Billy or the others-- John’s hand twitches on the handle of the bag-- looks Bon dead in the eye-- swallows hard-- and says it: JOHN (cont'd) Yes. I’m after your son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "Well, he's no damn doing of mine. And anything he did's no damn doing of mine. OK? Bones-- sets his gun on the counter-- in easy reach-- kee his eyes on John-- rests his hand on the counter, close-- John sees-— They look at each other-- BONES (cont'd) So-- somebody needs to make somebody pay for something to make themselves feel better, Billy'd be the one to pay. Kill the little piss-pants-- see if it makes a damn day's difference to me, Dad to Dad-- John flinches-- recoils-- Bones picks up his gun-- BONES (cont'd) -- don't tell me about it. Just go do it. (smiles-- deadly) Lord knows I've been patient-- John-- horrified-- Bones-- slow-blinks-- smiles-- points gun at John-- cocks it-- ready to go-- BONES (cont'd) But you think about asking me where he is, I’l1l kill you. You go your way, now. \f81. (he laughs) Go with God and a bag-full of guns-- John-- horror-- fear-- he eyes the door-- nods, barely-- Bones-- reaches button on the counter-- pushes it-- the c link gate outside-- starts rolling closed-- John looks at the gate-- just wide enough for John to sti get through-- Bones takes his finger off the button-- the gate stops-- Bones nods at it-- BONES (cont'd) (deadly-- warning) I'm not going to be seeing you again. Good? John backs away-- then turns, past the dogs-- through the gate-- BONES-- watching him-- thinking-- he locks his guns away-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HUME’S HOUSE - GARAGE - DAY JOHN-- alone in the garage-- he closes the big doors, it dark-- he pulls on an overhead light, pulls his shirt off pulls open a first-aid kit, re-bandages his wounds-- wrap for battle-- he pulls his shirt back on, buttons up-- he looks hardened, now, battle-scarred-- like a warrior-- He opens the duffle-- looks-- the stack of guns-- and: Lays out the array of weapons-- trying to load them, bewildered, at first, trying to see which cartridges go t which-- how to work the safety, he gets it wrong, first, finds it-- he clicks back and forth-- He’s awkward, half-frightened, at first, but-- then-- sta snapping cartridges like a pro-- re-loading, one-handed-- does it over and over-- until he looks half-masterful-- a all the way deadly-- He loads up, for real, clips in the .45, slugs in the Pyt he snaps the breech-gun, shut, double-up-- then-- He clicks all the safety's off, red-dots showing-- He holds the Python out, pointing at a spot on the wall-- see his face, he’s imagining killing someone-- he half- blinks, half-flinches-- but-- breathes-- hardens-- \f82. Uses the belts, harnesses up weapon after weapon-- the Co the Smith & Wesson-- he figures out a way to sling the sh gun, one of the belts-- he stands there-- he’s ready to k He goes to a laundry basket, pulls out a battered old bla jacket, pulls it on, covering the guns-- then: He climbs into his car-- guns harnessed-- uses the remote open the garage-- and pulls out--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "EXT. STREET OUTSIDE HECO’S - NIGHT JOHN pulls up to the tenement-- a wasteland place-- he si there-- takes a deep breath-- gets out--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. HECO’S APARTMENT - NIGHT A shitty tenement-- HECO is melting heroin in a spoon, re to shoot up-- watching cartoons-- the door busts in-- JOHN, rushes in at him, gun up-- as Heco jumps up, reache for his gun, he shoots Heco in the leg-- amazed that he h him-- Heco, bleeding, reaches for his gun again-- John grabs him by the throat, shoves Heco's gun away-- ho his gun to Heco’s head-- John-- he wants to shoot Heco-- he's trying not to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Where the fuck is Billy? Heco-- wincing-- spitting--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HECO",
+          "text": "Fuck you-- John-- smacks the gun-butt right into Heco’s teeth-- we h the crack, his tooth chips-- he spits-- furious-- HECO (cont'd) That’s my tooth-- you asshole-- John-- points the gun back in Heco’s face-- no time for t \f83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(yells) Tell me where he is-- Heco-- hate-- some kind of pride-- but: JOHN (cont'd) Are you ready to die right now? Heco keeps staring-- Heco gives--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HECO",
+          "text": "Fort Point House. By the bridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Where's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HECO",
+          "text": "The hotel, by the fucking bridge, alright? John sees Heco’s cell-phone, on the table-- he jabs the g at Heco--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(calm-- quiet) Call him. Heco-- hesitates-- John fires a round into the couch, inc from Heco's ear-- stuffing explodes, vaporized thread flo down-- Heco's screaming, holding his ear, deafened-- Heco hesitates-- then picks up his cell, speed-dials-- Jo fires another round into the couch-- JOHN (cont'd) (quiet-- deadly) Put it on speaker. Heco-- hits a button--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "EXT. STREET - BILLY’S CORNER - NIGHT BILLY and the OTHERS, on their corner-- SPINK leaning in car-window, palming bills-- Billy's cell rings, he looks-- answers--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(on cell-- speaker) Where are you, you bag of shit? You pipe-lining on me, asshole? HECO-- the gun in his face-- scared-- hurting-- starting ery--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HECO",
+          "text": "Don't go home, Billy-- BILLY-- hearing on speaker-- thrown-- he tenses--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "What the fuck-- what the fuck are you talking about, Heco? HECO-- looks at the gun pointed in his face--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HECO",
+          "text": "(starting to cry-- afraid) He says-- you're sentenced, viejo-- BILLY-- hears Heco-- on speaker-- laughs--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "So fucking what? JOHN-- points his gun at Heco’s head--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "So this-- BILLY-- hears-- his eyes go wide-- JOHN-- shoots Heco-- dead-- the cell flies, Heco'’s body across the table, scattering his shooting works, spilling liquid heroin-- BILLY-- hears the deafening blast on the phone, jerks the Phone away from his ear--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY-- furious-- starts marching to his car--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "(yells) Come on-- \f85. BILLY, storming ahead, sees: BONES-- in his car-- he’s be watching-- Billy stares-- hating-- BONES slides out-- Billy keeps going for his car-- Bones marches up to Billy fast-- when he’s close--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BONES",
+          "text": "Well, what are we fucking up now, son? You look like you're ina hurry-- Bones-- staring-- BONES (cont'd) You know how much I’ve got to wipe your nose? I’ve got to get some back-bay faggot off my back by telling him he can fucking have you. You think I enjoyed that? (looks at Billy) See son, what you don’t get is, I care about what happens to you-- ‘cause it can hurt me-- Billy-- eyeballing, hating-- dead-eyed-- doesn’t answer-- Bones steps closer-- threatening-- BONES (cont'd) You need some more fucking instruction from me, you piece of piss? Billy-- whips out his gun, swings up his gun and blasts B in the chest-- blood blooms, on his chest-- he falls, dea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "No thanks. Dad. Billy steps over him, takes Bone’s car-keys, leaning to h ear-—- BILLY (cont'd) I’m taking the car. Billy looks at his boys-- heads for the car-- BILLY (cont'd) Let's go home. \fBODIE and the OTHERS follow-- they screech out--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT",
+          "text": "INT. HECO’S APARTMENT - NIGHT John-- looks at Heco's body-- walks out-- At the door-- John sees car-keys-- he takes them--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT",
+          "text": "EXT. STREET OUTSIDE HECO’S - NIGHT Outside-- JOHN looks at his car-- then looks across to muscle-car-- He goes to Heco's car, gets in-- and pulls out, fast-- cur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY and the others march to their cars-- 86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TO",
+          "text": "Heco’s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TO",
+          "text": "Billy gets into Bones’ car-- they spin out of there, whee smoking-- cur INT./EXT. HECO’S CAR - MOVING - NIGHT JOHN-- driving Heco’s car-- slams through the streets, cornering like a mad-man-- fast-- cur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY and the OTHERS pull up-- it’s a transient hotel, was, now it’s half-deserted, half ruined-- Billy steps stone-faced, staring at the street-- no sign of John--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TO",
+          "text": "or out, They file inside, bristling with guns-- Billy-- watching- waiting-- smiling-- cur",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BILLY-- going into a doorway-- looks out a window, watche the street-- eager--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT/EXT. HECO’S CAR - OUTSIDE FORT POINT TENEMENT - NIGHT JOHN pulls up-- sees Billy’s and the muscle-cars parked-- pauses, low-idling, exhaust billows as the engine throats waiting-- John looks at the front door-- he sees SPINK, behind the glass, on post-- gun in hand-- John takes a deep breath-- Spink looks up-- sees Heco’s car, watches, as: John-- steps on the accelerator, gunning straight for SPI behind the glass door-- Spink-- blinded by the headlights-- his eyes go wide-- he raises his gun--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John, in Heco’s car, smashes through the front of the building, shattering metal, plaster, glass everywhere-- John-- at the wheel as the car rockets through the entryw rams into Spink and bangs him into the far wall-- smashin Spink, and the car, half through it-- A_huge cloud of plaster dust billows down, peeling paper. wires, pipes-- John-- blinking as debris falls-- The whole building is awake now-- ADDICTS, like dawn of t dead-- SEMI-TRANSIENTS, terrified-- peek out, blinking-- JOHN-- grabs his double-barrelled shotgun-- has to shove all his might to get the bent car door open-- steps out o the car-- feet crunching glass-- John looks at Spink-- dead-- he looks up-- starts climbin the stair to the first floor--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- peering down the dark hall, lit intermittently by pools of light from overhanging lamps we can’t see what’s the darkness at the end-- he makes his way-- DOG steps out of a doorway, he heard the crash-- sees Joh John swings the shotgun to his waist-- Dog's eyes go wide he scrambles for his gun-- he fumbles-- Dog gets his gun up-- aims at John-- John fires off a shot-- it blows off Dog's left leg, at t knee-- Dog drops his gun, screams-- starts to topple over Dog looks_at_ his gun on the floor-- John raises the shotgun to eye-level and squeezes off ano blast-- Dog’s chest explodes, he’s ripped backwards by the force- sliding all the way to the end of the corridor, stopping the entrance of an open apartment door-- John stands, looks at his body-- he breathes-- walks slow away--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Inside the door-- BAGGY-- realizing what’s happening, gra his handgun-- runs to the doorway, shooting blindly out i the corridor-- scared shitless-- JOHN-- takes refuge around a corner-- he clacks open his shotgun-- reloads-- slams it shut-- he takes a breath-- He whips around-- and FIRES-- shattering the doorway and clipping Baggy’s shoulder-- Baggy tears himself away from the door, screaming-- John-- implacable-- rounds the corner, marches calmly dow the corridor, reloading-- his face set-- he’s walking int his own death-- and doesn’t care--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John rips in and chases Baggy through the living-room, exchanging rapid-fire shots-- John-- half-cowering-- stil blinking at the sound of blasts-- but still shooting-- chasing Baggy into:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BAGGY-- cornered-- John’s coming closer-- Baggy panics, climbs onto the kitchen counter-top to get to the window- JOHN-- steps into the kitchen-- looks up at Baggy--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "You want to get it done? Baggy raises his gun-- terrified-- furious-- John-- faste angrier-- half-turns his face away from the blast and blo Baggy right out the kitchen window-- The blast takes Baggy, the window, part of the wall, leav gaping hole of black night, shred of filthy old curtain, blowing-- John-- looks back at the space where Baggy was-- turns-- loads, breathing hard-- in-half-madness-- in death-- He looks out to:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He steps out of the apartment-- and is greeted by gunfire He bends double, dodges, scurries down the hall to the en runs up the stairs-- BODIE-- and JAMIE-- guns out-- chase after him-- John-- charging up the stairs-- he fires behind him, runn as fast as he can--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Halfway up-- Bang-- the railing beside him shatters-- John flinches back as wood debris spray everywhere-- he l over the edge-- and shoots back at Bodie and Jamie, below",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. TOP FLOOR - BILLY’S APARTMENT - NIGHT BILLY-- calmly sitting-- loading Bones’ guns-- getting re",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- waiting, silent-- then he lets loose a blast of fi again-- below him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BODIE ducks behind a wall, just in time...as the wall obliterates-- JAMIE scampers--— JAMIE-- hiding behind the wall-- re-loading-- he yells to John:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMIE",
+          "text": "(yelling) You know you're going to die in here-- ON THE STAIRS -— JOHN looks down-- he slow-blinks-- nods--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "(just loud enough) I know. Bodie hears-- he blinks, half-spooked-- then: BODIE and JAMIE run out, shooting at him-- he fires back- runs up to the second floor--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An abandoned floor-- converted to a crack-house-- JOHN, wary, looking up and down, tries a door-- it opens- goes into:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN moves through-- dark-- stripped-- holes the size of doorways punched through the walls, connecting a series o apartments-- maze-like-- John-- gun ready-- looking for Billy-- passes from one ro to the next-- the zapping neon-sign pulsing outside--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BODIE and JAMIE arrive on the landing of the second floor split up-- Bodie goes into the door John went through-- Jamie heads the hall to cut John off--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN moves cautiously, he knows Bodie and Jamie are close syringes, vials, pen-cap powder-spoons strewn everywhere- crunching underfoot-- Eerily quiet-- just the neon zap, faint whistling of wind across the face of the building--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BETWEEN ALL THREE",
+          "text": "Cat-and-mouse through the maze, one step at a time-- guns ahead of them-- all on guard-- A floorboard creaks under his weight-- he holds his breat Another creak-- around the corner-- John whirls to it, raising his shotgun: \f92. He waits a beat-- blinks-- nothing-- BODIE-- a shadow passes over his vision-- he whips around and fires-- -- hitting bare walls-- nothing there-- just the neon-lig dying out-- Bodie-- actually scared-- it’s almost pitch-black--he mov away, along the other wall-- as: John and Jamie are on opposite sides of the same thin wal moving along it-- neither knows the other is there-- John steps on a sheared-out sheet of glass-- it cracks, loudly-- he freezes-- Jamie whips around, hearing-- At the same time, the neon-light zaps back on-- casts Jam shadow onto the adjacent wall-- John sees Jamie’s shadow-- as Jamie raises his shotgun to wall-- John ducks just in time, as the wall above his head explo in a shower of debris-- On one knee, John raises his shotgun-- and fires at the w WE DOLLY INTO THE WALL as a massive hole is blown into it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOLLYING THROUGH THE HOLE TO THE OTHER SIDE OF THE WALL,",
+          "text": "see: JAMIE-- ripped to shreds by John’s second blast-- he fall forward, flat on his face-- BODIE-- hears-- starts running-- JOHN-- breathing heavily, John tosses his empty shotgun-- pulls out his .45-- cocks it-- He charges to the window-- yanks it open, clambers to the fire-escape-- BY FIRE-ESCAPE -— Bodie catches up to John-- they trade gunfire-- bullets p the walls, smash glass by John-- John ducks, cowers, blinking-- covers his eyes with one a and fires blindly, expecting to die-- but: \f93. Bodie’s clipped in the side-- bleeding-- he staggers, rai his gun-- John scrambles up, out of his fire-line--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN clambers upward, checking each window as he passes-- crawls into a window-- into:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "INT. TOP FLOOR - BILLY’S APARTMENT - NIGHT JOHN tumbles through the window, on to the floor, getting his feet, looking up as-- Through the open door-- BILLY out in the hall-- gun up, whirls-- a long, deadly b then--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILLY",
+          "text": "There's my dead friend-- looking for your wife and baby-boys? John-- looks at him-- quiet-- certain-- deadly--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "No. I'm here to kill you. Billy-- hate hardening-- he blinks-- In blinding-quick succession: Billy raises his gun to fire-- John-- snaps his gun up, shoots Billy's fingers off-- and half his hand-- Billy, spun by the blast, searing pain, g down temporarily-- a muffled scream lets out of him, half gone hand shaking-- John-- steps closer-- raises his gun, aims at Billy, read shoot, as: From behind, John gets shot in the neck-- John whips around-- sees BODIE, behind him-- he arcs his up, and blows Bodie's head off-- John claps his free hand over his neck-wound-- John turns to face Billy, and:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billy shoots John in the stomach-- John goes down-- but f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "a_ shot into Billy’s chest-- John and Billy collapse-- silence-- nothing moves--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then-- John-- rears his head up-- trying to get up, to breathe-- to get to Billy-- he looks across the floor as: Billy-- twitches-- summons up all his strength-- manages get to his feet, stumble toward John-- Billy-- stumbling at John-- barely able to raise and keep gun straight-- but he aims it at John---- John-- gets to his feet-- tries to raise his gun, but-- h bleeding too much-- almost unable to fight anymore, he is going to be quick enough-- Billy still coming-- he squeezes off two shots he braces himself for death, but-- both shots miss _him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Billy's gun clicks-- empty-- he falters-- Billy-- bleedin out-- collapses by John's feet. The two men look at each other-- pure hatred-- Billy-- half-dead-- still trying to crawl at John, to hurt him any way he can-- John-- staggers back, a couple of steps-- John grabs a piece of splintered bannister-- he staggers close to Billy, standing over him-- He raises it-- breathing-- almost-dead-- Billy looks up a him-- John breathes-- JOHN (cont'd) (quietly) Ready? On John-- as John looks down-- hating him-- On Billy's eyes-- he sees what's coming-- as we:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "JOHN-- stumbles out, holding his wounds-- heads for the c as sirens wail, approaching-- He gets in-- and drives away--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. HUME’S HOUSE - LIVING ROOM - DAY JOHN-- stumbles in, through the remains of what was their home, trashed by Billy and his gang-- Finally-- he starts to quietly pick up the debris scatter everywhere-- very quietly making order-- He gathers up a pile of video-tapes, strewn across the fl one catches his eye-- he looks, puts it in the vcr-- it plays: The old video Helen was playing: new year’s eve party ina park, townsfolk gathered-- JOHN, HELEN, BRENDAN, LUCAS-- John’s holding the camera, turning it on Helen, the boys, himself, with them, all goofing-- John stands there, stares at the screen-- everyone’s coun down to midnight, loudly-- the family counts along--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "10-9-8--",
+          "text": "WALLIS appears-- standing in the door-- John turns-- they look at each other-- John holding his hands across his stomach-- falls back in chair, staring the at the party on the screen-- FAMILY, ON TAPE (cont'd)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "-- 7-6-5--",
+          "text": "Wallis looks out, yells-- to COPS, gathered--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "(yelling) We need an ambulance-- now-- Wallis comes in, sees what John is watching--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FAMILY, ON TAPE",
+          "text": "-- 3-2-1-- Happy New Year-- Wallis looks at John-- the state he’s in-- sympathetic, finally-- On the screen: the crowd cheers-- John turns the camera t catch it as he and Helen kiss, lovingly-- laughing-- the raise their hands in the air, yelling, whooping-- Wallis looks at John-- \f96.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALLIS",
+          "text": "If you hang on, we can get you to a hospital-- if you just-- hang on,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OK",
+          "text": "(yells out-- agitated) An ambulance-- now-- On the screen: as John watches-- a firework display pops lights the sky red, gold, white-- John-- still watching the screen-- Wallis sits in a chair watches with John-- We push in on the video-- the crowd starts singing Auld L Syne-- John, Helen, Lucas, Bren, all laughing, all happy, singing-- FADE OUT.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_537"
+    }
+  ]
+}

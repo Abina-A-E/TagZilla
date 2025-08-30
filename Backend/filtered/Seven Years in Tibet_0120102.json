@@ -1,0 +1,858 @@
+{
+  "movie_id": "MOV1634",
+  "scenes": [
+    {
+      "location": "CAR",
+      "time": "DAY",
+      "characters": [
+        "THROUGH WINDOW",
+        "LOBENHOFFER",
+        "HARRER, (V.O.)",
+        "AUFSCHNAITER",
+        "HARRER",
+        "INGRID, (O.S.)",
+        "INGRID",
+        "MOTHER",
+        "OFFICIAL",
+        "HORST",
+        "CHICKEN",
+        "DALAI LAMA",
+        "BRITISH OFFICER",
+        "HARRER, (V.0.)"
+      ],
+      "dialogues": [
+        {
+          "speaker": "INGRID",
+          "text": "\"I wish we'd said goodbye at the front door and it was  finished. And you could have a nice and pleasant journey your own.\" Harrer turns to her, fed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Why must you be this way? Why is there always a problem? a good question. Life is not always convenient.\"  (pretending to humor her) Do you want to go home, do you want to turn around?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INGRID",
+          "text": "\"Yes.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"It's the Himalayas! How long have I been talking about t Himalayas? How long?\" Ingrid seems to retreat into herself, shaken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INGRID",
+          "text": "\"Far too long.\" A meek man - HORST IMMENDORF - drives the car, pretending Ingrid leans forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INGRID",
+          "text": "\"Horst, when we get there, can you give me a hand?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HORST",
+          "text": "\"Yes, of course.\" Harrer rolls his eyes, thinks she's begging for sympathy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Oh, Ingrid. Stop it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car stops across from the busy station; NAZI SOLDIERS hangs a huge swastika flag. Harrer gatheres his rucksack, the crowds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Try to make this pleasant.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The station is teeming with more Nazi soldiers. Harrer dr purchase tickes, searching for someone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Where is that idiot who's supposed to meet us?\" Spotting Harrer, a tall thin MAN of exquisite precision a Aufschnaiter has a stack of tickets in his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Mister Harrer? I have your tickets - \" Harrer grabs the tickets from Aufschnaiter's hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Fine. I'm late. Take me to my train - \"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"No, no, no. You don't understand... (modestly) I am Peter Aufschnaiter. I'm leading the expedition. How do?\" Smiling shyly, Aufschnaiter extends a hand. Sizing up thi Aufschnaiter's hand, wearing an expression of acute disap",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As Harrer, Ingrid, and Horst emerge from the ticket room ahead where the crowd of German SOLDIERS file onto trains As Harrer, Ingrid, and Horst make their way toward their OFFICIAL spots Harrer and makes a beeline toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICIAL",
+          "text": "\"Ah, here's our celebrity. (reaches Harrer) May I say, Mr. Harrer, on behalf of the Reichssportsfuhre are honored to have such a great German hero on the team.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Thank you. But I'm Austrian.\" Leading Harrer past throngs of people, the Official gestu who hurries over as the Official grandly presents Harrer snaps a photo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICIAL",
+          "text": "\"Yes, but I'm sure that, as a distinguished member of the National Socialist Party, you will be proud to plant our  country's flag on the summit of Nanga Parbat...when you r it.\" (slowing down) I am quite sure the man who conquered the Eiger North Wal subdue the gods  of \"our mountain\" in the Himalayas.\" Harrer takes the flag. CAMERAS FLASH. They reach a car wh climbers: HANS LOBENHOFFER and LUTZ CHICKEN, a kind of Ge extend their hands to offer introductions to Harrer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOBENHOFFER",
+          "text": "\"Hans Lobenhoffer.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHICKEN",
+          "text": "\"Lutz Chicken.\" Harrer dutifully shakes their hands. CAMERAS FLASH:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICIAL",
+          "text": "\"And a picture with your lovely wife.\" Harrer shoots Ingrid an imploring look, pulls her close t FLASH. The official gestures to Horst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICIAL",
+          "text": "\"And Mister...\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HORST",
+          "text": "\"Horst Immendorf. Family friend. No picture necessary.\" As the Photographer fires off a few more shots, Harrer fl contrast to the impacted sorrow underlying Ingrid's smile and the effortlessness of his act only adds to her misery",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICIAL",
+          "text": "\"When is the little one due, Mrs. Harrer?\" He is pointing to Ingrid's belly. And for the first time, what has been hidden: Ingrid is seven and a half months p strikes her deep in the heart and causes Harrer's smile t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INGRID",
+          "text": "\"Approximately the same time as my husband reaches base c With that, she breaks away and visibly struggles to keep Harrer grabs her, drags her away from the media onslaught",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Why don't you tell the whole country our problems?\" Her eyes brim with tears; she is close to breaking down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I'm getting on that train. Is there anything you want to to me?\" She stares mutely at him, appalled by his lack of feeling",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Fine. Go. Leave. I'll see you in four months.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THROUGH WINDOW",
+          "text": "Ingrid and Horst turning away from the platform, heading uncontrollably. Horst wraps his arm around her, tries to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harrer watching, consumed with guilt. He moves down the a compartment where the three other members of his team are empty spot is waiting for Harrer. Unable to face them, Harrer keeps moving, heads into anot",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A map showing the course of Harrer's journey, through Eur by boat. Toward a mountain peak in the Himalayas - the na Harrer's voice narrates as we follow the winding path tow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER, (V.O.)",
+          "text": "We will travel five thousand miles. When we reach India, will head for the  Himalayas and the ninth highest peak on Earth, Nanga Parb The name means  \"Naked Mountain.\" Germany calls it Unser Berg, \"Our Mount Before us, four  German expeditions attempted it. All failed. Eleven climb were killed in storms and avalanches. By now, the conques Nanga Parbat is a national obsession, a matter of German",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRITISH OFFICER",
+          "text": "\"Let's hope Germany retreats from Poland as quickly as yo from \"your  mountain\" , Herr Harrer. It might reduce your prison time",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"What's is this?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRITISH OFFICER",
+          "text": "\"You are under arrest.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"What's the charge? Failure to reach the  summit?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRITISH OFFICER",
+          "text": "\"I'm afraid not.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRITISH OFFICER",
+          "text": "\"War has broken out between His Majesty's Government and  Germany. All enemy  aliens on British Empire soil are prisoners of war.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER, (V.0.)",
+          "text": "October 15, 1939. Reaching prison camp, I make a promise myself... Each step into the camp plunges Harrer deeper into despai lifts his spirits. He keeps staring straight ahead, at PO rimmed, rocky spine to the north.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER, (V.O.)",
+          "text": "I will be lying beside Ingrid before summer solstice of t year. The mountains are right in front of us. It will be to escape and get lost in them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHICKEN",
+          "text": "\"Would you like to come with us?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Why?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHICKEN",
+          "text": "\"After all, you're the authority on jailbreak around here",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOBENHOFFER",
+          "text": "\"We could benefit from your experience...\" Exasperated, Aufschnaiter interrupts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Please stop this gruesome charade. (Pauses) Every time you escape, Heinrich, patrols are doubled and  tripled. It's making life difficult for the rest of us.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I prefer to travel on my own. But thanks for thinking of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hundreds of prisoners swill gruel at long tables. Harrer, Aufschnaiter passes by, sets something beside Harrer's pl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "The mailman has come. Harrer glances down at a THICK ENVELOPE addressed to a gu From Ingrid Harrer in Austria. Harrer picks up the envelo around to thank Aufschnaiter. But he's already seated at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harrer lowers himself onto his cot. Opens the envelope an STAPLED PAPERS. A NOTE flutters to the ground. As he stud papers, his eagerness turns to confusion, then despair. C PAPERS: They are divorce papers drafted by an Austrian la Harrer reaches down, plucks the note from the floor. Read",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INGRID, (O.S.)",
+          "text": "Dear Heinrich, Please sign the enclosed divorce papers an them to my  lawyer. Horst and I intend to be married as soon as the d is finalized. As for your letter, yes, your son Rolf Harr born while you were climbing the  mountain. He is now two years old and calls Horst \"papa.\" he is old enough,  I will tell him his real father was lost in the Himalayas seems the kindest thing to say, considering you never wan the child anyway. Needless to say, I have no intention of \"resolving our differences,\" as you suggested. They were  resolved the moment you left Austria. I am sorry you have imprisoned in India and hope this dreadful war will soon over, for everyone's sake. Ingrid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rain stil pours. Harrer steps out of the barracks and wal yard. He stops, leans against the wall of barbed wire, ho moment to realize he has grasped the wire so hard, his ha a trance, he steps back. Stares at the fence. Then hauls cursing and slamming his boots into the barbed wire until",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I'm coming with you.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Take two and sleep it off. I'll send you a bill in the  morning.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "(groans) \"What are you doing here?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"I missed you so much, Heinrich, I thought I'd stop by fo visit.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Where are the others?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"The Italians were caught outside Nelang. Lutz and Hans t ill and had to turn  back.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I'm sorry to hear that.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"I'm sure you're heartbroken. (exhausted) May I impose upon your generous nature and camp here toni",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Please....be my guest.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Very gracious of you.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"You might be interested to know...I've heard the Japanes retreated all the  way to Shanghai. Even if you reach the Chinese border, yo never catch up  with them.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I don't care if the Japanese get repelled all the way ba Tokyo.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"You will if you plan to get back to Austria.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"But I don't.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"You don't what?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Plan to go back...\"home\".\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Why not?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"No particular reason. (feigning boredom) But when you get there, tell my wife that two years in pr camp was roughly  equivalent to four years of marriage. And I'm glad to be of both.\" His bitterness gives Aufschnaiter pause; he hesitates bef",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"I'm not going back either. At least until this shameful over.\" Now it's Harrer's turn to be surprized.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Where are you headed?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Not negotiable. My father gave it to me when I climbed M Blanc.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Everyone's climbed Mont Blanc, Peter.\" (reprovingly) \"If I had a watch like that, I'd trade it.\" Aufschnaiter stiffens with resentment, then removes his w trading with the vendor. Harrer drags himself to his feet, staggers over to the ed spreads out as vast and wide as an ocean. Harrer slowly w for their Guides. Aufschnaiter, lying on the ground, turns his head, his ey few provisions spill out. Aufschnaiter sees something shi get a better look, dismayed by what Harrer has hidden. He together with a rubber band, and Harrer's gold wedding ba marches over to Harrer, who's still at the edge of platea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harrer turns when he hears footsteps. Faces Aufschnaiter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Know what time it is?\" Harrer is shocked to see mild-mannered Aufschnaiter flush Aufschnaiter hurls the watches toward Harrer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Refresh my memory. What did you say at the bazaar back t (livid) \"\"If I had a watch like that, I'd trade it.\" You don't ha one, you cheap lying  bastard, you have three!\" Harrer straightens up, unruffled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"You have a problem, Peter?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"You think I'm so happy to travel with you, I should foot bill? You're such a big man you don't need to contribute?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "(dangles the watches) \"This is junk. From some Italian prisoners.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"I don't give a shit! Haven't you ever heard of a princip",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "(derisively) \"Go ahead. Take one. And keep your principles.\" Handing Aufschnaiter the packet of watches, Harrer starts some distance between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Look at you. Caught being a selfish prick and you're  gloating.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"You sound like an old woman, Peter. What do you want me do?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Try Apologizing. Try feeling a little remorse. If all el fails, try  wiping that smirk off your face.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "(pushes him) \"Take a watch and shut up! I don't need another boring se from some  frustrated , glorified tour guide.\" Aufschnaiter spins around, takes a few steps, and grabs h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"No wonder you're always alone. Who could stand your mise company?\" Tossing the watches back to Harrer, Aufschnaiter turns an descend, Harrer shrugs his shoulders: no big loss. Then, Aufschnaiter gets farther away, Harrer goes slack with re like a bullet down the center of the hill, bypassing the Aufschnaiter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Reaching Aufschnaiter, Harrer pauses to catch his breath. hand. In it are the watches and Harrer's wedding ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Please take them.\" (pauses, embarrassed) \"It was wrong to hide them.\" It's probably the first time in his life he's admitted he but removes the wedding ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Keep this.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"No. I didn't deserve it, either.\" He shoots such a plangent look of remorse, Aufschnaiter i accepts the ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"...He's about three and a half years old now. Pretty soo she'll tell him I got lost in the Himalayas. So he'll hav dead father. Which is fine with me.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harrer and Aufschnaiter lie wrapped in their blankets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Why?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Better a dead father than a lousy father.\" A long silence as they stare up at the sky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUFSCHNAITER",
+          "text": "\"Write him a letter and tell him you're alive.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Dear Rolf Harrer, I am a person you don't know. A man yo never met...But  you are someone who occupies my mind...and my heart...in distant land where  I've gone. If you can imagine a hidden place, tucked safe away from the  world...concealed by walls of high, snow-capped mountains place rich with all  the strange beauty of your nighttime dreams...Then you kn where I am.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"In the country where I'm traveling - Tibet - people beli they walk long  distances to holy places...it purifies the bad deeds they committed...They believe  the more difficult the journey, the greater the depth of  purification.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"...In this place where time stands still, it seems that  everything is moving. Including me. I can't say I know wh I'm going. Nor whether my bad deeds can be  purified...there are so may things I've done which I regr But when I come to a full stop, I hope you will understan the distance between us is not as great as it seems...Wit affection, your father...Heinrich Harrer.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Harrer rips open the envelope, reads the letter. And defl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Dear Mister Heinrich Harrer, You are not my father. Plea stop writing me letters.  Rolf Immendorf.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Entering first, Harrer takes a few steps and involuntaril Lama's high throne. He is shocked to see the thirteen-yea excitedly at him, like a long lost friend. A look of surp Harrer's face. The two of them lock eyes, staring. Utterl and prostrates. Harrer dutifully bows. Tries a clunky pro laughs with delight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Your Holiness, it is a great honor to meet you.\" He heads back to his seat. Remembers he's not to turn his and awkwardly attemps walking backwards. He takes his sea speak first. With urgent seriousness, the Dalai Lama begins the audien",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Do you like movies?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Well...I haven't seen one in about eight years. But as I recall, yes, I do.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"So do I.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I'm glad to know that, Your Holiness.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"I have a movie projector. And films. One of female dance being hatched out of  eggs.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"That could be a bit racy.  (the mother clears her throat) It sounds wonderfully educational, Your Holiness.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"I want to build a movie house. Here at the Potala. With and everything.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Seats would be advisable.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Can you build it?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Excuse me?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Can you build a movie house for me? My advisors cannot  disapprove and you will  be well paid.\" The mother knits her eyebrows in consternation. She wasn' Now the Dalai Lama speaks in a fast torrent of words, des at once.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"And you will have to come here every day to build it. Ev single day. And when  you're here, you will visit me. We can have conversations many topics. I would like to learn about the world you co from. (breathless) For example...where is Paris, France? And what is a Molot Cocktail? And who is  Jack the Ripper?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "\"Kundun...\" Realizing she has interrupted her son, she stops herself. limb, but is determined to have his way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"You can tell me many things.\" Harrer folds his hands together, bows his head. Then glan of admiration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I am proud to be of service, Your Holiness.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"When you face the light, it's day. When you're in shadow night. So when the  sun in rising in Lhasa, it's setting far to the west, in York City, for example. That's why it's not the same time everywhere. (solicitously) Does that answer your question?\" Nodding, the Dalai Lama spots the poker-faced Master of t and he quickly hops onto his throne. Both are silent as t covering his mouth with a hand so as not to breathe on th Taking his leave, he walks backwards. The moment he's gon scrambles off the throne, impulsively takes Harrer's hand",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Tell me more, tell me more.\" Holding the boy's hand in his, Harrer basks in happiness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"What do you want to know?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In a dark hidden corner, Harrer sets up a radio while the flashlight for him to see. Harrer attaches wires from a l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"In a few minutes, you'll be entering the world of mass m Your Holiness.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"I can hear news from all over the planet?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I don't know if they have live broadcasts from the Tonga Islands, but generally  speaking, yeah.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Do you listen to news from your country?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "(busy working on radio) Austria? Not very often. Give me some light over here.\" He points and the Dalai Lama shines the flashlight on the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Why? It's your home.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Not any more.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"But don't you have friends and family there?\" The Dalai Lama is so intrigued, he keeps turning to look flashlight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"A few friends. No family. Hold the light steady. Your  Holiness.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Why? Is everyone dead?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Do you know, there's another sentence construction aside the question. You  might try it some time. (goes back to work on the radio) I was married. But I'm divorced.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"What did you do?\" Harrer makes a great effort to appear busy with his task, Lama to see his face. But he also can't lie to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"I didn't want a child. So I ran away to climb a mountain Dalai Lama is shocked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"You have a child, Heinrig?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Though I've never met him. With great relief, he manages to get the radio working an STATIC bursts through the box. He turns to the Dalai Lama subject.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Here. Let me show you how this works.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Dalai Lama sits on the edge of his bed, weeping uncon awkwardly in front of him, Harrer doesn't know whether he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"They were destroying the village I was born in - Takster In Amdo. It was terrible.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"You had a bad dream, Kundun. It was just a dream.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"But it was so real. Where did it come from?\" Harrer is at a loss to explain that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"My mind could never imagine such terrible things.\" Throwing protocol out the window, Harrer sits beside the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Unable to sleep, Harrer stares out at POV - THROUGH WINDO snowcapped Himalayas glowing milky white in the darkness. HARRER hears the DOOR OPEN. Looks up as the Dalai Lama st waiting room and sits down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"I can't sleep. I'm afraid the dream will come back.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"We could have an insomniac's slumber party.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Tell me a story, Heinrig. (looks out at mountains) Tell me a story about climbing mountains.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"That's one way to fall asleep. Those stories bore even m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Then tell me what you love about it.\" Harrer wasn't prepared for that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"What do I...?\" He thinks a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"The absolute simplicity. That's what I love. (pauses) You have a purpose. Your mind is clear. And calm. Suddenl light becomes  sharper. Sounds are richer. All you feel is the deep, pow presence of life.  (pauses, embarrassed) I've only felt that way one other time before.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"When?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"In your presence, Kundun.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"You should leave Tibet, Kundun. Your life is at great ri you stay here.\" The Dalai Lama cocks his head, listening with detached cu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"If you'll forgive my presumption, I've made all the  arrangements to escort you out safely. We can leave after enthronement ceremony. The Chinese would never expect you then.\" The Dalai Lama carefully absorbs this, moved by Harrer's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"How can I help people if I run away from them? What kind leader would I be?\" He has struck such a deep nerve. Harrer can't respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"I have to stay here, Heinrig. Serving others is my path liberation.\" There's a pause before Harrer speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Then I won't go either.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Why not?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"Because you are my path to liberation.\" He seeks to make eye contact with the Dalai Lama, but the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"The Buddha said, \"Salvation does not come from the sight me. It demands  strenuous effort and practice. So work hard and seek your salvation diligently. (looks at Harrer) I am not your son. And I never thought of you as my fathe were much too  informal with me for that.\" Afraid he might lose the slender hold on his emotions, Ha moment before speaking again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Do you ever think about him?\" Too overwhelmed to speak, Harrer nods his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"All the time. Every day.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"And what do you think about?\" Harrer takes a deep breath, trying not to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARRER",
+          "text": "\"It's not a conscious thought anymore, Kundun. He's just there. (pauses) He crossed Tibet with me. He came to Lhasa with me. When visit you, he's there  beside me... (pauses) He's just always there. I don't even remember how I pictu the world without him in it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALAI LAMA",
+          "text": "\"Then you should go home and be his father.\"",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1636"
+    }
+  ]
+}

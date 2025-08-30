@@ -1,0 +1,4308 @@
+{
+  "movie_id": "MOV2454",
+  "scenes": [
+    {
+      "location": "MARLO AND DREW'S HOUSE, (SARAH'S ROOM) SARAH'S ROOM",
+      "time": "NIGHT",
+      "characters": [
+        "RUSSIAN NURSE",
+        "THE END",
+        "6/7/77.",
+        "GRETA",
+        "CRAIG, (CONT'D)",
+        "VIOLET",
+        "SECRETARY",
+        "SHASTA",
+        "VIOLET, (0.S.)",
+        "SARAH AND MARLO",
+        "DREW, (CONT'D)",
+        "TULLY, (CONT'D)",
+        "DOCTOR",
+        "DALLAS",
+        "ELYSE, (CONT'D)",
+        "HOT BARTENDER",
+        "EMMY",
+        "JONAH",
+        "I...",
+        "CRAIG",
+        "TULLY",
+        "DR. SMYTHE",
+        "RUNNER GIRL",
+        "BARISTA",
+        "PARAMEDIC 1, (0.S.)",
+        "MRS. MARVISH",
+        "61.",
+        "MUSIC UP",
+        "VIOLET, (CONT'D)",
+        "ELYSE",
+        "MARLO",
+        "LAURIE",
+        "PARAMEDIC 2, (0.S.)",
+        "NOSY CUSTOMER",
+        "DREW",
+        "MARLO, (CONT'D)",
+        "HOSPITAL EMPLOYEE",
+        "MARLO TULLY",
+        "SARAH"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MARLO",
+          "text": "Hold still, Jonah. She moves to the other side, running the brush down the o arm, gently pressing the soft bristles into his skin. MARLO (CONT’D) There we go. Let’s do feet now. Sit down. Jonah sits down. He casually grabs his crotch and holds o MARLO (CONT’D) Do you need to go to the bathroom? Jonah continues holding himself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Just being your own best friend, huh? Jonah nods blithely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Okay. She resumes brushing, gently running the bristles over th soles of Jonah’s BARE FEET.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo heads into another bedroom, equally small but more feminine. SARAH, 8, is sitting at a small desk, looking irritated with her homework.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Almost done here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Let me see. (reading) “In Chapter Three of I Hate Rules, Katie Kazoo decides that there should be no more rules at school. What are the consequences?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Things get out of hand, don’t they?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "How about George? He ate ten desserts and then what happened? Sarah plays with her hair, distracted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "I’m not going to write this for you, Sares. Sarah puts her head down on the desk dramatically. She BA it twice. Marlo stares at her daughter wearily. Sarah bangs her head a THIRD TIME for good measure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo walks into the kitchen. It’s small and there are a boxes of assorted ENERGY BARS propped open on the already cluttered counters. Marlo Grabs two LUNCH BOXES off the counter. Then, she reaches for her PHONE and plugs a set EARBUDS into it. She picks a song. MUSIC UP: “Blue” by the Jayhawks. As the music plays, Marlo begins makes two LUNCHES for Jo and Sarah. Finally, an escape from the children, even if she’s still servicing them. She places two different sandwiches into plastic bento b She pours Goldfish crackers from a Costco-sized container into two of the compartments. She cuts on the diagonal. Marlo’s husband DREW enters. He’s a slightly nerdy softwa engineer in a Doctor Who T-shirt. Marlo pulls out her earbuds. Her private moment is over abruptly. Without missing a beat, Drew begins filling Thermoses and slicing the green tops off the strawberries. Marlo and Dr are a well-oiled machine. Their childcare routines are choreographed like ballet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Jonah’s finally down. Jesus, it’s like trying to kill the head vampire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Did you bring Sarah her inhaler?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Yeah. Did you, uh, brush Jonah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Roger wilco. Hey, don’t forget, we're going to my brother’s for dinner tomorrow night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Ugh. Craig hates me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Craig doesn’t hate you. He just hangs out with i-bankers all day, so his default setting is “ass.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "You think he’1ll respect me more now that I got a promotion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No. (then) But, I bet he can’t wait to show us his new Tesla! They switch to stupid, deep “bro” voices to imitate Craig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "“It’s sick, dude!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "“It’s soooo sick! Look how I plug it in.” They bond briefly over making fun of Craig. MARLO (CONT’D) “I don’t just look cool, I’m single- handedly saving the planet.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "“You're welcome, Earth.” Marlo chucks a mayonnaise-covered knife into the sink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A wet spring morning in Rye, New York. Marlo’s dented Hon Fit rolls into the parking lot of ST. VITUS ELEMENTARY SCHOOL. INT. MARLO’S CAR - DAY Marlo is behind the wheel. Jonah and Sarah are strapped i booster seats in the back of the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "This is not our lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Go to the other parking lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "The other parking lot’s full, honey. We have to park here today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(groaning) Not again...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Jonah, I have to meet with Mrs. Bell in... (checking) negative three minutes. Please let’s just park here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Other lot! Other lot!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jonah, don’t. Jonah begins KICKING THE SEAT and SCREAMING. He can’t han any disruption to his routine. He melts down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "No! No! Noooooo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(distressed) Mom! Make him stop!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "(screaming) Other lot! Other lot!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jonah, stop! Marlo attempts to respond calmly, but she’s unraveling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(to Sarah) You know how he is with his routine. He doesn’t like when we do things differently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Nobody cares about what I like! Jonah is WAILING at this point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Jonah, the other lot is full. There’s nowhere to park. (desperate) Jesus Christ. Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A different, crowded parking lot; Jonah got his way. One pulls out of a spot; Marlo’s car is braked patiently, wai for said spot. Marlo’s car pulls into the spot. INT. MARLO’S CAR - SAME",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(to Jonah) All right, you happy? Jonah nods, tear-stained. \fINT. SCHOOL (PRINCIPAL’S OFFICE) - DAY Marlo enters the PRINCIPAL’S OFFICE, flustered. MRS. BELL a.k.a. LAURIE, waits at her desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hi Laurie. I’m sorry I’m late. (lying) Regent was backed-up for blocks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "Hi Marlo. Are you on maternity leave yet? You look like you're about to pop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah. Friday was my last day. Marlo stands awkwardly in front of the desk, forcing a bi fake expectant smile. This is her “school persona.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Such a blessing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "I’ll try not to take up too much of your time here, so I’ll just get right to it: Ms. Marvish tells me that Jonah is still having a tough time in class. We’re concerned about his social and emotional development.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Kindergarten’s a tough transition.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "It’s April.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(sheepish) Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "And there’s about to be a big disruption in Jonah’s life, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What? Laurie nods at Marlo’s huge belly: duh. MARLO (CONT’D) Oh, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jonah’s sweetheart. We love him. But as you know, he’s an “out-of- the-box” kid. He’s quirky. Marlo nods, subtly lip-syncing the word “quirky” as Lauri says it. It’s a euphemism that comes up a lot regarding Jonah. LAURIE (CONT’D) There are twenty-four other children in the class, and it’s not fair to them when Jonah needs so much of the teacher’s time. Marlo’s response is eager, desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "We’re working on the meltdowns at home. And we’re doing these exercises and all this stuff. I just made this chart--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "(interrupting) We think Jonah could benefit from a one-to-one aide. A teacher just for him, who shadows him during the day and gives him the extra support he requires.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Is the aide someone on staff here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "No, we don’t provide aides.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, so I have to go out and get AIDS all by myself. She chuckles dryly at her own joke. Laurie doesn’t catch",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "Yes, you’d need to hire this person.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m paying to get AIDS!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "(confused) One aide. He just needs one. \fMarlo nods seriously, giving up on the AIDS joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Right. Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "We don’t usually make these kinds of accommodations for students at Saint V.’s, but you guys are a great family, so...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Thank you, Laurie. I really, really appreciate it. I want to make this work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "No problem. Have a great day now. Marlo musters a smile and rises to exit, shattered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "With the kids dropped off and a temporary reprieve from w Marlo enters the local COFFEE PLACE on the town’s main dr She heads to the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’ll have a decaf skim latte please. An OLDER FEMALE CUSTOMER behind Marlo pipes up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOSY CUSTOMER",
+          "text": "You know there’s trace amounts of caffeine even in decaf, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Huh? The women gestures to Marlo’s PREGNANT BELLY. MARLO (CONT’D) Oh, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOSY CUSTOMER",
+          "text": "Just so you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARISTA",
+          "text": "You still want it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOSY CUSTOMER",
+          "text": "Just don’t overdo it! (then, know-it-all) My daughter has three, so I read up on all this stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "This is my third as well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOSY CUSTOMER",
+          "text": "Are your children short-statured?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NOSY CUSTOMER",
+          "text": "From the caffeine. The BARISTA is tapping out a total on the register.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes. My kids are miniature. And my son actually came out with the Starbucks logo burned into his ass like a cattle brand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARISTA",
+          "text": "Would you like any sweetener with that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah. Give me the one that causes cancer in rats. The barista shrugs and tosses four PINK PACKETS at Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo, seated at a table, takes a voracious bite of a gia MUFFIN. She drinks her latte. Suddenly--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "Marlo? VIOLET, a woman about Marlo’s age approaches the table. S unconventionally attractive with an artistic style. She carries a to-go box of coffee and her mouth is agape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "vi? \f10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "Holy shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You said it. They stare at each other for a moment, stunned. MARLO (CONT’D) What are you doing in Rye?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "I’m here for a memorial. My friend’s dad passed away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "It’s fine. He was a dick. Marlo’s sudden laugh is a GOOFY BARK. She covers her mout",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Jesus. What was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "That’s the standard “Marlo laugh.” Somewhere between a bike horn and a goose orgy. I miss it. Violet pulls up a chair and sits down. There’s ELECTRIC NOSTALGIA in the air-- and also considerable awkwardness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET, (CONT'D)",
+          "text": "So do you live here? Fill me in on everything. I mean, you randomly dropped off Facebook like five years ago, never to be heard from again, so. This is lightly delivered, but there’s hurt beneath...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I hate social media.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "We all do. That’s the point. It’s a mandatory rage-fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Ha. Well, I live here in town. Still married to Drew. Two kids. Nothing’s changed. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "Mm, I don’t know how to tell you this, but you’ve really blown up. Marlo laughs again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET, (CONT'D)",
+          "text": "No, congrats. Anyway, I have to get this coffee back to the house before it gets as cold and black as my womb. Do you still have my number?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "The same one? 718?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "Same number as always, and same address too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(surprised) What? You’re still at the loft?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET",
+          "text": "Mm-hm. Still in Bushwick. Building went co-op years ago, so I bought the place. I’m surrounded by Millennials crying on the phone to Mommy. Call me sometime, okay? If you feel like it. Marlo nods as Violet exits. Once Violet is gone. Marlo si and stares at her muffin for a moment. Her cheeks are red When she reaches for her latte, the cup RATTLES briefly against the saucer. INT. MARLO’S CAR - NIGHT Drew, Marlo, Sarah and Jonah are in the car headed to Mar brother’s house. Marlo, drained by the day’s events, clut a bottle of cheap wine in the passenger’s seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(to the kids) Are you guys excited to see your cousins?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Is the dog going to be out? \f12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Jonah, the dog weighs like two pounds. He can’t hurt you. Jonah moans, worried as usual.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What is that dog’s name again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "“Prosecco.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I want to kill myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Mommy’s joking. Like a clown. Marlo “honks” her own nose in response.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Beep-beep. EXT. CRAIG AND ELYSE’S HOUSE - NIGHT Marlo’s older brother CRAIG lives in a newly constructed “French”-style mansion with a motor court and fountain. I incredibly grand compared to Marlo and Craig’s little rambler. Jonah spots Craig’s new car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Is that Uncle Craig's electric car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Yeah, it’s called a Tesla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Can we get one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Nope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You wouldn’t want one. They catch on fire all the time. Drew snorts at Marlo’s lie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Really? \f13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah, like five kids died in one last week. It burst into flames while they were on their way to see the Easter Bunny at Monmouth Mall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You're lying!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Don’t get too close to it. INT./EXT CRAIG AND ELYSE’S HOUSE (ENTRY) - NIGHT Drew knocks on the oversized front door. It swings open. Reveal ELYSE, Marlo’s smiling sister-in-law, who is whipp thin and gorgeous in a cashmere sweater and jeans. An expensive-looking DOG barks behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Heyyyyyyy! Everyone greets each other. The kids hug Aunt Elyse, who upbeat and affectionate. Elyse’s three kids, DASH, EMMY a GRETA appear, excited to see their cousins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE, (CONT'D)",
+          "text": "(to kids) What’s up buddy? Sarah, I’m going to steal those boots right off your feet. So cute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Hey, Elyse. An energetic young woman, SHASTA, appears in the foyer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHASTA",
+          "text": "(to Marlo’s kids) Hi guys. I made an obstacle course in the playroom if you want to come check it out! Emmy, 10, makes an introduction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMMY",
+          "text": "This is Shasta, our nanny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hi. Four year-old Greta pipes up. \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRETA",
+          "text": "We have karaoke!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMMY",
+          "text": "Yeah, we got a karaoke machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Cool! Greta grabs Jonah’s hand. All five kids joyously run off toward the playroom with Shasta.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Shasta’s so awesome. She has a masters degree in Early Childhood Education. I feel like she should be telling me what to do. (then) Marlo, you are glowing. Marlo looks like death warmed over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Really? I feel like an abandoned trash barge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "In the eighties there was this giant boat full of garbage that just drifted up and down the East Coast for weeks. They couldn’t figure out where to dump it. Eventually, they docked the boat in Brooklyn and burned all the trash. Elyse hesitates, then laughs cheerfully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "The ninth month is tough. I remember I could barely make it to the gym. Come on! INT. CRAIG AND ELYSE’S HOUSE (VARIOUS/KITCHEN) - NIGHT Elyse leads Drew and Marlo into the gigantic kitchen, whe Marlo’s brother CRAIG is opening a bottle of wine. Craig charming, gregarious guy. He’s wearing an expensive suit, tie loosened. \f15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Yes. Yes. The Moreaus have arrived. This is gonna be a good night. Drew, how are you, buddy? He and Drew do the one-armed guy hug. Drew sheds his jack tossing it on a stool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "Marlo. Marlo tries to accept his hug, but her belly gets in the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I have my own hug-buffer now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Just what you've always wanted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "That’s actually true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "When is your due date again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Monday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Jesus. Don’t have it here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "(to Craig) She could have it in the ofuro! (then) We just got this Japanese soaking tub. It was a gift from Craig’s boss. She shrugs like, isn’t that weird?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "My boss once bought me a cup of soup. I paid him back. Elyse assesses Marlo’s belly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "You know, I feel like it’s definitely a boy. \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Marlo didn’t want to know this time, but I kind of wish we had decided to find out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Well, you’re going to find out any day now. Craig and Elyse smile, awaiting a response from Marlo. Is this exciting? She fakes a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yep. INT. CRAIG AND ELYSE’S HOUSE (DINING ROOM) - NIGHT Marlo, Craig and Drew walk into the dining room, holding drinks and chatting. The table is gorgeous and rustic, wi flickering candles and artfully mismatched plates and goblets. It’s perfect without trying too hard. Marlo noti that there are only four place settings at the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Where are the kids going to sit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Oh, they’re with Shasta. They have their own little kid-friendly spread. Mac and cheese, Kobe sliders, something green...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Lucky little bastards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Wow, we can actually have a conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "I know, right? She fiddles with her phone and speaks into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE, (CONT'D)",
+          "text": "Siri. Play Hamilton. Music fills the room via Wi-Fi. Elyse looks pleased with herself for liking hip hop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "So, three. \f17. Marlo is confused for a beat, then realizes Craig is referring to her pregnancy. He nods at her belly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh. Yeah. It’s crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "You’re going to love it. We love having three. And the third kid is always the easiest. (to Craig) Right? Greta’s so chill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Chill would be nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Yeah, you guys really have your hands full with Jonah. (quickly) I don’t mean that in a bad way. He’s so great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "No, he’s tough. He’s quirky. The school actually wants us to get him a aide because the teacher can’t handle him anymore. Marlo glances at Drew, flustered that he would disclose t Drew eats matter-of-factly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Oh. Well, that’s awesome. (spinning it) That they’re, you know, recognizing his needs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh yeah, they’re all over it. INT. CRAIG AND ELYSE’S HOUSE (KITCHEN) - NIGHT Elyse enters the kitchen, protesting as Drew and Marlo attempt to carry in the dirty serving dishes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Guys, do not help. I got it. She hands a platter to a waiting HOUSEKEEPER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Let me at least put this away. \f18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "No. You're not allowed. Besides, I want to show you something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I saw the Tesla.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Yeah, yeah, no. Come here. He puts a brotherly hand on Marlo’s shoulder and steers h away from the sink. INT. CRAIG AND ELYSE’S HOUSE (TIKI BAR) - NIGHT Craig has a TAHITIAN-STYLE home bar that looks like somet at a resort. Marlo looks around at the decor",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "You like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s like I’ve been transported to another room of your house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "It was inspired by the most beautiful place I’ve ever been.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Tahiti?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Epcot. Marlo climbs awkwardly onto a stool. Craig goes behind th bar and pours himself a scotch and Marlo a pineapple juic",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "So, I have a special baby gift for you this time around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Is it money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Ha ha. It’s more like an experience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay... \f19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Have you ever heard of a night nanny? Before Marlo gets a chance to reply...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "(quickly) Everyone does it. I mean, everyone we know. It’s like a regular nanny, but she only comes to your house at night. She stays over for a few weeks-- or months-- and takes care of the new baby so Mom and Dad can get some sleep! His tone is cheerful, careful. What is he getting at?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "How does that work? Does this lady breast-feed? Jesus, there’s nothing you people won’t outsource.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "No! She doesn’t breast-feed. This isn’t feudal China. She wakes you up to do... (gesturing, awkward) That. But then you can go right back to bed when you’re done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Why have a baby if you’re not willing to put in the time? Sleep deprivation is part of the deal. Besides, I don’t want some stranger in my house bonding with my newborn at night. That’s like a Lifetime movie where the nanny tries to kill the mom and the mom wins but still walks with a cane for the rest of her life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "We had a night nanny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You did? I don’t remember that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "That’s because she was only here at night! They come in and out like a ninja. I barely had any interaction with the woman. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "(shrugging) Elyse said she was great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Craig, you didn’t hire one of these people for me, did you? Craig’s tone becomes more serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Marlo. You’ve got a lot going on. I know this kid wasn’t planned, okay? I know, I know, it’s a miracle and the best thing ever and blah blah blah... Craig lowers his voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "...But I don’t want what happened last time to happen again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Craig, don't...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "(interrupting) I love you. I don’t want to ever see you that way (again)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(over) It won’t happen. Just stop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Drew needs to focus on his career. He’s finally getting somewhere and you can’t let this baby derail him. And you need to be there for Jonah and Sarah. Get them to school in the morning. Be “happy Mommy.” Awake. Present. Especially for Jonah. The mention of Jonah gives Marlo guilty pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "I know you think this is some bougie thing that rich assholes do. And maybe it is. But remember, I wasn’t always a rich asshole. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "I grew up in the same shitty house as you, with the same shitty parents and that shit-brown Buick on the lawn. And I’m telling you-- for the sake of your kids-- get over yourself and call her. He reaches into his pocket and hands her a folded-up piec paper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG, (CONT'D)",
+          "text": "This is the number. Make whatever arrangements you need, for however long you want. She’1ll bill me; we already worked it out. This isn’t the person we used-- she was booked until August-- but this one comes highly recommended. Think about it. Marlo tucks the folded paper into her pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "How much money does this cost?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "An assload. (then, serious) Think about it. INT. MARLO’S CAR - NIGHT Marlo is driving. A tipsy Drew is in the passenger seat. Marlo rants about Craig’s proposal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(mid-rant) .»-I mean, I understand having a cleaning lady or a babysitter or whatever if you can afford it. But the “night nanny” thing just sounds crazy. Like, what is this, Downton Abbey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "It sounds pretty ideal to me. Like, not having to wake up five times a night or whatever?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You don’t wake up anyway. Her observation is matter-of-fact, not hostile. \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "I don’t have boobs, Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah, that’s true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "It’s not like I can do anything. They’ve arrives a stoplight. Marlo looks out the window a group of YOUNG PEOPLE congregating on a sidewalk. They're talking and laughing, animated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m fine with doing it myself anyway. You need to be rested for work. This is a big year for you. As she recites this, she’s fixated on the young crowd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "You’re sure you’re going to be okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Of course. He notices that she’s spaced-out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Honey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "It’s green. The light has changed. Marlo accelerates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lights are off. Drew sleeps. Marlo is lying in bed, wrestling with a huge snakelike body pillow. She can’t ge comfortable. She settles for a moment. We hear a distinct POP. Marlo’s eyes open. Marlo gets up and walks to the bathroom. From her P.O.V., see WATER dribbling onto the floor with every step. It’s the dramatic scene we see in movies, just a tiny dribble. it’s unmistakable. \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A disoriented Drew drives to the hospital. Marlo rides quietly in the passenger seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drew holds Marlo’s hand while an ANESTHESIOLOGIST who loo sixteen years old injects an EPIDURAL into her spine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo watches E! News on TV in her hospital bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo lies on her side checking her phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo is pushing out her baby. A DOCTOR and a couple of NURSES are there. Drew stands by taking video with his ph A not-particularly-meaningful SONG plays on someone’s iPo The doctor is laid-back, almost distracted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "Okay, can you feel my hand inside you? Push against my hand. One, two, three. Marlo closes her eyes and pushes silently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo is sitting up in the hospital bed, still wearing a hospital gown and tethered to an I.V. Craig and Elyse are the room. Elyse holds the BABY, making little cooing nois",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Marlo, she is your mini. Look at those lips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "I wish we could stay, but Emmy’s in the middle school musical tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What show is it? \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "(proud) Rent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "I don’t get it. It’s like, just pay your fucking rent. Problem solved. Elyse is about to pass back the sleeping baby back to Mar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You can just put her in the bassinet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Oh. Okay. Surprised, she places the baby in the hospital bassinet. Craig leans in and pats Marlo’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "You take it easy, okay? And tell Dad congrats when he wakes up. Reveal Drew SOUND ASLEEP on a cot. Craig and Elyse quietl exit the room. Marlo swings her numb legs out of bed and tries to get up It’s tough. She looks over at Drew. He is sound asleep on cot. Marlo manages to get up and walks gingerly toward the bathroom, dragging her I.V. behind her. She stumbles into door frame. Through the open back of her hospital gown, w see she’s wearing an ADULT DIAPER. Marlo reaches for the nurse call button.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Craig and Elyse walk to the elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "So did you talk to her about the night nanny?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Yeah. She said she could never let a stranger take care of her baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Oh, so she’s judging our choices. Nice. \f25. Craig pushes the elevator button.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "I just want my sister back. The last few years... She used to be happy, you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Wasn’t she also like, totally irresponsible?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "She got a little wild sometimes, sure. But overall, she was just fun to be around. Then she had the kids. Once Sarah came along, it was like somebody snuffed the match. And when Jonah was born... They shudder at the unspoken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Yeah, that wasn't pretty. (then) Maybe you should call Drew and see if he can convince her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Drew hates me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo sits on the toilet in the cramped bathroom while a motherly RUSSIAN NURSE encourages her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUSSIAN NURSE",
+          "text": "You have to show me you can do a pee-pee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s just not coming out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUSSIAN NURSE",
+          "text": "If you don’t pee soon, we have to put the catheter back in. Marlo strains desperately, hoping to avoid this outcome. hear a trickling/pouring sound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "There. She struggles to stand up. The nurse glances into the bow \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUSSIAN NURSE",
+          "text": "That’s not enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Why is this so important?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUSSIAN NURSE",
+          "text": "Don’t get angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I peed. Why don’t you believe me? It’s in there, I swear. Run a test or something. (angry) How much do you fucking need? Do I have to spray it all over the room? You want a golden shower?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUSSIAN NURSE",
+          "text": "You need to rest, mommy. We hear the baby CRY OUT. RUSSIAN NURSE (CONT’D) I can take her to the nursery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No. She needs me. I’m the only one who can do it. She staggers out of the bathroom toward her baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo nurses the baby alone. The T.V. flickers in the dar living room. It could be 2:00 am, could be 4:00. Time doe exist anymore. The living room is temporarily “baby central.” There’s a portable BASSINET (known in parental circles as a Pack n’ Play), a pile of diapers and a makeshift CHANGING STATION a chair. Marlo closes her eyes. She opens them. Her arms are empty THE BABY IS GONE. She leaps to her feet, panics. Scans the floor. Runs to t kitchen. She hears a coo coming from the kitchen sink. A baby's arm, waving. What is the baby doing in the sink? Marlo opens her eyes. The baby is in her arms, still nurs It was a dream, a weird one. \f27. Through a series of dissolves, we see a MONTAGE of endles grinding, exhausting DAYS and NIGHTS of baby care. We nev leave the living room. Marlo sleeps on the couch with a blanket and pillow-- when she gets to sleep. Marlo is suddenly DRIVING HER CAR. Jonah is inexplicably illegally) sitting in the front seat. Marlo glances in th rear view and sees the BABY lying in the back seat. She S on the brakes, gasping. She looks over at Jonah, who has turned into a DISAPPROVING OLDER WOMAN. (Her mother?) Marlo suddenly wakes up, in her makeshift bed on the couc The baby is in her arms. What time is it? Hard to say. Dr in a suit and tie, enters to kiss the baby goodbye and he to work. He looks so polished. Marlo, so feral. Marlo paces, nurses, feeds. Her clothes change, but they’ all the same variation on T-shirt and sweat pants. Marlo is lying on the floor of a FOREST, gazing up at the sky. It's peaceful for a moment. Someone POKES her with a stick in the shoulder. Poke. Poke. Poke. Poke. Marlo wakes up. She’s fallen asleep sitting up. Jonah is repeatedly poking her in the shoulder with a TOY LIGHT SA Later: Jonah and Sarah are watching cartoons. Sarah tries snuggle up to her mom, who barely responds. Marlo stares blankly at Barbie’s Mermaid Adventure. Her e brim with TEARS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo walks down the hallway with Jonah like a zombie. Sh carries the baby’s INFANT CAR SEAT by its handle; it has muslin blanket draped over it so we can’t see the baby. T arrive at his KINDERGARTEN CLASSROOM.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(distracted) Love you. Jonah jumps up and down and licks Marlo’s sleeve, clingin her. She manages to detach him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Okay. Okay. Jonah dashes into his classroom. Marlo continues down the hallway. \f28. INT. SAINT VITUS SCHOOL (PRINCIPAL’S OFFICE) - DAY Laurie is seated at her desk, drinking coffee and pushing paper. Marlo enters, escorted by a MALE SECRETARY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "Hi. Thank you so much for coming in today. I know mornings aren’t easy. Especially for you right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Why? Laurie gestures to the car seat warmly. MARLO (CONT’D) Oh, yeah. Marlo sits down in front of the principal’s desk and plac the car seat on the floor. Laurie obviously finds it a li odd that Marlo doesn’t want to show off or talk about the baby, but says nothing. She comes around to Marlo’s side the desk and sits in the other chair there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "So, we’re coming up on the end of the kindergarten year, and I just wanted to talk to you about Mister Jonah! Her quasi-affectionate use of “Mister” doesn’t mask the tension.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "We're getting him the aide. The one- one aide. We just have to figure out how we’re going to pay... Her voice trails off. She’s sick of talking about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "Right. I know. (then) Back when you guys applied, we did express some concerns about whether or not Saint Vitus was the right fit for Jonah. But we love your family, and we have such a great relationship with your brother and his wife... \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I know Jonah is only here because of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "That’s not--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No, I know. They’re big donors and they called in a favor. Now Laurie is uncomfortable. She takes a deep breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "We think Jonah might be better served by a different school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You’re expelling him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "No, Marlo... Expulsion is a punishment. We would call this a dismissal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "There are places better suited to kids like Jonah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What does that mean, “kids like Jonah?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "Well, you know, Jonah is quirky.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(interrupting) What is this “quirky” thing everyone keeps saying? (officious voice) “Parenting Your Quirky Child.” It’s so stupid. What does it mean? It’s like, do I have a kid or a fucking ukelele? Why can’t you say what you mean, which is that you think Jonah is retarded? And he’s ruining it for all the other kids in the class who are reading like, The Iliad or whatever? (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Sorry about my retarded son. Oh, I’m sorry, quirky. Because he’s a pocket watch. Fuck. This. She stands up and grabs the baby carrier. Mrs. Bell is alarmed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "No, no, no. Jonah is bright. He’s great. It’s just not the right fit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Just say what you mean. You hate my kid. You hate us. The secretary appears, having overheard the skirmish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "(shaken) Dallas, please walk her out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Don’t touch me, Dallas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECRETARY",
+          "text": "I wasn’t--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "You need to calm down. I’m not letting you leave like this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, I leave like this every day; you just don’t know it. This is the real me, when I’m not licking your asshole. Surprise! Marlo turns and accidentally SLAMS the unwieldy car seat against the frame of the door. We hear the baby SQUEAL. Laurie and the secretary gasp. MARLO (CONT’D) She's FINE. She manages to exit, leaving the stunned pair in her wake",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo steps up into her van and manages to snap the baby’ car seat into its base. She climbs into the driver's seat and stares into space, breathing heavily. The baby begins CRYING in the back seat. \f31. Marlo climbs into the backseat. She finds a pacifier in t baby’s seat and sucks on it to “clean” it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Here. The baby rejects the pacifier. MARLO (CONT’D) (desperate) Take it. Just take it. The baby finally starts sucking. Marlo collapses in the unoccupied captain’s chair next to the baby. Now it’s Mar turn to burst into TEARS. Her shoulders heave. Marlo makes a decision. She crawls down onto the floor of van and searches for something. There’s a lot of garbage family detritus. Then, under the driver’s seat, she finds what she’s looking for. She unfolds the PIECE OF PAPER with shaking hands. MARLO (CONT’D) (reading) Tully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The kids are watching TV. Marlo takes a FROZEN PIZZA out the oven and slaps it down on a cutting board. She drains some broccoli from a pot on the stove and divides it on t two plates. Just going through the motions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Daddy! We hear the FRONT DOOR open. The kids get up and run to t door to greet Drew, thrilled to finally get some attentio A suit-clad Drew walks in, flanked by Sarah and Jonah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Frozen pizza, all right. (noticing the TV) I thought we weren’t doing screen time during the week? Marlo just looks at him with hollow eyes. Drew puts his p up helplessly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Fine with me. It’s your rule. \fHe walks to the kitchen table and sits. the plates and sits down. The kids take their places. He laughs,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "So, uh, I decided to call that night nanny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "(surprised) You did?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "I just-- you know, Craig’s paying for it, so I’m sure he’1ll lord that over us. barely masking his annoyance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, I’m sorry. I wouldn’t want you to sustain a bruise to your ego. That’s cool. I‘1l just cancel. I’1l just cancel and make another pot of coffee. We’re good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "No, no! I’m sorry. I didn’t mean-- (concerned) Are you okay? Marlo shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW, (CONT'D)",
+          "text": "Guys, is Mommy okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "She’s coming tonight at 10:30. 32. Marlo comes over with Jonah knocks over a GLASS OF MILK. It spills directly ont Marlo’s shirt and lap, but she doesn’t flinch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Jesus! Careful, Jonah. Marlo peels off her shirt wordlessly. She sits in a NURSI BRA. Her body is a deflated, stretch-marked mess. Drew lo away. Sarah’s eyes widen with comic amusement. \f33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Mom, what’s wrong with your body?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo sits in the dimly lit living room, holding the baby She watches HBO’s Cathouse with the closed-captioning on. Onscreen, a naked PROSTITUTE negotiates with a john. The is a wreck. We hear a soft KNOCK. Marlo gets up and hurries quietly t the door with the baby on her shoulder. She opens the doo revealing TULLY, the night nurse, standing there bathed i porch light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Hello. I’m Tully. Tully is in her early twenties. Her hair is long; she wea T-shirt and jeans and has a BACKPACK slung over her shoul There’s punky black EYELINER applied in cat-like swipes a her eyes. She looks like a friendly grad student with sla tendencies. Marlo is taken aback; this is not what she expected.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You must be Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "May I come in? Marlo steps aside wordlessly. Tully enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "(indicating the baby) Who’s this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You mean the baby?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Yes. What’s her name? For some reason, the question startles Marlo. It’s as tho she’d forgotten the baby was human. \f34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Her name is Mia. Tully is examining the baby, who is snuggled against Marl shoulder. We see the baby’s FACE for the first time. Her are open. She is beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Mia. Marlo rambles nervously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It was my mother’s name. I always said I would use it. But now it’s really popular, I guess. She shrugs as if apologizing for her choice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Who cares?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Who cares if it’s popular? It’s a beautiful name. She touches Mia’s cheek. Mia coos. Marlo is mesmerized by Tully’s calm, direct manner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It is. (then) How old are you? Tully smiles. Marlo checks herself. MARLO (CONT’D) I’m sorry; I just wasn’t expecting--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Don’t apologize. I get that a lot. I’m older than I look. There’s an awkward beat. Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "So, how does this work?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "How do you want it to work? \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I have no idea. Tully strides confidently into the house proper. Marlo follows behind her, as if being led into her own home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’m here to take care of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I thought you were here to take care of the baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Well, you kind of are the baby. Marlo chuckles, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Even though this one’s been earthside for three weeks, her DNA is still inside of you. In fact, her cells will hang around in your bloodstream for years. As she speaks, Tully reaches for Mia. Marlo hands Mia ove without hesitation, surprising herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "And though Mia here will be her own person someday, right now she’s still very much a part of you. She knows your voice, your smell, your heartbeat. And you know her better than anyone. You built her from the toes up. Marlo just stares at Tully. Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I feel like I don’t know her at all yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "It’1ll come. She smiles reassuringly-- and we believe her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay. They’re standing in the KITCHEN now. \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I'll be here as long as you need me. You look like you could use some rest. I’1ll settle in with Mia down here. You go upstairs and sleep. Marlo seems shocked by this suggestion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Don’t I need to show you what to do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Are there diapers down here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Does she have a place to sleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "There’s a bassinet in the den.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Then we're good. I’1ll come wake you up when she’s ready to nurse. Marlo nods, confused. Sleep-deprived. But game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay. See you soon. Tully smiles kindly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "“And so to bed.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hm?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Samuel Pepys. He kept a diary during the English Restoration.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Right. Samuel Pepys. She turns, shaking her head, and heads toward the stairs. Tully looks down at Mia, now awake, and smiles beatifical \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo enters the bedroom. Drew is in bed. The lights are He wears a GAMING HEADSET as he plays SKYRIM on his Xbox. pulls off his headset when he sees Marlo, surprised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "The night nanny is here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Oh yeah? What’s she like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(whispering) Weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "She’s weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Are you going to just leave her down there with Mia? Marlo ponders this briefly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Okay. Marlo climbs into bed. She closes her eyes, overwhelmed b the sudden possibility of sleep. A moment later, she rises from the bed, anxious. She walk toward the bedroom door. Opens it, revealing not the hall but... A BEACH...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo is standing at the edge of the ocean in a bikini. H body is beautiful, like it used to be. She runs her hands over her flat belly. \f38. She looks down and sees MIA lying on the sand, alert and kicking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(to Mia) Don't go anywhere. She walks into the ocean. It's beautiful. The sun shines the water. Marlo ducks under. Suddenly, she's in a deep swimming poo She swims down, down. We hear the song “Blue” again, but a muffled, underwater version. The floor of the pool is strewn with TOYS and random detritus, like an empty FROZEN PIZZA BOX. There's a MERMAID down there. Her hair undulates like kel The mermaid turns around smiles at her. It's TULLY. The T mermaid swims up to Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Don't come up too fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo opens her eyes. Tully is standing over her, holding and speaking softly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "There you go. Nice and easy. Hi, Marlo. She’s ready for you. Marlo is disoriented. Hair is plastered to her cheek with drool. Drew is sound asleep next to her. Mia fusses a bit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "I'll help. She leans down and un-clicks the strap of Marlo’s nursing tank top. It’s a weirdly intimate gesture, but appreciate Marlo takes the baby wordlessly and feeds her. Tully sits cross-legged on the floor of the dark bedroom. She stares serenely at Marlo, not breaking eye-contact. \f39. INT. MARLO AND DREW’S HOUSE (BEDROOM) - MORNING We hear the sound of a BABY STIRRING. Marlo wakes up. It’s Saturday morning. Birds chirp. Drew still sleeping. An audio-only BABY MONITOR is plugged in to the bed; Mia’s little noises are being transmitted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo wanders downstairs. She gasps. The house is IMMACUL Almost unrecognizable. The kitchen GLEAMS. There are YELL DAFFODILS picked from the back yard, arranged in a vase. Marlo walks over to the bassinet. Mia is swaddled neatly she stirs. Jonah emerges behind Marlo, bleary-eyed in his pajamas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Is it a school day or a family day?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s Sunday. It’s a family day. Jonah looks around the room, confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Why is it clean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I don't know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo and Drew walk through a LOCAL PARK while Sarah runs ahead in her SOCCER UNIFORM and Jonah rides a scooter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "(incredulous) So she was in our bedroom last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes. She brought Mia to me to nurse and she just sort of sat in the shadows and waited for me to finish. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "And then she went downstairs and chiseled the filth off our floors. Doesn’t she sleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Maybe she’s nocturnal. Like an owl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Or Sarah's hamster. Remember that thing? The wheel going all night long... Sarah runs over, interrupting the conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Mom, I need water. Drew rolls his eyes as Marlo dutifully produces a Thermos",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "The game didn’t even start yet!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "So? I’m thirsty. Marlo offers Sarah water. Marlo resumes the conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "The nanny just seems so serene. Like she really enjoys taking care of people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "What’s wrong with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Right? INT. Marlo AND DREW'S HOUSE (LIVING ROOM/ENTRY) - NIGHT Marlo is watching Cathouse again and holding Mia. We hear Tully’s soft, signature knock. Marlo hurries to the door. A smiling Tully, casually attired in a Jayhawks T-shirt, stands on the threshold with her backpack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Good evening! \f41.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hi. Hey, I just wanted to thank you for cleaning the house. You really, really didn’t have to do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I enjoyed it. I have an energy surplus. Like Saudi Arabia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(WTF )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, all right. As they enter the den, Marlo realizes that she has forgot to turn off the television. A client and a topless hooker interacting on Cathouse. MARLO (CONT’D) Oh, God! I’m sorry. Embarrassed, she reaches for the remote. Tully stops her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "No. What is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s an old reality show. It’s called Cathouse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What’s it about? People are FUCKING on the TV screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Um, the goings-on at a legal whorehouse in Nevada. Just, you know, day-to-day operations. Tully looks at the smiling BLONDE onscreen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Who's she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "That’s Air Force Amy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Is she a pilot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No... I’m going to turn this off. \f42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "There’s really no need. You're enjoying it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m not enjoying it. It just happened to be on... She realizes she’s hit pause on the RECORDING she’s made.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "--.my DVR.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Marlo, I want to make it abundantly clear that you can’t be self- conscious around me. This won’t work if you are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m just not used to being served, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Relax and accept my service. Pretend I’m Air Force Amy. The conversation has reached peak weirdness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay. Well, I’m just going to go upstairs and watch a movie with Drew. Tully has scooped up a cooing Mia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Have fun. You know, I can put on headphones if you guys want to be intimate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "We’re not loud. I mean, that’s fine. Tully holds Mia up in Marlo’s face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Kiss good night? Tomorrow she’1ll be different.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "In what way? \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "She’1l grow a little overnight. And so will we. With her eyes fixed warily on Tully, Marlo leans in kisse Mia’s cheek.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drew is watching Orphan Black on Netflix. Marlo pulls out iPad from under the bed and immediately starts tapping aw Marlo and Drew don’t acknowledge each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo wakes up. She massages her breasts; they’re uncomfortably full. The clock on the night stand reads 2: am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo walks into the living room. Tully is perched on a chair, holding Mia as she sleeps. She smiles at Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Hi there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hey. I think I need to nurse her. I feel like I’m going to explode. She subtly indicates her engorged boobs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Sure. Let’s do a dream feed. Marlo settles onto the couch while Tully hands her the ba She lifts her shirt as a sleeping Mia latches on. Marlo WINCES in pain-- it’s intense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "She’s got a strong latch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes, she’s a barnacle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "If she’s a barnacle, then are you a boat, or are you a whale?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I don’t know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Well, boats get hurt by barnacles. But whales don’t. When a barnacle latches onto a whales, it’s harmless. It’s just a little obligate parasite doing its thing. Tully smiles. Marlo looks down at Mia’s little face, choo not to continue with this odd conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Does she look like your other kids?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Huh? Yeah, she looks a lot like Sarah. My daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What’s Sarah like??",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, Sarah’s eight. She’s getting to this age where she can be really hard on herself. And that makes me nervous, because it doesn’t get better for girls, you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "No, it doesn’t. There’s a KNOWING SADNESS in Tully’s voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "And my son Jonah... well, he’s pretty great. But he’s exhausting. He all these weird behaviors and anxieties. We have to brush him. Like, I have to brush his body at night. Like a horse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, a therapist told us that it’s supposed to reduce his sensitivities to everyday things. (sheepish) (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "We can’t afford to take him to a therapist anymore, so I just watched YouTube and learned the exercises. It’s called the “Wilbarger Brush Protocol.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "“Protocol.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Right? It sounds like a Tom Cruise movie, except shitty and kind of sad. Anyway, it’s my fault he has all these issues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Why is it your fault? Marlo hesitates. She’s not ready to share this informatio with a near-stranger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You don’t have to talk about it. (beat) You seem like an amazing mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah, you'd be “amazed” by how much I suck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Why would you say that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, I know moms who are really amazing. They organize the class parties and “Casino Night,” and they make little cupcakes with googly-eyes. All that stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You’re laying bedrock; they’re planting flowers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "But I want to be the cupcake mom. I used to love to bake. But now I’m so exhausted. Even getting dressed feels like work. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Every morning I open my closet and think “Didn’t I just do this?” And that continues for the rest of the day. “Didn’t I just do this?” My life is like stuck on repeat mode.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "That’s the downside of living on a planet with a short solar day. Although Jupiter’s even shorter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You’re like a book of fun facts for unpopular fourth graders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Thank you. (then) What do you do for work, Marlo?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m the office manager at a company that makes protein bars. I have a useless degree in Philosophy, so now I write emails letting people know they can’t wear Crocs on “casual Friday.” Or sometimes, you know, I’1l make a sign for the ladies room that says “Please stop flushing tampons. Your bitch- missiles are clogging the pipes. XO, Marlo.” It’s deeply fulfilling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What do you wish you did?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "That’s the problem. I don’t know. If I had some big dream that never came true, I could at least be pissed off at the world. Instead, I’m just pissed off at myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You’re empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "No, I mean you’re empty on that side. She’s done. I’1ll take her. \f47. .»..Or not. Tully gently takes Mia from Marlo. Marlo seem reluctant to go back to bed. She heads toward the stairs, then turns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Thanks for the, uh, interview. It was cathartic. We sense that it really was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Come back to the couch any time. She flashes Marlo the peace sign.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Marlo?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(turning) Hm?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’m here to help you with everything. Not just Mia. I can’t fix the parts without treating the whole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No one’s treated my “hole” ina long time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Now, if that were true, we wouldn't have Mia. Sleep tight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "6:00 AM. Marlo comes downstairs, bleary eyed. She carries Jonah; he’s almost too big to be held, but he still fits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Are we going to have a good day today? Jonah MEOWS in response. MARLO (CONT’D) Oh, you're a kitty? Marlo sees something on the counter: it’s a tray of WHIMS CUPCAKES with GOOGLY EYES. They’re beautifully decorated, even Pinterest-worthy. \f48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "What the f...? Jonah scampers over to the cupcakes, delighted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Mom! Did you make these? They’re funny!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "They sure are. She picks one up, admiring the craftsmanship. MARLO (CONT’D) You want to take these to school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Yes! For my friends! He hugs Marlo’s leg happily. Heartbreaking. INT. SAINT VITUS SCHOOL (JONAH’S CLASSROOM) - DAY Marlo, looking unusually bright and put-together, walks J into his classroom. She “wears” Mia in a comfy-looking WR a far cry from the car seat she carried her in during the last time we saw her at school. Class hasn’t started yet, but around ten KIDS scamper aro socializing. Marlo peels the foil back from the tray, flashing the cupcakes at Jonah’s teacher, MRS. MARVISH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay if we brought in a treat? They’re nut-free. The handful of KIDS in the classroom roar with approval. even runs up and hugs Jonah, who beams. But Mrs. Marvish seems oddly skittish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. MARVISH",
+          "text": "What’s the occasion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No occasion. I just love to bake. Marlo reads Mrs. Marvish’s nervous expression. MARLO (CONT’D) Oh... You heard about... it’s fine. I get it. No hard feelings about Jonah or anything. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MARLO (CONT’D) In fact, I kind of made these as a peace offering. You know, I’m going to bring one to Mrs. Bell, since she’s the one I... Marlo plucks a cupcake from the tray as she stammers this nervous apology.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. MARVISH",
+          "text": "Okay. Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Have a good day! INT. SAINT VITUS SCHOOL (PRINCIPAL’S OFFICE) - DAY Laurie’s office door is open; she’s discussing something her secretary, Dallas. Marlo knocks on the door frame. Wh Laurie and Dallas see Marlo, they both BLANCH from fear. Dallas practically jumps a foot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hi. (off their expressions) Don’t freak out. I’m here to apologize for the other day. I brought an olive branch of sorts. Actually it’s a strawberry cupcake with cream cheese frosting but who wants a actual olive branch, right? No thanks! Bleh. She tentatively places the cupcake on Laurie’s desk. MARLO (CONT’D) Sorry I only brought one, Dallas. Anyway, um, I was totally out of line the other day. I had a little touch of the “baby blues” and I think my hormones just got the better of me. But I have help now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "I’m very pleased to hear that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "And I understand about Jonah. Sometimes it’s just not the right fit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "You'll find the right fit for him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Public school. Free of charge, free of Jesus! She grins triumphantly. Laurie is not sure what to make o Marlo’s manic humor, but she smiles back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Anyway, you guys have a great day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LAURIE",
+          "text": "You too! Marlo exits cheerfully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALLAS",
+          "text": "(to Laurie) I would not eat that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo, Drew, Sarah and Jonah eat a home-cooked meal. Marl wears Mia in a sling and chats animatedly about the day’s events.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(rambling) ...so then I stopped by the Department of Education and they told me the public schools provide free occupational therapy for any kid who qualifies! You just have to get something called an I.E.P, but the evaluation for that is free too, and I already called Early Intervention to schedule it. So this could wind up being better for Jonah than St. Vitus ever was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Wow. You’ve been really busy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m just energized, I guess. Craig was right. Sometimes you just need an extra pair of hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "And this is so delicious I want to punch someone in the face. How did you make it? Marlo shrugs. \f51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s so easy to roast a chicken. You just stick some lemons in the cavity, salt, pepper, and you’re good to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Is the cavity the butt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Gross, Sarah, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s just a big, gaping hole where the chicken’s guts used to be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "That’s worse than a butt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You’re right, Sarah, it’s murder. Drew laughs. And Marlo smiles, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s night again. Marlo cruises to the door in SLOW-MOTIO dreamy, pulling it open. There she is, as reliable and radiant as the sun: Tully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We begin a MONTAGE, so positive in tone it’s nearly ridiculous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MUSIC UP",
+          "text": "Marlo and Tully sit side by side on the couch, watching T Women on TCM. Marlo nurses Mia. She and Tully are deep in conversation, laughing and chatting. When Marlo finishes nursing, she rearranges her shirt. Bu instead of handing the baby back to Tully immediately, sh keeps talking, engrossed. \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Different outfits, different night. Tully and Marlo make homemade BREAD together. Marlo wears Mia in the sling whi she and Tully talk and knead the dough. The clock on the microwave reads 1:05 AM.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo cuts the loaf of FRESHLY BAKED BREAD and serves it Sarah and Jonah with butter and jam.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo fills out I.E.P. PAPERWORK for Jonah while Tully re a large REFERENCE BOOK called How to Advocate for Your Special Needs Child. Tully points out a passage to Marlo and they discuss. Mar reaches for a YELLOW MARKER and HIGHLIGHTS a sentence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s an unspecified time of night. Marlo climbs into bed to a sleeping Drew. She pulls the covers up to her chin a snuggles into the pillow, a slight smile on her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo is getting ready for the day. She’s looking less an less like a zombie; her hair is brushed, and she actually a little color in her cheeks. She reaches into a MAKEUP POUCH and takes out a BLACK LIQ EYELINER. She hasn’t work it in years, but she leans forw and applies it in Tully’s signature cat-like style. It co surprisingly easily to her. She examines herself, satisfi INT. MARLO AND DREW’S HOUSE (DEN) - NIGHT Tully and Marlo sit with a pile of inexpensive BABY GIFTS that have been sent to Mia. We see Tully writing a THANK NOTE on stationery that says “MARLO MOREAU” at the mast. “Dear Aunt Lorene: Thank you for the...” Tully glances at the GIFT again. “,..glow worm toy for Mia. It is so cute! Love, Marlo.” \f53. She adds the card to a pile. Marlo, who is also writing a note, smiles gratefully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo enthusiastically kicks a SOCCER BALL to Sarah while sleeps contentedly in the stroller. INT. MARLO AND DREW’S HOUSE (BEDROOM) - NIGHT INTO DAY Marlo is sound asleep again. The room goes from DARK to L in time-lapse. Marlo rises, stretching, refreshed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo sipping her morning latte, takes a deep breath and composes a TEXT to her old friend VIOLET. “This is Marlo Moreau. Wanna be friends again?” Then, she types. “(I£ you'll have me.)” A moment. An ellipses. And then: “Welcome back to the land of the living.” Followed by: “Bitch.” Marlo chuckles to herself, relieved. EXT. CRAIG AND ELYSE’S HOUSE (ESTABLISHING) - DAY Craig and Elyse’s mansion looks even more impressive by d There are a bunch of PINK BALLOONS tied to the mailbox at end of the driveway. EXT. CRAIG AND ELYSE’S HOUSE (BACK YARD) - DAY It’s the perfect sunny spring day for GRETA’S BIRTHDAY PA Of course, Craig and Elyse have gone completely over the There’s a dessert table, pony rides, etc. A DRONE soars above the proceedings, taking video. \f54. Jonah is playing with water balloons. Marlo is hanging ou a folding table while Mia sleeps in the car seat. Drew is a few yards away at the BAR. A costumed PRINCESS swishes past him with an armful of PARTY PROPS (wand, bag dress-up clothes, etc.)She accidentally drops her tambour Marlo watches as Drew bends over to help the princess pic her items. They chat for a moment. The princess is basica a rough-looking stripper in a ball gown, but Drew is clea charmed. Craig suddenly and conveniently appears next to Drew and joins the conversation. It’s obvious the two guys are bei extra “on” for the princess, who’s laughing. Marlo can’t but notice how the girly costume and wig affect the two m Drew notices Marlo watching with a wry expression and hea back over. Craig reluctantly follows. Marlo clocks Craig Drew's beers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s 11 a.m.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "I know. It’s oatmeal stout. Did you see Princess Hannah? She was a Miss Hawaiian Tropic finalist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "How magical.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Greta looks happy. Greta does look happy as she and her friends, including Sarah, run up to Princess Hannah. Shasta, the nanny, foll after as always.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Greta should look happy. Look at all this shit. Our wedding at the Ritz wasn’t this nice. Elyse walks over, spanking Craig playfully on the butt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Yes it was! She winks at Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE, (CONT'D)",
+          "text": "Marlo, you look awesome! For real. \f55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You’re not lying this time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Ha ha. How are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m really, really good. Thank you so much for the night nanny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Yes. That’s been a game-changer. I mean, I can’t overstate-- Craig looks at them quizzically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "You called her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah. I decided to stop being “Marlo the Martyr” and accept help. Seriously, I appreciate it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Isn’t it nice to have some help and actually be able to enjoy your kids?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Where are your kids, Elyse? Taken aback, Elyse scans the yard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Um... I don’t know. But I’m sure they’re having the best time. Right? I mean look at all this. She takes a sip of wine, embarrassed. Suddenly, Sarah appears, clinging to Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Hey, Sarah. What's up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Why don’t you go see what Princess Hannah’s doing? \f56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I don’t think she’s a real princess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Sure she is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "No. Her skin looks like an orange peel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Sarah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "It’s orange and there’s like holes in it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Those are called pores.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah, she has big pores. Marlo pats Sarah’s shoulder with affection. INT. CRAIG AND ELYSE’S HOUSE (PLAYROOM) - DAY The party has moved into the PLAYROOM. Kids mill about, making a mess and eating pifiata candy. Marlo and Sarah a the front of the room, singing a KARAOKE DUET together. N both of their faces are painted as BUTTERFLIES. They’re d a shockingly good job at “Call Me Maybe.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hey, I just met you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "And this is crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "So here's my number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Call me maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH AND MARLO",
+          "text": "Before you came into my life I missed you so bad. I missed you so bad. I missed you so, so bad. \f57. Sarah and Marlo are dancing around, enjoying a rare momen pure mother-daughter whimsy. Drew watches his wife, surpr to see her being this outgoing. Marlo struts to the front of the room, doing a crazy danc solo, spanking her own ass and “riding the pony.” Craig and Elyse appear at Drew’s side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Marlo seems really... awake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "Ha ha, yeah, she’s got the pep back in her step, as our Nana used to say. I’m loving it. Craig seems pleased, but Drew doesn’t recognize this pers He looks slightly disturbed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "I mean, it’s actually kind of weir--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "(interrupting) Oh look, she’s doing the Nae Nae!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELYSE",
+          "text": "Go Marlo! Go Marlo! Craig and Elyse are so entertained by “Fun Marlo” that Dr manages to suppress the nagging feeling of of concern and join the party, so to speak. He smiles tightly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CRAIG",
+          "text": "(pleased) There she is. INT. MARLO’S CAR — DAY Drew drives home. Jonah and Sarah are asleep in the back seat. Marlo is passed out in the passenger seat. She’s sweated off most of her butterfly makeup and looks slight deranged. \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tully, having just arrived for her shift, drops her OVERSTUFFED BACKPACK on the floor of the kitchen and open the fridge like a hungry teenager. Marlo can’t help but s as she paws through the food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What’s that in the pitcher?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, I made sangria since it’s getting warmer. It always reminds me of college.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You see? You are a homemaker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Because I made sangria? People make sangria in prison toilets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I know. It’s called “pruno.” May I have a glass? This request surprises Marlo, coming from her baby’s caregiver, but she",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Uh, sure. I guess I’1l have one too. That’s polite hostessing, right? Marlo gets two glasses out of the cabinet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "A-1. Let’s take the baby outside and enjoy the evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Sure. EXT. MARLO AND DREW’S HOUSE (BACK YARD) - NIGHT Marlo and Drew’s back yard is small, weedy and unimpressi no Japanese soaking tub. But there are WHITE FAIRY LIGHTS strung from the house to the detached garage, and it’s co Tully and Marlo (accompanied by Mia) sit on an outdoor co side by side, sipping their sangria. \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Am I ever going to meet Drew?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(sarcastic) Sure, let’s wake him up right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I mean, isn’t he curious about the person who’s ministering to his wife and baby every night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "He’s curious. He asks about you. But he’s-- well, he’s not the most social guy. Like, I love him, but he’s a nerd. A real nerd, not like a postmodern nerd. He’s the kind of guy who went to high school wearing a trench coat and a hat and not even a little deodorant. Tully nods. MARLO (CONT’D) Anyway, he works all day and then he really does a lot with the kids when he gets home. Homework, the reading log, all of it. We make their lunches together. And then he just shuts down. He goes upstairs and puts on his little headset and then he’s just out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Don’t you guys ever...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Have sex? No. We haven’t had sex in months. Maybe close to a year. He does puts a sock on the door to warn me when he’s masturbating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "That’s considerate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Are you in a relationship?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’m in several.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ha. I was like you back in the day. I tried every horse on the carousel. And then I met Drew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Which horse was Drew? Marlo tosses back the last of her drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Drew was the bench. She pours out more sangria for her and Tully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "But you love him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah. Definitely. I chose the right person; I know that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Then why don’t you have sex?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, I hold the baby all day. It’s me and her and it’s primal; we’re just like two gorillas at the zoo. Then nighttime rolls around, and I’m just supposed to switch gears and go, “Okay, now I’m sexy. Now my boobs are supposed to be sexual, instead of two bags of milk ina Canadian grocery store. It’s like-- did you ever play Tetris? When I was a kid I used to play Tetris for hours and hours. I was addicted. And when I'd go to bed, I’d close my eyes and I’d still see those stupid bricks falling. It’s like that now, except instead of bricks, it’s Mia. I go to bed and I just see Mia. I smell her. I feel her. I can’t turn it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Of course you do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I like Drew. I like what I know of him. And I want you guys to stay together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, I do too. I don’t want my kids to grow up like I did. I had three stepmothers, can you believe that? Krystal, Tricia, and Wei-Wei.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Then we need to fix this. Does Drew have any sexual fantasies? Marlo is taken aback by this frank query.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, I mean, I’ve seen his browser history. Pretty basic stuff. You know, girls from Florida with stars tattooed on their ribs. Tully knows Marlo is holding back information.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Actually... there is one thing. Drew worked at a diner when he was in high school. Washing dishes. And the waitresses, they all wore those little outfits, with the hat? He’s had a fantasy about it ever since.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "There’s a reason they call them the formative years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah. So I actually bought a uniform a while back, thinking I would wear it and surprise him. But then I just never got around to it. And now my legs have veins, my tits have veins... my body’s a relief map of a war-torn country.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Do you still have it? The little uniform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes, but even if it fits, it would just be depressing. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "You, on the other hand-- you could wear the shit out of it. She gives Tully an awkward once-over. Tully raises an eyebrow, inspired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo quickly tiptoes down the STAIRS holding a wadded of clothing. Tully sticks her HAND out of the bathroom, dres room style. Marlo hands her the dress, amused by the gamb",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Here. Never been worn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "(behind the door) There’s your trouble. Marlo waits outside the bathroom. The door swings open. T does, in fact, look very cute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Patty melt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You should keep that. Wow, you have had zero children.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Do you think I should leave it on when we get upstairs, or take it off?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Upstairs? Tully smiles expectantly and squares her shoulders. MARLO (CONT’D) You're joking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo opens the door a crack. Drew is sound asleep, curle on his side of the bed. The clock on the night stand read 12:10 AM. Marlo opens the door fully. Tully walks in behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(whispering) Is this a Fifties diner? I want to be accurate to the period.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s just a regular diner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Am I sassy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Maybe just keep the dialogue to a minimum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Okay. Tully nods and walks over to the bed. She gently wakes Dr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "(groggy) Huh? Jonah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Hi there. I don’t think we’ve met. Will you be dining in today? Marlo nods reassuringly. Drew, in shock, just stares at Tully. Tully climbs on top of Drew effortlessly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "If you’re not familiar with our menu, I recommend the egg cream. Drew struggles, surprised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "What the hell, Marlo?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s okay, Drew. This is for you. Just go with it. Tully begins KISSING Drew. Marlo walks to the side of the bed. Drew resists for another moment, then surrenders. Tu begins pulling up Drew’s T-shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "We also have a wonderful selection of pastries. And I’ve just put ona fresh pot of hot coffee. \f64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "(helpless) Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(to Tully) I’11 tell you what he likes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Why don’t you show me? I’m just a trainee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "All right. Drew eagerly pulls off his shirt. Tully pulls down his pa Marlo gingerly creeps onto the bed and kneels behind Tull She unzips Tully’s waitress uniform-- if it’s possible to so tenderly, she does. She looks into Drew's eyes over Tully’s shoulder. He gaze back at her with LOVE AND GRATITUDE in his eyes, acceptin the gift without further question. INT. DREW AND MARLO’S HOUSE (KITCHEN) - MORNING The next morning, over COFFEE. They can barely make eye contact. Drew clears his throat. While embarrassed, he al looks like the proverbial cat who ate the canary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Should we talk about last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "We don’t have to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "That was pretty kinky. Where did the costume come from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Just a uniform supply place. I was really nervous you wouldn't be up for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Are you kidding?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I was afraid you’d think I was crazy. \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Why haven’t we ever done that before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s not like the opportunity ever presented itself... Hi, Jo-Jo! Before she can finish explaining herself, Jonah prances i the room in his pajamas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "I had a dream about a camel. Marlo pulls him onto her lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "A camel! Were you in the desert?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "No, I was in my house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "That’s so silly. You want pancakes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Yes!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Let’s see if we can make Mickey Mouse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "But the last time we tried that, he only had one ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Nope, this is a two-ear day. I can feel it. Drew stares at his wife admiringly, lovingly as she and J head to the refrigerator for eggs and milk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A running trail. Marlo, with earbuds in her ears, is read for her first workout since giving birth. She wears a spo tank and sweats. She starts JOGGING with a slow gait. There’s another RUNNER up ahead, a college girl with a ponytail, a perfect ass, and perfect running skills. Marlo runs faster. Soon, she’s gaining on the woman. \f66. Determined, Marlo speeds up. She keeps running, her cheeks red. She’s pushing herself the point of exhaustion, running like the T-1000. We see Sarah riding her bike nearby. She pauses, watching mom fly by. She looks both impressed and confused. Marlo finally PASSES the girl. She veers off the path and practically collapses against a tree. She’s panting, red- faced. The girl slows up as she approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUNNER GIRL",
+          "text": "You okay? Reveal Marlo, panting and red-faced, with two huge WET SP spreading over her breasts. Marlo gives the girl the thumbs up. Her head drops betwee her legs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s late. The time on the microwave reads 9:59. Marlo is reading a book called “Parenting the Out-of-Sync Child.” She hears the familiar KNOCK on the door and puts down he book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tully enters, looking subtly different. Her usual T-shirt been replaced with a cute “going out” top, and her sneake have been traded in for lace-up boots. She wrings her han apologetically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Marlo, I’m really sorry to do this, but can I ask you a huge favor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Of course. I mean, you’ve done so much for me. What do you need?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I need a night off. Like really bad. \f67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "No problem. You’ve been coming here every night for weeks. Just let me know when.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(surprised) Oh. Sure. You know, you could have just called me. You didn’t have to come here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Well, that’s the thing. I want you to come with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Out. To the city. Tully’s energy is manic. Her eyes sparkle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "The city-city?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Yeah. New York. Big Apple. City that never sleeps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "To do what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Fun stuff. Go to a bar. Dance. Marlo laughs at the utter absurdity of the idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Who’s going to take care of Mia?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Oh, I don’t know. It’s almost as though there’s another responsible adult at this address. Named Drew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "But what if she-- Tully won’t even let Marlo finish a sentence. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Mia’s been sleeping through the night for the last week. Drew won't even know we're gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "God, I don’t know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Drew goes into Manhattan every single day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "For work. I can’t, Tully. You go out and have a good time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I can’t have a good time without you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You know, I feel like I've been very useful around here. In many regards. And I don’t think this is an unreasonable request. I don’t have a lot of friends my own age, due to the unusual nature of this job, and I just need to get out. And P.S.-- you do too! You can’t be a good mom without adequate self- care.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I don’t know if getting shit- wrecked in Manhattan qualifies as “self-care.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Okay. You're right. (then) We'll go to Brooklyn. Her smile is irresistible. INT. MARLO’S CAR - NIGHT A newly made-up Marlo drives. She looks reasonably hip, having traded her sweatpants for jeans and a T-shirt. Tul rides shotgun, checking her makeup in a compact. \f69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I still think maybe we should have Uber-ed it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I told you, I’1ll be the chauffeuse. I’1l have one or two drinks and then I’1l drive us home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Why are you so nice to me? (dry) I mean, aside from the fact that you're being paid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I think you and I both know that this is more than a transaction. Marlo chuckles uncomfortably.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah, I’ve pretty much trusted you with everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’ve trusted you, too. Thanks for not murdering me. Marlo snorts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Seriously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I need bourbon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Bourbon’s my drink. Tully smiles and turns up the radio. Marlo’s worries star fade away as she becomes energized by their escape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo’s Honda Fit crosses a bridge over a river that will take them out of Rye and toward the city. \f70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo’s car cruises down Wyckoff Avenue in Bushwick. YOUN PEOPLE cross the street and converge on the corners, smok and talking. A GIRL wearing leg warmers makes out with he BOYFRIEND. Marlo becomes excited, restless, as she looks at the passing scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "This is my old neighborhood. I lived here for years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Then this is where we should be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It wasn’t always this nice. Look, there’s a bakery for dogs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What did it used to be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "A bakery for humans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Whoa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes. People ate flour in those times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo and Tully walk into a crowded, popular bar. Marlo l more radiant than we’ve ever seen her. Younger. It’s like tension in her face has disappeared for the first time in months. Tully strides up to the bar. Marlo hangs meekly beside he They somehow get IMMEDIATE SERVICE-- Tully has that power",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Hi. Two Makers, neat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOT BARTENDER",
+          "text": "You want any water with that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Do I look like I need a bath? The young BARTENDER grins at Tully. \f71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOT BARTENDER",
+          "text": "You got it, babe. The bartender disappears to fill the order. Marlo smiles wistfully at the flirtation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "That guy is obsessed with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Actually, he was looking at you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah, right. I have the sex appeal of a binder clip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You look radiant tonight. Marlo looks at Tully with great affection.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Really? Go on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "How long has it been since you had a girls’ night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "A year or ten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Do you have a lot of girlfriends?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Not anymore. She smiles uncomfortably, closing the subject. The barten pushes the drinks across the bar. MARLO (CONT’D) Thanks, babe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tully and Marlo settle in. Marlo looks around the room. PEOPLE HAVING FUN. Youth. Energy. She can’t help but smil This is exactly what she needed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "This used to be a different bar. They must have taken it down to the studs. I hardly recognize it. \f72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Have you ever heard of the “Ship of Theseus” paradox?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yeah, in college, I think. Which one is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Let’s say you were to take a wooden ship and replace one plank every year. Eventually, the ship would be made up of entirely new planks and there would be nothing left of the original ship. So is it still the same ship? Or a new ship? A buzzed Marlo thinks about it very briefly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "New ship.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Because it just is! Nothing’s the same. It’s a new ship, baby. Nouveau bateau. Her French accent is absurd as she takes a swig of bourbo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Then what about people? When you look at your baby pictures, clearly you’re unrecognizable compared to now. But it’s you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "If every part of me has regenerated then I guess I’m not me anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Well, humans can’t regenerate completely. There’s actually one part of us that doesn’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What’s that, Encyclopedia Brown?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "The hearing cells in our ears. They can’t grow back. Once they’re dead, they’re dead. \f73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We’re in a DIFFERENT BAR, where a ROCK N’ ROLL BAND rips through a raucous song. Music BLASTS, killing those ear c dead. Tully and Marlo dance wildly. Tully grabs Marlo’s hand. T twirl and spin. Marlo is drunk. She doesn’t care who’s watching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A thoroughly drunk Marlo and Tully settle into a more intimate bar for “just one more.” There’s a newfangled to screen JUKEBOX against the wall; a guy is plugging in som songs. Tully clocks it, excited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I want to play something. Tully dashes off. Marlo checks out the cozy bar. A group PUNK GIRLS head to the bathroom en masse. Marlo stares at them longingly. Moments later, the song “Blue” by the Jayhawks begins playing; we recognize it as one of Marlo’s favorites from beginning of the movie. Tully returns to the booth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hey, this is one of my favorite songs!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Mine too. That’s why I picked it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I used to listen to this with Violet all the time. (explaining) I lived with her, here in Bushwick, a long time ago. This was our record. (then, confused) How did you get it to play right away?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "It’s a secret.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You know what my daughter and her friends say? ” (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Secrets, secrets are no fun. Secrets, secrets hurt someone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Well, if I tell you a secret, you have to tell me one of yours. Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Sure. Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "We‘ll do it at the same time. Count of three. Ready? Marlo nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "One, two, three.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO TULLY",
+          "text": "I’m gay. I paid an extra fifty cents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Wait, what did you say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I paid an extra fifty cents. You can skip the line on these new jukeboxes if you pay just a little extra. I was feeling grandiose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Thank you for sharing that, Tully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Wasn’t it brave of me? Marlo sits back in the booth, closing her eyes, her head swimming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tully helps Marlo walk down the street. Marlo is OBLITERA stumbling. Tully somehow seems perfectly sober.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Wait... wait... stop. You’re not going to drive, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’m fine. I promise. \f75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "That’s not possible. You went round for round with me. Let’s just leave the car here and take a cab back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "But Drew will be angry. Marlo braces herself against a parking meter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Drew doesn’t get angry. He just gets very quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "And that’s worse than angry, isn’t it? Right. As always.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "This is the last thing you’re going to talk me into, Tully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You're right. It is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Oh, you’re quitting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You knew this was temporary. Besides, I think it’s time for me to find another line of work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "So what do you have lined up? I bet you have big plans. Your twenties are great. But then your thirties come around the corner like a garbage truck at 5 a.m. Yeah. You gotta think long-term. What are you going to do when that cute little ass drops and your feet grow half a size with each pregnancy, and the whole “free spirit” thing stops being charming and starts looking ugly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’m not afraid of the future.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You should be. I’m it. \f76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What’s wrong with that? You know what your problem is? You’re convinced you’re a failure, but you actually made your biggest dream come true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I know how bad your childhood was. So now you’re giving your kids what you never had. That sameness you despise? That’s your gift to them. Waking up every day, doing the same things for them over and over even though it grinds you down. Yes, you are boring. Your marriage is boring, your house is boring, and that’s incredible. That’s the big dream you had when you were young. To grow up and be dull and constant and raise your kids in that circle of safety. You made it happen, Marlo. You are a steady and elegant mother. Day after day. Night after night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(whispering) But I don’t feel safe. I feel scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "That’s what I’m here for. To keep you safe, so you can doing your job. We can’t afford to lose you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Stop caring so much. You’re such a care lord.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You're a care lord. Marlo looks at Tully. She suddenly turns and runs across street to a rack of CITI BIKES. Tully watches, confused, Marlo drunkenly wrangles a bike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Marlo! Marlo rides off into the night at full speed. \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo is riding as fast as she can toward her undisclosed destination. Tully comes up next to her on a second CitiB They both pedal like mad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Where are we going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I need to go to my old place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "But you don’t live there anymore. Marlo stops. Considers this. Takes off again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "After riding for a few blocks, Marlo arrives at a big, ol industrial BRICK BUILDING. Panting and sweating, she hops the bike and drops it on the sidewalk. She approaches the door. There’s a large SECURITY KEYPAD for entry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(to herself) Okay, what is this? Tully comes up next to her. MARLO (CONT’D) This didn’t used to be here. She drunkenly punches in a few numbers, muttering to hers",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Unit 5... Nothing happens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Fuck. She repeatedly PUNCHES the key-pad in a rage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Marlo, this is not your home. Marlo’s nose is pressed up to the glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "There’s a fucking lobby now? With furniture? (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "What happened to the guy who sleeps in the doorway? I used to step over that guy every morning to go to work. And he'd say “Good morning, Margo.” Every damn day. Me and Vi would bring hima sandwich sometimes. Where is he? Do you think he died?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Yes, I do. Let’s walk. Marlo pulls out her cell phone, desperately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "She still lives here. I’m texting her. She’1l let us up. Do you like coke? She always has it. You know, you have not cleaned a kitchen until you’ve done it Bolivian- style. Marlo is frantically typing a TEXT MESSAGE. Tully tries t stop her, but she hits “send.” MARLO (CONT’D) I let her know we're here. She's going to like you a lot. Like, a lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "We have to go home. And I can’t leave without you, Marlo. I wish I could let you stay, and go up there, but there is no “there” anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes there is. Look! She pounds the brick with her fist. Tully just looks at h sadly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Come with me. Marlo’s tone turns accusing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "This was your idea. Why did you bring me here in the first place? \f79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I was being selfish. We came too far out. I have to bring you home. Marlo rubs her BREASTS, wincing with discomfort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Ow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You're really full.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It hurts. I need Mia. I‘1l just go home and feed her. Marlo is massaging her sore breasts compulsively.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "No. Not yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(crying) I miss her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You'll see her soon. Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "She won’t the same tomorrow. That’s what you said. I don’t want her to grow!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Yes, you do. Tully beckons to Marlo. Defeated, Marlo stumbles toward Tully. Tully takes her arm and leads her away from the building. Marlo lays her head on Tully’s shoulder and cri As they walk off into the night, we suddenly hear a VOICE the intercom. It sounds hoarse and disoriented.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET, (0.S.)",
+          "text": "Hello? Marlo, are you out there? But Tully and Marlo are already out of earshot, disappear into the night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VIOLET, (0.S.)",
+          "text": "Marlo? \f80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tully and a disheveled Marlo enter a SEEDY DIVE BAR they definitely don’t belong at. Tully guides Marlo toward the bathroom. The door SWINGS O A truly DISGUSTING DUDE is walking out. We can see even f this vantage point that it’s not an appealing place to de with the milk situation. But Marlo is desperate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tully and Marlo enter the bathroom. It’s Trainspotting- filthy, with grafitti on the walls. Tully takes off her SWEATER and wets it in the sink under hot water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I’m making a hot compress. It‘1ll feel like a little baby mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "This is really messed up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "It’‘ll help get things going. She hands Marlo the makeshift compress. Marlo puts it on boob dutifully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Okay. Now milk yourself. Marlo stands over the toilet and starts massaging herself",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "It’s not working. (gagging) Oh God, it smells like Spam in here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Think about Mia. Do you have a photo? That might help. She takes Marlo’s phone out of her purse and quickly pull Marlo’s PHOTOS. She scrolls through, looking for a photo Mia. We glimpse a lot of weird SELFIES of Marlo. \f81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Why do you have so many pictures of yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I keep thinking the next one will look different. Tully finds a photo of Mia and holds the phone in front o Marlo’s face. Someone BANGS on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "One second!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’M PERFORMING A MIRACLE! (then) It won’t come out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Let me. Do you mind? Marlo tacitly agrees. Tully begins kneading Marlo’s breas",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "You have to use a rolling motion. Marlo looks queasy. Tully rolls her hand back and forth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "See? It’s like a wave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I think I’m going crazy. We hear a TRICKLING sound as Marlo’s milk finally lets do into the toilet bowl below.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "There we go. Marlo VOMITS. Tully holds back her hair. When Marlo comes for air, Tully is already there to gently wipe Marlo’s mo with a napkin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Now we’ll go home. INT. MARLO’S CAR - NIGHT Marlo is slumped in the front seat. Tully is in the drive seat. For the first time ever, she seems NERVOUS. \f82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Try to stay awake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I’m so tired.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "I know. But I need you to stay with me. Let’s have a conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "All we do is converse. We’re like the people in a Spanish textbook. Maria and Julio, they never shut up. (then) What am I going to do without you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You’re going to take care of yourself. You’re going to shower every day, nourish and exercise your body, and maybe even send yourself roses once in a while. Promise me you will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(drifting off) That’s... so... corny...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Look Marlo, it’s the bridge. They’re approaching the BRIDGE that takes them back to Ry",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY, (CONT'D)",
+          "text": "Look. You're going to be in a soft bed in your little house before you know it. Under the same roof with your three babies, cozy and crowded. That old carpeting in your bedroom. World’s weakest shower. Home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Mmph.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "We're going home. Tully begins to lose control of the vehicle. First subtly and then, it’s beyond saving... \f83. In an instant, the car CRASHES into a guard rail. Marlo’s eyes briefly open. Another car plows into them. Black wat Silence. A flashback to Marlo’s DREAM the first night she met Tull vision of the TULLY-MERMAID in the pool, her back turned, swimming away forever. SIRENS, the groan of a TOW TRUCK. The surprisingly mundan conversation of PARAMEDICS...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARAMEDIC 1, (0.S.)",
+          "text": "Can you pass me that gauze? Yeah, I didn’t even know they had pizza. But it wasn’t bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARAMEDIC 2, (0.S.)",
+          "text": "Let’s get another blanket here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo lies asleep in a hospital bed. She’s BEAT UP. There cuts and lacerations on her face. She has a black eye, a broken arm, and her leg is in traction. Drew sits on a chair next to her bed, pale and gravely concerned. The room is silent. DR. SMYTHE, a middle-aged woman, knocks and enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "Hi. You are Marlo’s husband?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "(rising) Yes. I’m Drew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "I’m Dr. Smythe. I’m on the psychiatric staff here. I’d like to talk to you about Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Okay...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "Not here. Let’s let her nap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drew and Dr. Smythe are in an empty hospital room or offi away from where Marlo can hear them. \f84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "Does she have a history of mental illness?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "No. Well, yeah. She had some depression after our son was born, five years ago. It was pretty bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "When you say “bad”...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "She didn’t want to hold him. She couldn’t look at him. She just wasn’t herself for months. She actually, well, she did try to-- (flustered) Just tell me what’s going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "We think she’s experiencing something similar now, but on a more extreme scale. This is what we call “postpartum psychosis.” Drew is flabbergasted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Psychosis?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "Yes. It’s a lot more serious than just depression. It’s characterized by hallucinations, delusions...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "But she’s been amazing! She’s so different this time. Her brother got her a night nanny to help out, and she’s getting sleep...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "Actually, we believe she’s suffering from extreme exhaustion and sleep deprivation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Oh. How? (surprised) I didn’t know. She seemed better than she’s ever been. (thinking) (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW, (CONT'D)",
+          "text": "I mean, there have been a couple of things that were out-of-character, but I just... I just can’t believe she would drive drunk like that. And she just disappeared without telling me. There was no one watching the baby!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "Weren’t you home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Well, yeah, but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "What about the night nanny?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "I don’t know where she was. I don’t know anything about her; it was Marlo’s thing. Can I go back in there, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. SMYTHE",
+          "text": "They actually need you to finish some of the paperwork at Admitting. Then we’ll reconvene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marlo lies in bed, woozy and dreamy. She stares at the TR next to her bed. Untouched food, a plastic pitches or wat There’s a KNOCK. She manages to turn and look at the door",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "(whisper) Come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drew walks up to the ADMITTING area, where a female EMPLO surrounded by files taps away on a computer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Hi. Did you guys need some information on Marlo Moreau? \f86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOSPITAL EMPLOYEE",
+          "text": "Moreau, yes. I have almost everything I need. Do you have your insurance card? Drew digs the card out of his wallet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Yes, yes. He hands the card over. The employee begins typing rapidl her keyboard, and asking questions in the familiar, distracted tone of those who do such work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOSPITAL EMPLOYEE",
+          "text": "..-And the patient’s date of birth?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOSPITAL EMPLOYEE",
+          "text": "(typing) ..-Last four digits of her social?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Um, 8734.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOSPITAL EMPLOYEE",
+          "text": "And her maiden name? Drew is distracted, checking his phone as he replies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Tully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The door to Marlo’s hospital room swings open. It’s Tully uninjured. No worse for the wear. She smiles apologetical at Marlo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Hey. You’re a little beat up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You should see the river. Marlo’s voice is an exhausted croak. MARLO (CONT’D) I didn’t tell anyone. About you. They don’t even know you were there. \f87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "You can tell them if you want to. It’s okay. The people here will understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I don’t know if they will. Tully sits down on Marlo’s bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "We can’t see each other anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "This was supposed to be temporary anyway. A few weeks. Just until the smoke cleared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What do I do now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "What you’ve always done. And then you'll do it again. And they’11l grow, and you'll grow, and one day you’ll rest and you’1l wish you could do it all over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "If I’m older, how are you wiser?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Because I have lots of time to think about stuff. Remember? She smiles and smooths Marlo’s hair back from her forehea Marlo takes Tully’s hand and holds it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Thank you for keeping me alive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULLY",
+          "text": "Same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drew is heading back to Marlo’s room. He passes Tully in hallway as they head in opposite directions. He doesn’t notice her. Of course. \f88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drew enters. He sees that Marlo is awake and stops in his tracks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Hi. Drew reaches out and touches Marlo’s hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Um. (choked up) I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Why are you sorry? Drew is trembling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "I’m sorry I let this happen to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "You didn’t do anything. Drew starts crying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "I know. That’s the problem. I didn’t know what was happening at night! I was just overwhelmed, between the baby, and work, and it seemed like you were doing great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I was doing great. (smiling) Wasn't I great?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Fuck that. I don’t need you to be great. I just need you to be you. We love you so much. I’m sorry if you want to run away. I do too. But I don’t, because I love us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I love us too. (then) Am I in trouble? \f89.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Yeah. You’re in trouble. Marlo nods, painfully. Drew lays his head on her chest. S touches him with her good hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW, (CONT'D)",
+          "text": "Who were you with last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Nobody. Tears slide down her cheeks. MARLO (CONT’D) But next time I want to be with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Yes. Let’s go out. Let’s talk. There’s still a world out there. We could go see it sometime. Even if it’s just for a few hours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DREW",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Weeks have passed. Marlo walks down the hallway of her ho with a CANE. Her bruises have faded to yellow, but her ar still in a sling. She stops into Sarah’s room. Sarah is laboring over her homework, aS usual. Marlo leans over Sarah’s desk, murmur guidance, then tousles her hair. INT. MARLO AND DREW'S HOUSE (JONAH’S BEDROOM) - NIGHT Marlo moves on down the hallway to Jonah’s room. Jonah si patiently in his pajamas, awaiting his treatment as he do every night. Marlo is there to attend to him. She props h cane against the wall and limps toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Ready? \f90. As in the beginning, we hear “Major Tom,” from Jonah’s Langley Schools Music Project album. Marlo reaches for Jonah’s WILBARGER BRUSH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO, (CONT'D)",
+          "text": "Let’s start with your feet tonight. She begins sweeping the brush over the soles of his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Mom, is this real? Marlo pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Does it work? We do it every night but I’m not sure what it’s supposed to do. Marlo thinks about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, honestly, I don’t know. Do you like when we do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "I like being by you. Marlo smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I like being by you too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "And it feels nice, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Well, maybe that’s all that matters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "But we can just be together. We don’t have to do the brush. I kind of don’t think it’s real.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "Okay. If you don’t think we need it, then I guess we'll stop. She puts the brush down and rests her chin in her hands. \fgl. Jonah suddenly leans forward and puts his arms around her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "I love you. The SONG ends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "I love you too. They’re still wrapped in an embrace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Can you play the song again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARLO",
+          "text": "The same one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONAH",
+          "text": "Yes, silly mommy. Always the same one. Marlo leans over to the CD player. She presses “play” on track again, starting the song. Then she presses “repeat,” ensuring that Jonah will hear as many times he wants. Jonah and Marlo rock back in forth in an embrace as Major counts down again, for the hundredth time, the thousandth",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2456"
+    }
+  ]
+}

@@ -1,0 +1,1382 @@
+{
+  "movie_id": "MOV2403",
+  "scenes": [
+    {
+      "characters": [
+        "\"PARIS",
+        "MARY",
+        "FADE TO",
+        "KAT",
+        "FADE OUT",
+        "TERESA",
+        "ANNE",
+        "MELODY",
+        "MADDY",
+        "THE END",
+        "--",
+        "EVERYONE",
+        "CUT TO",
+        "TERESA AND ANNE",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FADE IN",
+          "text": "EXT.В  MARYВ’S HOUSE В– AFTERNOON. Under the opening credits and theme music, we see five wo one by one at the house via their own cars.В  They are ge same age В– all in their late twenties or early thirties casually.В  As each exits their car, they are greeted war and the others who have arrived before.В  Each is carryin suitcase.В  All the women remain outside the house until arrives.В  Then they all go inside, led by Mary. INT. VARIOUS - AFTERNOON. Still with the theme music playing, we see a montage of e The women excitedly get settled into bedrooms in the huge Mary is showing the women around theВ  house and grounds. one scene, Mary is wearing a bridal veil and holding up a on a hanger while the others look on admiringly.В  Then t the kitchen, helping to prepare a dinner.В  Then in the d eating their meal.В  A large banner reading \"Congratulati hangs behind a table loaded with wedding presents. The meal has been finished, and the women are chatting ha KAT rises and takes a wineglass in her hand.В  She motion",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(raising her glass) \"Ladies!В  Your attention please.\" The chattering subsides as others pick up their wineglass",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"As most of you know, I have known Mary for practically a During that time, she has been a true and dear friend, an a sister.\" At this comment, MADDY seems to be taken aback.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues) \"So itВ’s with mixed emotions that I anticipate her comin to Bill.В  Naturally, IВ’m very happy for her.В  Bill is man, and he has made Mary truly happy.В  Heck, IВ’d marry Laughter from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues) \"But at the same time, itВ’s almost like losing a sister. Kat looks at Mary, whose eyes are beginning to tear.В  Ma at her too, and is not happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues - to Mary) \"So you just remember this, young lady В– you are NOT all disappear from our lives like so many married women do, l unfortunate single friends behind in the wake of their ma The others laugh and nod in agreement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues) \"I still expect to see you every single day, you hear?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(nods) \"So youВ’ll be coming with us on the honeymoon then?\" Roars of laughter from the women.В  All except Maddy, who angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Absolutely!В  IВ’ll go home and pack.В  Has Bill got a f More laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Seriously, Mary.В  I love you both and wish you all the and love in the world.В  You deserve it.\" Murmurs of agreement are heard from the others as they al their wineglasses.В  Maddy drinks her wine in a huge gulp sits, and Mary rises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Thank you, Kat.В  YouВ’ve been the best maid of honor a ever have.\" Maddy scowls at this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"And thanks to all of you, my trusted bridesmaids.В  How I ever have gotten through all of this without you?В  You dear friends.\" Everyone smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(jokingly haughty) \"Of course, IВ’m her BEST friend.В  ThatВ’s why she picke be maid of honor!\" At this, Maddy pushes away from the table suddenly and le The others are somewhat surprised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"WhatВ’s up with her?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Did I say something wrong?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"No, itВ’s fine.В  Maybe sheВ’s just not feeling well.\" Mary gets up from the table and leaves the dining room.В girls look after her questioningly.В  They then begin sta dishes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"I hope MaddyВ’s alright.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Me too!В  I worry about her.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"I know!В  She seems so out of it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"She used to be so much fun.В  Remember?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Give me a break!В  All she needs is a man to give her a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "(shocked and embarrassed) \"Teresa!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"It always works for me.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Well, believe it or not Teresa, sex is not the answer to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Yeah, right!\" The girls laugh. Maddy is in the upstairs bathroom crying softly.В  She lo herself in the mirror, and for a moment it appears she is Then there is a knock at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(through the door) \"Maddy?В  Is everything alright?\" Maddy stiffens and does not reply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(through the door) \"Maddy.....Let me in.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(tense) \"No!В  IВ’m fine!В  IВ’ll be down in a minute.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(through the door) \"Are you sure?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(irritated) \"I said IВ’m alright!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(unsure) \"Okay.В  Just let me know if you need anything.\" After a few moments, she composes herself and looks at he mirror.В  Her hand moves slowly, gingerly to her flat sto She looks very sad. Back in the dining room, the women are clearing the table the dishes into the kitchen.В  Mary enters the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"DonВ’t worry about those.В  Just stack them up there on IВ’ll do them later.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"No way!В  You cooked the meal.В  Darn if youВ’ll get stu washing the dishes too.В  ItВ’s your party, for goodness",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Yeah, thereВ’s plenty of us here.В  It wonВ’t take long. just relax.\" The women set about the task of washing the dishes, while on a nearby stool to keep them company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"So whatВ’s up with Maddy?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"I donВ’t know.В  She seems so out of it tonight.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Tonight?В  SheВ’s been В‘out of itВ’ for ages!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"I know!В  Ever since she broke up with Arnie.В  WhatВ’s on with her?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Honestly, Mary, why did you even invite her?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"SheВ’s a bridesmaid.В  Besides, sheВ’s my sister!В  How I not invite her?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"SheВ’s your STEP-sister.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Geez, Mary -- if your dad hadnВ’t taken that trip to Bos",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Even so, sheВ’s been closer to me than any blood sister be.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Yeah, but how long ago was that?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"OK, so she hasn't been herself lately.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Lately?В  She's been in this funk for months.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"I know....\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Well she's bumming us out.В  What's wrong with her anywa used to be a lot more fun.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"I don't know.В  She's changed since the breakup.В  I don know what's up with her.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Well, letВ’s hurry up and get some more wine into her.В that will loosen her up.\" Maddy is still in the bathroom.В  Taking a washcloth, she water on her eyes, straightens her hair, gives one more l in the mirror, and then goes back downstairs.В  She doesn rejoin the other women, so she goes into the living room out the window at the coming night.В  After a few moments into the room and walks over to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Hey, Maddy.В  Is everything alright? Maddy continues to stare out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"Maddy, whatВ’s wrong?В  Why did you run out like that?\" After a long moment, Maddy answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"I just couldnВ’t stand it anymore.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Stand what?В  What was it that bothered you?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Come on, Mary.В  You know what it was.В  It was her.В  Kat.\" Mary looks down for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(softly) \"I know.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Why, Mary?В  Why is Kat your maid of honor and not me?\" Mary looks embarrassed, but does not answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues) \"WeВ’re sisters.В  Well, almost sisters.В  WeВ’ve been th so much together.В  I should have been your maid of honor her!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"I know, Maddy.В  I know.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Then why, Mary?В  Why did you pick her?\" Mary struggles to find a way to explain without hurting h feelings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Maddy, I wanted you to be my maid of honor.В  You know t You know I always wanted it to be you.В  We used to plan WeВ’d plan our weddings В– I would be your maid of honor, mine.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"I remember, Mary.В  I remember it all.В  But then you pi her.В  And now she just loves rubbing my nose in it.В  (m В‘Oh! IВ’M MaryВ’s best friend now! Why, sheВ’s like a SI How could you?В  How could you pick Kat?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"ItВ’s not like that, MaddyВ…\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"It IS like that!В  ItВ’s JUST like that!В  DidnВ’t you h her in there?В  She was digging her claws in.\" They sit silently for a moment, Maddy looking out the win forlornly at Maddy.В  At length, Maddy calms down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Just tell me why.В  Why did you pick her instead of me?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"MaddyВ….I wanted you.В  ItВ’s justВ….itВ’s justВ…..В  La beenВ…В…so far away.\" Maddy drops her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"I donВ’t know, Maddy.В  I donВ’t know whatВ’s happened.В know whatВ’s changed.В  But ever since you broke up with donВ’t talk to me anymore.В  You donВ’t come see me, you When I do see you, itВ’s like youВ’re on another planet.В what to do, I donВ’t know how to reach you.\" Maddy turns away from Mary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"Maddy, please В– talk to me.В  Let me in.В  IВ’m your si YouВ’re my best friend.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(glumly) \"Not anymore.В  KatВ’s your best friend now.\" Maddy turns and goes across the room, flopping into a cha moves to say something, but just then Kat and the others living room from the kitchen, chattering happily.В  Mary helpless look to her sister, then turns to greet the wome Everyone is talking about how good the meal was, while Ma in a corner watching them.В  Kat has brought two bottles her from the kitchen, and is filling everyoneВ’s glass.В moments, Kat notices Maddy and calls across the room to h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Hey Maddy.В  Why the sad face?В  ArenВ’t you having a go time?\" Maddy just stares back at her silently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"WhatВ’s the matter, Maddy?В  Cat got your tongue?\" There are a few stifled snickers from the others.В  Mary at Maddy, who turns away and looks out the distant window",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Come on, Kat.В  Maybe MaddyВ’s just not a party girl.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(chuckles) \"Well then, itВ’s a good thing sheВ’s not the Maid of Hon my job is to see to it that everyone has a GOOD TIME!\" Kat waves one of the wine bottles in the air as she says words, and everyone cheers and hoots.В  Kat walks over an wineglass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Now come on, Maddy.В  Loosen up.В  You wouldnВ’t want to the party, would you?\" Without waiting for an answer, she turns and walks back t other girls are sitting.В  Maddy stares daggers after her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(sympathetically) \"MaddyВ’s just not feeling very well tonight.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(defiantly) \"ThatВ’s not true.В  I feel fine.В  Here.\" Maddy picks up the full wineglass and drinks it all down gulp.В  She puts the wineglass back down forcefully and g a long stare.В  Kat and the others are whooping their app Maddy does not notice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"So MaryВ…В…are you nervous about The Big Night?\" Laughter from the other girls, as Mary appears embarrasse",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(with false bravado) \"Nervous?В  WhatВ’s there to be nervous about?\" More laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Come on, Mary.В  Everybody knows youВ’ve been В‘saving y until you were married.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"ThatВ’s right.В  We all feel really bad for Bill.В  How has he been waiting now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(in amazement) \"Two and a half YEARS!В  Can you believe it???\" Gasps from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"My God!В  I didnВ’t know a man could GO two years withou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Honey, YOU couldnВ’t go two WEEKS.\" Everyone explodes in laughter.В  Teresa hides her face fo pretending to be embarrassed.В  Anne is also embarrassed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Poor Bill!В  Maybe we shouldВ’ve gotten together and В‘h outВ’.\" Ooo-ing sounds and laughter from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"DonВ’t you girls get any ideas!В  Besides, heВ’s only go days left to wait.\" Cheers from the girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"Okay, okay В– so I am a little bit nervous.В  I admit it BUT В– I got a little something to break the ice.\" Mary runs out of the room and up the stairs as the other at each other wonderingly.В  Then they go back to their w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"So whatВ’s up, Maddy?В  How have you been?\" There is a momentВ’s pause, as if everyone is waiting to has to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"IВ’m fine, Anne.В  Just fine.\" She realizes how sarcastic that sounded, and softens for",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"How have you been?В  Are you still seeing that guyВ…В  W was his name?В…В  Steve?\" Everyone in the room tenses at the mention of Steve, and drops.В  After a long moment, she replies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"NoВ… umВ…В… He and IВ… WeВ—\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(angrily) \"Maddy!\" Maddy is startled and confused.В  She doesnВ’t understand happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(still angry) \"Steve was cheating on her, and then he dumped her, remem Jeez, Maddy В– how can you be so cold?\" Maddy looks shocked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"NoВ….uhВ…..uhВ…В…I didnВ’tВ—\" AnneВ’s head is still down.В  Teresa goes over and puts a her shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(apologetically) \"Anne, IВ’m soВ—\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Leave her alone.В  CanВ’t you ever think about anybody b Maddy shrinks back into her chair, upset.В  Anne takes a and nods that she is alright.В  Teresa takes her arm from but remains sitting close to her.В  The other girls look trying to decide where to look.В  Kat stalks across the r onto the couch.В  Everyone is quiet for a moment.В  Then down the stairs and into the room.В  She is wearing a ver She takes a position in the room where everyone can see h others look up at her expectantly, relieved to have somet their attention upon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Well ladies, as I told you, I have been feeling a little the impending wedding night В‘dutiesВ’.\" Some light laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"However, Bill has been a perfect gentleman for a long, l timeВ….\" More laughter, and stronger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"HeВ’s respected my desire to remain celibate until our w and I love him for that.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"YouВ’re SO lucky, Mary!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"I know!В  I wish I had waitedВ…\" Murmurs of agreement from the others.В  Teresa gives Anne look.В  This is the first time sheВ’s ever heard her sist having had sex.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Well, Bill is living proof that there really ARE good me And youВ’re right, Melody В– I am VERY lucky!В  And thatВ to go do a little special shopping.В  So, seven days from is going to get lucky too!\" With this, Mary throws open the bathrobe to reveal some v The girls gasp in surprise, then applaud and cheer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Wow!В  I hope Bill has a strong heart!\" Howls of laughter from the girls.В  Mary struts a little, off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Well, I figured Bill deserved a nice В‘packageВ’ to unwr She struts a moment more, then closes and ties the robe w of embarrassment.В  The girls applaud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Okay, now everybody into their jammies!В  WeВ’ve got a c of wine to kill off, and some VERY interesting videos to With squeals of glee, the girls run out of the room and u except for Maddy who remains sitting in the chair.В  Kat to leave the room.В  As she passes, she grabs MaddyВ’s ar her to her feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Come on, spoil sport!В  WeВ’re going to make you have so if it KILLS you!\" She pushes the reluctant Maddy towards the door.В  As Kat Mary stops her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(questioningly) \"Videos???\" Kat gives her a sly look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"ThatВ’s right.В  You can just consider them В‘training t She smiles mischievously and leaves the room, pushing Mad her, leaving Mary with a questioning look on her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CUT TO",
+          "text": "The girls are in their sleepwear, jammed together on the hysterically as a porno movie plays on the TV in front of cannot see the TV screen, but we can hear the sounds of m cheap music.В  The girls laugh as if it is the silliest t have ever seen.В  Mary is half-hiding her face in embarra Even Maddy cannot suppress the occasional giggle.В  After of this, Mary grabs the remote and turns the TV off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"ThatВ’s enough of THAT!В  Where on earth did you get tha Kat springs to her feet in mock defense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(theatrically) \"I will never reveal my sources!В  You can jail me!В  You torture me!В  You canВ—\" She is hit with sofa pillows thrown by several of the lau",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Well, IВ’d have to have a LOT more wine in me to watch a that!\" Taking this as a cue, Kat grabs the nearest wine bottle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Your wish is my command!\" The alcohol is beginning to have its effect on Maddy.В  S to get into the spirit of things a little more.В  She is and participating more in the fun, although still conside than the others.В  As Kat refills MaryВ’s wineglass, she too, as well as her own glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "(sarcastically) \"So whatВ’s next on the entertainment agenda, Kat?В  Bobb apples?В  Pin the tail on the donkey?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Or maybe a rousing game of Old Maid?\" Boos and hisses from the other girls.В  Maddy joins in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"No ladies.В  Now itВ’s time for some REAL fun!\" OoohВ’s of anticipation from the girls, including Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues theatrically, with humor) \"Now weВ’re going to play the game that delves into the d stinky, slimy recesses of your very souls, where your mos are laid bare for all to see!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Oh no!В  DonВ’t tell me.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"ThatВ’s right.В  WeВ’re going to play В‘Three WishesВ’!\" Groans come from the other girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Aw cВ’mon!В  ThisВ’ll be fun.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Yes, come on.В  I like this game!\" The others reluctantly agree.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(gleefully) \"OK, OK!В  LetВ’s start withВ…В…Mary!\" Cheers from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Alright MaryВ… youВ’re wandering on a desert island and upon AladdinВ’s magic lamp.В  The genie inside grants you What would you wish for?\" Mary ponders this thoughtfully as the other girls look on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"HmmmВ…В…В  Three wishes, eh?В  Let me see.В  WellВ…В…fir I would wish for a million dollars for each and every one Cheers from the girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"And for my second wish, I would wish for.....a nice hous Murmurs of approval.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(continues) \"And for my third wish........I would wish that Bill and a whole bunch of healthy, happy children.\" Applause from the other girls, but Maddy looks as if sheВ in the stomach.В  She collapses back onto the couch, sudd again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"I would wish for a diamond as big as an orange, a brand and......\" She pauses for effect.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "(continues) \"....for Roger to be better В‘endowedВ’!\" Squeals of laughter from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"I wish for a new house, a trip around the world, and a b wonВ’t cheat on me.\" Murmurs of agreement from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"....a houseboat, a big ranch, and a starring role on a m opera.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(looking around the room) \"OK, Maddy.В  ItВ’s your turn.В  YouВ’re on a desert isla you find AladdinВ’s В–\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(sullen) \"I donВ’t want to play.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Come on, Maddy.В  Be a sport.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA AND ANNE",
+          "text": "(in unison, encouraging) \"Yeah.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(irritated) \"I said I donВ’t want to play.В  Leave me alone!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(irritated) \"WhatВ’s the matter, Maddy?В  Already got everything and to wish for?\" Maddy says nothing.В  Mary reaches out and takes MaddyВ’s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(encouraging) \"Come on Maddy.В  ItВ’s just a game.В  Everybody else tol wishes.В  Now you tell us what you would wish for.\" Maddy snatches her hand away and stands up unsteadily, th the wine.В  She is upset now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(angry) \"Leave me alone, dammit!В  I said I donВ’t wanna play!\" Near tears, Maddy storms out of the room and up the stair other girls look at each other, stunned.В  Mary gets up a Maddy, the others close behind her.В  They find Maddy in the upstairs study.В  The room has two large windows, and opened one and is standing close to it, looking downward. her slowly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(cautiously) \"Maddy?...В  WhatВ’s going on?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(still looking out the window) \"I donВ’t wanna play.В  I donВ’t wanna tell you what I wi Just leave me alone!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(suddenly afraid that Maddy may leap out of the window) \"Maddy, please.В  ItВ’s freezing in here.В  Please -- com from the window.\" Maddy doesnВ’t move.В  Everyone is riveted in their posit Finally, Mary moves to stand beside Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Please, Maddy.В  Tell me whatВ’s wrong.В  Why are you do this?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(approaching hysterics) \"What do you care?В  What do any of you care?\" Maddy moves even closer to the open window.В  The others towards her, as if they are preparing to grab her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues) \"I just want it to stop.В  I want everything to stop.\" Mary moves slightly closer to Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Is this about being Maid of Honor?\" At this, Kat throws her hands up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(suddenly angry) \"GEEZ, Maddy!В  Is that what this tantrum is all about?!В YouВ’re whining because you didnВ’t get to be MaryВ’s Mai Well get over it!\" Maddy whirls around to face Kat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(venomously) \"Shut up, you little bitch!\" Mary and the others are shocked by this outburst, and sta silence.В  But Kat responds immediately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(angrily) \"OK, OK!В  You donВ’t want to tell us?В  Fine!В  Who care what your wishes are anyway?В  YouВ’ve already got everyt wanted, donВ’t you?В  So why not just ruin the party for What do you care?\" Maddy turns back to the window and buries her face in her as if sheВ’s on the verge of a breakdown.В  Suddenly, she hands and whirls back around to face Kat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(angry) \"You want to know what I wish for, Kat?В  You REALLY want Then IВ’ll tell you!В  I donВ’t have three wishes -- I on wish.В  I wish I could go back in time and change one hor IВ’ve done.В  Just one!В  IВ’d give all three wishes for Everyone stands in stunned silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues) \"There!В  Are you HAPPY now?!\" Maddy storms out of the room and back down the stairs.В moment, the others follow.В  In the living room they find in a chair, near tears.В  They come into the room, but do Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Oh, come on Maddy.В  YouВ’re so perfect -- what could yo want to change about your life?\" Maddy slowly looks up at Teresa, tears running down her f strange look of horror in her eyes.В  A long moment passe speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(strangely calm) \"I killed someone once, Teresa.\" Gasps of shock from the others.В  Silence for a short mom",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Yeah, sure!В  YouВ’re kidding, right?\" But the girls slowly realize that Maddy is serious.В  Mar close to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Maddy, what do you mean you killed someone?В  Was there sort of accident or something?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(still strangely calm) \"It was no accident.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Then what?В  Self defense?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(agitated) \"It wasnВ’t an accident.В  And it wasnВ’t self defense.\" She looks at the questioning faces, a growing look of des face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"It was murder.\" The girls are stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Murder???В  How could it be murder?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(to Anne) \"It canВ’t be.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(to Maddy) \"Maddy, what are you talking about?В  You never murdered",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(anguished) \"I did! I did! I planned it! I thought it all out.В  I kn I was doing!\" The others look at her in disbelief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues) \"You donВ’t understand.В  I committed a murder.В  A calcu cold-blooded murder.В  I deserve to die.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"No you donВ’t.В  You donВ’t deserve to die.В  Nobody des to die.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(calmer now) \"He didnВ’t deserve to die.В  But I killed him.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Maddy, get a grip.В  You didnВ’t kill anybody.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Oh, I didnВ’t kill him myself.В  I paid somebody to do t But I committed murder just as sure as if I had--...\" Maddy dissolves into tears.В  The girls are shocked, froz Mary puts her arms around the crying Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Maddy, stop it!В  You donВ’t know what youВ’re saying.\" Maddy tries to pull away from her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(sobbing) \"I DO!В  I DO know what IВ’m saying!В  I was there!В  I killed him!В  HeВ’s dead because of me.\" Mary doesnВ’t know what to say.В  For a moment she just s her arms around the sobbing Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(soothing) \"Alright Maddy.В  Shhh.В  Calm down now.В  Tell us what happened, Maddy.В  When did this happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(still crying) \"Six months ago.В  It happened six months ago.В  Oh God!В I killed him six months ago!\" Kat has moved close, and now puts a hand on the sobbing g",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"God, Maddy.В  Was it someone who hurt you?\" Maddy shakes her head vigorously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(the sobs subsiding) \"He never hurt me.В  He never hurt anyone.В  He was compl defenseless.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Well IВ’m sure you didnВ’t mean to hurt him.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(insistent) \"YES I DID! YES I DID! I did it on purpose! I was suppose care of him.В  And I murdered him!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "(impatient) \"Well then who was it, Maddy?В  Who did you kill?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(as if she didnВ’t hear TeresaВ’s question) \"He had so much potential.В  He could have been anything, anywhere.В  But he never got the chance.\" She begins sobbing softly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues through tears) \"He was so small... so tiny and defenseless.В  He never h He never did anything.В  But I didn't want him around.В the plan.В  I paid the money.В  I had him killed.В  Now h gone, and I can't ever, ever take it back!\" Slowly the girls realize what Maddy means.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(with great sorrow and sympathy) \"Oh Maddy...В  You had...В  an abortion?\" At the sound of the word, Maddy lets out a scream of angu into tears once again, burying her face in MaryВ’s should puts her arms around the sobbing girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Oh God...В  Maddy...\" Everyone is silent, in shock.В  No one knows what to say. A long moment passes as MaddyВ’s sobs slowly subside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Maddy...В  What happened?\" Maddy sits up.В  Kat grabs a nearby box of Kleenex and of to her.В  She takes one and dries her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(her head down) \"It was when Arnie and I were dating.В  I really, really he loved me, you know?В  And I wanted to make him happy.\" She looks at the others.В  Some have tears in their eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues) \"I should have waited.В  I wasnВ’t ready.В  WeВ’d only be out a couple of months.\" Several of the girls nod understandingly.В  Kat puts a ha shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(becoming more agitated) \"I didnВ’t know what to do.В  As soon as Arnie found out, me.В  I had nowhere to turn.В  I couldnВ’t take care of a What could I do?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "(lighter) \"Jeez, it was just an abortion!В  No big deal.\" The others turn and stare at her sternly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Hush, Teresa!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"What?В  WhatВ’s the problem?В  ItВ’s just an abortion.В  People have В‘em everyday.\" Anne takes her arm and turns Teresa to face her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "(sternly) \"Be quiet, sis!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "(defensively) \"Well itВ’s true!В  ItВ’s not like itВ’s murder or anythi ItВ’s just, like, a piece of tissue, and you have it remo an appendix.\" At this, Maddy wails loudly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(anguished) \"He was NOT just a piece of tissue!В  He had fingers and I could hear his heart beat!В  He had brain waves!В  He s he woke up, he kicked -- they tell me he could even cry!В person!\" Maddy lapses into heavy sobs.В  Mary tries to comfort her steps over and gets close in front of Teresa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(speaking low, directly at Teresa) \"Look Teresa, I know youВ’re young, and all you know abou is what you see on TV.В  But to her, this was her child, and she killed it.В  ThatВ’s what it is to HER.В  So if y help, then help.В  Otherwise, just shut up!\" She turns back to Maddy, leaving Teresa with a shocked lo Anne is nodding that Kat is right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(sympathetically - to Maddy) \"Why didnВ’t you come to us?В  To me?В  We would have hel you.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "(sympathetically) \"Yeah, Maddy.В  Why didnВ’t you tell us?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"I wanted to.В  I wanted to so much.В  But the day I foun out I was pregnant, I came home and heard you were engage so happy!В  Everyone was so happy and excited!В  And I ju tell you.В  I just couldnВ’t ruin that for you.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(tearfully, hugging Maddy) \"Oh Maddy!В  IВ’m so sorry.В  I should have known.В  I sh have seen something was wrong.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(tearfully) \"But you were so happy.В  And I wanted that for you.В  I myself, В‘IВ’ll tell her tomorrow.В’В  But with every day it was harder and harder to say the words.В  So I made th and I had it done.В  I killed my baby.\" Maddy is staring sullenly now, almost as if she is in sho",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(sympathetically) \"It must have been awful.\" Maddy looks at Kat as if slowly realizing she is in the r",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Maddy В– how far along were you?\" Maddy looks at Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"About ten-and-a-half weeks.\" A realization strikes Kat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Oh no...В  Oh Maddy...\" Kat begins to cry softly.В  The others drop their heads i all except for Teresa, who looks at the others questionin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"What?В  I donВ’t get it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Oh God.В  Maddy, your due date.В  It would have been...\" Maddy nods sadly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Any day now.\" She heaves a heavy sigh, no more tears left in her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(continues) \"Any day now Mary В– you would have been an aunt.\" Mary turns her head away for a moment so that Maddy wonВ’ Then she turns back and takes Maddy in her arms again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(crying softly) \"Maddy В– IВ’m so, so sorry.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They sit together for a long moment.В  The other girls ar their eyes.В  After awhile, Maddy sits up and composes he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(to Mary) \"IВ’m sorry I ruined your party.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"You didnВ’t ruin my party.В  IВ’m the one who should be sorry I didnВ’t see what you were going through.В  Sorry for you.\" Maddy smiles weakly at her sister.В  Kat kneels in front and takes her by the hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(sympathetically) \"Yeah, Maddy.В  IВ’m sorry too.В  We all are.В  WeВ’re yo friends.В  We should have been there for you.\" Nods and murmurs of agreement from the others.В  Teresa c puts a hand on MaddyВ’s shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Listen, IВ’m sorry about what I said earlier.В  I -- I d it could affect someone like this.В  IВ’m really sorry.\" Maddy smiles at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Thanks, Teresa.В  I appreciate it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "(to Maddy) \"Can I get you anything?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "(to Maddy) \"Yeah, Maddy.В  You want some more wine or something?\" Maddy chuckles softly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"No, I think IВ’ve had enough wine!В  But thanks.\" The girls remain close to Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"I just realized, this could have been me.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"What do you mean, sis?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "(somewhat reluctantly) \"Well...В  Just that I donВ’t always practice safe sex.\" Anne looks at her with some shock, and starts to say some Teresa cuts her off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"I know, I know -- ItВ’s stupid and dangerous.В  I donВ’t I did it.\" She looks at Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"But I know I wonВ’t ever do it again.\" A faint smile crosses MaddyВ’s lips and she reaches out t reassuringly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Yeah, well -- safe sex is all well and good, but IВ’m be think Mary has the right idea with the celibacy thing.\" Some nods and murmurs of agreement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Yeah, but then where are we gonna find guys as patient a as Bill?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Hey, if Mary can find one, then so can I.В  (To Mary)В you SURE Bill doesnВ’t have a brother?\" The others chuckle, even Maddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"You know, this is our fault.В  If we hadnВ’t been so wra in ourselves, we could have seen that something was wrong about it.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"ThatВ’s true.В  We couldВ’ve saved her a lot of pain and if weВ’d just been paying attention -- like friends are s Murmurs of agreement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"So what happened to us?В  We used to be that way.В  We u to talk all the time, all about our problems and stuff.В like sisters.В  Whenever anybody had a problem, we all sh What happened to that?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"I donВ’t know.В  Seems like we lost it somewhere.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"ItВ’s like weВ’ve all become superficial -- like weВ’re to face bad things.В  So we just pretend that everythingВ ItВ’s a defense mechanism.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Well it sucks!\" Light laughter from the girls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Yes it does suck!В  So what are we going to do about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Well what CAN we do?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"I donВ’t know, but we have to make sure that none of us go through what Maddy has had to suffer.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Right!В  We need to start being best friends again and l out for each other.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Yes!В  We need to get together more often -- all of us.В And to talk -- really talk -- about whatВ’s going on in o Murmurs of agreement from the others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"Okay then.В  LetВ’s make a pact!В  Everybody raise your hand.\" Everyone raises their right hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(theatrically) \"We solemnly swear that from this day forward we will be we should have been all along.В  We will call each other times a week.В  And once a week weВ’ll get together -- al and share whatВ’s going on in our lives.В  We promise nev back.В  We will always lean on each other, help each othe each other -- forever and ever.В  Amen.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVERYONE",
+          "text": "(in unison) \"Amen.\" Laughter from everyone.В  Even Maddy is now smiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Maddy, I wish youВ’d reconsider moving back in here with I really miss having you here.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Thanks sis.В  I really appreciate it.В  But IВ’ve got my place, and I love it there.В  IВ’ll be alright.В  Honest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"I know youВ’ll be alright.В  ItВ’s me I was thinking of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Well, IВ’ll just have to come visit a lot more often.В better give Bill fair warning.\" This makes Mary happy.В  Kat is almost overcome by this, away a joyful tear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"Oh!В  Hey!В  We forgot something!\" Everyone looks at Teresa questioningly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "\"In all the chaos we forgot to ask Kat what her three wis",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Uh -- sis, I donВ’t think...\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"Yeah, it might not be a good...\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"No, no!В  SheВ’s right.В  Everybody else went, so I shou too.\" She looks at Mary and Maddy, still sitting together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues) \"But I only have one wish.\" The others look at her expectantly as she pauses for a mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(continues - to Mary) \"My wish is that Mary will make Maddy your maid of honor. Maddy gasps with surprise at this.В  The others make soun",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(near tears) \"Oh Kat...\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(to Kat) \"Are you sure?\" Teary-eyed, Kat nods.В  Mary smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(looking at Maddy) \"Maddy, will you please be my Maid of Honor?\" A huge smile crosses MaddyВ’s face as she hugs first her Kat.В  As sheВ’s hugging Kat, she whispers into her ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(whispering) \"Thank you, Kat!\" They hug for another moment, then separate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(to Maddy) \"And I want you to come to my house for dinner Monday nig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Well...В  I donВ’t...\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "\"DonВ’t even try it!В  I will NOT take no for an answer, Maddy smiles, fakes a salute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "(with humor) \"Yes SIR!В  IВ’ll be there SIR!\" Everyone laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(with humor) \"SheВ’s a raw recruit, but sheВ’s got potential.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"And Maddy, IВ’d like you to come shopping with me this w I have to buy a whole new wardrobe for my trip in April.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVERYONE",
+          "text": "(in unison)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "\"PARIS",
+          "text": "More laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MELODY",
+          "text": "\"Yep!В  And IВ’d really appreciate your advice.\" Smiling, Maddy nods appreciatively.В  Mary takes MaddyВ’s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"And first thing Monday morning IВ’m calling Reverend Pet you and I are going for grief counseling.\" Maddy lowers her head and nods.В  Mary puts a hand under chin and raises her head up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "\"WeВ’re going to get through this together.\" Maddy smiles and nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "\"Thanks sis.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KAT",
+          "text": "(wiping a tear from her eye) \"Um...В  Would it be alright if I come too?В  Just for mo support.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(smiling) \"Sure, Kat.В  After all, youВ’re like a sister to us.\" Maddy and Mary share a chuckle.В  Teresa whispers somethi ear.В  Anne nods enthusiastically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "\"Hey!В  After the wedding next Saturday, everybody comes house for a barbecue!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERESA",
+          "text": "(pointing to Mary) \"Everybody except YOU, that is!\" Loud laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARY",
+          "text": "(laughs В– then gives an exaggerated sigh) \"I never get to have ANY fun!\" Howls of laughter from the girls.В  Everyone breaks and m to couches and chairs in the room, some picking up their drinking from them.В  Mary is still sitting with Maddy, h hand.В  Kat is standing nearby.В  All are smiling now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE TO",
+          "text": "EXT. MARYВ’S HOUSE - MORNING.В  As the closing theme musi we see the girls are putting their things into their cars each other long hugs, wave their goodbyes as they drive d one by one, until only Mary and Maddy are left, standing car.В  Both are smiling now.В  They give each other a lon and a kiss on the cheek, then Maddy gets into her car, wa drives slowly down the driveway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE OUT",
+          "text": "Theme continues under closing credits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "var _gaq = _gaq || []; _gaq.push(['_setAccount', \"UA-4601892-4\"]); _gaq.push(['_setDomainName', 'none']); _gaq.push(['_setAllowLinker', true]); _gaq.push(['_trackPageview']);",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(function() { var ga = document.createElement('script'); ga.type = 'tex ga.src = ('https:' == document.location.protocol ? 'https var s = document.getElementsByTagName('script')[0]; s.par })();",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2403"
+    }
+  ]
+}

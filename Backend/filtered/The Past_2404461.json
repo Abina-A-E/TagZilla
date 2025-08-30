@@ -1,0 +1,4961 @@
+{
+  "movie_id": "MOV2222",
+  "scenes": [
+    {
+      "location": "CHARLES DE GAULLE AIRPORT",
+      "time": "DAY",
+      "characters": [
+        "SHAHRYAR",
+        "LEA",
+        "LUCIE",
+        "AIRLINE REPRESENTATIVE",
+        "DAY",
+        "NAIMA",
+        "VALERIA",
+        "DOCTOR",
+        "FADE IN",
+        "MARIE",
+        "FOUAD",
+        "MORNING",
+        "SAMIR",
+        "NURSE",
+        "THE PAST",
+        "AHMAD",
+        "TITLE"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Behind the glass wall, which separates the baggage claim busy airport terminal, MARIE is awaiting the arrival of a She is holding a simple bouquet of flowers. She scans the newly arrived passengers. Marie’s gaze reveals a sense of eyes fix on a man who has his back towards her. She looks carefully, uncertain that he is the man she is waiting fo waiting along with the other passengers for his suitcase. position so that perhaps she’1l be able to see his face. sees his profile. He’s AHMAD, forty-four years old. She s raises her hand to catch his attention but changes her mi off her wristbrace and stuffs it into her purse. She pref him for a few moments from afar. Marie is intensely watch has not yet seen her. One by one, the passengers take the and leave. Only Ahmad is still waiting next to the empty his suitcase. Ahmad wanders through the baggage claim are a representative to report his missing suitcase. He speak of the airport staff. Marie tries to get his attention fr waving her hand. She signals to a passenger who is holdin and walking by Ahmad to get him to look at her. The passe Ahmad. He now turns his head and sees Marie through the g Happy, he walks towards her. They both come face-to-face of the glass wall. They cannot hear each other. From the their faces, it is clear that they have not seen each oth time. She understands that his luggage has not arrived wi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s pouring rain. Marie and Ahmad run side by side throu lot. They are laughing complicitily. They jump into the c soaking wet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "Marie opens the door and sits behind the wheel. The water down her face. Ahmad also gets in, struggling to catch hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You still smoke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No, I’m getting old. Marie reaches over to take a box of tissues. She dries he offers one to Ahmad, who does the same. Marie tosses her back. Ahmad does the same with his backpack and the bouqu the back of the car is loaded with all sorts of things. S covered in plastic dry-cleaning bags are hanging from the the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(jokingly) You bought a car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\f(laughing) No, I borrowed it. Marie starts the car. Ahmad is surprised by the music tha She turns the radio off and attempts to dry her hair with heater which is still warming up. Then, she struggles to gear. Her wrist hurts, so, she tries with her left hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What's wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "My wrist hurts. Ahmad shifts the gear for her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(jokingly) You're getting old too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(1smiing) Look out your side and see if I have enough room. Ahmad looks out the passenger-side window and Marie start",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You have room... The car hits something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Stop! What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE PAST",
+          "text": "4. EXT. HIGHWAY - INT. SAMIR’S CAR - DAY The rain has eased up. Ahmad and Marie drive through a tu continue on a highway leading to the city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Do the girls know I’m here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Didn't you tell them?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I thought you might let us down at the last minute, like the last time. Ahmad falls silent. Marie looks at him and smiles. As if to soften her harsh comment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Put it in fourth. Ahmad shifts the gear for Marie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m here now, let them know. I’d like to see them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "We're going to see them now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "We're picking up Lucie and going home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Didn’t you book a hotel for me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You were supposed to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I wasn’t sure you'd come.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What do you mean you weren’t sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I wasn’t sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Listen, something came up last time. Just two days before I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Don’t worry about it. Don’t start making excuses, we don’t have all day!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Just because I cancelled my trip once?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Not just for that. They both fall quiet and go on driving for a while in sil",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "The girls would like to have you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fI don’t want to disturb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You won't disturb us. You'll have to come for your suitcase anyway, when it’s delivered. Ahmad doesn’t reply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "At least, come and change your clothes so you don’t catch a cold. Ahmad still doesn’t reply and wipes the steamed-up windsh 5. INT. SAMIR’S CAR - EXT. THE STREET OF LUCIE’S SCHOOL - Students exit a school. Ahmad sits alone in the car, watc students file out through the window. A police officer kn window. Ahmad gets out of the car and goes towards her to from writing the ticket. She tells him to move the car. A the driver’s seat. 6. INT. SAMIR’S CAR - EXT. THE STREETS AROUND LUCIE’S SCH Ahmad is behind the wheel and can’t find a place to stop. to go down a one-way a street and turn onto another stree back to the school. The sun shines into his eyes. As he l visor, a few pieces of paper fall out. He tries to pick t is driving. Among the documents, he sees an identificatio man in his early thirties. He stares at the picture and d moment while holding it in his hand. He tucks the papers place. He turns onto the street where the school is locat of students have thinned out. He sees Marie standing by t road looking worriedly for her car ans Ahmad. She sees hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She was going to give you a ticket... I went around the block. Marie does not respond. She seems upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She’s left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Did she know you were coming to pick her up? She asks him to get going and takes out a cigarette and l rolls down the window to let the smoke out. Ahmad realize",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Maybe she went home because you were late?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\fIt’s not her first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t know. Last night she came home at 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "They all go through this at her age, it’s normal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s not normal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why what’s wrong with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She’s been givng me hell for two months over nothing. Maybe you could talk to her, try and see what’s wrong with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "If she still remembers me after all this time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She loves you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "After all this time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Where are you going? Turn right! Ahmad, who has forgotten the way, follows Marie’s directi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I was daydreaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You've forgotten everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I was distracted. 7. EXT. STREET OUTSIDE MARIE’S HOUSE - DAY A long, wide street cuts through a residental neighborhoo stand alone houses near a railline. Ahmad pulls over in f house. Marie gets out of the car to go inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Marie-Anne... Marie pauses and turns to Ahmad. Ahmad takes the papers a from above the sun visor and holds them out to Marie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You shouldn't leave this here. It’s risky. Marie takes the documents and puts them in her purse. She Ahmad has already seen the picture. Ahmad also gets out. 8. EXT. MARIE’S HOUSE - THE FRONT YARD - DAY The front yard of Marie’s two-story house is separated fr by a metal fence and a gate. Ahmad looks at the yard from gaps in the fence. A ten-year-old girl, LEA and a six-yea FOUAD are busy playing in the yard. Lea and Fouad are str into place the chain of an old bicycle, probably belongin Marie who has entered the yard, starts picking up the han",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Is Lucie home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "No. She goes in the house. Ahmad discreetly enters the yard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "You broke it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Pull harder...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "I can’t. I’1]1 hurt my hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(to Fouad and Lea) No, not like that. First put one side on, then the other. The two children have only now noticed Ahmad’s presence. they stop pulling on the chain. Ahmad takes the chain fro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I'll show you. This goes there...It’s dried out. (to LEA) We need some oil. You know where to find some? It used to be in the cupboard in the shed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "Ahmad! Ahmad is happy that Lea has recognized him so quickly. He tightly in his arms. Surprised and curious, Fouad looks a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "My dear Lea... You're doing good? You've grown so much, sweetie. \fAhmad holds out his hand to Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Hello, Sir. Fouad does not shake his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(jokingly to Lea) Your friend is ignoring me. What's his name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "His name is Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Hello, Fouad. Fouad shakes his hand. 9. INT. MARIE’S HOUSE - DAY Marie’s house is two-stories. On the first level is the k window facing the backyard, Marie’s room, the study with and the children’s room. On the second floor, which is re narrow stairway, there is only one bedroom with a window, the front yard and street. Although the house is old, it it has been recently renovated. The paint on the walls ha fully dried and a ladder and painting supplies can be see the house. Marie climbs the stairs to the small upstairs prepared for Ahmad. In the bedroom is a small wooden bunk presumably belonging to her daughters. She lays the cloth brought for Ahmad on the bed. While she is making the low watches through the window Ahmad who is busy fixing the b Fouad. She opens the window facing the yard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Come inside, Ahmad. And you, Fouad, come get your things in the bedroom. 10. INT. MARIE’S HOUSE - DOWNSTAIRS - DAY Marie goes to the bedroom to dry her hair. Ahmad and Foua Lea comes out of the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "It wasn’t in the shed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Then you changed its place while I was away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "There’s some in my father’s car. Ahmad heard what Fouad said but does not react. He notice painted walls. As he wanders through the house, it is cle memories of this place. Lea and Fouad are standing watchi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Lea) Where’s the shelf that was here? The old wooden shelf...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "We moved it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "There were books of mine on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "All your stuff’s put away in the shed. Marie, facing the mirror in her bedroom is trying, despit wrist, to blowdry her hair. Ahmad peeks into the bedroom, against the doorframe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Watch the paint. Ahmad straightens up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Wasn’t the other color better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s not done yet. My wrist made me stop. Ahmad enters the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(jokingly) You should’ve waited for me to come. I I could’ve done it while I’m here. It would’ve kept me busy. He takes the blowdryer from Marie to help her. Standing c he dries her hair while she brushes it with her other han",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I'll do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Didn’t you want to go to a hotel? Ouch! You’re burning me. Ahmad holds the blowdryer further back and falls silent. continues brushing her hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s fine, thanks. Ahmad turns off the blowdryer. Marie gets up. She picks u and walks out of the room while dialing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\fI left some clothes upstairs. Go change before you catch a cold. Ahmad remains in the room. As the phone rings, Marie walk Lea’s room. She sees Fouad, standing in the hallway, keep the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to Fouad) What are you doing here? Go on. Get your things and go upstairs. You’ll sleep there and Lucie here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I don’t like it upstairs. Ahmad comes out of the bedroom and walks towards the stai",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s just while Ahmad’s here, then you'll come back downstairs. Hurry up, please. (on the phone) Lucie, call me back, please. I have a surprise for you. Marie hangs up. Fouad is upset as he grabs his things and sheets off the bed. 11. INT. MARIE’S HOUSE - UPSTAIRS BEDROOM - DAY Ahmad is looking out the window. Everything brings back o Fouad pushes the door open with his body and walks in hol his bedding. Exasperated, Fouad dumps his things on the b climbs up to make the bed on the top. Ahmad is staring at struggles to make his bed. Ahmad helps him, scrutinizing expression.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Is that your father’s car outside?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Do you live here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "With your father?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Since when?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Since school started. Ahmad is taken aback by Fouad’s answer. He sits on the ed lower bed. Fouad is still struggling with the sheet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Don’t bother making your bed. You can sleep downstairs in your own bed. Fouad takes the sheet and climbs down the ladder of the b gathers his things to leave the room. 12. INT. MARIE’S HOUSE - DOWNSTAIRS - DAY Fouad comes down the stairs. Marie is getting ready and s comes towards him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Why are you coming down?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "He told me to. Surprised, Marie walks upstairs. 13. INT. MARIE’S HOUSE - UPSTAIRS BEDROOM - DAY Marie opens the door. Ahmad is sitting on the edge of the realizes how upset he is. She enters the room and closes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "There aren’t enough beds for the three of them downstairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You live with someone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You didn’t tell me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(surprised) What do you mean? I wrote it in my email.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What email?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t know which one. One of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I didn’t get any.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\fSo, why did you want to stay at a hotel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I didn’t want to disturb you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "In any case, I wrote you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I didn’t get anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You didn’t wonder why I asked you to come for the divorce? Ahmad is quiet. Marie leans against the wall. Their eyes long silence, Ahmad finally speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Does he know I’m here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m leaving then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "He won’t come by while you’re here. Or he’ll let me know, for sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "When did you send that email?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It must still be in your inbox.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I guess so. Do you want me to show it to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I asked you to book a hotel for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I did last time and you didn’t come. I had to cancel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "How much did it cost you? Marie is hurt. She moves towards the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What time do I have to be in court tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You said you’d stay to talk to Lucie..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "When will she be home? Marie shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I can meet up with her tomorrow. Marie opens the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I was hoping you'd keep your promise for once. Marie leaves the bedroom. Ahmad is upset and remains seat of the bed. Marie hears his answer as she goes down the s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I didn’t promise anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "My mistake. Sorry. 14. INT. MARIE’S HOUSE - HALLWAY - DAY Marie comes down the stairs. A can of paint has spilt on The footstool, which Lea had brought from the shed, is ne spilt paint. Marie is furious, she sees paint covered foo leading towards the garden where the children are playing into the yard. 15. EXT. MARIE’S HOUSE - YARD - DAY Marie comes to the yard. She sees Fouad’s shoes, which ar paint. He is putting dishwashing liquid on the dry bicycl lunges towards him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(angry) Fouad! Can’t you watch where you walk? Fouad is looking at the bicycle chain and does not look u",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Why do I spend hours cleaning? For you to make a mess? Look at me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "(pointing to the dishwashing liquid) We went for this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to Fouad) I don’t give a damn! Fouad lifts his head and looks Marie in the eyes. They a at each other. Suddenly Fouad moves towards the front gat a huff. Exasperated, Marie tries to stop him. Fouad stubb himself on the ground and Marie struggles to get him back",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Get back here! Come here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I wanna go home! Lea goes towards Fouad to help her mom and convince Fouad inside. 16. INT. MARIE’S HOUSE - UPSTAIRS ROOM - EXT. YARD - DAY Ahmad is standing near the window, watching the scene bel yard, Marie is still struggling with Fouad. She finally w into her arms and drags him inside. 17. INT. MARIE’S HOUSE - HALLWAY AND THE CHILDREN’S ROOM Marie is struggling to contain Fouad who is flailing his in resistance. She manages to bring him inside and sets h bed. Lea is scared, she follows them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I'm sorry!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I don’t care!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(pleading) Please, Fouad, calm down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "You're not my mom. Fouad refuses to calm down. With no other choice, Marie l the room, she locks the door behind her. Upset, Lea stand corner of the hallway. Fouad beats against the door with 18. INT. MARIE’S HOUSE - HALLWAY, BATHROOM AND TOILET - D Marie has rolled up her sleeves. Despite the fact that sh late she decides to quickly clean the paint spill before comes down the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You should go, you're late.. I711 clean this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I'll do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fNot with your wrist, go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I thought you were leaving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’ll wait for Lucie. We’1ll see after. Marie gets up and rolls down her sleeves. She goes to the washes her hands and face. The occasional sound of Fouad fists against the door can still be heard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(worried) You'll keep an eye on them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Go, don’t worry. Ahmad goes towards the children’s room. He unlocks the do Lea is still standing in a corner of the hallway, looking 19. INT. MARIE’S HOUSE - CHILDREN’S ROOM - DAY As Ahmad enters, Fouad tries to escape. Ahmad grabs him a back in. Worried, Lea has come to the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where are you going? Wait!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Let me go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I'll let you go. But first tell me where you want to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I’m leaving!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "My house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where’s your house?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "Paris. He can’t go, it’s too far.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Shut up! No one asked you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "None of that in this house! Got it? Again Fouad tries to flee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lea, leave and close the door. We need to talk. Lea closes the door and leaves. Ahmad forces Fouad to sit and gently sits down next to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What’s wrong Fouad? What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I want to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You want to call home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "There’s no one in my home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What’s the matter with here? Is it because she told you off? But you were misbehaving. You spilt the paint, you caused trouble. Didn’t you spill the paint?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "It’s not the paint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What is it, then? Is it because I’m here? Do you want me to leave? Fouad does not respond. He has calmed down a bit. 20. INT. DRYCLEANER’S - DAY Long rows of clothing covered in plastic hang from rods r parallel along the ceiling. Large laundering machines are running. NAIMA, the young employee is covering freshly ir with plastic bags. On the glass door of the drycleaner’s, paper is taped which reads: “Experienced drycleaner’s hel Inquire within.” Marie quickly comes inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Hello, Ma’am. Marie sees SAMIR’s feet among the rows of clothing. While dry-cleaned clothes on his arm, Samir comes to the front the man whose picture Ahmad had seen in the car. He acts Marie. Marie takes the car documents out of her purse and the counter. Samir puts the clothing on the counter and o paper, writes down the list of items and the cost for the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "The plane was late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He’s here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Yes. Marie places the car documents in front of Samir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Where did you park it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Right there. (pointing to the documents) You shouldn’t leave this in the car. It’s risky. Samir takes the receipt for the clothing along with the c car documents from the counter to leave the drycleaner’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "While holding the clothing on his arm, Samir is walking w the sidewalk towards his car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Did you go to the hospital?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "How was she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Same as usual. Fouad’s not with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Was he supposed to come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "He called me to go pick him up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(surprised) Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "He asked me to pick him up. He didn’t want to stay there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I got upset with him. With both of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I’1l come and take him home with me tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No reason to make a fuss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "He’d never called me to go fetch him like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I'd never yelled like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Anyway, I promised I’d go fetch him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Ok. I shouldn’t have. We’ll make it up tonight. They have now reached the car. Marie unlocks the car and door. Samir hangs the clothing on the rod above the backs the door and takes the keys from Marie to get in behind t starts the car. Marie notices he is upset. Before the car she taps on the glass. Samir rolls down the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "If you want to come over, let me know first. Marie takes off down the sidewalk. Samir is deep in thoug the car in gear. While driving, he watches Marie. Samir’s passes her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie enters a pharmacy, goes behind the counter and gree coworker, a middle-aged woman. She then goes to the back her white uniform and stands behind the counter. 23. INT. MARIE’S HOUSE - KITCHEN - EXT. - YARD - NIGHT In the backyard, Ahmad is roasting corn. Lea is helping h bite of one of the freshly grilled cobs. Ahmad fans the o on the grill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Corn, hot corn! Lea mimics the sounds of his words. They laugh. Ahmad han corncob.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Here, take this for him. Lea takes the corncob into the kitchen. In the kitchen, F sitting at the table, cutting the corn stalk with a knife the grilled corn out to him. He ignores her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I don’t want it. Lea notices Fouad’s finger is bleeding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "You cut your hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "No I didn’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "Yes, you did. You're bleeding! Lea walks towards the door to the backyard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "Ahmad! He cut his finger! 24. INT. MARIE’S HOUSE - BATHROOM AND HALLWAY - NIGHT In the bathroom, Ahmad picks Fouad up, holds his finger u and washes it. Lea now comes into the bathroom with the f Lea opens the kit. Ahmad pours some disinfectant over Fou Fouad, who is clearly in pain, tries to be brave. They he door opening. Intrigued, Ahmad leans toward the bathroom who has entered the house. For a brief moment he sees LUC sixteen-year-old daughter, as she quickly climbs the stai bedroom. He is relieved. 25. INT. MARIE’S HOUSE - HALLWAY AND THE STAIRS - NIGHT Ahmad goes upstairs. He knocks on the door and hides wait surprise Lucie. He knocks again. Lucie opens the door and Ahmad covers her eyes from behind. Lucie is startled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Ahmad! Ahmad removes his hands and they hug each other. From dow is standing in front of the bathroom and watching them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "How did you know it was me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I knew you were coming today. Ahmad is surprised at Lucie’s response. 26. INT. MARIE’S HOUSE - KITCHEN - NIGHT Ahmad, Lucie, Lea and Fouad are sitting around the kitche having dinner. A complete Iranian feast, which Ahmad has Fouad has cleaned his plate and turns to Ahmad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I have some more? Ahmad takes Fouad’s plate and serves him seconds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Did you like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Very much! Ahmad also serves a second helping for Lea. He wants to r plate but she doesn’t let him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "No, it’s enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Come one, have some. You won’t get real Ghormesabzi again soon. Unless you two marry two nice Iranian guys... and you, Fouad, an Iranian girl! Lea laughs. So does Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "How long will you stay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It depends on how long our talk will last after dinner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "(abruptly) What are Iranian girls like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Iranian girls.. They look like me.. but they're girls! (jokingly) How does that sound?... Like this... Ahmad jokingly takes on the mannerisms of a woman. Fouad",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "What are we to talk about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Have your dinner and I’ll tell you. \f27. EXT. MARIE’S HOUSE - BACKYARD - NIGHT Lucie is seated on the steps of the house leading down to Ahmad pours some water on the ashes of the barbecue and p corner. He picks up the cornhusks strewn on the ground an away. While doing all this, he is speaking to Lucie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You always come home so late?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Just to sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I have nowhere else to spend the night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why don’t you want to sleep here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Same as you. You’d rather go to your friend’s tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "This isn’t my home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "But your friend’s place is? Ahmad approaches Lucie and sits down next to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m not comfortable here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Neither am I.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It’s not the same. For me, it’s hard to face the guy who’s about to marry my ex.. it’s only normal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Now, she’sjust your ex?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Well, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Whatever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "\fYou lived here with her for years and now she’s just your ex?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Everything’s changed since then. We got separated... You’re old enough to understand that. Lucie gets up to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I’m old enough not to be preached at.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m not here to preach. Your mom asked me to talk to you and see what’s got into you. I don’t know why she thinks you'd tell me more than you tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "She knows perfectly what’s got into me. I don’t want to see that jerk whenever I come home. A long silence between them ensues. Lucie goes into the k",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Lucie, wait! 28. INT. MARIE’S HOUSE - KITCHEN - NIGHT Lucie wants to leave the kitchen. Ahmad comes into the ki backdoor. He wants her to stay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Come and sit here. Lucie sits unwillingly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Isn’t he a good guy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I don’t know him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why do you call him a jerk, then? What has he done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "He hasn’t done anything. He has nothing to do here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Anyway, you have to accept the fact that it’s your mom’s right to live with whoever she wants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "\fWhoever she wants? Even a guy with a kid and a wife in a coma?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(curious) Fouad’s mom? Lucie nods. A moment of silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "And if she married someone else, would you mind?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "It’d be the same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "So your problem isn’t him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Then, what is it? Lucie falls silent for a moment. Fighting back tears, she Ahmad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I’m sixteen years old and since I was born, my mom’s changed guys three times. And it’s always the same story. They come, stay for a few years, and then they leave. Ahmad understands what Lucie means and has nothing to say He too is upset. He gets up with the excuse of clearing t has his back to Lucie. Perhaps to stop Lucie from seeing And again there is silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Would you talk to her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Talk her out of this marriage. Ahmad laughs at what Lucie has said; a bitter laugh. The front door opening is heard. 29. INT. MARIE’S HOUSE - GROUND FLOOR - NIGHT Marie enters the house. From between the door to the chil she sees Fouad and Lea who are not yet sleeping and talki other. She is pressed to know if Lucie has come home. She purse and coat on her bed and enters the kitchen. \f30. INT. MARIE’S HOUSE - KITCHEN - NIGHT Marie is elated to see Lucie. Lucie immediately gets up t kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Good evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Good evening. Lucie mumbles to her mother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "(imitating Ahmad and in Persian) Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Lucie, can you sleep downstairs tonight? Fouad will go up with Ahmad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I kept you some food. Haven’t you had dinner?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No. Lucie leaves. Marie sees the food that Ahmad has kept for wasn’t expecting Persian food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Oh la la ! Thank you.. Where did you get the herbs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "We went shopping with the kids. Marie sits at the table and starts to eat. Ahmad gets bus dishes in the dishwasher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Do you want me to heat it up if it’s cold?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No.. You're still a great cook!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "The one thing I’m stil great at. What time must we be there tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(Giving her a spoon) You don’t eat Ghormesabzi with a fork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Did you talk to her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You can guess. She doesn’t like you remarrying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She’s worried that you’1l live with him for a while and that he’1l take off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Tell her to be sure that this one won't leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I don’t think I’m the right person to convince her to be happy you’re getting married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(a bit angry) I ‘m not asking her to be happy. I just want to know what she’s after.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Stopping this marriage. Marie laughs nervously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It made me laugh too. Marie now stops laughing while chewing the food she has i Ahmad wants to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Try to convinve her before you make your decision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "My decision’s made. Ahmad leaves the kitchen. While eating her food, Marie is thought. \f31. INT. MARIE’S HOUSE - UPSTAIRS BEDROOM - NIGHT The lights are out. Street light shines in through the wi lying down on the lower bunk and Fouad is on the top. Bot trouble falling asleep. Fouad is looking at Ahmad from in spaces in the slats of his bed; Ahmad’s hand, Ahmad’s mou trying to find out if Ahmad is asleep, but he can’t see h shifts restlessly. The bed squeaks. Ahmad hears him movin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Fouad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "If you're not comfy, we can switch beds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I'm ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Then, why aren’t you asleep? Fouad does not answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Close your eyes and go to sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I have to pee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Go, then. Go... Fouad doesn’t move, Ahmad realizes that he is afraid of g himself. He gets up to accompany him. 32. INT. MARIE’S HOUSE - GROUND FLOOR - NIGHT Ahmad and Fouad walk downstairs towards the restroom. Ahm the light. Fouad goes inside and closes the door. Ahmad w dark hallway for him to come out. Marie’s bedroom is next restroom. Ahmad notices the light pouring out from under bedroom door. He hears a noise from inside the room. He s the muffled sounds of a conversation between two people. ease. He doesn’t want to stay there. He walks back upstai 33. INT. MARIE’S HOUSE - UPSTAIRS ROOM - NIGHT Ahmad is distraught and cannot sleep. He is concerned tha not returned. 34. INT. MARIE’S HOUSE - BEDROOM - NIGHT Samir is lying on the bed. Marie cradeling his head and p drops into his eyes. As she is doing this, they are quiet each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) Did you talk to her doctor too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "No, just the nurse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What did she say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "The scratches on her stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "They happened after my last two visits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Maybe it has nothing to do with your visits. Maybe it was involuntary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You’d like it to be involuntary? Marie is shocked by what Samir has said. She closes the e and sits on the edge of the bed. Samir closes his eyes to sting. From Marie’s silence, he realizes that he has upse",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Do you hear yourself? You can’t say whatever you want and then just apologize. Marie wants to continue the discussion but is interrupted of someone knocking on the door. Marie gets up and opens Fouad is behind the door. It is clear that he is scared o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "It’s dark. I can’t go up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why do you want to go up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I asked him to go upstairs with Ahmad. The girls are together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "\fMaybe he is not comfortable sleeping with a stranger. Samir gets up from the bed and comes towards Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Get your things. We’re leaving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I’m spleepy. I want to go to bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You asked me to come get you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I want to stay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You can sleep in my bed. Fouad lies down on Marie’s bed. Marie tucks him in. 35. INT. MARIE’S HOUSE - KITCHEN AND HALLWAY - MORNING The next morning, Lucie, Lea and Fouad are sitting around table finishing off their breakfast. The sink is full of clearly clogged. Ahmad is sitting on the floor and is bus drainpipe under the sink. Marie who has taken a shower, e kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Ahmad leave it.. we’re running late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "The sink is clogged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It can wait. We have to be there by 9. Hurry up, kids. Marie leaves the kitchen. Ahmad opens the drainpipe. All the sink pours into the bucket which Ahmad has placed und sink. Ahmad clears the clogged pipe and dirties his hands process. Samir, who has just woken up, enters the kitchen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Hi. Lea and Fouad answer him. Lucie ignores his presence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(to Ahmad) ‘Morning... Samir. Ahmad whose hands are dirty, gets up to greet him respect not offer his hand to shake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "My hands are dirty, sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s blocked again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It’s unblocked. I’1l just screw it back on. Samir joins the children seated at the kitchen table. As sits, Lucie grabs her last bite and without saying anythi kitchen and walks in the hallway. She comes face-to-face is getting dressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Get ready, Lucie, we'll drop you off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "No need, I'll go by myself. Lucie goes to her room. Marie comes to the kitchen. Ahmad reattaching the drainpipe. Samir is eating his breakfast. sitting down at the table, Marie grabs a bite to eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Ahmad, we're late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It’s finished. Ahmad turns on the water to verify the pipe he has reatta leak. Marie notices Samir who is pretending to be busy wi breakfast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to the kids) Get moving, kids. Lea and Fouad finish their breakfasts and leave the kitch for school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It’s leaking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "There’s always been a leak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I told you the joint has to be changed. I’1l take care of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to Ahmad) Did you eat anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(thinks Marie is talking to him) Not yet. Ahmad turns off the tap. He takes the bucket from under leaves the kitchen. Marie and Samir are sitting at the ta kitchen concentrating on their breakfasts. They are both 36. INT. MARIE’S HOUSE - TOILET AND BATHROOM - MORNING Ahmad is ironing his shirt when Lucie gently opens the do in to wash her hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Can I see you after?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Don’t you have class?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I can skip. Marie cracks the bathroom door open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Ahmad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Coming... (to Lucie) What time do you get out of school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "One. 37. INT. MARIE’S HOUSE - THE ROOM FACING THE YARD - EXT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORNING",
+          "text": "Samir is wearing some work clothes and is standing on a s painting a wall. As he paints, he looks out the window an give the car keys to Ahmad. Samir has a strange feeling, them together bothers him. Lucie comes into the room to g She has her backpack on her shoulder and is ready to go t wasn’t expecting to see Samir. Samir climbs down the ladd and pulls the plastic cover away from her things. Without attention to him, Lucie searches the computer desk for so does not find it. This is a good excuse for Samir to star conversation with her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Looking for something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "No. Lucie goes out. Samir is left alone. 38. INT. SAMIR’S CAR - EXT. STREET OUTSIDE LEA’S SCHOOL - Lea and Fouad are seated next to each other on the backse behind the wheel and Marie is sitting in the passenger's",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\fGo right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Isn’t that the school Lucie went to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Yes. The car turns then stops in front of a school’s main entr out and Fouad follows her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "(while getting out) Bye, Mommy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Bye, sweetheart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "(mimicking Lea) Bye, Mommy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Bye! Wait, let me see.. Marie cleans the corner of Fouad’s eye with her finger. L go towards the school. The car drives off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where did you two meet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "At the pharmacy, he’d come in for his wife’s medication.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What was wrong with his wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She was depressed. Ahmad smirks. Marie notices his reaction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(mimics Ahmad’s smirk) What's that supposed to mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "We call it a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "We call it mocking. What's funny about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss our fights, darling?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Is her depression funny to you? Ahmad puts on the turning indicator and slowly pulls over",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(jokingly) Look, if you start bugging me, I’11 get out right now and go back to Tehran. I won’t come to court and I won't divorce you and then let’s see what you do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s just your hair that’s gone grey. Nothing else has changed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What should I do? Should I get out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Stop joking, we’re late. Ahmad laughs and starts driving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie and Ahmad are sitting on a bench in a courthouse in of Paris..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Seriously, what did you think of him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "First tell me how serious all this is, then I’11 tell you what I think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Serious enough for me to be pregnant. Ahmad, who is clearly shocked at hearing this news, tries sadness and they both fall silent. The lawyer comes out o calls Marie, who gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Is that a joke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No. Marie enters the office accompanied by the lawyer. Ahmad Marie, he is deep in thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie and Ahmad are sitting in front of the judge’s desk lawyer is seated between them. The judge reads their divo and asks for their consent, with that the administrative divorce is completed. During this procedure, Marie’s phon quietly speaks a few sentences without being heard. The j Marie with an expression that means she cannot speak on t no other choice, Marie hangs up the phone. 41. EXT. MARIE’S HOUSE - YARD - DAY Samir, who is still in his work clothes, is in the yard a on the phone. His hands are covered in paint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(on the phone) Hello, Marie.. He hangs up, redials, then leaves a message. The airline representative, who has delivered Ahmad’s suitcase, is ho documents and waiting at the door. Ahmad’s damaged suitca ground, its locks have been broken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(on the phone) Marie... they’ve brought the suitcase. It’s broken. I don’t know if something’s missing, if I should accept it or not... Call me back. Samir hangs up and goes towards the front door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "Okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What if something’s missing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "Doesn’t he have insurance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "What do we do, then? Will you take it or should I bring it back to the airport and he can come and follow up on it? Samir goes towards the suitcase to pick it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "Can you sign here? The airline representative notices Samir’s eyes, which ar Samir signs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "\fAre you okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(surprised) Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "Your eyes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Oh! I’m allergic to the paint.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRLINE REPRESENTATIVE",
+          "text": "(while leaving) Change jobs! The airline representative goes towards his car to get in have put Samir deep in thought. 42. EXT. STREET OUTSIDE LUCIE’S SCHOOL - DAY Ahmad is standing on the sidewalk among the students fili school, waiting for Lucie to come out. Lucie exits the th too is looking for Ahmad. Ahmad walks towards her. 43. INT. SHAHRYAR’S RESTAURANT - DAY A typical neighborhood restaurant with an open kitchen lo back where the chefs are busy cooking. The ambience of th is Italian. SHAHRYAR, the middle-aged and friendly owner, customer’s order. The restaurant is bustling, most of the full of diners. Ahmad and Lucie enter the restaurant. The Shahryar who has not yet noticed them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Excuse me, where’s the bus stop to Tajrish? Shahryar looks up. He is shocked to see Ahmad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) What the hell are you doing here?! Shahryar gets up from behind the till and comes towards A both hug each other warmly and start joking and laughing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian and pointing to Lucie) Do you recognize her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) She’s grown up. (to Lucie) Do you remember when you were little, he’d put you on his bike and bring you here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(in Persian) That was Lea.. this is Lucie! You’ve always mixed them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) How tall she’s become. (to Lucie) How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I'm good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) You haven't had lunch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Why else would we bother to come here?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) Sit, I'll be right with you. Ahmad and Lucie move towards a table to sit down, Shahrya towards the kitchen. Valeria, Shahryar’s Italian wife, is kitchen...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Italian) Valeria, your friend’s here. Valeria sees Ahmad. Ahmad walks towards her. She is happy",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALERIA",
+          "text": "(in Persian) Ahmad... Hello. How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Hello, dear Valeria.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "You remember Lucie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALERIA",
+          "text": "Hello.. what a beautiful lady you've become!... Valeria warmly embraces Lucie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fYou two are still together?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) There is this tiny thing in common between us to keep us from separating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) The colors of our flags.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(to Valeria) What is he saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALERIA",
+          "text": "He talks too much.. let him. How’s your mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "She’s good. Valeria goes to the kitchen. Ahmad and Lucie sit at the t picks up the menu to look it over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Did you go to court?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "SO, it’s over now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It was already over. You still like ravioli? Ahmad sets the menu down. He notices Lucie’s sad eyes, st the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What is it? Lucie does not respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You know, this guy... I don’t think he’s that bad... Lucie again does not respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "He must be going through a difficult time. Put yourself in his shoes. \fBetween his wife and his concern for his son...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "How does she want to marry a married man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "But you said his wife’s in a coma.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "But she’s not dead; she might not die...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "That’s his problem. That’s no one else’s business...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Do you know why his wife’s in a coma?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No, how would I know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "My mom didn’t tell you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "She committed suicide. Ahmad is shocked by what Lucie is telling him. He remains saddened by what he has learned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Because of her depression? Lucie, who has until now fought back her tears, suddenly and start to cry. She tries to prevent the other diners f her but many of them turn to see why she is crying. Ahmad her to calm down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(quietly) Lucie. look at me... Worried, Shahryar comes to their table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "What’s the matter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Lucie.. get up, we’ll get some fresh air. Ahmad takes Lucie’s hand and gets her up from the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "\fTake her to the back. Ahmad leads Lucie to the small back room of the restauran can compose herself. Concerned by Lucie’s outburst, Valer questioningly at Shahryar. Shahryar shrugs. 44, INT. SHAHRYAR’S RESTAURANT - BACK ROOM - DAY A small room with a bed and Shahryar’s personal things. I boxes of soft drink, mineral water and food supplies. Ahm down on the bed and unties her scarf and puts it aside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Do you know why she doesn’t tell anyone that this guy’s wife has committed suicide?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Calm down.. calm down for now, we’1l talk later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Because she doesn’t want anyone to find out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "That it’s because of their affair that she tried to kill herself. Although he’s shocked, but Ahmad pretends to not take Luc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You shouldn’t speak of these things with such certainty.. especially at your age.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Then, don’t say I’ve grown up if you don't think so. Lucie gets up to leave. Ahmad holds her and stops her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Sorry. Lucie sits down. More silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I don’t want them to be together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You think it’s up to you and me? I’m nobody in this story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "\fIf they get married then 1/11 never.. I'll never set foot in that house again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Your mother is pregnant. Lucie looks at him in disbelief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You're lying. Lucie, emotionally drained, stands up and leaves the room follows her. 45. EXT. STREET OUTSIDE SHAHRYAR’S RESTAURANT - DAY - CON Lucie exits the restaurant and starts walking down the si walks next to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Wait...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You know why she went with that asshole?... Cause he looks like you! He reminds her of you! Ahmad has no answer to give Lucie. Lucie leaves. Ahmad st a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An old shop in Paris. A large number of old and new chand other lamps are hanging from the ceiling of the shop. All store are table lamps in various sizes and shapes. Samir looking at the chandeliers hanging from the ceiling to pi out. 47. INT. SAMIR’S CAR - EXT. STREET - DAY Several chandeliers and lamps are placed on the backseat. sitting behind the wheel and Marie in the front seat. The through the busy streets of Paris. Samir is deep in thoug senses it and quietly waits for him to speak. Without loo Marie gently reaches over to hold his hand and closes her moment later, Samir has to remove his hand in order to sh Marie opens her eyes. They drive on in silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ahmad comes up the stairs in a metro station. It is raini the gift he has bought out of its plastic bag and pulls t his head to prevent his head from getting wet. He crosses street, reaches the sidewalk and hugs the wall as he walk dry as possible. \f49, INT. MARIE’S HOUSE - HALLWAY - NIGHT Marie walks towards the front door. She opens the door. A soaked from the rain, comes inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Good evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You're soaked!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It started pouring...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Want a coffee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No, I’ve just come to get my suitcase. I can’t miss the last train.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s right here. At least, wait till the rain stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It’s not stopping soon. Ahmad’s words have worried Marie even more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Is Lucie back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No. Worried, Ahmad leans against the hallway wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Watch the paint. Ahmad looks at his coat which is not stained with paint. suitcase in the hallway. He walks towards it and sees the broken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It was broken when they delivered it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Did you call her friends?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I’ve called them so often looking for her that I’m embarrassed to do it again. Ahmad finds his towel among the things in his suitcase an face. He tries to close the suitcase but it will not clos",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you talk to her today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Yes. Can I have a piece of string or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You have a couple of suitcases left in the shed. You can take one of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Are the kids sleeping?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Marie goes inside. 50. INT. MARIE’S YARD - SHED - NIGHT Ahmad is in the shed looking for his suitcases, which he from a few years ago. From among the clutter piled up in pulls out two dusty suitcases. He unzips the larger suitc clothing, a few black and white pictures of Ahmad from wh Paris and other personal items are in the suitcase. Seein belongings changes his mood. 51. INT. MARIE’S HOUSE - KITCHEN - NIGHT Marie is standing by the window facing the backyard. The the rain can be seen. Samir is standing on the kitchen ta installing a chandelier. Ahmad comes in the back kitchen empty suitcase and heads towards the hallway. Marie and S look at the suitcase he’s holding. Ahmad leaves the kitch dominating silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Turn it on, please. Marie walks towards the switch and turns on the light. Th is lit up. Samir comes down from the table. He notices ho Marie is. Ahmad enters the kitchen with the plastic bag h gifts he has brought from Tehran and the gift he has boug He places the gifts on the kitchen table and sits down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Will you tell the kids to come here before they go to sleep, so that I can give them their gifts? Marie is about to leave the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Should Fouad come too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But, he wasn’t supposed to get one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I got him something today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Can I ask you not give it to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(bewildered) Why? Marie is also astonished and is looking at Samir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "He’s done something wrong. He needs to be punished...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "They should both be punished, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I can only speak for my son. Samir’s words have upset Marie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What’ve they done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "They took the gift out of your suitcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(laughing) But the gift was still in there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I put it back. But we can’t let them off the hook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "The suitcase was open, they got tempted...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(impatiently wanting to leave) I'll ask them to apologize.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "This way they’1l learn that there will always be a way to get away with any situation by apologizing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fBut I’ve already told them I’ve brought gifts.. I can’t pretend now I didn’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to Samir, frustrated) Can you please let go? I’ve already scolded them enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(a bit upset) I was just asking if it was possible. Ahmad is in a dilemma. He doesn’t know how to respond, bu to get the kids. Ahmad and Samir are standing opposite ea the kitchen. There is silence and the tension between the They avoid making eye contact with one another. Samir can situation any longer and gets up from the table with the closing the window that Marie had left open when she was cigarette. He sees the light in the shed, which Ahmad has passes through the backyard in the rain and turns off the shed and comes back to the kitchen. Marie enters the kitc and Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "Good evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Good evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(friendly) Good evening, kids. Ahmad takes the plastic bag to take out the gifts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No, first you both have to apologize.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "I apologize. Everyone is waiting for Fouad to apologize but he is quie",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "And you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I didn’t take it from the suitcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "But you were with her when she did it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "But I didn’t take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "\fIt doesn’t matter who took it. You were together, you could’ve stopped her. Fouad is silent and does not respond. Angry, Samir stands towards him and stares into his eyes. Ahmad is uncomforta",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "“I apologize”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "(reluctantly) I apologize.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(commandingly) “I apologize”!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "(with no other choice) I apologize. Samir goes back to his seat and sits down. Ahmad gives Le the two boxes. For Lea a remote controlled helicopter and giftwrapped box. The children thank him but they are not with the scolding they have received. 52. INT. MARIE’S HOUSE - CHILDREN’S ROOM - NIGHT Lea and Fouad are in their beds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "You pretended like it was me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I just said I didn’t take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "That means it was me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "It was you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "But you told me his suitcase was open. Otherwise, I wouldn’t have gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "You didn’t have to listen. You didn’t have to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "I know why you're mad. You didn’t get a helicopter. You got colored pencils.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Shut up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Shut up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "You’re insane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Shut up! Lea is upset at him. She gets up, takes her blanket and l to sleep in another room. 53. INT. MARIE’S HOUSE - KITCHEN - NIGHT Marie holds the dress which Ahmad brought for her up to h shows it to Ahmad and Samir. Both men are looking at Mari",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I got the size you used to wear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It still wear the same size.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I have a gift for Lucie too. I’ll give it to her later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She’s never been so late. Samir gets up from the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I'll go look for her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I don’t know.. nearby... in the streets, at the station.. where are the keys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You had them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Can I come with you, if you don’t mind?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(with no other choice) Sure. If you want. \fSamir leaves the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She might not want to come back with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Why did she cry at the restaurant today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Who told you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I called Shahryar and he said she suddenly burst ito tears. She’s never been this late. What have you told her that has made her stay out until now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(calmly) You hadn't told her you were pregnant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(worried) You did?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I thought she’d let it go if she knew",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "That’s why she’s not back. You weren’t supposed to tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I didn’t know. What kind of secret is that, anyway? She’d have found out someday!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Not when she’s so upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Her problem is not your being pregnant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What is her problem? Ahmad seems reluctant to answer. Marie stands in front of for a reply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(a bit upset) What’s her problem?... huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\f(with no other choice) She seems to know everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Everything about what? Samir comes to the kitchen door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I can’t find the keys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(angry) Well, look for them! Samir is surprised to see Marie so up. Ahmad is visibly u",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "We’1l talk later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What do you mean by “knowing everything”? I don’t understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She says that his wife committed suicide because of your affair. Marie gets even angrier upon hearing this. Ahmad, who fee said what he needed to say, tries again to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She committed suicide because...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’11 call you tomorrow and we can speak then. Samir enters the kitchen to take his coat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(angrier) The keys are not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I got them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "So why you are here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What do you mean? Does somebody mind my being here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No, but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Forget it. Samir leaves the house and Ahmad tries to go outside wit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(to Samir) Wait, I’m coming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Ahmad.. his wife had been depressed for some time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Every time I’d take my clothes there, I’d see her.. You could tell that she was unwell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why was she unwell?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What do you mean why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Nothing, forget it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Look, either don’t say something or if you do, say it clearly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You said every time you saw her, she felt unwell...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I didn’t say she felt unwell, I said she was unwell!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Forget it. This is just getting worse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(quietly) You'd really like to hear that it was my fault if that woman committed suicide?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(quietly) I don’t want to hear anything. You asked me to go and talk to your daughter. I’m just telling what she thinks. That’s all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She’s wrong. She must come and have a conversation with me and I'll tell her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fDo you want to tell her what you told me? Do you think she’s going to buy that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Don’t you believe me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Does that matter? She’s the one who...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What’s so unbelievable about it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I also find it hard to believe that the mother of a five-year-old would commit suicide because of depression.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Look who’s talking! Have you forgotten the state you were in? This woman committed suicide another time when her baby was nine-month-old! Was it also my fault? I was with you, back then! Ahmad falls silent upon hearing this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Her depression started right after the birth. Do you want to know what meds Samir would come and get for her? 54. INT. AND EXT. SAMIR’S CAR - NIGHT Ahmad and Samir are in the car, driving up and down the s their neighborhood searching for Lucie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "How long are you staying in town?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I haven't booked my return yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Couldn’t you have sent a lawyer to take care of the divorce instead of coming all this way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Sure, but I wanted to come. I wanted to see the kids, and Marie-Anne too... to end on good terms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "But it doesn’t seem to be the end. There’s still something going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No.. What makes you think that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When two people meet four years later and start fighting again, it means things are still unresolved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "We were arguing about Lucie. They are both quiet now, searching the streets in silence",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Lucie’s problem is me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No.. it’s a misunderstanding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "About what? Ahmad does not wish to answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Anything personal that I shouldn’t know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "No...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I that case, I want you to tell me... You may know Marie is carrying my child. It’s not good for her to be stressed out all the time, smoking so many cigarettes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m worried about her too. She didn’t use to smoke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I won't let this girl destroy her mother. If she has a problem, sh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She has no problem. I told you, it’s a misunderstanding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What is this fucking misunderstanding that has been screwing our lives for months?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Marie-Anne can tell you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Leave her out of this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fShe is making assumptions about your wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She thinks she committed suicide because of our relationship?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "So you know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I overheard your conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She did that because of a stupid story with a customer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I heard she was depressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Otherwise, she wouldn’t have tried to kill herself for nothing. What can I do if Lucie doesn’t believe me? I can send her my employee. She saw the whole thing. 55. INT. MARIE’S HOUSE - GROUND FLOOR - NIGHT Samir and Ahmad enter the house through the front door. M door open. Curious and restless, she comes out of the bed Samir and Ahmad’s expression, she realizes that their sea fruitless. Samir places the umbrella in a corner and walk",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "We should call the police. They may find her. Concerned, Ahmad stands in the doorway. Marie approaches",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Has she already stayed out all night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No, it’s the first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Maybe she went to her father’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "To Brussels?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "He’s not in Paris anymore?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\fNo, he’s back in Brussels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You think she can be there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(doubtful) She’s on bad terms with him too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Do you want me to call?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to Ahamd) It’s better if you do it. Samir brushes past Marie and goes to the bedroom. Ahmad i uncomfortable with the request Marie has made.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I doubt she’d have gone to Brussels. Marie notices that Ahmad would perfer not to call Lucie’s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(upset) Fine, Ill do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Ok, give me his number. Marie goes to get the number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Shahryar called twice. He wants you to call him back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where’s the phone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "In the kitchen. Ahmad goes to the kitchen. 56. INT. MARIE’S HOUSE - BEDROOM - NIGHT Lea is lying down under the blanket on her mother’s bed. feeling down and is seated on the edge of the bed. Marie worried. She is looking for her address book. Everyone is sees that Samir is deep in thought, he running his finger hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Where did she get this idea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What idea?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About Celine’s suicide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t know... Marie finds her address book and starts to leave the bedr exiting, she realizes that her reaction has upset Samir. towards Samir and sits next to him affectionately. Lea, w fallen asleep, turns around and sees their backs facing h takes the eye-drops and drops some medication into his ey 57. INT. MARIE’S HOUSE - KITCHEN AND HALLWAY - NIGHT Ahmad is holding the phone and speaking to Shahryar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Okay, thanks.... Okay, I will... Bye. Marie is standing there holding the phonebook and is wait to get off the phone to give him the number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Her father’s number. But try not to worry him. He’s fragile...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She’s at Shahryar’s. Marie is shocked and quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She went to the restaurant and he took her in. Marie, who until now had tried to control herself, sudden angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "But he called twice! Why didn’t he tell me? He heard how worried I was! Why didn’t he tell me? I’ve been worried sick all night!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’ll explain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(shouting) Explain what? What do you want to explain? Samir, curious about the commotion, comes into the kitche",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What’s the matter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(firmly) I’ve already asked you to go through me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(even more firmly) And I ask you not to raise your voice in front of me.. okay? Suddenly, everyone is quiet. Samir tries to control himse",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Why didn’t he tell me she was there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(to Marie) Lucie made him promise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "He promised to hide a sixteen-year-old girl in his house and not tell anyone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What do you mean hide?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(nervous) Why has he taken her to his house?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "He felt sorry for her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Didn’t he feel sorry for her mother?! Ahmad holds his tongue not to start a fight. Marie sudden leave the kitchen. She takes a few steps and as if forget something, she comes back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(to Samir) The keys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She has to come back home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marie...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She has to come here, sit her ass down and listen!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Right now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She thinks we don’t know she’s there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t care! I want her to come and see the mess she’s put me in! I want her to know that I didn’t cause this woman’s suicide! Fouad, standing in the doorway, has heard everything. 58. INT. MARIE’S HOUSE - BEDROOM - NIGHT Marie rushes to put on her raincoat. Samir is standing ne and Lea is on the bed. Although her eyes are closed, it i she is not sleeping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "If you go to get her now, she won't come home with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(angry) Then, I’1l call the police to bring her back. I swear I will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "The police will bring her back one night. What about tomorrow night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Either she comes back here or she goes and lives with her father in Brussels. Marie comes towards the door to leave. Samir blocks her p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She won’t come back as long as I’m here. They stare at each other in silence. 59. INT. SHAHRYAR’S HOUSE - NIGHT The house is mostly dark, only one light is on in the kit Shahryar’s house is not very large. It has been decorated Iranian home. The television is on and Shahryar is sitti opposite it. He is watching a football game. Two commenta debating a referee call. They each present their own poin The penalty sequence is repeated several times in slow mo graphics. The referee’s call cannot be confirmed. The doo interrupts the sound of the show. Shahryar gets up and wa the door. He opens the door for Ahmad. Ahmad walks in wit suitcase. Both men speak quietly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) Hello.. come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) Is she up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) She has fallen asleep.. come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "Hardly here and already in trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "When did she come to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "It was late. I thought she had come looking for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You should have called right then. Her mother was so worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "How can I call you? You don’t have a phone! I called the house looking for you but you weren’t there. I was afraid if I told her mother, that she would find out and leave in the middle of the night... What’s wrong with her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She’s imagining things. 60. INT. SHAHRIAR’S HOUSE - BEDROOM - NIGHT Without making any noise, Ahmad turns on the dim bedside near Lucie’s bed. He wants to gently wake Lucie up. He is but without a choice, puts his hand on her shoulder and g her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Lucie... Lucie opens her eyes and is surprised to see Ahmad next",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Sorry to wake you.. your mom is waiting for you. Lucie who it seems has just realized where she is, is sta without saying anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She wanted to come and get you. I asked her to not come, I promised I would take you back. Come on, get up. Lucie sits up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where’s your jacket? Lucie has only now realized what is happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I won’t go. I don’t wanna go back tonight. Lucie’s pleas leave Ahmad less certain. He doesn’t know w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Then I’1l call her and you can tell her that you’ll go back tomorrow morning, okay? Lucie doesn’t respond. Ahmad leaves the room to get the p sitting on the edge of the bed by herself. Ahmad comes ba phone and dials a number and waits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(on the phone) Marie-Anne? Hold on, please. He gives the phone to Lucie and signals to her to speak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "(on the phone) Yes?... I’m staying here tonight. She listens for a long time to the other end. From Lucie’ clear that her mother is speaking relentlessly and perhap her. Lucie still does not speak. Ahmad is worried and is her. Marie has said what she wanted to say and hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Why did you hang up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "She did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Let’s go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Get out of bed. Let’s go talk. 61. INT. SHAHRYAR’S HOUSE - KITCHEN - NIGHT Ahmad closes the kitchen door behind him. Lucie goes to t washes her face. Ahmad sits at the table and waits for he at the table opposite him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I want you to listen carefully. I don’t know how much you remember of the last few months I was living with your mother. Do you remember anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Uhum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Do you remember the state I was in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I was always feeling down. I wasn’t working, I stopped going out, I just didn’t want to exist anymore. So, when your mom says that woman committed suicide because she was depressed, I can understand what it means. Even with a young child...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Did you often think of killing yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Yes, sometimes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You never thought of drinking detergent in front of Lea and me to die?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(shocked) What? No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You think that a woman who goes to her husband’s shop and downs a bottle of detergent in front of her son and collapses only means to die? Ahmad is silent. Lucie is trying not to burst into tears earlier that day before finishing what she had to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why didn’t she take pills and die in her bed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Look, we can spend the night imagining things. But it’s all speculation. We'll see Samir’s employee tomorrow. She has things to tell you. Lucie is struggling to maintain her composure. Ahmad is d thought. There’s a brief silence between them. 62. INT. MARIE’S HOUSE - GROUND FLOOR - MORNING Fouad is dressed, he takes his toothbrush from among the toothbrushes and comes out of the bathroom. 63. INT. MARIE’S HOUSE - KITCHEN - MORNING Marie and Samir are in each other’s arms, lovingly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Tell her I’ve left and she can come back. It’s better if Fouad and I don’t stay here for a while. Marie pulls herself away from Samir’s embrace. Samir leav kitchen. Marie remains alone in the kitchen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Samir and his son are sitting next to each other towards metro car. The metro approaches a station. Samir takes Fo goes towards the exit door. Fouad is sitting stubbornly i The door opens and Samir gets off assuming that Fouad is Suddenly he realizes that Fouad has not gotten off. Scare returns to the car and runs towards Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Come on, let’s go! Fouad is being stubborn. Samir takes his hand. Fouad resi manages to take him out of the car by force and drags him wall for a serious talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What is that about? Why don’t you get off? Look at me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I want to go back to Marie’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "We have to go home for now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "You told me our home was there, forever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, but some things have changed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "It’s because of the man who came? Samir does not respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Because I misbehaved yesterday?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Why doesn’t Lucie like you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Because she thinks I want to take her mommy away from her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "But she doesn’t like her mommy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Of course she does. All children love their mommies. Just like you miss your mommy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "But Mommy’s not home anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Would you like to go see her? Do you want to go to see her tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "She scares me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Your mommy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "She’s dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Don’t say such things, Fouad. If she was dead, they wouldn’t have kept her in the hospital, with the machines.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "\fIf they take them away, she’1ll die? Why don’t they take them away?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Because we don’t know if she wants to stay alive like this or if she wants to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "She wants to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(shocked) Why do you say that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "She killed herself. It means that she wanted to die. Fouad’s words have upset Samir. He hug Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Sorry, Daddy. 65. INT. SHAHRIAR’S RESTAURANT - DAY Naima is seated at one of the tables in the restaurant. H reveals her state of anxiety. Ahmad and Lucie are seated and they watch her curiously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Did his wife work there too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Yes, for a few days. Samir had brought her to clear her head. Naima takes the garment out from its cover and places it Ahmad and Lucie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "And that day, she had a fight with a customer over this stain. The customer said that the dress had been stained at the cleaner’s. Samir’s wife said no, it had it before it was brought in to the cleaner’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "That’s all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "To make things better, I told her to leave the dress and come and get it the next day. The customer said that the next day would be too late, because the dress belonged to a guest of the hotel where she worked and the guest was catching a flight that afternoon. She said we had a couple of \fhours to get the stain out.. and I said okay... Suddenly Celine started screaming at me, saying it wasn’t for me to say, that this dress had the stain before we got it and it’s not our problem. The customer started yelling and even cursed. Samir’s wife got upset and threw the dress on the sidewalk. I didn’t know what to do.. They pushed each other around a bit, and the customer decided to call the police.. So I asked her to let me leave so that when the police comes, I wouldn’t be there...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You work illegally?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Yes. But Céline said “you have to stay and tell the police that when you got the dress, it was already stained”. So I called Samir without her seeing me to and asked him to come quickly. When he came and heard the story, he got very angry with his wife and said sorry to the customer and said he’d pay for the dress. He asked her to call the police and tell them that the issue was resolved. The customer said she'd do it only if his wife apologized to her. And then Celine started screaming and yelling at me saying I had no right to call Samir behind her back. I didn’t say anything. I just took my purse to leave, but Samir came and took my hand, like this... He said I had to stay. Instead, he asked his wife to leave. In front of the customer, in front of me, he threw her out.. and I stayed. Now all three are quiet. Upset, Ahmad looks at the stain the dress and Lucie stares at Naima who is upset.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "How many days before her suicide was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "I think four or five days... Can I go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Thank you. Naima gets up. She takes the dress, says goodbye and leav up and accompanies her to the door. Lucie is still seated thought. Ahmad returns to the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That’s what depression’s like. Small things can suddelnly set you off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "(on the verge of tears) The day before her suicide, I forwarded her all the love letters my mom and Samir had emailed each other. Ahmad is astonished. He is looking in disbelief at Lucie revealed her secret and does not even have the energy to silence between them. 66. EXT. SHAHRYAR’S RESTAURANT - SIDEWALK - DAY Lucie exits the restaurant. They stand on the sidewalk to upset and looking at Ahmad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What are you going to do now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I'll go to Brussels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Don’t be silly. You won’t last a minute there. You have to go back to your mom's.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I can’t wake up every morning and face the guy whose wife is dead because of me!I can’t look his son in the eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Come sit down. Ahmad seats Lucie down on the chair in front of the resta opposite her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Do you want me to help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "(worried) You're not going to tell my mom...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Listen... Lucie gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "(frantic) No, I don’t want her to know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Sit down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I shouldn’t have told you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Hold on, listen.. You either keep this to yourself and suffer for the rest of your life, or you talk to your mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "What'd that chage?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It might change her decision to marry him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "He decision’s made, she’s pregnant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What if she finds out about this after her child is born? Then, it’d really be too late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "If I'd felt like telling her, I would’ve done it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "It’s not about you feeling like it or not. You have to ask yourself if it is important for your mother. She has the right to know. 67. INT. MARIE’S HOUSE - KITCHEN - HALLWAY - DAY Marie is busy putting away the groceries. From the hallwa quietly stands in the kitchen doorway. Marie doesn’t noti presence. She turns around, sees him standing behind her. startled, screams, then laughs at her own reaction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You’re here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I was upstairs with Lucie. Ahmad comes into the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "How was your meeting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "What meeting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "With Samir’s employee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Yeah. It was fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "between them. Ahmad helps Marie put away the groceries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Had you told Lucie I was coming to Paris?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "How did she know, then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Did she know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Yes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I don’t know. Maybe she reads your emails. (showing a bottle) Where do you keep this? Marie takes the bottle of dishwashing liquid from Ahmad t cupboard. Ahmad’s words have peaked her curiosity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Did something happen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Shall we go for a walk?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No, I’m tired. What’s the matter, Ahmad? Ahmad goes to the door to close it so that they may speak Ahmad sits down. waiting for him to speak. Marie sits down opposite him. Marie is staring at him, INT. MARIE’S HOUSE - UPSTAIRS ROOM - DAY Lea is sitting next to Lucie on the edge of the bed. A br Lea looks at Lucie’s worried face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "You want to go live with Dad? Lucie thinks for a moment then shrugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "I£ you go, I’1l come with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You have to stay here with Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "I want to be with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "It’s not a good idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "Dad’s wife is a bit weird. There is silence between them. Ahmad calls Lucie from dow Worried, Lucie gets up and leaves the room. Lea is watchi 69. INT. MARIE’S HOUSE - HALLWAY - KITCHEN - BACKYARD - D In the hallway, before Lucie comes into the kitchen, Ahma gestures to Lucie no to be worried and that her mother on speak with her. Lucie goes towards the kitchen. Marie is a zombie in the backyard behind the kitchen and smoking a Lucie slowly walks in and stands in a corner of the kitch looking at her mother. A heavy silence. Marie realizes Lu kitchen. She comes back inside. She is consumed by anger, shaking with rage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Is what Ahmad said true? Lucie nods. Marie suddenly loses control and lunges towar has burst into tears, she takes Lucie by the arms and sha violently while crying and screaming at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(crying) Why did you do that to me? What did I ever do to you? Lucie shows no reaction. She too is crying. She does not against her mother’s beating. It is clear that she is fee Marie. Ahmad who has heard the commotion, rushes into the separate Lucie from her mother’s grip. Marie is too angry go. He manages to free Lucie and pulls Marie to a corner kitchen. Lea has also come down and is witnessing this fi suddenly starts punching her own stomach. Ahmad holds her prevent her from doing this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Stop it, Marie! Calm down!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You little shit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Marie! Easy...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Get your hands off me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You promised not to do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Lucie) Get out of this house! Get out! Again Marie tries to lunge at Lucie. Ahmad struggles to s sends Lucie out of the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(to Lucie) Go. Marie aimlessly walks around the kitchen. Ahmad comes tow try and calm her down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "She’s in enough pain. I asked her to tell you. She could’ve stopped me from talking to you. I could’ve asked her to keep the secret. You’d have preferred not to know anything for the rest of your life? Marie suddenly lashes out at Ahmad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Will you shut up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Remember you’re the one who wrote those emails. She only forwarded them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t want to hear you. I hate it when you lecture me! It disgusts me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(to Lea) Go to your room sweetheart... Ahmad walks towards Lea, sends her out of the kitchen and door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m not lecturing you! You asked me to come here and talk to Lucie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(screaming and crying) Fuck off! I didn’t ask you here for Lucie! I asked you to come here after four years just to sign that fucking piece of paper and then get lost forever!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "\fListen. Why didn’t you ask me to come last year? Why do I have to be here in the middle of this shit...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Screw you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "without even knowing you’ re getting married?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(angry) Read your emails!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "And you didn’t book me a hotel. And you made me sleep next to his son. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I sent you an your email...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You made me come here just to get revenge. That’s all it’s about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(angry and sarcastic) Yes, you're right. Happy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Just before seeing the judge, you tell me you’re pregnant. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Do,’t you want to get out of here? Just leave for good? Please... Lea runs into the kitchen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "She’s leaving! Ahmad is worried. He comes out of the kitchen with Lea. A frustrated, Marie sits at the kitchen table. 70. EXT. MARIE’S HOUSE - STREET - DAY Lucie, her eyes puffy and teary, walks quickly down the s runs after her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Lucie!.. Lucie! Although she can hear him, Lucie does not respond to his reaches her and blocks her path.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Where are you going? Ahmad Ahmad Lucie does not respond and tries to go around him. Ahmad hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(firmly) Come back!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Who are you to boss me around? Ahmad has nothing to say to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Lucie, your mother is not feeling well right now. Plese, don’t make it worse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Why did you tell her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You said I could.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You left me no choice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I wanted to spare you suffering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Am I not suffering now? Am I well? Ahmad does not respond. Lucie pulls her hand from his and is upset. Lucie continues walking, then again she stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Can you lend me some money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Wait, I’11 come with you. Lucie waits at Ahmad’s insistence. Ahmad rushes back to t goes inside. 71. INT. MARIE’S HOUSE - HALLWAY AND KITCHEN - DAY Ahmad is rushing down the stairs and putting on his coat. towards the kitchen. Lea is standing in the kitchen doorw Marie, who has stopped crying, is sitting at the kitchen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Wait.. 1/11 go. Marie comes out of the kitchen and walks towards the fron looking at Ahmad who is standing there not knowing what t comes towards her. Together they walk into the kitchen. A the chair and Lea gently leans against him and stands the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEA",
+          "text": "\fWhat was in those emails?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I don’t know... 72. EXT. MARIE’S HOUSE - STREET - DAY Marie has reached Lucie who is standing on the side of th quickly looks at her in silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Come back home. Lucie looks at her mother in silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Let’s get back in. 73. INT. SHAHRYAR’S HOUSE - WORK ROOM - DAY Ahmad is sitting at a workbench.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) Ahamd, look at me. Don’t get sucked back into this. Cut. Remember Mitra and me? Cut. Life goes on without you and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "(in Persian) I think to myself if I hadn’t left four years ago...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHAHRYAR",
+          "text": "(in Persian) You would’ve left a year later.. if not, two years later. I told you from the beginning, you were not made for this place. You have to choose. It’s either one way or the other. You can’t have it both ways. Ahmad has nothing to say to Shahryar. 74, INT. MARIE’S HOUSE - KITCHEN - NIGHT She Marie is holding her phone, full trepidation, she paces b in the kitchen. She dials a couple of numbers, but she ch and hangs up. Lucie quietly comes into the kitchen from t She is looking at the phone in her mother’s hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Are you going to tell him? Marie just looks at Lucie. She has no answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "You don’t have to. Marie thinks of what Lucie has said. She sits down at th table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Go to bed. And turn off the light, please. Lucie turns off the light and leaves the kitchen. Marie p phone on the table and stays there in the darkness. 75. EXT. SIDEWALK OUTSIDE THE DRYCLEANER’S - DAY Marie is walking down the sidewalk. It’s a long walk to t drycleaner’s. From her eyes, it is clear that she has not night’s sleep. 76. INT. DRYCLEANER’S - DAY - CONTINUED Marie enters the drycleaner’s. Naima is busy getting the out of the large washing machine. Fouad is busy drawing i Naima notices Marie who has now come to this side of the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Hello, Ma’am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Hello. Is Samir here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "He’s upstairs. Marie goes towards the back door. 77. INT. SAMIR’S HOUSE - STAIRWAY - DAY Marie climbs the narrow stairway, which connects the dry Samir’s house on the second floor. She rings the doorbell 78. INT. SAMIR’S HOUSE - DAY A small house located above the dry cleaner’s with window street. It is clear that life has not flowed in this hous time and everything is a mess. From the vanity drawer, Sa the half-full perfume bottles belonging to his wife. Mari a bit further away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What’s all this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Her perfumes. I’m taking them to the hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "\fA silence ensues. is staring at the Samir has noticed For a test. One of her nurses was saying that the memory of smell is the last one you lose. Samir places the perfume bottles on the table. Marie perfumes. She takes one of them and looks at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "That is your cologne...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She liked it. something suspicious in Marie’s expression.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why don’t you sit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I have to go. Marie is not feeling like she usually does. He is waiting speak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t like it when hide your feelings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I’m not hiding anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You mean you are not happy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Is it not good news that there is still hope that she can react to something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What do you want me to say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You're stuck between your wife and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You ralized that overnight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I’ve felt it for a long time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Since when?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You didn’t say things like that until last week. The weight of Samir’s coment sinks in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I always felt it but I wasn’t brave enough to tell you earlier. Maybe I wasn’t sure of what I felt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What do you feel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "That I am only here to fill the void left by your wife. Samir is hurt by Marie. A brief silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Whose void am I supposed to fill in your life?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "(upset) No one’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Are you sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Of what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I’m not here to make up for your failed marriage ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "If that was the case, I wouldn’t be carrying your child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "That was an accident.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I could’ve not kept it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You kept it because you wanted to erase that man, to convince yourself that it was over, that you’d turned \fthe page and you were starting something new with someone else. But the problem is that you're still not convinced. Otherwise, you wouldn’t have brought him home, you’d have let him go to a hotel. Marie is staring at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Ever since he’s come back, you've changed. I don’t even recognize you anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I feel this way because I’ve found out why your wife...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Leave her out oh this, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She knew...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You sound like your crazy daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "If she’d known, she’d have said something to me at some point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "She never asked about me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Ask what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t know. Why I came so often...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "For her, you were just a customer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What about you? Didn’t she suspect you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "No. I wish she had. At least, it’d have meant she cared enough to try and find out if there was someone else. Marie is silent for a moment. Samir places the perfumes i Marie gets up to walk towards the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Lucie sent her our emails. Samir is shocked, staring at Marie. There is a heavy sile them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How'd she get her email?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Your wife gave it to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "But they never met...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Lucie called her at the shop and told her she had emails we had sent each other and that she wanted to forward them. Your wife accepted. Samir stares at Marie in disbelief. Again, there is silen them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "When did she call her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "The day before her suicide. Samir drops his gaze and stares at the perfumes. Marie le house. 79, INT. DRY CLEANER’S - DAY Samir enters the dry cleaner’s from the back door. He is Naima is writing up an order for a customer. He waits for to leave. He is looking at Fouad who is still drawing in As soon as the customer leaves, he calls Naima.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Naima... come here a second. Naima walks towards Samir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "After the fight with Celine... you know, when I asked her to go... did she ever come by the shop when I was out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "No",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What about when she wanted to go upstairs? Would she pass through here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "I didn’t see her the last few days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She was always up there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She only came down the day it happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Not the day before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "No, why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Someone says that they called here and talked to my wife. A costumer comes and Naima goes to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Upset, Marie is filling the prescription for a customer. Samir who is waiting for her outside the pharmacy. She qu prescription for the customer and sends her to the regist comes out of the pharmacy. Her co-worker who is ringing u customer, is frustrated with Marie’s sloppy work. She gla and sees Marie and Samir talking. 81. INT. MARIE’S HOUSE - DOWNSTAIRS BEDROOM - NIGHT A small lamp is on. Marie is lying on her bed by herself staring out into space. The door gently opens. Lucie come realizes Lucie is there but shows no reaction. Lucie come bed. She pulls the blanket to the side and lies down next who has her back towards her. She pulls the blanket over moment, they lie like this side by side. Lucie turns towa mother. She holds her from behind. Marie takes her hand a to her chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I’m sorry, Mom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Promise not to lie to me again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "When did I lie to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "When you say you’d forwarded the emails. Lucie is shocked at hearing this but she does not respond look, it is clear that she is debating whether to speak o silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "You promise? Lucie remains silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "\fOkay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Why do you think it was a lie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Because she wasn’t at the shop the day before her suicide. Again Lucie is silent. She lets go of her mother and turn back. She stares at the ceiling. Marie is surprised at he turns her head towards her. She looks at Lucie. Lucie spe response to Marie’s inquisitive gaze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "I spoke to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUCIE",
+          "text": "Yes. She had an accent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "His wife is French. Now they are both thinking the same thing. Marie is worri 82. INT. DRYCLEANER’S - EXT. SIDEWALK - MORNING Samir is waiting for Naima to arrive, it is clear that he upset and angry. A brief moment passes. Naima enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "‘Morning. Naima goes to the back, takes off her jacket and hangs it her purse. Samir stands opposite her and stares into her worried,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why did you do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Do what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why did you pretend to be my wife and gave her email? Naima is scared. She does not react. Samir is angry, stil her to answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "\fNaima is silent. Fouad, just woken I’m not asking for an apology. I’m asking why!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "She didn’t like me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "She hated me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Had you done something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Then why did she hate you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "She thought there was something going on between us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She thought that? Why would she?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why would she think that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Because you hired me even though I was illegal.. she was suspicious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Did she say anything to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Where are you getting this crap then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "She was always after me, so I thought... up, has opened the back door and come inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You thought?... Get out. She never asked me to fire you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "But she kept doing things to get you to fire me..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "Lots of things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What kind of things?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "The day of the fight, the customer called the police, she wouldn’t let me leave, she wanted me to stay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "So what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "She wanted the police to find out about me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "That’s it? That’s why she’s ina coma?... Get out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "That dress.. I took it out of the machine. I took it, I ironed it, I wrapped it up... there was no stain! She made the stain, I’m sure. I’ve been here for a year, I’ve never seen a stain like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "How much do I owe you? Again Naima does not respond. Samir comes to the counter. some money from his pocket. He puts several bills on the goes out to the sidewalk. Fouad is staring at Naima who i walks towards her jacket and purse. 83. EXT. DRYCLEANER’S - SIDEWALK - DAY Samir is on the sidewalk. He is clearly upset. Carrying h her shoulder, Naima comes out of the drycleaner’s. For a pauses, then goes back towards the Samir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "I wanted her to know there was nothing between us. You were always upset, thinking about someone else , she thought it was me. The day of the fight, you asked me to stay, you took my hand and you asked her to leave. I saw her eyes for a second, I knew what she was thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(angry) \fBecause of what you did, this kid’s mother has been a vegetable in a hospital bed for the past eight months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "It’s not because of what I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You gave her email to that brat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NAIMA",
+          "text": "If she had read the emails, she would have understood everything. Why’d she have come and drunk the detergent in front of me? She’d have gone to the pharmacy and killed herself in front of her. Or upstairs, in front of you. Why in front of me? Samir has no response. Sad, Naima walks off and grows sma distance. Samir is even more frustrated than before. 84. INT. DRY CLEANER’S - DAY Samir reenters the shop. He closes the front door. He mov of the shop and walks through the racks of clothing. From clothes, he finds the dress Naima was talking about. He b He takes its cover off. He searches for the stain, looks carefully and smells it. 85. INT. SAMIR’S HOUSE - BATHROOM - DAY Samir and Fouad are in the bathroom. Fouad is sitting on the bathtub and Samir is clipping his fingernails.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "She’s not coming back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Who?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Naima.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "No",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "She did something wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "But she said sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Some things are unforgivable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like what? Samir doesn’t know how to explain what's happening to Fou looks at him. He holds up his other hand and continues to nails. He sees the band-aid on his finger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "What happened to your finger?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Nothing. Samir takes off the band-aid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I want to go back to Lea’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "We can’t go for now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "When then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Not as long as we don’t know about Mommy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "When will we know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(frustrated) I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I get bored here by myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Why don’t you come down to see me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "I don’t like it downstairs. Samir looks down and continues clipping his nails. It is is trying to hide the tears he feels after what Fouad has",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Samir walks along the sidewalk. He reaches the pharmacy. stopping, he sneaks a peak inside the pharmacy. Marie is the prescription for an old male customer. Samir passes t and turns onto the next street. He stops a few yards away back and forth for a bit. He is hesitant. He goes back th came, this time without looking inside the pharmacy. He g towards the drycleaner’s. He ears Marie’s voice from behi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Samir! He stops and sees Marie who has come out of the pharmacy standing on the sidewalk. 87. INT. DRY CLEANER’S - EXT. SIDEWALK - DAY Fouad is busy drawing in a corner of the drycleaner’s. Th of the store is locked. Samir and Marie are on the sidewa reached the door. Samir unlocks the door and they both co again locks the door from the inside. Fouad comes out for clothing racks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Hello. Marie goes towards him. She kisses him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "(to Fouad) Go upstairs, Fouad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUAD",
+          "text": "And then I’1l go with Marie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Go get your things. Make a drawing for Mommy, ok? Samir accompanies Fouad to the back door. Fouad leaves. M chair by the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Do you think she got our emails?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "If she’d read them, she would’ve at least said something to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Since the fight with the customer, we'd stopped speaking. It lasted until the end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Even if she’d read them, yesterday you said she wouldn’t have cared. Samir is silent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Would she have cared?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "\fMaybe.I don’t know. I’d rather talk about now. That was then. It’s over. What I know now is that you're carrying our child. We just have to forget.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Is that possible?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "It should be.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "What if it isn’t? Marie is deep in thought. 88. INT. MARIE’S HOUSE - KITCHEN - EXT. BACK YARD - DAY Ahmad is standing in a corner and watching Marie who is f kettle in the sink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "Is your wrist better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It still hurts a bit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "You went to see a doctor?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It’s normal. It’s the lack of calcium. The baby’s taking it all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "How far along are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "A bit more than two months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I thought you’d hurt yourself painting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I don’t know, maybe. There’s a brief silence between them. Marie places the ke stove and turns it on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "There’s something I want to tell you before I go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "About when I left four years ago",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It’s pointless now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I want to explain why I didn’t...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No.. I don’t want to look back anymore. Forget it. Again there’s silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I’m off, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "And your things in the shed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AHMAD",
+          "text": "I don’t want them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Take them. Ahmad notices Marie’s state. From the kitchen door, he en backyard to gather his belongings in the shed. 89. EXT. MARIE’S HOUSE - YARD - DAY Ahmad comes to the yard holding a dusty suitcase. Lea and busy playing with Lea’s helicopter. Ahmad goes towards Le her. Fouad is watching them. Lea smiles. Ahmad looks at F hugs him. 90. INT. MARIE’S HOUSE - UPSTAIRS ROOM - EXT. YARD - DAY Lucie looks out at the yard from the window of her room. Ahmad say goodbye to Lea and Fouad and walk toward the fr children see him off. Ahmad goes onto the street. To bett leave, Lucie places one foot on the bed and raises hersel Ahmad fades into the distance. Lucie stays there till Ahm from view. Once he is gone, she comes down from the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Samir is in the hallway outside the door to his wife’s ro looking inside the room. 92. INT. HOSPITAL - HALLWAY AND PATIENT’S ROOM - DAY From Samir’s point of view, a doctor and nurse can be see in which Samir’s wife is in a coma. They are performing t examining her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Curious, Samir has approached the door. The doctor comes room. Samir’s inquisitive eyes are directed at him. The s takes Samir aside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Unfortunately she had no reaction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "None?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "None that I registered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "You mean the scratches on her stomach, were involuntary?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "Possibly. As I told you, these tests don’t reflect her state of consciousness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "But she’d never scratched herself before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "I really can’t say. The nurses may have done it when moving her in her bed. Theses patients have fragile skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Doctor... how can I be sure it’s not her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOCTOR",
+          "text": "By doing further tests. But even if the other tests results are negative, there’1l still be room for doubt. In these cases, you can never be sure. The doctor leaves. From the doorway, Samir is looking ins The nurse who is busy collecting the perfumes, comes out and walks towards Samir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "I put the perfumes by her bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "Did you test all of them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NURSE",
+          "text": "No just a couple of them. The nurse leaves. Samir enters the room. 94, INT. HOSPITAL - PATIENT’S ROOM - DAY Samir comes into the room. His ill wife is lying motionle On the walls are drawings which were drawn by Fouad. Sami box of perfumes to reluctently leave the room. As he exit hesitates and goes back to his wife’s side. He sits by he and stares at her. He takes the men’s cologne, the scent his wife liked, and pours some of it onto the palm of his holds his hand gently in front of his wife’s nose. He low towards her ear and whispers something to her. He stares and feet to see a reaction. He keeps holding his hand up He places his finger in Celine’s motionless hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SAMIR",
+          "text": "If you can smell the perfume, squeeze my hand, Celine. He keeps watching his finger and Celine’s hand. The end t and fade on this shot.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2222"
+    }
+  ]
+}

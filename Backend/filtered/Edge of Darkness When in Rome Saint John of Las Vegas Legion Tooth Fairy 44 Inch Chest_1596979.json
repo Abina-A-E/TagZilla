@@ -1,0 +1,29 @@
+{
+  "movie_id": "MOV609",
+  "scenes": [
+    {
+      "location": "STREET OUTSIDE HOUSE.",
+      "characters": [
+        "THE END"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "COLIN emerges onto the street... Closes the door behind him... We move in on his brave/sad face as he gazes up at the old, bluey, London sky, and says to Liz's spirit...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(Humbled. Accepting.       Very quiet) Be lucky, Liz.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slowly he begins to walk the wet street... Away from us.. Towards his new life...",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_610"
+    }
+  ]
+}

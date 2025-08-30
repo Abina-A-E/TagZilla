@@ -1,0 +1,3868 @@
+{
+  "movie_id": "MOV180",
+  "scenes": [
+    {
+      "location": "AIRPORT TARMAC",
+      "time": "NIGHT",
+      "characters": [
+        "349B",
+        "DRIVER, (CONT'D)",
+        "LISA",
+        "MICHAEL BELLA",
+        "LISA, (IN ROOM NOW)",
+        "DONNA",
+        "273B",
+        "STEPHANIE",
+        "HOTEL GUEST WIFE",
+        "HOTEL MANAGER, (PHONE VOICE)",
+        "HOTEL MANAGER",
+        "VOICE IN DREAM LISA",
+        "LISA AND LISA",
+        "PASSENGER",
+        "MICHAEL",
+        "BELLA",
+        "HOTEL GUEST",
+        "SECRETARY",
+        "MICHAEL, (CONT'D)",
+        "AIRPORT SPEAKER",
+        "AIRPORT SPEAKER, (0.S.)",
+        "I",
+        "LISA, (CONT'D)",
+        "EMILY LISA",
+        "MOTHER",
+        "EMILY, (CONT'D)",
+        "TV VOICE, (0.S.)",
+        "MICHAEL EMILY, (BEHIND THE DOOR)",
+        "THIRD WOMAN",
+        "TV VOICE",
+        "HOTEL GUEST THREE",
+        "63.",
+        "PARTY GOER",
+        "1007",
+        "HOTEL GUEST HUSBAND",
+        "MICHAEL-",
+        "BELLA, (V.O.)",
+        "DESK CLERK, (CONT'D)",
+        "EMILY",
+        "DONNA, (PHONE VOICE)",
+        "AUDIENCE",
+        "EVERYBODY",
+        "MANY VOICES",
+        "DENNIS",
+        "LISA, (0.S.)",
+        "GODFREY",
+        "DESK CLERK",
+        "ROOM SERVICE",
+        "IRENE",
+        "IRENE MOTHER",
+        "LISA, (FROM BATHROOM)",
+        "EMILY, (BEHIND THE DOOR)",
+        "DONNA MICHAEL",
+        "SCENE FROM MY MAN GODFREY",
+        "MICHAEL LISA, (0.S.)",
+        "DRIVER",
+        "BELLA, (CONT'D)",
+        "HENRY",
+        "VOICE ON SPEAKER, (0.S.)",
+        "OTHER WOMAN",
+        "STORE OWNER",
+        "EMILY, (CALLING FROM DOWN HALL)",
+        "WAITRESS",
+        "DENNIS, (CONT'D)"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Plane hits the runway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE ON SPEAKER, (0.S.)",
+          "text": "Ladies and gentlemen allow me to be first to welcome you to Cincinnati, where the local time is 7:43 PM and the temperature is 68 degrees Fahrenheit. We will be taxiing for a while so please stay seated until the pilot turns off the fasten seat belt light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PASSENGER",
+          "text": "Sorry I..I grabbed your hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PASSENGER",
+          "text": "It’s a reflex I am usually sitting next to my wife. (beat) But I don't like to fly. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 3.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I said it’s okay. (pause) You can let go now though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Footsteps. A suitcase being wheeled for a bit. Din of people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRPORT SPEAKER, (0.S.)",
+          "text": "Robert Hernandez please pick up the white courtesy phone. Robert Hernandez to the white courtesy phone please. AIRPORT SPEAKER (CONT’D) Welcome to Cinncinati North Kentucky airport. While on the moving sidewalk please stand to the.... Michael takes headphones and iPod out of his jacket pocke he puts his headphones in his ears. Lakme begins to play, drowning out the crowd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cars. Chatter. Michael knocks on a taxi window, it rolls down half way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I need to go to The Fregoli. Downtown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Yup. Driver gets out, puts Michael’s suitcase in trunk. Michae climbs in. Car door closes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AIRPORT SPEAKER",
+          "text": "Ladies and Gentlemen you attention please. No parking or waiting allowed. Unattended vehicles in this area will be towed. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 4.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Yup. Michael gets in to the backseat of the cab.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael pulls a pack of cigarettes from his jacket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Can I smoke in here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "You see that sigh? Driver coughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh. Michael puts the cigarettes away. He sighs and then start whistle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "You're from England, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah, I’m from England.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "I can tell by your accent and by the whistling that’s British Airways.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s Lakme, actually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Naw that’s British Airways. Drivers wheezes and coughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Anyway, I have an ear for accents. How’s the weather there now? Good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well, I’m from there originally. I live here now. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "In Sin-Sin City, you know as I call it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Not here. The states.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "The states. I like that. Across the pond. The states. The trolley. Cheerio. Put another shrimp on the barbie. I like that English stuff. Whereabouts in “The States”?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Los Angeles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Ah L.A. L.A. Yes sir. Oh yeah. Tinseltown. Well, Cincinnati's a great city, too. Don’t knock it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I wasn’t. I’m sure it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Damn straight. First time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Once before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Oh it’s changed since then. You ought to check it out, you know while you’re here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes, I will. Thanks. Car honking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "You’re welcome. Fuck you, asshole. You oughta check it out...Check...it...out. The zoo is great. World class, they say. Many, many important, you know whatchamacallit, endangered species, breeding programs, you know. They’re famous for it. Pandas. Other things. Owls. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Uh -huh. That sounds fascinating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Damn straight. (pause)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER, (CONT'D)",
+          "text": "Ya, you should check it out. And you gotta try some Cincinnati chili. It’s chili like you never had. Trust me. L.A. Chili? England Chili? Forget about it. They make it here with cinnamon and chocolate and the serve it over pasta. Imagine that if you can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I will try to, yeah. Thanks. Is there a toy store near the hotel? Taxi dispatch chatter in the background.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "A toy store? You mean a TOY store?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah toy store.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Yeah there’s a TOY store about two blocks up. It’s open all night. Real class place. Anyway there’s a lot to see in this city. A revitalized downtown--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m only here for a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m just here for a day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "I’m sorry. I’m not getting that. The accent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m just here for a day. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DRIVER",
+          "text": "Well, the zoo then. You don’t need more than a day for the zoo. It’s just zoo-sized. (pause) And the chili. You only need like an hour for the chili.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael walks through a crowded hotel lobby to the front desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK",
+          "text": "Harris can you get these bags please? Hello. Welcome to The Fregoli.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hi. I’m checking in. Stone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK",
+          "text": "Welcome, Mr. Stone. (keyboarding) There we go. Michael Stone. Smoking, king-sized bed. And you’1l be with us for just one night, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "One night. Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK",
+          "text": "I‘1l just need to make an imprint of your credit card, for incidentals, and we'll be all set.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I'd like a quiet room, if you have one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK",
+          "text": "Yes, sir. Of course. (pause) Desk starts to type while staring at Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK, (CONT'D)",
+          "text": "I have a charming deluxe smoking junior suite on the tenth floor with a king sized bed. Far above the street noise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "That sounds good. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK",
+          "text": "Great. So it’s all set then. The sound of a credit card imprint being made. rung.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DESK CLERK, (CONT'D)",
+          "text": "Dennis here will show you to your room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Right this way sir. My name is Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hi. A bell is Dennis and Michael walk towards the elevator. An elevator being summoned. Doors open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "After you sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They step into an elevator. The doors close. A button is pressed. The elevator ascends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "So how was your trip in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It was fine, thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Good. (pause) Bumpy? At all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Um, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "I'm sorry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "(pause) Oh well, you’re safe now. (pause) I think the room will be to your liking, sir. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 Silence. The elevator doors open. INT. HOTEL —- HALLWAY",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Just up here to the left, sir. There you go, after you. They walk out of the elevator in to the hallway. slows down to let Dennis lead the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (CONT'D)",
+          "text": "Nice weather we’re having.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Yes, the weather is very good. (stretching it out) Very, very, very good. It’s 68 degrees fahrenheit. And here we are. Key card in the door. Door opens. INT. MICHAEL’S HOTEL ROOM",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "After you, sir. Footsteps on carpet. Door closes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS, (CONT'D)",
+          "text": "It’s the bathroom. Um, air conditioning and heat controls here. TV remote control. Mini-bar. All self-explanatory, I think. Um, ice machine down the hall and would you like me to get some ice before I leave?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, I’m ok, thanks. Here you go. Michael hands Dennis a tip. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Oh, thank you very much, sir. If you need anything at all, please give us a ring. My name’s Dennis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DENNIS",
+          "text": "Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Good night. Dennis closes the door after him. Michael walks in to the bathroom, lifts the toilet seat up with his foot, unzips pants and pees. Michael sighs. Pants zipped. He flushes t toilet and leaves the bathroom. He walks in to the room, zips up his pants and takes off jacket and throws it on the bed. He looks at the magazine on the desk and it reads “Try the Chili.” He picks up the remote and hits the on button.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TV VOICE, (0.S.)",
+          "text": "...touch the door to the room, if it feels hot, do no open it. Fill the tub with water, soak a towel, and place it in the space at the bottom of the door. If the door is not hot, you may leave the room, but bring your room key with you in case exits are blocked and you need to get back in. He turns the TV off. Flips through a book. Picks up phone It rings on the other end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Room service. How may I help you, Mr. Stone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Um, I'd like to order some room service.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Um, I‘'1l have the bibb lettuce salad. And the salmon. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Yes, sir. Would you like anything to drink tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No. 1I'’11 find something in the mini bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Very good. Dessert? We have a lovely --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, no, no, no thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Very good, sir. So that’s a Bibb lettuce, Gorgonzola, prosciutto, and walnut salad...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "...-with honey raspberry vinaigrette dressing",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "..-and the wild-caught Copper River Alaskan salmon almandine...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "...with baby asparagus and black truffle broth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Very good. And that’s for room",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Very good. It’s...9:13 now. It should be there within 35 minutes, which will make it...9:48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOM SERVICE",
+          "text": "Thank y-- Michael hangs up phone. Dials a new number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA, (PHONE VOICE)",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Oh, hi. You just get in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m at the hotel. How are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Pre-menstrual. Um, how was the flight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It was okay. A little bumpy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Oh, I hate that. (calling off) Just a minute, Henry! I’m on the phone! Just a minute! (pause) What?! (pause)No it’s Daddy! (pause)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Donna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Daddy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Donna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA MICHAEL",
+          "text": "Daddy! Donna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "(back in phone) He wants to say hi. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay. Donna, I don’t want to --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Hold on. He’s coming downstairs. (pause) He’s in his pirate suit. (yelling off) C’mon Henry! Daddy's waiting! It’s long distance! (mumbled) Jesus. (to Michael) Here he is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay. Hi, slugger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "(off) Say something, it’s long distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "(long pause) Hi, Daddy. I'ma pirate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Are you? That’s great. I’m glad to hear your voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Did you buy me something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Not yet. But I will. I just got here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Okay, I love you. Take care. Bye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "(laughing) Well, he gets right to the point,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "So uh, what else? How’s the room?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It's, you know, it’s a room. It’s nice, I guess. Big Bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "That’s good, you can thrash about all you like. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay Donna, it’s not that I like it. It’s restlessness. I --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Okay. Okay. I’m Sorry. I’m Sorry. You doing anything tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No. I ordered room service. I'll watch a movie or something. I don’t know. I should get some sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Okay. Well, I better go. I’ve got to get dinner together for Hen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay. Have a good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Okay. Good luck tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah, thanks. Okay, bye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Bye. He hangs up. He walks across the room. Opens the window. sees a man in another building. The man is sitting in front of the computer, unbuttoning pants and putting his hands in to his pants. The man look up at Michael and Michael jumps behind the curtain. Micha closes the curtains and unfolds a piece of paper from his back pocket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(sighs) Thank you. It is my privilege today to talk to you about Customer Service, what it is and why it’s an essential component of any successful business enterprise. The front line of every customer department is the group of folks who interact directly with the public: the telephone representative at corporate headquarters, the retail associate on the floor of the regional store, the guys or gal --- \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 15. He pads to the mini-bar, grabs the ice bucket, pads to th door, opens it, and walks down the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael smoking a cigarette walking pass an arguing coupl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "You knew I didn’t want to get married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Yeah well you agreed to it. You’re a grown up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "Yeah I’m a grown up. You remind me of it everyday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Well someone has to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "Bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "You know I’m going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "I’m just going. Fuck you. He opens a door sticks the bucket under the spout of an i machine and presses the button. Ice clinks down into the bucket. He heads back down the hall into his room, where hear the faint street traffic noises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "Fuck you. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Why don’t you fuck off bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "You fuck off. You know my mother was right when she said you were a bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST WIFE",
+          "text": "Fuck you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST HUSBAND",
+          "text": "Fuck you. INT. MICHAEL’S HOTEL ROOM He plunks a couple of ice cubes into a glass, opens the m bar, take out a small bottle of booze, twist the top off pours it into his glass. He takes a sip. He unfolds the paper again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thank you. It is my privilege today to talk to you about Customer Service. What it is and why... Shit. He pulls a cigarette out of a package and lights it. He inhales.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "I mean, what the fuck did I do, Michael? It’s a goddamn mystery. It’s like the goddamn mystery of the ages.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Ah Shit...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "One minute we were going to spend the rest of our lives together, and the next... Michael pulls open some desk drawers, looking for somethi He flips through a phone book. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Amarosi. Ok. Hi Bella, it’s Michael. He dials the phone. It rings once and he hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "shit. He smokes his cigarette a bit, dials again. The phone rin on the other end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Hi Bella, it’s Michael. Hi Bella. Hi Bella, it’s Michael. (sigh) Fuck. He picks up the phone again and dials. It rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "(anxious and urgent) Hello? Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hello. Um, may I speak to Bella Amorosi, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "This is Bella.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Bella? Hi, I wasn’t sure. Hi, um I -- um, It’s um --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Who is this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s Michael. I didn’t recognize your voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Michael Stone. Michael...Stone. From —-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "(pause) Oh my God! Michael? Oh my God! Wow! Where are you? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m in Cincinnati on business and I thought of you and I looked you up in the phone book and there you were...So...uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "(pause) It’s good to hear your voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yours too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Ugh, I’m shaking. Jesus, how long has it been?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Ten years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Eleven.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, right. I’m married.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I have a kid.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Oh. That’s great. Congratulations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thanks. You?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Nope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’ve missed you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Yeah. That’s a weird thing to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I know. I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Well, it doesn’t matter. It’s all water under the fucking bridge. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA, (CONT'D)",
+          "text": "The fucking bridge. Ha. (nervous laugh)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah. But I am sorry. I do think about you a lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Yeah I guess the postcards must've gotten lost in the mail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Do you want to maybe get a drink, Bella?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Oh. I don’t know, Michael. This is all very intense. It’s like out of the blue. I just came out of a stupid relationship with a psycho. I just...I don’t know, I’m not sure you want to be a victim to my current emotional imbalance tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah. Well, I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "I mean, I could, I guess. I don’t know. Jesus, Michael, it’s been so fucking long. And you just call? Out of nowhere?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry. It was stupid. Everything's just screwed-up. I’m not thinking straight. There's something wrong with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Well, Where are you staying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "The Fregoli.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "La-de-da, you’re doing well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Eh. You know. It’s boring. Everything’s boring. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Okay, I could meet you there. At the bar. I have to go to work early, so -- I can’t stay very long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah, that sounds great. It’ll be lovely to see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "This is really weird. I’ve gained some weight. Not terrible or anything, but just so you don’t look at me like freaked-out or something, because I couldn’t handle that right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I wouldn’t do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Okay. And I have fake tooth in the front because I fell and hit a cement bench with my mouth. But I don’t think you can tell. They matched it pretty well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay. I look forward to seeing you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Bye, Michael. She hangs up. Michael hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Bye, Bella. He gets the remote from the desk, turns on the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TV VOICE",
+          "text": "Soak a towel, and place it in the space at the bottom of the -- He clicks the channel changer. We hear the music of a TV sitcom opening Seinfeld sound alike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCENE FROM MY MAN GODFREY",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 21. INT. IRENE’S BEDROOM Irene is hugging Godfrey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "What is the meaning of this, may I ask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IRENE",
+          "text": "Oh Mother, Godfrey loves me. He put me in the shower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "What ever are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IRENE MOTHER",
+          "text": "Godfrey loves me. Godfrey Godfrey, I demand an loves me. Godfrey loves me. explanation. Godfrey loves me. Irene laughs and carries on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GODFREY",
+          "text": "I think perhaps madame that I had better resign.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "Yes, I think that...that is a very good idea. What do you think your father would say to all of this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "IRENE",
+          "text": "I don't care what anybody says. Godfrey loves me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTHER",
+          "text": "See here young lady you take a bath and put on some dry clothes. And come downstairs immediately. Do you hear? Oh my I've never heard of anything like this in my life. Mother closes the door and walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bar sounds. Conversations in the background. Michael sits a table looking for Bella. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Bella! They hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "You look great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Thank you. You too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Have a seat. Please. Bella sits. Michael sits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "It’s really lovely to see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Let me get the waitress’s attention. (off) Excuse me. Excuse me. (pause) It’s busier here than I would’ve thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Hi. Do you know what you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Oh. Um, what are you having, Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Belvedere martini with a twist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Same old, Michael. I'’11 have one of those.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Make it two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Back in a minute. The waitress walks off. 22. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "So. You look good. Tell me what's going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Not too much, I’m embarrassed to say. I’m working for the state, doing graphics for the health department.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Graphics?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "I design pamphlets. Y’know, teen pregnancy, STD's, diabetes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I see. Well, that sounds interesting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "It’s okay. My boss is a dick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I guess that fits right in with the teen pregnancy and STD's. Bella laughs without enthusiasm. Silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Do I look bad? I look bad, don’t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, you look good. Silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Why did you go, Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know. I can’t explain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Here we are. Two Belvedere martinis straight up with twists. The waitress puts down the glasses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL BELLA",
+          "text": "233B Thank you. Thank you. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 24. WAITRESS (CONT’D) You're welcome. Enjoy. She walks off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Old times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Old times. They click glasses, take sips and react to the alcohol.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA, (CONT'D)",
+          "text": "That’s nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "I’ve missed you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Me too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Try to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Try to what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Try to explain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(beat) I think I might have psychological problems.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Oh good. That clears things up. Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s hard to explain. I’ve been running for a long time now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Running? We were special together. That’s what I thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah. I agree. But things kind of shifted. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Just like completely suddenly? I was so pissed at you. I was so fucking hurt. I didn’t get out of bed for a year. Do you realize that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Jesus. I’m sorry. Micheal gulps the rest of his drink and reacts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "God, you drank that fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I get a lot of practice. Listen, do you feel that you changed? I mean, do you feel that you changed?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know. I don’t know. Like in any way? Like in any way did you change? Like while we were together. Like did I change you? Did you change? Did anything change? Did a change occur?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Michael, you're freaking me out. I can’t take being more freaked out right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry. I’m amess. I’m just... Do you want to maybe go up to my room for another drink? We could talk more privately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "What? We’re not going to fuck, Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I wasn’t...I just...I’m just really bloody lonely and we had something. And I thought maybe could figure out what it --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "You've go to be kidding. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "This isn’t going well. I’11 just get the check then. Miss?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "Jesus. Wow. What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Miss?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA",
+          "text": "I can’t -- What? I can’t believe you. Fuck you, Michael. Fuck off. She storms off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Bella! I’m just trying to understand!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael walking down the city street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BELLA, (V.O.)",
+          "text": "..-and the next minute you’re out the door with barely a goodbye. Have a good fucking life, Michael. Love, Bella. Michael outside of the storefront. Knocks on the window. The door buzzes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STORE OWNER",
+          "text": "Hello. May I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hello there. I am looking for a toy for my son Henry. Perhaps you've heard of him, he’s a pirate. Michael pulls out an invisible sword and swings it throug the air. He knocks over a dildo on the counter by mistake The dildo hits the floor and turns on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Oh... \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 27. Michael picks the dildo up off the floor, turns it off, a places it back on the counter. Oh dear, this is not quite the store I expected.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STORE OWNER",
+          "text": "No I suppose not those kind of toys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s not my night. What’s that behind you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STORE OWNER",
+          "text": "That? That’s an antique. It Japanese. It’s quite unusual.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL-",
+          "text": "It’s pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He undresses (0.S.), turns on the shower, gets in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hot hot hot... He adjusts the temperature.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Arghh! Arghh! Fuck! Fuck! Cold! Fuck you! Fuck! Fuck you! He bangs insanely on the shower controls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Fuc -- Okay. Okay, there we go. He soaps himself up and sings “Dome Epais” from Lakme. He turns off the shower, steps out, dries himself off. He starts to shave, but stops. Michael becomes semi aware of face plate, changing expressions rapidly, he leans in a starts to pull his lower face plate off, but is interrupted... Someone walks by in the hall. She seems to be talking rat loudly on a cellphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (0.S.)",
+          "text": "Anyway I can’t wait to see you when I get back. How’s Thursday? (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (0.S.)",
+          "text": "No, it’s super fancy. Oh my God, is he cute? Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL LISA, (0.S.)",
+          "text": "Jesus. Someone else. Like how? Well, what does he do? Oh my God, that’s great! Yeah. Uh-huh. Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Where are my fucking pants? Fuck. As the voice registers, Michael runs from the bathroom an hurriedly gets his clothes on. He opens the door to his r and runs out into the hall. It’s quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Ah..hello, miss? Shit. Shit! He walks down the hall, knocks on a door. The door opens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry to bother you. I was just looking for my friend’s room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST",
+          "text": "Not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST",
+          "text": "S’okay. Guest closes his door. Michael knocks on another door. A barks behind it. He continues down the hall and knocks on another door. Th door opens in a hurry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST THREE",
+          "text": "(breathlessly excited) Hi! (beat) Oh, hello. Can I help you? I thought you were someone else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, sorry. I thought you were someone else. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL GUEST THREE",
+          "text": "That’s okay. Hotel Guest Three closes the door. Michael continues down the hall and knocks on another door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY, (BEHIND THE DOOR)",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry to bother you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL EMILY, (BEHIND THE DOOR)",
+          "text": "288B I'm looking for -- Who is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "My name’s Michael Stone and --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY, (BEHIND THE DOOR)",
+          "text": "Oh, oh, hold on! The door opens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY, (CONT'D)",
+          "text": "Hi! Oh my God! It’s you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hi, I’m sorry to bother you --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Not at all! Do you want to come in? INT. EMILY AND LISA’S HOTEL ROOM",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I was just looking for someone. I think I have the wrong --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (FROM BATHROOM)",
+          "text": "Who’s there, Em?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "It’s Mr. Stone! Michael Stone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Really? Oh my God? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 30. The bathroom door opens. Lisa enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Oh my God. Hello! Oh, I look awful. I was just taking my make- up off. Oh my God. Ugh. Don’t look at me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hello. No, you look lovely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I can’t believe you're in our room. We came here from Akron just to hear you speak. Oh my God. Please don’t look at me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well, I’m certainly very flattered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "You can look at me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Emily. Is there something we can do for you? I mean -- I don’t mean that in a weird way. Although... No, I'm kidding! I’m just -- Oh my God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh. I was -- I was trying to find my friend. I thought this was his room and --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh. Nope. Nope. Unless he’s hiding under the bed! Lisa giggles crazily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "We think you're super-brilliant. We both read your book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh - Yay for your book!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, thank you. Are you ladies in customer services? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Well, yes, as a matter of fact. We’re team leaders in a phone room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "We read your book and productivity went up ninety percent in our department. You’re so smart; I’m not sure I should even say words in front of you, because you'll see how dumb I am. Shut up, Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, don’t, don’t shut up, Lisa. You have a miraculous voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, God, no! Yick. Me? Yick. No way. No way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Lisa, you're being nuts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Say, would you ladies like to get a drink at the bar, maybe? We could chat. Talk about phone system innovations.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh um...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Um, Yeah! I think we could manage that. Right, Lisa?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Do you need to find your friend though?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Nah. Two beautiful ladies trumps my friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Oh my goodness. Thank you so much! I'm blushing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes, thank you so much! I’m blushing too. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I can’t believe we bumped into you. Y'know we sprung for this hotel because this is like a mini- vacation for us. We can’t even afford it. But look what happened! It’s so worth it. Oh I love this song. (singing) How long, to be near...shut up Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "I even got a massage tonight in the room! Mmmmm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s good to splurge every now and again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Emily and I work for Tessman in Akron. We're only customer service reps, so you can imagine our salaries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Tessman?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Tessman Foods. We make packaged bakery items shipped all over the midwest. Nibble-O’s, Choco-bricks, Apple-Flats, Strawberry Trifles, Knick-Knacks, Scroochies --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, yes, Splendid. I’m familiar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Brownie Balls, don’t forget.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Brownie Balls. Yeah, they’re new.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Hello again. What can I get you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, Hi. Do you ladies know what you want? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Um, I‘1l have an apple mojito, please. Can you make those? With apple schnappes? Yum. Yum. Yum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "I think probably.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "That sounds really, really good. I‘1l have the same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "And for you, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Belvedere martini, dry, straight- up, twist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "I'll be back in a minute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "So what do you ladies do for fun?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Besides drinking?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Emily, stop! God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well, I like to drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I do, too! But we do lots of other things. We hike and bike ride. I love to read. Go to the movies. I’m pretty good at Scrabble. Um --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Strip poker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Emily!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Have you two been friends long?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Since Junior High. Oh, I play the Jew's Harp a little. I don’t like to say Jew’s Harp because it’s offensive to Jews. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Anyway I bought one of those, um, self-teaching. Self-teaching? Is that right? Or self-learning?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "The Jew’s Harp is an underrated instrument.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I know! People think of it as this thing, you know? Waitress returns with a tray of drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Here we are folks. Two apple mojitos. Glasses being placed on the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY LISA",
+          "text": "Thank you. Mmmm. Thanks. WAITRESS (CONT’D) You're welcome. And a Belvedere martini for the gentlemen. Glass place on the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thanks. To us. They clink glasses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The elevator chimes. Lisa, Emily, and Michael pile drunke in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(laughing) Emily, stop it. What floor are we, anyway?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Ten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Are you sure. I think -- No, I want to press it! Darn it. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sorry. My hand just jumped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I love pressing the buttons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "You always get to press it, Lisa. Don’t be greedy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I know. Cause I love it. It’s so...I don’t know...buttony. No, that’s not it. Buttonish? (laughing) Is it stupid to like to press buttons? Shut up, Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Pressing buttons is good clean fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Exactly! That’s exactly right. See, Em?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It was nice getting to meet you ladies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Oh, it was an honor spending time with you. Thank you for all of those mojitos!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "My pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes, thank you kindly. Mojitos. Mojitos. What a funny word?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "You’re welcome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Mo-hee-toes. The elevator dings and the door opens. They stagger out i the hall. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well, I go this way, so I'll say good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Oh, pooh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yeah, pooh on you. Pooh pooh pooh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Good night Michael. She kisses him on the cheek. EMILY (CONT’D) Say good night, Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Good night, Michael. Pooh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Good night. They walk towards their room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Oh, Lisa?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Um, I was wondering if maybe you'd want to come to my room for a little nightcap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I feel odd asking in front of you Emily. But I didn’t know how else to --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "(sullen) No, no. That’s okay. I understand. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You sure you don’t mean Emily? Everyone always likes Emily better. Michael pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Ugh, this is awkward. I’m going to the room, Lisa. I’11 see you later Maybe. Have fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Em, I came out with you. I’m not going to just abandon --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Oh, don’t be an idiot, Lisa. He’s gorgeous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yeah, it’s okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Have fun. Night. Emily walks off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "So, I’m over this way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Okay. Hotel door closes OS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Have fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Good night. Lisa trips and falls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Uh!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Jesus! Are...are you OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I’m OK I’m OK, it happens all the time. 37. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 38. They walk down the hall to Michael’s room. The door doesn open the first few times. Michael and Lisa exchange a gla Michael shrug and tries the door again. The door opens an they enter. INT. MICHAEL’S HOTEL ROOM",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, look, how neat your left your room, with the little slippers laid out next to the bed and the blanket turned down all ready for sleepy time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, the maid did that. They come in and fix it up at night. It’s called turn-down service.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, God, I’m so embarrassed. Lisa the moron. I don’t...I don’t stay in hotels like this. Emily and I splurged, because it’s like a vacation. I’m an idiot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, you're not. Would you like a drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes, please. I would really like a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t think I can make an apple mojito. I can order one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No, that’s okay. I’11 just have a glass of wine, please. Michael goes about opening the wine bottle as he talks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m glad to get you alone for a while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yea. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You don’t like Emily? Everybody likes Emily. Emily’s a prince. Ess. Emily’s a princess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "She's very nice. I just felt a sort of special thing with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Really? Most people...like Emily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Here you go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Thank you. (pause) Most people don’t really like to look at me too much because -- you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I think you’re lovely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No you don’t. I’ve always done phone work because I’d never get hired to work in a store. Ora restaurant. Or --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "How did it happen, if it’s okay for me ask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I don’t -- I don’t like to talk about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "May I kiss you there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh my God. Oh my God. No. Oh God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You're not like a pervert or something? Like some weird version of a chubby chaser?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I just don’t understand why you'd want to kiss me there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Because...because I like you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Why? I mean, I’m not smart like Emily. And I’m ugly. You’re a really smart guy. You should like Emily. I don’t even understand a lot of the words in your book. I sat there with a dictionary. I try to learn. But I’m never going to be smart. And I’m ugly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I find it enormously charming that you read any book with a dictionary next to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(sigh) My last boyfriend was eight years ago. And he wasn’t even my boyfriend. He was almost sixty and fat and he worked in Human Resources and he had a wife and a his daughter was older than me. And the only reason he pursued me was because he thought he’d have a good shot. Which he did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I think you’re extraordinary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know yet. It’s just obvious to me that you are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I never went to college. I’ve never even made it past team leader in my department.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Your voice is like...magic. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 41.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, really? Wow. Well, y’know, I have been doing phone work for a long time now, so I pride myself on sounding pleasant and professional, on having a pleasing phone voice and manner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It works. Do you sing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "What? (giggling) No! No! God! You're weird! I mean, I sing. Everybody sings. I just don’t sing well. I sometimes sing along with the radio. I love Cyndi Lauper. Because she’s got such a great voice and she doesn’t care what people think about her. She is just herself and that takes a lot of courage. I admire that. You know what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I think so. Would you sing one of her songs for me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(giggling) No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "C'mon. It’d make me so happy to hear you sing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You're being weird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Please. It’1ll make me happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(pause) Okay, crazy man. Just a little. Okay, here goes. Don’t laugh at me! (singing) I come home in the morning light, My mother says \"When you gonna live your life right?\" Oh, mother, dear, We're not the fortunate ones, And girls, They wanna have fu-un. Oh, girls, Just wanna have fun. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "(singing) Some boys take a beautiful girl, And hide her away from the rest of the world. I wanna be the one to walk in the sun. Oh,girls, They wanna have fu-un. Oh,girls, Just wanna have That's all they really want..... Some fun.... When the working day is done, Oh, girls, They wanna have fu-un. Oh, girls, Just wanna have fun...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "That’s beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(singing) Girls, They want, Wanna have fun. Girls, They wanna have. Just wanna. They just wanna. Just wanna. They just wanna. Oh girls. They just wanna. Just wanna. OK That’s it. Happy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "That was so beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No, it was -- Oh, my God, are those tears?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It was beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "It’s such a great song. I want to be the one who walks in the sun. That describes so perfectly who I want to be. You’re so sensitive Michael. It’s incredibly sweet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s your voice, Lisa. Keep talking. Tell me everything. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 43. He kisses They kiss",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You're like amazing. Why are you doing this? Are you making fun of me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No. No. her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh God. Oh my God. Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Will you--will you kiss me again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I hope to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I hope you do, too. Sometime. again. They walk over to the bed kiss and lay down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "I haven't been with anybody in eight years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Let’s just lie together and you can tell me about your day?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes. Okay. They lie down. He kisses her again and again on her face neck as she speaks quietly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Um, well, Em picked me up at like seven this morning so we could drive down here. We stopped at Starbucks and I got a grande mocha frappuccino. Emily got a grande chai. I looked at the road atlas and figured it’s a little over 200 miles, so at sixty miles an hour we could do it in under four hours with bathroom breaks and whatever. The 71 goes pretty much straight here, so it was easy. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 44,",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "We listened to a lot of No Doubt, which Em likes. And I brought my Sarah Brightman CD’s. She sings this beautiful version of Girls Just Wanna Have Fun in Italian. It’s called Le Ragazze Vogliono Solo Divertirsi. Do you want to hear it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(singing) Ritorno, tardi la mattina Mia madre dice \"quando imparerai mai?\" Oh madre mia Non siamo i pit fortunati Le ragazze, Vogliono il meglio. Le ragazze, Vogliono solo il meglio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Very pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh my God, it is. I want to learn Italian some day. It’s so wonderful. It’s just so romantic. Pause. Michael kisses Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(whispering) Keep talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Um...I like different languages. I love French and Italian the most. I don’t like German. Sounds mean to me. All those ach’s. And I love Japanese obviously. Michael continues to kiss Lisa on the face and neck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Oooh, I love Portuguese. I love to listen to Brazilian singers. They sing in Portuguese in Brazil, a little known fact. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "It’s kind of weird because it’s the only country in South America where they sing in Portuguese. It’s an anomaly, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I learned that word in your book. I like that word. Anomaly. I like the way it sounds and I like what it means. I feel like an anomaly. Before I used to know there was a word for it, it made me feel bad to be different. Now I kind of like it. Sometimes. I mean, not a lot, but sometimes. Makes me special, sort of. Y’know what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(drowsy) Anomalisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Ooh, I love that! It’s like “anomaly” plus my name. Will you call me that all the time? I guess it’s kind of long to say all the time. I mean, I guess I’m assuming there is going to be an “all the time.” There’s not going to an “all the time”, is there? It’s just now. Some weird thing for just now. It’s okay though. It’s really nice for just now. It’s an anomaly -- Michael kisses her long on the lips. She sighs. unbuttons her blouse and takes off his jacket. sighing and moaning and rubbing. Lisa giggles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What? Did I tickle you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(giggling) Just a little.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "It’s okay. Just right there I'ma little ticklish. 45. He There is some \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Okay. I won’t touch you there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No, you can. It’s okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, it’s okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No, it’s okay. He kisses her again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Do you talk during sex?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "God! I don’t know! It’s been a long time. Do you want me to? Or not? I could do either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "If you could. Or just, y’know, make some noises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Noises?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Like moaning or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh. Okay. I could do that. She tries moaning. It’s awkward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Ah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "That’s nice. (silence) Does this feel okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes. Sorry. I’m just, I’ma little shy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Ouch. Ouch. My hair. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "It’s okay. I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Maybe if we can just turn a little bit like this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sure. He moves on top of her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Is that better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Good. Michael is kissing the front of her body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "You feel so good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You do too. Oh. Oh. Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What? You don’t want that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No, I’m just...I’m kind of shy about that too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Don’t be shy. It’ll be good. I really want to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(pause) Okay. Okay, go ahead. Michael removes her panties and kisses Lisa between her l",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "You're being quiet? It’s no good? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "No, it’s fine. It’s good. Justa little bit more gentle maybe. At first, maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "It’s okay. He continues to lick and kiss Lisa between her legs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Yes. Lisa begins to moan, small and quiet at first, then loude Michael grunts and groans and slurps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Could you come up here please? They climb on to the bed, pull back the sheets, and take others clothes off. Lisa leans back and bumps her head on the headboard. They giggle. Michael enters Lisa and they make love. It builds to a climax, then subsides with little residual groans here an there and heavy breathing. LISA (CONT’D) (giggling) That was really nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Mmm-hmm. Michael lights a cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "I don’t want to lose you. I lose everyone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know. It doesn’t matter. Pause \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh. Musical interlude. Michael turns off the light and we see the Cincinnati skyline. Night turns to day with a timelap In the morning the phone rings. It’s an odd ring, warblin and weak and sort of underwater.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(groggily) Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER, (PHONE VOICE)",
+          "text": "Hello, Mr. Stone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes. Lisa makes morning stretching and groaning sounds in the background.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "It’s early. Who is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Good Morning, sir. My name is Lawrence Gill and I’m the General Manager of the hotel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Uh, I have a matter of some delicacy I need to talk to you about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What’s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Who is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Would it be possible for you come down to my office to chat for a few moments?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I suppose. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "I'd greatly appreciate it. If you take the elevator to the basement level and turn left when you get off, you'll see the administrative offices. You can just ask for me. My name is Lawrence Gill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah, okay. Michael hangs up and lights a cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Who was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Lawrence Gill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Footsteps down and echoey hallway. The whoosh and grind o pipes and a massive air conditioning system. Michael pass aman in the hall that speaks indistinguishable Spanish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Office. Typing sounds. Phone ringing. Hustle bustle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hello, I’m here to see Mr. Gill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECRETARY",
+          "text": "Yes, of course, one moment. (punches buttons on phone) Mr. Gill, A Mr....?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Stone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SECRETARY",
+          "text": "A Mr. Stone is here to see you. Yes, sir. You can go right in. INT. LAWRENCE GILL’S OFFICE Michael enters inner office through door. The outer-offic sounds fade away, replaced by the bubbling of a fish tank This office feel enormous. When the Hotel Manager speaks, sounds as if he’s a football field away. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Thank you for coming, Mr. Stone. Over here. It’s big I know. They offered me 300 square on the fifth floor or this down here. Not a hard decision, right? Take the golf cart. That’s what it’s for. Michael gets in the golf cart and drives. The manager’s v gets closer. He hears echoes of voices. HOTEL MANAGER (CONT’D) Watch out for that sunken meeting area. No, you can just go around those. Don’t try to drive through. There you are. The golf cart is turned off. HOTEL MANAGER (CONT’D) Ah. Have a seat. Do you like the fish? I just had them put in. Salt water tanks. They’re hard to maintain. Those are leprechaun fish. The ones with the sort of Irish faces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Is there some problem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "No, sir. It’s nothing like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "It’s just...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Well...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Please, I have a conference to attend. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Yes, of course. Customer service. I’ve read your book myself. Hotel productivity up 90 percent. You and I are in the same business, really, when you come down to it. Service. Wouldn’t you agree?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Yes. Anyway, I don’t know how to put this, so I’1ll just put it. I understand that you had a guest in your room last night. Hotel Manager gets up and walks to the treadmill. He gets the treadmill and turns it it on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Is that a crime?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "No, not at all. Certainly hoteliers are in the business of being discreet about our guests’ philandering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Philandering?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "It isn’t that. My choice of words - - It’s not about that at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "How do you even know that, anyway?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Well, I -- Mr. Stone, may I be candid with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I guess. I don’t what the hell you are getting at.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Well, I -- um -- I love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Right. I’m leaving. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "No. Look. I’ve never talked to you like this before. It has not been appropriate. Perhaps it’s not still, but I’ve been unable to contain myself this morning. I love you. And I want what’s best for you. And if you need to have an affair, I understand, but have it with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Goodbye. Michael gets in the gold cart and drives it away in to su meeting area.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Have it was anyone at all, anybody, just not Lisa. Michael runs the long distance to the office door. HOTEL MANAGER (CONT’D) No. Wait. Wait. We’re all here for you. We’re all one for you! Come back!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael runs in to the secretaries office. The room fille with secretaries comes to halt and they all look up at Michael. Michael is out of breath.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL MANAGER",
+          "text": "Do you like any of these here? They’re very pretty. That ones Stephanie. Stephanie say hello to Mr. Stone. Michael is climbing on and over there desks to get to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STEPHANIE",
+          "text": "Hello. You can fuck me if you want, Mr. Stone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OTHER WOMAN",
+          "text": "Or me. Any of us. Just not Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIRD WOMAN",
+          "text": "Not Lisa. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 54. Michael runs out the door of the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael in stairwell, running up stairs. He passes a bell carrying a tray, they struggle to get around each-other. Michael rushes past and the man drops his tray OS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Michael’s faceplate falls off just after he comes out of stairwell. He bends over, picks it up, it calls out while his hand... Michael panics, and quickly puts his faceplate back on hi face, then continues down the hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(shouting) Lisa! Lisa! Michael knocking on hotel room door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Yes? The door opens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY, (CONT'D)",
+          "text": "Oh, hello, Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Where *cough* where is she, Emily? INT. EMILY AND LISA’S HOTEL ROOM",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "She’s not here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (FROM BATHROOM)",
+          "text": "Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Lisa, let’s go!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "What? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Lisa, don’t go with him. He's insane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (IN ROOM NOW)",
+          "text": "What? What’s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t have the time to tell you, just COME! He grabs her arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Where are you taking me? Em, what’s going on? He pulls her from the room. They run down the hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY",
+          "text": "Oh, for God's sake. Lisa, pull free of him and come back here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMILY, (CALLING FROM DOWN HALL)",
+          "text": "Where are you going to go, Michael? Be reasonable. There’s nowhere to go. Lisa falls, Michael stops to help her up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You're hurting me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry. Michael tries to open the door but the card does not read He tries a few more times and it opens. He drags Lisa inside. He closes the door. INT. MICHAEL’S HOTEL ROOM",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry. I’m sorry. I had to get you away. You weren’t safe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Safe from what? What are you talking about? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "They don’t want us to be together. I think they’1l kill you if they need to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "They explained it to me. The hotel manager. He explained it to me. They’re all one person and they love me. Everyone is one person, but you and me. You’re the only other person in the world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(pause) Really? That’s so beautiful. I’m going to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "We need to stay together. Forever. To protect each other, to nurture each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh my God. Oh my God. That’s -- Are you sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes. Yes. Finally. Finally I've found you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I’ve waited so long for someone to - - And you’re so smart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "We have to get out of here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "My clothes. My stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "We'll get new.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Your wife and son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "They don’t exist. They’re just them. Pounding on door. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 57.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VOICE IN DREAM LISA",
+          "text": "587 Michael? Michael? Michael? Michael?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You're having a nightmare or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(groggy) Oh. Uh. Oh, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You were thrashing. You hit me in the face with your elbow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "It’s okay. I kind of liked it. It’s kind of intimate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh. Okay, then. Stick around, I’m sure you'll get more of those. I’m a sloppy sleeper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You're all sweaty. What was the dream?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know. Something about the hotel manager. Michael lights a cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Are you hungry? We can order breakfast. I have to get ready for this speech.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Can I have scrambled eggs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I love eggs. (stretching) Scrambled is my favorite egg style. What about yours? Sounds of forks on plates, coffee being poured. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 58. They kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "Mmm, these eggs are delicious. Scrambled perfectly. You want to try some?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(mouth full of food) Here’s what I'm thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(mouth full of food) Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(takes a sip of coffee) I want to be with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I need to be with you. I want to leave my wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Really? Michael, that’s a big decision. I don’t --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No no no, it’s something I have to do. I mean, if you’re interested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I mean, yeah. I mean it’s awfully sudden. I mean, I don’t want to be responsible for breaking up a marriage. Do we need to decide now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s been years since I’ve felt anything like this. It’s like a floodgate has opened. I can’t close it. I don’t want to. I love you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(pause) Okay. Um, I don’t know. It seems so big and... Oh gosh, okay. Yeah, let’s do it. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Great! This is so great! (mouth full of food) Anomalisa. So I'll, I’1l call Donna and tell her. No, maybe I should go see her. Right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(mouth full of food) Yeah, that sounds right. I think it’s such an important --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Could you not...You’re clicking your fork against your teeth. Could you not do that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, sorry. People have told me that before. I know, it’s a stupid unconscious habit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s okay. Anyway, you were saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Just that I think it’s more respectful. And you need to speak to Henry. And explain that this isn’t about him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "But it is. It’s about him, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh. Well, don’t tell him that. He’s just a little boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah. You're right. You’re being a little controlling, don’t you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I don’t mean to. I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, that’s okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Good, I’m glad. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 60. Lisa hums",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Please don’t talk with food hanging out of your mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, sorry. I’ma pig. Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, no. It’s okay. So, will you live in Los Angeles? Or do you need to stay in Ohio?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "(mouth full of food) Um, I’m sorry. Hold on. (pause) as she chews her food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA, (CONT'D)",
+          "text": "I could move to Los Angeles. I could do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Good. As Lisa speaks, Lisa #2 joins her in perfect synchronizat but very quietly. It’s start almost inaudibly, but as it continues through their dialogue, Lisa #2’s voice gets progressively louder and Lisa’s voice gets progressively quiet. By the end of the scene, only Lisa #2 can be heard",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "We should go to the zoo today after your speech. I hear it’s really good. They have --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "-- breeding programs for all these endangered species.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I’m sorry what did you say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "Oh, they have breeding programs for all these endangered species, so you get to see things like pandas, which I think are awfully cute. They’re not really bears, I read.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(distracted) Yeah, sure. That sounds fine. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Nothing. The zoo sounds good. My stomach hurts. It feels empty. It’s clenched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "Oh. Eat some more waffle maybe? Did I do something wrong? I’m sorry. Darling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s okay. I’m anxious about my speech, I suppose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "Of course. Well, we’ll have fun after. We don’t have to go to the zoo. We can just hang out here. I have the whole weekend till I have to get back to work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "That’s great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "I’m so happy, Michael. I’ve waited for someone like you my whole life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I've waited too. We’1ll work it all out, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "Yes. Who would've thunk it? It’s just so beautiful. Life can be. Things can work out. That’s the lesson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Sometimes there’s no lesson. That’s a lesson in itself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "I guess so. (pause) I feel anxious, Michael. I feel something. Like you’re different-— acting. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Me? No, no, no. Everything’s fine. I’m just...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "I know (sigh) I’m not great to look at in bright sunlight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No, you’re very pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "Okay. So, we could maybe go for a walk and talk or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "So I'll see you after?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Of course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "-- and always remember, the customer is an individual. Just like you. Each person you speak to has had a day. Some of their days have been good, some bad, but they’ve all of them have had one. Each person you speak to has had a childhood. Each has a body. Each body has aches. What is it to be human? What is it to ache? What is it to be alive? I don’t know. What is it to ache? I don’t know. What is it to be alive? I don’t know. Uh, yes. How do I talk toa customer? How do I talk toa customer? These are the important questions for a customer service representative. What do I say? Do I smile while I’m on the phone? They can tell if you’re smiling even if they can’t see you. Did you know that? Try it as an experiment when you’re on the phone with a friend... Try it, go ahead. See, watch. (pause) I’m lost. You see I was smiling when I said that. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "I’ve lost my love. She’s an unmoored ship drifting off to sea. And I have no one to talk to. I have no one to talk to. I have no one to talk to. I’m sorry. I don’t mean to burden you with that. I just don’t know what else to do because I have no one to talk to. Be friendly to the customer. Think of the customer as your friend. I want to cry but I can’t. Is it the Zoloft, Dr. Horowitz? Is it the Zoloft... My face squeezes into that crying contortion you all know so well but nothing comes out. I need tears. It’s like not being able to come. I need tears to tear me in two and let this nightmare escape. Oh, um, anyway yes don’t forget to smile. It makes a person’s day. And what does it cost you? A smile is free. This is not working. This is not working. This is not working. The world is falling apart. The president is a war criminal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUDIENCE",
+          "text": "Boo! Boo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "America is going down the tubes and you're talking about goddamn intelligent design. They’ve intentionally destroyed the public education system. It’s easier to manipulate dumb workers and soldiers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AUDIENCE",
+          "text": "There’s no need for that! Support out troops!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Eh? Oh, uh, yes, ah. Be personable. Remember to believe in yourself. Believe in your company. And your products or services. I sweat onto my pillow every night. I think something is very, very wrong with me. Be friendly. Yes, what does it cost you? Look for what is special about each individual. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "63.",
+          "text": "\fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (CONT'D)",
+          "text": "Focus on that during your conversation. Our time here is limited. We forget that. Death comes, that’s it. Soon it’s as if we never existed. So remember to smile. Remember there is someone out there for everyone. Someone to love. Remember every person you speak to needs love. Remember to --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Plane taking off. INT. MICHAEL’S HOUSE A door opens. Michael enters. Henry runs towards Michael.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Daddy! Daddy! Daddy!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Slugger. Henry jumps in Michael’s arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "What’d you bring me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "In the bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Lemme look! Lemme look! Henry jumps from Michael’s arms. Michael sets down his suitcase and bag.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "(chuckling) He gets right to the point.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Hi, honey. Michael and Donna kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Is this it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yup. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "A toy. The heavy plastic package is struggled with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "It’s a doll. It’s for girls. It’s a girls doll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "No. It’s a toy an antique it moves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "It’s stupid, it’s stupid and the face is broken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "It’s an antique, Slugger. That’s a part of its charm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "I don’t get it. What are all these...these words here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know. It’s in Japanese. Press some buttons. It moves. Buttons are pressed. Tinny music starts. Cheap gears whir It continues throughout, getting louder and more complica",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "What else did you get me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Well, I didn’t get you anything--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MANY VOICES",
+          "text": "Surprise! (singing) For he’s a jolly good fellow...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, Jesus. That scared me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Welcome home, honey! It’s a surprise party! \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t -- Who are all these people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVERYBODY",
+          "text": "(ad-libbed welcome home Michael, good to see you)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh, thanks. Who are they?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "It’s everybody, honey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "What’s it doing now, Daddy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t recognize any of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVERYBODY",
+          "text": "Michael, how are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Oh yeah, yeah, how are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Daddy, what’s coming out of the toy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "God Michael, it looks like semen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "I don’t know. I just got it ata store. I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "What’s semen, Mommy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Oh, it’s just a liquid Henry. It’s a liquid. Michael don’t you realize that we love. Henry, me, all of us here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Who are you, Donna? Who are you really? \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DONNA",
+          "text": "Oh for fuck’s sake. I’m sorry, Henry. Mommy said a bad word. For fuck’s sake, Michael. I don’t know who I am, I mean. Who are you? Who is anyone? Who could answer that question? I don’t want you to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Donna, I’m not leaving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Is Daddy’s leaving?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "(pause) Of course not, slugger. Where would I go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARTY GOER",
+          "text": "Ha-ah, well. Good to see you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Thanks very much. Momotaro San song comes from the toy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "(pause) Daddy, what’s it doing now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Singing Slugger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Oh. Oh. Um, can I go out and play?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL",
+          "text": "Yeah, sure. I’11 stay here and listen to it till it’s over. After a bit the noise fades. There is just the distant so of the wind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "September 16th, 2005. Dear Michael, I’m sorry to see you go but I understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "Well I don’t understand but I accept it. \fAnomalisa ---Final Shoot_ v4 Rev. 10/4/15 68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA AND LISA",
+          "text": "I’m so glad we had this time together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I don’t think I ever felt love like this, was. (pause) Maybe someday we'll meet again under better circumstances. Love, Lisa “Anomalisa” Hesselman. P.S. I looked up Anomarisa in my Japanese English dictionary. It turns out it means Goddess of Heaven. Not that I think of myself that way, of course. It’s just, interesting. Fade to black.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_180"
+    }
+  ]
+}

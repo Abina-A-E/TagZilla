@@ -1,0 +1,2514 @@
+{
+  "movie_id": "MOV1992",
+  "scenes": [
+    {
+      "location": "VONDELSTRAAT ROW HOUSES",
+      "time": "LATER",
+      "characters": [
+        "91.",
+        "114.",
+        "EXT VAN HOUTEN'S HOUSE",
+        "INT HAZEL'S BEDROOM",
+        "102.",
+        "EXT CEMETARY",
+        "17.",
+        "MAN IN PAJAMAS, (O.S.)",
+        "INT ICU",
+        "95.",
+        "EXT CAFE",
+        "HAZEL, (V.O.)",
+        "93.",
+        "EXT GUS'S BACKYARD PORCH",
+        "INT BATHROOM",
+        "MRS. WATERS",
+        "EXT GUS'S HOUSE",
+        "INT ANNE FRANK HOUSE",
+        "INT/ EXT HAZEL'S CAR",
+        "PETER",
+        "GUS'S VOICE, (CONT'D)",
+        "INT AIRPLANE",
+        "INT GUS'S HOUSE",
+        "GUS, (O.S.)",
+        "I RESIGN",
+        "EXT INDIANAPOLIS MUSEUM OF ART",
+        "GIRL'S VOICE, (O.S.)",
+        "LEEE-DUH-VIGH",
+        "VAN HOUTEN, (CONT'D)",
+        "MICHAEL, (O.S.)",
+        "MAN IN PAJAMAS",
+        "77.",
+        "EXT SUBURBAN STREET",
+        "75.",
+        "INT VAN HOUTEN'S HOME",
+        "INT HOTEL ROOM",
+        "INT HOSPITAL",
+        "76.",
+        "EXT AMSTERDAM STREET",
+        "INT GUS'S BASEMENT BEDROOM",
+        "INT HAZEL'S LIVING ROOM",
+        "INT INDIANAPOLIS AIRPORT",
+        "INT HAZEL'S CAR",
+        "EXT ISAAC'S HOUSE",
+        "INT HAZEL'S DINING ROOM",
+        "EXT HAZEL'S HOUSE",
+        "INT GUS'S HOTEL ROOM",
+        "EXT ANNE FRANK HOUSE",
+        "WOMAN'S VOICE, (O.S.)",
+        "INT CHURCH"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Gus and Hazel stand outside Van Houten's white house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so excited I can barely breathe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As opposed to other days...? She playfully hits him. He takes her arm, picks up the ox tank, and up they go towards his front door. As they approach, there's a noticeable NOISE coming from inside the house. It's the deep thump of a BASS BEAT. Lou Like, obnoxiously loud. Hazel grabs the brass ornament and knocks. They wait. The no response.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maybe he can't hear over the music? Gus tries again, this time with more force. Still nothing tries a third time. Finally, the music stops. They wait. Still excited. A moment later the door swings open. It's a MAN IN PAJAMAS (60s), with a huge potbelly, thinni hair, and a week-old beard. All he says is:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN IN PAJAMAS",
+          "text": "What?! Gus and Hazel look to one another. Could it be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Van Houten? At which point, the Pajama Man slams the door in their fa Hazel and Gus are too stunned to react. Through the close door, they hear this:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN'S VOICE, (O.S.)",
+          "text": "Are they here, Peter? So it is PETER VAN HOUTEN. Gus and Hazel can't believe it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN IN PAJAMAS, (O.S.)",
+          "text": "There are two --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who the hell's \"they?\" 71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN'S VOICE, (O.S.)",
+          "text": "They are Augustus and Hazel, the young fans with whom you've been corresponding. Gus and Hazel smile at hearing their names. Perhaps this help things take a turn for the better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN IN PAJAMAS, (O.S.)",
+          "text": "The Americans?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN'S VOICE, (O.S.)",
+          "text": "You invited them, remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN IN PAJAMAS, (O.S.)",
+          "text": "You know why I left America, Lidewij? To never have to encounter Americans. Get rid of them. Hazel and Gus can't believe it. This is terrible!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN'S VOICE, (O.S.)",
+          "text": "I will not do this Peter. Be nice. At which point, the door opens - opened by the Woman whos voice they'd been hearing - Van Houten's assistant LIDEWI (30s, Dutch, pretty in a bookish way). She virtually shov Van Houten towards a stunned Gus and Hazel. And they are again face-to-face with Van Houten. One beat two beats. No one knows what to say. Finally:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Which of you is Augustus Waters? Gus raises his hand tentatively. Van Houten sizes them up. Without another word, he turns walks inside - at least this time, leaving the door ajar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Please. I am sorry. Come in. Hazel and Gus share one more awkward glance before Gus ta a step. Hazel follows. They walk:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT VAN HOUTEN'S HOME",
+          "text": "Lidewij leads Gus and Hazel into a living room so sterile it's creepy. The walls are empty and white, there's a sin couch, a small ottoman, and a single lounge chair. That's Van Houten sits in the chair. Off to the side are two large black garbage bags, full an twist-tied.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Trash? 72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Fan mail. 18 years worth. He never opens it. Van Houten kicks his feet up on the ottoman and crosses h slippers. He motions for them to sit on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yours are the first missives to which I've replied and look where that got me. Hazel and Gus take their seats.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Scotch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um, no thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Augustus Waters?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's 11am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just me then, Lidewij. Scotch and soda.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Perhaps some breakfast first Peter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She thinks I have a drinking problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I also think the Earth is round. Nevertheless, Lidewij pours Peter half a glass and hands to him. He takes a sip, then sits up straight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you like my book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes. We - well, Augustus, he made meeting you his Wish so that we could come here and talk to you. Van Houten says nothing. Takes a long pull on his drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you dress like her on purpose?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looks at her shirt) Kinda. 73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Van Houten says nothing to that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do not have a drinking problem. I have a Churchillian relationship with alcohol: I can crack jokes and govern England and do anything I want to do. Except not drink. He glances over at Lidewij, who dutifully refills his gla",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Incidentally, thank you for dinner last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We bought them dinner last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was our pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You've come a long way so... what is it I can do for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We have some questions --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About what happens, you know... after... the end of your book. Specifically to those who Anna leaves behind. Like her Mom, the Dutch Tulip Man, Sisy --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How familiar are you with Swedish hip-hop? Hazel looks at Gus. Is he kidding?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I would say... limited?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But presumably you know Afasi Och Filthy's seminal album \"Flacken.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lidewij! Play `Bomfalleralla' immediately. 74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lidewij sighs but she does as she's told. A few seconds later, some loud Swedish rap song blasts from the speaker Hazel and Gus sit through this, totally baffled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(yelling over the music) I'm sorry, sir. We don't speak Swedish.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who the hell speaks Swedish? The important thing is not what nonsense the voices are saying, but what the voices are feeling. The song continues another awkward ten seconds or so befo Gus has enough. He gets up and turns off the music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you messing with us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pardon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is this some kind of performance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rudolf Otto said that if you had not encountered the numinous then his work was not for you. And I say to you, my friends, if you cannot hear Afasi Och Filthy's bravadic response to fearfulness, then my work is not for you. Hazel is really getting worried at this point. They came this way for this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So anyway... when the book ends, Anna's mom --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(raising a hand to silence",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let us imagine that you are racing a tortoise. Hazel and Gus fidget in their seats. Lidewij frowns, clea feeling bad for them. Van Houten continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The tortoise has a ten yard head start. In the time it takes you to run ten yards, the tortoise has moved maybe one yard. And so on, forever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAN HOUTEN, (CONT'D)",
+          "text": "You are faster than the tortoise but you can never catch him, you see, you can only decrease his lead. Now certainly you can run past the tortoise as long as you don't contemplate the mechanics involved but the question of how turns out to be so complicated that no one really solved it until Cantor's proof that some infinities are bigger than other infinities. Hazel and Gus have no idea how to respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I assume that answers your questions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know what's going on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And yet you seemed so intelligent in print, Mr. Waters. (under his breath) Must be all that cancer in your brain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Peter! Gus could throw a punch right now. Hazel tries to calm th situation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can we please, maybe, talk about Anna for a sec? I mean, I understand that the story ends mid- sentence because she dies or she becomes too sick to continue --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not interested in talking about that book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- but that doesn't mean her family and everyone she loves doesn't have a future, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I said I'm not interested --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But you promised!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Van Houten, you said you would tell us what happens and that's why we're here. We... I need you tell me. Surely you've thought about it. I mean, as characters --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nothing happens to them! They're fictions. They cease to exist the moment the novel is over. This is not what Hazel came all this way to hear. She won accept it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They can't! (again, has to calm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I mean, I understand. In a literary sense. But it's impossible NOT to imagine some future --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't do this. Lidewij, get rid of them, please. (Lidewij doesn't move, he turns back to Hazel) I won't indulge your childish whims. I refuse to pity you in the manner in which you're accustomed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want your pity --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course you do. Like all sick kids, your existence depends on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Peter!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(on a roll) You are fated to live out your days as the child you were when diagnosed, the child who believes there is life after a novel ends. And we, as adults, we pity this, so we pay for your treatments, for your oxygen machines. We give you food and water though you are unlikely to live long enough --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are a side effect of an evolutionary process that cares little for individual lives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VAN HOUTEN, (CONT'D)",
+          "text": "You are a failed experiment in mutation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "I RESIGN",
+          "text": "Lidewij has tears in her eyes. Gus has balled his fists. not Hazel. Van Houten's words have not phased her one bit She rises from the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey listen douchepants. You're not gonna tell me anything I don't already know about illness. I need one thing and one thing only from you before I walk out of your life and that's for you to tell me what happens to your goddman characters!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I cannot tell you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bullshit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I cannot -- Van Houten goes to take a drink but...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Make something up. ... Hazel smacks it right the fuck out of his hands, surprising everyone. After a beat:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lidewij. I'll have a martini please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have resigned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh don't be ridiculous. No one moves. Van Houten realizes he's alone in this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'd like you to leave now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're really not gonna tell us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I would like you... to leave. 78.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel is furious. Gus stands next to her, touches her arm if to say \"come on, enough of this guy.\" CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT VAN HOUTEN'S HOUSE",
+          "text": "Gus and Hazel come out of the house, practically shaking. they get to the street, Van Houten has one more thing to",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Have you ever stopped to ask why you care so much about your silly questions? A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Go fuck yourself. Van Houten doesn't have a response to that. He just shuts door. And when he does, that's when Hazel gets emotional.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey. It's ok. It's ok... (beat, an idea) I'll write you a sequel. (she cries harder) I will. Better than any shit that drunk could write. With blood and guts and sacrifice. You'll love it. Hazel nods, then wipes away tears. She fakes a smile and gives her a hug. Afterwards:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I spent your Wish on that asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You did not spend it on him. You spent it on us. They embrace once more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wanted...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know... I know. Apparently the world is not a wish-granting factory. This gets a real smile from Hazel. That's when Lidewij co outside. Clearly she's been crying too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so sorry. Circumstance has made him cruel. I thought meeting you would help him, if he would see that his work has shaped real lives, but... I'm very sorry. 79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel says nothing. Gus holds her in a very protective wa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Perhaps we can do some sightseeing. Have you seen the Anne Frank House?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not going anywhere with that monster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He is not invited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT ANNE FRANK HOUSE",
+          "text": "Lidewij walks back from the ticket kiosk with more bad ne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm afraid there's no elevator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, um, that's alright.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, there are many stairs. Steep stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can do it! Hazel is not going to stand for any more disappointments today. They are going inside. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT ANNE FRANK HOUSE",
+          "text": "A VIDEO plays on a MONITOR showing the Nazi invasion of Holland. Hazel and Gus stand with Lidewij in a pack of BACKPACKERS and TRAVELERS about to take the tour. Many of them begin to walk up the first flight of stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shall we? Hazel nods. Both Hazel and Gus walk slowly up the stairs. far so good. They find themselves in an office space.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is the bookcase that hid the Frank family and four others. The BOOKCASE is half open. Behind it is an even steeper s of stairs, only wide enough for one person at a time. 80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Some of the Travelers begin to walk up the stairs. Gus lo at Hazel - are you sure we should continue? She begins th climb, determined. Lidewij trails behind, carrying her ox tank. Hazel moves very slowly. We are aware of her labored breathing the entire time. ANGLE ON OTHER TOURISTS, watching and quietly commenting. Just like at the airport, except now in foreign languages Hazel arrives on the NEXT FLOOR - an empty room. She's definitely starting to struggle. She leans against the wa to catch her breath. Gus comes to her side, wipes her bro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're a champion. Hazel smiles. When she's feeling up to it they walk into next room, also empty. And another staircase, even more narrow and steep - practically a ladder. When Gus sees th he looks at Hazel:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's enough --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm ok. Hazel very slowly begins the climb. Again we're aware of every breath. It's dark. And it's becoming very difficult Near the top Hazel stumbles but is finally able to pull herself through. Once there, she falls to the floor, slumping against the wall, trying to catch her breath. Gus crouches next to he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're at the top. That's it. Hazel becomes aware that TOURISTS look at her with concer She smiles, stands up, nothing to see here. And now they're in the final room - a long, narrow hallwa This is where Anne Frank and 7 other people lived in hidi for as long as they could. There's a TIME LINE detailing their story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The only member of the whole family to survive was Otto, Anne's father. Gus takes Hazel's hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know how you go on, without your family. 81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lidewij stays behind to study part of the exhibit. Gus le Hazel into the room at the end of the hallway where a VID details the last days of Anne Frank's life. Over it, we h a YOUNG GIRL's VOICE reading from the diary. The Travelers stand to watch and listen. Gus and Hazel do same. The room is dark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRL'S VOICE, (O.S.)",
+          "text": "\"At such moment's, I don't think about the misery...\" Gus and Hazel stand very closely together. The video is t cherry on top of a very emotional day. Hazel watches it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRL'S VOICE, (O.S.)",
+          "text": "\"...but about the beauty that still remains.\" Gus, meanwhile, is just watching Hazel, the same way she watched him on the airplane. After a beat, she catches hi Their eyes meet. The emotions build...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIRL'S VOICE, (O.S.)",
+          "text": "\"Try to recapture the happiness within yourself. Think of all the beauty in everything around you... and be happy.\" And Hazel KISSES Gus. A most passionate, intense, you-and against-the-world kind of kiss, better than any they've experienced or could even imagine. It seems to last for a small eternity. Eventually, they break away and open their eyes. They qui notice all the Travelers staring at them. For a brief sec they wonder if that was a very inappropriate thing to do. When suddenly everyone starts clapping for them, moved by whole thing. One EUROPEAN even shouts \"bravo!\" Hazel blus Gus smiles, bows, he grabs her hand. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT GUS'S HOTEL ROOM",
+          "text": "They fall onto Gus's bed, kissing. Hazel is very in the moment and now it's Gus who seems nervous. As they kiss:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's above my knee. She ignores him, more kissing. She takes off his shirt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It tapers a little and then it's just skin --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What? 82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel pulls away from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My leg.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just so you're prepared --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh get over yourself. Hazel kisses him again. Now he tries to pull her shirt of but it gets tangled in with her oxygen tube. He can't fig it out. Eventually the whole thing is hilarious to them. shake their heads - laughing - certainly not your typical Hollywood movie moment. And yet, for them:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love you, Augustus Waters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love you too, Hazel Grace. They resume kissing. And we CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HOTEL ROOM",
+          "text": "Gus wakes up in the bed. He looks around for Hazel but sh isn't there. On the bed is a piece of paper. A note. It reads: \"Dearest Augustus...\" Beneath that is a BIG CIRCLE, labeled \"Virgins.\" And in t circle is a SMALLER SECOND CIRCLE labeled \"17 year old du with one leg.\" We'll notice part of that circle is now outside the bigger circle. Gus flashes that signature smi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT CAFE",
+          "text": "Hazel and Gus sit with Frannie drinking coffee in the sun an outdoor cafe. They're re-enacting yesterday's events.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Get up you fat bastard.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I can't stand up, I'm too drunk.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I said \"get up.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Standing is for fools!\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "God, what an asshole. They both giggle at the whole thing. 83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was awful, Mom. You can't imagine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And then what happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then we went to the Anne Frank museum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And after that? A quick glance between Hazel and Gus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We just... walked around. Hazel and Gus smile, thoroughly in love but trying to kee in check in front of her Mother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sounds lovely. A few beats later.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Listen... I'm gonna stretch my legs a little. Give the two of you some time to talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um... ok... As she stands up to leave, Hazel thinks she catches Gus a Frannie making eye contact for a brief second. Once Frann has left them:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That was weird. Gus doesn't respond except to say:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shall we?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT AMSTERDAM STREET",
+          "text": "They start to walk. Gus takes a cigarette out of his pack sticks it between his lips. Hazel notices he's struggling with something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Augustus? 84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's something I have to tell you... They walk in silence a few beats.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just before you went into the hospital... There was this... I felt this... ache in my hip. Hazel grabs onto his arm, a lump already forming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh no... Gus takes the cigarette out of his mouth, clenches his te tightly, trying not to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I had a PET scan. Gus sits down on a BENCH. Looks up at her. Tries to smile Before he even says it, she knows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It lit up like a Christmas tree, Hazel...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh god.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The lining of my chest, my liver... everywhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh my god no! Hazel loses it in that moment, falling on top of him, hug him for dear life, her head in his lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so sorry, Augustus. I'm so so",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry too --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's so unfair --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I should have told you --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's so fucking unfair! A beat. Gus still trying not to cry. 85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Apparently the world is... not a wish-granting factory. And at that point, Gus lets it go, lets himself cry and b sad and feel awful. But just for a second. Then he shakes it off, pulls Hazel face up to his, tries again to smile through the tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you worry about me, Hazel Grace. I'll find a way to hang around and annoy you for a long time. She hugs him, perhaps a little too tightly. He winces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Does it hurt?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok. But of course it's not ok. Not by a mile. Hazel takes a moment to look at him, touches his cheek.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm just... I'm very fond of you. He grabs her hand and holds it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't suppose you can forget about it, treat me like I'm not dying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't think you're dying, Augustus. You've just got a touch of cancer. Gus nods. Squeezes her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would it be absolutely ludicrous to make out right now? 86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel doesn't answer. She just kisses him, hard. And on t two of them, so in love, we CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT AIRPLANE",
+          "text": "Hazel lays on Gus's shoulder as he stares out the window, leaving Amsterdam behind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT INDIANAPOLIS AIRPORT",
+          "text": "As they ride down the escalator, Hazel sees Michael stand amongst the livery drivers. He holds a sign that says - instead of someone's last name - \"My Beautiful Family (an Gus).\" Upon seeing them, he immediately starts to cry of course. kisses his wife, gives Hazel a big hug. Gus goes to shake hand but Michael hugs him as well. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S LIVING ROOM",
+          "text": "Hazel sits with her father on the couch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gus had a recurrence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mrs. Waters told us the night before you left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry Hazel. They sit for a beat. Tears form in Michael's eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not gonna say it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The usual. \"Everything happens for a reason...\" Michael shakes his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know, Haze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I always thought being an adult meant knowing what you believe...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "... that has not been my experience. Hazel understands exactly. CUT TO: 87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT GUS'S BASEMENT BEDROOM",
+          "text": "Gus lays in bed, eyes open, a PICC line now being fed thr a port in his chest. Chemotherapy at work. Hazel and Isaac are keeping him company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How are your eyes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Great. Wonderful. I mean, they're not in my head is the only problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I hate to one-up you but... seems my entire body is made out of cancer now, so... Isaac nods. Tries not to get emotional but it's happening goes to touch Gus's arm and accidentally touches his thig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whoa, I'm taken. Isaac laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Hazel, re: Gus) Did you write his eulogy yet? Hazel is confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I haven't asked her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Augustus? Gus looks at her, grows a little serious. 88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need speakers at my funeral. I thought maybe you and Isaac... but especially you --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would you be kind enough to whip something up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(touches his hand) It would be an honor. They hold holds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You guys are adorable. Hazel play slaps Isaac on the arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How's your love life? Anything from Monica?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not a word.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She hasn't even like, texted to ask how you're doing? He shakes his head. Gus gets an angry look on his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That is so messed up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've stopped thinking about it. Moving on. There's a new girl in Support Group with these humongous - Isaac gestures to his chest. Hazel is confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How do you even know that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm blind but I'm not that blind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel Grace! They turn to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you happen to have four dollars? 89.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No one knows what that means. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S CAR",
+          "text": "Gus is in the passenger's seat. Isaac sits in the back. H returns to the car. With a CARTON OF EGGS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok now what? Gus smiles. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT SUBURBAN STREET",
+          "text": "Hazel, Gus, and Isaac lean against Hazel's car staring something down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is it there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh it's there. REVEAL they're looking at Monica's green Firebird.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She's in the house?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who cares where she is? This is not about her. This is about you. (sticks out his hand) Hazel... Hazel nods, opens the egg carton, hands Gus an egg. Gus p it in Isaac's hands. Positions Isaac - who, of course, ca see a thing - towards the Firebird. Isaac winds up and tosses the EGG. It misses the car by a mile. After a beat:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I didn't hear anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A little to the left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My throw was to the left or I should aim to the left?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aim left. Isaac turns his shoulders. 90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lefter. Isaac turns some more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes! Excellent! And throw hard. Gus hands him a SECOND EGG. Isaac winds up and hurls it - missing the car again but hitting the HOUSE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bullseye!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No you missed it by like 20 feet. (hands him a THIRD) Try one more time. Isaac hurls it, this time smashing the car's taillight. Isaac's face lights up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Woo hoo! Isaac grabs for ANOTHER EGG. Throws it. Then ANOTHER. He' throwing machine. Most of them miss but at least he's enjoying himself. Finally there's a DIRECT HIT on the car door, triggering the alarm. Isaac pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Keep throwing, keep throwing! Isaac does. Gus smiles, putting an unlit cigarette in his mouth. Hazel watches him, enjoying this moment. Eventually, MONICA'S MOM opens the front door and comes o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What in God's name -- Seeing Hazel, Gus, and Isaac, she stops in her tracks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you Monica's mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello ma'am. Your daughter has done an injustice and we've come here seeking revenge. We may not look like much. Between the three of us, we have five legs, four eyes, and two and a half working lungs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But we also have two dozen eggs. So If I was you, I would go back inside. Monica's Mom is very confused. A beat. Without another wo she turns and goes back inside. The three of them celebra As Isaac picks up where he left off, Hazel gently kisses on the cheek. And over we hear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "A few days later, Gus landed in the hospital with chest pains.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HOSPITAL",
+          "text": "Hazel bounds in to find Mrs. Waters in the waiting room. stands to hug Hazel. They both sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How's he doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. WATERS",
+          "text": "He's had a tough night, Hazel. His blood pressure's low. His heart -- Mrs. Waters starts to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What about the chemo?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. WATERS",
+          "text": "(shakes her head) They're gonna stop the chemo. They both know what that means. Mrs. Waters gathers herse",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I see him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We have to be a family now. Hazel nods. She understands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. WATERS",
+          "text": "We'll tell him you were here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If you don't mind, I'll just hang for a while. Mrs. Waters nods, hugs her again, walks out through the h doors towards Gus's room. Hazel sits in the chair. Same c Gus sat in while waiting for her. They've switched places 92.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT INDIANAPOLIS MUSEUM OF ART",
+          "text": "Hazel pushes Gus, now confined to a WHEELCHAIR, to their on the hill overlooking \"Funky Bones.\" A second picnic, t time with champagne. Hazel pours some for them both into little Winnie the Pooh cups. She's trying to be upbeat - it's difficult. Gus watches the kids play on the bones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What are you thinking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oblivion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Augustus...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know it's kid's stuff but... I always thought I'd have a grand story to tell, you know? Something that would run in all the papers. I always thought I was special.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah but... you know what I mean. Hazel, annoyed finishes her cup, tosses it to the side. G can tell he's said something wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do know what you mean, I just... I don't agree. Hazel stands up, anger building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This obsession with being",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't get mad --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But I am mad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you're special, is that not enough?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You think the only way to live a meaningful life is for everyone to love you, for everyone to remember you. Well guess what, Gus, this is your life. This is all you get. You get me, and your family, and this world. And if that's not enough, well I'm sorry, but it's not nothing. Cause I'll remember you, I'll love you --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're right --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And I just wish... I just wish you'd be happy with that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're right. I'm sorry. (pulling her back down) I'm sorry. Gus hands Hazel another Winnie the Pooh cup. Raises his t hers in a toast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's a good life, Hazel Grace. She softens. They toast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's not over yet, you know. Gus nods. Of course it isn't. And yet they both know ther isn't much time. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S BEDROOM",
+          "text": "Hazel is asleep. Suddenly, her phone buzzes. She looks at \"Gus\" - then she looks at the clock - 2:35am. A pit grows her stomach. A quick panicked beat before she answers:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel Grace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, thank God. Hi. Hi, I love you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUS, (O.S.)",
+          "text": "I'm at the gas station -- 94.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUS, (O.S.)",
+          "text": "Something's wrong. You gotta... please come help me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT/ EXT HAZEL'S CAR",
+          "text": "Hazel drives like a maniac down the street, eventually finding herself at the Speedway gas station. Gus's car is alone in the parking lot and she pulls up ne to it. She gets out of her car, opens his driver's side d and finds him sitting there, his shirt stained with vomit blood. She gags from the smell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi. Hazel looks down at his hands which are pressed tightly t his belly. She sees something is leaking from the TUBE sticking out of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, God, Augustus, I'm calling 911.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No! Please! Hazel, listen to me. Do not call 911 or my parents -- I'll never forgive you -- Don't, please. Gus starts to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Please just look at it. Hazel lifts up his shirt. His ABDOMEN is bright red.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think it's infected... Hazel feels his forehead, he's burning up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gus, what the -- why are you here? Why aren't you home? Gus throws up. He doesn't even have the energy to turn hi mouth away from his lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, sweetie...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wanted to buy some cigarettes. I lost my pack. Or they took it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know. They said they'd get me another one but I wanted... to do it myself. Do one little thing myself. Hazel doesn't know what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't fix this. I have to call someone. I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, Hazel, please! But she must. She gets out her cell phone and dials. At w point, Gus really loses it, weeping like the poisoned, dy teenage boy that he is. As Hazel dials, we hear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "I wish I could say Augustus Waters kept his sense of humor till the end, did not for a moment waiver in his courage and his spirit soared like an eagle to the sky...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to himself, shaking) I hate myself I hate myself I hate this I hate this...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "...but that is not what happened. LATER. An EMT loads Gus into the back of an AMBULANCE. Ha is allowed to ride with him in the back. As the car start moving, Gus grabs her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Read me something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Read you something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you know any poems?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Read it to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"The Red Wheelbarrow\" by William Carlos Williams. (beat, tries to remember) \"So much depends / upon / a red wheel / barrow / glazed with rain / water / beside the white / chickens.\" 96.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is that it? That is it. But there's another ten minutes of driving to Hazel thinks fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No of course not. Um... what else...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "so much depends/ upon a blue sky/ cut open by the branches/ of the trees./ So much depends/ on the transparent G-tube/ erupting from the belly/ of the blue-lipped boy. Gus smiles, weakly, barely conscious. Hazel cradles his h in her arms. And continues...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So much depends upon this observer/ of the universe... As Gus is drifting off to sleep, WE HEAR:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "One of the less bull-shitty conventions of the cancer genre is the convention known as the \"Last Good Day...\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT GUS'S HOUSE",
+          "text": "Gus comes home from the hospital. He does not look good - he lives. Hazel is there to help get him inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT GUS'S HOUSE",
+          "text": "Gus no longer sleeps in his basement. Nor does he sleep i his own bed. He sleeps in a HOSPITAL BED set up in a gues room. Hazel is with him. They're watching sports on TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "This is where the victim of cancer finds himself unexpectedly with some hours...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT GUS'S BACKYARD PORCH",
+          "text": "Hazel and Gus getting some fresh air. She sits there read a book. Gus just sits there. His eyes staring off into nothing. Hazel waves to him. Gus looks over, as if waking from a dream. She manages a smile. He manages one back. 97.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "... when it seems like the inexorable decline has suddenly plateaued, when the pain is for a minute bearable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S DINING ROOM",
+          "text": "Hazel sits at dinner with her parents. She is barely touc her food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "The problem, of course, is that there's no way of knowing that your last good day is your \"Last Good Day.\" At the time, it's just another decent day. The phone buzzes and Hazel answers it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hi, Augustus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUS, (O.S.)",
+          "text": "Good evening, Hazel Grace. His voice is strong today, and Hazel is happy to hear it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUS, (O.S.)",
+          "text": "Quick question for you. Did you ever write that eulogy I asked you to prepare?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I may have...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excellent. Do you think you could find yourself at the Literal Heart of Jesus in 20 minutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um... sure. Is everything --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUS, (O.S.)",
+          "text": "I love you Hazel. The call ends. Hazel, confused, stands to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I gotta go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Finish eating first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't, I have to meet Gus. 98.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You haven't eaten a thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not hungry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You can't not eat, Hazel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am aggressively unhungry, ok?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel, listen to your mother. Hazel tries to push past her but Frannie grabs her should",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have to eat, Hazel. You're not gonna starve yourself to death just because Gus is sick. You have to stay healthy --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't! I can't stay healthy because I'm not healthy, Mom. I am dying. I am going to die and leave you here alone and you won't have me to hover around and you won't be a mother anymore, and I'm sorry, but I can't do anything about it, ok?! Just leave me alone! Upon seeing her mother's face change, Hazel immediately regrets this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You heard me? Frannie has tears in her eyes. Hazel looks away, feeling terrible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You heard me say that to your father? Frannie sits down on the couch with her daughter. 99.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh god, sweetie. I'm sorry. I was wrong, ok? It wasn't true. It's not something I believe. Michael sits across from them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As long as either of us is alive, I will be your mother. Even if you die, I --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Even when you die, I will still be your mother. I will always be your Mother. By now Michael is crying too. They all are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I worry that you won't have a life. That you'll sit around all day with no me to look after and stare at the walls and be miserable or off yourselves or something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're not gonna off ourselves. It's gonna hurt like hell to lose you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel. You of all people know it's possible to live with pain. She takes that in. It rings true to her. Hazel nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't just sit around, you know. Hazel is confused. Frannie looks at Michael like, \"should say something?\" She goes for it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm taking some classes. Online. To get my master's in social work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are? Hazel is stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So when you're waiting for me outside Support Group or whatever, you're always -- 100.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Working or reading. If I get my MSW, I can council families in crisis or lead groups dealing with",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why didn't you tell me? Frannie and Michael don't quite know what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We didn't want you to feel",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you kidding? Mom, this is awesome! This is fantastic! Oh my god! Hazel grabs her Mom for a hug.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so excited! You're gonna be so great, Mom!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you. That means everything to me. Mom and Daughter hug. And when it's over:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'd still really like you to eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know Mom. And I will. I promise. But right now... I really gotta go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT CHURCH",
+          "text": "Hazel enters the Literal Heart of Jesus room which is now empty except for Isaac, up on a dais, and Gus, in his wheelchair. Gus is thinner than we've ever seen him, thin than any young man should be. But for now, he's happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel Grace, you look ravishing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So, um, what's going on guys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Late for what exactly? 101.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gus gestures for her to sit next to him and she does.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wanted to attend my funeral. By the way, will you speak at my funeral? Hazel looks at him like \"of course, silly\" and then kisse him on the mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sweet. I'm hopeful I'll get to attend as a ghost, but just to make sure, I thought I'd - well, not to put you on the spot, but I thought I'd arrange a pre-funeral.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No time like the present.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(looks around the room) How did you even get in here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would you believe they leave the door open at night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Um, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As well you shouldn't. He smiles and for a brief moment it's old Gus. Hazel laug Isaac clears his throat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Augustus Waters was a self- aggrandizing bastard. But we forgive him. We forgive him... not because he had a heart as figuratively good as his actual one sucked, or because he got 18 years when he should have gotten more.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm assuming you've got some time, you interrupting bastard! I mean seriously... (back to the speech) \"Augustus Waters talked so much that he'd interrupt you at his own funeral. And he was pretentious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sweet Jesus that kid never took a piss without pondering the resonances of human waste production. And he was vain. But that comes with superhuman handsomeness.\" Gus nods - that part is true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"But I will say this: when the scientists of the future show up at my house with robot eyes and they tell me to try them on, I will tell the scientists to piss off, because I don't even want to see a world without Augustus Waters.\" Hazel smiles - but it's one that triggers an immediate emotional waterfall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"And then, of course, having made my rhetorical point, I will put my robot eyes on because, I mean... robot eyes!\" Gus has a big smile on his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"So anyway, Augustus, my friend... Godspeed.\" Gus nods a couple times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you Isaac. This causes Isaac to lose it. He clings to the lectern.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goddamn it, Gus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey don't swear in the Literal Heart of Jesus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shit! Ass! Balls! Isaac sighs. Wipes away the tears. And another beat passe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I get a hand here, Hazel? Hazel remembers Isaac can't see. She rises, goes up to ge him, walks him back to her seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel Grace, it's down to you. 103.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel takes out a piece of paper, walks up to the dais. T a beat to ready herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Augustus Waters was the great star- crossed love of my life. Ours was an epic love story, and I won't be able to get more than a sentence into it without disappearing into a puddle of tears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like all real love stories - ours will die with us, as it should. I'd hoped that he'd be eulogizing me, because there's no one I'd rather have...\" And that's all she can get out before falling apart. She it out for a couple beats and then pulls herself together",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(beat, composing herself) \"I can't talk about our love story so instead I will talk about math. I am not a mathematician, but I know this: there are infinite numbers between 0 and 1. There's .1 And .12 And .112 And an infinite collection of others. Of course, there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger than other infinities. A writer we used to like taught us that. I want more numbers than I'm likely to get, and God, I want more numbers for Augustus Waters than he got. But, Gus, my love, I cannot tell you how thankful I am for our little infinity. You gave me a forever within the numbered days, and for that I am eternally grateful. I love you.\" Gus smiles, nods, and closes his eyes. CUT TO: BLACK. Over which we hear a RINGING TELEPHONE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S BEDROOM",
+          "text": "Hazel turns on the LIGHT by her bed. Her HOUSE PHONE is ringing and it's 4am. She knows instantly. 104.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "Augustus Waters died eight days later in the ICU... Hazel's head falls into her chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "... when the cancer, which was made of him, stopped his heart, which was also made of him. Her bedroom door opens. It's Frannie and Michael. This on confirms her worst fears. She starts to cry. Her parents embrace her in the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "It was unbearable. The whole thing. Every second worse than the last.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HAZEL'S HOUSE",
+          "text": "Hazel sits in the car in the dark. She's blaring the loud music she can possibly blare - a means of drowning out th horrors of the world. Over which we hear this:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "One of the first things they ask you in the ER is to rate your pain on a scale from 1 to 10. I'd been asked this question hundreds of times and I remember once, early on, when I couldn't catch my breath and it felt like my chest was on fire, and the nurse asked me to rate the pain and though I couldn't speak, I held up 9 fingers. The loud music isn't protecting Hazel as well as she hope She falls apart nonetheless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "Later on, when I'd been feeling better, the nurse came in and she called me a fighter. \"You know how I know,\" she said. \"Because you called a ten a nine.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S BEDROOM",
+          "text": "Hazel puts on her funeral dress. She looks in the mirror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "But that wasn't the truth. The reason I called it a nine was... I was saving my ten. 105.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT CHURCH",
+          "text": "The place is filled today with mourners for Augustus Wate Hazel comes in with her parents and stands in the back, watching people she's never seen before approach the Wate family and extend their deepest condolences.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "And this was it. The great and terrible ten. When Mr. and Mrs. Waters see Hazel, they open their arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. WATERS",
+          "text": "He loved you so much. Hazel nods. Hugs them back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He loved you so much too. More MOURNERS approach the family, leaving Hazel stranded the receiving line. Her eyes turn towards the COFFIN. She not entirely sure she wants to go there but she takes a d breath, wills herself to walk towards it. Gus is there in the same suit he wore to Oranjee. Immediately, Hazel breaks down. And immediately, she catc herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's ok, you hear me? It's ok. She leans forward and kisses his cheek. She looks around. Once in the clear, she pulls out a hard pack of Camel Lig and sticks them in the space between Gus and the lining o the coffin. A MINISTER approaches at that moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think we're ready to begin. Hazel nods and walks back to her parents, taking her seat the middle of the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Augustus Waters fought hard for many years. His battle was a courageous one and his strength was a source of inspiration for each and every one of us... Hazel frowns. This is all such bullshit. And she hears:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What a load of shit, eh kid? Hazel recognizes that voice. But it doesn't make sense. S turns around and, sure enough, it's Peter Van Houten. 106.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let us pray. Everyone clasps their hands, closes their eyes. Hazel kee staring at Van Houten, too shocked to do a thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We need to fake pray now. Van Houten bows his head. Hazel, still stunned, slowly tu back to the Minister, trying to make sense of this unexpe appearance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now I call on Augustus's close friend Isaac to say a few words. Isaac stands, walks up to the podium with someone's help. Hazel sneaks one more look at Van Houten. Yup, it's reall him. That makes no sense to her. Isaac starts to speak.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of all the things I've lost in my life, this hurts the most. And Isaac stops talking. It's unclear if that was the end if he just can't go on. He returns to his seat. The Minis walks back up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And now we'll hear from Gus's... special friend Hazel Lancaster. Hazel stands, walks up to the podium. A few titters in th room at the words \"special friend.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was his girlfriend. Some laughter from the crowd. She takes out her notes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's a beautiful quote in Gus's home that reads \"if you want the rainbow, you gotta deal with the rain.\" Hazel continues to speak but we over it, WE HEAR instead:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HAZEL, (V.O.)",
+          "text": "I didn't believe a word, of course. But that was ok. Funerals, I'd decided, aren't for the dead. They're for the living. Gus's Parents, arm in arm, nod along with every word. CUT 107.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT CEMETARY",
+          "text": "Everyone is watching Gus's body be lowered into the groun Everyone but Hazel. She looks off into the distance. Off to the side, we see Van Houten, also not watching the burial. He's watching Hazel. CUT TO: LATER. Ceremony over, we see Hazel with her parents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you sure? We can drive you --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I'd... I'd like to be alone for a while. Hazel hugs Mom and Dad, walks alone towards the parking l As she gets to the car, Van Houten approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Could I hitch a ride? Hazel doesn't want to help this man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just to the bottom of the hill. Hazel exhales. Fine. Once they're both in the car:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How did you even --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The internet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And you just... bought a ticket?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The drinks are free drinks in First Class. Van Houten removes a FLASK from his coat pocket. Takes a swig. Hazel shakes her head in disgust. Starts driving.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Omnis Cellula e cellula. Hazel ignores him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your boy Waters and I corresponded quite a bit in his last --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You read your fan mail now? 108.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I would hardly call him a fan. He despised me. But he was quite insistent I attend his funeral and tell you what became of Anna and her mother. So here I am and that's your answer: omnis cellula e cellula.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so not in the mood --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Life comes from life.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goodbye Mr. Van Houten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't want an explanation?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nope. Thanks though. Have a great life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You remind me of her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I remind a lot of people of a lot of people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She was eight, my daughter. She suffered... beautifully. For so long. Hazel starts to understand Van Houten - and softens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She had leukemia? Like Anna?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just like her, yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Were you married then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not when she died, no. I was insufferable long before Anna, my dear. Grief doesn't change you, Hazel, it reveals you. Hazel takes that in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well I'm sorry for your loss. 109.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And I'm sorry for yours. I'm sorry for everything, for being so rude to you two, for ruining your trip --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You didn't ruin our trip, you asshole. We had an awesome trip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel, I'm trying. I'm trying! You asked me to tell you what happens and I wish I could do that. I wish that I could. But I can't. No one can. No one knows, Hazel. They don't talk to us. Unless... Van Houten takes out a typed piece of paper. He hands it Hazel who grabs it - and immediately crumples it into a b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You think I care about that? I don't give a shit, Van Houten. Hazel throws the piece of paper at Van Houten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're a drunk and a jerk and a failure. And I'd like you to get out of my car right now so I can go home and grieve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get out of the car! Van Houten knows he's too late. He does as he's told, stepping out of the car onto the side of the road. He sta there as Hazel peels out. In the rearview mirror, she sees him raise the FLASK, as toasting her. She blinks away some tears and drives. CUT",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT HAZEL'S LIVING ROOM",
+          "text": "Hazel lies in front of the TV. \"Top Model\" is playing but she's lost in her own world. Tears fall from her eyes and can't do anything to stop it. Hazel gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT BATHROOM",
+          "text": "Hazel sits against the tub on the floor and weeps. Soon there's a knock. 110.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Occupada.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MICHAEL, (O.S.)",
+          "text": "Can I come in? Hazel leans over and unlocks the door. Michael kneels dow next to her, putting her head on his shoulder. Hazel presses her face into his shirt and cries some more Michael squeezes her tightly. And this time, he doesn't c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm so so sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was a privilege to love him, though, wasn't it? Hazel nods into his shirt. Then looks up at her Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gives you an idea how we feel about you. Michael smiles at Hazel. And he doesn't cry. Hazel draws strength from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT ISAAC'S HOUSE",
+          "text": "Hazel and Isaac have climbed through his open bedroom win They sit on the roof.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you know if it hurt or whatever?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He was really fighting for breath, I guess. He eventually went unconscious, but it seems like, yeah, it wasn't great or anything. Dying sucks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It just seems so impossible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Happens all the time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you angry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Very. 111.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Me too. (a few beats) Gus really loved you, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He wouldn't shut up about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was annoying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I didn't find it that annoying. They sit there in silence a few beats.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you read the note or whatever from your author friend?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He is not my friend and -- how do you know about that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We talked at the cemetery. Said he came all this way to give you that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah well I'm over it. I never want to read another word of that asshole's again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah but he didn't write it - Gus did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's what he said. Gus had written something, sent it to Van",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hazel sits up. Her heart is racing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I... I have to go. I... Are you...? 112.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do it all the time. Go. As quickly as possible Hazel leaves. Isaac stays behind, enjoying the cool night. A new day is coming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT/ EXT HAZEL'S CAR",
+          "text": "Hazel is inside the car, rummaging crazily through the tr in an effort to find what Van Houten gave her. She's abou give up when she sees it - crumpled up into a ball beneat the passenger's seat. She reaches under, pulls it up, and unwraps it. As she reads, WE HEAR:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Van Houten, I'm a good person but a shitty writer. You're a shitty person but a good writer. We'd make a good team. I don't want to ask you any favors but if you have the time, and from what I saw you have plenty, please fix this for me. It's a eulogy for Hazel. Hazel is overcome with emotion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She asked me to write one and I'm trying, I just, I could use a little flair. See the thing is... we all want to be remembered. She smiles to herself, remembering: - That first time Gus and Hazel ran into each other. - The staring contest in Support Group.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We all want to leave a mark. - Driving (badly) in Gus's car. - Their first kiss at the picnic by \"Funky Bones.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But not Hazel. Hazel is different. Hazel knows the truth. She didn't want a million admirers, she just wanted one. And she got it. Maybe she wasn't loved widely but she was loved deeply. And isn't that more than most of us get? - And BACK TO HAZEL reading the letter, tears in her eyes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When Hazel was sick, I knew I was dying. But I didn't want to say so. 113.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT ICU",
+          "text": "Gus stealthily sneaks into Hazel's single room in the ICU She sleeps. He kneels by her side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She was in ICU and I snuck in for ten minutes and sat with her before I got caught. Her eyes were closed, her lungs were intubated... Gus takes her hand and holds it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "... but her hands were still her hands, still warm, and the nails painted this dark blue back color and I just held her hands and I willed myself to imagine a world without us and what a worthless world that would be. - AND BACK TO HAZEL reading the letter. She never knew th story, never knew he was there. CUT TO:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HAZEL'S HOUSE",
+          "text": "Hazel walks out to the grass behind her house, the oxygen tank dragging behind her. She lays down on the grass and looks up at the stars - the same IMAGE that opened the mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She's so beautiful. You don't get tired of looking at her. You never worry if she's smarter than you cause you know she is. She's funny without ever being mean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- The magical dinner at Oranjee. - The bench in which they sat overlooking the water. - The passionate kiss in Anne Frank's house. - Falling onto the bed together. [All of these are images we saw at the beginning of the movie, only now, we SEE the oxygen tank, we SEE Gus's leg SEE the fumbling and the difficulties etc. They don't mak these images less beautiful. They make them twice as beautiful - because they're real.]",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love her, god I love her. I'm so lucky to love her, Van Houten.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUS'S VOICE, (CONT'D)",
+          "text": "You don't get to choose if you get hurt in this world but you do have a say in who hurts you. - AND BACK ON Hazel in the grass. She holds the letter to chest. A single tear falls onto her cheeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I like my choices. I hope she likes hers. Hazel CLOSES HER EYES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok, Hazel Grace? A beat. Another. Hazel OPENS HER EYES. And she says to the universe:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ok. BLACK.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1992"
+    }
+  ]
+}

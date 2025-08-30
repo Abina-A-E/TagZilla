@@ -1,0 +1,4238 @@
+{
+  "movie_id": "MOV961",
+  "scenes": [
+    {
+      "characters": [
+        "MOUSTAPHA",
+        "DEAN",
+        "TIM",
+        "BOBBY LEE",
+        "MR. BUCKLEY",
+        "BOBBY",
+        "MINDY",
+        "FOUR FEATHERS, (O.S.)",
+        "BILL",
+        "DEBBIE",
+        "ED SULLIVAN",
+        "DAN",
+        "DISSOLVE",
+        "MOM",
+        "TERRY",
+        "MRS. BUCKLEY",
+        "FEMALE VOICE",
+        "PHIL, (O.S.)",
+        "DAD",
+        "MARYLOU",
+        "ACT TWO",
+        "RONNIE",
+        "FOUR FEATHERS",
+        "EVERYBODY",
+        "BRIAN",
+        "MARYLOU, BILL",
+        "PETE",
+        "ALVIN",
+        "PHIL",
+        "LEE",
+        "LORRAINE",
+        "FADE OUT",
+        "RONNIE, (0.S.)",
+        "ACT THREE",
+        "MAX",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Lorraine, you're still here? That’s exactly where | left you last night. Lorraine squints through the smoke wafting up into her ey",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I’m ready, Max. Nothing can stop me now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "You need to go to sleep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(waves her hand) Nah! | slept all the time when | was young. (points) I’ve made 500 flyers, you think that’s enough?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "| should think so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "And you'll help me hand them out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "That's why I’m here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Good. Y’know, Max, as I’ve stood here all night cranking this machine, it came to me that we’re standing at a crossroads.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "A crossroads to what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "To anew age.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "That's what they were all saying about Kennedy and Camelot and all that, but look what happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "\fIt's bigger than that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Yeah, | think you’ve been up too long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Hopefully, it will be a time when stuff like this . . . (waves flyers) . .. won't happen anymore. | mean, if we don’t do something right away these five boys will spend the rest of their young lives in jail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Hey, you don’t have to convince me. But their pre-trial hearing is Monday. If they go in there with some cracker, redneck, court-appointed attorney, they'll get life for s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| know! This could well be their last chance. That’s why it’s so important and that’s why I’m so nervous. This is the first important political action that I’ve personally organized. People just have to show up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "I'll be there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| mean, real people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Gosh, thanks a lot. (Lorraine smiles) Look, it’s an important cause, why wouldn’t they show up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(thinks) Um... to make me look bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Make you look bad to whom, if | may ask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is that what this is all about, Lorraine? Looking good?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No, not at all. It’s entirely about those five boys and the injustice that’s being done to them. | mean, if | don’t do something about it why should | expect anyone else to do anything, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "We all have to draw a line somewhere and say, “If you go beyond that line you have to deal with me, too.” At least, that’s what | think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Right. Me, too. You could always just tackle people out in the street and drag ‘em in kicking and screaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| might yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "| bet you would, too. But why do you do this, Lorraine, staying up all night, burning it at both ends?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Someone’s got to, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Do they? Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Because if nobody cares the whole world will go to hell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "But, Lorraine, you can’t save the whole world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No, but | can try. And step one is getting everyone to care about this issue, the Springfield Five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But you can’t actually make anyone else care about something, Lorraine. Not really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Oh, sure you can. These are old, time-worn techniques used by the wobblies before the war. But getting to a whole group at once, that’s the trick. That's where songs come in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "(skeptical) Yeah, but even songs won’t make someone care if they don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "If it's the right song being sung the right way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "| don’t think that’s true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(off-handed) Sure it is. Deep down | honestly think that people really want to do what's right and actually do care, they just need a little push in the right direction to ge them going, and that’s where | come in. Lorraine reaches into her sweater pocket and pulls out a finds empty and crumples.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Gotta smoke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "No. You're an idealist, Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I'm more than idealist, Max, I’m an instrument of God. Lorraine checks out the overflowing ashtray and spots a l out and lights it, then takes a sip of coffee. She winces",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Blah! How can coffee get colder than the room it’s in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "| don’t know. You going to the Purple Onion tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Oh yeah, sure. Got to. (she waves a pile of flyers) | have to get every single person at the Purple Onion tonight to come to my meeting Sunday. Those people are what | have to work with; they're my building materials and this meeting is my testing ground. If | have to yell and scream, I'll do it. If | have to whisper and sing songs, I'll do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "And you dig it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yeah, yeah, that, too. (snaps her fingers) That reminds me, have you got an extra guitar pick?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Not here. You can always use a matchbook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "They shred. That’s OK, I'll swing by the music store. Lorraine sits down and puts on her shoes. Max checks out Suddenly...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Lorraine, you drive me crazy! Why won't you go out with me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Look, Max, you’re my friend. Let’s leave it at that, OK?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "\f(frustrated) But | don’t want to leave it at that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "If there was something here, Max, we’d know about it by now, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "! know about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(shrugs) It takes two to tango.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "But what can | do, Lorraine? Lorraine smiles and hands Max a thick pile of flyers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Here. Hand these out. See ya later, alligator. Lorraine walks out of the office and Max watches her go, left. EXT. “STUDENTS FOR POLITICAL ACTION” OFFICE — DAY Lorraine exits the office and strides up the street immed flyers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Demand justice now! Free the Springfield Five! Most people take the flyers that are offered to them, alt discard them, some right on the street. When Lorraine see picks the flyer back up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(to herself) Slob!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. THE BUCKLEY HOUSE — DAY \f8 This is a small house in a neighborhood of nearly identic the shady street. A red 1960 Ford Falcon sits in the driv the Three Stooges playing on TV can be heard from within. the house. INT. THE BUCKLEY HOUSE/LIVING ROOM — DAY DAN BUCKLEY, a 14-year old wearing a Boy Scout uniform, s Stooges on TV and laughing. The doorbell rings. Dan dashe door. Two other 14-year old boys in Boy Scout uniforms co begin talking at once. Dan and his pals leave. MR. BUCKLEY and MRS. BUCKLEY enter the living room. Phil’ bowling shirt and holds a bowling ball up in front of his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "Be careful with that in the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Hon, please, I’ve got to get in the proper frame of mind, OK? (chuckles) Get it, “frame” of mind? Bowling. Frame",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "That's great, dear, you’re another Red Skelton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(imitates Red Skelton’s lisp) Good night and God blesh. (looks around) Where's Phil?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(shakes her head) Still in bed. Mr. Buckley looks at his watch and frowns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "It’s after ten, what’s with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "You tell me. Ever since he graduated high school and started work, he’s changed. He just doesn’t \fseem to give a damn about anything anymore. | don’t know what to do with him. Mr. Buckley considers this for a moment, then exits the l INT. HALLWAY OUTSIDE PHIL’S ROOM — DAY Phil’s Dad steps up to a closed bedroom door, tries the d",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Phil? You up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Aren't you supposed to be at work?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "| got the day off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "How come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "It just happens that way sometimes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Huh. Well, why don’t you get out of bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "Why? What's the difference? Mrs. Buckley steps up beside her husband.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Because it’s a beautiful day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "It's a beautiful day here in my bed, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "| don’t like this behavior, Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "\f10 Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Yeah. So get your ass out of bed!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "Yeah, yeah, | will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Do it soon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "All right. OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(shrugs) Y’know, Phil, if you waste this day, you'll never get it back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL, (O.S.)",
+          "text": "Yeah? Big deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(to her husband) You see?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Yeah, | see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "What can we do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "How the hell am | supposed to know? (he kisses his wife) | gotta go. See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "Bye. Phil’s Dad and Mom exit and we stay on Phil’s closed bedr INT. PHIL’S BEDROOM - DAY PHIL BUCKLEY, a tall, handsome, eighteen-year old boy wit \f11 his boxer shorts smoking a cigarette. Phil wears a can op his neck. The ashtray beside his bed is overflowing with languidly, the smoke drifting up from his nose. There are doesn’t notice. Phil reaches under the bed and comes out with a can of be opener, guzzles, winces, grins and belches. Phil glances over at the wall beside him. There are many magazines, as well as pictures of Tuesday Weld, Chuck Ber Mantle. Phil suddenly sits up, reaches over and grabs an against the wall and begins strumming it. Phil plays a variety of tunes and rhythms in a half-assed very good. He glances over at a book on his desk, “Beginn book and begins to play. He’s doing OK until he attempts sadly, his fingers don’t want to stretch that way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Ouch! Phil shuts the book. He walks over to his dresser, steps his arms, lowers his chin and proceeds to do a poor Ed Su",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Tonight we have a really big shew. | mean, a really, really big shew. Let's all give a very warm welcome to the talented, amazing, one- of-a-kind Phil Buckley! (he imitates the fans cheering; smiling humbly he picks up his guitar and imitates Elvis) Thank you. Thank you very much. I'd like to play my newest song which has been (continued) PHIL (cont.) number-one on the hit parade for over three months... Phil sits down on the bed, strums his guitar, but still i He thinks for a second, then puts down the guitar and dig drawers. He comes up with a cheap old microphone with a s on the end. Phil considers this situation for a moment, t and deftly cuts off the plug. He then splits the wire and \f12 Phil takes the mike over to his record player and connect the amplifier. Suddenly, feedback fills the room. Phil’s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Boss! He moves the mike away from the amp, then blows into it a breath through his speakers. Phil takes the microphone an his guitar and presto! It’s electric! Now he really start not particularly talented, simply enthusiastic. He does t across his room, guitar wailing. INT. KITCHEN — DAY Phil’s Mom is doing the dishes. She hears the strange, el around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "What on Earth? INT. PHIL’S BEDROOM — DAY Phil’s a rock & roll maniac playing to thousands of adori until — sproing! — one of his guitar strings breaks. Phil He scrutinizes the money on his dresser — he has one doll Nevertheless, a guitar with a broken string seems like a up, finally motivated to do something. He puts his guitar begins putting on his clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. CITY STREETS — DAY Phil walks along the street carrying his guitar case. Phi anything going on around him. He’s got a tune in his head on his face. He occasionally makes an Elvis Presley-style a grunt and we realize that Phil’s still on The Ed Sulliv the crowd reaction sounds, cheering and laughing. The beatnik kid MAX from the “Students for Political Acti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Free the Springfield Five! Let justice be done, \f13 man. Meeting on Sunday at the Purple Onion. Phil waves it away entirely uninterested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "No thanks. INT. MUSIC STORE — DAY This is the all-purpose variety of music store that sells all the accessories. Lorraine stands before a large varie guitar and deliberates. She chooses a pick, checks its th its bin. Finally, Lorraine makes her decision, chooses a counter and pays the portly, middle-aged CLERK a quarter. Lorraine strolls over to the sheet music. She flips throu likes and pulls it out—it’s Woody Guthrie’s song “This La plays the first several chords, humming the tune. Somethi and she walks to another part of the store, stepping behi woodwind instruments. Just then Phil steps up in front of the woodwind case, th guitar section where Lorraine just stood. He finds the gu fifty cents, half of his accumulated wealth. Phil resigns replaces his broken string. He sees the portly Clerk watc guy. The Clerk smiles back. Lorraine hands a yellow flyer to an OLD BLACK WOMAN, who looks at it with interest. Now Phil attempts to tune his guitar. He does a rather ha good enough—then spots the open sheet music in front of h Land.” Phil concentrates deeply, furrowing his brow, and first few chords of the song.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(singing) This land is your land This land is my land From California To the New York Island From the redwood forests To the Gulf stream waters This land was made for you and me— \f14 Lorraine steps up from behind and proclaims. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I love this song! Phil turns around and checks Lorraine out. He smiles his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Really? No kidding? Me, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(excited) Really? Come on, let’s play it together. Lorraine begins playing the song and Phil very hesitantly frequently at the lyrics.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(singing) As | went walking That ribbon of highway | saw above me That endless skyway | saw below me That golden valley This land was made for you and me (continued) LORRAINE & PHIL (cont.) This land is your land This land is my land From California To the New York Island From the redwood forests To the Gulf stream waters This land was made for you and me | roamed and rambled And | followed my footsteps To the sparkling sands Of her diamond deserts While all around me \f15 A voice was sounding, sayin’, This land was made for you and me The sun came shining And | was strolling And the wheat fields waving And the dust clouds rolling As the fog was lifting A voice was chanting This land was made for you and me Suddenly, everybody in the store, including the old black for the finale.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EVERYBODY",
+          "text": "This land is your land This land is my land From California To the New York Island From the redwood forests To the Gulf stream waters This land was made for you and me This land was made for you and me Everybody laughs, then returns to their business. Lorrain",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Wow! Did you see the way the music draws people in? It’s fantastic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, it sure is. So, you like music, eh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yes, very much. Do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh, yeah. Uh, my name’s Phil, what’s yours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Lorraine. (he puts out his hand to shake and she hands him a yellow flyer) There’s a really important meeting tomorrow night for the Springfield Five. \f16 Phil takes the flyer looking confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Is that a new band?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No! Don’t you read the newspaper?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Sure, but | must've missed it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "It's been the headline for the last week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "The neighbor’s dog grabs our paper all the time and chews it up. What’s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "The Springfield Five are five colored boys that were arrested for no good reason as they were driving down south to a civil rights rally. We're trying to get them out of jail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh. OK. Tomorrow night, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "At 8:00.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(frowns) But tomorrow's Sunday, y’know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yeah? So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So, Ed Sullivan’s on Sunday at eight. Lorraine grimaces with disdain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "\f17 Oh, that’s too bad. I’m talking about real problems in the real world here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| know, I’m just telling you that that’s not a good time for a meeting. Lorraine looks stricken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You think? | printed 500 flyers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shrugs) It may not mean anything, y'know, maybe he hasn’t got anyone good on the show this week. Lorraine suddenly looks like she’s got a headache. She re pocket and finds it empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Have you got a cigarette?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Sure. Wanna get a cup of coffee to go with it? Lorraine looks him up and down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(grins) OK. Caffeine and nicotine are my favorite food groups.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Don’t forget beer, it’s just like liquid bread. Lorraine laughs and she and Phil exit. INT. COFFEE HOUSE — DAY Phil and Lorraine both drink mugs of coffee and smoke cig",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Well, | worked for a while at a crisis phone line, \f18 but | got really tired sitting up all night listening to drug addicts moan about not scoring and pretending to be a marriage counselor. | didn’t really feel like | was part of the fight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(Phil nods, mesmerized) Right. Lorraine really looks at Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Do you know what | mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shrugs) No, not really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Haven't you ever had a feeling of pure empathy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(thinks, then shakes his head) I'm not sure. What's empathy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "It’s like sympathy, only you don’t feel bad for someone, you feel bad with them. (Phil digests this) Haven't you ever felt that way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh, yeah. “Lassie” does that to me almost every week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(shakes her head) TV again! Jesus! \f19",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "You don’t like TV?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No, | don’t. | think it makes people apathetic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "It’s just entertainment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "And some entertainment has value. But mindless entertainment is useless. What are some of your interests?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shrugs) Me? Oh, well, | have a wide range of interests.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(nods) Really? Like what? Phil suddenly feels cornered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, like everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(skeptical) Everything, huh? Interested in paleontology?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Do you know very much about paleontology?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(grins) I’m the foremost authority.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "\f20 OK. So, what's your favorite subject?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "You mean like in school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No, | mean like in life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh, that. Well...uh... music, | guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You sure don’t sound convinced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "No, | am. Music. Definitely. | wanna be a musician.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(surprised) Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You know, it’s really hard to be a musician. | take guitar lessons twice a week and that’s not nearly enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(skeptical) Well... It all depends on what you're after, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(confused) What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, that’s if you want to be, say, a good or great musician.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(nods) \f21 Right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, Bobby Darin doesn’t really have a great voice, but he’s a very successful singer. Or what about Bob Dylan? He can’t sing at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yeah, but he’s a great song writer. Phil waves his hand in total deprecation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "You can hire guys to do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yeah, so...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So, you don’t necessarily have to be good to be famous. Look at Dean Martin. Lorraine consider this for a second, then dismisses the w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "That's silly. Of course you do. What are you talking about? If it’s not their musical ability then it’s their presentation. It’s gotta be something. (Phil nods, good point; Lorraine remembers) Oh, y’know, tonight’s Hootenanny night at the Purple Onion, you have to come.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(confused) Hootenanny? Is that like when you square- dance and stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(laughs) No. Hootenanny night means that it’s open microphone for anyone that wants to get up and sing or play or read a poem or do anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f22 (nods) Will you be there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles and nods) Yes, | will. I’m going to sing a song tonight. You really should come, | mean, if you actually want to be a musician and all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Right. | do. And | will. Lorraine suddenly stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I’ve gotta go. So, will | see you tonight at the Purple Onion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Sure. Absolutely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) Great. Will you sing a song?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shrugs) Do | have to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No, you don’t have to do anything you don’t want to do. None of these people are professionals, it’s just a hootenanny. But let’s face it, Phil, if you can’t sing at a hootenanny you'll never be famous as a musician.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(nods) Right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) OK. See ya there if you’re there. \f23",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I'll be there. Nice meeting you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You, too. Lorraine departs. The Waitress steps up and hands Phil th leaves his entire 49 cents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(smooth) Keep the change, sweetheart. The WAITRESS snorts and Phil leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. “STUDENTS FOR POLITICAL ACTION” OFFICE — DAY Lorraine stands in front of the office handing out yellow A big, green 1963 Cadillac Sedan devVille with very point and stops. The car’s electric window comes down revealing their early 40s. They are Lorraine’s MOM and DAD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "Get in the car, dear, before someone mugs you. Lorraine sighs and gets in the back seat of the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(sarcastically) Thank God, saved at last. INT. CADILLAC — DAY Lorraine’s Dad guns it and the car pulls away quickly. Da",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "\f24 Did you forget you were having lunch with us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "No, | didn’t. | tried to, but | couldn't. Her Mom looks back at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "What have you got on your hands? Lorraine looks at her hands and sees purple stains.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Ink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "(smiles) It’s just your shade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yes, it is nice, isn’t it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "So, did you get an early start on solving the world’s problems today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "As a matter of fact, | did. | think I'll be having a very big meeting Sunday night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "| hope you do. But honestly, Lorraine, do you really think a bunch of college kids meeting in a low-rent downtown office are going to get those five Negro boys set free?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I certainly hope so. If nothing else it will raise people awareness of the problem. A line has to be drawn somewhere. Mom turns to Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "How did she turn out this way? \f25",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "It's got to be your fault, I’m never home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "You can say that again. Lorraine points at herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I’m my own fault. And where are we going for lunch, if | may ask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "The club.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(sighs) Unmitigated decadence, and the food’s not very good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "You were such a happy little girl, Lorraine. What happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| developed a social conscience.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOM",
+          "text": "Well it certainly hasn’t made you any happier, | can tell you that. Why don’t you go away to Europe for a while — say a year — and make up your mind there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| live here in America, mom. The problems of America are my problems. And my mind is made up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "Your mom’s not kidding, Lorraine. You want to go to Europe for a year, see the sights, go to school, don’t go to school. Anything you want, just say the word.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f26",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Oh, Dad, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "You were accepted to the University of Florence, weren't you? You loved Italy when we all went there a few years ago. You ran around the house talking Italian for months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(sighs wearily) This is such a bore. Lorraine’s Mom and Dad look at each other and shake their",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "So, Lorraine, how many people are you expecting at this rally of yours?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| don’t know. About a hundred, I’d say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "Well, how many chairs did you rent?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Fifty, but there’s twenty or thirty chairs there and | figure some people can stand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "How’re you getting the rented chairs there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(exasperated) Dad, please, I'll work it out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "Look, you want to be an organizer and organizers bring in the people. If they don’t bring in a decent crowd, you'll have to admit, they’re not worth much as an organizer, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(begrudgingly) \f27 Yeah, | suppose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "OK, how about this? If less than fifty people show up to your meeting, you consider doing something else. Anything else. More than fifty and I’ll shut up, for awhile. What do you say? But you have to give me a fair count.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "All | did was agree to go to lunch, I’m not here to negotiate any deals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAD",
+          "text": "Just think about it, OK? That's all | ask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Whatever you say. Lorraine sighs deeply, lost in the vast expanse of the ba sweater pocket, but she still doesn’t have any cigarettes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "INT. PHIL’S BEDROOM — DAY Phil sits on his bed noodling with his guitar. He has the glances at it over the top of the guitar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Folk songs, folk songs ... Crap! | don’t know any folk songs. (focuses on the newspaper) Hey! Lyndon Baines Johnson, Lady Bird Johnson, Lynda Bird Johnson and Luci Baines Johnson? They all have the same initials. How weird! Phil’s Dad walks past the bedroom door, sees the newspape",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "There’s the newspaper. What's it doing in here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I’m reading it. \fPhil sighs. 28",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Great day in the morning, what next? So, what’s up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Nothin’.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Y’know, I’ve been meaning to speak to you. (he comes in and sits down on the bed) So, Phil, what are you doing? You've been out of high school for six months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I’m working at the shoe store. Knockin’ ‘em dead, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "What does that mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "It means, Dad, that working at the shoe store is a bore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "You don't like it? Find another job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Like what? Working in a gas station?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Well, don’t you have some goal? Some ambition?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(guffaws) Yeah, | wanna be president and get my brains blown out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(shocked) \f29 That’s not nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "It sure wasn’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "What's with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Now come on, you must care about something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(timidly) Well...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Yeah? Goon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, | like playing the guitar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(confused) You took lessons for about three weeks, then dropped out. How serious can you be about that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(serious) Hey! People can be serious about things in their own ways, can’t they?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(unconvinced) | suppose. Look, Phil, what about college? His Father lights a Viceroy cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, well... I'll probably go to community college in the fall. \f30",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "| meant, a university. What about State? | went to State. Phil points at his Dad’s cigarettes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Could | have cigarette? His Dad shakes a cigarette out of the pack and gives him",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "You smoke too much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So do you. | didn’t get into State. His Dad lights Phil’s cigarette with a match, then his ow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "If your grades are good at the community college you could get in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah? Well... Phil shrugs and puffs on his cigarette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "You just don’t care, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Not about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "So what do you care about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Hey! Come on, Dad, lay off, will ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Fine. So what are you doing tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f31 | have a date. His Dad grabs the wastebasket and uses it as an ashtray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Really? Have | met her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Uh-uh. | just met her today at the music store. She’s a cute folkie girl that’s really committed to all kinds of things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(interested) Really? Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(waves his hand) Oh, you know, Negroes and equality and things like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(impressed) Yeah, things like that. Well, she sounds interesting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, she is. And cute, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Maybe you should become a folkie, then you’d be committed to all kinds of things, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I’ve been thinking about it. The conversation grinds to an uncomfortable halt. They bo other. Finally, his Dad points at the guitar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Go on, Elvis, play something. Phil quickly considers for a moment, then hits upon a pos \f32",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Wait a minute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| think I’ve got it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What song to play. Phil opens his beginning guitar book, finds what he’s loo play and sing “/f | Had a Hammer.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(singing) If | had a hammer ?’'d hammer in the mornin’ ’'d hammer in the evenin’ All over this land I'd hammer out danger ?’'d hammer out warnin’ l’d hammer out love between My brothers and my— Phil’s Dad looks at his watch and jumps to his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "—Holy Christ! Look at the time, | gotta get dressed. His Dad abruptly exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "—Sisters ... Phil sighs, picks up his cigarette, which has gone out, a takes his guitar over to the mirror and begins posing aga",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "The one, the only, Phil Buckley! \f33 Phil strums the guitar, adds in the sound of the cheering cigarette like he’s Frank Sinatra.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "INT. PHIL’S HOUSE/ LIVING ROOM — NIGHT Phil steps into the living room all dressed up and ready hand. His mother, father and brother all sit watching the eating TV dinners at folding TV tables (Ronald Reagan is Borax,” saying, “I’m standing here in a borax mine . . .” away from the TV for more than a brief second.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Where ya goin’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "None o’ your beeswax, ratfink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Phil's got a date with a folkie girl. This catches his Mother and brother's interest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "What's a folkie girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You know, mom, like Mary from Peter, Paul & Mary. She’s hot stuff, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "Oh, well, she is a lovely girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, but I’m not going out with her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "\f34 So, where ya goin’?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(hesitantly) To the Purple Onion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "That's a folk club, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(nods) Yeah, what of it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "So, what's up? Are you suddenly becoming a folkie like Bob Dylan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(embarrassed) Maybe | am and maybe I’m not!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "And you’re performing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(coughs) Yeah. All three look at him in astonishment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "But Phil, you don’t know how to play the guitar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yes | do. (everyone looks at him in silence) Kind of.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Well, just remember one thing, Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f35 Yeah. What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "The answer is blowin’ in the wind. This gets a laugh from his family as they all simultaneou suddenly mesmerized in rapt silence as a new show begins. EXT. PHIL’S HOUSE — NIGHT Phil gets outside holding his guitar case. He lights up a windbreaker jacket and poses like James Dean. He looks ba his family through the front window illuminated in flicke cigarette between his teeth and walks purposefully down t EXT. PHIL’S BLOCK — NIGHT (Digital Effect) Phil walks up the block, passing house after house that a them with the same flickering, radiant blue TV light illu flicks his butt, hunches his shoulders and heads off into",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT TWO",
+          "text": "EXT. THE PURPLE ONION — NIGHT Phil comes walking up to the front of the Purple Onion, a scene. There are folkies all over the place. All the men thin ties and the women are wearing skirts and dresses. T the boys, girls with their hair up or wearing babushkas, men and the women. Almost everybody smokes cigarettes. Phil approaches warily. Who are these people? He knows no that is, who stands in front of the club handing out flye",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Please come to this meeting tomorrow, it’s really important. See what you can do, OK? The person takes the flyer and one step later tosses it o pained, goes over and picks it up. She sees Phil standing over. \f36",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You made it. Phil steps up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| said | would, didn’t I. Lorraine gives him a hug and a kiss, which Phil finds ver his 34 flyer, but keeps holding onto his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yes, you did. Will you be here tomorrow for the meeting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(nods) Yeah, | think | will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You gonna sing a song tonight?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "What song?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I’m not telling. What song are you singing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "“If | Had a Hammer.” (Phil grimaces like he was kicked in the gut) What's the matter? Don’t you like it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f37 (grins painfully) No, no, it’s a great Peter, Paul & Mary song.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "It's a Weavers song. Peter, Paul & Mary re-did it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(not listening) Yeah, right, the Wheelers. They're great, too. Just then a slouchy fellow named TERRY, with thick, black long, shaggy hair, walks up and gets a big hug and a kiss distresses Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Hey, Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Hey, Terry. You made it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Said | would.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "This is Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Nice to meet you, Phil. He puts out his hand. Phil somewhat begrudgingly shakes T",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah. You, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(to Terry) Are you singing a song?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(frowning) \f38 Really? How come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "‘Cause | don’t want to. Phil looks at Terry with sudden respect, then glances dow — why the hell is he singing a song? Phil is about to bri turns away and yells.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Make way for the pregnant lady! A good-looking couple in their mid-twenties comes walking cases. They are ALVIN & DEBBIE and Debbie is six months p Lorraine hugs and kisses. Lorraine introduces Phil and Te",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Phil, Terry; Debbie and Alvin. Everybody shakes hands and says hello. Phil attempts to s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Uh, Lorraine — Lorraine is paying attention to Alvin & Debbie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "So, are you guys going to sing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "Yeah, we’re all signed up and everything. All | need is a few drinks first.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Me, too. Lorraine and Debbie both laugh. Phil looks at Terry who s then he turns back to Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Um... Lorraine points at Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "\f39 Phil's singing a song, too. Alvin slaps Phil on the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "Good, | thought maybe we were the only ones. Man oh man, we’ve been practicing our heads off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "I'll bet we’ve rehearsed this song a thousand times. Phil looks like he’s about to say something when Lorraine leads him inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Let’s get you signed up so you don’t miss your big chance to sing. Phil’s gonna be a famous singer some day, like Bobby Darin and Al Martino.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Boy oh boy are you in the wrong place. Lorraine hustles Phil inside and the others happily follo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "She means, Dean Martin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "| got news for you, Dean Martin wouldn’t be caught dead in this joint. INT. THE PURPLE ONION — NIGHT Lorraine, Phil and the others enter the Purple Onion, a s much full. Lorraine points down toward the stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I’ve got the front table staked out with my guitar. We'll be right there. Terry, Alvin and Debbie head to the table. \f40 Lorraine takes Phil over to the M.C., a 40-year old guy w behind a crude lighting board. The M.C. looks at Phil and M.C. Who’s he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "A friend. M.C. You sure have a lot of friends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "As a matter of fact | do, what's it to you? M.C. Nothing. Not a thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(nods at Phil) He wants to sing. M.C. Then sing out, my friend, sing out. What's your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Phil Buckley. M.C. OK, Phil there you go. The M.C. writes “Phil” at the bottom of the Hootenanny li listed above him. Phil gulps, thinking what have | done? M.C. Keep in mind, though, friend, that with ten acts ahead of you there’s a pretty good chance you won't get to go on at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(mumbles to himself) God willing. \f41",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(encouraging) Oh, now. You said you want to be a musician, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Here you go. (to the M.C.) Are we set for tomorrow? The M.C. steps up to Lorraine and whispers in her ear. M.C. Sure. Uh, Lorraine... ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yeah? M.C. (shakes his head) Later. Lorraine and Phil walk across the club.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(excited) I’m so glad Terry made it, | really think you two will hit it off. He’s really smart. | met him at a sit-in, and | met Alvin & Debbie at an SDS meeting. They are very committed to the cause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What cause?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "The cause of freedom and equality. \f42",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(nods) Oh. Right. That. (casually) By the way, what are some of your favorite folk songs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(thinks) Well, | really like Bob Dylan’s “Talking Word War 3 Blues.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shakes his head; sighs) | don’t know that one. The guitar is starting to feel like 500 pound weight to P",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Bring your guitar tomorrow night to the meeting and we can have our own little hootenanny after- ward. |’ll teach it to you. That sounds like a fine idea to Phil, who nods and grins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Boss. As they cross the room, Lorraine waves and says hi to jus wave and say hi back to her. Phil’s impressed. They arrive at the table down near the stage where Terry, drinking a pitcher of beer and are all smoking cigarettes Phil quickly sits on her other side. Lorraine leans across the table to speak and whispers wit Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "Wow! He looks like Troy Donahue. Where’d you find him? \f43",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "At the music store. | think he’s got potential, too. He just needs some guidance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "From you, perhaps?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(considers; looks at Phil) ... Perhaps. Phil and Terry look at each other past Lorraine’s shapely",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(to Phil) What song are you singing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I’m still thinking about it. What are some your favorite folk songs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "| don’t like folk songs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(confused) Then what are you doing here? Terry glances at Lorraine’s derriere, then up to Phil. Ph that he too is there for the same reason.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "You a student?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Uh, no. I’m gonna start at SCC in the fall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(grins) Harvard of the highway. It’s like high school with ashtrays. | went for a year. Workin’?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f44 Ata shoe store. You?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "| work on the college newspaper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(nods; impressed) Your parents rich?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "No, not really. (whispers and points) But Lorraine’s sure are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(interested) Really? But she seems so...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": ". .. Down to Earth?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah. Right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "It’s the rejection of the money. Very common.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(fascinated) It is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Sure, take a look around you. What do you see?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(looks around) People. Folkies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Middle-class to upper-middle-class white people, with just a few token Negroes thrown in for color, whose own self-hatred causes them to have to pretend to help other people less fortunate than themselves to ease their guilt. \f45",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(looks around) Huh. Across the table, Alvin & Debbie are having a discussion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "So, when will you start looking for a new job? You said after the New Year, well it’s February.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "But, Deb, | like my job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "You like your job? Come on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "All right, | don’t hate my job. I’ve had plenty of jobs I’ve hated, too. And then | don’t like waking up in the morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "But Alvin, dear, you don’t make enough money. We're going to need more money soon. We might even have to buy a house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "(holds up his hands) Whoa! Slow down, will you. I’m not ready for any of this. Debbie points at her protruding belly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "Too late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Hey! Come on you guys, you're out in public, remember.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "There are times when his complacency makes me want to kill him. \f46",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "But you've decided to have his child instead. Terry and Phil continue to talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So, you’re up at State?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(nods) Yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So, what are you taking up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Time and space.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(grins) I’m doin’ that right here, why go to State?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Less parental supervision. More parties. More chicks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "But don’t they make you take tests occasionally?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Occasionally, but school’s easy if you know how to do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So what are really studying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Computers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Computers, huh? You really are into weird stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Computers aren’t so weird. Someday there'll be \f47 hundreds of them, everywhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shrugs) Sure, if you say so. Lorraine sits back down between Phil and Terry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You boys getting acquainted? Both grunt in the affirmative. The bearded M.C. steps up onto the small stage and speaks M.C. I'd like to welcome everybody to the Purple Onion’s weekly Hootenanny night. This is the night when we get a preview of the up- coming folk stars of the future. I’d also like to announce a very important meeting to be held here tomorrow night to help arrange a defense fund for the Springfield Five. (Lorraine looks around and smiles) If you really care about the cause of freedom you'll make sure to be here. OK. Now let’s have some fun. Our first act of the evening is the husband and wife duo, Alvin & Debbie. Let’s give them a warm Purple Onion welcome. The audience applauds as Alvin & Debbie step up on stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "Thank you very much. But don’t get Debbie too excited, she might have the baby right here. Debbie elbows him the ribs and the audience chuckles. The energetic rendition of “Rock Island Line”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "(singing) Well the Rock Island Line \f48 Is a mighty good road Oh the Rock Island Line It is the road to ride The Rock Island Line Is a mighty good road But if ya want to ride Ya gotta ride it like ya find it Get your ticket at the station For the Rock Island Line Well | may be right And | may be wrong | know you’re gonna miss me When I’m gone Underneath the table, Phil edges his foot over until it's moves his foot the next inch so that his foot is now touc over and she gives no sign of anything other than being m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "Well the Rock Island Line Is a mighty good road Oh the Rock Island Line It is the road to ride The Rock Island Line Is a mighty good road But if ya want to ride Ya gotta ride it like ya find it Get your ticket at the station For the Rock Island Line Little Emmalina Sittin’ in the shade Countin’ all the money That we ain’t made Terry moves his foot until it’s touching Lorraine’s other situation, then throw a glance at both boys. They both sm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "Well the Rock Island Line Is a mighty good road Oh the Rock Island Line \f49 It is the road to ride The Rock Island Line Is a mighty good road But if ya want to ride Ya gotta ride it like ya find it Get your ticket at the station For the Rock Island Line The audience has enjoyed this very much and claps loudly Grinning, Alvin & Debbie return to their seats. Lorraine them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You see, those endless hours of practicing pay off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "(grinning) They sure do. Phil looks like he’s in pain. Debbie grabs the pitcher of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "| need a drink. Who needs refills? Everyone holds up their mug. Terry turns to Phil looking somewhat impressed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "That was pretty good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "So, uh, you a big folk music fan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shakes his head) No, not really. Folk music’s OK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "What kind of music do you like? Phil looks around to see if anyone is listening. \f50",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(lowers his voice) | like rock & roll.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Me, too. Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| like Elvis.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(nods) Yeah. He’s boss. And Chuck Berry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah. Lorraine returns to her seat between Phil and Terry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "What are you boys talking about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Rock & roll music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(waves it away) That's for children. (points at the stage) Now that was music! Bebop-a-lula? Tutti fruitti, oh Rudy? Come on, boys, grow up. Phil and Terry both feel chastised. Lorraine sees someone",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Excuse me a sec, I’ve got work to do. Lorraine picks up a pile of her flyers and heads off. Lorraine cruises around the club handing out flyers. Yell table and quickly used as coasters, folded and put into p written on them, corners torn off, one gets folded up and table. \f51 A yellow flyer comes down revealing four middle-aged peop ties and a woman in a dressy dress, all looking at the fl beer. They are: PETE, LEE, FRED and the woman is RONNIE. the FOUR FEATHERS. They all drink heartily and wave aroun",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "It looks good. How's it going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Good. We ought to have a lot of people. But | still need you guys to be there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "Need? Oh, come on, Lorraine, you can handle this. I’m sure you've got everything completely under control.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Well, yeah, | do, but still. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "Well, don’t depend on me being there. You've got to finally handle things on your own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "| remember the first meeting | organized. It was a garment-workers strike just after the war. Somewhere in Upstate New York.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Gloversville.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "That's right, Gloversville. Lordy, they almost tore the house down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "Those were the days. The Four Feathers all toast and drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "\f52 Good luck, tonight, you guys.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "Thanks, you, too. And | just know your meeting will be great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Absolutely. Lorraine walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(to herself) Shit! She’s not gonna be there. | was depending on her. The M.C. steps up beside Lorraine and takes her arm. M.C. Lorraine, you’ve got to help me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Sure, Marty, how? (he tries to speak, but all that comes out are inaudible noises) What is it? M.C. You just have to sleep with me, Lorraine. You have to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| do, huh? M.C. | love you Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Oh, for God’s sake. That's ridiculous. M.C. \f53 (stung) Oh, it is, huh? You want to use the club tomorrow, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(indignant) You already said | could use the club tomorrow. M.C. Right. | did. And | mean it, too. And | don’t expect anything in return, either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Don’t you? M.C. (smiles) Well...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| thought you honestly cared about the Springfield Five. M.C. (distracted) Who? Oh, them. Yeah, | do. But Lorraine, please think of the good you could do, for me. Please. Lorraine turns and walks away, her expression saying, “Wh Lorraine returns to her table and sits back down. At which point MOUSTAPHA HAKIM arrives. He is a black man dark suit and tie, a round leather, African hat, sunglass beat-up guitar. Terry looks relieved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Greetings, folk fans.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "You got here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "\f54 You didn’t think | would?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "No, no, | did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "And who are all of these nice-looking white people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "You know Lorraine. Moustapha shakes Lorraine’s hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(smiles) Lorraine. Always a pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "That's Alvin & Debbie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Alvin, Debbie. They both shake his hand and both look uncomfortable doin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "And this is Phil. Moustapha shakes Phil’s hand, then grabs a chair and seat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Be prepared, the blues’re coming. Terry leans over to Moustapha and nods toward the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Canwe...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Cool down, my friend. Everything in good time. Moustapha turns to Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(nods) \f55 You like the blues?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well... Like Chuck Berry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Chuck Berry. That’s your idea of blues?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, rhythm and blues. How about Muddy Rivers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "That's Muddy Waters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Right, but | hear he’s formed a group with Johnny Rivers. Moustapha turns to Terry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Come on, let’s go. Terry grins devilishly as he and Moustapha head off toget Lorraine turns back to Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Having a good time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "What do you think of Terry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "He’s interesting. \f56 The M.C. steps up to the small blackboard and erases Alvi of the list. The next name is “Bobby Lee.” M.C. Ladies and gentlemen, the Purple Onion welcomes back the angry, intense, and always energetic, Bobby Lee Baker! The audience applauds excitedly as BOBBY LEE BAKER, a bro dressed in black with a beret and a jazz patch. He steps cigarette smoldering between his lips irritating his eyes guitar, entirely ignoring the audience. He flicks his cig see that it lands in an inattentive WOMAN ’s drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOBBY",
+          "text": "We're living in a world of oppression. White people hold down the black people. Rich people hold down the poor people. Some- times it makes me so mad | can barely talk. Bile builds up in my throat and | can’t even spit. Those are the times when you'd kinda like to see the whole shebang go up in one big ball of fire, know what | mean? The audience looks back at him wide-eyed and silent. Bobb launches into an intense rendition of “/n My Time of Dyin picking, as well as the use of a bottleneck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOBBY LEE",
+          "text": "(singing) In my time of dyin’ Don’t want nobody to mourn All | want for you to do Is to take my body home Well, well, well So | can die easy Well, well, well So | can die easy Jesus gonna make up \f57 My dyin’ bed The Woman drinks her drink and her eyes widen as she swal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOBBY",
+          "text": "Well meet me, Jesus, meet me Meet me in the middle of the air If these wings should fail me, Lord Won't you meet me with another pair Well, well, well So | can die easy Well, well, well So | can die easy Jesus gonna make up My dyin’ bed Lord in my time of dyin’ Don’t want nobody to cry All | want you to do Is to take me when | die Well, well, well So | can die easy Well, well, well So | can die easy Jesus gonna make up My dyin’ bed There is a big round of applause. To everyone’s astonishm stands up and without a look back walks right out of the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOBBY LEE",
+          "text": "(to himself) Aw shit! Terry and Moustapha returned at some point during the son",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(impressed) Man, that was good. Phil looks like he has a headache.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f58 Yeah. (changing subjects) So, Lorraine said she met you at some kind of meeting, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah. SDS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Students for a Democratic Society.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "And you like try to get laws changed and stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(shrugs) They do. | go ‘cause there’s usually cute chicks there. (that seems like a good reason to Phil) And cute folkie chicks that are always screaming about freedom and equality sometimes put out, know what | mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(he knows) So, then you don’t really care about freedom and equality and civil rights?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah, sure | do, but not as much as getting laid. Terry wags his eyebrows. Phil grins. We see Lorraine’s stack of yellow flyers in her hand as s up to a table where three very cool-looking, beat-types s smoking cigarettes and don’t notice Lorraine . They are:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) Look, it’s the three dead beats. \f59 Dean, Bill and MaryLou all look around—where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Whoa... it’s Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU",
+          "text": "Hey, Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "(grunts) Urgh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Wow, you folks sure look mellow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU",
+          "text": "Yeah, we are.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "Mellowville.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Hooo! Lorraine furrows her brow and leans forward to MaryLou.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "What's wrong with you guys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU",
+          "text": "Wrong? Nothin’s wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "It’s all right. Everything’s right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "But you guys are acting weird. MaryLou pantomimes sticking a needle in her arm and winks looks horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You took heroin? \f60",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU, BILL",
+          "text": "(together, grinning) Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Really?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU, BILL",
+          "text": "(together) Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "But doesn’t it hurt? Y’know, the needle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU",
+          "text": "nods) A little. Then you throw up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "wide-eyed) Oh my No, it’s Yeah, i Right, tl Bill points at the yellow flyer: Hey, wi Itsami God, that’s disgusting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU",
+          "text": "reassuring) not. It’s fine. Really.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "’s fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "nods) hrowing up is just fine. Ss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "hat’s with that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "eeting I’m having here tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARYLOU",
+          "text": "Cool. Very cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BILL",
+          "text": "\f61 Knock ‘em dead, Lorraine. Save everybody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(sighs) Yeah, | will. See ya around. Lorraine turns and leaves, shaking her head in disbelief. sweater pocket and still doesn’t have any cigarettes. Jus",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) Gotta smoke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "As a matter of fact | do. Phil shakes two out of the pack, puts both of them in his same time—ala Paul Henreid—then hands one to Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) Very classy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "That's me. I’m the classiest guy you ever knew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(waves her smoke) So? What'dya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I'll join up if | get you in the deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "If only things were that simple. A female voice calls out...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FEMALE VOICE",
+          "text": "(0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lorraine! Over here! Lorraine sees a table with two couples in black and white \f62 this distance we can tell they are smashed. Lorraine winc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Oh, dear God, what'’re they doing here? (to Phil) | went to high school with these people. Lorraine and Phil step up to the table. The voice belongs year old girl in a black strapless evening gown and white tuxes. Mindy and Lorraine hug and kiss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Mindy, what on Earth are you doing here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MINDY",
+          "text": "You told us about this hootenanny thing on Saturday nights and we decided to come and see for ourselves. Are you singing tonight, Lorraine?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yes, | am. (points at Phil) So’s he. This is my friend, Phil. Mindy shakes Phil’s hand. She looks him up and down and o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MINDY",
+          "text": "Phil. This is Brian, Cheryl and Tim. I’m Mindy, Lorraine’s former best-friend. Phil waves and shakes hands. BRIAN says to Phil. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIAN",
+          "text": "Are you a musician? Phil glances at Lorraine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Uh, no. | mean, no. This is a hootenanny, anybody can get up and sing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIAN",
+          "text": "Right. Of course. Boy am! a square. \f63 Lorraine hands out flyers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "So now that you've started going new places, you should come to this meeting here tomorrow night, for the Springfield Five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MINDY",
+          "text": "| read about them. Terrible. Tomorrow night? Sorry, can’t make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "It’s really important, y’know. Couldn’t you try?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MINDY",
+          "text": "Sorry, it’s out of the question. So, when do we get to hear some music?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Soon. TIM raises his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIM",
+          "text": "No mixed drinks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Uh, no. Just beer. Tim and Brian turn to one another, both imitating Jim Bac",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIM",
+          "text": "| need an Old-Fashioned the old-fashioned way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIAN",
+          "text": "The way dear old dad used to make ‘em. Brian and Tim laugh. Lorraine turns to Tim.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "How about you, Tim? What are you doing tomorrow night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TIM",
+          "text": "(thinks) \f64 Sunday night? “Lassie,” then “Ed Sullivan,” then “Gunsmoke,” why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIAN",
+          "text": "Ring-a-ding-ding!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Never mind. See ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MINDY",
+          "text": "Bye, Lorraine. Nice meeting you, Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, you, too. Lorraine and Phil walk away. Lorraine looks back, then at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "The TV generation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Are you from another generation?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Apparently. (waves her hand) This one. Where some things still matter. Ring- a-ding-ding? “Lassie” and “Gunsmoke.” Good God! You people and your mindless amusements.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Hey, | didn’t invent this stuff. Blame Edison. Lorraine stops and turns to face Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "But it’s not reality, Phil. We live in reality, where there’s suffering and injustice and war.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f65 | think you forgot locust and cattle disease. Lorraine gets angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "It’s not funny!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shakes his head) Damn, you are one serious girl. What do you want to be when you grow up? Abraham Lincoln?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles) Or a modern female version of him. Phil takes Lorraine’s ink-stained hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| have a great idea that will help all of society.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "What's that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Let’s drink some more beer. Did | mention that beer is like liquid bread?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yes, you did. They sit down at the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well it is, you know. And dark beer is like pumpernickel bread. (pours beer) Sadly, this stuff is like Wonder Bread.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "But it's OK ‘cause then you don’t really get drunk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, but | like getting drunk. \f66 They toast and drink. The M.C. steps back up to the small blackboard and erases watches the M.C. erase the name, then looks down to his o of the list. There’s still seven people above him, but ne nervous. He glances at his guitar, then scratches his chi “Moustapha.” The M.C. steps up to the microphone. M.C. I'd now like to introduce a personal friend of mine... (he winks at Moustapha who shakes his head) . .. Moustapha Hakim! Moustapha stands holding his beat-up guitar and steps in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Greetings, ladies and gentlemen. I'd like to sing a song by the great Huddie Ledbetter, better known as “Leadbelly.” This man spent most of his life in prison. But even when he wasn’t in prison, he wasn’t (continued) MOUSTAPHA (cont.) free. In America Negroes are still slaves, sitting in the back of the bus, living in the ghetto, dying in poverty. The Springfield Five are just one more example of the American hypocrisy. The audience feels ashamed. Lorraine looks around and gri “Bourgeois Blues.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(singing) Me and my wife Went out on the town Everywhere we went The people turned us down Lord it’s a bourgeois town It's a bourgeois town | got the bourgeois blues I’m gonna spread the news all around \f67 Home of the brave Land of the free | don’t want to be mistreated By no bourgeoisie Lord it’s a bourgeois town It's a bourgeois town | got the bourgeois blues I’m gonna spread the news all around Me and my wife We were Starting upstairs | heard a white man say | don’t want no niggers up there Lord it’s a bourgeois town It's a bourgeois town | got the bourgeois blues I’m gonna spread the news all around (continued) MOUSTAPHA (cont.) The white folks in Washington They know how They call a colored man a nigger Just to see him bow Lord it’s a bourgeois town It's a bourgeois town | got the bourgeois blues I’m gonna spread the news all around Tell all the colored folks Listen to me Don't try to buy no home In Washington D.C. Oh Lord it’s a bourgeois town It's a bourgeois town | got the bourgeois blues I’m gonna spread the news all around There is a big round of guilty applause. \f68 M.C. Moustapha Hakim, ladies and gentlemen. Moustapha sits back down at the table beside Phil looking",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "The blues have come.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "And they were gone, man, solid gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "Thank you. They slap five. The M.C. gets back up on stage and erases Moustapha’s nam wince. Next on the list is “4 Feathers.” M.C. And now I'd like to introduce some Purple Onion hootenanny regulars, ladies and gentlemen will you please welcome the incredible harmonies of The Four Feathers! The Four Feathers take the stage. They are all reasonably of applause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PETE",
+          "text": "The U.S. and the Soviet Union continue to conduct atomic bomb tests, irradiating our land, water and skies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LEE",
+          "text": "We say, “Ban the Bomb!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE",
+          "text": "There’s only one world and we all have to live in it together. It’s time to wake up, people! The Four Feathers then proceed to do a beautifully harmon Corey.” \f69",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUR FEATHERS",
+          "text": "(singing) Wake up, wake up, darlin’ Corey What makes you sleep so sound? The revenue officer is comin’ Gonna tear your still-house down The first time | seen darlin’ Corey She was standing by the sea She had a .45 strapped around her bosom She had a banjo on her knee Go away, go away, darlin’ Corey Quit hangin’ around my bed That liquor has ruined my body Pretty women gone to my head (continued) FOUR FEATHERS (cont.) Oh yes, oh yes, my darlin’ I'll do the best | can I'll never give my pleasure To another gamblin’ man Dig a hole, dig a hole in the meadow Dig a hole in the cold, cold ground Dig a hole, dig a hole in the meadow Gonna lay my Corey down. The Four Feathers pause for a big round of applause, then the Saints Go Marching In” which brings on a bigger round",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUR FEATHERS",
+          "text": "(singing) We are traveling in the footsteps Of those that have come before And we'll all be reunited On a new and sunlit shore Oh when the saints go marching in Oh when the saints go marching in Oh Lord | want to be in that number \f70 When the saints go marching in And when the sun refused to shine And when the sun refused to shine Oh Lord | want to be in that number And when the sun refused to shine Phil looks like he’s having a heart attack. Lorraine puts reassuringly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUR FEATHERS",
+          "text": "Oh when the trum-pet sounds the call Oh when the trumpet sounds the call Oh Lord | want to be in that number Oh when the trumpet sounds the call (continued) FOUR FEATHERS (cont.) Some say this world of trouble Is the only one we need But I’m waiting for the mornin’ When the new world is revealed Oh when the new world is revealed Oh when the new world is revealed Oh Lord | want to be in that number Oh when the new world is revealed Oh when the saints go marching in Oh when the saints go marching in Oh Lord | want to be in that number When the saints go marching in The Four Feathers bring down the house. The audience clap Lorraine, Terry and the whole table join them loudly. Phi total panic. His hands are sweating and he looks nauseous",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(to no one in particular) I think | gotta go. Phil starts to stand and Lorraine reaches out and takes h \f71",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| can’t do this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Sure you can. You'll be fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(seriously) No, no, you don’t understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(smiles reassuringly) Of course | do. Everyone feels this way their first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, but these people are really good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Right. And their not professionals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, but they really seem to... care.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Well, don’t you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(good question) Um... Lorraine spots someone she knows and quickly exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "‘Scuse me. Phil is in a deep quandary. He glances over at the door—h one would be the wiser. Meanwhile, Terry is watching him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "What's wrong? \f72",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(sighs deeply) Lorraine is doing the song that | was gonna do. | was all ready, too, y'know. | practiced the song like a hundred times. But now I’m screwed. Terry takes pity on Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Come with me. Everything’ll be just fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Just come on. Terry leads Phil out the back door. EXT. THE PURPLE ONION/ALLEY — NIGHT Terry and Phil come out into the under-lit alley behind t a big, fat, crooked cigarette. Phil can’t believe it. He they're alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shocked) That's marijuana, isn’t it? Terry nods, lighting up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Say it louder, maybe a cop’ll hear you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(frightened) But, it’s illegal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Doesn't it lead to hard drugs like morphine and heroin? \f73",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(grins fiendishly) Whoa! Slow down, tiger. One step at a time. Terry hands Phil the burning joint. Phil hesitantly takes brief moment of consideration, shrugs, then takes a hit. INT. THE PURPLE ONION — NIGHT Lorraine sits back down in her seat, looking somewhat emb her hair. She notices that Phil and Terry’s chairs are em though people are looking at her and pulls her sweater cl the microphone, grinning, his hair askew. M.C. Ladies and gentlemen, I’m proud to welcome back a Purple Onion regular, a dedicated fighter for equality and justice, and the organizer of the Springfield Five defense fund meeting here tomorrow at eight. Let’s give a warm hand to Lorraine Dempsey! Lorraine throws a last look at the empty seats on either used to be, shakes her head, smiles and heads up on stage",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Sometimes it’s not easy to do what's right. We're always tempted to go the other way. To take the wrong path. And sometimes we don’t even know which path we’re on. Justice, freedom and equality are not just words. They’re goals that we have to work for. That's why | strongly urge you to be here tomorrow night at eight P.M. for a very important meeting. We can make a difference . . . EXT. THE PURPLE ONION/ALLEY — NIGHT Phil and Terry are just finishing the joint. Their eyes a They're stoned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(grinning) \f74 Man, If | had a hammer I'd hurt myself. They both laugh like total idiots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "So, what’dya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "About what? (Terry waves his hand, Phil grins) Oh, yeah. Boss. Is it always like this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "This?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Wow. How much is this stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Pretty cheap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "And you got it from... um (he can’t remember) That Negro man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Moustapha. Right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Does he grow it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "No, man. He gets it from someone else who gets it from someone else who brings it from Panama or Mexico or wherever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f75 Wow! Too much! | feel like I’m in Panama or Mexico or wherever now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah. | know what you mean. Wherever’s where it’s at.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "And that’s where we are. Where it’s at.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah. They start laughing idiotically again. INT. THE PURPLE ONION — NIGHT Lorraine proceeds to sing “/f | Had a Hammer’ in a pretty",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(singing) If | had a hammer ?’'d hammer in the mornin’ ’'d hammer in the evenin’ All over this land I'd hammer out danger ?’'d hammer out warnin’ ’'d hammer out love between My brothers and my sisters All over this land If | had a bell I'd ring it in the mornin’ I'd ring it in the evenin’ All over this land I'd ring out danger I'd ring out warnin’ I'd ring out love between My brothers and my sisters All over this land If | had a song — EXT. THE PURPLE ONION/ALLEY — NIGHT \f76 Terry is holding forth to a stoned and completely rapt Ph",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Elvis and Chuck Berry and Little Richard and Jerry Lee Lewis all had their careers taken from them, man. Where'd they all go? What happened to rock & roll? They were stopped, drafted, arrested, persecuted. Their careers were stopped. Why? It’s because there’s a conspiracy to stop rock & roll, and I’m telling you it’s the same guys that killed Kennedy. Phil has no idea what Terry’s talking about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Killed Kennedy? Lee Harvey Oswald killed Kennedy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "(lights up) Ah ha! That’s what they’d like you to believe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Then Jack Ruby killed Oswald.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Pretty convenient, huh? Get rid of the patsy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "But | saw it on TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah? | see “Howdy Doody” on TV but that don’t make it true. Phil looks all around, freaking out. INT. THE PURPLE ONION — NIGHT Lorraine finishes the song with a flurry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Well, | have a hammer \f77 And | have a bell And | have a song to sing All over this land It's the hammer of justice It’s the bell of free-e-dom It's a song about love between My brother and my sisters All over this land Lorraine receives a big round of applause. She glances at furrows her brow. The audience hollers for “More!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "All right. Now we’re all gonna sing a song together, because we all have to stick together if we’re gonna make things better. And we can all start by being here tomorrow night at eight to help put together the defense fund for the Springfield Five. OK? Now, instead of singing “the” union, let’s all sing “our’ union, OK? And if you don’t know the verses, just join in for the chorus. Lorraine begins to play the melody to “The Battle Hymn of becomes “Solidarity Forever.” The audience hesitantly joi with each chorus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(singing) Solidarity forever Solidarity forever Solidarity forever For our union makes us strong. When our union’s inspiration Through the worker's blood shall run There can be no power greater Anywhere beneath the sun Yet what force on Earth is weaker Than the feeble strength of one But our union makes us strong Solidarity forever Solidarity forever \f78 Solidarity forever For our union makes us strong. It is we who plowed the prairies Built the cities where they trade Dug the mines and built the workshops Endless miles of railroad laid Now we stand outcast and starving ‘Mid the wonders we have made But our union makes us strong (continued) LORRAINE (cont.) Solidarity forever Solidarity forever Solidarity forever For our union makes us strong. They have taken untold millions That they never toiled to earn But without our brain and muscle Not a single wheel will turn We can break their haughty power Gain our freedom when we learn That our union makes us strong. Solidarity forever Solidarity forever Solidarity forever For our union makes us strong. In our hands is placed the power Greater than their hoarded gold Greater than the might of atoms Magnified a thousand fold We can bring to birth a new world From the ashes of the old For our union makes us strong. (Lorraine call out) Now, come on! Everybody! (everybody joins in) Solidarity forever Solidarity forever Solidarity forever \f79 For our union makes us strong. There is the biggest round of applause of the evening. Ev Lorraine returns to her table to the smiles of her friend two empty seats and frowns. Debbie is drunk and gives Lor another cigarette, which Lorraine gratefully takes. Alvin belly while drinking and smoking with the other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "(drunk) Good job, Lorraine. Solidarity forever!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "(drunk) That was great, Lorraine, just great. (points at Debbie’s belly) This kid is gonna grow up in a better world than what we got. What we got was shit. Old and worn- out and busted. Lorraine looks all around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Have you seen Terry or Phil? Alvin and Debbie look around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "No. Lorraine stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I'll be back in a sec. Lorraine leaves. Debbie drunkenly turns back to Alvin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "And that’s why you've got to get a better job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALVIN",
+          "text": "Oh, Jesus Christ! | don’t give a shit about a better job, can’t you get that through your thick skull?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEBBIE",
+          "text": "\f80 | get it, but I’m not buyin’ it. Phil and Terry return and they’re toasted and giggling. T thumbs-up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "I'll go get some more beer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Good thinking. Phil sits down beside Moustapha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So, uh... Moustachio—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "—Moustapha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Exactly. So, what's it like being a Negro?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(laughs) Boy, you are stoned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(looks around) Yeah? | guess so. Everything has sort of an echo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "“What's it like being a Negro?” Shit! What’s it like being a silly little stoned white boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(grins foolishly) Not bad. Pretty good, actually.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "But that wears off. Bein’ black don’t. Everywhere you go, all the time, you still a Negro, and you’re generally outnumbered, unless you're in the ghetto. All the white folk are friendly here tonight, but that don’t mean they won't be back out lynchin’ niggers \f81 again tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(this is heavy) Wow!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(sarcastic) Wow! Golly gee-whiz! (points at Phil) | was down in Birmingham last year for Dr. King’s big march, the one where he got arrested. You hear about that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Uh... maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(shakes his head sadly) Shit! You don’t know anything, do you? Your head’s as empty as a bucket, that’s why you hear an echo. What're you doin’ here, anyway? You ain’t no folkie. You ain’t committed to no causes. Phil points at Lorraine who is talking to a guy at anothe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "She invited me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOUSTAPHA",
+          "text": "(laughs) Yeah, the great recruiter, Sweet Lorraine. (gets serious) Y’know, man, we all stand for somethin’, even if we don’t know what it is. You can either stand for something on purpose or by mistake, but either way you still do. Think about it. Phil does think about it. When he looks up Moustapha has left sitting at the table. He immediately gets paranoid, looking at him. He can’t figure out what to do with his h nails. He stops himself and lights a cigarette from a pac \f82 Lorraine sits down beside Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You missed my songs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "You sang more than one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Two. They went over very well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well that’s cool. She looks Phil in the eyes and shakes her head in disappr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(whispers) You and Terry smoked pot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(stutters) Um... Thatis... We,uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(shocked) That's so irresponsible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What'dya mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Phil, you’re about to go on. Phil waves his hand, smiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "No, no, no. There’s still gotta be six or seven people ahead of me. He said they probably wouldn’t get to me anyway. Phil points at the blackboard and there are still quite a the M.C. suddenly picks up the eraser and erases all the Now Phil is next. Phil’s mouth drops open in panic. \f83 M.C. Due to several last minute cancellations, may | introduce one more good friend of Lorraine’s, Phil Butler! Phil gets a squeeze on the arm from Lorraine and a thumbs Alvin and Debbie. Phil makes his way onstage, which is a very long walk. He strums his guitar, coughs, squints up at the bright light",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "That’s Buckley, not Butler. The audience could really give a shit less. And sadly, Ph what to play. This is the worst moment of his entire life hearing and sight — he can hear people breathing, puffing chairs, all looking at him expectantly. Phil moves closer to the lower, guitar microphone and get shoves the microphone into the hole in the guitar and pro version of “If | Had a Hammer.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "If | had a h-h-h-hammer Pd h-h-h-hammer in the mornin’ I'd h-h-h-hammer in the evenin’ All over this crazy old land, oh yeah! There is a big solid moment when the audience has absolut watching. They look befuddled. Phil doesn’t care. In for goes for it...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "l'd-a hammer out danger ?’'d-a hammer out warnin’ ’'d-a hammer out-a love between My brothers and my sisters All over this land Phil does the Chuck Berry duckwalk. The audience is suffi begin to clap along, hooting and hollering. Phil grabs tw together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If | had a bell I'd ring-a-ding-ding it in the mornin’ I'd ring-a-ding-ding it in the evenin’ All over this land I'd ring-a-ding-ding out danger I'd ring-a-ding-ding out warnin’ I'd ring-a-ding-ding out love between My brothers and my sisters All over this land If | had a song You can just bet I’d sing it in the mornin’ And I'd sing it in the evenin’ All over this nutty old land I'd sing out danger I'd sing out warnin’ I'd sing out love between My brothers and my sisters All over this land (gives a big pelvis shake) Ha! There is a huge round of applause for Phil. He takes a bo turn of events. The M.C. comes on. M.C. That's Phil Buckley, not Butler. Sorry about that, buddy. Very funny routine. You ought to be on Ed Sullivan. Anyway, thanks for coming to the Purple Onion’s weekly Hootenany. And don’t forget about the defense fund meeting for the Springfield Five tomorrow. And thanks for coming. Last call. Many people stand up to leave. Lorraine looks at Phil in astonishment as he gulps down a slaps Phil on the back. 84 \f85",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "This guy is a wild man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| can’t decide whether that was inspired or just pure nonsense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Does it matter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| don’t know. They all stand to leave. As everyone files out we can see strewn hither, thither and yon. Lorraine sighs, picking s exits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. THE PURPLE ONION — NIGHT In front of the club Phil and Terry are watching Lorraine give out yellow flyers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Remember the meeting is here tomorrow at eight. Many people say that they'll be there. Finally, the only Terry. Lorraine confronts Phil and Terry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| can’t believe you missed my songs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(abashed) Sorry. Lorraine steps up to Phil’s side and takes his arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Goodnight Terry. \f86",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah, goodnight Terry. Nice meeting you. Terry sees what's what.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Yeah, you too. ‘Night, Lorraine. Terry leaves. Lorraine and Phil look at each other. The n building go out, plunging Lorraine and Phil into darkness",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You hurt my feelings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Sorry. Did you like my song?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Honestly, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(hurt) You didn’t?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You faked it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "But they liked it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(confused) Hmmm... Phil takes advantage of this moment and kisses Lorraine. other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "I’m not really sure | like you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(grins) \f87 Me neither. He kisses her again. Just then the M.C. steps out of the separate. The M.C. sees them lurking there. M.C. Is that you, Lorraine?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Yeah, it is. M.C. Still recruiting for the cause?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Up yours! M.C. Goodnight He leaves. Lorraine and Phil kiss again, longer. Lorraine",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "See you tomorrow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Absolutely. Lorraine walks away and Phil watches her go. Finally, Phi direction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACT THREE",
+          "text": "A title reads: “Sunday, February 9, 1964”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FADE IN",
+          "text": "EXT. PHIL’S HOUSE — DAY The morning sun shines over the top of Phil’s house. Phil out of the garage, pulls the rope and starts the noisy en INT. PHIL’S BEDROOM — DAY \f88 Phil lies in bed asleep. The sound of the lawnmower engin glances at the clock and sees that it’s after 10:00 A.M. life. He looks down at the pillow and sees a three-inch c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(to himself) | feel like | got hit on the head with a hammer. Phil glances over at his dresser where three folded-up ye scratches his head and a wistful smiles crosses his face",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(to himself) Sweet Lorraine. (smiles) | knocked ‘em dead. They loved me. INT. PHIL’S HOUSE/HALLWAY OUTSIDE BATHROOM — DAY We can see the closed door of the bathroom and hear the w We can also hear Phil singing in the shower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(O.S./singing) If | had a h-h-hammer ?’'d hammer a lot Then I'd h-h-hammer some more Then I'd hammer on the door ’'d h-h-hammer all the nails Stickin’ out of the log Then I'd h-h-hammer all the ants And I’d hammer all the dogs Phil’s mother and his brother meet in the hallway, stop a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "What's with him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(shrugs) | guess he had a good time last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Holy Toledo, | sure hope he doesn’t turn into \f89 a folkie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(sighs) It might be good for him. He’s seemed awfully aimless lately. And those folk people do seem to care about things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(skeptical) Yeah, | guess. But Ma...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "Yes?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(confused) Do people just change like that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(shrugs) Sometimes, | suppose. His mother walks away. Dan considers her words for a seco away. Phil keeps right on singing in the shower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(O.S./singing) I'd h-h-hammer all the bugs Then I'd h-h-hammer all the bats Then I'd h-h-hammer all the cats Then I'd h-h-hammer all the gnats . . . INT. PHIL’S BEDROOM — DAY Phil stands in front of his mirror with wet hair, his gui poor Ed Sullivan imitation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "We have a really big shew. For all of you folk fans that like Bob Dylan and Peter, Paul & Mary, | now give you the new voice of the nation, Phil Buckley! The crowds cheer wildly. Phil acts humble as he raises hi \f90",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Thank you, thank you. EXT. PHIL’S HOUSE — DAY Phil’s father is raking up the cut grass on the front law",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Here, let me help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Excuse me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Let me help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(amazed) Huh. I’m not sure I’ve ever heard you say anything like that before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(seriously) Look, dad, if we’re all gonna get by in this world then | guess we’d better pitch in and help each other, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Right. He hands Phil the rake. Phil shrugs, takes it and begins piles of cut grass and puts them in a trash can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "So, how was your date last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Good. Real good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "And you got up and sang?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yep. And they liked me, too. \f91",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Well, I'll be damned. I’m really glad to hear it, Phil. So you’re going to become a musician now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Dad, | am a musician.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "(shrugs) OK. All right. You sure got your money's worth out of those two weeks of guitar lessons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(defensive) It was three weeks, OK? And I’d’ve kept it up, but my fingers hurt really bad, all right? His father throws his hands up in capitulation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "All right, all right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "INT. PHIL’S HOUSE/KITCHEN — DAY Phil’s mother makes lunch while Phil lectures her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Is it right for a woman to make less money doing the same job as a man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "Of course not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "That's right. And is it right for Negroes to have to sit at the back of the bus?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "Well, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "\f92 That's right, no. It’s time to stand up and let our voices be heard. His mother scoops gobs of mayonnaise into the tuna fish a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "So you sang a song last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "How'd it go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(casually) Great. They loved me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(surprised) Really? That’s very nice. Phil walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh yeah, they’re a good crowd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. PHIL’S HOUSE/BACKYARD — DAY Phil and Dan play catch with mitts and a hardball in the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So then the same guys that stopped rock & roll killed Kennedy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(fascinated) Really? How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "It's very complicated and you probably won't \f93 understand, but it’s what’s called a “conspiracy,” which means that a bunch of people were involved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Yeah? How many?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| don’t know, but a bunch. So then, after they stopped rock & roll by sending Elvis away to the army, they decided they had to kill Kennedy to keep him quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Really? That's creepy. What else did they do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "They set Lee Harvey Oswald up as a patsy, then had Jack Ruby shoot him to shut him up. Dan is horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "Do mom and dad know this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(shrugs helplessly) Probably not. They accept anything they’re told. Just like robots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. THE PURPLE ONION — DAY Max, the beatnik, loiters around in front of the Purple O Lorraine comes driving up in her parents’ enormous green of space jammed with wooden folding chairs. The trunk bul with twine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "(shakes his head) Wow! What a Jew canoe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "That’s not nice. \f94",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Lorraine, time to get a sense of humor. | was kidding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Disparaging remarks about religion aren’t funny.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "What's wrong with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Where were you last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "| hung out with some buddies, why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You said you were coming to the Purple Onion?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "| didn’t make it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Then why’d you say you were coming?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Lorraine, | don’t owe you anything. I’m here unloading chairs out of a sense of commitment, not out of guilt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "| just don’t like it when people say things and don’t do them, that’s all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAX",
+          "text": "Yeah. Well get used to it. Max and Lorraine silently unload the wooden chairs and le Both of them throw hurt, reproving glances at one another",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "INT. PHIL’S BEDROOM — NIGHT Phil is getting dressed and rehearsing in front of the mi \f95",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(to himself) And | say, the Springfield Five must be freed or none of us is safe. If five Springfield youths can be put in jail for absolutely no good reason, then | say, who’s next? (turns and yells) Mom!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(0.S,)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Have | got any clean socks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "(O.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the laundry room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Thanks. (continues) So | say, free the Springfield Five, that’s what | say. And damnit, | mean what | say. Phil exits his bedroom. INT. PHIL’S HOUSE/LIVING ROOM — NIGHT Phil steps into the living room once again dressed up and hand. He finds his family in the exact same positions he TV tables watching TV. Dan looks at Phil and shakes his h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "You're not going back to the Purple Onion again, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What if | am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(total disdain) \f96 Nothin’. Only Ed Sullivan is about to go on now and The Beatles are gonna be on show tonight, that’s all. Phil is stricken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "The Beatles. Uh! | have to see them!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "So sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "But | told this girl I'd go to her stupid meeting. She gave me three flyers. He pulls out the three yellow flyers. Dan points at him a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "(grins fiendishly) Ha ha! Phil is paralyzed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MR. BUCKLEY",
+          "text": "Now Phil, you told this girl you’d attend the meeting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MRS. BUCKLEY",
+          "text": "That's right, Phil. And what about the rights of the Negroes and women? Dan looks right at Phil and speaks flatly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAN",
+          "text": "The Beatles, Phil. “She Loves You, Yeah, Yeah, Yeah,” “| Wanna Hold Your Hand,” “Twist & Shout.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(immobilized) Uh... INT. THE PURPLE ONION — NIGHT \f97 Lorraine comes rushing into the Purple Onion in a fluster bags, as well as her guitar. The M.C. is waiting for her M.C. For God’s sake, Lorraine, I’m gonna miss Ed Sullivan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Oh, for goodness’ sake, Ed Sullivan is just an old gossip columnist. M.C. (befuddled) There are times, Lorraine, when | don’t understand you at all. He gives her the key to the club, then rushes out. Lorrai begins to hurriedly set things up for the meeting. The 50 unfolding. She tacks a hand-made poster up on the wall th Springfield Five!” INT. PHIL’S HOUSE/LIVING ROOM — NIGHT Phil still stands there looking at his family and his fam The opening title music for “The Ed Sullivan Show” begins the floor. Phil seats himself on the couch beside his mot flickers on their faces as we hear The Ed Sullivan Show b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED SULLIVAN",
+          "text": "(0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tonight we have a really big shew, with Topo Gigo, the Italian mouse, the St. Petersburg ballet, and for you youngsters out there— (young girls scream shrilly) —from Liverpool, England, The Beatles! The screaming grows louder still. Phil and his family sit open, lit in flickering blue. EXT. PHIL’S HOUSE & BLOCK — NIGHT Every single house on the block is emitting blue illumina",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED SULLIVAN",
+          "text": "\f98 (0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But first stay tuned to a word from our sponsor, Chesterfield cigarettes. INT. THE PURPLE ONION — NIGHT Lorraine is just finishing setting up. She has all 50 fol in rows, piles of flyers lined up on a table, several jug gives everything a final inspection, straightening this, around expectantly, glancing down at her watch. INT. PHIL’S HOUSE/LIVING ROOM — NIGHT Phil and his family stare at the TV. A piece of classical",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED SULLIVAN",
+          "text": "(0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let’s give a nice warm hand to the St. Petersburg ballet. (polite applause is heard) | would now like to read a telegram that | received today from Colonel Tom Parker and Elvis Presley. “Congratulations to The Beatles on their American debut.” The girls go crazy screaming again. EXT. CITYSCAPE — NIGHT (Digital Effect) We see the entire city and coming out of every single win building is the blue light of Ed Sullivan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED SULLIVAN",
+          "text": "(0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And now, ladies and gentlemen, from Liverpool, England . . . The Beatles! The crowd goes completely insane. Paul’s first bass note INT. THE PURPLE ONION — NIGHT —Lorraine sits looking down at the yellow flyer announcin it up and throws it away. We then see that she is sitting Nobody showed up for her meeting. Lorraine looks very fru cigarette. Finally, she stands up knocking over her chair \f99 takes all the flyers and throws them in the trash, then f EXT. CITYSCAPE — NIGHT (Digital Effect) Once again we see the entire city with flickering blue li",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ED SULLIVAN",
+          "text": "(0.S.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Beatles will be on the show again next Sunday night live from the Paradise Hotel in Miami Beach, Florida. A title appears on the screen: “Of the 180 million people people watched The Beatles on Ed Sullivan that Sunday nig proportionally the largest audience for any show, ever.” INT. PURPLE ONION — NIGHT Lorraine picks up her guitar and exits. A second later al EXT. THE PURPLE ONION — NIGHT Lorraine steps out of the Purple Onion and locks the door running up, guitar case in hand. He sees Lorraine and smi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Hi. Am | late?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(laughs) Are you late?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Am |?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(flatly) You missed it. It’s over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(casually) Whoops. Sorry about that. Did it go all right? \f100",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Look around. You see anyone else?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(looks around) Uh...no. Break up early?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(flatly) Yeah, it broke up early.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "So, you wanna get a cup of coffee? Lorraine laughs sardonically.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "You don't give a shit at all, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "About what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "About anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(offended) Hey! | care about a lotta stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, like music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Ha! You can’t even play the Goddamn guitar. | mean, for Christ sake, how are you ever going to be a musician?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "| told ya, it’s possible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "\f101 So is getting hit by a meteor. Y’know, you're what the world is coming to, Phil, and | don’t like it! Apathy and inability. It’s a really bad combination.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "What's gotten into you? | thought we had a really good time last night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(pointing) You didn’t show up to my Goddamn meeting!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I said | was sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "So what? Does saying your sorry push the erase button or something? | just threw out five pounds of potato salad. Ya know what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(uncertain) What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Drop dead! Lorraine turns and walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Italy. (she waves) Arivederci! Lorraine stomps away, disappearing into the night. Phil s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(to himself) Huh. \f102 Just then Terry comes running up from the other direction",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Did | miss the meeting?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "We both did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Did you see The Beatles on Ed Sullivan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Oh yeah, they were boss!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "I’m never cuttin’ my hair again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Boy oh boy, those girls were really screaming, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Man, they were crying. I’ve never seen anything like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Me neither.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "| like John.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Really. | like George. He sure can play that guitar. They both looked geeked up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "You just missed Lorraine. She threw a hairy fit at me for missing the meeting. Terry waves his hand disdainfully. \f103",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "The Springfield Five. | mean, who gives a crap? Not me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(chuckles) Not me, either.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Wanna come over my place? We could smoke some more reefer, y'know, maybe jam a little bit? What'dya say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Really? Cool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Cool’s out, man. No one’s saying it anymore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Really? No kidding? What're they saying instead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TERRY",
+          "text": "Tuff. T-U-F-F. It’s really tuff, y'know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHIL",
+          "text": "(nods) OK. Cool. | mean,Tuff. They both exit. We stay on the dark and empty exterior of last night’s cheering crowd and Ronnie, the female member speaking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RONNIE, (0.S.)",
+          "text": "Thank you. Thank you very much. Y’know, it just so happens we do have one more song.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "INT. THE PURPLE ONION — NIGHT (Flashback) It’s the night before at the Purple Onion and the Four Fe the song “Goodnight Irene” and the entire audience happil \f104",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUR FEATHERS",
+          "text": "(singing) Irene Goodnight Irene Goodnight Goodnight Irene Goodnight Irene I'll see you in my dreams Last Saturday night | got married Me and my wife settled down Now me and my wife are parted I’m gonna take another stroll downtown Irene Goodnight Irene Goodnight Goodnight Irene Goodnight Irene I'll see you in my dreams Sometimes | live in the country Sometimes | live in the town Sometimes | take a great notion To jump in the river and drown Irene Goodnight Irene Goodnight Goodnight Irene Goodnight Irene I'll see you in my dreams (continued) FOUR FEATHERS (cont.) You caused me to weep You caused me to moan You caused to leave my home But the very last words that | heard her say Were just sing me one more song Irene Goodnight Irene Goodnight Goodnight Irene Goodnight Irene I'll see you in my dreams \f105 Stop your ramblin’ Stop your gamblin’ Stop stayin’ out late at night Go home to your wife and your family Stay there by your fireside bright EXT. THE PURPLE ONION — NIGHT It’s the whole, big-deal folk scene going on in front of",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DISSOLVE",
+          "text": "EXT. THE PURPLE ONION — NIGHT The building is abandoned, the lights are out and no one yellow flyers blows past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOUR FEATHERS, (O.S.)",
+          "text": "(singing) Irene Goodnight Irene Goodnight Goodnight Irene Goodnight Irene I'll see you in my dreams Goodnight Irene Goodnight Irene I'll see you in my dreams... FADE OUT.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_963"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "movie_id": "MOV2299",
+  "scenes": [
+    {
+      "characters": [
+        "LT. HERR ZELLER",
+        "I HATE TO GO AND LEAVE THIS PRETTY SIGHT",
+        "I'D LIKE TO STAY AND TASTE MY FIRST",
+        "SO LONG, FAREWELL, AUF WIEDERSEHEN, ADIEU",
+        "NO.",
+        "ALL CHILDREN",
+        "THERE'S A SAD SORT OF CLANGING FROM THE CLOCK",
+        "MARIA",
+        "FRIEDRICK",
+        "BRIGITTA",
+        "CAPTAIN VON TRAPP",
+        "OFFICE ROGESTER",
+        "THE VON TRAPP FAMILY",
+        "AUF WIEDERSEHEN, GOOD NIGHT",
+        "TO SAY GOODBYE . . .TO YOU. SO LONG, FAREWELL,",
+        "GOODBYE",
+        "SONG ENDS.",
+        "SCENE 7 EXT. THE CAPTAINS MANSION",
+        "FRAULEIN HELGA",
+        "OFFICER HAMMERSTEIN",
+        "BARONESS",
+        "CUCKOO, CUCKOO",
+        "SCENE 8 INT. THE CAPTAINS MANSION",
+        "GRETLE",
+        "REGRETFULLY THEY TELL US CUCKOO, CUCKOO",
+        "AND UP IN THE NURSERY AN ABSURD LITTLE BIRD",
+        "BUT FIRMLY THEY COMPEL US CUCKOO, CUCKOO",
+        "IS POPPING OUT TO SAY \"CUCKOO\"",
+        "CHAMPAGNE. ..YES",
+        "THE SUN HAS GONE TO BED AND SO MUST I",
+        "MARTA, GRETEL, BRIGITTA",
+        "IN THE HALL AND THE BELLS IN THE STEEPLE TOO",
+        "I FLIT, I FLOAT, I FLEETLY FLEE, I FLY",
+        "KURT",
+        "MARTA",
+        "FRAULEIN SCHMITT",
+        "LIESL",
+        "HERR ZELLER",
+        "SO LONG, FAREWELL, AUF WIEDERSEHEN, GOODBYE",
+        "LOUISA",
+        "FREISEL",
+        "MAXINE",
+        "ADIEU, ADIEU, TO YIEU AND YIEU AND YIEU",
+        "GOODBYE, GOODBYE, GOODBYE",
+        "I'M GLAD TO GO, I CANNOT TELL A LIE",
+        "END",
+        "SO LONG, FAREWELL, AU REVOIR, AUF WIEDERSEHEN",
+        "ROLF",
+        "SALZBURG PUPPETS, (ALL NUNS)"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SCENE 7 EXT. THE CAPTAINS MANSION",
+          "text": "The children are on the veranda outside of the party. Frau Smmidt & Frau Franz enter. Gretle bows to them",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRAULEIN SCHMITT",
+          "text": "No, a lady curtsies. (Gretel curtsies) ThatвЂ™s right. You must do that to all of the guests.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARTA",
+          "text": "All of them. WonвЂ™t my knees get tired?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRAULEIN HELGA",
+          "text": "ThatвЂ™s the price of being a lady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISA",
+          "text": "Everyone looks so beautiful. I guess we look beautiful too! \f\"The Sound of Musc\" 34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KURT",
+          "text": "I think they look ugly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOUISA",
+          "text": "You just say that because youвЂ™re scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KURT",
+          "text": "Silly, only grown-up men are scared of women.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARTA",
+          "text": "We've never had a party in the house before, this is so exciting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRAULEIN SCHMITT",
+          "text": "Oh yes, there used to be lots of parties here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIESL",
+          "text": "Freidrick & I used to sneak out and watch everyone from the top of the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIEDRICK",
+          "text": "I remember the music. Once father brought a Gypsy orchestra all the way from Budapest!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FREISEL",
+          "text": "Yes, they wore red coats! Lesil & Freisel begin to dance with a pretend partner",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIGITTA",
+          "text": "Who are you dancing with?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRIEDRICK",
+          "text": "Me. Freidrick taps Liesl on the shoulder & they begin to dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KURT",
+          "text": "Yuck. Maria enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Well, why didnвЂ™t you children tell me you could dance?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIGITTA",
+          "text": "We were afraid you'd make us dance together. The Von Trapp Family Dancers! The all laugh. \f\"The Sound of Musc\" 35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "May I have this dance young man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KURT",
+          "text": "Since its you Fraulein Maria. They begin to dance as the children look on. The captain enters. He walks over to Maria & Kurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "May I cut in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "(surprised) Oh dear. (smiles) yes. The dance. The baroness appears. Maria looks into his eyes and suddenly stops. MARIA (cont'd) I...I seem to have forgotten the rest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARONESS",
+          "text": "(clearing her throat) There you are darling. Maria and the captain quickly break apart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Good evening Baroness. (she curtseys) If you'll excuse me. Come along children. Maria exits with the children.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ALL CHILDREN",
+          "text": "Good night Father, Baroness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARONESS",
+          "text": "I really must speak to the cook about the wienerschnitzel. ItвЂ™s entirely too delicious for my figure...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "I'm sorry, Baroness, ...IвЂ™ve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BARONESS",
+          "text": "DonвЂ™t. DonвЂ™t say another word. You see, uh, there are other things IвЂ™ve been thinking of. While planning this party over the past few weeks...IвЂ™ve seen the way you look at Maria. I know youвЂ™ve grown fond of her. (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f\"The Sound of Musc\" 36. BARONESS (cont'd) (pause) Now if youвЂ™1ll excuse me, IвЂ™m going to go back inside and pack my little things and go back to Vienna where I belong. Somewhere out there is a young lady who I think...will never be a nun. The Baroness hugs the captina and exits. Frau Schmitt & Frau Franz enter with Maxine with another telegram.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRAULEIN SCHMITT",
+          "text": "Captain, another telegram has arrived.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "I really think the children should be in the festival. They are so very talented (pause) is everything okay? The captain opens the telegram and reads it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "They've offered me a commission in their Navy. I've been requested to report tomorrow morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "I knew this day would come but so soon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "I have to find Maria.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCENE 8 INT. THE CAPTAINS MANSION",
+          "text": "The children sit around as Maria and the Captain hold hands. They are in their play clothes holding suitcases.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Children, the captain and I have decided to leave Austria. The Captain and maria are holding hands",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIESL",
+          "text": "Why are you holding hands father?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARTA",
+          "text": "Did you marry Maria The Captain looks at Marie and smiles. \f\"The Sound of Musc\" 37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "Not yet. All of the children run to Maria and hug her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRIGITTA",
+          "text": "Our new mother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Well not yet. But we have to hurry. Come along now children. We have to be quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GRETLE",
+          "text": "Because itвЂ™s night time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Something like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "I will miss you all. I wish you could be singing in my festival tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "Perhaps another time. They shake hands. Fraulein Schmitt enters with two soldiers. They are Rolf and Herr Zeller.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRAULEIN SCHMITT",
+          "text": "I tried to stop them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "That's okay Fraulein Schmitt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LT. HERR ZELLER",
+          "text": "Going somewhere Captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "WE were just going for a walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROLF",
+          "text": "Convenient, you are supposed to report for duty for the German Navy tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIESL",
+          "text": "Rolf! What are you doing. Rolf stares straight ahead ignoring her. Maria hugs her close as she silently cries. \f\"The Sound of Musc\" 38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN VON TRAPP",
+          "text": "Was I. I donвЂ™t recall receiving a telegram about that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HERR ZELLER",
+          "text": "You've received several and IвЂ™m here to take you directly myself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "Well, thatвЂ™s impossible gentlemen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROLF",
+          "text": "Why is that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "The family Von Trapp is singing in the Salsberg festival this evening. ItвЂ™s all arrange.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "I only hope we arenвЂ™t too late. We should really get going.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICER HAMMERSTEIN",
+          "text": "Once again, how convenient.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICE ROGESTER",
+          "text": "LetвЂ™s go captain. The general is waiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HERR ZELLER",
+          "text": "STOP! You will sing, you will all sing. But that is only because I want it to be. I want the people of Salzburg to see that nothing has changed. I shall escort you myself. Carry on. They all exit. SCENE 9 EXT. SALZBURG TOWN CENTER. Lights up on Maxine introduces the next Salzberg contestant. There are various contestants that go on before the Von Trapp family. There are puppets, singers, & dancers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "May I present the Salzburg Puppets! вЂњLONGELY GOATHEARD SONGвЂќ BEGINS \f\"The Sound of Musc\" 39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALZBURG PUPPETS, (ALL NUNS)",
+          "text": "High on a hill was a lonely goatherd Layee odl, layee odl layee-oo Loud was the voice of the lonely goatherd Layee odl, layee odl-oo Folks in a town that was quite remote heard Layee odl, layee odl layee-oo Lusty and clear from the goatherd's throat heard Layee odl, layee odl-oo Oho layee odllee-oo Oho layee odl ay! Oho layee odllee-oo Hododlleeoay! Maxine finally announces the Von Trapp Family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "Thank you. May I introduce the Family Von Trapp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NO.",
+          "text": "\f\"The Sound of Musc\" 40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KURT",
+          "text": "I LEAVE AND HEAVE A SIGH AND SAY GOODBYE -вЂ”-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAXINE",
+          "text": "Thank you everyone. That concludes our show. Please sit while the judges give us the winner of the show. Enter a girl with an envelope. MAXINE (cont'd) In second place, the Salzburg pupets! Enter the puppets bowing continuously. They exit. MAXINE (contвЂ™d) This years Salzburg festival winners are...The Family Von Trapp. (long pause) The Von Trapp Family singers....(long pause). The Family Von Trapp. A soldier runs out",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROLF",
+          "text": "TheyвЂ™re gone! Everyone gasps. The curtain clothes. The Von Trapp family has left Salzburg forever.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2299"
+    }
+  ]
+}

@@ -1,0 +1,4094 @@
+{
+  "movie_id": "MOV301",
+  "scenes": [
+    {
+      "location": "USS CALLISTER BRIDGE DEEP SPACE 1",
+      "time": "DAY",
+      "characters": [
+        "97",
+        "THE END",
+        "WALTON, (CONT'D)",
+        "ACCENT",
+        "SHANIA, (CONT'D)",
+        "DO NOT DISTURB",
+        "USS CALLISTER. SHOOTING SCRIPT. 06.01.17 2.",
+        "CONTINUED",
+        "CREW",
+        "CAPTAIN DALY, (CONT'D)",
+        "98",
+        "PIZZA DELIVERY GUY",
+        "NATE",
+        "DUDANI",
+        "VALDACK, (CONT'D)",
+        "PIZZA DELIVERY GUY, (CONT'D)",
+        "PACKER",
+        "DUDANI, (CONT'D)",
+        "HELP ME. CONTACT CYBER POL",
+        "GODAMMIT",
+        "NANETTE, (CONT'D)",
+        "USS CALLISTER. SHOOTING SCRIPT. 06.01.17",
+        "KARL, (CONT'D)",
+        "ELENA",
+        "TEENAGER",
+        "CAPTAIN DALY, (V.O.)",
+        "WALTON, (V.O.)",
+        "VALDACK",
+        "WALTON",
+        "ESTIMATED TIME TO COMPLETION",
+        "NANETTE COLE. REMEMBER THAT WEEK IN VEGAS",
+        "TEENAGER, (0.C.)",
+        "DALY, (CONT'D)",
+        "SHANIA",
+        "BOB I WANNA TALK TO YOU HERE",
+        "EXT/INT. SHUTTLE",
+        "PIZZA DELIVERY GUY, (0.C.)",
+        "VALDACK, (0.C.)",
+        "CAPTAIN DALY",
+        "COMPUTER",
+        "LATER",
+        "DNA",
+        "4.",
+        "DUDANI, (0.C.)",
+        "TULASKA",
+        "CAPTAIN DALY, (0.C.)",
+        "USS CALLISTER. SHOOTING SCRIPT. 06.01",
+        "PACKER, (CONT'D)",
+        "WALTON, (0.C.)",
+        "DALY",
+        "NANETTE",
+        "73.",
+        "TOTAL BLACKNESS",
+        "EXIT GAME",
+        "KARL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Darkness. We hear a klaxon. Red alert in space! Automatic doors slide open -- we follow a striding, confi man named CAPTAIN ROBERT DALY as he enters the BRIDGE of SPACESHIP. It's retro - the women wear miniskirts, the colour scheme groovy, the screens are old school -- like a 60s space ep Following behind DALY: comms officer SHANIA LOWERY. DALY glances up at the giant DISPLAY WINDSHIELD in front him. His matinee-idol looks and stance epitomise the very best of Space Fleet command. The DISPLAY shows an ALIEN WARSHIP looming in front of th WALTON (40s), the first officer and ship’s navigator, sal as DALY enters. Walton looks worried. Scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Captain Daly-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Report.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "It’s a non-federation vessel - jumped straight out of whitespace, right in front of us. DALY nods to himself, then looks at the main display. Tightens his jaw. Walton steps in alongside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Valdack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(horrified) It can’t be -- LIEUTENANT DUDANI, the ship's head engineer, who has CYBO IMPLANTS on his temples, looks up from a monitor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "My datascan indicates a heavily- armoured Gorgon Dreadnaught, vessel ID number zero nine sixty fi--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(cutting in) Thank you Dudani. (beat) (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "Valdack must've hijacked it from the Fermi hub and tracked our position. (beat) Tulaska, shield status. ELENA TULASKA, the Callister's glamorous head of security a SEXY ALIEN -- sounds worried -- albeit in an EAST EUROP",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields 100 percent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Helmsman Packer-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Captain -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Prime rear thrusters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Rear thrusters primed. Behind him HELMSMAN PACKER works furiously at the control WALTON is increasingly spooked. DALY is thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "If that’s Valdack he’ll rip us to shreds! (beat) Captain we have to surrender. (beat) There’s no other way! DALY keeps his eyes on the display. Suddenly: VALDACK’s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Let’s not lose our heads Lieutenant Walton. BOOM! -- the BRIDGE is ROCKED by a blast from ship.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields at 68%.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Heavy damage reported decks six through ten-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Fires in med centre and major rupture to cargo bay Alpha.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "We got no choice Captain!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Do you want me to open comms with Valdack’s craft Captain? WALTON looks at DALY pleadingly. But...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Negative. BOOM! Another blast rocks the bridge!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields at 54 percent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "There’s no way out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Captain -- please --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Not now Walton- DALY peers beyond VALDACK’s ship. Beyond it: a cluster of asteroids encompassed in a large green gas cloud. He turns to PACKER, the young helmsman. CAPTAIN DALY (CONT’D) Helmsman Packer! Take us into that asteroid gas cluster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Into the cluster? WALTON looks terrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "That's suicide--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "--It's our only chance! (beat) That gas cluster is charged with ionized pyron particles. If our shields hold we can use them to increase our photon intensity. DALY puts a hand up to silence DUDANI’s wittering. CAPTAIN DALY (CONT’D) Packer, increase thrusters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "4.",
+          "text": "1 PACKER pushes forward on the throttle. Engines roar. WALT looks increasingly scared. The CREW watch as their ship passes over the enemy craft heads into the gas cluster. The entire bridge SHUDDERS. Lights blink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields at 43%",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "It'll tear the ship apart! Without averting his eyes from the display, DALY snaps:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Walton, you're a Space Fleet officer. Hold yourself together. WALTON checks himself, nods, tries to hold it together. BOOM! SHUDDER! Another IMPACT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields at 32%. SHANIA monitors the sensors from her station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Valdack's not following.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Packer, turn us around-— PACKER nods and obeys. CAPTAIN DALY (CONT’D) Tulaska, charge photon bolts. TULASKA taps something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Bolts charged captain. A beat. Daly bides his time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Fire. Then They fire a photon bolt at the enemy ship. It's a direct it EXPLODES ON IMPACT causing enormous damage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "His hull’s breached. Shields gone. He's defenceless. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 5.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(to SHANIA) Lieutenant Lowery, open comms-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "He's already hailing us Captain --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "On screen. The screen reveals VALDACK, a MUSCLY SPACE VIKING, injure but defiant. Behind him: glimpses of his spaceship throug sparks and smoke. The screen flickers - the signal is wea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "(On comms screen) Captain Daly. May you drown in the venom of 900 Tragorian snakes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "You're defeated, Valdack. Return the Plasmorthium crystal and we'll cause you no more damage. VALDACK spits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "You must think me a fool Captain. I know the crystal's capabilities. I'll die before I give it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "I gave you a chance Valdack. Showed you mercy. Reflect on that. While you can. (To SHANTA) Close comms. The display screen flicks back to open space. The semi- obliterated enemy ship sits in view.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "Tulaska. Destroy his ship.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Yes captain. A PHOTON BOLT is launched. The crew watches on as it impa the enemy ship. The ship EXPLODES IN A FIREBALL. The crew breathe a SIGH of relief - then CHEER. DALY stan",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "That was incredible captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "You saved our lives! \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 6.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "WALTON takes DALY's hand, desperately grateful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Sorry I lost it back there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Not for the first time, Walton-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "I should know by now to never doubt you. Please -- forgive me. Still holding DALY’s hand, he falls down on one knee, lik man begging forgiveness from the pope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "At ease, Walton. WALTON stands, nodding. Suddenly DUDANI pipes up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Captain! Everyone looks round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI, (CONT'D)",
+          "text": "Sensors indicate an escape pod ejected from Valdack's ship before detonation. Traces of Plasmorthium - - he’s escaping with the crystal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Want me to plot a pursuit course captain? DALY considers his options.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "No. We'll let him go. (beat) For now. Everyone nods and smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Great decision-making, captain. Suddenly WALTON shouts:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Three cheers for Captain Daly! Hip- hip-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREW",
+          "text": "Hooray! \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 7.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "DALY pretends to be vaguely embarrassed, making a \"quiet down\" gesture with his hands. But the toasting continues:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Hip hip!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREW",
+          "text": "Hooray! ++. so DALY smiles, shrugs, and basks in their adulation. Next, WALTON claps in time and leads a sing-song:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "For he's a jolly good fellow... The entire CREW join in. DALY basks in the praise. SHANIA sidles up and puts an arm around his waist. DALY leans over and kisses her, SHANIA literally bending backwards as he does so. A curiously chaste lips-closed k The pose is a bit like Errol Flynn kissing a rescued maid No sooner has the kiss with SHANIA finished than DALY tur and performs an IDENTICAL KISS with TULASKA. Throughout, the crew are still SINGING his praises.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CREW",
+          "text": "And so say all of us! And so say all of us! For he's a jolly good fell-o-www... And so say all of us!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Elevator doors open to reveal DALY waiting inside - he lo different. Downtrodden. In badly-fitting work attire, thi the real ROBERT DALY, arriving at his real job. DALY steps into the lobby. We don't really see the RECEPTIONIST's face just yet incidentally. Behind her is the logo for the company - CALLISTER INC. On one wall is a video display showing a sizzle reel of t company's major product: INFINITY. It's a constant trail showing CGI graphics from a space g The rendering looks like the environment aboard the USS CALLISTER, but without the retro tinge -- it's more JJ AB style. And it's intercut with captions like “MASSIVELY MULTIPLAYER VR SPACE EPIC” and \"TOTALLY IMMERSIVE\". DALY reaches the main doors, swipes his pass, and the pan BEEPS and flashes RED. He tries again. Same result. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 8.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "DALY looks over at the RECEPTIONIST. We notice she is LIEUTENANT ELENA TULASKA, the USS CALLISTER's head of security, except she's in civilian clothes. DALY's demeanour is notably different. He's awkward. Shy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Elena? My pass doesn’t work again. She looks up, not hugely interested in his dilemma.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELENA",
+          "text": "You must renew on first of each month.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "I know, but, the first was on the weekend, so...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELENA",
+          "text": "Okay - She presses a button, unlocking the main doors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELENA",
+          "text": "(looking at phone) You’re welcome.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY makes his way across the large open plan office - th is CALLISTER INC head quarters, an advanced VR Tech compa We see rows of coders at workstations, designing software Building levels. Data streaming down paper thin monitors some using AR smart-specs -- it’s Google on steroids. In one small room we see some TESTERS sitting motionless, their eyes clouded out, with tiny disc-like VR EXPERIENCE stuck to their temples. One of the walls serves as a huge video display -- also showing the INFINITY sizzle reel. Another face we recognise heads towards DALY on his way o It's HELMSMAN PACKER, the fresh faced recruit, only here is an intern, real name NATE PACKER. He smiles a greeting DALY as he nears. He’s casually carrying an empty tray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATE",
+          "text": "Morning Mr. Daly. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 9.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Helmsman Packer. NATE looks confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY, (CONT'D)",
+          "text": "I mean, Mr. Packer. Nate. Nate smiles, a bit confused, and passes. DALY turns, real where he's going. Points at the tray.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY, (CONT'D)",
+          "text": "Are you - making coffees? Nate stops, turns.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATE",
+          "text": "Uh yeah. DALY waits for a brief moment for Nate to catch up with w he meant by the question. Nate doesn't get there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Do you think maybe you could make me one too? I mean perhaps --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATE",
+          "text": "Sure. Sure. Nate takes out his phone, ready to add to the order.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Vanilla latte. Nate types.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY, (CONT'D)",
+          "text": "Skim milk. Nate smirks at that, glancing at DALY's paunch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NATE",
+          "text": "Yeah good call. DALY forces a smile. Nate finishes taking the order, smil heads off on his mission. DALY turns and walks across the floor, momentarily distra by the sight of SHANIA LOWERY (who works here in BUSINESS AFFAIRS) crossing the floor in business-wear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(finishing a cell call, cut-glass accent) Well, careful what you wish for; those are big numbers and we might just have to hold you to that. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "(beat; hearing unfunny joke from client) Hahaha! (beat) Of course. Absolutely... Momentarily not looking where he's going, DALY immediatel trips over a GYM BAG and lands with a THUMP on the floor. There's a moment for him to groan. All eyes on him. A man who looks exactly like VALDACK leans in to help him But this VALDACK is actually a faintly jockish co-worker, KARL, from marketing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KARL",
+          "text": "Woah, you okay there? DALY gets to his feet, embarrassed. Feeling all eyes on h",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KARL, (CONT'D)",
+          "text": "Guess you didn't see my gym bag. KARL slaps him on the back, a little too hard",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KARL, (CONT'D)",
+          "text": "Sorry bud. DALY smiles weakly, and heads toward the end of the room. DALY passes a BIG office window - we see SOMEONE inside talking to SOMEONE on a hands-free earpiece, while toying idly with a STRESS BALL with the CALLISTER logo on it. This man is confident, swaggering -- he glances over at D smiles and nods as he carries on his conversation. It's WALTON, the USS CALLISTER'S second in command - in the re world he looks far more confident. On the wall of WALTON’s office is a blown-up framed front cover of WIRED magazine. It shows WALTON, with the headli TO INFINITY AND BEYOND. DALY smiles and waves as he passes the window but WALTON' attention has already gone back to his chat. DALY carries on, passes text on the door that reads; JAMES WALTON. CEO. CALLISTER INC. He reaches a second, pokier office next to WALTON'S and h inside. On his door the text reads; ROBERT DALY. CHIEF TECHNICAL OFFICER. CALLISTER INC. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY's office is cramped. On the wall there's a POSTER fo SPACE FLEET, an old late 60s TV SHOW in the STAR TREK mou Bits of SPACE FLEET memorabilia are everywhere. There's e a series of BLU-RAY, DVD and VHS box sets on a shelf. DALY sits at his desk. Sighs. He looks through the glass to notice SHANIA and KARL. Fro the glances in his direction it looks like maybe they're talking about him. SHANIA laughs at whatever KARL just sa Under the desk, DALY clenches a fist. A knock at the door snaps him out of it. NANETTE COLE (mi 20s), supersmart coder, stands in the doorway, a tad nerv DALY thinks he knows what she wants. It's happened before",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Ladies bathroom's that way. The sign's confusing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "You're Robert Daly, right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Right -- NANETTE steps forward and holds out a hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Nanette, Nanette Cole. DALY gingerly takes her hand and shakes it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "I started here today, coding on the update? Just wanted to pass on my admiration to the person who actually designed Infinity. The procedural algorithm is amazing, it really is some beautiful code. DALY is genuinely taken aback.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Thank you. NANETTE steps inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "It's actually the reason I wanted to work here. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "A pregnant pause, DALY doesn't know what else to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "You must be busy, sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "No-no, its fine-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "-Fangirling, sorry. She notices the SPACE FLEET boxsets. Picks up a VHS case.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Woah what's that? (beat) Vintage. DALY stands, worried his VHS case may get fingermarks on",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Space Fleet. A TV show. It was before your time - before my time actually, but it was visionary --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Is that on like tape? DALY taps the other boxsets",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Got the VHS, the DVD, the Blu-Rays - - whole thing, seasons one to six. (beat) Netflix has it these days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "“Aboard the spaceship USS Callister”. OK yeah, so Callister is like the-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Yeah, when we set up the company I suggested we call it Callister as a kind of a tribute. Walton didn’t really get the reference, but he let me have that one. Nanette looks at the SPACE FLEET poster. Notes the female crew member in a sort of mini-skirt costume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Mini-skirted damsels? Little cold for that in space. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "That's just what a Bargradian sand warrior would say. The look on NANETTE’s face indicates she didn’t get the j Suddenly WALTON enters without invitation. Starts talking before he even realizes NANETTE is in the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Bob, Christmas is closing in like a god damn meteor and we got customers all over our balls waiting on this Infinity update. Just tell me it’1ll be up and running before the weekend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "(flustered) Well - I can ask Kabir if he could pick the pace up a little-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(interrupting) You're CTO, you shouldn't be asking anyone anything. You should be telling. Like I'm telling you now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "I'll speak to him. I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Good. Okay. DALY nods. WALTON notices NANETTE standing in the room. Desperately wishing she wasn't there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (CONT'D)",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Hi. Sorry. I couldn't find a good moment to - She's about to say the word \"leave\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "You must be new. (Holds out his hand) James Walton, I run the company. WALTON holds her hand a little too long after the shake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (CONT'D)",
+          "text": "Well, we run the company. Kind of. Bobby's the hardware and I'm - the shiny front end. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Nanette Cole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Which department?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Engine architecture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Did you start today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Ier - yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "You had the tour?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No. I was just--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(Cutting in) --Then please, allow me. Before NANETTE can answer WALTON leads her out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(To DALY) It was so nice to meet you. DALY nods. Then watches as WALTON leads NANETTE away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY walks over to a workstation to find KABIR DUDANI, a bookish coder, eating his breakfast at his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Uh, Kabir... As DUDANI looks up, we realise he’s LT DUDANI. He wears GLASSES in reality.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Mr Daly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "You got the latest ETA on the update patch? Just there’s still some runtime errors... \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Well... thing is Mr Daly - it could be ready by end of play today, but if we had time we could alter the trading mechanics, tweak the critical hit system, but of course that’d add another week, maybe ten days? While DUDANI says that, DALY glances round and sees, on t other side of the office, WALTON introducing NANETTE to SHANIA and KARL. KARL is clearly attracted to her. DALY didn't hear what DUDANI just said. DUDANI prompts hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI, (CONT'D)",
+          "text": "Mr Daly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Uh, yeah, do all that. Thank you. DUDANI nods, a bit surprised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Okay. We’re on it. DALY heads back towards his office. As he does, he sees t intern Nate handing out his coffees. One to SHANIA, one t KARL. One to WALTON. Nate has one left -- DALY's skinny latte. WALTON takes it hands it to NANETTE. She smiles and accepts it. DALY scowls. Retreats to his office and broods in silence",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The room is dark. No one home. A sensor panel on the wall suddenly emits a little BING noise as DALY enters, grouch Eating the remains of a hot dog, holding a GROCERY BAG un his arm. As he enters the lights gently brighten to an inviting gl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is a small room with even more SPACE FLEET memorabil Posters. Action figures in glass display cases. An Airfix model of VALDACK's ship, still in its packaging. There's also a small desk with a computer MONITOR and keyboard, and a high-backed ergonomic chair. On the desk there is also a MYSTERIOUS DEVICE, like a PET DISH connected to a wire that trails off somewhere. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "DALY slumps at his desk and drops the hot dog packaging i a small trash can. DALY reaches over to the side of his desk, opens a mini- fridge next to it, and tries to choose between a carton o CHOCOLATE MILK and a carton of STRAWBERRY MILK. As he does so, we notice in the FRIDGE DOOR is a see-thro ziplock plastic bag with a RED LOLLIPOP inside it. The name TOMMY is written on the bag in Sharpie. DALY chooses CHOCOLATE milk. Stabs a straw into the carto and taps his mouse. He takes a small VR EXPERIENCER DISC from a receptacle an plants it on his temple. On the monitor, using his mouse, he opens a DESKTOP FOLDE labelled INFINITY. Inside are two icons. INFINITY and INFINITY (SPACE FLEET MOD). He double-clicks the latter. LIGHTS GLIMMER on his VR EXPERIENCER DISC. Immediately DALY's EYES GLAZE OVER and his body goes limp He slumps back in his chair, immobilised - he's in the ga",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The doors open. The in-game CAPTAIN DALY -- energized and simmering -- steps out onto the bridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Welcome back Captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Have you located Valdack's position?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Not yet. But our sensors are probing every star system between here and--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "So your answer is \"no\". A pause. Tension rises on the bridge. The captain's in a mood. The crew exchange glances.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "I'm afraid so captain. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "DALY nods. Then he suddenly grasps WALTON by the throat a lifts him off the ground with one arm. Darth Vader style. The CREW watch, frozen with fear. WALTON gasps for breath",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "You're pathetic Walton. What are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(strangulated) Pt-- pthhh-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "What’s that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(as clearly as possible) Pathetic. DALY lets him dangle a moment longer, then lets go. WALTO hits the floor gasping. DALY addresses the rest of the cr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(to everyone) So Valdack’s out there, somewhere and you village idiots are asleep at the wheel. (beat) You're not just disgraceful. You’re disgusting. All of you. Silence as they look at their shoes. CAPTAIN DALY (CONT’D) So. Can you do one thing? Can you find Valdack? (glancing at WALTON) I’m not asking. I’m telling you. (beat; to all) Understand? General nodding and murmurs of ‘of course Captain’. CAPTAIN DALY (CONT’D) Well alright. Daly clicks his fingers -- more energy. CAPTAIN DALY (CONT’D) (to TULASKA) Tulaska! Check security protocols - if they've expired you're in trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Yes Captain. \f10 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "TULASKA nods, chastened, busies herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(to DUDANT) Dudani! Recheck those probe results! No room for errors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Of course captain. DALY turns to PACKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Helmsman Packer -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Yes Captain?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Vanilla latte. Skim milk. PACKER salutes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "At once! PACKER practically sprints to fetch the order. Meanwhile settles down into the captain's chair. He looks at WALTON, who's crawling on all fours towards t door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Walton. WALTON swallows, crawls over to the CAPTAIN's chair. Lies down in front of it. DALY rests his feet on WALTON's back DALY sitting in his chair, sighs. CAPTAIN DALY (CONT’D) (out loud) Exit game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The real DALY blinks back to life in his chair. A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE sits coding at her workstation, ear buds in. We pull focus to see DALY is watching her from his glass \f10 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Now we're inside Daly’s box, looking out. Just like him. Then DALY spots WALTON. Striding through the office like Caesar. He stops at NANETTE's desk. She pops out her ear buds. They trade a little friendly c Walton puts a friendly hand on Nanette's shoulder. Daly's eyes tighten. Suddenly he's snapped out of this reverie by DUDANI's voi DALY looks up -- DUDANI is in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Mr Daly? Got that new ETA on the update patch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "New ETA? ——",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "It’s all good but now we’re looking at December 24th for roll out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "We don’t patch till Christmas Eve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Well. Yeah. I mean with the alterations you approved... DALY doesn’t know how to respond to this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Okay. Okay thank you. He watches DUDANI go. Then NANETTE is in his doorway:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Hey Robert. DALY stands up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Oh hi --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Just fixing a coffee, you want one? It’s the nicest thing anyone's said to him in five years.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Sure. (beat) Uh, vanilla latte. Skim milk. \f10 11 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 20.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okey dokes! She walks off. DALY's heart swells.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE stands at the HYDRATION STATION -- a glorified wa cooler area the company has installed. Various branded vending and coffee machines line a seating area. Meanwhile, SHANIA approaches from a distance, on a cellph call. Again, she talks in her cut-glass British accent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(friendly, to phone) Of course. Yes. Absolutely. Using cardboard cups with plastic lids, NANETTE starts to herself her coffee and one for DALY, when SHANIA arrives alongside her. As Shania speaks, she looks at Nanette -- and mimes bored and irritation with the phonecall she’s making, so Nanett will know she secretly hates the person on the other end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "(into phone) Yes. Okay then. Hahaha! Well those are great numbers! Ta-ta. Shania hangs up, looks at Nanette and points at the phone Her accent changes. SHANIA sounds less refined in real li",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "(pointing at phone) Total fucking shitwit. Nanette nods, a bit embarrassed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "You want a coffee?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Yeah thanks, Brushed Suede. NANETTE punches buttons. They wait while their coffees br SHANIA regards her and picks up an apple. NANETTE smiles, unable to think of much to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "So how you settling in? You are settling in? She takes a bite. \f11 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Yeah, everyone's really friendly. Shania nods and chews the apple.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Not like my last job, thank God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "It was a toxic workplace. Boss was a major league bully. Not like here, like with Mr--?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "-Walton? Yeah he’s a good guy. (beat) Bit of a player...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Oh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "- like chuck a ham sandwich across the room and he'd fuck it before it hit the ground but he’s basically an alright bloke. NANETTE doesn’t know how to respond to that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okay. Well. It's two bosses anyway here I guess. SHANIA looks blank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Two how?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Robert Daly --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Oh! Ha! Well technically yeah. And just now we reveal that DALY is lurking just behind t refreshment area, listening in, unbeknownst to both women",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Mr. Daly’s actually the reason I came here. I mean, who wouldn’t want to work under an incredible mind like that, y’know? His coding is sublime. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 22. ul CONTINUED: (2) ql We see DALY hearing this praise. His heart skips a beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Do you have a thing for him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Daly? No, it’s not like that. It’s purely professional. I like his code. We see DALY hearing this. No reaction on his face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(breathes out) Fucking hell, I was gonna say -- don't be too nice to him. He gets a bit... starey. Y’know. She does the mime as she says that bit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "Wide berth, that’s my advice. Wide berth...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(a bit disappointed) Oh. Okay. (beat) Thank you. NANETTE puts lids on the coffees as SHANIA eats her apple",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's now muted and awkward as NANETTE carries the COFFEE in to DALY and sets it down on his desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "There you go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Thank you. Nanette goes, feeling DALY's eyes on her back. She sits a her own desk and SIPS HER COFFEE. A CLOSE-UP on her LIPS as she sips through the LID SIPPY- HOLE. DALY is WATCHING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sun begins to set. \f14 15 16 17 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The office is almost empty bar DALY, still in his office. He watches the last few employees leaving. KARL, pulling coat, chatting to SHANIA, leaves through the doors. NANETTE hoists a backpack onto her back and puts her earb in. She's the last to leave. The moment the door shuts behind her, DALY stands up. He opens a desk drawer containing SURGICAL GLOVES, TWEEZE and a SEE-THRU PLASTIC BAG. He starts pulling on the gloves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY is at NANETTE's WORKSTATION. He reaches into her TRASH CAN. Pulls out the COFFEE CUP she had earlier. Takes off the L Carefully places the LID into the SEE-THRU BAG",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "BONG. The room lights up in preparation for DALY'S return DALY bursts in, fumbling at his work bag. He pulls out th cellophane bag we saw earlier and hurries into his bedroo INT. DALY’S APARTMENT - BEDROOM - NIGHT 17 DALY rushes to his desk, sits, puts down the cellophane b He dons latex gloves again. Pops open the MYSTERIOUS DEVI on the desk. There's a PETRI DISH in there with some sort thick blue gel in it. He carefully takes the CUP LID out of the plastic bag and runs a SWAB along the SIPPY-HOLE. DALY delicately places the SWAB onto the PETRI DISH and closes the lid. An LED winks. Something bleeps. Then he places the LID back into the BAG and puts the BAG into the FRIDGE. We notice the shelves have OTHER ITEMS i bags -- one contains a splodge of CHEWING GUM, another a TISSUE, and one a LOLLIPOP. He turns to his keyboard and types. Clicks his mouse arou \f17 18 19 20 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "More LIGHTS on the PETRI DISH DEVICE start to twinkle. On the screen: ASSIMILATING. And a loading bar appears. 1% and rising.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ESTIMATED TIME TO COMPLETION",
+          "text": "DALY looks at his watch. Stretches. Heads for bed as the loading bar rises incrementally.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Orange morning sun spreads over Daly's apartment block. INT. DALY’S APARTMENT - BEDROOM - MORNING 19 The loading bar reads 67% as DALY, in the background, get dressed and heads out the door. Music carries us through a little montage:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY exits the elevator, crosses the lobby and tries his pass. Once again he's rejected. ELENA the RECEPTIONIST buzzes him in again. We INTERCUT the following with the LOADING BAR as it clim Now it's at 74% Next we see him watching NANETTE chatting with WALTON, th KARL, then SHANIA. The loading bar climbs to 85% DALY sits typing when WALTON suddenly holds an iPad-type tablet displaying a press article directly in between him the monitor. Headline: INFINITY UPDATE: NOT TILL XMAS? DALY looks up at him. WALTON shakes his head, disappointe Meanwhile NANETTE is at her station, coding. Loading bar now at 96% We go in on NANETTE's face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "97",
+          "text": "We see DALY watching her through the glass. \f20 21 22 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's a starched white MEDICAL BED in this room. We are tight on eyes. A woman's eyes. Nanette's eyes. Suddenly NANETTE wakes, looks around. This isn't her bed. Or her room. It’s too dark to make out detail. There's no window. Just some machines making beeping-booping noises She looks down and realises she's dressed in SPACE FLEET attire. Figure-hugging uniform. Groovy short skirt. She pats herself, confused. Feels her hair. It's differen She walks to a door, which opens into a corridor...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We HEAR an automatic door swooshing. Then NANETTE walks i frame, traversing a classic starship corridor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(Calling out) Hello? There's no-one here. She turns a corner. At the end is a of AIRLOCK DOOR with a small porthole-type WINDOW in it. She sees her own FACE reflected in it. But it’s not a reflection she entirely recognises. Her hair is different It's styled. And she has make-up on. Light blue eyeshadow She stares at herself, baffled. And then -- she focuses o the stars behind her reflection. THE STARS?!? Shocked, she leans in. OUT THE WINDOW - stretching out either side of the window the UNIVERSE. DEEP SPACE. We see an external shot. NANETTE peering out from a tiny window. We pull out to see, on the main section of the sh printed in giant letters, the words USS CALLISTER Dizzy with shock, NANETTE steps back from the window. And then she hears TWO VOICES arguing, echoing down the hallw She stumbles towards them in a trance, following the soun through the winding hallways until she reaches a DOOR. NANETTE passes through the door -- onto the BRIDGE. \f23 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The BRIDGE is dimly lit. The crew are not at their statio They're in a corner, huddled around a kind of BAR. WALTON's there, pouring a drink whilst the rest sit solem watching. The argument (between WALTON and TULASKA) stops minute they see NANETTE in the doorway. There's a pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(to self) Oh boy. (beat) Looks like there's a new girl in the office. He takes a swig. NANETTE holds back, confused. SHANIA pip up -- in her ‘regular’ voice, not her cut-glass accent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "What’s your name hun?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Come in. Let me pour you a drink. Got everything from Bengarian phlegm shots to distilled root blood from the Cangor quadrant. What's your poison? Some of this actually is poison. Don't be shy. NANETTE doesn't move.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Am I dreaming?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "‘Fraid not. TULASKA, who’s bored and sitting at her station, doesn’t up from her fingernails.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "I remember dreaming. PACKER nods -- those were the days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Me too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Where am I? \f23 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "The USS Callister, Space Fleet's finest, exploring the farthest reaches of the known universe and beyond. We are its loyal crew. And now, it seems, so are you. Cheers. WALTON downs a shot. NANETTE looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Your name, babes, what’s your name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Nanette. (off SHANIA’s blank look) We've met.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Maybe, in the real world. I got no way of knowing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "You'd better sit down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I don't want to sit down, I want to know what's going on. DUDANI walks towards her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "You're onboard Robert Daly's ship.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Wh -- Robert Daly? The CTO?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(Pouring another drink) Here he's Captain Daly, our fearless leader.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "You're seriously gonna need to sit the fuck down. NANETTE turns to spot PACKER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(To PACKER) You're the intern? From work. Nate something? \f23 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Packer. Nate Packer. (beat) I’m still just the intern out there huh? Jesus. NANETTE turns to DUDANI.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "And you’re --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Kabir Dudani. Diagnostics. NANETTE, dazed, looks at TULASKA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "You're the receptionist. TULASKA nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Elena. NANETTE looks at TULASKA’s ALIEN BLUE SKIN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "But you’re skin is blue... TULASKA looks at her own alien skin and practically shrug way of recognition.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Weird alien skin, I know, it’s fucked up. Almost sort of racist. NANETTE looks dizzy. She nearly falls over. SHANIA is the to catch her. She starts leading NANETTE over to the captain's chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Walt. Fix her something. Vodka. Something she'll recognise. NANETTE sits. The rest of the officers crowd round. She l at them like she’s dreaming.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "What's it like out there now? NANETTE struggles to answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER, (CONT'D)",
+          "text": "Like what year is it? SHANIA is annoyed with PACKER. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What year - I saw you today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Did you see me? Did I look thin? Like wheatgrass and yoga thin?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Can we not pop her fucking mind? Give her a chance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Someone needs to be straight with me right now. SHANIA steps forward. Trying to calm her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Okay. Listen. This is Infinity. That's what we're all inside-- (gesturing around) -- that's where all this exists.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Infinity the game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(nodding) Daly's got his own modded version of Infinity - re-skinned to look like his favourite TV show --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Space... Thing... WALTON brings the vodka over and hands it to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Space Fleet. Hence the groovy decor-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(indicating own outfit) And this get-up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Infinity's an online game, like a multiplayer deal, I mean --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "This is his development build. Sealed off. So he can control it. He keeps it offline so the custom code he's written can’t be detected and deleted. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "It’s a bubble universe ruled by an asshole God. NANETTE is almost lost for words.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "He -- put us in here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(nodding) Drink your vodka.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "How do we get out? SHANIA holds the shot of vodka closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Really, drink it. NANETTE downs the shot. And gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "You can't leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What! ?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "None of us can. Because you're not actually you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "I know, it’s mental. But -- you're a copy of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "A digital clone. NANETTE looks around, trying to process this. WALTON sympathetically signals for her to drink another shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No. I'm me-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "- but not the real you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Daly's created an identical digital version of you - of all of us. From your DNA. He’1l have harvested it somehow. \f23 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Told me he got mine from the rim of a smoothie cup. Packer’s juices he retrieved from the bathroom--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "-- man, let that go, she don’t need details-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Basically he’s built some fucking gizmo-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "-I theorize an advanced biometric DNA virtual clone replicator wi--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(interrupting) - exactly, a fucking gizmo. He fed your DNA in, grew you inside his computer and bam. You pop up here. Like a pop tart. NANETTE looks dizzy. SHANIA continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "We've all been through it. He brings us in for different reasons. Shit we did in the office. I called him out for staring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "I reset admin permissions on a test build for fourteen minutes. In truth a minor error which was rapidly- Before DUDANI can ramble, PACKER cuts in:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "I brought him the wrong sandwich. TULASKA puts a hand up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "“Insufficient smiling”. WALTON doesn’t want to talk about this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Never mind Daly's ‘reasons’. We're stuck in his playground now, that’s all you need to know. NANETTE gets out of the chair and walks around. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "This is a dream. It has to be. WALTON takes the shot that NANETTE has left.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "More of an eternal waking nightmare from which there is no escape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No. No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(to WALTON) Fuck sake, I’m trying to break her in gently. WALTON rolls his eyebrows and downs the shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Quicker she gets it, the easier it’1l be for her. Suddenly the lights of the ship come on, bathing the room a warm orange glow. Tense resignation washes across the c",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Daddy's home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "(indicating lights) Daly. He’ll be here any moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No. I'm out of here. PACKER grabs her arm. Deathly serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "(To NANETTE) You gotta stay on the bridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Get off-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "He controls everything -- he does",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "shit to make us cooperate. You have no idea. I’m trying to help you. NANETTE pulls herself free and RUNS for the exit. PACKER to run after her, but SHANIA stops him by saying:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Leave it. \f23 24 25 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "(to SHANTA) He'll fuck us all up if she doesn't play ball.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "She’s gonna have to work it out for herself. Like we all did. She glances at WALTON who looks at his shoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE runs along the hallway, looking for an escape.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(to self) Gotta be a way out. She tries an access panel beside the airlock door. It has buttons on it. She mashes away at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Come on come on. Got to be a way -- Suddenly, the ship HUMS LOUDER. Lights up. NANETTE tries the access panel again, but stops when she notices something happening to her hands -- they're glowi She holds them up, realises its happening to her whole bo She is beginning to disintegrate in a strange golden glow She panics, SCREAMS as she evaporates into thin air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE reappears on the teleporter, in the same golden g she disappeared in, still holding her hands out, SCREAMIN The CREW are now all at their stations watching her in silence. In the quiet of the bridge, NANETTE'S SCREAMING seems overly dramatic. She stops. The chair in the centre of the room spins round to face h revealing CAPTAIN DALY sat in a classic hero pose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Lieutenant Cole. Welcome aboard. She stares at him, agape. CAPTAIN DALY (CONT’D) Crew, we have a new member of the team. Science Officer Nanette Cole. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "CAPTAIN DALY (CONT’D) (beat) Please, take your post - I believe we've finally managed to track Valdack to an uncharted planet. TULASKA, the nearest, nudges her. Signals to an empty cha",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(Gathering composure) No. Nervous looks from the CREW.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Take your post. That is an order.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I'm not doing this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(Dropping the act briefly) The whole thing's much better if you let yourself get into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "If you think I'm playing along with your Space Force bullshit--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Space Fleet -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "- whatever - just think again. CAPTAIN DALY's mood darkens. He stands from his chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "This is my ship. I am your captain. An order is an order.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Then go fuck yourself. \"Sir\". A stand off. The tension amongst the crew is palpable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Okay. So we're doing it this way. CAPTAIN DALY holds out a hand in her direction, not unlik the Emperor from Empire Strikes Back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What, you gonna 'throw a fireball'? The crew avert their eyes. They've seen this before. Suddenly DALY clicks his fingers. \f25 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "NANETTE's entire FACE suddenly becomes a perfectly smooth featureless bump. No eyes, no nostrils, no mouth. We hear a muffled gasping. Evidently she can't breathe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Oh dear. Can't see, can’t breathe? NANETTE is gasping -- but has no mouth. She pats her usel non-face, she clutches her throat, falls to her knees. The rest of the CREW return to their stations, trying to ignore the familiarity of the torture playing out. DALY comes closer, standing over her. CAPTAIN DALY (CONT’D) Unpleasant, isn't it? She's on the floor, gasping. DALY kneels beside her. CAPTAIN DALY (CONT’D) Do you submit? You won't die you know. No-one dies in here unless I want them to. I can keep you this way forever if I feel like it. Eternity - in darkness, gasping for breath with a mouth that isn't there. She writhes, desperate to breathe. DALY straightens up. CAPTAIN DALY (CONT’D) Do you submit? NANETTE is still squirming. CAPTAIN DALY (CONT’D) We have all the time in the universe. Do you submit? Eventually -- NANETTE nods. CAPTAIN DALY (CONT’D) Good girl. He clicks his fingers, walks away. NANETTE's face reappea She GULPS down air like someone rescued from drowning. CAPTAIN DALY spins his chair round away from NANETTE to f the large viewing screen at the front of the bridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "Lieutenant Cole. Valdack's hideout. Triangulate the signal please. \f25 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "NANETTE looks at the crew. No one is coming to help her. They've all been made subservient by DALY's omnipotence. Eventually NANETTE pulls herself up, heads over to her station. She sits at the chair next to SHANIA. NANETTE looks down at the controls, incomprehensible symb and colored shapes. SHANIA talks through the side of her mouth to NANETTE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(Whispering) Any button, they're all the same. NANETTE looks down to see a red flashing light on her controls. She presses it. The shapes and symbols move away to reveal an animation o star system, it zeroes in on a planet in that system. A flashing beacon pulses on the planet surface. Informati scrolls down next to it. NANETTE stares at it all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(Reading from monitor) I’m getting a signal from... a class 5 planet... Uh.. Rannotch B...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Rannoch--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Right. Rannoch B.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Excellent. Dudani, prepare the transmat system.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Of course Captain. CAPTAIN DALY gets up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Walton. Packer. Lowery. With me. We'll transport down to the planet. Reclaim the crystal. Bring Valdack to justice. The named crew members get up to follow CAPTAIN DALY to t TELEPORTER. CAPTAIN DALY stops: \f25 26 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "Actually, Cole. You come too. Perfect opportunity for you to prove you're more than a recommendation from Space Fleet. What do you say? NANETTE looks at TULASKA, who nods slowly and discreetly. PACKER, WALTON and DALY don BELTS with PHASER GUNS on the Meanwhile NANETTE joins them on the TELEPORTER. SHANIA indicates how to stand on one of the teleporter discs. CAPTAIN DALY (CONT’D) Mr Dudani. Transport!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Aye aye captain. He hits a button and the CREW DEMATERIALISES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The alien planet surface. Two suns hang in a mauve sky. DALY and the crew MATERIALISE into view. NANETTE looks a little dizzy. The rest are accustomed to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Breathable atmosphere. Scanning for Plasmorthian traces. DALY scans the horizon with his OMINICORDER, like it’s a geiger counter. The OMNICORDER beeps. Daly turns and points at the horizo CAPTAIN DALY (CONT’D) The crystal's this way. Let's go. He leads them toward it. DALY and WALTON walking ahead. As PACKER heads off, NANETTE spots the GUN on his belt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(hushed) Nate. She pulls level with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Hey Nate--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "(equally hushed) Helmsman Packer. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER, (CONT'D)",
+          "text": "You gotta call me “Helmsman Packer”. He gets mad if we don't use our full titles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "You got a gun, let’s take him out--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Not gonna happen --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "It’s worth a shot--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "One, our guns don’t work. Only his does. And two, the motherfucker's invincible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Least you got a gun. She’s getting more and more annoyed with this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY leads them down a craggy path with high rocky walls towards the centre of a crater. NANETTE looks up around t it feels like they’re being watched. Some small stones clatter down the wall behind them making WALTON jump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(nervously) Captain-- DALY is consumed by the readings on his OMNICORDER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Shhh! SUDDENLY VALDACK'S voice booms out from behind them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK, (0.C.)",
+          "text": "We meet again, Captain Daly! DALY swings around to see VALDACK standing on the crater’ edge above them, holding a massive grenade launcher, cove their only exit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "We're trapped! DALY raises his phaser.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "Not advisable. My plasma grenades would turn you into screaming soup. \f27 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "SHANIA leans in, whispers:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "He’s not going to kill us Captain. He had the element of surprise, he'd have done it when he had the chance. DALY nods. Looks at VALDACK and raises his voice:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Haven't worked out how to use the crystal, have you Valdack?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "It's true that I require your Space Fleet knowledge. It’s also true that you'll give it to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Don’t be so sure. VALDACK gives out a classic evil villain laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(under breath; it’s cheesy) Jesus. SHANIA shoots her an urgent look -- be quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "Let’s see how your resolve holds up when you're being devoured one-by- one -- by my Archanajax. AT THAT MOMENT a grotesque BEETLE MONSTER scuttles from behind VALDACK, over the edge towards the crew. It's abou the size of a large HORSE with great big gnashing mandibl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "We're all gonna die!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Killing us won't make us tell you how the crystal works Valdack. We'll never -- Suddenly his OMNICORDER emits a sort of electronic BING B Like a doorbell. He holds it up. CAPTAIN DALY (CONT’D) (breaking character) Hold on - think my pizza's here. (beat; raised voice) Pause game. \f27 28 29 30 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Suddenly DALY freezes in position, still holding the OMNICORDER. The crew RELAX. So does VALDACK. Even the ARACHNAJAX sits down. NANETTE is confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What's happening?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "You heard him, he's paused the game for a pizza delivery. (off incredulous look) Out there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The REAL DALY snaps out of his trance -- his pupils retur to normal -- and peels the VR DISC off his temple. The same Bing Bong his omnicorder made is coming from somewhere off-screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Hold on! He gets out of his seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "DALY takes a PIZZA box from a bored delivery guy. Flips o the lid and grabs a slice as he walks back to his bedroom",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE stares at CAPTAIN DALY, who's frozen in position, eyes open, still holding the OMNICORDER. She waves a hand front of his face. Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Watch out. He'll be back soon. VALDACK stretches and puts down his plasma launcher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "Goddam launcher's heavy as shit. (nodding down to CREW) How you guys holding up? SHANIA shrugs and rolls her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "We're existing. WALTON nods at the ARACHNAJAX. \f30 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 4l.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (CONT'D)",
+          "text": "How ‘bout you Gillian? The ARACHNAJAX lets out a mournful howl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (CONT'D)",
+          "text": "Well, yeah. SHANIA sees NANETTE is now staring at the ARACHNAJAX. She leans in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Her name's Gillian. She was in marketing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Daly turned her into... that... cuz she wouldn't \"play along\" when he cloned her into here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "This whole universe is littered with things like her. Poor fuckers who stepped out of line. NANETTE stares at the ARACHNAJAX sadly, and with a deeper sense of dread. Suddenly DALY's omnicorder emits a beep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Well, here comes Captain Dick- The crew re-assume positions. VALDACK picks up his launch The ARACHNAJAX gets back on its feet. DALY springs back into life, calling up to VALDACK.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "If we die, the secret of the crystal dies with us Valdack!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "So be it! The ARACHNAJAX advances toward them, gnashing its jaws.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Oh my God! We're going to die! DALY calls up one more time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Valdack!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "What is it Captain? Final words? DALY points to something to the far side of VALDACK. \f30 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Over there -- a naked lady!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "Whaaat? VALDACK turns to look. DALY raises his phaser and FIRES, hitting VALDACK in the shoulder. With a howl, VALDACK topples off the crater wall and land his back on the sandy floor. The ARACHNAJAX scuttles away. DALY and the CREW advance u the winded VALDACK as he groans in agony.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Great plan Captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Unparalleled tactics. Daly stands over VALDACK, who is alive -- barely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "(coughing up blood) We have fought many battles haven't we Captain?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "We have.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK",
+          "text": "And I have been a good adversary for you have I not? CAPTAIN DALY nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "VALDACK, (CONT'D)",
+          "text": "Then please. End it. Kill me. VALDACK looks DALY square in the eyes. He looks - despera CAPTAIN DALY considers the request. Aims his phaser at VALDACK's head, ready to fire the killshot. The rest of the CREW hold their breath, sensing a moment. Instead, CAPTAIN DALY lowers his phaser, sucks in air thr his teeth, gives an apologetic head shake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Killing in cold blood is against the Space Fleet code. I wish I could help. CAPTAIN DALY kneels down, drops the hero act for a moment \f30 31 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "Sorry. Bud. VALDACK looks like he could cry. The rest of the CREW loo away, each one with a strange look of defeat in their eye",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "(To the crew) Take him to the brig. SHANIA and PACKER help VALDACK up, drag him away as CAPTA DALY hails the CALLISTER with his omnicorder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (CONT'D)",
+          "text": "Dudani.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI, (0.C.)",
+          "text": "(From ship) Captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Transport us aboard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Another feverish round of For He's a Jolly Good Fellow is taking place as DALY basks in his latest achievement. He takes SHANIA in his arms, and does the damsel-kiss. Next it's TULASKA's turn. Then - as the singing continues he pulls NANETTE close and leans in to kiss her. NANETTE pushes him away. Slaps him. The SINGING stops:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "And so say - oh my fuck DALY holds his cheek. Glares at NANETTE. An ominous pause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "That wasn't very nice. He rises up, holds out his hand like the Emperor again. T crew holds its breath. Nanette braces herself. Then suddenly, DALY lowers his arm. CAPTAIN DALY (CONT’D) Today I will show you mercy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Great mercy-showing Captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(ignoring that) Tomorrow, you should reconsider your... amenability. I may not be feeling so benevolent. (Out loud) Exit game. CAPTAIN DALY instantly disappears. The ship goes into sta mode, the lights dim, leaving just the CREW. A beat, then",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(sigh of relief) Fucking hell.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "This was tense. (annoyed glance at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I don’t like tense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The CREW sit by the area where WALTON runs his 'bar'. He' filling DUDANI and TULASKA in on what happened on the gro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Wasn't too bad. Usual ‘standoff’ storyline. (beat) Saw Gillian from Marketing. NANETTE is pacing up and down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No way I'm kissing that asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Then he’s gonna get more and more pissed-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(back at PACKER) How about you kiss him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Look, it’s -- you get used to it. (beat) There’s no tongues, never tongues, if that’s any consolation-- NANETTE grimaces. \f32 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Doing tongues is not \"Space Fleet way\".",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "- and it's not like it can get beyond kissing anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "You haven’t noticed? WALTON clears his throat, steps out from behind the 'bar' calmly starts undoing the belt on his costume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okay what’re -- He unbuttons his pants -- NANETTE is appalled:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Don't do that -- He drops his pants, revealing -- nothing! Where his genit should be there's a smooth, hairless mound. Like a Ken do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "No genitals in Space Fleet. It’s a wholesome universe. NANETTE looks confused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "He must’ve modified our code that way. Think he’s scared of sex. (beat) We're all the same. Don't believe me, take a look down there. She points at NANETTE’s groin. NANETTE gingerly pulls the waist of her skirt away from her belly and peers down int her knickers. Her face says it all. WALTON, doing up his pants, adds:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "We've tried grinding our mounds together out of sheer boredom, no sensation at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Can’t even shit. Can’t even have the basic fucking pleasure of pushing out a shit. \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "They all nod, sadly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "I miss taking shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okay. Stealing my pussy is a red fucking line. We gotta get this bastard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "We've tried a million times. No way out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Walton, c’mon- Walton! WALTON downs his shot, walks off to sulk in a corner. NAN watches him go, shaking her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Daly's smart. But he’s not a God. He's a coder. He's fallible. (A flash of inspiration) Kabir! What was he holding? In his hand, that scanner thing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "His omnicorder. Primary communications device--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(to SHANTIA) You said he kept his version of the game offline. SHANIA nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "(to DUDANT) But his omnicorder made contact with the outside world. When the pizza came. Gotta be connected to his home system at least.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "The omnicorder’s gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "It loads when he loads, it goes when he goes. And that's the only one. NANETTE thinks. Walks over to one of the ship's computers It's displaying apparently random code raining down the screen. A bit MATRIX. \f32 33 34",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "There's got be a way to connect. She starts typing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "You won't hack it. I've tried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I haven't. 17 47. 32 She types furiously. DUDANI shakes his head and walks off",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "HOURS PASS -- during which we see an EXTERIOR SHOT of the CALLISTER with the HEAVENS rolling past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE is typing furiously. Suddenly she stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Bingo. DUDANI and SHANIA are nearby. She shows them the screen. An icon of a handshake, beneath it the words INVITE A FRIEND DUDANI's eyes widen as the penny drops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Oh that’s good. SHANIA still looks confused, so Nanette explains:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Part of Infinity's front end. You invite a friend with a custom message.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "You can get a message to outside?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Just one. 140 characters maximum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Who are you going to contact? NANETTE flashes a smile. \f35 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE, stands in the elevator listening to her ear buds exits into CALLISTER inc's LOBBY... ... which is now festooned with CHRISTMAS DECORATIONS. Even ELENA the RECEPTIONIST wears novelty antlers as she fiddles with her smartphone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Hey Elena. As NANETTE passes toward the office she hears her phone P It’s an email. ROBERT DALY INVITES YOU TO JOIN INFINITY. NANETTE opens the e-mail and stands reading for a moment. Beneath the 'SIGN UP NOW' icon is a message; THIS IS NOT SPAM. DALY HAS STOLEN YOUR IDENTITY. I AM YOU AND I'M TRAPPED IN MODDED INFINITY.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HELP ME. CONTACT CYBER POL",
+          "text": "NANETTE reads the message, thoroughly confused. Elena assumes there's a problem with her pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELENA",
+          "text": "You need me buzz you in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Wh - oh. No - uh. She puts her phone away and looks for her pass. KARL appe from behind, and proffers his own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KARL",
+          "text": "I’ll get that for you",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KARL",
+          "text": "After you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "More decorations. NANETTE heads across the floor, still slightly thinking about the email. Looking at her phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "She sees Robert Daly walking ahead of her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Mr Daly, hi. He looks up. A bit flustered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Uh, hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "You didn't send me an Infinity invite just now did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "What? No. What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "It was really weird, it had this message attached, about people \"trapped in the game\". DALY thinks fast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Probably a spambot, firewall doesn't always get them all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "That's what I thought. Weirdest thing. It went to my personal account, not my work mail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Hackers getting creative. I wouldn't worry about it. Didn't open the link did you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "God, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Maybe upgrade your security software I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Yeah. Well. Have a good one. She turns and heads back to her desk. Daly passes WALTON’s OFFICE, peering in. Walton is walkin around casually strumming an unplugged ELECTRIC GUITAR. Daly glowers. \f37 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WALTON is methodically banging his head on a desk. Slowly Bang. Pause. Bang. Pause. Bang. Pause. Eventually:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Could you cut that out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Trying to make it a hobby. Suddenly the LIGHTS turn up - the HUM of the ship waking",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "This is way too early. He's only been at work a few hours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "She got the message. I did. It's me. Or the cops most likely. (Smiles) We're getting out of here. SHANIA looks less convinced. They look at the DOOR -- as it slides open... to reveal CAPTAIN DALY. Glowering. NANETTE glances at the CREW. This is bad. DALY walks to the DISPLAY SCREEN and gazes out into space",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "What is Space Fleet? (Dark, quiet) I‘1l tell you what it is. It's a belief system, founded on the very best of human nature. It's a goal for us to strive towards, for the betterment of the universe, the betterment of life itself. He turns to face them. CAPTAIN DALY (CONT’D) (petulant rage) And you assholes are fucking it up! NANETTE steps forward.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "It was me. I sent the message. No one else was involved, I swear. CAPTAIN DALY stares at her. \f37 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "I tried the carrot. Now meet the stick. DALY raises his hand, emperor-style. SHANIA looks worried NANETTE turns defiant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "None of this is ever gonna make you happy, Daly. Cos you're sick. You're sick and you need to get help. DALY stretches out his hand. SHANIA has to intervene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Don't! (beat) Captain. Please. She’s new. She’1l behave. We’ll all behave. Just -- let her off. Just this once. DALY thinks. He lowers his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Okay. He smiles. And then aims his hand at SHANIA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No -- no - Too late. DALY concentrates -- and SHANIA starts to convu She SCREAMS in AGONY and drops to the floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Please no! Daly no! SHANIA mutates into an ARACHNAJAX. The metamorphosis is agonising. Her SCREAMS become more animal, guttural. NANETTE looks at CAPTAIN DALY, coldly looking back at her the ARACHNAJAX ROARS out in PAIN.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Know what makes me happy? The look on your face right now. He turns to the rest of the CREW. CAPTAIN DALY (CONT’D) (about ARACHNAJAX) Dudani, Walton, Tulaska -- throw that thing in the brig with Valdack. Packer, find a barren planet we can dump her on. (turns to NANETTE) (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f37 38 39 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "CAPTAIN DALY (CONT’D) And you. You can just stay here. Think about your attitude. The crew glumly set about their tasks, DUDANI and co shepherding SHANIA / ARACHNAJAX to the brig while PACKER to his navigation computer. CAPTAIN DALY (CONT’D) Exit game. He vanishes. NANETTE sits down, defeated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE stands by the window, staring out into DEEP SPACE She’s CRYING. Utterly broken. But then something catches her eye. Out the window, in th depths of space - a LIGHT. Something is happening. She wipes the tears and snot on her sleeve, looks out to OUT IN SPACE -- A cluster of stars swirl together, suckin debris from around them - forming a funnel shape... A WORMHOLE IS FORMING IN SPACE in the distance. She looks at the access panel screen beside the window. I kicks into life. Incomprehensible data scrolling down the screen. NANETTE studies it. It's code! She realizes what's happen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(To herself) Update patch. (beat; louder) The update patch! She RUNS toward the bridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE is beside PACKER, as he looks at a GALACTIC MAP o his display. The WORMHOLE is depicted on it, a distance a NANETTE taps the WORMHOLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "So what. It's a wormhole. The doors slide open, the remainder of the CREW slouch in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Uh-uh. It's the Christmas update patch, pre-installing itself. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f39",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "The wormhole is just how the game's expressing the uplink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "So? DUDANI understands what’s happening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "So Daly’s custom build is still connected to the internet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(nodding) Some way, somehow -- WALTON cuts in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "If this is another one of your '‘plans', just stop now before someone else gets monster-fied--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "This can work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "But we can't get online access from the ship, he’1ll have crippled permissions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Yes, but -- what happens if we fly into the wormhole?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Like on purpose? DUDANI has worked it out. His eyes widen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "We'd hit the system firewall -- and have our rogue coding deleted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Exactly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Deleted as in--?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "- as in die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Whether it’s ‘dying’ would depend largely on your philosophical position regarding sentient co- 53. 39",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(cutting in) We would cease to exist. That’s true. But we'd be free. (beat) We'd be free. The CREW go quiet. Think about what she's saying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "But this is academic since we have no means of getting to the wormhole-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Yeah we can only pilot the damn thing while Daly's here. He'll stop us like that. NANETTE thinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "How about when he's logged in but on pause? Like when his pizza came? He was just frozen there-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Flying would be possible-- (nodding at map) -- but that wormhole's a whole parsec away; we'd never reach it before he got back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE nods. Thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Unless we can stall him longer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "And that we do how?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "We'd need help from outside. From real me again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Worked good last time...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "How we meant to contact \"real you\" again anyhow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(to DUDANT) If we can get Daly's omnicorder, we can make a call, right? \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 55.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "That’s correct, theoretically, but--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Well, if we can get real me on the phone, I may have some... leverage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Leverage on yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Uh-huh. They stare blankly at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(almost reluctant) My PhotoCloud account. I know the password - obviously. There're some... interesting images in there. That I shoulda deleted a while back. But didn’t. (beat; deep breath) So we can blackmail me. Pretty sure I'd do anything to stop those pictures getting out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Must be pretty pictures.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Look if this is gonna work, we've all gotta be in on it. There’s a pause while they consider..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Flying into certain death in a wormhole beats another 10,000 years with Captain Ass. I'm in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Me too. They look at TULASKA.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Also me. WALTON suddenly pipes up from across the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Well I'm out \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "They stare at him. WALTON (CONT’D) Daly's won. We just gotta get on with it. We don't have a chance. NANETTE rounds on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Yes we do. We hit that wormhole, we're extinct. Gone. Rid of his shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(bitterly) Sounds peachy. NANETTE gets closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What's with you? Don't you wanna fight back? Why won't you fight back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Tommy . No-one knows what he's talking about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Who's Tommy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "My son. He's six years old. Least he was when I woke up in here. (beat) See, in the early days of this ship, it was just me and Daly in here. I was his pet project. He tried just about everything to break me. I withstood it all. Cos I thought there was still a chance I could get out. See my boy again. (beat) And I was right. I did get to see him again. Just not the real him. As WALTON continues to speak we see GLIMPSES from the PAS",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slow-mo, dreamlike. We see REAL WALTON showing his son TO round the office. Greeting KARL, DUDANI (AWKWARDLY), NATE SHANIA gives TOMMY a RED LOLLIPOP. He starts SUCKING it. \f40 4l 42 43 44 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 57.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (V.O.)",
+          "text": "Daly told me what happened. Back in the outside, real me brought Tommy into the office one day. Wanted to show him around. He would’ve loved seeing all the computers, he's into that stuff. (beat) Anyhow evidently, Tommy had a lollipop that day. TOMMY puts the LOLLIPOP down on a desk absent-mindedly. P focus to see DALY looking at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see DALY removing the LOLLIPOP from a PLASTIC BAG with TWEEZERS, placing it in his PETRI DISH DEVICE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (V.O.)",
+          "text": "That was all Daly needed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In slow-mo, CAPTAIN DALY leads TOMMY onto the BRIDGE. WAL is the only other crew member. His face lights up, but he also concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (V.O.)",
+          "text": "He copied him into here. And it was Tommy alright. Alike in every way. CAPTAIN DALY grabs hold of TOMMY before he can run to his Suddenly we're back in the present, on the BRIDGE -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Walton's voice is cracking. Nanette is silenced, listenin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "You know what he did to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Slow-mo still as CAPTAIN DALY drags a screaming TOMMY dow the corridor, towards the AIRLOCK with the ACCESS PANEL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (V.O.)",
+          "text": "He took Tommy and he threw him out the airlock. Right out into space. Made me watch. \f44 45 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "We see WALTON staring out of the window, screaming and howling in slow motion, horrified by what he can see...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WALTON is in tears now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Have you ever seen an unsuited body compress in space? They freeze. And crack. Like a porcelain doll. I take my hat off to Daly, the detail in this place really is exceptional. Everyone is stunned. Horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (CONT'D)",
+          "text": "He said he'd do it again. And again. If he had to. (beat) I can't let him do that to Tommy. Never again. (beat) Daly's still got his DNA. Got all our DNA. He told me. Keeps it ina bedroom mini-fridge by his desk. So I have to stay in line. (beat) Because even if we all die, he can bring us back. He can bring Tommy back -- whenever he wants. And God knows how he'd take it out on him. God knows what he'd do. But I tell you this. He’d make us watch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Holy shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(tears in his eyes) So you see? What choice do I have? (breaking down) What choice? NANETTE is closest. She holds him. And then she looks him the eye with all the conviction she can muster and she sa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Walton. We are gonna get that fucking lollipop. (beat) But you gotta believe me. Can you do that? Can you? He looks at her, uncertain. \f46 47 48 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We notice a uniform CHRISTMAS WREATH on the door, as the house lights up as DALY enters and heads to his bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Once inside, DALY sits down at his games desk. There’s now a slightly pathetic mini-CHRISTMAS TREE on it Grabs a chocolate milk from his fridge. We see the LOLLIP and the other DNA bags. He slurps, pops the VR DISC on his temple. Boots up the g An LED flashes. His eyes mist over. He goes limp. He's in",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CAPTAIN DALY bounds in. And smiles as he sees NANETTE is sitting dutifully at the COMMS desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "(to NANETTE) Good to see you at your position Cole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(saluting) Captain - you've come at just the right time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "I have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(nod) I'm picking up a distress signal from the surface of Skillane IV. Looks like a crashed shuttle. (beat) What should we do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Space Fleet never turns its back on those who need our help. Dudani, set a course for Skillane IV --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Aye aye sir \f48 49 50 51 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "We'll send a search party. (beat; turning round) Packer, Tulaska --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(cutting in) Actually Captain - I was thinking maybe you could take me alone. As science officer I need to learn the ropes. And I could use your close attention. DALY is flustered. It takes him a while to respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Good idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE and CAPTAIN DALY transport down onto a warm, crag planet surface. Arid mountains, lush lakes. DALY takes out his omnicorder, scans the area. NANETTE ey the device hungrily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Atmosphere's good. Daly spots the SHUTTLE up ahead. It's the size of a miniv CAPTAIN DALY (CONT’D) Over there. He leads the way. Behind, NANETTE exhales. So far so good",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The CREW are gathered around DUDANI's control panel, watc a wireframe map with a GPS dot on it, indicating DALY and NANETTE’s position. They're waiting for something. We tur see their faces as we hear DALY saying:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (V.O.)",
+          "text": "No signs of life here. Shuttle is deserted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CAPTAIN DALY and NANETTE stand a short distance from the SHUTTLE. DALY is talking into the omnicorder. There is a shimmering LAKE nearby. NANETTE looks at it and thinks. \f51 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "We'll scout the area, check for any life forms. Daly out. NANETTE starts walking toward the lake. DALY looks confus CAPTAIN DALY (CONT’D) Cole, we should head out this way. (beat) Cole? NANETTE unzips her uniform, slipping it off (she wears a sports bra and underwear beneath). CAPTAIN DALY averts his eyes -- then stops averting them. CAPTAIN DALY (CONT’D) Wh- what are you doing? NANETTE swims in up to her neck and turns around, smiling",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Ohmygod the water's great. DALY’s flustered. He's simultaneously annoyed and mesmeri",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Come on in!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Swimming's a leisure activity. We're on Space Fleet duty. NANETTE dives and resurfaces, smiling.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "We could always say I started drowning. You had to come in to rescue me... (beat) Come on in, my big Captain... DALY thinks. He's shy but wants to join her. He starts slipping off his clothes too (he has boxers on beneath). DALY carefully folds his clothes and lays them on the gro Puts the omnicorder on top of them and heads in to the wa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "(smiling) Gonna take all day? As DALY walks toward the water, smiling at NANETTE, we se the omnicorder start to GLOW. It's being TELEPORTED... \f52 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The omnicorder re-appears on the bridge. DUDANI scoops it as the rest of the crew look on anxiously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Okay, gotta patch it in. DUDANI sits the omnicorder on his workstation panel, a connecting circle appears beneath it. He's in. Everyone looks up to the main bridge screen, which now displays a search engine page. DUDANI navigates to the LO page of NANETTE'S PhotoCloud account.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI, (CONT'D)",
+          "text": "It worked. I'm connected. Gonna access her photocloud account.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "You actually remember that password?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "(from memory) Uppercase Y 998 lowercase g-p-7 Uppercase TY ampersand 4. (adding approvingly as he types it in) Secure choice. The screen switches to an iPhoto style GALLERY of Nanette personal photos. Pretty innocuous stuff so far.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Boring life. Everyone's staring at them as DUDANI scrolls down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "There's a thousand images here. This could take a while to find-- DUDANI focuses on his workstation. Then as they scroll do we watch the crew's faces. We see a picture of NANETTE grinning in a swanky hotel ro Taking a selfie in the bathroom mirror. Then another one her shoulder strap is down. And another -- Everyone reacts -- eyes widening at what they're seeing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Woah. Even TULASKA is momentarily impressed. She cranes her nec \f52 53 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "That is gymnastic physique.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Nice... bedding. PACKER swallows like he's seeing the face of God. There's pause as they all stare mesmerised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Should I keep scrolling? After a while of watching, wide eyed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "I'd say any of the last nine will do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "(swallowing) Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "At a desk in the corner real DUDANI sits typing into his system. Not far away the real NANETTE sits at her workstation, also working late. Earbuds in. SHANIA heads past, heading out for the holidays. She playfully bounces a stress ball off NANETTE’s head as she approaches. NANETTE pops out her earbuds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Thank you. Going out for the night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Hello, it’s Christmas Eve. Out of this place for like ten days. (beat) You'll fuse with that desk, go home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I will, just gotta finish off...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Well okay. Merry Christmas loser. NANETTE smiles. SHANIA leaves. NANETTE’s about to put the earbuds back in when her phone PINGS. Message from ANONYM She looks confused, taps it open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE COLE. REMEMBER THAT WEEK IN VEGAS",
+          "text": "NANETTE'S eyes widen. She seems to know what that means. \f53 54 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Then a PHOTO MESSAGE arrives. The bathroom mirror SELFIE. NANETTE reacts, horrified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Oh God, Elliot you asshole. Another message appears. Another image with the headline; PS - THIS ISN'T ELLIOT. She frowns -- then the phone RINGS in her hand: ANONYMOUS NANETTE lets it ring for a moment. Shock and panic overri everything. Then she answers it, to hear a gravelly voice We INTERCUT with the BRIDGE to show WALTON saying the following into a mic, with a hand over his mouth to make voice sound mysterious:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (0.C.)",
+          "text": "Nanette Cole. We have hacked your PhotoCloud account.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Who is this? What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (0.C.)",
+          "text": "Do exactly as instructed or first thing Christmas Morning your entire gallery will be shared with your friends and family. (beat) And PornHub. (At that last line we see TULASKA looking at WALTON unimpressed. He shrugs -- he thought it was a nice touch. A beat; fear in NANETTE'S eyes. She gulps. Holds her brow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okay. Whatever you want. I'll do anything. Just -- I'll do anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Then listen to our instructions carefully. There isn't much time. Get your coat on. (beat) Now! REAL NANETTE jerks to attention and immediately stands up",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY bobs beside NANETTE. He glances back to the shore. \f54 55 56 57 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "We should probably head back --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(hurriedly) Help I’m drowning! He whips his head back round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Oh, it's okay. Just - forgot how to swim for a moment. Haha! DALY smiles awkwardly at her. She's acting a little odd. Then she splashes him playfully with water. DALY’s almost angry. Then he smiles -- he smiles -- and splashes her ba",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Real NANETTE climbs over a BALCONY -- nervously -- and on safe, peeks into DALY'S WINDOW. She sees him lying limp i his chair, plugged into the game, but his BACK is to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(into earpiece) In position. INTERCUT with the BRIDGE of the USS CALLISTER:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "OK. We’ll hang up now. Make the call and do not fail the rest of your mission.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I will --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "You better. WALTON taps the omnicorder off and hands it to DUDANI.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Okay, send it back down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As DALY and NANETTE frolic in the water, the omnicorder rematerialises on top of his pile of clothing. \f57 58 59 60 61 62 63 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "DALY bobs underwater for a moment. A quick glimpse of NANETTE's smile fading - then reappearing as he resurface EXT. DALY’S APARTMENT - BALCONY - NIGHT 58 Real NANETTE makes a phonecall. Adjusts her earpiece.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(On phone) Yeah, I'd like to order a pizza. INT. DALY’S APARTMENT BLOCK - HALLWAY - LATER 59 A PIZZA GUY arrives. Checks it’s 102. Pushes a buzzer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The DISPLAY PANEL by the DOOR goes BING BONG.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As NANETTE and DALY splash each other, laughing, on the shore, DALY's omnicorder lights up and emit the same BING BONG sound as the doorbell. Both he and NANETTE look round.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Guess you better get that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY lies limp in the chair, eyes glazed, as the bing-bon continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY, still in his BOXERS, grabs the omnicorder. Looks at",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "It's the door. (beat) Pause game. He's frozen in position. NANETTE quickly grabs the omnico from his hand, taps something and speaks into it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Dudani? Pick me up. \f63 64 65 66 67 68 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "She chucks the omnicorder down onto DALY’s clothes, gathe her own clothes and starts to DEMATERIALISE...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": ".-. And REMATERIALISES on the bridge, still in underwear, clutching her clothes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okay. We don't have much time. She quickly starts to dress. Her and PACKER share a glanc for a moment -- PACKER looks away -- he's embarrassed. NANETTE briefly remembers the photos.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY snaps out of the game, takes off the VR DISC and pla it on his DESK. The BING BONG noise continues.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Coming! EXT. DALY’S APARTMENT BLOCK - BALCONY - CONTINUOUS 66 REAL NANETTE watches through the glass as DALY heads for door. As soon as he's gone, she OPENS THE BALCONY DOOR.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY stands by the door. He talks into the CONTROL PANEL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIZZA DELIVERY GUY, (0.C.)",
+          "text": "Pizza.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "I didn't order pizza.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Quietly, REAL NANETTE sneaks up to DALY's desk, picks up VR EXPERIENCER DISC, puts it in a pocket and REPLACES IT AN IDENTICAL COPY. Then she quickly opens the MINI-FRIDGE and looks at the LOLLIPOP BAG. She stares at it, bemused for a moment -- \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(hushed) The hell am I doing? -- then stuffs it -- AND THE OTHER BAGS - in her pocket. She quickly fishes her phone out and TAPS something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE is quickly dressing, while on the main screen, a chart is on display. WALTON is plotting a course. Suddenly there’s a DING and a large NOTIFICATION on the screen. FRIEND INVITE ACCEPTED! From NANETTE COLE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "That’s the signal! She’s got the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DNA",
+          "text": "(beat) All of it. Tommy too. She looks at WALTON, who is relieved beyond belief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "(To PACKER) Packer, we ready to fly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Uh-huh. A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Well?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "You're supposed to say something like 'engage' or ‘increase thru--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Just fucking go. PACKER nods, engages thrusters. The ship speeds into SPAC",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIZZA DELIVERY GUY",
+          "text": "Man someone ordered it. You want it or not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Hold on. \f70 71 72 73 74 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "DALY opens the door. He takes the pizza, beeps a CONTACTL CARD onto the pizza guy's PAYMENT WIDGET.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY, (CONT'D)",
+          "text": "Thanks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIZZA DELIVERY GUY",
+          "text": "Hey, I got it here in under twenty. (beat) There's supposed to be thirty in it for me. DALY looks at him blankly for a moment, then shuts the do",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIZZA DELIVERY GUY, (CONT'D)",
+          "text": "What the fuck asshole?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The real NANETTE hears the door shut. She FREEZES.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY takes a slice, pleased with his bounty. Tucks in. The digital doorbell BLEEPS. We see on the control panel PIZZA DELIVERY GUY still at the door. Demanding his tip.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIZZA DELIVERY GUY",
+          "text": "Come on man you promised... DALY taps the screen. Selects DO NOT DISTURB mode.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "To the PIZZA DELIVERY GUY's dismay, the little SCREEN wit the APARTMENT NUMBER ON IT changes to read DO NOT DISTURB There's an auto-locking sound. PIZZA GUY tries the DOORBELL again but now it’s SILENT. A beat. Then he gives up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PIZZA DELIVERY GUY",
+          "text": "Nice. Merry Christmas asshole! He turns and stomps away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY enters his bedroom, chewing a slice of pizza. He loo around. Something odd, perhaps? \f74 75 76 77 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "He looks at the window. Walks over to it. EXT. DALY’S APARTMENT BLOCK - BALCONY - CONTINUOUS 75 REAL NANETTE ducks down so he can't see her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY draws the curtains shut and walks back to his desk. He sits down, picks up the VR DISC. Puts it on his temple",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Resume game. Nothing. He peels the DISC off and blows on it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY, (CONT'D)",
+          "text": "Resume game. Still nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the DISPLAY, stars whizz past. But NANETTE is anxious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Can't we go any faster? That dud disc isn’t gonna fool him forever. Update's gonna complete before long and that means bye bye wormhole. PACKER points at his galactic map, showing the route.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Only quicker route would be through that asteroid belt there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "So let's go that way!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "It's way too dense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "If the ship broke up we wouldn't die, we'd just be left spinning in space-— \f77 78 79 80 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "- until Daly works out what's happening. He'd find us and fuck us over. NANETTE nods, still impatient.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Having inspected it, DALY gives up with the VR DISC.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Stupid thing. He TOSSES it across the room, opens a drawer. Rustles thr bric-a-brac, old paperclips and the like. At the back he finds a BRAND NEW VR DISC in SHRINK WRAPPED tasteful packaging. (It’s a small box -- about the size of the lit square case a pair of Apple earbuds comes in - NB maybe i a TCKR-branded product?) He RIPS it open. Quick cuts as fumbles and puts the new D on his temple.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY, (CONT'D)",
+          "text": "Resume game.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CAPTAIN DALY, still in his underwear, suddenly springs in life. He’s confused for a moment by the lack of an omnico in his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Okay Lt. Cole, let's head for-- (beat) Cole? He looks around. Where is she? He scoops up his OMNICORDE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "TULASKA sits up as DALY's VOICE comes through on a speake",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Daly to bridge. What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Shit. He had a backup disc. (to TULASKA) Don't answer him! \f81 82 83 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "Come in? (beat) Goddamnit. He looks around. Spots the SHUTTLE in the distance. Trudg towards it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DUDANI notes something on his display.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Uh-oh. The wormhole. It's decreasing in size.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Upload must be in the last few percent. Dammit Packer, we're gonna have to go through the belt. (beat) Think you can do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Think I can try. They watch anxiously as the DISPLAY swerves to show the ASTEROID BELT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT/INT. SHUTTLE",
+          "text": "On the ALIEN PLANET, CAPTAIN DALY is inside the SHUTTLE. taps a few buttons on the dash. Systems hum into life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Ships. Computer. On.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Computer, where is the USS Callister?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "USS Callister is on course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "On course for where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "The wormhole. A beat. \f83 84 85",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "What wormhole?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "The update vortex. A penny drops. Woah. WOAH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Sons of bitches. (beat) Prepare for takeoff. He hits some controls. The engines start up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "73.",
+          "text": "83 84 The CALLISTER swerves through the ASTEROID BELT, narrowly avoiding calamity. A small ROCK bounces off the hull.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The CREW lean THIS WAY and THAT, as PACKER pilots them between spinning chunks of space rock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields at 86 percent. Suddenly DUDANI notes something on his computer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "I’ve got a heat signature. Looks like a shuttle just took off from Skillane IV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Daly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Incoming transmission. 85 She hits a button and we INTERCUT with CAPTAIN DALY, spea into a handset on board the SHUTTLE, which is now in spac",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (0.C.)",
+          "text": "I know you can hear me. Whatever you think you're going to do won't work. But it is going to cost you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(to PACKER) Let's go faster!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "We're already at maximum. \f85 86 87 88 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Daly can't touch us unless he makes it on board. And that shuttle's a jalopy. He won't catch us in time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I hope you're right. Just then -- CLONG! Another small asteroid collides with ship. The crew rock about a little more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields 58 percent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY's SHUTTLE is whizzing through the inky dark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY continues hurling insults at them:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "If you thought what has happened to you in the past was bad, that was nothing. What I'm going to do you is going to be god damn biblical...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY's voice echoes round the BRIDGE as PACKER continues weave through the rocks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY, (V.O.)",
+          "text": "I'm going to literally turn your insides out, but I'll keep you alive, in jars--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Why are we listening to this? TULASKA nods, hits a button. DALY's rant is cut off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Yes fuck him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "We're at the edge of the belt... I think we're gonna make it... Nanette smiles. \f89 90 91 92 93 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He spoke too soon. Just as the CALLISTER exits the astero field, one ASTEROID collides with CALLISTER's hull. It di away, causing damage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thump! Rumble! The crew is jerked around. Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Shields critical, 6 percent -- Suddenly there's a heavy groaning sound from the engines.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "(studying screen; worried) The primary drive. It’s not responding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "I've lost all thrust! (beat) Engines not responding. (beat) We're drifting here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure enough, the ship is drifting in space. Powerless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The ship's computer announces:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "USS Callister has lost engine power.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Coming to get you! He accelerates a little more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All hope is lost. No-one knows what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "What do we do? \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "Everyone looks at NANETTE. She's in the captain's chair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "I don't know... (to DUDANT) Any way we can fix the engines?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "That's only feasible manually. By climbing inside the jet feeder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "So --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "So you'd burn to a crisp when the jet came on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "You'd burn without dying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Then one of us has to go. Sudden wide shot. WALTON isn't there. Suddenly - a voice:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (0.C.)",
+          "text": "One of us already has.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Walton?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The JET FEEDER TUBE is a bit like the interior of a giant ENGINE. Dark and lots of pipes and stuff. WALTON is in there, with some TOOLS. Wrenching at somethi in the wiring. He now has a COMMS EARPIECE in his ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "(straining as he wrenches something) Pretty sure I can fix this...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Walton, are you sure about this? WALTON keeps his eyes fixed on the task.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "I'm sure. (beat) Tulaska, can you patch me through to Daly? \f95 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "NANETTE looks at TULASKA. She nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Patching through. INTERCUT ALL THREE -- the CREW on the BRIDGE as they list WALTON in the JET FEEDER and DALY in the SHUTTLE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Daly? Can you hear me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Walton you're gonna pay for this --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Robert, listen-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "-- I'm gonna bring Tommy back in--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "Robert --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "And God so help me you’re gonna regret this all so hard--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOB I WANNA TALK TO YOU HERE",
+          "text": "DALY shuts up, momentarily chastened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON, (CONT'D)",
+          "text": "I was thinking I should say sorry. As WALTON talks he continues tinkering with a space-spann",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Go on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WALTON",
+          "text": "You created Infinity. You're a genius. I exploited that. Treated you like the golden goose. Got fat on the profits. (beat) Figuratively speaking. (beat) I was thinking I oughta say I should've appreciated you more. Shoulda treated you better. DALY doesn't speak for a moment -- this is touching him. \f95 96 97 98 99 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 78.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONTINUED",
+          "text": "WALTON (CONT’D) Yeah. I was thinking I should say all that. (beat) But you threw my son out of an airlock. So fuck you to death. And with that he WRENCHES something -- and the JET roars. WALTON is INCINERATED, SCREAMING.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WALTON's scream is cut off - the feed dies. ENGINES roar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "We got power back! He YANKS a thruster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The ENGINE roars -- and the ship HURTLES for the WORMHOLE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY anxiously looks ahead. A little graphic display show his shuttle is GAINING on the USS CALLISTER.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Callister at 4Km and closing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Faster!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Speed already at maximum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Whatever, just catch them!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Wormhole almost closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "(to PACKER) Keep her steady... PACKER sweats as he pilots the craft. \f99 100 101 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Steady...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The CALLISTER approaches the shrinking WORMHOLE... We INTERCUT with the CREW holding its breath:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Steady... And with DALY, shouting:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Come on! And with TULASKA saying:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "I hope we are going to die. And then... The USS CALLISTER SLIPS INTO THE WORMHOLE - - Which WINKS SHUT BEHIND THEM. And DALY's SHUTTLE zips past, missing the aperture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wild, bright lights on the display. Like the Falcon going into HYPERSPACE. The CREW stand together. Looking into infinity. They slowly, silently HOLD HANDS in a final act of solidarity. The entire BRIDGE distorts. Elongates. SPINS. Strobe lighting. Impressionistic faces of the crew. Like the black hole segment in 2001: A Space Odyssey. And then -- BLACKNESS",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TOTAL BLACKNESS",
+          "text": "And then suddenly: \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Something's changed. The bridge layout is the same, but t colour scheme is more MODERN. The display graphics are NOTABLY more HIGH-TECH. We have JJ ABRAMS LENS FLARE. Even the CREW COSTUMES are more MODERN. The women's outfi less revealing. They look down at themselves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "What's happened?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "The mod's gone. Daly's Space Fleet mod. It's been stripped away by the firewall. They glance at TULASKA -- she’s HUMAN again! TULASKA look down at her own skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Okay so this is good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "We're still alive? DUDANI looks at his display.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Yeah it only erased the Space Fleet mod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "We're not on Daly's computer any more. (beat) We're in the cloud. But TULASKA looks worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Where's Daly? DUDANI looks at his display.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "Firewall's deleted his rogue gamecode. And his controls are disabled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "You mean --? DUDANI nods, with a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "He's stuck there. \f103 104 105 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY's SHUTTLE thrums through space. Suddenly -- the stars start to disappear. All of them. Rapidly twinkling out of existence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Update complete. Wormhole closed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Daly frantically punches buttons.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Controls are disabled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DALY",
+          "text": "No no no-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The CREW sit on the BRIDGE, looking at the universe. Just then they hear the DOOR OPEN and a triumphant voice:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Arseholes! They spin around. SHANIA and VALDACK have just entered. K is now in INFINITY COSTUME, as are the rest of the crew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA, (CONT'D)",
+          "text": "Brig unlocked itself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KARL",
+          "text": "My Valdack outfit turned into this!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Yeah Karl, more to the point I’m not a fucking beetle thing anymore. (beat) Got my body back, I mean my full body back. Guessing we all did. PACKER thinks. Peers inside his own PANTS. And grins like man who's discovered his penis now exists again after a l period of absence. Because that's what has happened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "So what do we do now? \f105 106 107 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "We've got an infinite procedurally generated universe at our disposal. We can go anywhere. NANETTE gazes at the heavens on the monitor, awestruck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Holy mackerel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "DALY notices it's getting darker. He's worried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "What's happening?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Rogue universe detected... Deletion in process...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "No! NO! Undelete! UNDELETE!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "(voice slowing down) My mind is going... I can feel it.. The COMPUTER falls silent. The lights in the SHUTTLE dim.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAPTAIN DALY",
+          "text": "Exit game. Nothing. CAPTAIN DALY (CONT’D) Exit game! A penny drops. He panics.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The REAL DALY sits LIMP in the chair. EYES GLAZED. Mouth slightly open. Unable to move. The VR disc on his temple. The mini Christmas tree glows in the dark. We slowly drif away... \f108 109 110 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 83. INT. DALY’S APARTMENT BLOCK - HALLWAY - CONTINUOUS 108 We pull away from DALY's APARTMENT DOOR with its Christma wreath -— - past the screen that reads;",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DO NOT DISTURB",
+          "text": "And pull further out to see... EXT. DALY’S APARTMENT BLOCK - CONTINUOUS 109 «+. the entire building. Snow swirling. Sleighbells tinkl Passers-by walking past, oblivious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "TULASKA sees something on a monitor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TULASKA",
+          "text": "Incoming transmission! They all spin to look at her. TULASKA (CONT’D) It says Gamer691 --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DUDANI",
+          "text": "That’s... a playertag. Another ship. Another player --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "We're online. Patch them through! She nods and taps something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE, (CONT'D)",
+          "text": "Hello! Hey! This is the crew of the USS Callister. Man, are we glad to-- She's cut off by the sound of an obnoxious 13-year old BO",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER, (0.C.)",
+          "text": "Yeah, Merry Christmas, so are we gonna blow each other or are we gonna trade?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Um-— NANETTE opens her mouth, to be cut off again-- \fUSS CALLISTER. SHOOTING SCRIPT. 06.01.17 84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER",
+          "text": "Hello-o? Do you have anything to trade at all?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "No, uh-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER",
+          "text": "So why did you respond? OK just get the hell out of my quadrant or I’1l blast you to shit. You got ten seconds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "(yelling at TEEN) Oh do try -- we’ll photon bolt you right up the perineum, you stupid little boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER",
+          "text": "Five seconds!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "Come on then. NANETTE sees this is going to get out of control.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Okay Nate-- uh Helmsman Packer",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER, (0.C.)",
+          "text": "Five...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Yes Captain?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER, (0.C.)",
+          "text": "Four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SHANIA",
+          "text": "This kid--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Stick us in hyperwarp and lets - fuck off somewhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER, (0.C.)",
+          "text": "Three.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Aye aye, Captain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NANETTE",
+          "text": "Really, Nanette's fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PACKER",
+          "text": "Aye aye, Nanette. \f110 111 USS CALLISTER. SHOOTING SCRIPT. 06.01.17 85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER, (0.C.)",
+          "text": "Two. INT. DEEP SPACE - CONTINUOUS ll. The USS CALLISTER fires up its hyperwarp engines and ZIPS out of view leaving behind the HECTORING VOICE of GAMER 6",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TEENAGER, (0.C.)",
+          "text": "- One! Uh huh, you better run! King of space, right here. (beat) King of space.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_301"
+    }
+  ]
+}

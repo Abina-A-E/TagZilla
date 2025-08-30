@@ -1,0 +1,58 @@
+{
+  "movie_id": "MOV2497",
+  "scenes": [
+    {
+      "characters": [
+        "MAN",
+        "MORE PASSERSBY",
+        "WOMAN",
+        "WE",
+        "HOMELESS MAN",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FADE IN",
+          "text": "to find a dejected COCO leading her suitcases in a cab .. climbing in ... addressing the driver ... coco L.A.X.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "as COCO looks out at Los Angeles ... returning home and . she stops looking just as ... the cab passes a ROADSIDE S on a busy street and CUT TO",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WE",
+          "text": "stay with the ROADSIDE STAND ... see several HOMELESS PEO unloading the CRATES taken from the back of ERYSON’S pick-up ... FILLED with DEASE ART ... HANGING pieces on a fence as ... A CAR stops and a COUPLE get out ... regard the art ...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Oh that’s lovely. How much is it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOMELESS MAN",
+          "text": "I dunno. Five bucks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "the DEASE ... STUNNING LAKE OF CONSTANCE FILLING FRAME as",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MORE PASSERSBY",
+          "text": "begin to stop ... regard the MYRIAD PIECES OF DEASE ART . pulling wallets ... carrying them off and THAT’S IT",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_2498"
+    }
+  ]
+}

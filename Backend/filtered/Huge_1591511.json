@@ -1,0 +1,3211 @@
+{
+  "movie_id": "MOV930",
+  "scenes": [
+    {
+      "location": "TRAIN STATION TUNNELS",
+      "time": "DAY",
+      "characters": [
+        "ISABELLE",
+        "HUGO'S FATHER, (V.O.)",
+        "MONSIEUR LABISSE, (CONT'D)",
+        "YOUNG GEORGES",
+        "GEORGES, (V.O.)",
+        "STREET KID",
+        "ISABELLE, (V.O.)",
+        "MONSIEUR FRICK",
+        "MAMA JEANNE",
+        "ORDER",
+        "RECEPTIONIST",
+        "MADAME EMILIE",
+        "NOT HERE",
+        "TABARD, (V.O.)",
+        "CLINK",
+        "LISETTE",
+        "MONSIEUR LABISSE",
+        "GET OUT OF HERE, YOU LITTLE THIEF",
+        "MONSIEUR ROULEAU",
+        "HUGO'S FATHER",
+        "STOP THAT CHILD",
+        "HUGO, (V.O.)",
+        "HUGO'S FATHER, (CONT'D)",
+        "BAM",
+        "GEORGES, (0.S.)",
+        "TABARD",
+        "THEATRE MANAGER",
+        "UNCLE CLAUDE",
+        "GEORGES, (CONT'D)",
+        "ISABELLE, (CONT'D)",
+        "HUGO, (CONT'D)",
+        "TECHNICIAN",
+        "STATION INSPECTOR",
+        "BORED STUDENT",
+        "HUGO",
+        "GEORGES",
+        "YOU UNDERSTAND"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "From far above it looks like a great clockwork. We are looking down on the Grand Hall of the Paris Train Station. It is crowded. People bustle back and forth. Like the gears and wheels of a clock. A precise, beautiful machine. We float down... Under the great iron girders... Moving through the station... Past kiosks and shops... Weaving among commuters... We stop at a clock set into the station wall. Behind the ironwork dial we see a face peering out. HUGO CABRET looks at us. He is a serious-looking boy of around 12. Long hair. It is 1931.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo turns away from the dial and moves through the tunne behind the clock. A serpentine maze of passageways. Behind the walls. Hugo’s secret world. He moves quickly up and down spiral staircases ... duckin through tiny openings ... swerving in and out of dark passages ... up and down, back and forth... Like an elaborate game of Chutes and Ladders. He finally stops. Peers through another clock dial into a different part of the station. \fHe sees... A TOY BOOTH. Bedraggled and struggling. A counter filled with windup t dolls and little games. GEORGES, a grim old man with a white goatee, sits at the counter of the booth. Hugo watches. ISABELLE appears from inside the booth and talks to the o man. She has a book under her arm. She is a lively, imaginative girl about Hugo’s age. She h a charming Louise Brooks haircut. Isabelle argues a bit with Georges. He snaps at her. Upse she hurries off. Hugo watches her go. Then he turns his gaze to the toys on the counter. He sees the old man aimlessly wind a TOY MOUSE. It skitte across the counter. The old man crosses his arms. Falls asleep. Hugo stares at the toy mouse. Then he moves. He skitters through a series of passages and opens an air vent. He carefully climbs out, into the station...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo creeps to the Toy Booth. The toy mouse is there on the counter. Georges still appears to be asleep. Hugo stops. Waits. Looks around. Carefully reaches for the toy mouse-- But-- \fGeorges’ eyes snap open--! He grabs Hugo--! Hugo drops the toy mouse-- It falls and breaks-- Hugo struggles. Georges holds him firm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Got you at last, my little thief. Quick, empty your pockets!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You’re hurting me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Empty your pockets or I’1ll call the Station Inspector! Do as I say! The threat of the Station Inspector terrifies Hugo. He quickly empties his pockets. Dozens of objects. Screws Nails. Bits of metal and glass. Tiny pieces of clockworks Cogs and wheels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "And the other one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "There’s nothing in it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "(Starts to call) Where’s the Station Inspector...?! Hugo empties his last pocket. Reluctantly giving up a precious object: An old cardboard NOTEBOOK. Georges flips through it-- He sees words, pictures, engineering diagrams, schematics clockwork drawings-- Then he suddenly stops flipping-- Shocked-- It is like he has seen a ghost-- He stares at a page of the notebook-- \f4. A drawing of a MECHANICAL MAN man with clockwork innards. elegant and complex mechanism. But it is the face of the mechanical man that transfixes. Strangely passive and yet expressing a sort of sadness. O wisdom. It is a haunting face. Georges thumbs through a few pages of the notebook. It is like an old FLIPBOOK. The mechanical man’s face changes perspective as the page flip past. Like primitive animation. Georges stops. Slowly closes the notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "(whispers) Ghosts... He turns to Hugo. Sadness turning to rage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Did you draw these pictures?! (no response) Did you draw these pictures?! Hugo tries to pull away. Georges’ grip is iron.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Where did you steal this?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I didn’t steal it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "A thief and a liar. Georges releases Hugo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Get out of my sight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Give me my notebook!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is no longer your notebook, it is my notebook and I'll do with it what I want. Maybe I’1l just burn it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Then tell me who did the drawings. Hugo glares at him. Says nothing. Georges suddenly SLAMS his fist down on the counter. All toys jump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GET OUT OF HERE, YOU LITTLE THIEF",
+          "text": "His shout echoes around the station... Reverberating from walls ... ceiling ... girders ... wind +.. all around the cavernous station... To the ears of... MAXIMILIAN -- an enormous Doberman Pinscher. His ears perk up. His head tilts dangerously. He glares. Listening. Alert. THE STATION INSPECTOR, his master, glances down at him. The Station Inspector is a tall man in a bottle-green coa flamboyantly frightening ... Made even more menacing by a squeaking metal brace that bolts around one leg. He’s lik partly mechanical man. He and Maximilian are twin figures of implacable severity",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Maximilian? ... What do you hear? -.-.- Do you hear ... malfeasance?! The dog growls dangerously. Strains at his leash. The Station Inspector smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Go! \fHe releases the terrible hound-- Maximilian bolts-- The Station Inspector follows -- he is remarkably agile w his iron-shrouded leg, moving like an elegant spider-- Maximilian tears through the station-- People leap aside in shock and terror as the ferocious do sweeps past-- The Station Inspector spiders after him, his boots poundi over the polished floors, his leg brace squeaking wildly- Maximilian’s nails slips as he rounds a corner, he almost spins out, but doesn’t-- For ahead he sees-- Hugo. At the toy booth. Hugo sees the dog and sprints-- Running away in desperation-- Maximilian pursues-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The chase is on! Huge weaves through pedestrians -- whips around corners - races down and up stairs -- leaping over luggage-- Maximilian on his heels-- The Station Inspector follows relentlessly-- Insane whirlwind momentum as the station zips past-- Hugo pants for air, glancing back in panic-- Maximilian is closer and closer-- The Station Inspector spiders after them -- his leg brace screeching -- his green coat flaring out behind him like bat’s wings-- Hugo speeds through a CAFE, agilely weaving between the little tables and the sniffy French waiters-- \f7. Maximilian follows, not quite so agilely, upsetting table and waiters-- Chaos--! MADAME EMILIE, the shy older woman who runs the cafe, scr and clutches her beloved little DACHSHUND to her chest-- The dachshund barks furiously at Maximilian-- Hugo loops around a table-- Where a man who looks suspiciously like James Joyce is ha a demitasse with a man who looks suspiciously like Salvad Dali-- They are agog as Hugo races around them ... followed by Maximilian ... followed by the Station Inspector-- Hugo finally sprints away from the cafe. Tearing through the crowded terminal again. The Station Inspector calls after him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STOP THAT CHILD",
+          "text": "MONSIEUR FRICK, the shy older gentleman who runs a NEWSPA KIOSK across from the cafe, makes a half-hearted grab for Hugo-— But Hugo suddenly-- Dives-- Sliding on the polished floor between Monsieur Frick’s le Then he’s up and gone-- Monsieur Frick looks up, alarmed, leaps to the side as-- Maximilian thunders past-- The Station Inspector follows -- by now Hugo has disappea around a corner-- The Station Inspector and Maximilian rip around the corne top speed--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But Hugo is gone--! \f8. And ahead -- a MATRONLY WOMAN and her two UNIFORMED VALET carrying towers of boxes from the most exclusive stores i Paris-- The Station Inspector and Maximilian try to stop -- but c -- momentum too great -- collision inevitable--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BAM",
+          "text": "Boxes flying everywhere -- Valets knocked aside -- Matron Woman bellowing like Margaret Dumont -- the Station Inspe and Maximilian tangled! We move away from the chaos... Toward a wall... To find Hugo ... Safe behind an air vent ... Watching. He sees the Station Inspector pull himself up. Squeak his brace once in anger. Thwarted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo weaves through the tunnels. Comes to an iron door and enters...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is like stepping into the heart of a mechanical toy. Wheels and gears hang everywhere. There are rows of jars filled with cogs, screws and bits of toys. Tools. Scaveng furniture. Hugo’s home and makeshift workshop. He sits on a battered old trunk for a moment. Disheartene He pulls out a large POCKET WATCH. Looks at it. Takes a deep breath. Time to go to work. He picks up a bucket of heavy tools and goes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huge moves through the tunnels. \f9. Stops behind a large clock. He can see the station throug the clock face. He checks the time on his pocket watch. Then he uses tools from the bucket to wind the clock’s mechanism. Then he continues on. Opens a hatch and climbs down a rickety ladder...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He climbs down into a large clock that is suspended from ceiling of the Grand Hall. Clock dials and intricate work surround him on all four sides. While he winds all four clockworks, he looks out into the station below... He sees Madame Emilie, the shy older woman who runs the c cooing to her little dachshund. He sees Monsieur Frick, the shy older gentleman who runs newspaper kiosk, watching her. Monsieur Frick summons up his nerve. Timidly approaches h Bows rather formally. She is delighted. He tries to pet t dachshund. The dog snaps at him. Madame Emilie is mortifi Monsieur Frick retreats. Hugo climbs up, out of the clock...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo continues on. Climbs a ladder to a narrow passage that overlooks a platform...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo moves along a narrow passage above a station platfor He must kneel to wind this clock, which is at his foot le Through the clock he sees... MONSIEUR ROULEAU is a flamboyant young artist. He is pain at an easel. He is a Surrealist. His painting is wildly abstract. \f10. Some SUBURBAN COMMUTERS stop to look. They ridicule the painting. Monsieur Rouleau tries to ignore them. Hugo feels bad for him. Hugo completes winding the clock and goes...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo climbs and climbs and climbs. His bucket of tools is heavy. An endless staircase inside a high tower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo emerges at the very top of the station. An enormous clock. The motors and gears of the mechanism huge, bigger than he is. Hugo puts a crank into the works uses all his strength to turn it. It is like something out of METROPOLIS. And beyond the clock... Paris. A panoramic view. Somewhat unreal. Like an exquisite toy model. Exhausted, Hugo finally completes winding the clock. He takes a moment to look over the majestic city. And we fade to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Grand Hall is almost empty. Georges, in his hat and coat, is closing up the shop. Pul down a heavy grate. Hugo stands silently behind him. \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "(not turning) I know you’re there ... What’s your name, boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Hugo ... Hugo Cabret.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Stay away from me, Hugo Cabret, or I’‘1l drag you to the Station Inspector's office and he’1ll lock you up in his little cell and you'll never get out and you’1ll never go to school and you'll never get married and have children of your own to take things that don’t belong to them. Georges completes locking the gate and goes. Hugo follows. They walk through the echoing station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Give me back my notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I am going home to burn your notebook. Georges sweeps through the doors, leaving the station. Hugo stops at the doors, hesitates for a moment. He is extremely uncomfortable at the idea of leaving the station. It has become his whole world. Everything beyond threatening. But his need now is great. He steels himself, takes a bre and pushes through the doors, following Georges.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges walks through the dark streets of Paris. Hugo follows. It is the spirit of the great city we see, not the real thing. Shapes and silhouettes of buildings. Architectural details. Sounds. Illusion. \f12. Like a lovingly crafted 1930's movie set.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You can’t burn my notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "And who’s to stop me? Hugo wasn’t prepared for leaving the station. It’s cold. has no winter coat. He pulls his clothes tightly around h Later... Georges walks on. Hugo follows. A little closer. Later... Georges walks under a street lamp. Hugo follows. A little closer still. Later... Georges walks over a bridge. Hugo follows. A little closer still. Later... Georges moves through a sinister alley. Hugo, scared, is walking right next to him now. Georges ignores him. Snow begins to fall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges and Hugo walk through a graveyard. Twisted trees. The shape of tombstones. Like Lean’s GREAT EXPECTATIONS. Snow continues to fall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges walks to a decrepit apartment building. Right acr from the graveyard. Shabby part of town. \f13. The old man stops and unlocks the chipped front door with large key. Hugo waits. Georges enters the building and, without a glance, slams door shut behind him. Hugo stands there. Snow falls. Hugo steps back, studies the building. He sees Georges enter an upper floor apartment. Sees a handsome older woman -- his wife -- greet him. They disap from view. Huge scans the other windows. He sees Isabelle, the girl the Toy Booth, in another room of the apartment. She is reading by the window. Hugo watches her. Snow collects on his head. He finally tosses a pebble up at the window. Isabelle loo down. Sees him. She stares at him quizzically. He motions for her to come down. She is intrigued but unsure. He motions. Begs. Please. Isabelle smiles. She loves nothing more than an adventure. She disappears from the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo stands shivering. Isabelle runs to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Who are you? \f14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Your grandfather stole my notebook. I need to get it back before he burns it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Papa Georges isn’t my grandfather and he isn’t a thief! He told me all about you, young gentleman. You’re nothing but a... a reprobate! She is delighted with the word. He doesn’t understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Can you help me get inside?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "No. You have to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Not without my notebook--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Why do you need it so badly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(hesitates) I... I can’t tell you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Is it a secret?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Good! I love secrets! Tell me this instant!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "If you won’t tell me you have to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Not without--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I’‘1l get in trouble. Just go home! He won’t budge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All right! I'11 make sure he doesn’t burn your notebook. He looks at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Trust me. He looks at her. He nods. He runs off. She watches him go. What a strange boy. She smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo enters. Still cold. He strikes a match. Lights a few candles. A golden glow fills the strange chamber. 15. Hugo takes out his pocket watch and hangs it on a special hook by the bed. Then he moves to a corner... There is something covered in an old sheet... He pulls off the sheet to reveal... The AUTOMATON. An amazing mechanical man. A couple feet tall. Exposed ge and levers. Clockworks and springs. In a state of disrepa We recognize the strange, haunting face from the drawings Hugo’s notebook. The Automaton sits at a little desk. Pen poised to write something. Hugo stares at the passive face of the Automaton. And remembers. \f16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO, (V.O.)",
+          "text": "What is it...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER, (V.O.)",
+          "text": "It’s called an Automaton. The color fades as we go six months back in time...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The memory has the quality of a SILENT FILM. Black-and-wh Simple images. The flickering, glowing luminescence of ea movies. Hugo and his FATHER live in a poor, cramped garret. Big skylight. Paris beyond. An enormous full moon beyond that The Automaton -- now in much worse condition, battered an rusty, missing parts -- sits before Hugo and his Father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "An Automaton...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER",
+          "text": "I found him abandoned in the attic of the museum.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What does he do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER",
+          "text": "(tinkering with it) He’s a windup figure, like a music box ... This is the most complicated one I’ve ever seen by far. You see? This one can write.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(transfixed) Who built him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER",
+          "text": "I would think a magician.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "A magician!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER",
+          "text": "That’s right. Magicians used machines like this when I was a boy. No one could figure out how they danced or walked or sang. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER, (CONT'D)",
+          "text": "But the secret was always in the clockwork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Can we fix it?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER",
+          "text": "Oh, I don’t know, Hugo, it’s awfully rusted and finding the parts would be... He sees Hugo’s disappointment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO'S FATHER",
+          "text": "Of course we can fix it! We’re clock makers, aren’t we! ... But only when I’ve gotten through all my work at the shop and at the museum, you understand? Hugo hugs him. His father smiles. The Automaton seems to watch them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Music. Hugo sweeps up as his father works fixing clocks. The tiny, cramped shop is a jumble of clocks, watches, ge movements, springs, dials.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Music. Hugo’s father winds and oils clocks in an old museum fill with Victorian curiosities.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Music. Hugo and his father work on the Automaton together. They huddle at the workbench. Hugo’s father patiently teaches him. Hugo learns eagerly. Hugo’s father stops to make a note. \f18. We realize he is writing in the NOTEBOOK, the one Georges took.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Music. Hugo’s father is working on a stubborn clock at the museu Then... The music stops... Hugo’s father slowly turns... Curious... He moves to a stairway... Looks down... He sees... A PILLAR OF FLAME. Raging right up at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is very late. Hugo is working on the Automaton. The door opens. He turns eagerly:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I fixed the gears in the-- But it is not his father. It is his UNCLE CLAUDE. Unshaven. Greasy. Crude. Huge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Uncle Claude...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE CLAUDE",
+          "text": "There was a fire. Your father’s dead. Pack your things quickly. You’re coming with me. \f19. Hugo stares.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo lugs the heavy Automaton, covered in a sheet, as he follows Uncle Claude through the empty streets. Hugo struggles to keep up with Uncle Claude’s huge gait.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE CLAUDE",
+          "text": "You’1l be my apprentice. You'll live with me and I’1l show you how to take care of them clocks. (Takes a swig from a flask) I’m getting too old to be climbing through them tunnels. They turn a corner. And ahead of them... The Train Station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uncle Claude and Hugo enter the secret apartment. It is filthy and rank. Dickensian. Hugo sets down the Automaton. Looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE CLAUDE",
+          "text": "They built these apartments for them who ran the station, years ago. Everyone’s forgotten they’re here. You sleep in the corner. Uncle Claude plops down. Drinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE CLAUDE",
+          "text": "Get some sleep. We start work at five.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What about school?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UNCLE CLAUDE",
+          "text": "You're finished with school. There won't be time for that once you're in them walls ... You should thank me. \f20. Uncle Claude clears his throat. Takes a drink. Looks away Hugo carries the Automaton to his corner. He sits. Dazed. Absolutely forlorn. Then he pulls the sheet off the Automaton. He looks into the Automaton’s face. His only friend. They sit together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Funeral tableau. Hugo and Uncle Claude at the grave site. Uncle Claude dri from his flask. Hugo bows his head. Tears beginning to fall. Color gradually returns as we leave the past and return t",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo sits, looking at the Automaton. Alone. Despondent. We fade to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo peers out from behind an air vent. Waiting. Watching. Madame Emilie is opening her little cafe. Her dachshund hovers protectively. Monsieur Frick approaches cautiously. Bows gallantly and offers her a newspaper from his kiosk. Madame Emilie is charmed. The dachshund attacks this time! It chases Monsi Frick away. Madame Emilie follows in horror. \f21. Hugo seizes his opportunity-- He scrambles quickly from the air vent-- Races to the cafe-- Grabs a croissant and bottle of milk-- Runs off-- Disappearing into the crowd of morning commuters. INT. TRAIN STATION -- GRAND HALL —- MORNING Hugo moves through the grown up world, eating the croissa No one notices him. He sees the imposing Station Inspector and the ferocious Maximilian approaching! Hugo moves next to a woman. Falls into step. Acts like he son. She doesn’t notice. The Station Inspector passes. Hugo continues on. But Maximilian stops. Turns. Sniffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "What is it? He looks. Sees nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "We shall be alert, my friend ... We shall be ... vigilant. He and Maximilian go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges is opening the Toy Booth. Hugo stands silently behind him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I thought I might see you today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I need my notebook. \f22.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Why do you need it so badly?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "To help me ... fix something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "What? Hugo doesn’t answer. Georges hands Hugo a handkerchief tied up into a bundle. unties it. Ashes. It is filled with ashes. Burned paper. Hugo looks at the ashes. Horror and disbelief. Tears stin his eyes. He can’t breathe. The ashes fall... Cascade and swirl delicately down... Over Hugo’s shoes... To the floor. Hugo looks up at Georges. He is shocked to see there are tears in Georges’ eyes as well.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Go away ... Please just go away. Hugo wipes his eyes with his dirty, ashen hands, leaving black smudges on his face. He backs away. Then he turns and runs off. Tears flowing freely now. He races around a corner and--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "--Bang! He runs right into Isabelle. She was hiding, waiting for \f23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Hey!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Sorry -- I--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I saw. Are you crying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Hold still. She uses her handkerchief to dry his eyes and clean his f as:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "There’s nothing wrong with crying. Sidney Carton cries. And Heathcliff too. In books they’re crying all the time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(grabs handkerchief) I can do it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I have to talk to you. It’s terribly important. But not here. We’re too ... exposed. She dramatically grabs his hand and pulls him off. INT. TRAIN STATION -- GRAND HALL —- MORNING Hugo continues to clean his face as they move through a different part of the station. She is carrying a book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Where are we going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Only to the most wonderful place on earth! Neverland and Oz and Treasure Island all wrapped up into one. They are approaching Monsieur Rouleau. He is at work on h Surrealist painting. \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Good morning, Monsieur Rouleau.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Morning. She stops and looks at the abstract painting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Oh, it’s coming along marvelously!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "It’s the station ... How I see it anyway ... Do you like it? Hugo looks at the painting. Takes it seriously. Isabelle appreciates this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You know, I think I do ... Yes, I like it very much. Monsieur Rouleau is pleased.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "We have to go ... Well done, Monsieur Rouleau! Hugo and Isabelle go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "He’s a Surrealist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Mm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "That’s a kind of painter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I know what a Surrealist is. I’m not an idiot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Ah, here we are! Ahead of them... Her secret realm ... Wonderland and Oz and Treasure Islan all wrapped up into one... \f25. A used bookstore. They enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A little bell jangles when they enter. MONSIEUR LABISSE, the shop owner, is perched high on a st at the front of the store like the Caterpillar from ALICE WONDERLAND, peering over a stack of dusty books. He is a slight, sad sort of man. He brightens when he see Isabelle. But he is extremely suspicious of Hugo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Good morning, Monsieur Labisse, may I present Monsieur Hugo Cabret, a very old and dear boon companion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE",
+          "text": "(bows ) Monsieur Cabret.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Hello.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(handing him book) Thank you for this. I think I’m halfway in love with David Copperfield ... Photography?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE",
+          "text": "(points) Back corner left, top shelf.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Thank you. Monsieur Labisse watches them go. Hugo’s dirty clothes an long hair convince him he must be a shoplifter -- or wors Isabelle leads Hugo deeper into the store. It is a world of books. Stacked in every direction. To th ceiling. Rivers of books. Mountains of books. Gloriously cluttered.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Listen, what’s so important? \f26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Papa Georges still has your notebook. He didn’t burn it. That was all a trick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Why? She climbs a ladder in search of a book:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I don’t know. The notebook made him very upset. He and Mama Jeanne stayed up late talking about it. I think he was crying. Hugo thinks about this. How strange.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "It’s a mystery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I know!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Why are you helping me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Because this might be an adventure! I’ve never had one, outside of books. She grabs a book. Comes back down the ladder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I think we should be very ... clandestine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "By the way, my name’s Isabelle ... Do you want a book? Monsieur Labisse lets me borrow them. I could get one for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(horrified) Don’t you like books?! \f27.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No, I do ... My father and I used to read Jules Verne together... He stops. She senses his strong emotion. Respects it. They move to Monsieur Labisse at the front counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(xe: book) May I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE",
+          "text": "Of course. Good day, Isabelle. Monsieur Labisse watches Hugo with suspicion as they leav the shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They move through the bustling station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "How do I get my notebook back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I think you should stand up to him. He'll respect that ... Don’t tell him we talked. I’1l help you if I can ... Be steadfast! She disappears into the crowd. He watches her go. Be steadfast? What a peculiar girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges is sitting at the counter. Evenly staring at something. He aimlessly cuts and re-cuts a deck of cards with one ha as he stares. We finally see what he is staring at... Hugo stands there on the other side of the counter. Stari back at him. Steadfast. \fIt is like a showdown. Finally:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t believe you burned my notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "You don’t? ... Well, maybe I did and maybe I didn’t. You’1l never know, will you? Hugo holds his ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Shall I call the Station Inspector? Hugo holds his ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Go ... away. Hugo holds his ground. Georges glares at him. Hugo glares back. A long beat. Gunfighters. Neither blinks. Then... Georges slowly reaches under the counter... He pulls something out... Something covered in a handkerchief... He sets it on the counter... 28. With the panache of a magician, he pulls off the handkerc to reveal... The toy mouse that Hugo broke earlier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Fix it. Hugo looks at him. \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I said, fix it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I need my tools. Georges pulls out a canister of tiny screwdrivers, pliers files and hammers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I know you’ve been stealing parts from the shop ... Might as well use those you haven’t stolen yet. Hugo looks at the broken toy mouse. Then at Georges.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "If I fix it, do I get my notebook?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "We'll see. A challenge. Hugo starts to work. He uses the tiny tools ... hammering ... screwing ... adjusting ... tinkering... Georges watches. Hugo fixes the spring ... fits the key ... hammers the body... Finally he sets the toy mouse down on the counter. Georges looks at it. He winds it. The toy mouse skitters playfully across the counter. Georges is impressed, tries not to show it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Give me my notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "You've got a bit of talent. But you'll have to prove there’s more to you than being a thief ... You can earn your notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Come to the booth everyday. I'll decide how long you must work for each item you stole, and it will be up to me to decide when you have earned your notebook, if ever.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I already have a job.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Thief is not a job, boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I have another job, but I’1l come when I can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "You begin tomorrow. Go away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I’1l begin now. Hugo bravely goes into the booth and gets a broom. Starts sweeping up. Georges watches him. 30. Across the station, a little DANCE BAND is starting up at Madame Emilie’s cafe. A few couples dance. An afternoon tea dance. A lovely, bygone image. Couples dancing under the massive iron ribs of the great train station. The music echoes throughout the Grand Hall. The music from the band takes us to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dance band music as... --. Hugo works at the Toy Booth. Across the booth, does a card trick. Hugo watches the trick closely. notices. Georges Georges \f31. .-. Isabelle and Hugo walk through the bookstore, chattin Monsieur Labisse eyes Hugo with suspicion. -.. Georges teaches Hugo how to do the card trick. .-. Hugo demonstrates the card trick to the Automaton. ... Hugo repairs a broken toy in the booth. Isabelle is there, chatting to him. He ducks away when the Station Inspector and Maximilian pass. She is intrigued. -.. Georges watches Hugo demonstrate the card trick to a customer. He hides a smile. .-. Hugo works on the Automaton. It looks done: polished, cleaned, beautiful and ready. But for one thing. We now s that there is HEART-SHAPED KEYHOLE in the back. --. Hugo tries a bit of bent metal in the keyhole. Doesn’ fit. He adds it to a collection of scavenged items he has tried. Nothing fits. .--. Isabelle and Hugo playfully dance to the band at the with other couples. -.. Georges watches them dance. Content. ... The band dance ends the song with a flourish. Hugo bo to Isabelle. She laughs. The montage ends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo is waiting for Isabelle outside the book shop. He sees the Station Inspector and Maximilian cutting thro the crowd. Hugo ducks around a corner and watches nervous But the Station Inspector has another quarry today. A young STREET KID, around Hugo’s age, is loitering near another shop. The Station Inspector stalks him and then sweeps down lik bird of prey. The Street Kid makes a move to bolt-- But the Station Inspector releases Maximilian, who leaps, crouches and snarls in front of the terrified Kid-- The Station Inspector grabs the Kid brutally. Shakes him. \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Where are you parents?! Answer me!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STREET KID",
+          "text": "(terrified) Got none. Without another word, the Station Inspector drags him awa his leg brace squeaking ominously. Maximilian loping afte them. Hugo darts into an air vent. INT. TRAIN STATION -- NARROW PASSAGE/INSPECTOR’S OFFICE - Hugo is in a cramped passage that overlooks the Station Inspector's office, peering through a clock face. The Street Kid is in a tiny, awful cell. He is sobbing. Maximilian sits alert, glaring in at the Kid. The Station Inspector is oiling his leg brace as he talks the phone:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "(on phone) +». yes, another one. Useless waste of an orphan by the looks of it. Come get it. Suddenly-- Maximilian turns. Looks toward Hugo, ears perked. Hugo sinks back into the darkness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo watches through a clock face. He sees the Station Inspector dragging the Street Kid thr the doors of the station and throwing him into a police truck. The truck roars off. The Station Inspector comes back inside. He stands looking over his domain. Maximilian at his side Imperious. Hugo disappears back into the tunnels. \f33. We linger for a moment with the Station Inspector. His ey scan the terminal. Then he stops. He watches LISETTE. A beautiful and shy girl who runs a little flower stall. She’s organizing bunches of flowers. They surround her: an explosion of vibrant color in the terminal. The Station Inspector gazes at her. He’s besotted, has be for a while. He gets up his nerve ... Puts on an awkward smile ... He begins to approach... But then his leg brace squeaks sharply. It echoes through terminal. He stops. Embarrassed. He gives up. Moves off with Maximilian.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo and Isabelle move through the bookstore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "++. I’m still looking for your notebook. I have to be very circumspect. She loves the word.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You better not look inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "If I find it I should be able to look inside it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Then don’t look for it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I’m trying to help. Why are you being so mean? His heart sinks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Just ... Promise me you won’t open it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Fine. To Hugo she suddenly looks very grown up. She is disappoi \f34. They wander deeper into the store. Monsieur Labisse, perched on his high stool, keeps an war eye on Hugo. Hugo picks up a copy of ROBIN HOOD, smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I saw this movie! With Douglas Fairbanks. Did you see that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I’ve never seen a movie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Isn’t it appalling?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You’ve never seen a movie? Not ever?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Papa Georges won’t let me. He’s very strict about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(excited) I love movies! My father always took me for my birthday. Hugo is surprised he suddenly spoke about his father. He not regret it though. They wander through the teetering piles of books in silen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Is your father dead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t want to talk about it. A beat. She takes his hand for a quick moment, then releases it. A gesture of support. Friendship. They continue strolling. Hugo stops. An idea. He looks at her. \f35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Isabelle ... Do you want to have an adventure? Her eyes light up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Again, the suggestion of Paris. A movie theatre facade. An Art Deco marquee. A green neon sign: Silent Movie Festival. Isabelle and Hugo stand looking up at the theatre. She looks at him. Beams. He nods his head and nonchalantly leads her down an alley next to the theatre...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They move down the alley ... passing a series of fading m posters ... Keaton ... Lon Chaney ... Doug Fairbanks... He stops at a side door and begins to deftly pick the loc with one of his tools.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "We could get into trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "That’s how you know it’s an adventure. Click. He opens the door and peeks in. Coast is clear. He looks at her. Yes or no? She’s game. They sneak in. INT. MOVIE THEATRE -— DAY The flickering light above. \f36. The glowing screen. Iridescent. Hugo and Isabelle are sitting at the back. The famous Harold Lloyd film SAFETY LAST is playing. Isabelle’s eyes are wide. She’s transported. The magic of motion pictures. She’s never seen one before. Life captured on the screen. Living, moving history. The iridescent glow from the screen illuminates her face. Hugo glances to her. Her enchantment touches him. He smiles. The light flickers above them. Time passes... It's the climax of SAFETY LAST. Isabelle is wrapped up in the movie. Can barely watch. Can barely breathe. Harold Lloyd is climbing dangerously around the outside o the skyscraper. Acrobatic stunts still hair-raising after these years. Harold Lloyd grabs the big clock face. It springs open--! Isabelle grabs Hugo’s arm in horror--! Hugo looks at her. Amused. Harold Lloyd clings to the hands of the clock and then continues to climb around the building. Then... From the darkness behind Hugo and Isabelle... Two huge white hands slowly descend... \f37. Like the Frankenstein Monster's mitts... Grabbing them on the shoulder... They jump! The THEATRE MANAGER looms over them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THEATRE MANAGER",
+          "text": "How did you two rats get in here?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Manager dumps them outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THEATRE MANAGER",
+          "text": "And I better not see you in here again! He closes the doors. Hugo and Isabelle laugh and run off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is chilly. Fog. Hugo and Isabelle walk home along the Seine. The silhouette of bridges. The sound of lapping water. Th shape of boats moving past. Radio music from a houseboat. Hugo tightrope walks along the edge of the bank, like Har Lloyd on a ledge from SAFETY LAST.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Why doesn’t Papa Georges let you go to the movies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I don’t know. He never said. I bet my parents would have let me. I’m sure they were very aesthetic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What happened to them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "They died when I was a baby. Papa Georges and Mama Jeanne are my godparents, so they took me in. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE, (CONT'D)",
+          "text": "They're very nice about most everything, except the movies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "My father took me to the movies all the time. We saw Tom Mix and Lon Chaney. But Douglas Fairbanks was my favorite. Hugo sword fights along the bank for a moment. A beat as they walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What was he like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "He loved the movies ... Ever since he was a kid and the movies were new. He told me about the first one he ever saw. He went into a dark room and on a white screen he saw a rocket fly into the eye of the man in the moon. (smiles) He said it was like seeing his dreams in the middle of the day. A beat as they walk. He speaks quietly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "The movies were our special place. It was just us ... We’d go in and watch something ... and for a little while we didn’t miss my mom so much. She’s touched by his honesty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "You think about him a lot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "All the time. A beat as they walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Who looks after you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "My uncle was supposed to ... But he started going away a lot. Drinking. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Staying out all night ... One day he didn’t come back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "So you’re all alone?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Not completely. A beat as they walk. She stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Hugo ... Where do you live? He stops. Looks at her. Should he tell her? Should he trust her? Yes. He points.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "There. She looks... Across the river... The Train Station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo and Isabelle move through the crowd. She is incredulous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "--. My uncle taught me how to run the clocks. So I just keep on doing it ... Maybe he’1ll come back one day, but I doubt it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "But ... Aren’t you afraid someone will find out? 39. \f40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Not as long as the clocks keep on working and no one sees me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What do you do for money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Don’t need any. A beat as they walk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Can I see it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Where you live! In the walls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Maybe? Hugo suddenly sees... The Station Inspector and Maximilian... Walking right toward them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Act natural.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Just keep walking. Act natural.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(perplexed) How am I acting now? Then she sees the Station Inspector and Maximilian. She understands. They put on an elaborate show of “acting natural” as they walk toward the Station Inspector. They pass him. \fA sigh of relief. But... The Station Inspector stops. 4l. Turns. His leg brace squeaks like a rifle shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Hey! You two. Hugo and Isabelle freeze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Come ... here. Hugo is about to bolt. Isabelle sees it in his eyes. With a look, she cautions him against it. She will handle this another way. She drags him back to the Station Inspector. sweetest face:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Good day, Monsieur!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "(icy) Where are your parents?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I work with my Papa Georges at the Toy Booth, surely you’ve seen me there. And this is my cousin from the country, Hugo. (Whispers) You’1l have to forgive him, he’s a little simple-minded. Doltish, really. Poor thing. The Station Inspector leans in. Peers closely at Hugo. Hugo gives him a simple-minded look. Maximilian noses right up to Hugo. Sniffing. A low growl. Puts on her \f42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "It seems Maximilian disapproves of you, little creature ... Why would he disapprove of you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I... don’t know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(to the rescue) Perhaps he smells my cat?! Christina Rossetti’s her name, after the poetess! Would you like me to recite? “My heart is like a singing bird/Whose nest is in a watered shoot--!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "All right, all right ... Go on then -.. But remember, in my terminal children are not permitted to run amok ... Not ever. He gives them a last chilling glare and goes. They see hi into this office, shut the door. They’re free of him for moment. Hugo looks at Isabelle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Doltish?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "It worked didn’t it? They continue on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Now since I just saved your life how about letting me see your covert lair?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "My what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Where you live in the walls!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I can’t understand what you’re saying half the time. \f43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "That's because I am so gigantically literate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I’1l tell you what ... I’11 let you see my “covert lair” if you do one thing...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What’s that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You have to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Yes...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Catch me! And he is off like a shot-- Isabelle laughs and pursues-- A wild chase through the station. It is nice to see Hugo enjoying himself. His usually sobe face is smiling. His serious personality gives way to sim play. He’s just a kid now. Having fun with his friend. Hugo tears through the station... Past the cafe... Leaping over Madame Emilie’s yapping dachshund... Careening around Monsieur Rouleau’s easel... Barreling through the terminal... Isabelle follows. Laughing. This is all from a child’s perspective. We cut past tower adults. Weaving in and out. Diving under platform gates. Scrambling over benches. And at top speed. Sliding and _ skidding wildly on the polished floors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carefree. Then Hugo diverts quickly through a door into--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo sweeps past towers of luggage-- He jumps and climbs over a cart piled high with luggage a steamer trunks-- Isabelle follows gamely, laughing, bouncing after him-- They slam through a door to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Suddenly-- A tight corridor. Scores of passengers moving swiftly. A great crowd. Too many. Hugo and Isabelle are unexpectedly caught in the mob of passengers. The passengers are hurrying. Late. In a rush. Too many big people pushing them back and forth, crowding them, jostling them. Isabelle trips! She falls. Amidst the pounding crush of feet. Scary. Hugo turns. His face. Concern. He pushes back. Reaches for her. His hand stretches out. She takes his hand. Her face. \fGrateful. He pulls her up to safety. The crowd thins out around them. But he is staring at something, amazed. 45. In the action, a necklace has emerged from her collar. A on a piece of string. A distinctive heart-shaped key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Where did you get that?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "None of your business. She tucks the key away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I need it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I just need it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Not unless you tell me why. He looks at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo leads her through the tunnels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "This is marvelous! ... I feel like Jean Valjean!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I used to imagine I was the Phantom of the Opera. Like in the movie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "It was a book too. You know sometimes things are books before they’re movies! He leads her through the iron door to... \f46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo lights some candles. She takes the apartment in. The cramped quarters. The cha of tools and machine parts hanging everywhere. She loves",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Oh, this is superlative! Hugo pulls a sheet off the Automaton. She is instantly captivated by the wonderful machine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "It’s an automaton ... My father was fixing it before he died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Why would my key fit your father’s machine? ... That doesn’t make any sense. They look at the Automaton for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "He looks sad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I think he’s just waiting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "For what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "To work again. To do what he’s supposed to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What happens when you wind him up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t know. She takes off her necklace. Hands it to him. He fills the Automaton’s little inkwell with ink. He puts a fresh piece of paper on the little writing desk \f47. It’s ready. Hugo pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What’s the matter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I know it’s silly but ... I think it’s going to be a message from my father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Do you want me to go? He shakes his head. A beat. Then he carefully inserts the key. And winds the Automaton. Steps back. The world hangs in suspense. Nothing happens. He looks at her. She doesn’t know what to say. He looks back at the Automaton. Nothing. But... Then we go... INSIDE the Automaton’s body: Things begins to move... A cascade of perfect movements, with hundreds of brillian calibrated actions... A spring connects to a series of gears... The gears extend down to the base of the figure and turn brass disks... \f48. Two little hammers come down and trail along the edges of disks... The little hammers translate motion back up through a ser of rods... The rods silently turn other intricate mechanisms in the figure’s shoulder and neck... The shoulder gears move... Engaging the elbow... Setting off a chain reaction of movements down to the wrist... And finally... The hand. QUTSIDE again: Hugo and Isabelle watch. The Automaton’s hand moves slightly. Just a twitch. They gasp. Hugo and Isabelle lean forward, wide-eyed with wonder. The miniature hand begins, very cautiously, to move. Hugo and Isabelle hold their breath. The Automaton dips the pen into the ink and begins to wri It draws a small line. The hand moves. Another small line The hand moves. Another small line. Hugo and Isabelle lean closer. The Automaton continues to move. Dip the pen. Draw a line Move. Draw a line. Dip the pen. Move. Draw a line. But it is meaningless. A series of scratches and lines without order. Nothing. Hugo stares. His heart sinking. \f49. Then the Automaton stops. Finished. Hugo is devastated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What an idiot -- Thinking I could fix it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Hugo-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "It’s broken. It’ll always be broken! Anguish beyond tears. She doesn’t know what to do. She goes to him. Trying to comfort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Hugo ... You can still--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You don’t understand. I thought if I could fix it ... I wouldn’t be so alone. He buries his head in his hands. A long beat. Then she notices something. The Automaton is moving again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Hugo ... Hugo, look -- look! He glances up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "It’s not done! It’s not done! They rush back to the Automaton. It is moving more quickly now. All the gears and wheels spinning perfectly. Draw-move-ink-draw-move. Hugo realizes: \f50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "It’s not writing ... It’s drawing! Indeed it is. Faster and faster. A blur of ink. Lines forming together. Shading and cross-hatching. Draw-move-draw-move-ink-draw- draw. An image begins to emerge. We don’t see it entirely. We see bits and pieces. Something familiar about it. Hugo and Isabelle stare. Finally the Automaton stops. It waits. Pen poised. Hugo and Isabelle exchange a glance. And we finally see the image in full... And recognize it instantly... A TRIP TO THE MOON. The round face of the man in the moon. Rocket protruding his right eye. Hugo’s father’s favorite movie. The very image he told Hu about. Hugo is trembling. Suddenly-- The Automaton starts moving again--! Hugo and Isabelle jump--! The Automaton dips the pen and moves its hand into positi And signs the drawing: “Georges Melies.” A flourish under the signature and then the Automaton is done. \f51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "“Georges Melies” ... That’s Papa Georges’ name! Why did your father’s machine sign Papa Georges’ name?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "And why does my key fit it? Hugo shakes his head. He just looks at the Automaton. He smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Thank you. He turns to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "It was a message from my father ... Now we have to figure it out. She is delighted. A mystery!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sun is sinking. Hugo and Isabelle approach the apartment building. Hugo, who has watched it so often from outside, hesitates going in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Come on. They enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Impoverished gentility. A few small rooms. Neatly kept. Old furniture. Fading wallpaper. MAMA JEANNE, Georges’ wife, is sewing in a corner. She we heavy reading glasses. She is a handsome older woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fIsabelle and Hugo enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Isabelle...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(kisses her) 52. Mama Jeanne, we have to talk to you --. This is Hugo Cabret.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Good evening, ma’am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Very good manners for a thief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I’m not a thief. Jeanne considers him coolly over her glasses. Removes the",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "What’s going on, Isabelle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(excited) Oh, well, it’s a terribly long story, filled with circumlocutions! It all began several weeks ago when I was... Hugo stops her:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Wait. He pulls something from inside his coat. A piece of paper. Folded over. He hands it to Mama Jeanne. She unfolds it. It is the picture the Automaton drew. The TO THE MOON. She stares down at it. A complex range of emotions pass over her --. nostalgia ... sadness ... When she looks up at them there are tears Isabelle is struck by the sight. image from A TRIP features ... shock in her eyes. \f53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Children ... What have you done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Mama Jeanne...? Mama Jeanne dries her eyes with a little handkerchief. Isabelle finds there are tears in her eyes as well. Hugo sees Isabelle’s tears. Feels awful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Where did you get it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You’11 call me a liar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "No, child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "A mechanical man drew it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "You have him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "My father found him in a museum. No one wanted him. We fixed him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "But it needed ... (She realizes. Looks at Isabelle. ) My key. Isabelle removes the key.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "The key I gave you... A beat as it all sinks in. Then she stands. She hands the drawing back to Hugo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Please, take it away. We can’t dredge up the past now. And whatever happens, don’t let Papa Georges see it. \f54.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Please tell us what’s going on! She begins to lead Hugo to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "It’s no business of yours. You must forget all this. Hugo stops. Holds his ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "We worked hard to fix it, my father and me, and ... it’s all I have left of him ... I need to know what it means. A beat. Mama Jeanne looks at him. Moved by his passion and need. She looks at him seriously. Speaks with great compassion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "There are things you are too young to understand ... You should not yet know such sadness. Then... They hear someone climbing up the stairs to the apartment",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "It’s Papa Georges!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "He can’t know you’re here. This way... She quickly leads them through the apartment to the maste bedroom...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mama Jeanne hurries them in:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Just keep quiet. I’1l find a way to get him out of the apartment. Not a noise from either of you. \f55. She inadvertently glances toward a large armoire. Hugo an Isabelle both notice. Then she quickly goes. Shutting the door. A long beat. Hugo and Isabelle look at each other. They hear the muffled sounds of Mama Jeanne and Georges talking in another room. Whispers:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "She looked at the armoire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I already searched it when I was looking for your notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I’‘1l look again. You stand guard!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Splendid! Hugo opens the armoire and searches through it. Isabelle, meanwhile, goes to the door. Peeks through the keyhole. Through the keyhole: Georges and Jeanne are across the apartment, in the kitchen. She is pouring coffee. She ste a nervous glance to the bedroom door. Hugo rifles through the armoire. Clothes. Sheets. No clue No treasure. Nothing. Hugo steps back, studies the outside of the tall armoire. He notices something: A decorative panel at the very top of the armoire has two thin parallel cracks in it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Look!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "We have to investigate! He carries a chair to the armoire. \f56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Let me, I’m taller. She climbs up on the chair and examines the decorative pa She has to stand on her tiptoes to reach it. He makes a gesture for her to knock on it. She does so. It sounds hollow. They are both excited. She carefully grips the edges of the decorative panel. Sh pulls. She pulls again. The panel comes off in her hands! Revealing... A hidden compartment at the top of the armoire! A large box is inside the compartment. Isabelle hands down the panel to Hugo. Then she begins to pull the box out. But it is heavy. She struggles a bit. He holds the chair steady. She almost has the box out now... But it is ungainly, she was unprepared for the weight, an she is still balancing on her tiptoes... As she pulls the box out... She loses her balance... The chair lurches... She almost falls... But miraculously gets her balance... Shoots a relieved glance down to Hugo... But... Then a leg of the chair SNAPS--! She falls-- Shrieks-- Hugo catches her-- \f57. The box falls-- CRASHES to the floor-- SMASHING open-- Sending up a cyclone of paper-- Hundreds of pieces of paper of every shape and size scatt across the floor and fly through the air-- Hugo and Isabelle are surrounded by a tornado of paper, i swirls around them-- On the paper-- Wonderful drawings. Fanciful and imaginative. Dragons and devils. Spaceships and submarines. Fairies and fish. Elaborate landscapes of fantasy... One of the drawings seems to slow as it whirls past Hugo. The man in the moon, a rocket protruding from his right eye... The swirling papers finally descend to earth... Revealing... Georges. Standing in the doorway. Mama Jeanne behind him. Georges looks at the carpet of drawings spread out before him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "(whispers) Back from the dead ... His quiet anguish gives way to anger-- He wades into the drawings-- Grabbing handfuls-- Tearing them up-- Shredding them violently-- Flinging them away-- Mama Jeanne grabs him: \f58.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Stop it, Georges! Stop! This is your work!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "My work?! -- What am I? Nothing but a penniless merchant! A broken windup toy! He spins on Hugo in fury:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I trusted you -- and this is how you thank me?! You cruel -- cruel-- Suddenly he can’t speak-- Something's wrong -- he gulps for air-- Mama Jeanne sits him on the bed. He is exhausted, gasping breath. His sad eyes gaze over the chaos of drawings. He whispers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "An empty box, an old rocket, a lost monster ... nothing, nothing, nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "I’m sorry, Georges ... I’m so sorry... Isabelle takes Hugo’s arm and gently pulls him out. He glances back. Sees Mama Jeanne tenderly holding her disconsolate husban Hugo is haunted by the poignant image.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Evening. Street lamps are coming on, illuminate the scene Isabelle is at the front door. A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I should go back. \f59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Okay. A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I’ve never seen him cry before. Hugo takes her hand. A comforting gesture of friendship. She acknowledges it. A faint smile. She starts to close the door. Stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Thank you for the movie today ... It was a gift. She shuts the door. Hugo walks down the street. He stops under the street lamp for a moment. Gazing back at the apartment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo enters. Deep in thought. Head down. He’s not looking and accidentally bumps right into-- The frosty Monsieur Labisse! Labisse drops a few books he carrying. Hugo quickly picks them up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Oh, I’m sorry, sir! He notices one of the books is the ROBIN HOOD he was look at before. He smiles when he sees it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE",
+          "text": "You know that volume?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I used to read it with my father...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE",
+          "text": "Hm ... It was intended for my godson. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE, (CONT'D)",
+          "text": "But now I think it is intended for you. (slight formal bow) Monsieur Cabret. Labisse goes, leaving Hugo with the book. Hugo is shocked his unexpected act of kindness. A voice:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Things aren't always what they seem. Hugo turns. Monsieur Rouleau is working on his painting nearby. Hugo goes to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Why would he give it to me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Because you needed it. Hugo looks at Monsieur Rouleau’s Surrealist painting. It like Magritte or Dali. But the images echo Hugo’s story. robot. A train. A clock...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I recognize the clock. But it’s different.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Sitting here, day after day, I watch things. I watch them change in the light. A clock becomes a wheel becomes a train becomes a rocket becomes a robot ... It’s like a story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "How does it end?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "I don’t know. The story’s not over yet. There’s something gently magical and mad about Monsieur Rouleau, touched and touching. He mixes some paint on his palette.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "But it’ll be surprising. \f61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Because things aren't always what they seem?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Well, look around you ... Not all clocks run forever ... not all little boys live in houses ... and not all messages are written on paper. Hugo is struck by his words.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Quick, behind the canvas! Hugo sees the Station Inspector approaching. He ducks beh Monsieur Rouleau’s large canvas. The Station Inspector arrives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Monsieur Artiste. How goes the painting? May I look?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "(stops him) Not ready yet. Soon ... Things must happen at the opportune moment. The Station Inspector looks across the terminal to the lo Lisette at her flower stall. The object of his affection. He sighs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "If we only knew when that moment was...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "For the heart, there is only now, my friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Do you think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "Of course! Go say hello to her ... Go on, give me your best smile. The Station Inspector tries out his best and brightest sm sort of a pained grimace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ahh ... Radiant! The Station Inspector is encouraged. He steels walks away toward Lisette. Hugo emerges from hiding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Thank you, sir ... Your painting is going to be magnificent. Hugo scurries off. Monsieur Rouleau watches him go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR ROULEAU",
+          "text": "So is yours. Meanwhile... 62. himself and The Station Inspector heads toward Lisette at the flower stall. She’s arranging a breathtaking bunch of like a vision from Monet. He freshens his maladroit smile and “casually”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Mademoiselle Lisette, a very gracious good evening to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISETTE",
+          "text": "(shy) Monsieur Inspector.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Hm. Yes ... Those are lovely posies there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISETTE",
+          "text": "They're from Gourdon. They come in on the overnight train.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Ah, Gourdon. Splendid country that. All the ... cows and such ... Do they have a smell? blue irises, arrives. He leans in to sniff the irises. This causes his leg brac squeak awkwardly. He stiffens. She glances to his brace. He sees her glance. A moment between them. \fHe nods stiffly. Turns to go. Walks a few steps. But then he stops ... No. He will not be ashamed returns to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "You see I was injured in the war. It will never heal ... Good evening to you, Mademoiselle. He turns to go. But...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISETTE",
+          "text": "I lost my brother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Where?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISETTE",
+          "text": "Verdun. 63. --. He His eyes are sympathetic. He was there. He knows. A beat. Neither is sure what to do. How to proceed. Then she smiles shyly, snaps off a blossom, and tucks it his lapel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISETTE",
+          "text": "Good evening, Monsieur Inspector.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "(bows ) Good evening, Mademoiselle Lisette. He goes. His leg brace squeaking proudly. And we fade to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A wide boulevard. Fine motorcars. Magisterial buildings. A part of Paris we have not seen before. Wealth privilege. and \f64. Hugo and Isabelle look particularly small standing in fro of the most august building on the street: The French Fil Academy. Two great stone lions flank the entrance. The lions gaze balefully at them, as if annoyed at their presumption. They summon their courage and enter...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo and Isabelle’s heels click as they cross an enormous marble void to the reception desk. The RECEPTIONIST -- a stern dragon of a woman -- watches their approach as balefully as did the lions outside. They finally reach her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Excuse me, Madame-- She stops -- her voice echoes in the massive chamber -- continues more quietly:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Excuse me, we would like to use the library. She looks them up and down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "No?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "You’re too small and too dirty. Goodbye. She returns to her paperwork. They stand for a moment. Isabelle starts to go. Hugo stops her. He addresses the dragon receptionist:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Excuse me. I thought the library was open to all Frenchmen. \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "Not small and dirty ones.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "In that case ... (clears his throat nervously) I would like to see your superior. She looks at him. Daggers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "What kind of dreadful little Jacobin are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "The kind that wants to use the library. He holds his ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo and Isabelle move through a lovely library. Two stories. Shining brass fixtures and rich wooden shelv Neats rows of books. They go to the circulation desk. The bored STUDENT mannin the desk doesn’t even glance up from his book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Excuse me, sir, we’re looking for a book about very early movies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BORED STUDENT",
+          "text": "(points without looking) Rene Tabard. THE INVENTION OF DREAMS. Row Four. Section Three. Top shelf.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Much obliged. What are you reading? Hugo hauls her away. They move through the stacks to find Row Four, Section Th They pull down a large book from the top shelf. They go to a library table and look at the book: THE INVENTION OF DREAMS: THE STORY OF THE FIRST MOVIES by Rene Tabard. \f66. Hugo runs his hands over the cover. He glances to Isabelle. This could be it. The answer to their quest. He opens the book. They begin to read:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO, (V.O.)",
+          "text": "“In 1895, one of the very first films ever shown was called A TRAIN ARRIVES IN THE STATION, which showed nothing more than a train coming into a station...” We see the little film of the train steaming into the station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE, (V.O.)",
+          "text": "“But when the train came speeding toward the screen, the audience screamed because they thought they were in danger of being run over. No one had ever seen anything like it before.” Hugo smiles to her:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No one had ever seen anything like it before. They turn the page... And we go with them... INTO THE BOOK... Flickering images from the very first movies... Fragile fragments of life captured forever... A stream of factory workers leaving work ... Two Edison technicians dancing ... Skyscrapers in New York ... Londo street scene ... a boxing match ...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO, (V.O.)",
+          "text": "“What began as a sideshow novelty soon grew into something more as the first filmmakers discovered they could use the new medium to tell stories...” \f67. And now we see storytelling and narrative replacing the quaint real life images... Edison's THE KISS ... THE GREAT TRAIN ROBBERY ... THE CAB OF DR. CALIGARI ... INTOLERANCE ... Buster Keaton ... Lou Brooks ... William S. Hart ... Doug Fairbanks ... Jean Renoir... The splendid, magical, romantic, lost world of silent mov flickers past... And then... The culmination of the whole sequence... We end at one iconic image... Glowing with light... A TRIP TO THE MOON. The man in the moon with a rocket protruding from his eye Hugo and Isabelle stare at the image. They share an excited glance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(reads ) “The filmmaker Georges Melies was among the first to realized that film had the power to capture dreams...”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(reads ) “This great pioneer of early cinema died during the Great War--”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Died...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(reads ) “Died during the Great War.” They stop. Stunned. Unbeknownst to them, a tall and imposing figure has been looming over them. Observing. PROFESSOR RENE TABARD is a formidable presence. Stern and uncompromising. \f68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "You're interested in Melies? The kids jump -- slam the book shut almost guiltily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Yes, uh--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "It’s allowed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Is it? A long, cool, appraising stare. Then Hugo realizes something -- he nudges Isabelle -- the photo on the back of the book shows the author: Rene Tabard. The same man who is standing before them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Come with me. INT. FILM ACADEMY -- TABARD’S OFFICE - DAY A door opens into ... the world of Georges Melies. Professor Tabard’s office is something of a shrine to Mel Tattered old movie posters, film stills and handbills for magic shows line the walls. Mountains of books, photographs and archival records. Als few props and costume pieces lovingly preserved. Tabard shows Hugo and Isabelle some of the photographs an artifacts:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Here he is at work in his studio -.. And this is a handbill advertising his stage act ... And this is one of his actual cameras!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Why do you have all this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Your godfather is a passion of mine. He was a great filmmaker. \f69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(looking at a photo) He was a magician? They look at a photo of showing a YOUNG GEORGES on a stag doing a magic trick:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Yes, he began on the stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "How did he start making movies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "No one really knows. Hugo has been studying the old photographs and Daguerreotypes. Something special strikes him about them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Look how happy he is... Indeed, the joy and passion on Young Georges’ face is a marked difference to the moody old man we know. Isabelle turns to Tabard with a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Professor Tabard ... Would you like to meet him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Oh, but you see, I have met him. He smiles. The color fades as we go into Tabard’s memory. As with Hugo’s flashback earlier, this has the quality of SILENT FILM. The flickering, glowing luminescence of earl movies...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the country, outside Paris. YOUNG TABARD is with his Brother. Young Tabard, around te is staring at something, awed at what he is seeing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD, (V.O.)",
+          "text": "My brother worked as a carpenter building sets for Melies. One day he took me to visit the studio... We see what Young Tabard has been gazing at: \f70. George Melies’ film studio. The studio is an absolutely astounding sight. A great greenhouse-like collection of glass rooms. A soaring cast of glass:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD, (V.O.)",
+          "text": "It was like something out of a dream. The whole building was made of glass ... In reality this was to let in all the sunlight necessary for filming, but to my eyes it was nothing short of an enchanted castle ... a palace made of glass... Young Tabard and his Brother go into the studio...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A dragon! A great mechanical puppet, writhing and attacking, jaws snapping, articulated by puppeteers. They’re trying to ge to work for the shot: a battle with some knights. Young Tabard is engulfed in the filming of one of Georges movies. It’s a joyous chaos of wildly dressed performers, fantastic sets, explosive special effects, technicians, filmmakers. In the background we see flats and set pieces from other Melies movies: moons, suns, monsters, great fish, castles And at the camera ... his back to us ... is YOUNG GEORGES himself. Lining up the shot. Fiddling with the camera. Young Tabard sits quietly in a corner and watches as the technicians try to get the dragon to work properly. Young Georges finally turns from the camera and we see hi face ... Vital. Alive. Happy ... A marvelous twinkle in h eye. He glances over to Young Tabard. Sees the enchanted look the boy’s eyes. Smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG GEORGES",
+          "text": "If you’ve ever wondered where your dreams come from, just look around. This is where they’re made. A technician calls to Young Georges: \f71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TECHNICIAN",
+          "text": "Think we got it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG GEORGES",
+          "text": "(calls back) Very good ... But we need to change the scene... He glances back to Young Tabard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG GEORGES",
+          "text": "We need to add one ... more ... knight. Later... Young Tabard is now costumed as a knight, bravely fightin the mechanical dragon alongside other actors. He is having the time of his life. He will never forget this moment. Young Georges watches from the camera. Pleased. Georges looks into the camera ... Then we go into the camera ... we see the film zipping through the camera ... the image of the dragon battle bei recorded ... then the film being processed ... an emulsio bath ... the film being dried ... finally the film runnin through a movie projector... And the completed movie glowing from a screen... Young Tabard sits in a theatre, watching as the dragon ba is projected. His face. Amazed. Delighted. We leave the past as color returns and we are again at... INT. FILM ACADEMY -- TABARD’S OFFICE - DAY",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "In the end, he made over 500 movies ... He was phenomenally popular in his day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "But why did he stop? \f72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Up until today, I believed that he died in the war, like so many others.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Can we watch some of his movies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "I wish you could ... But time hasn't been kind to old movies... He goes to his desk. Unlocks a drawer. Reverently removes cannister of film.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "This is the only one that we know of that survived ... Out of hundreds ... One. Tabard is moved, looking at the single sad cannister of f He looks up at them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "And still ... it is a masterpiece.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Isabelle is accompanying Hugo on his rounds as he winds t clocks. They climb down the long ladder into the large clock suspended from the ceiling of the Grand Hall. He has his bucket of tools. Clock dials surround him on all four sides.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "++. I think it’s the only way. He’ll be excited. Why wouldn’t he be? He checks his pocket watch, then uses a little screwdrive tinker with one of the clocks. Isabelle stays above on the ladder, pokes her head down:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Do you think I should tell Mama Jeanne?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, it has to be a surprise, like a magic trick. We have to have some ++. Panache.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(impressed with the word) Well done. Just then-- Through one of the clock faces-- Hugo sees the Station Inspector and Maximilian! Approaching. Stopping. Standing directly below the clock! Hugo urgently gestures up to her to be quiet:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Shhh! He points down. She sees the Station Inspector. A long beat. Hugo doesn’t dare breathe. The Station Inspector stands there, looking over the terminal. Then he starts to go. Hugo exhales. Safe. But... Then... The clock ticks over to 4:00 pm... The minute hand clicks straight up... Knocking Hugo’s little screwdriver away... It falls... Hugo grabs for it... Isabelle watches in horror... Hugo misses... \f74. The screwdriver falls... It hits the bottom of the clock with a resounding...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLINK",
+          "text": "The Station Inspector stops. Turns. Looks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Monsieur Claude? Are you up there? +.. Monsieur Claude? Hugo looks up to Isabelle in panic. What should he do?! She mimes grabbing her throat: act like you have laryngit Hugo puts on a deep, scratchy voice:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(deep voice) Monsieur?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Is all well up there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(deep voice) Yes, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "You’re not ... inebriated, are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(deep voice) No, sir ... I have a sore throat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Hmm. Well, be sure to check the clock on platform seven. By my calculation it is three minutes fast ... I will not have time running amok in my station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(deep voice) Right away, sir. The Station Inspector goes. Maximilian gives a nasty glan back, but follows. \f75. Hugo looks up at Isabelle. That was close!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A clock over platform seven. Hugo kneels to wind the clock, which is at foot level. Isabelle sits next to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "+-. It’s the only way we'll find out everything ... Papa Georges will see that there are people who remember him. How can that be wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "(hesitant) I don’t know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Please, Isabelle ... My father, the Automaton, Papa Georges, it’s like a puzzle ... When we put it all together, something’s going to happen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "A message from your father? He doesn’t look at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I just hope ... you won’t be disappointed. A beat as he works on the clock. Through the clock face she notices Monsieur Rouleau putti away his brushes for the day. His Surrealist painting is coming along well. She sees a passing WEALTHY COUPLE commenting unfavorably his painting. Monsieur Rouleau ignores them with dignity. \f76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Poor Monsieur Rouleau ... He works so hard. People just don’t understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "He keeps at it though. He’s got a real ... purpose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "(points) Could you hand me that? She hands him a tool from the bucket. She flops over on her back, looking up at him as he conti to work on the clock:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I mean ... Did you ever notice that all machines are made for some reason? They make you laugh, like Papa Georges’ toys, or they tell time, like the clocks ... Maybe that’s why broken machines always make me sad, because they can’t do what they’re meant to do. She looks up at him. From her perspective, he is beautifu framed by the intricate clockwork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Maybe it’s the same with people. If you lose your purpose ... it’s like you're broken.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Like Papa Georges.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Maybe we can fix him. He continues to work on the clock. A beat as she watches him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Is that your purpose?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "What? \f77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "That. Fixing things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t know. It’s what my father did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I wonder what my purpose is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t know. A long beat as she thinks about it. It seems to make her sad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Maybe if I had known my parents I would know. She gazes out over the terminal, a little lost. He looks at her. Senses her sadness. A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Come with me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The enormous clock. The majestic view of Paris. The lights of the city are twinkling on. It is magical. T whole city seems to move and flow like an elegant, perfec machine. Hugo and Isabelle look over the city.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Right after my father died, I would come up here a lot ... I would imagine that the whole world was one big machine. Machines never have any extra parts, you know. They always have the exact number they need. So I figured if the entire world was a big machine I couldn’t be an extra part, I had to be here for some reason ... (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO, (CONT'D)",
+          "text": "And that means you have to be here for some reason, too. She is touched. Paris sparkles below. Like it is made of stars. The only sound is the steady, rhythmic pulse of the clock machinery. She gently takes his hand. A huge full moon is rising. They are silhouetted before the glowing moon. And above them the solar system is spinning away in perfe order. The spheres in harmony. Like a great clockwork mechanism.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges is closing up the shop. His movement are slow and leaden. Hugo and Isabelle are hiding around a corner:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I‘1l bring them at seven o'clock tomorrow night. Don’t say anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Are you sure about this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Not really ... But I think it’s the only way...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "To fix him. He nods. A beat. She impulsively gives him a quick kiss on the cheek. He is shocked. Then she runs to Georges at the Toy Booth. Hugo slips away. \f79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo watches from behind a clock face. He sees Georges and Isabelle leaving the station.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Candles are burning. Hugo is getting ready for bed. Carefully winding his big pocket watch. Hanging it on its special hook by the bed. He looks at the Automaton. The Automaton looks back at him. Hugo blows out the candles and settles into bed. He is nervous about tomorrow. Can’t sleep. The Automaton watches him. We hear the steady tick ... tick ... tick of Hugo’s pocke watch. The image melts to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "+. tick ... tick ... tick ... We are inside Monsieur Rouleau’s Surrealist painting. There is nothing vague or fuzzy about this nightmare. It the crystal-clear clarity of Magritte. The crisp, bold co of Michael Powell. Hugo moves through the station tunnels, but they are distorted and endless. An insane maze with insane angles impossible perspectives. As Hugo weaves through the maze he sees some familiar faces... Down one tunnel ... Madame Emilie’s little dachshund runs past in the foreground ... as Monsieur Labisse moves past the background, reading aloud...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Down another tunnel ... Monsieur Frick dances past with * Madame Emilie on the ceiling ... while below Monsieur Rou paints blazing animated flames on the wall...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They are all trapped in this endless labyrinth of tunnels Then Isabelle appears to offer guidance. Hugo smiles, goes to her. She offers her hand. He takes it. He looks up at her face. But it is not her! It is Georges. Ferocious and angry! Then-- Hugo is suddenly alone. Back in his apartment. He sits up on the edge of his bed. The nightmare is over. Tick ... tick ... tick... He hears the comforting sound of his pocket watch. But something is wrong. He glances over. The pocket watch isn’t hanging from anymore. He listens intently... Tick ... tick ... tick ... The sounds appears to be coming from... From him! He pulls his shirt aside to reveal-- His guts are a ticking, spinning clockwork-- He bolts up-- He is a machine! An Automaton! its hook \f81. And the apartment around him is now an ENORMOUS MACHINE. and horrible. He is utterly surrounded. POUNDING pistons. GRINDING gears. SPINNING wheels. Then Hugo’s face-- Starts to melt away-- Beginning to be replaced by the impassive features of the Automaton-—",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "--Hugo jerks awake. Panting for air. He gets out of bed. Lights a candle. Sits. He won’t sleep anymore tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two young BOHEMIANS, living on a dilapidated houseboat on Seine. The Young Man writes a poem, mouthing the lines to himsel The Young Woman lazily dangles a fishing line into the ri and smokes a pipe. Very Gertrude Stein. Her lines catches. Ah, breakfast. She reels her catch in ... it’s heavy ... she lazily peek over the side of the boat ... and sees... Uncle Claude! His lifeless face staring up! She screams. People on the banks come running.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo waits nervously outside Georges’ building. He checks big pocket watch. It is just after 7:00. Professor Tabard approaches. He carries something in a la wooden box.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good evening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "This way, sir. He leads Tabard into the building.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Isabelle is pretending to read. Mama Jeanne is across the room, sewing. Georges is nowher be seen. There is a knock at the door. Isabelle gives a little yelp and jumps up:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "I'll get it! Jeanne removes her heavy glasses, curious, as Isabelle hurries to the door and opens it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Oh, what a surprise! Come in, come in... Hugo and Tabard enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "What is the meaning of this, Isabelle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Please don’t be mad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "That young man is not welcome here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "We found out who Papa Georges is. A beat as she stares at them. 82. The imposing Rene Tabard steps forward, polite and formal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "I deeply apologize, Madame. I thought you were expecting us. I will leave immediately and return upon your request. \fShe looks",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Please, keep your voices down, my husband is sleeping. He hasn’t been well ... I... I’m afraid you will not be invited back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Don’t make them leave...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "I don’t want to impose on you, Madame Melies, but if this is to be the only time we meet, please let me express to you the profound debt of gratitude I owe your husband. at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "When I was boy I saw all his films. They inspired me ... Your husband is a very great artist. She is touched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "I’m pleased that you remember my husband's films with such fondness, but he’s become so fragile ... It only hurts him to remember the past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "(bows ) Then we will take our leave, Madame .-. And I do hope you'll forgive me for saying, you are as lovely now as you were in the movies. Hugo and Isabelle are stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Mama Jeanne...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You were in the movies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "She appeared in almost all of his films.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "You were an actress?! 83. \f84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "That was a long time ago, children. Another life ... I was another person.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Would you like to meet her again? Mama Jeanne looks at him, curious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "We have a film.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "One of Georges’ films...? But that’s not possible. They’re all gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "May we show you? Hugo and Isabelle implore Mama Jeanne:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Oh, please...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Please, Mama Jeanne... Mama Jeanne glances quickly to the closed bedroom door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Be quick with it. Rene Tabard opens the wooden box. It contains a portable movie projector. He sets it up, plugs it in, and threads film, as:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "An actress! A cinema actress! It’s impossibly romantic!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "It wasn’t like that. We weren’t movie stars like they have now ... (a certain twinkle in her eye) But we did have fun. Tabard has finished. The projector is ready to go. Facing blank wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Madame Melies? \f85. She nods. Tabard turns on the projector. Flickering white light. A TRIP TO THE MOON. We see selections from the fantastical Georges Melies fil giving us a sense of this delightful movie. For Mama Jeanne the emotion is overwhelming. Like seeing past come to life. Her eyes fill with tears. The wizard-like Astronomers argue in the great hall. The rocket is constructed in a busy workshop. The huge ca is tested. Then it is time for the rocket to be launched. Pretty girls line up and usher the five voyagers into the rocket. During this sequence one particular girl is featured. She is in the foreground. Lovely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "Mama Jeanne ... it’s you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Yes... The great cannon is fired. Then the famous sequence. We zoom toward the moon. The fa of the man in the moon appears. The rocket hits him in th right eye! He reacts. Once we reach the moon, the movie is in color. Lovely and diffused. Pale pastels.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "It’s color!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "We tinted the film ... Painted it by hand. The voyagers move around the lunar surface. The earth ris over the horizon. Fantasy images of comets shooting past, stars, planets, constellations. Then it snows and the voyagers go into a crater. \f86. Inside the moon, a weird landscape. Bizarre Moon Creature appear. The voyagers battle them. The Moon Creatures disappear magically in puffs of smoke. The voyagers escape into the rocket. It is pulled off the edge of the moon. The rocket soars back to earth. It splashes into the ocea and goes underwater. An enchanting bottom-of-the-sea sett The rocket is finally towed back to shore. The movie ends. The film tail flips around. The white light flickers. A beat. Mama Jeanne is drying her eyes. Isabelle takes her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE",
+          "text": "You were so beautiful. A voice, from behind them:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (0.S.)",
+          "text": "She still is. They turn. Georges is standing in the doorway. He has seen it all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I would recognize the sound of a movie projector anywhere. Mama Jeanne goes to him and holds him closely. She helps him to sit. He is emotionally drained. She looks at Georges deeply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "Georges ... You've tried to forget the past for so long, and that’s brought you nothing but unhappiness -.. Maybe it’s time to remember. \f87. She takes his hands in hers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAMA JEANNE",
+          "text": "I remember the man I fell in love with ... I don’t want to lose him forever. A long moment between them. Georges kisses her hands. He turns, studies Hugo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "You want to know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Yes. A beat. So be it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Like you ... I loved to fix things... The color drains from the scene as Georges remembers...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Like the flashbacks earlier, Georges’ story has the quali of a SILENT FILM. Flickering gaslight. We see YOUNG GEORGES on stage. YOUNG JEANNE is his assistant. They do a magic trick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "I started out as a magician, and Mama Jeanne was my assistant. We were very successful, I must say. We even had our own theatre...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Young Georges is tinkering with something mechanical we d see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "But I was always tinkering with machines. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "I had my own workshop at the theatre where I could invent new illusions ... Once I even built a working Automaton. Ah, he was a particular treasure. I put my heart and soul into him... We see that Young Georges has been working on the Automaton...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Young Georges and Young Jeanne enjoy a night at a traveli circus. They move past sideshow tents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "Then one night, Mama Jeanne and I went to visit a traveling circus. We were walking past the sideshow tents when I noticed something ... Something strange ... Something wonderful... In the distance, Young Georges sees bright light flickeri magically from one of the sideshow tents. The light draws like a moth to a flame...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Young Georges and Young Jeanne are in the sideshow tent. Watching a very early movie. Both are transported.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "The Lumiere brothers had invented the movies. I fell in love with their invention. How could I not be a part of it? It was like a new kind of magic...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Young Georges uses spare pieces from the Automaton to mak movie camera. It is a beautiful and elaborate creation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "I asked the Lumiere brothers to sell me a camera, but they refused. You see they were convinced the movies were only a passing fad and didn’t want me to waste my money! (MORE)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "So I built my own camera using leftover pieces from the Automaton...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the country, outside Paris. Young Georges and Young Je pose proudly in front of their new studio as a photograph exposes a picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "We risked everything ... We sold the theatre and everything we had so we could build our own movie studio...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Filming one of Georges’ movies. He’s a bundle of energy. Currently perfecting a special pyrotechnic effect scene, with himself as the star. Young Jeanne tries to keep order in the chaotic studio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "And so the great adventure began! I wrote, designed, directed and acted in hundreds of movies. Magic tricks and illusion became my specialty; the world of imagination ... Georges does a simple special effect: he poses, a puff of smoke in front of him, the camera stops, he leaves the se the camera starts: a disappearing man. Young Jeanne laughs and helps clean the black powder off face:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "My beautiful wife was my muse, my star, and we couldn’t have been happier ... We thought it would never end. How could it? Suddenly-- More pyrotechnics -- but different now -- the EXPLOSION O BOMBS -- flashes of light -- trenches and barbed wire -- horrible rattle of machine guns -- iconic images of the F World War-- \f90. Taking us to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rain. Sodden flags. Georges, older now, watches a line of French soldiers march off to war. Like tragic toy soldier",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "But then the war came, and youth and hope were at an end... The world had no time for magic tricks and movie shows...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges stands at the rear of a theatre. One of his fanci movies is playing. Many veteran soldiers are in the audie Smoking. Making out with girlfriends. Bored.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "The returning soldiers, having seen so much of reality, were bored by my films ... Tastes had changed, but I had not changed with them...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "TIME LAPSE ... the beautiful greenhouse studio decays ... windows crack and break ... weeds spring up ... the gorge set pieces rot ... the roof falls ... rain splashes in... the studio is boarded up and abandoned...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "No one wanted my movies anymore. Eventually I couldn’t pay the actors or keep the business running .-.. And so my enchanted castle fell to ruin ... Everything was lost...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges stands in the ruins of his studio. A great bonfire is roaring. We see a huge painted version the famous moon face from A TRIP TO THE MOON burning. Georges, in anguish, is tossing costumes into the pyre. \f91.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "One night, in bitter despair, I burned all my old sets and costumes +--+. I was forced to sell my movies to a company that melted them down into chemicals used to make shoe heels... A sudden flare from the bonfire-- Transforms to-- A reel of old movie film -- bursting into flames, blazing then melting-- The liquid is poured into a mold -- a shoe heel emerges f the mold -- it is nailed onto a shoe-- The shoe walks past the Toy Booth in the Train Station...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Georges is in the Toy Booth. It looks much the same, only newer. It is like a prison.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (V.O.)",
+          "text": "With the little money I made from selling my films I bought the toy booth ... And there I have remained... Georges sits at the counter. He stares out. Lost. Dead-eyed. The color gradually returns... And Georges’ face ages to now... As we return to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "--. Georges’s face. He concludes the story:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "The only thing I couldn’t bring myself to destroy was my beloved Automaton. I gave him to a museum, hoping he would find a home. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES, (CONT'D)",
+          "text": "But they never put him on display. And then the museum burned ... It’s all gone now. Everything I ever made ... Nothing but ashes and fading strips of celluloid. He looks at Hugo deeply. Proceeds with difficulty:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "My life has taught me one lesson, Hugo ... Not the one I thought it would ... Happy endings only happen in the movies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "The story’s not over yet. He stands. Excited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I’1l be right back! He shares a secret look with Isabelle and then runs out. Georges is mystified.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo races through the streets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Meanwhile, the train station is bustling. Monsieur Frick is walking through the Grand Hall. He carr a large picnic basket and has a rather crafty expression. He approaches Madame Emilie’s cafe. Madame Emilie is pleased to see him. Her dachshund is not begins to growl menacingly. This time, however, Monsieur Frick is not deterred. He approaches bravely. The dachshund growls more. About to attack. Then... \f93. Monsieur Frick reaches into the picnic basket... And removes... Another little dachshund. With a pink ribbon around its neck. Madame Emilie’s dachshund is instantly smitten. The two d nuzzle affectionately. Monsieur Frick, the conquering hero, steps forward boldly takes Madame Emilie’s hand and kisses it. She blushes. Just then, Hugo appears. He is moving quickly toward one of the air vents past the cafe. But he ducks to the side when the Station Inspector and Maximilian approach the cafe ... Lisette wanders over fro the flower stall to join them. Hugo, hidden nearby, overhears:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "There has been ... a disquieting development.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR FRICK",
+          "text": "What is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "The man who winds the clocks, Monsieur Claude, has been found -- deceased. Lisette gasps. Hugo stiffens, listens intently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "They found his body in the Seine. He’s been down there for months it seems. Amongst the fishes. And such.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADAME EMILIE",
+          "text": "Oh dear, oh dear. Meanwhile, the two dachshunds are sniffing around. They wander over to where Hugo is hiding. He tries desperately to shoo them away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maximilian notices the dachshunds. He pulls at his leash investigate. The Station Inspector restrains him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "I can’t say I’m surprised this was his mortal culmination. He was an inebriant of the highest order. Time and again I had to warn him about it ... These are the wages of sin!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR FRICK",
+          "text": "But if Monsieur Claude has been dead for months...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Yes...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR FRICK",
+          "text": "At the bottom of the river...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MADAME EMILIE",
+          "text": "Yes...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR FRICK",
+          "text": "Then who has been winding the clocks? Just then -- the dachshunds begin BARKING like crazy at H Maximilian pulls free-- The Station Inspector sees Hugo--! Hugo bolts, but not fast enough-- Maximilian bounds -- leaps in front of him -- snarling ferociously-- Hugo freezes, terrified-- The Station Inspector grabs him. Captured. At last! INT. TRAIN STATION -- CORRIDOR/INSPECTOR’S OFFICE - NIGHT The Station Inspector drags Hugo through the corridor/sta and into his office...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You don’t understand -- I have to go! \f95.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "You’1l go nowhere until your parents can be found.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I don’t have any parents!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Then it’1l be straight to the orphanage with you, little vermin. He flings Hugo into the dreadful little cell and slams th door shut with a resounding clang. Hugo clings to the bar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "You and your kind. Spreading disorder everywhere you go. WELL",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ORDER",
+          "text": "The Station Inspector's fury echoes around the office. He turns away to his desk... Hugo quickly pulls out the lock-picking tool he used before... The Stations Inspector picks up the phone, taps the cradl for a connection...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Yes, hello? hello? ... Connect me with the Orphanage Bureau. Quickly. I need to arrange a... He glances back to Hugo-- The cell door is open! Hugo is gone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo clatters down the stairs outside the Station Inspect office-- The Station Inspector appears and follows, remarkably agi down the stairs, using the handrails to swing--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "(calls) Maximilian! Hugo reaches the floor of the terminal--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "+e",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maximilian, who is with the two dachshunds, bolts after h The dachshunds takes off as well-- Hugo weaves wildly through the terminal. But the Station Inspector is gaining, spidering quickly a him, his leg brace squeaking. The dachshunds race along. Barking madly. Maximilian following. Hugo cuts a path through a crowd of commuters. The Station Inspector nears, a step or two away-- He reaches for Hugo-- But Hugo has unexpected allies. Monsieur Labisse “accidentally” steps in front of the Sta Inspector, stopping him--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MONSIEUR LABISSE",
+          "text": "Oh, do pardon me! Hugo speeds away. Shoots Monsieur Labisse a thankful glance. The Station Inspector rights himself and races after Hugo Maximilian and the yapping dachshunds follow close at Hug heels. But Hugo has another unexpected ally. Monsieur Rouleau, munching on a baguette as he walks thro the station, sees the situation-- He tosses his baguette like a bowler-- It slides across the floor-- Hugo leaps over it-- The dachshunds, being dachshunds, instantly veer off, pursuing the food-- Hugo’s free of them. He disappears around a corner. \f97.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Station Inspector and Maximilian round the corner aft Hugo-— But Hugo has disappeared! Then the Station Inspector notices a manhole cover in the floor is slightly ajar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo is swiftly climbing down a ladder. He jumps down to large mechanized turntable: where entire streetcars and m trains pull in and are rotated to face different tunnels. Tunnels shoot off in six directions. Hugo hears the Station Inspector clattering and squeaking down the ladder after him. Hugo looks around. Sees an access panel leading down unde the turntable, into the workings of the machine. He climbs through the access panel and disappears just as Station Inspector spiders down the ladder after him. Beneath: Hugo is surrounded by the great gears and cogs o the turntable mechanism: huge wheels and springs and pist like a gigantic clock. He can see the Station Inspector r above. Looking for him. Incredible suspense as the Station Inspector searches. Hugo is silent ... Artfully slipping between the mammoth gears as the Station Inspector looks down through open sl in the floor, hunting for him... The Station Inspector peers down ... Hugo silently crawls between great cogs to stay hidden ... The Station Inspect doesn’t see him... But then -- the Station Inspector sees that a train is co into the turntable! He quickly moves to the ladder and climbs out. But Hugo can’t. He’s trapped. The train or streetcar rumbles in right above him. Hugo covers his ears at the seismic roar. Ashes and sparks rai down. The train stops. \f98. Hugo waits. Then... The turntable starts to move. The great gears turn ... the pistons stab ... the cogs gr .-. Hugo dives to avoid the pistons ... slithers between cogs and gears that engulf him, like teeth trying to devo him-- It's like Chaplin in MODERN TIMES. Hugo’s is trapped insi huge machine as it grinds and pounds and turns -- threate to crush him from every side... He slips, slides, jumps and maneuvers. Just managing to a being crushed... Then it’s over. The turntable stops. The train rumbles of down a different tunnel. Hugo finally dares to peek through the access panel. No s of the Station Inspector. He climbs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo moves through the tunnels. Then he hears a sound echoing ominously ... a low growl . Maximilian ... No idea where it’s coming from... Hugo stops. Looks. The growl is closer now! But from where?! Hugo looks around in desperation. Tunnels in every direct Hugo is by the long stairway leading up to the tower. He decides to escape that way. He disappears up the stairway Just as the Station Inspector and Maximilian round a corn They stop. Look in various directions. Which way did he g Maximilian sniffs. He indicates the steps up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo’s feet pound. His legs pump. He pants for air. Climbing, climbing, climbing. \f99. The long stairway seems to stretch out wildly below. Like VERTIGO. The Station Inspector and Maximilian pursue. Churning up long stairway below Hugo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo emerges at the very top of the station. He looks around in panic. He hears the Station Inspector and Maximilian coming up t stairs. Huffing and puffing. Feet pounding. Nails clickin Leg brace squeaking. Closer and closer. Hugo’s trapped. Or is he? He takes a deep breath. Then... He climbs through the enormous clock face. Until he is clinging to the outside of the clock! A deadly drop below. Just like Harold Lloyd in SAFETY LAST. Inside, the Station Inspector and Maximilian appear. The Station Inspector Looks around. Puzzled. Maximilian sniffs. Confused. Then, outside... The enormous hour hand that Hugo is clinging to... Lurches... Almost breaks... Hugo clings to it desperately, echoing the iconic image f SAFETY LAST. The abyss below is terrifying. Hugo doesn’t dare cry out. \f100. Inside, the Station Inspector grunts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Must have gone the other way. Come! He leads Maximilian back down the stairs. Outside, Hugo carefully pulls himself to safety. He sits ledge for a moment. Getting his breath. He looks over Paris. Shakes his head. What a night! He climbs back through the clock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo is lugging the Automaton, wrapped in a blanket, thro the terminal. It is slow going, but he does his best. He keeps a wary eye out for the Station Inspector and Maximilian. He sees the two villainous dachshunds at the cafe. He chooses to avoid them. Goes in another direction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo moves along a platform. A train has just arrived. Scores of commuters are climbing off the train and scurry along the platform. They jostle Hugo. He continues on. Then... Behind him... We see... \f101. A bottle-green coat. The Station Inspector. Following. Oddly, no sign of Maximilian. Hugo shifts the heavy Automaton, trying to make it easier carry as he pushes through the crowd. The Station Inspector nears... Hugo doesn’t see him... The Station Inspector reaches out for Hugo... But then Hugo sees the Station Inspector’s image, reflect in a window of the train. Hugo cleverly nips into the train--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hugo pushes through the crowd of people inside the train- The Station Inspector pursues, calling:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Stand aside! Hugo nips out the other side of the train--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He emerges to the platform-- Where-- Maximilian is waiting! Hugo lurches to a stop-- The Station Inspector lunges from the train, grabbing Hug arm-— Swinging him around-- Hugo loses his grip-- The Automaton flies from Hugo’s arms! \f102. Time slows as... The beautiful machine falls through the air... Tumbling end-over-end... Falling slowly toward the empty train tracks of the next platform over... Finally... Crashing down! And there’s a train coming along these tracks-- Barreling out of the station-- Picking up speed-- Hugo doesn’t hesitate-- He jerks his arm free-- Jumps down-- Onto the tracks! The train is nearing. Coming straight at Hugo. Just like early movie we saw before, A TRAIN ARRIVES IN THE STATION The train gets bigger and bigger as it approaches. Hugo grabs the Automaton. The train’s whistle howls. Someone screams. A hand reaches down for Hugo. The train. Closer and closer. The metallic screech of the train’s brakes. Hugo thrusts his hand up. The Station Inspector clasps his hand. At the last possible moment, Hugo is yanked off the track safety. He still clings to the Automaton. A shower of sparks from the train’s wheels as it passes. Hugo and the Automaton fall awkwardly to the platform. \f103. The Station Inspector and the crowd are stunned. They pre in. Questioning. Scolding. Poking. Talking. Hugo only cares about the Automaton. It is broken and battered. Hugo pulls it to him. Clings to it desperately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "You demented animal! What were you thinking?! Before Hugo can respond the Station Inspector hauls him a - stomping off, cutting through the crowd -- dragging Hug Hugo still clinging to the Automaton--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They move through the busy Grand Hall. Hugo struggles to himself from the Station Inspector.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "We'll let the orphanage deal with you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "No! -- I don’t belong there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STATION INSPECTOR",
+          "text": "Where do you belong then? A child has to belong to somewhere and to someone! Hugo finally wrenches himself free. Holds the Automaton t his chest. His emotion is overwhelming. Tears choking him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "Please ... Please listen to me ... You have to let me go ... I don’t understand ... why my father died -.. why I’m alone.... He clings to the Automaton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "This is my only chance ... To work. He glances at the Station Inspector’s leg brace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "You should understand. \f104. By now a little crowd has formed around them ... Monsieur Frick ... Madame Emile ... Lisette... And two new arrivals: Georges and Isabelle. Georges has heard everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "I do ... I do understand. He looks at the Station Inspector.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Monsieur ... This child belongs to me. The Station Inspector looks at him. And then the Station Inspector smiles. A kind and effortl smile. He releases Hugo. Hugo crosses to Georges and Isabelle. He still holds the Automaton to him closely:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HUGO",
+          "text": "I’m sorry ... He’s broken...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "No he’s not ... He worked perfectly. He embraces Hugo. And then we see them from high above... Hugo, Georges, Isabelle, the Automaton... The train station swirling around them ... Passengers mov to and fro... Like the gears and wheels of a clock... A precise, beautiful machine. Then we iris down to black. A title appears: SIX MONTHS LATER. We iris back up again to... \f105. The famous man in the moon face from A TRIP TO THE MOON..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": ".-. Which is painted on the curtain of the impressive Fil Academy theatre. The theatre is filled with elegant guests. A buzzing crow gala event. Hugo, Isabelle and Mama Jeanne sit together. Hugo has had a haircut. His new, short hair is combed nea into place. He is wearing a tuxedo. Very handsome. He looks almost grown up. Isabelle, next to him, is bewitching in a formal dress. The lights dim. Rene Tabard steps to the stage, in front of the curtain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "Honored guests, I am proud to welcome you to this gala celebrating the life and work of Georges Melies. Applause. Mama Jeanne begins to cry. Isabelle takes her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "For years most of his films were thought to be lost. Indeed, Monsieur Melies believed so himself. But we began a search. We looked through vaults and long- forgotten archives, through private collections, barns and catacombs. Our work was rewarded with old negatives, boxes of prints, and trunks full of decaying film, which we were able to save ... We now have over eighty films by Georges Melies! Applause. \f106.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TABARD",
+          "text": "And tonight their creator ... and the newest member of the Film Academy faculty ... is here to share them with you. He turns and bows. The magnificent man-in-the-moon curtain parts to reveal.. Georges. Standing center stage. A movie screen behind him. His hair and beard have been neatly trimmed. He wears an elegant tuxedo and looks extremely distinguished. The audience erupts in cheers and applause. Finally they are quiet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Ladies and gentlemen ... I am standing before you tonight because of one very brave young man... He finds Hugo’s face in the crowd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "He saw a broken machine. And against all odds, he fixed it ... It was the kindest magic trick I have ever seen. Hugo is moved. Isabelle looks at him, proud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GEORGES",
+          "text": "Now, my friends, I address you all tonight as you truly are: wizards, mermaids, travelers, adventurers, and magicians ... Come and dream with me. He turns toward the movie screen... The lights dim... A flickering projector’s light shines... And we enter the joyous world of Georges Melies. \fIt is a cornucopia of images from a golden horn. A phantasmagoria of... Undersea kingdoms... Magic tricks... Wildly dancing devils... Mysterious submarine journeys... Gigantic monsters... Beautiful damsels... Soaring palaces... Wondrous balloon voyages... Knock-about slapstick... Expanding heads... Frolicking skeletons... Lovely star-like angels... And... A trip to the moon. Hugo is barely watching the screen. He is looking at something else: Georges stands to the side of the stage, watching. The glow from the screen illuminates Georges’ face. He is like a man reborn. Hugo looks at him. Smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A party. After the gala. The small apartment is crowded with well-wishers and We float through the party... 107. friends. \f108. Georges is talking closely to Rene Tabard. Film students other fans crowd around Georges ... He winks to Mama Jean across the room. She winks back... We continue on... Monsieur Frick and Madame Emilie sit together. The dachsh happy on their laps... We continue on... Monsieur Rouleau talks to Monsieur Labisse about books an art. Monsieur Rouleau’s completed painting hangs on a wal We continue on... The Station Inspector sits with Lisette and Maximilian. Actually, Maximilian sits between them. He’s unsure what make of this new-found romance. We continue on... To find... Hugo is dominating a corner of the party, doing wonderful cards tricks. The crowd around him is impressed. He glances over, smiles to Isabelle across the room. She smiles back. A beat as she watches him. Then we go with Isabelle as she moves to a quiet corner. looks over the party for a moment. Then she sits and begins to write in a notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE, (V.O.)",
+          "text": "Once upon a time, I met a boy named Hugo Cabret. He lived in a train station... We move away from Isabelle... Past Hugo... Past Georges and Mama Jeanne...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE, (V.O.)",
+          "text": "Why did he live in a train station? You might well ask ... That’s really what this book is going to be about... \f109. We move into Hugo’s room... The Automaton, nicely repaired, is watching from a corner We go to the Automaton...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE, (V.O.)",
+          "text": "And about how this singular young man searched so hard to find a secret message from his father... The Automaton’s face... Looking through the open doorway into the party...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ISABELLE, (V.O.)",
+          "text": "And how that message lit his way --- all the way home. The Automaton watches Hugo. You would swear it was smiling. The End.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_932"
+    }
+  ]
+}

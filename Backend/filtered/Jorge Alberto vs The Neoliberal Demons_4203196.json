@@ -1,0 +1,4097 @@
+{
+  "movie_id": "MOV1042",
+  "scenes": [
+    {
+      "location": "MAKE-UP ROOM DAY 2",
+      "time": "NIGHT",
+      "characters": [
+        "DEAN",
+        "RUBY",
+        "SARAH, (CONT'D)",
+        "MODEL, (CONT'D)",
+        "DO SOMETHING",
+        "RUBY, (0.S.)",
+        "DEAN, (V.O.)",
+        "JAN",
+        "SALES CLERK",
+        "JENNY, (0.S.)",
+        "JENNY",
+        "DR. ANDREW, (CONT'D)",
+        "CHECK-IN GIRL",
+        "MIKEY",
+        "RUBY, (CONT'D)",
+        "BRUNETTE MODEL",
+        "TAXI DRIVER",
+        "ANOTHER KNOCK.",
+        "RECEPTIONIST",
+        "JESSE, (0.S.)",
+        "HANK, (CONT'D)",
+        "DR. ANDREW",
+        "JESSE, (V.O.)",
+        "JACK, (CONT'D)",
+        "MAKE-UP ARTIST",
+        "JACK, (0.S.)",
+        "ASSISTANT",
+        "CONRAD",
+        "CARA",
+        "WAITRESS",
+        "DEAN, (CONT'D)",
+        "JESSE",
+        "DAY",
+        "TRANSLATOR",
+        "JESSE, (CONT'D)",
+        "JACK",
+        "THIN GIRL",
+        "DEAN, (0.S.)",
+        "FEMALE VOICE, (0.S.)",
+        "JENNY, (CONT'D)",
+        "TRANSLATOR, (CONT'D)",
+        "CONRAD, (CONT'D)",
+        "HANK",
+        "TAXI DRIVER, (CONT'D)",
+        "MALE VOICE, (0.S.)",
+        "MODEL",
+        "JAN, (CONT'D)",
+        "PHOTOGRAPHER",
+        "GIGI, (0.S.)",
+        "GIGI, (CONT'D)",
+        "SARAH",
+        "GIGI",
+        "JESSE'S DAYDREAM 32"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE ON JESSE'S face, eyes closed, angelic, beautiful. Slowly, the CAMERA PULLS BACK and her twisted, bleeding b is revealed, tangled in a tattered dress. It appears a violent crime has just taken place. CLOSE ON a man's face. It is DEAN, handsome, slightly awkward. He stares at the scene, entranced by Jesse’s figure. He raises a still camera. Jesse’s image is reflected in miniature in the glass lens. He takes a photo, and the bl shutter closes and opens on Jesse’s body, the mechanical sound a startling contrast to the eerie quiet of the room The CAMERA PULLS BACK again, revealing that the crime sce is actually a fashion photo shoot. The clicks of Dean’s camera, uneven at first, grow rapid regular. A frenetic, percussive score. With every shot, a new image of Jesse appears on the nearby computer screen. As though waking from a dream, Jesse's eyes open...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She is seated in front of a mirror, staring at her reflec with wide eyes. Her face still appears bloody and battere from the shoot. She begins taking off the make-up. From across the room, RUBY, 27, simultaneously iron-wille and fragile, watches her every move. Jesse senses her gaz",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Am I staring?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I don’t mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Sorry. Occupational hazard. Ruby waves a fist full of make-up brushes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "(a revelation) You did my make-up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. Like an hour ago. You don’t remember?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Sorry -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "What, did you have a stroke between then and now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I thought you were in the next shoot. Ruby laughs. Jesse doesn’t understand the joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(touched) Oh, you’re serious.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Well, here, let me help you. Ruby rushes over and begins wiping away some bloody make- out of reach behind Jesse’s ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "I’m Ruby, by the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I'm -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Jesse. You told me earlier. You’re a little bit deer-in-the- headlights.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I just moved here. Six weeks ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Please don’t be from New York. Last thing we need is another pretty bitch without a soul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I'm from Ridgecrest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Where’s that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Near Death Valley.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Spooky. What’s in Death Valley?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Nothing worth sticking around for. Ruby smiles, a genuine understanding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Your skin is perfect. Look at you. She leans in, examining Jesse in the mirror, their faces nearly touching.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "I don’t think you’re even human. (whispering) If I killed you, would you die? Ruby playfully holds up her hands, covered in bloody make RUBY (CONT’D) I swear I didn’t do it! She begins cleaning her hands with a small cloth. RUBY (CONT’D) Shit, what time is it? I promised Dee and Dum over there a ride. Ruby nods toward two ULTRA-THIN MODELS leaning against ea other in the corner of the room. They are totally bored. looks like it takes every bit of effort to hold themselve upright. RUBY (CONT’D) You think they’ve ever had lunch? Probably don’t even know what it is. ‘Wanna go to lunch?’ Probably think it’s a day-spa. (to Jesse) Hey, you wanna come? We’re going to this club in West Hollywood. Please. You'll be saving me from a thirty minute ride with the world’s only living exoskeletons. One of the thin girls sighs deeply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Do I get shotgun?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Deal. Ruby tosses the blood-covered cloth on the make-up table. She claps loudly, startling the thin girls to life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "Ashley! Mary-Kate! Andele! Party time! They stand and slink out of the room. Ruby rolls her eyes they leave. Jesse turns back to the mirror and runs a hand down the s of her face, touching her skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse finishes changing. Several MODELS in various states of undress sit at a row tables as stylists scurry between them. At the corner mirror, one girl places a palm to her reflection, tears running silently down her face. Jesse notices her as she stands to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse heads through the studio toward the exit, the set f her shoot disappearing farther and farther into the background.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She walks alone through the winding hallways of the build",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We watch from above as she spirals down a long internal staircase. The sound of wind, gradually intensifying... EXT. RUBY’S CAR/HIGHWAY - DUSK 7 CLOSE ON the sleek hood of the car, slicing through the a It flies down the highway, weaving defiantly through traf \f10 11 12 13 INT. RUBY’S CAR - DUSK 8 Ruby drives, the two thin models slumped in the backseat. Jesse stares out the passenger seat window, mesmerized by neon lights of Los Angeles. Ruby pays dangerously little attention to the road in an effort to sneak looks at Jesse. One of the thin models springs to life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THIN GIRL",
+          "text": "You missed your exit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Oh, it speaks. The thin girl hisses at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "Back in your cage. Ruby makes a risky maneuver on the highway and Jesse grip the car door, white-knuckled. RUBY (CONT’D) I won’t really kill you, I promise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car exits the highway and drives into West Hollywood. EXT. RUBY’S CAR - NIGHT 10 It pulls up to the curb and screeches to a sharp halt. INT. RUBY’S CAR - NIGHT 11 Jesse releases the car door, stretching her cramped hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All four girls exit the car. We watch them disappear down the street, headed to the club.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse and Ruby stand inside the entrance. MUSIC BLASTS at a deafening level. The tremendous main r is completely congested with sweaty dancers. The walls, lined with floor-to-ceiling mirrors, reflect a galaxy of pretty, bouncing lights. Someone waves to Ruby across the room. She turns to Jesse and shouts over the music.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Be right back!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Don’t go anywhere. Promise?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I can’t hear you. Ruby disappears into the crowd. Jesse walks around the perimeter of the room, watching th reflections of the club in the mirrored walls. She spots a pair of eyes watching her. They belong to JAC 37, leaning casually against a pillar in a shadowed corne the room. He is striking, fashionable, and holds himself with unintentional arrogance. When their eyes connect, it unclear how long he has been looking at her. SARAH, 24, plenty of eyeliner, flirts with him, but fails hold his attention. Jack makes his thumbs and forefingers into a square, hold them up, and squints. JACK'S POV: Jesse gazes back at him, captured within the frame. Sarah sees the gesture and looks across the room for the recipient. Jesse is identified. She whips around and crashes head-first into DEAN. He smi at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I was hoping you would be here. Jesse cannot hear him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I'm looking for my friend. \f14 He leans closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "(louder) Ruby? Do you know Ruby? He nods in acknowledgment and gestures for Jesse to follo him. They start across the room, searching for Ruby. Dean glances over his shoulder and sees Jesse struggling make her way through the crowd. He reaches out. Their hands lock.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dean and Jesse push through a back door into a small, dar alcove. The MUSIC, still pulsing, is muffled. They both exhale, relieved to be away from the crowd. A LONELY SMOKER dressed in black leans against the brick while two GAY MEN kiss hungrily across from her. The smok watches them, sucking her Marlboro, unmoved. Jesse and Dean smile at the scene, then look at each othe searching for something to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You hungry? She shakes her head. DEAN (CONT’D) Do you want a drink? I could get you a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I’m okay. A silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You did great today. By the way. At the shoot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Thanks. He looks down, hands in pockets, and shifts nervously. Je watches him carefully, amused.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would you say... I really killed it? He looks up, surprised. She smiles, coy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Pretty bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I can do worse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Why did they build a gate around the cemetery?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I don’t know. Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Because people were dying to get in. Small laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "What do you do with a dead chemist?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "You Barium. More laughs. They move a little closer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Okay, I’ve got one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Is it bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Very.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "How bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The worst. Get ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You sure?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I’m sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "What did one dead guy say to the other?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What? They are close enough to kiss. Dean looks down at her fac He is once again enraptured.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I - can’t remember the punch line. The moment is broken as the back door swings open and mus blasts into the alcove.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (0.S.)",
+          "text": "Jesse! Ruby heads toward them, clutching a bottle of champagne. is followed by GIGI, 21, very charming, very sexy. Ruby sizes them up, trying to decide what she interrupted",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "You know Dean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Yeah, sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "We were just looking for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Clearly. \f10. Gigi giggles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I should get back in there. Nice to see you, Ruby. And -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Gigi. Dean places a hand on the small of Jesse’s back and whisp in her ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Find me if you need a getaway. She nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Well, that was rude. Jesse smiles, unable to take her eyes off him as he walks back into the club. We move in on her face until...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sound of a POP breaks Jesse’s trance. Bubbles spill d the side of a champagne bottle. Jesse blinks and looks around the room, as though only ju realizing she is there. She glances curiously at some graffiti on the wall which reads, ‘DO WHAT THOU WILT.’ Ruby drinks straight from the bottle, perched on the edge the sink, nearly slipping. Gigi checks her reflection in bathroom mirror, smoothing the skin around her nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Does my nose still look swollen?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "No, but your ass does.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Very funny. Someone knocks on the bathroom door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(shouts ) We're in here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What happened to your nose? \f11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Why? Does it look bad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Gigi’s going full Barbie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "All plastic. Gigi slaps Ruby playfully on the backside and chases her around the room. Ruby hops on the toilet seat for safety.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "Sanctuary!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "You had surgery?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "God, you say it like it’s a bad thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No, it’s just - have you done it a lot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Not really. Ruby hiccups and holds up seven fingers behind Gigi’s bac",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (CONT'D)",
+          "text": "I go to this guy in Beverly Hills if you want his number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(dreamy ) Oh, Andrew...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Doctor Andrew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "You love him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Of course I do. Look at me. Gigi presents herself. \f12. GIGI (CONT’D) He calls me the Bionic Woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Is that a compliment? Ruby snorts champagne. Someone knocks on the door again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "(shouts ) We're in here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Where’s Sarah? I wanna dance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Just go. She’1l be lurking around Jack for the rest of the night, poor thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Sarah's in love with Jack because they fucked once, like a thousand years ago -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Be nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "But everyone knows he’s only interested in starving preteen babydolls -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Hey -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Not in front of the kid. Gigi and Ruby turn to Jesse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Oh, I’m not a virgin. A strange silence as the conversation comes to a halt. Gi and Ruby exchange a quick look. Ruby dangles the champagn bottle lifelessly between her knees. Another knock at the door breaks the tension. Gigi, annoy undoes the lock and Sarah bursts in, pushing Jesse behind door. \f16 17 13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Well, he’s stoned out of his mind and acting like an asshole, surprise-surprise. (to Ruby) Move. Sarah pushes Ruby off the toilet and sits to pee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "I'll probably still go home with him because I’m such a pushover. Ruby slams the bottle on the sink and storms out of the bathroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "What? What did I say? Gigi presents Jesse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Sarah, this is Jesse. Jesse offers a hand, but Sarah grabs the toilet paper instead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I think we met.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Even LOUDER MUSIC. Sarah, Gigi, and Jesse dance in the middle of the crowd. Gigi bounces around like a ball on a string. She grabs Jesse’s hand and spins her. The world whips around in circles. As she spins, Jesse sees Ruby watching them across the da floor. With each turn, Ruby’s face becomes closer and clearer, her expression hard and fixed on Jesse. The sound of RUBBER AGAINST THE ROAD as... EXT. DEAN’S CAR/HIGHWAY - NIGHT 17 The wheels of the car spin down the highway. \f18 19 20 21 22 14. INT. DEAN’S CAR - NIGHT 18 Jesse stares at her reflection in the window of the car. looks past herself and sees Dean’s reflection, driving steadily. She leans her head against the window next to his image. eyes begin to close. JESSE’S DREAM 19 A fuzzy, pink surface. An image out of focus. After a while, the image becomes clear, and we realize we are loo at skin. We see an arm. A pair of shoulder blades. A collarbone. An elbow. A mouth. Odd angles of seemingly dismembered portions of a WOMAN’S BEAUTIFUL BODY. INT. DEAN’S CAR/JERRY’S MOTEL - NIGHT 20 CLOSE ON Dean’s face. The CAMERA PULLS BACK and we see th he is watching Jesse sleep in the passenger seat. After a few moments, her eyes open, and she looks around, disoriented.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Where are we? She glances out the window. The motel is run-down, depressing, cheap. She is a little embarrassed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Oh. How long was I asleep?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Not long. She rubs her eyes and gathers her things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Thanks for the ride.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse climbs up the rusty outdoor stairs to her motel doo EXT. MOTEL ROOM - NIGHT -— CONTINUOUS 22 She pulls a set of keys from her bag and is about to open door when... \f23 15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (0.S.)",
+          "text": "Hey. She turns and leans on the balcony rail, looking down ove Dean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (CONT'D)",
+          "text": "What did one dead guy say to the other?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Nothing. He’s dead. Dean smiles. Jesse smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (CONT'D)",
+          "text": "I want to see you again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Tomorrow. She nods. Dean points up, and she turns her head to the sky. The fu moon is perfectly luminous. She gazes at it in awe as Dea car springs to life and drives away. She turns to her motel room. One number hangs on the door the other has long gone missing. The color has chipped aw revealing multiple coats of hideous paint. The lock takes bit of effort with the key, but it finally clicks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse steps into the room, leaving the front door half op She flips the light switch a few times, but it doesn’t wo Aside from the ambient moonlight shining through the wind the room is dark and eerie. Jesse tries to see into the space. Her skin prickles as s senses that something or someone is in the room. She make out a shape in the dark which starts to approach her. She quickly steps out of the room, slamming the door shut. \f24 25 16. EXT. MOTEL ROOM - NIGHT -— CONTINUOUS 24 Jesse stares at the door, unsure of her next move. The drapes inside the room move slightly, as if someone brush past them. She glances around her, but the parking lot is deserted. only sounds come from televisions in neighboring rooms an the muffled roar of the distant highway. She turns to the door again and takes a deep breath. She about to slip her key in the lock when a loud bang hits t door from the inside. She drops the keys and walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A LITTLE BELL JINGLES as Jesse runs through the door and hurriedly approaches the Night Manager, HANK. He is a fak tanned, hair-straightened, middle-aged, failed actor. He obviously once very good looking, but now borders on the grotesque. Hank sits at the front desk, feet up, cutting his nails w a small switchblade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Someone is in my room. Unimpressed, he does not look up from his work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What do you mean someone is in your room?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I went to let myself in, and I heard someone. Hank takes her in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Are you high? Jesse takes out her cell phone and starts to dial.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (CONT'D)",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I’m calling the police.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Whoa. Relax, okay? \fHe snaps the blade shut and whistles to the back room. MIKEY, a skinny, grungy biker kid appears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (CONT'D)",
+          "text": "Mikey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKEY",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "This lady has an unwanted guest. 17. Mikey looks at both of them. He picks up a baseball bat. 26 EXT. JERRY’S MOTEL - NIGHT 26 The threesome climb the stairs. Hank, following at the re looks at Jesse’s ass and grunts, impressed. She turns aro and he winks. 27",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse struggles to make her key work in the lock. Hank si impatiently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Mikey, go get the spare. Uh -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Jesse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "(suggestively) Jesse and I will wait here. Mikey scrutinizes the door, makes a decision, and kicks i open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "28 Hank shines his flashlight in the room, which we now see been torn to pieces. Jesse’s clothes are scattered everywhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What the fuck? You’re going to have to pay for this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I didn’t do it. It wasn’t me. \f29 30 31 18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Nice try, sweetheart. We don’t foot the bill for your pissed off boyfriends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I’m telling you, it wasn’t me! Mikey, meanwhile, is investigating the room. He shines a flashlight across the back wall, revealing that the windo open. He moves the light down and stops on a crouched figure. I is a WILDCAT eating into the cheek of another dead animal the floor. The wildcat slowly glances up and stares into light for a moment before returning to his meal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKEY",
+          "text": "There’s your visitor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The SOUND OF A DING. Stainless steel elevator doors close on Jesse’s reflectio She grazes her fingers across her cheek, thinking about t wildcat from the night before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse walks down a long, stark white hallway of doors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She opens the door to a room crowded with plastic folding chairs. FIFTY MODELS, all variations of the same girl, si anxiously, quietly waiting. Every head snaps to Jesse as steps inside. She crosses to the CHECK-IN GIRL at a folding table in th corner. The Girl, twenty-something, smacks her gum hard a does not look up from the fashion magazine she is reading",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHECK-IN GIRL",
+          "text": "Write down your name and your agency. Have a seat. They’ll call you in. Jesse scribbles her information on the clipboard. She pul a comp card from her bag. The Girl flips a page. \f32 33 34 19. CHECK-IN GIRL (CONT’D) Just put it with the others. Jesse places her photo on top of a very tall pile. She turns around and sees every set of eyes still fixed o her. They follow her as she finds an empty folding chair the corner of the room and sits. The door swings open and every head looks to the NEW GIRL she walks in. Jesse slumps down in her seat. She pulls a pair of headphones from her bag and puts them on. MUSIC BLASTS as her thoughts leave the room...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE'S DAYDREAM 32",
+          "text": "A series of JUMP CUTS: Sun shining through the clouds. Ba feet run on hard concrete. A pair of skinny knees drop to the ground. A girl’s hands grip the edge of a swimming po We see YOUNG JESSE’s face reflected in the water. She loo at herself for a long time before reaching out a hand and skimming the surface, distorting her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse peels the nail polish off her fingernails. Every model in the room rises at once. A female CASTING ASSISTANT stands by the door, ushering the girls into the studio. Jesse rips off her headphones, gathers her things and follows the line inside. She passes the Check-in Girl, still engrossed in her magazine, as she blows an enormous bubble which threatens pop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The studio is very bright. Big windows line one side of t room and racks of clothing line the other. Jesse stands with the group of girls against a side wall. They are positioned shoulder-to-shoulder, almost militant awaiting instruction. \f20. In the center of the room, the fashion designer, SUJI, an elegant Korean woman in her 40s, sits at a long table. Standing behind her right shoulder is the TRANSLATOR. The Casting Assistant slams the door hard. She places the stack of comp cards on the Designer’s table and crosses t the models.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASSISTANT",
+          "text": "You can undress. Like clockwork, the models strip off their jeans and t- shirts, dropping them in heaps on the ground. They stand tall in their underwear and heels. The Assistant hands each model a paper sheet with a numbe it. The FIRST MODEL is called forward. She holds up her numbe as the Assistant snaps a Polaroid. The Translator converses for an interminably long time in Korean, pointing to the model’s face and hips, clearly discussing the girl’s features. The model tries not to lo nervous. Suji remains silent, simply shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRANSLATOR",
+          "text": "Thank you. That will be all. The model rejoins the group as another is called forward. Jesse scans the faces behind her, wondering how long this will take. She spots an anxious SARAH in the back corner. Another model is dismissed, and Suji frowns, surveying th group. She locks eyes with Jesse. She points.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRANSLATOR, (CONT'D)",
+          "text": "Come forward please. Jesse points to herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRANSLATOR, (CONT'D)",
+          "text": "Can you come forward? Jesse walks to the center of the room. Suji speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRANSLATOR, (CONT'D)",
+          "text": "She wants to know, how old are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Nineteen. \f35 21. The Translator repeats this in Korean. Suji puts on her glasses and examines Jesse suspiciously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I just had my birthday. Jesse fidgets. The Assistant stands in front of her and takes a Polaroid The bright flash startles her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASSISTANT",
+          "text": "Raise your arms. Jesse raises her arms above her head. We see that she is very thin, her ribs clearly defined under stretched skin. The Assistant pulls a measuring tape from around her neck begins to measure the various circumferences of her body, scribbling notes on a clipboard. She notices the models watching her every move. ASSISTANT (CONT’D) How much do you weigh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "(distracted) Sorry...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASSISTANT",
+          "text": "Your weight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "One-oh-two. The Assistant scribbles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ASSISTANT",
+          "text": "Can you do the walk? Jesse walks from one side of the room to the other, her H TAPPING a confident rhythm on the hardwood floor. Sarah peers behind another girl to try and get a better look. When she finishes, Jesse stands in front of the table. A long, silent moment as Suji decides. She nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRANSLATOR",
+          "text": "Very good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An ELEVATOR DING. \f36 37 22. Jesse’s smiling reflection is torn in two as the elevator doors part ways. She is about to step inside when she hea a LOUD CRASH. She turns toward the noise. The crash is followed by the SOUND OF A WOMAN CRYING. She walks slowly down the hall to investigate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse presses her ear to the bathroom door which bears th hot pink icon of a woman’s figure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FEMALE VOICE, (0.S.)",
+          "text": "Please go away. She pushes the door open. INT. WOMEN’S RESTROOM - DAY - CONTINUOUS 37 Jesse steps inside and sees SARAH’s distorted reflection front of a shattered mirror. Shards cover the sink and floor. Sarah turns toward Jesse, mascara running down her face, red from crying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I SAID GET THE FUCK OUT! Are you deaf?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Sarah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Fuck, it’s you. Perfect. She slides down the bathroom wall and slumps on the groun The broken mirror crunches under her weight. Jesse notices a few cuts on Sarah’s arm which have alread begun to heal. Sarah covers them with her hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "(defensive) I cut myself when the mirror broke. Someone tries to open the door from the outside. Jesse pushes it shut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "We're in here. \f23. They try again, and Jesse bangs on the opposite side of t door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I said we're in here! The woman gives up, mumbling some profanity. Jesse clicks the lock. Sarah is impressed. Jesse sees Sarah’s book under the sink, torn apart, and p up a photo.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Are you here for a casting? Sarah scoffs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I’m sure you were great.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I know you saw me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Yeah. Oh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "It’s a great photo. You look really pretty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Waste of time. Everyone wants you to look like a fucking preteen. This is pointed. Jesse does look like a preteen. She knee beside Sarah and holds out the book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I bet you can fix this. Sarah makes no move to take it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "They're expensive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Do you know how lucky you are?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What do you mean? \f24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Don’t do that. Sarah pulls the box of cigarettes from her purse, lights and sucks hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "Sometimes I think God has favorites, you know? Some people are just born with more. People look at you. They notice. I walk down the street and no one sees me. I’m a ghost. She exhales and a puff of smoke winds up into the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "What is that like?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "To be you? To walk into a room and all of a sudden it’s like - in the middle of winter, you’re the fucking sun. Jesse swallows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "(quietly) It’s everything. Sarah pulls Jesse toward her and puts the cigarette to he lips. Jesse takes a deep inhale, coughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Careful. Sarah brushes a piece of hair from Jesse’s face and tucks behind her ear. She brushes her lips down Jesse’s neck. Jesse closes her eyes, full of desire, until...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Shit! She loses her balance and stabs her hand on a piece of mirror. She rushes to the sink and runs the water. A larg triangular shard is stuck in her palm. She pulls it out, wincing, and it clinks in the drain. Blood follows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Let me see. \f25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Let me see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "It’s really bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Here, let me see it. Jesse holds out her hand. The fatty muscle is visible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Do you think I need stitches? I don’t have insurance. Sarah is staring at the cut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "(desperately) What do I do? Sarah impulsively puts Jesse’s hand to her mouth and begi to suck the blood from the wound. Jesse tries to pull awa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "What the fuck?! Sarah sucks hungrily. Jesse manages to yank her hand away Sarah’s mouth is covered in blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "What is wrong with you?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Nothing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What the fuck is wrong with you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Nothing, nothing... Sarah's face streams with tears. Jesse runs from the bathroom. SARAH (CONT’D) Please don’t go! Jesse! \f38 39 40 4l 42 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse scrambles to the elevator and slams her hand onto t button, leaving a streak of blood. She looks toward the bathroom. INT. WOMEN’S RESTROOM - DAY 39 Sarah looks in the cracked mirror. Her eyes are black. He mouth is covered in blood. She looks like a monster. The anger begins to rise inside of her, and she sweeps he arms across the sink, sending shards of mirror whirling across the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jesse! INT. HALLWAY/ELEVATOR -— DAY 40 We ZOOM quickly down the hall toward Jesse as she hears h name called out. She presses the button over and over. Finally, the ELEVATOR DINGS. She rushes on and hits the button for the ground floor. The doors close on Sarah who just misses the ride. Jesse backs as far away as she can. EXT. TAXI - DUSK 4l A cloud of gray smoke coughs out of the taxi’s tailpipe. INT./EXT. TAXI/JERRY’S MOTEL - DUSK 42 Jesse pulls a few crumpled bills from her wallet and hand them to the TAXI DRIVER. He notices blood on the money. She looks for something out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAXI DRIVER",
+          "text": "Miss? HANK stands outside, an unlit cigarette in his mouth. He struggles to make the plastic Bic lighter catch, gives up throws it across the parking lot, and enters the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TAXI DRIVER, (CONT'D)",
+          "text": "Are you alright? \f43 44 45 46 27. She slides out of the taxi. EXT. JERRY’S MOTEL - DUSK 43 Jesse sprints up the outdoor stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She struggles one-handed with the key and lock. The doorj has been rigged with duct tape, making it stick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Come on. She looks over her shoulder and sees Hank step back out w a working lighter. She slams her weight against the door. It budges slightly. She tries again and the door swings open. Hank looks her way just as she slips inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse slams the door and does the chain. She peeks behind the curtains to see if she was spotted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse's reflection in the medicine cabinet is deathly pal She opens the cabinet and examines the meager contents: toothpaste, deodorant, a bottle of peroxide. She grabs th peroxide and shuts the cabinet. She opens the bottle and pours a healthy amount over the wound on her hand, now caked in dried blood. The wound bubbles up, and the pain is almost unbearable. Jesse make sharp sound and sinks to the ground, clutching her hand t her chest. A KNOCK at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MALE VOICE, (0.S.)",
+          "text": "Jesse? Still reeling in pain, she braces herself on the door fra with her good hand and stands, shaky on her feet. \f28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANOTHER KNOCK.",
+          "text": "There is a deep purple bloodstain on the carpet from the wildcat. Jesse stumbles a little, dizzy. She peeks out the window. It is DEAN, shifting nervously. She opens the door and he presents a bouquet of red flowe She takes them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Pretty. Dean peers into the motel room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "What happened in here? She starts to lose her balance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (CONT'D)",
+          "text": "Jesse! He tries to catch her, but she falls to the floor, fainti The flowers hit the ground and petals scatter everywhere.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse’s eyes blink open. Dean is crouching over her. He holds up a hand with five fingers spread wide apart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "How many fingers do you see?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Four.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Try again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Six.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Six?! How many fingers do you have? He grabs her bad hand to check for six fingers. She wince",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (CONT'D)",
+          "text": "What happened to you? \f29.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Let me see. Jesse reluctantly unclenches her fist and shows Dean the wound. He stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I’m taking you to the hospital.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You need stitches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "It’s not that bad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Not that bad? You fainted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I know, I know. I just - I didn’t eat today and -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You didn’t eat?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I’m feeling much better. Honestly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Why didn’t you eat?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I - forgot. Dean eyes her suspiciously.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Please don’t look at me like that. They sit in silence for a moment. Dean looks around the room.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "This place is a mess. \f30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "This fucking cat got in and wrecked everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Real party animal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "It ate my face cream. Small laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You can’t stay here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I don’t know where else to go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I’ve got a couch. She shoots him a look. He grins.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (CONT'D)",
+          "text": "Worth a shot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Besides, I can’t leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Why not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I owe them money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "For what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "For the damages.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "It wasn’t your fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I left the window open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "So you try telling him. The guy’s a creep. He won’t listen. \f49 31. Dean looks at her, propped up against the bed, clutching hand. She is incredibly small. He stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Where are you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Stay here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A LITTLE BELL JINGLES as Dean enters the office door. HANK has his feet up, flipping through an out-of-date Hus Magazine and shovelling sticky, red Chinese food into his mouth with a fork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Are you the Manager?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Depends on who’s asking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "My friend says she owes you money. This gets Hank’s attention.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Room twenty-one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Oh... The wildcat! Hank growls. His mouth is covered in red sauce.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (CONT'D)",
+          "text": "That’s some hard candy, you know what I mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I’m sure I don’t. Hank looks him up and down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "What are you, a Mormon? \f32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "You with the DPH? Cuz we passed our last inspection. I’11 show you the paperwork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I’m a photographer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "A photag, huh? Take any of these? He holds up the nude magazine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Not my style.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Hmm. Hank turns back to the magazine, instantly sucked into on the pictures. For a minute he forgets about Dean. Dean clears his throat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (CONT'D)",
+          "text": "Right. Back to business. Your little friend’s a piece of work. Gonna have to replace the door and do a new spackle on the wall. Looking at... at least two-hundred.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Fine. Dean takes out his wallet and produces a wad of money. Ha eyes it hungrily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Or was it three? They exchange a look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I have two-forty in cash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Sold! Hank rips the bills from his hand. He goes to a filing cabinet and unlocks the top drawer. He takes out a cash b counts the money, and puts it inside. \f50 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "There a pharmacy around here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Why? She send you out for tampons, too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You've got a real attitude problem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "That’s what I hear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I could report you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Hey, now. I’m just being friendly. Just wanna make sure you’re getting something out of this deal. Symbiotic relationship, you know? Cuz if you're not - (whispers ) Got plenty other girls here. Take a peek in room twenty-two if you get a chance. Rented it yesterday to a girl from Sandusky, Ohio. Run away from home. Thirteen years old. He sucks air through his teeth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (CONT'D)",
+          "text": "Now that’s some Lolita shit, you know what I mean? Hank grunts and moans, suggestively rubbing his body agai the filing cabinet. The drawers make a rattling sound as Hank molests the cabinet, his efforts increasing, slappin hand against the metallic side. Dean leaves, repulsed. The BELL JINGLES as Hank calls aft him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK, (CONT'D)",
+          "text": "Room twenty-two!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We pass the row of motel doors, past room twenty-four, tw three, twenty-two... stopping at Jesse’s room: number twe one. \f51 52 34.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We ZOOM in slowly on Jesse’s body, lying motionless on th bed. She appears to be asleep until we see her eyes, open wide. She stares at a patch of wall covered in deep gashe from the wildcat. IMAGES FLASH through her mind: The wildcat’s yellow eyes. The models looking her up and down. Sarah’s bloody mouth. Suddenly, Dean shoves the door open with some force and stumbles inside. He carries a plastic sack from the drugstore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "(re: the door) They'll fix that soon. Jesse runs to him and wraps her arms around his waist. Surprised by this sudden gesture of intimacy, he runs a gentle hand through her hair, curling the soft waterfall strands through his fingers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse sits on the toilet seat, knees to her chest like a child. Dean kneels beside her, picking a small shard of mirror from the cut with a pair of tweezers. She winces. He hesitates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "It doesn’t hurt. He dabs a damp piece of tissue around the wound, places a large Band-Aid over the cut, and wraps it tightly in an a bandage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Best I can do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Thank you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "You’re welcome. He thinks about kissing her, but instead starts to clean \f53 54 35.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "(sincere) I’m having a really good time. He looks up, smiles, completely charmed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Anything else need fixing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The crunchy, metal SOUND OF A MOTOR attempting to rev to life. Dean tries to start Jesse’s car, a run-down Buick past it prime. He has been working at it for some time, and sweat beads cover his brow. Jesse sits on the back bumper watching. Frustrated, Dean powers through one last attempt. We see motor of the car as it springs to life. He slams the hood and wipes his greasy hands. Behind him, the sun sets in brilliant red and orange.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The relentless, high-pitched RING OF A TELEPHONE. Sitting rigid at a desk is JAN CAMPBELL-COOPER, a ferocio attractive thirty-something sporting a tight-lipped smile a power suit with a plunging neckline. Every word from he mouth drips with sing-song saccharine despite her dying patience. A framed magazine cover bearing a photo of Jan as a model her earlier days hangs askew behind the desk. Jesse sits in a shabby upholstered chair, pulling at a lo thread as they wait in silence for the phone to desist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Cara, sweetie, would you like to answer the phone today? Through the door, we see Jan’s twiggy, perky, blonde assistant CARA gabbing with the MAIL CLERK, unaware of th phone’s insistence. \f36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "(a little too harsh)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARA",
+          "text": "Cara jumps. She picks up the receiver.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARA",
+          "text": "Jan Campbell-Cooper’s Office. Oh, hi, Brad! (whispering) It’s your ex-husband. Jan closes the office door with force.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Next time, remind me to hire someone with a hump or a skin disease. She sits on the corner of the desk. Smiles again. Poised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "I want to talk about your future.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "You've been getting a lot of attention lately.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "The [DESIGNER NAME] people called this morning. They said you were absolutely perfect. I’m not surprised. Jan sucks down half a can of Diet Coke through a clear- plastic straw and scrutinizes Jesse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "Can I ask you a question?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Where do you see yourself in five years? Jesse shrugs. \f37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "Don’t be shy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Working more high-end, maybe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Mmhmm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I'd like to go to New York for September.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Well, well! Aren’t you Miss Confident! And I mean it as a good thing. Those goals are perfectly achievable. Let me put this another way. What do you think about Paris?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Paris?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "And after that, Milan. London. Singapore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Sounds okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Okay? This is every little girl’s dream! Get you out of the New Faces and into Vogue. You'll work for all the big designers. International success.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Sounds great. Jan straightens her photo on the wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "You know, one time I met Valentino while I was doing a runway show in Rome. He kissed me right here. She points to the very corner of her mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "What do you think about that? Jan turns to Jesse, expectant. \f38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Wow...? Jan turns back to the photo, her face reflected in the gl Jesse attempts to recover.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "You were so beautiful. Jan frowns at the past tense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "We're sending you next week. You have five days to pack your things and tell all your boyfriends goodbye. We’ll cover your housing and your travel expenses, of course. Don’t be worried about that. You don’t need to do anything up front, just pay us back with the money you’1l make overseas. How does that sound?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Sounds amazing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Cara will have you fill out a W2 and all that nonsense. It’s very simple since you’re over eighteen. Jesse pulls harder at the loose thread in the fabric.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "You are eighteen...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Not exactly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "It says nineteen in your file.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "That might be a mistake. Jan grins, knowingly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Stay right there. She walks out of the office, shutting the door behind her \f55 56 39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jan marches up to Cara.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "I need a parental consent for a minor. International. Cara rummages through her desk which is in total disarray Jan looks over at three other HOPEFUL MODELS sitting in a of chairs. She shoots them a half smile. She speaks to Ca through clenched teeth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "I thought I told you to keep the others in reception.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARA",
+          "text": "I thought this would be better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Oh, you thought it would be better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARA",
+          "text": "(confused) That’s what I just said. Jan rips the paperwork out of Cara’s hand and storms back into the office.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jan hands a stack of forms to Jesse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "Here we go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What’s this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN",
+          "text": "All we need is a signature giving parental consent. Just one little signature, right there, and off you go. Jesse takes the papers, looking closely at the line readi ‘Parent or Guardian.”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "Is that a problem? \f57 40. Jesse shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "Good. Now, we need to work on your book before you go, so I’ve arranged for a test shoot. It’s thirteen-hundred, which I know sounds astronomical, but again, we'll cover it. A small price to pay for all the work you'll get later, right? This guy is the best in the business. Real Jackson- Pollock-meets-Marlon-Brando type. And his photos are good, too. So my advice is... Don’t mess it up, honey. She hands Jesse a slip of paper with an address.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAN, (CONT'D)",
+          "text": "You can meet him at one. INT. JACK’S STUDIO - DAY 57 Elevator doors close shut behind a frozen Jesse. On the other side of the studio is JACK. A silent moment passes between them. Jesse is acutely aware that they are alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Come closer. Jesse walks to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "Take off your clothes. She looks around for a place to change. The studio is modest, minimal, clean. Brick walls and large windows. Various lighting instruments and a small desk in the corn",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "Something wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No. She tosses her bag on the ground and strips to her underw She stands tall, awaiting instruction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "All the way. \f41. Jesse swallows hard. She slips her underwear down her leg brushing them to the side with a foot. She unhooks her br and drops it to the ground. He stares at her for a long time. It is not sexual, rathe the look of a sculptor sizing up an untouched ivory block",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "Pull your hair up and turn. She does. The idea comes to him. He walks out of the room, and Jess is left alone. Shivering, she attempts to cover her body with her arms. The rays of sunlight shooting through the window shine down on her like a spotlight. He returns carrying a large metal box and a bundled plast tarp. He stretches the tarp out in the corner of the room smoothing every corner with great care and deliberation. He motions for Jesse to come. He opens the box and examines the contents, making his selection. Curious, Jesse tries to peer inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "Put this on. He tosses the object to her. She drops it, nervous, and bends down to pick it up before he notices. It is a tube gold paint. Jack cleans a lens with a small cloth and attaches it to camera base on a tripod.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Um — She looks at the tube, unsure of what to do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I’m sorry - He either doesn’t hear her or doesn’t care to respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I don’t know what to do with this. He goes to her and takes the tube.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I’m sorry. \f58 42. He squeezes a good amount of paint on his hand. He stands behind her, placing a hand at her collarbone. A SERIES OF JUMP CUTS: He slides his hand across her ches Between her breasts. Down the soft flesh of her belly... JESSE'S POV: Jack stands back and admires his work, wipin his hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Over there. He motions for her to stand in front of the camera. He clicks a small remote and MUSIC begins to play through th studio. We only see Jack as he stands behind a camera and begins take pictures. He stops, looks up, unhappy. He walks out frame to adjust something, then back to the camera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "You look stiff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (0.S.)",
+          "text": "How’s this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Better. He clicks a few more photos. He takes the camera off the tripod and walks closer, the CLICKS OF THE CAMERA growing rapid and regular, louder and louder...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Jesse in the mirror covered head-to-toe in gold, t portrait of a Greek Goddess. She runs a hand down her bod amazed that it belongs to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (0.S.)",
+          "text": "The Midas Touch. Jesse is surprised to see Ruby reclining behind her. RUBY (CONT’D) At least it’s not blood. Ruby makes a face, plays dead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Have you been here the whole time? \f59 43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "That’s what they pay me for.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby plunges her hand into a small basin of water which sloshes onto the floor. She worshipfully washes the paint off Jesse's body. Jesse stares off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Did your dog die or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "So serious. Ruby pokes Jesse’s face with her index finger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "You disappeared the other day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Yeah. Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Where’d you go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I've been house-sitting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "House-sitting emergency?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Had to take care of some things.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Like what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I had to water the plants. What’s with the third degree? Jesse looks down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "He didn’t say anything after the shoot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Is that what you’re worried about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse nods. RUBY (CONT’D) Well what did you want him to do? Fuck you? Jesse looks away, red-faced. RUBY (CONT’D) You did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "God, you’re worse than Sarah. Jack walks in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Jan's office said you need these in a rush, so I’ll have them by the weekend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Okay. He starts to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Good work, by the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Thanks. He goes. Jesse exhales, deeply relieved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Maybe he will. Jesse slaps her playfully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby and Jesse, clean and dressed, sit at a table staring the agency paperwork.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I don’t see what the problem is. Just get the signature.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Not possible. \f61 45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "So sign it yourself. It’s not like you're robbing a bank. It’s a signature. How old are you, anyway? Jesse hesitates.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "I’m not a cop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Sixteen last month.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Jesus. Got your license and hit the road, huh? This strikes a nerve. Jesse looks at the papers, forlorn. RUBY (CONT’D) One time in the sixth grade Scott Masterson and I snuck into the science lab. We stole the answers to the Chem final and sold them for a buck each. I never got caught.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Did he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Look, the point is, sometimes you have to do something a little bit bad to get something really, really good. And usually, no one ever finds out. Jesse looks at the papers. Ruby nudges her, chanting ‘sig sign-sign.’ Jesse scribbles the signature. Ruby tosses tissues into the air like confetti, a celebration. RUBY (CONT’D) Hey, you wanna do something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CLOSE ON a hamster jogging infinite circles on a wheel in window of the pet shop. Jesse and Ruby stand outside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What if he asks my name? \f62 46.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Tell him the truth. Or lie. Whatever. Just don’t let him turn around. Jesse looks anxious. RUBY (CONT’D) I helped you, you help me. Right? Jesse nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The CHAOS OF ANIMALS barking, chirping, crying. Jesse leans both elbows on the glass counter by the front register. A scrawny SALES CLERK saunters over in a bright blue and yellow work uniform.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SALES CLERK",
+          "text": "Can I help you? A name-tag clipped to his shirt reads: CONRAD.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Are you Conrad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD",
+          "text": "That’s me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I need help finding something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD",
+          "text": "Okay. She points behind the counter to a shelf.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD, (CONT'D)",
+          "text": "Fish pellets?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD",
+          "text": "What kind of fish do you have?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Um... a red one? Jesse looks as sheepish as possible. Conrad thinks she’s adorable. \f47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Can I come back and take a look? He motions her behind the counter. As they turn away from the door, Ruby slips inside and disappears to the back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD",
+          "text": "So these are flakes and these are pellets. Really, they’re the same thing, just depends on how much you want to spend. This is fourteen- ninety-nine, but it’1l last you a year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Can I see? He unscrews the cap. Jesse glances over her shoulder. No Ruby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD",
+          "text": "Should I ring you up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Do you like - fish?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD",
+          "text": "They’re okay. I mean, they’re pretty much non-pets, right? She is running out of ammunition. He looks at her with curiosity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CONRAD, (CONT'D)",
+          "text": "Do you want a brochure or something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Wait - Too late. Conrad turns around just as Ruby is sneaking toward the exit carrying a large brown paper sack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(to Jesse) Run! Jesse ducks under Conrad's arm, spilling the jar of fish food. The girls fly out the door. 63 EXT. STREET/JESSE’S CAR - DAY - CONTINUOUS 63 Jesse and Ruby charge down the street toward the car. \f64 65 48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Unlock the door!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They fall into the car, sliding deep into the seats. Ruby looks back to see if they were followed. The paper bag on her lap shakes violently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What’s in that? Ruby smiles mischievously. She reaches in the sack and produces a large orange and yellow cockatiel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "Is it expensive?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "They wouldn’t sell him to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Why not? She runs a finger down his back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Isn't he beautiful? CONRAD appears out of nowhere, banging on the car window. Ruby loses hold of the bird which goes flying through the car. Jesse turns the key in the ignition, but the car won start.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (CONT'D)",
+          "text": "Hurry up! She tries again. The car roars to life. Ruby flips Conrad the bird as they floor it down the stre INT. RUBY’S APARTMENT - DAY 65 They enter the apartment and Ruby immediately disappears the bedroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY, (0.S.)",
+          "text": "You want something to drink?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No, thanks. \f49. Ruby’s living room is a bona fide zoo. A giant cage holds least thirty restless parakeets, flapping and CHIRPING incessantly. An upset deck of tarot cards is strewn acros the coffee table. On the wall, a framed quote: “The light mine. Its rays consume me.” Jesse scans a shelf, running her fingers across a row of books including The Holy Book of Thelema and Magic and Alchemy. She selects a thick, leatherbound book, opening a page covered in Latin scrawl and a reverse Pentagram. Ruby reappears with the cockatiel in a small cage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I should name him Conrad. What do you think? Jesse looks up from the book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Are you a witch? Ruby laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "What is all this stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Just some things I’m interested in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Do you believe in it? This... magic stuff?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Some of it. Jesse flips a page. Ruby watches her intently. RUBY (CONT’D) What do you believe in? Jesse shrugs. RUBY (CONT’D) Everyone believes in something. Jesse flips the page to images documenting various animal sacrifice rituals. She glances nervously at the birdcage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Why wouldn’t they sell you the bird? \f66 67 50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Because they’re a bunch of Fascists. Ruby grabs the book and puts it back on the shelf.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I should go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Me, too. Plants won’t water themselves. Jesse starts to leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Thanks again for your help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Hey. Friends, right? They share a smile. EXT. JESSE’S BUICK - DAY 66 Jesse’s phone RINGS as she walks to the car. She beams wh she sees the name on the caller ID.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Hi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (V.O.)",
+          "text": "What do you call a cow with no legs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (V.O.)",
+          "text": "Ground beef. Small laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (V.O.)",
+          "text": "I've been waiting to tell you that one all day. INT. RUBY’S APARTMENT - DAY - CONTINUOUS 67 Ruby leans against the large cage in the corner and makes kissing noises. She opens the gate and refills the water with a paper cup. \f68 69 51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (V.O.)",
+          "text": "Guess what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (V.O.)",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (V.O.)",
+          "text": "I booked a show tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (V.O.)",
+          "text": "Well, maybe I’1l see you after.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (V.O.)",
+          "text": "I'd like that. Ruby sprinkles feed inside. The birds go wild.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The HOSTILE WHIR OF A SEWING MACHINE. A woman’s callused hands run a piece of fabric through it, her fingers dangerously close to the needle. SEAMSTRESSES hustle about. Jesse stands before one of the rollers in her hair, arms outstretched, as last minute alterations are made. Beside her, two CHATTY MODELS laugh and talk animatedly in FRENCH.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse sits at a make-up mirror, grinning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (0.S.)",
+          "text": "Look what the cat dragged in. GIGI’s reflection appears behind her. Her face is made-up and a pink robe hangs open over her underwear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (CONT'D)",
+          "text": "You've got a secret. She flops into the neighboring chair, flinging her legs o the side, and sucks down a tiny bottle of champagne from straw.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (CONT'D)",
+          "text": "Spill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I don’t have a secret. \f52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Come on. Give me the gossip. Are you pregnant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Are you in love?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "You are! You’re in love.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I am not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Then why are you blushing? Jesse's excitement overcomes her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "They're sending me to Paris.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Paris, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Next week.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Quelle superbe nouvelle!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Oh, god. Do you think they’1l be upset that I don’t speak French?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Relax. You’re not joining the debate team. No one cares about what you say. Gigi picks up a bright lipstick and absentmindedly applie in the mirror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Did you look different? I mean before?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "You wouldn't even recognize me. \f70 53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Do you think you look better now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "I get more work, if that’s what you mean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I guess some people are just born with more. Gigi laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Where did you hear that? Jesse shrugs. GIGI (CONT’D) The way I see it... God made man, but He also made Dr. Andrew. Why just be pretty when you can be perfect?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Some people say that God’s a woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Well then she definitely understands. They share a smile. GIGI (CONT’D) I love this color on me. Gigi leans into the mirror. She kisses her reflection, leaving an electric red lipstick mark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse attempts to peer into the crowd. JESSE'S POV: Hundreds of men and women take their seats. The flash of a camera startles her, and she turns over he shoulder. We see her fully made-up for the first time. Sh wears flesh-colored lingerie, loads of make-up, and a thi gold band across her forehead like a crown. She is completely transformed. \f71 72 54. The flash belongs to JACK, taking backstage photos. Anoth shot, and Jack walks away. She watches him go, sliding a hand across her stomach. The lights grow dim. A WOMAN’S VOICE introduces the show. The STAGE MANAGER runs around frantically. Jesse takes he place in line. The SOUND OF APPLAUSE. MUSIC BLASTS as the first girl makes her way onto the run Gigi, close to the front, turns around and winks at Jesse",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse steps out onto the runway and the MUSIC STOPS. TIME SLOWS. Nothing but the rapid crescendo of her BREATHING. We see her face as she begins to walk, eyes determined. W see her torso. Her hipbones. Her feet. Flashes of camera light bounce across portions of her body, dissected in motion. When she reaches the end, the BREATHING STOPS. JESSE'S POV: A sea of illuminated eyes looking directly a her. CLOSE ON her face. The hint of a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "MUSIC again as Jesse exits backstage, ecstatic. She sees Jack across the room and walks confidently up to him, pulling him into a corner. She grabs his hand and places it between her legs. He raises his eyebrows in surprise, realizing that she is very wet. She kisses him hungrily, pulling his body against hers. Then, a voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN, (0.S.)",
+          "text": "Jesse? Jesse looks up, lipstick smeared across her face. She see Dean as he charges at Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Dean, don’t! \f73 74 75 55. He slams Jack hard against the wall. His camera crashes t the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Who the fuck are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "He’s nobody. Jesse’s comment makes Dean’s head turn and while he is no paying attention, Jack clocks him. Dean tumbles backwards and trips over a rack of women’s clothing. The whole thin topples over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "(to Jack) I’m sorry - Jack picks up his camera and storms off. Gigi and a small group of girls have surrounded the scene snickering. SUJI breaks through the spectators to check o the commotion. She looks disappointedly at Jesse and walk away. Dean cannot stand, tangled in a mess of clothes. Jesse st over him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Jesse -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Just go. INT./EXT. JESSE'S CAR/JERRY’S MOTEL - NIGHT 73 Oil drips beneath the parked car. Out the window, Jesse s Dean waiting on the steps of the motel. EXT. JERRY’S MOTEL - NIGHT 74 Jesse approaches him, still made-up from the show. His ey has already started turning purple. She marches past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Can we please talk?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse storms into the room, Dean on her heels. \f56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Jesse —",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What were you doing there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I thought you invited me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I didn’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I realize that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "That's my job, Dean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "My job. You have no idea how much you've fucked things up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Let me talk to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "It’s the least I can do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Stop trying to be the nice guy. Stop fixing things. Sometimes people don’t want to be saved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "I’m just trying to help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I don’t want your help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Well, I don’t want to be one of those guys who gets into fights over a girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "You’re not one of those guys. \f76 77 78 79 80 81 57.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DEAN",
+          "text": "Why does that sound like an insult? Jesse sits on the bed, defeated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What do you want me to say? Huh? I don’t even know you. Not really. You're just some guy who gave me a ride one time. This hits hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I think you should go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dean walks slowly down the stairs. INT./EXT. MOTEL MANAGEMENT/DEAN’S CAR - NIGHT - CONTINUOU HANK watches Dean through the window as he gets in the ca and drives away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "76 77 78 Jesse sits on the bed, staring into space. Her eyes land the red flowers from Dean. She has failed to put them in water, and they are wilting on top of the television.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse tosses the flowers into the trash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She throws herself onto the bed, completely spent. She clicks the bedside lamp off sending the room into total darkness and begins to drift to sleep. EXT. JERRY’S MOTEL - NIGHT A pair of men’s feet walk quietly up the outdoor stairs. 79 80 81 \f82 83 84 85 86 58. EXT. MOTEL ROOM - NIGHT -— CONTINUOUS 82 The feet stop in front of Jesse's door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The door slowly opens. The feet creep to Jesse’s bedside. Fingers rub greedily against sweaty palms. We see that th belong to HANK. He looks down on Jesse, sleeping quietly, his expression full of longing. He reaches into his pocket and pulls out the switchblade. Opens it. He sticks the blade between her slightly open lips. Between her teeth. Down into the soft hollow of her mouth. Jesse wakes. She sees the knife and freezes, fearful of slicing her tongue on the blade. She locks eyes with HANK who is panting hard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HANK",
+          "text": "Wider. After a beat, Jesse opens her mouth wider.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She opens wider still, the skin of her mouth stretched ta at the corners. He sticks the blade down into her throat. She begins to gag...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse sits upright in bed. She flips on the light and loo around the room for Hank, but she is alone. She holds a h to her mouth, realizing it was all a dream.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cool water runs in the sink as Jesse splashes her face. S has not removed her make-up, and it is smudged across her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse lies back on the bed and curls into the fetal posit She picks up her phone from the nightstand and sees that has two missed calls. She ignores them, and clicks the li off again. \f87 88 89 90 59. While attempting to drift back to sleep, the SOUND OF FOOTSTEPS startles her. A man’s shadow looms outside her window. She rushes to do the chain-lock, backing into the dark corner. She watches the shadow pass under her door t the neighboring room. Jesse puts an ear to the wall. The faint whispers of a YO GIRL’S VOICE, startled by the unexpected company. Her eye widen as the whispers become FEARFUL CRIES. Some awful violence is taking place in the room next door. CUT TO: Behind the wall. Jesse is silhouetted as the CAME TRACKS BACKWARD creating a tunnel effect.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "RUBY opens the front door. JESSE clutches a suitcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "You look terrible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse stands naked in a hot shower, her face lifted to th showerhead. Black makeup runs down her neck and chest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wrapped in a white towel, she draws the large outline of heart with her finger on the foggy mirror in front of her She stares at the heart before wiping it away, revealing image. For the first time, we see her without any make-up or glamour. She looks incredibly young, a girl of sixteen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The room is luxurious, clean, comfortable - the complete opposite of Jerry’s Motel. She towel-dries her hair as sh walks around, examining things. A reflection appears in the window. Jesse whips around, startled by Ruby standing in the doorway. She attempts to cover her nude body with the towel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I brought you something. She holds up a small bottle. \f91 92 93 94 60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What is it? She points to Jesse’s hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Helps it heal. Jesse sits on the bed. Ruby carefully unwinds the bandage and doctor's her injured hand. RUBY (CONT’D) There.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Thank you. Ruby looks down at her exposed body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "You have such beautiful skin. Jesse swallows hard. Ruby touches her ankle, up her leg, over her knee, to the inside of her thigh. Their eyes lock as Ruby penetrates her. Jesse’s face scrunches into a tight ball, a mix of pain and pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby washes her hands in the sink. They shake nervously, she drops the small soap into the basin with a clink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sheer curtains wave at the open window, the only move in the room. Ruby sits motionless on the edge of the bed, gripping her cell phone. After a long moment, she dials.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The moon shines bright in the sky above the monstrous, gl house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse's eyes are already wide open as the first rays of sunshine pour in the window. \f95 96 97 98 99 61. Her cell phone vibrates incessantly on the nightstand. Sh looks at it with disdain. She yanks open the back window and impulsively tosses the phone outside. It goes flying into the grass below.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse knocks on the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Ruby? No response. She twists the knob and enters. The bed is mussed and unmade, but Ruby is not there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse, dressed, turns the key in the ignition. The car refuses to cooperate, and the dashboard lights up as it d completely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse crawls on her hands and knees searching for her pho in the grass. The sun beats down. Eventually giving up, s sits back on her heels and wipes sweat from her forehead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse examines a wall of framed photographs. A smiling tr MOTHER, FATHER, and SIX-YEAR-OLD-BOY are present in most. She stops at a picture of the young boy at Halloween dres in a homemade astronaut costume.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse fingers glass perfume bottles arranged in neat rows the vanity. She picks up a lipstick and puts it on, imitating Gigi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "I love this color on me. \f100 101 102 103 62. She opens a drawer of the vanity and finds several pair o glasses. She tries on a few, twists up her hair, turning, admiring her reflection. She sees the open closet door behind her and has an idea.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse flips the light-switch and her jaw drops. The colos walk-in closet is any woman’s fantasy, boasting floor to ceiling mirrors and racks of expensive-looking clothes. Jesse thumbs through them, stopping at a beautiful red evening gown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse walks around the perimeter of the room in the gown. is slightly too large, and she looks very much like she i playing dress-up. Her fingers lightly trail the glass wal as she watches her reflection pass beside her. She stops and looks through her own image to the backyard There is a giant rectangular swimming pool. She smiles. We hear LOUD MUSIC on the radio as... INT. RUBY’S CAR - DAY 102 Ruby sits in a parking lot, looking at herself in the rearview mirror for a long time. She turns the key and th MUSIC STOPS.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby stands inside the diner. RUBY’S POV: SARAH and GIGI sit on the far side of the roo Ruby slides into the opposite side of the booth. No one speaks. Eventually, a WAITRESS walks over, breaking the silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Would anyone like to hear the specials?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Sure. \f63. Sarah groans. GIGI (CONT’D) What? They work so hard to memorize them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Today is Thursday, so we’re serving breakfast all day. We have a loaded baked potato with a side of broccoli or a fruit cup for seven- ninety-nine. We have a lovely pan- seared halibut topped with a mango- peach salsa on a bed of wild rice served with a fruit cup. And we have a steak sandwich which comes with fries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "If I don’t want fries, could I substitute the fruit cup?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "Sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Could I have the fruit cup without it being on the side of anything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "If you just want fruit, you’1l have to order the fruit bowl -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You know, we’re not that hungry. Thanks, though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WAITRESS",
+          "text": "(confused) You do know this is a restaurant? Sarah looks at her with killing eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Three waters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "And a fruit cup. The Waitress walks away. Another silence as the three eye each other. Finally, Sarah speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "So. Where is she? \f104 105 106 107 108 64.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "She’s at the house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The red gown lies in a heap on the floor. We track up Jesse's body as she ties the top of a bathing suit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse tosses the towel on a patio chair. She climbs the ladder of the diving board. A SHARP SCREAM. A YOUNG WOMAN is being chased around the neighboring backyard. A YOUNG MAN catches her and throws her over his shoulder, upside down. The young woman squeals with delig Jesse frowns. She turns away. She walks to the edge of the diving board and jumps high the air. The sound of the DIVING BOARD SPRINGS. Mid-air, she twists and lands back on the board, clinging it with both arms, struggling to maintain her balance. She looks with horror at the concrete bottom of the pool which holds no water, only two large round drains.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby stands by the front door, keys in hand, and calls ou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Jesse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby looks around the room. No Jesse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby is on her way to the back door when she hears a nois She follows the sound. Jesse sits on the floor, tucked behind a big armchair in her bathing suit, a half-empty bottle of wine beside her. \f65.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Did you go swimming?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Tried to. Jesse laughs hysterically, teetering on the edge of drunk",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "What’s so funny? Jesse's laughter fades to nothing. She is very still, contemplative. She snaps She takes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "When I was eleven, I asked my mother for a swimming pool. I begged and begged. Please let me have a swimming pool. Please. Of course she said no. But my Stepdad, he said, ‘You want a swimming pool, you got a swimming pool.’ Two months later - her fingers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "My mother told me I was dangerous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "She was right. She wasn’t wrong. I know what I look like.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I’m sure you do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What’s wrong with that anyway? Am I supposed to feel bad? Sometimes, I look at myself and I think, I actually think - God! Was there ever anything better than this? I mean, look at me. What else is there? a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "And it isn’t just being beautiful. It’s more than that. It’s power. You asked me what I believe in? (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f109 66.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I believe in me. Men look at me. Women look at me. Everyone either wants me or wants to be me. And you know what? I love it. Jesse exhales deeply, relieved, as though she had been dy to get this out for a long time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE, (CONT'D)",
+          "text": "I need more wine. Jesse pulls herself to her feet. Ruby watches, but makes effort to help.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse grabs a fresh bottle of wine from the counter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She starts back to the living room with the wine, but is stopped by a NOISE behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "Ruby? Jesse follows the noise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The front door is open wide. Jesse shuts it. She puts one eye to the peephole. JESSE'S POV: Outside is mostly dark, obscured shadows. After a long moment, she turns around. She is startled by SARAH standing motionless in front of her. Jesse is instantly tense. CLOSE ON her wounded hand as she balls it into a fist, recalling their last interaction.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JESSE",
+          "text": "What are you doing here? Sarah does not offer a response. They face-off for a long moment until... Sarah lunges toward Jesse. The bottle of wine is dropped, smashing on the ground. \f112 113 114 67. EXT. HILLS HOUSE - NIGHT —- CONTINUOUS 112 Jesse opens the front door and runs a few steps outside, Sarah catches her. She clamps a hand over Jesse’s mouth, dragging her back inside, ripping her bare feet on the ha concrete.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse grabs the door frame and struggles wildly. Sarah sl the door and it closes hard on Jesse’s wounded hand. Once Twice. Three times. Jesse cries out and finally releases the door, sinking to ground and clutching her hand. Sarah takes this moment to the lock. Jesse crawls across the broken bottle and scrambles to he feet, barely getting away. She runs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Jesse’s reflection run through the room, Sarah’s i hot pursuit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse scrambles up the stairs. She stumbles, and Sarah gr her foot. Jesse kicks her in the face. Sarah’s nose drips with blood. Jesse crawls away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse runs down the hall and ducks into the first room sh sees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse shuts the door and flips off the lights. She turns around. The walls and ceiling are covered in glow-in-the- dark planets and constellations, a magnificent replica of outerspace. Jesse is stopped in awe. She is brought back to earth when she hears FOOTSTEPS in hall. She ducks into the closet and shuts the door. \f120 121 122 123 68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse pulls her knees to her chest and holds her breath. The sound of the DOOR OPENING. Light pours in the crack under the closet door. Jesse puts her own hand over her mouth to quiet her breathing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FEMALE VOICE, (0.S.)",
+          "text": "(whispered) Jesse? Jesse backs farther into the closet and bumps into a chil spaceship toy. The toy lights up wildly, making ‘BLAST-OF NOISES. She panics. The closet door swings open. It is RUBY. INT. HILLS HOUSE CHILD’S ROOM - NIGHT - CONTINUOUS 119 Jesse flies out of the closet and clings to Ruby. Ruby pu a finger to her lips.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(whispering) We’ll go out the back. She grabs Jesse’s hand and peeks out the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jesse and Ruby walk hand-in-hand toward the stairs. INT. HILLS HOUSE STAIRWAY - NIGHT —- CONTINUOUS 121 The pair runs down quickly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They make it to the back door, and Ruby opens it. Jesse r out ahead of her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "SARAH is standing motionless beside the pool holding a ha to her bloody nose. Jesse quickly turns back to Ruby, who shuts the door firmly behind her. Ruby looks down, refusi to meet her gaze. Jesse’s eyes widen as she realizes that Ruby is part of whatever is going on. \f124 125 126 127 69. Jesse backs away from both of them. GIGI steps out of the shadows behind her. She pushes Jesse in the pool. TIME SLOWS as she falls. A CRUNCH as she hits the hard, cement bottom. She grimace in pain and grabs her now broken leg. We see Jesse from above, lying on her back, twisted in th rectangular grave. JESSE'S POV: The full moon shines bright in the sky above her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sound of RUNNING WATER as a showerhead springs to lif Ruby, Sarah, and Gigi are naked in the shower, covered he to toe in blood. They vigorously scrub their bodies, very focused. Ruby washes her hands. Sarah lets water run into her mouth. Gigi pulls a thick substance from her hair. Thin, red water circles down the drain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The three girls dry off, making little eye contact. Gigi wraps a white towel around her body. In the foggy mirror, she sees the faint outline of a heart. She clutches her stomach, suddenly nauseated. She falls t all fours and vomits. A human eye is in the vomit. It see to look directly at her. Without missing a beat, Sarah picks up the eye and puts i her mouth, popping it with her teeth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sprinklers pop up in the front yard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sound of a SQUEAKY SPIGOT turning. Water sprays through a garden hose across pretty red rose bushes lining the fence. Ruby walks around the perimeter the backyard watering the plants, her house-sitting duty. \f128 129 70. When she is finished, she hesitantly walks to the edge of pool and looks down into it. We only see her face as she grimaces. She sprays the hose into the pool. The SOUND OF WATER tak us to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby scrubbing her hands aggressively in the kitchen sink She flips off the sink, examines them, turning them over. They are red, rubbed raw. Satisfied, she dries them on a dishtowel. She frowns at the stove, buried under dirty pots and pans",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ruby enters the dining room. She looks in disgust at Sara who is devouring a plate of eggs and bacon. Sarah shoots her a toothy grin, her mouth full.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "The kitchen’s a mess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Relax. I'll clean it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "They're coming home -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "This afternoon. I heard you the first hundred times. Ruby sits, defeated, looking especially fragile. Gigi runs in, her hair dripping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "I took another shower. She slides into a seat at the table. Ruby notices a littl blood behind Gigi'’s ear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (CONT'D)",
+          "text": "What? \f71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "You have some - Ruby points to the blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Damn. Will you get it? Gigi grabs a napkin and hands it to Ruby. Ruby lowers her head and cries quietly. Sarah puts her utensils down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(quietly) Shut up, Sarah. Sarah mouths the words ‘all night’ to Gigi.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Everything okay, Ruby?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Post-traumatic stress. She’ll get over it. Ruby turns to Sarah in a burst of sudden rage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I want to know how you can eat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "It’s the most important meal of the day.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Fucking animal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(her mouth full) Hey! What did I do that you didn’t do? Gigi shoots Sarah a look. SARAH (CONT’D) What? She’s the one who found her, anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Be nice. \f72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(to Ruby) Remember? ‘The only virgin in LA, and I got her.’",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "That was a joke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You still laughing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I didn’t - How could I know what I was doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "It was your idea! We went to visit Gigi after she had her - Sarah gestures to her whole face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "She looked like a human punching bag. And she said, ‘I wish there was an easier way.’ Didn’t you say that, Geeg? And Ruby, you said, ‘There is.’ You planned it. You found her. Ruby grabs Sarah’s plate and smashes it against the table It breaks into pieces. Sarah stands, ready for the fight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Hey! Sarah sits, ending the standoff. GIGI (CONT’D) What do we do with her car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "We get rid of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "What about her -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "It’s done.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What? What’s done? \f73.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "The... rest of her. Ruby begins to weep again. GIGI (CONT’D) Sweetie...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I can’t be a part of this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "But you are a part of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I have to go. We have to tell someone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Are you out of your mind?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "(to Gigi) She was my friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "I know, sweetie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "Do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Of course I do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "I’ve never been like you - I’ve never felt like I was -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Jesus. SHUT UP. Sarah's fist is balled tight, white-knuckled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RUBY",
+          "text": "But she was a person. I’ve never thought about what it means to be a person. Have you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "No. Ruby looks down at her hands. They are suddenly covered i blood. She shoots out of her chair, sending it flying beh her. \f130 74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (CONT'D)",
+          "text": "What? What is it? Ruby holds her hands in front of her, screaming uncontrollably. Sarah grabs a piece of the broken plate and stabs through center of Ruby’s throat, slicing her vocal chords. Ruby’s eyes bug out as she tries to speak. GIGI (CONT’D) WHAT THE FUCK?! What the fuck did you do? Ruby makes raspy croaking sounds. GIGI (CONT’D) She can’t breathe! We have to call an ambulance! We need to take her to the hospital! Sarah watches Ruby gasp for breath, the plate in her hand",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DO SOMETHING",
+          "text": "Sarah forces Ruby to her knees and slices her deep across throat. Blood shoots from her jugular splattering Gigi an half the table. She falls limp to the floor. Gigi stares wide-eyed at Ruby’s bleeding body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah attempts to start Jesse’s car. It stalls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Shit. She tries again and again, her desperation growing. No lu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY, (0.S.)",
+          "text": "Looks like you need a jump. Sarah startles. She steps out of the car. JENNY, the overweight, middle-aged, next-door neighbor, is standing a casserole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY, (CONT'D)",
+          "text": "Do you have cables?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I don’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You should know if you have cables.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I’ve never had to use them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY",
+          "text": "Check the trunk. Sarah opens the trunk of Jesse’s car. She pulls jumper cables.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY, (CONT'D)",
+          "text": "Problem solved. Is Ruby inside?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Uh, yeah, but I think she’s busy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY",
+          "text": "That's okay, I’1l just drop this in the kitchen. The Andersons get back from Bermuda tonight. Don’t want them to come home and the cupboard’s bare. Jenny heads for the door. Sarah cuts her off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I‘ll take it for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY",
+          "text": "You don’t have to do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "It’s no trouble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY",
+          "text": "I want to leave a note. Sarah grabs the casserole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "(forceful) I said I’ll take it. 75. out a set of Jenny lets go, made uneasy by Sarah’s dominant tone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JENNY",
+          "text": "Twenty minutes at three-twenty- five. \f131 132 133 134 135 76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gigi is on her hands and knees scrubbing the dining room floor. Her sponge is so blood-soaked that nothing is real being cleaned. Sarah rushes in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "We have to go now. Gigi looks at Ruby’s body. She starts to cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "We can’t just leave her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Look at me. The neighbors are bringing casserole. I have to learn how to jump a car. There's no time to be sentimental! Sarah heads to the kitchen with the dish. Gigi looks around, helpless. The room is in complete disarray and cleaning up suddenly seems like an impossibl task. She drops the sponge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The RADIO BLASTS as Sarah speeds down the highway. The ca lighter pops out, red hot, and she lights a cigarette, nodding her head to the beat. INT. GIGI’S CAR - DAY - CONTINUOUS 133 Gigi drives in total silence, her hands at a perfect ten- two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah catches her reflection in the rearview mirror. She turns the mirror away from her and CRANKS UP THE MUSIC. INT. GIGI’S CAR - DAY - CONTINUOUS 135 QUIET again as Gigi drives, tears in her eyes. \f136 137 138 139 77.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car zips by the rides and rollercoasters on its way t the amusement parking lot. Gigi’s car follows behind. Sarah parks and gets out. She throws the keys as far as s can and walks away from the car. INT. GIGI’S CAR - DAY 137 Gigi looks straight ahead as Sarah climbs in the passenge seat. EXT. GIGI’S CAR/JESSE’S BUICK - DAY 138 Gigi’s car drives out of frame, and we are left for a mom with the abandoned Buick. INT. GIGI’S CAR - DAY 139 Sarah and Gigi drive in silence for a long while.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You okay? Gigi does not respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "Wanna talk about it? No response. Sarah resorts to an old tactic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "If you could be like anyone in the world -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "(interrupting) Grace Kelly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "And why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "(dreamy ) Because she’s perfect. Gigi exhales deeply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Better? \f140 141 142 143 144 78. Gigi nods. They drive on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see a shadowy-gray rectangular shape on the wall behin the sofa where something used to hang.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Newspaper is duct-taped to the front of the stainless ste refrigerator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A sheet hangs over the mirror attached to the chest-of- drawers. A cracked, full-length mirror is stuffed behind door. A decorative, mirrored wall-hang lined with purses scarves is scribbled-in with black marker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We slowly ZOOM IN on Sarah through the bathroom door. She standing in front of the sink, carefully applying make-up lining her eyes, powdering her nose, curling her lashes. movements are robotic, as though she has done this routin thousand times. She zips her make-up bag and exits the bathroom as we mov inside. We see that she has been standing in front of a blank wall, two round holes in the sheetrock where the mi has been ripped out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gigi rushes to an outdoor tent set up as a make-up room. slips into a chair and the male MAKE-UP ARTIST begins doi her hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAKE-UP ARTIST",
+          "text": "You're late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Did anyone see me come in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAKE-UP ARTIST",
+          "text": "They’re all over there. He touches her hair. \f145 79. MAKE-UP ARTIST (CONT’D) Did you wash this? I told you not to do that. Gigi sees a group of people outside the tent. A PHOTOGRAP gestures wildly with a camera and storms away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "What’s going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAKE-UP ARTIST",
+          "text": "Some drama. It’s supposed to rain, they’re gonna miss the light, Ruby didn’t show, blah blah... Do you know where she is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Why would I?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAKE-UP ARTIST",
+          "text": "Just tell her she owes me for covering. Gigi touches her face in the mirror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Do I look different today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MAKE-UP ARTIST",
+          "text": "What is in your hair? He holds up a bloody lock of Gigi’s blonde hair. The wind whips the corner of the tent in a rhythmic beat. Gigi is fixated on the sound. She closes her eyes as the sound grows louder...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gigi stands on the beach, fully made-up, wearing a bikini her hair in a bouncy ponytail. She holds a big beach ball and stares out over the water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHOTOGRAPHER",
+          "text": "Do you want to tell us what is so interesting, or are you going to make us guess?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Sorry. \f146 147 80.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PHOTOGRAPHER",
+          "text": "You look sad. This is a tampon ad. You're comfortable, active. Be happy. Jesus. Is everybody trying to ruin my day? The OTHER MODEL in the shoot looks at her, annoyed. Gigi poses with the ball. Her smiles are forced, plastic. She fights back tears as the photographer snaps her pictu She throws the beach ball high in the air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The sound of an ELEVATOR DING. Sarah stands inside. She glances at her reflection in the doors, looking quickly away again. INT. JACK’S STUDIO - DAY 147 Sarah steps out of the elevator. Jack is adjusting a light instrument. She watches him wor for a while, a sheepish grin on her face. He does not not her. She clears her throat. He looks up, but does not stop working.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "What are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Came to surprise you. Are you surprised? A very YOUNG MODEL in a robe enters from the make-up room Her hair and make-up are elaborately constructed. She sta in front of Jack. He crosses his arms and tilts his head, examining her. He nods, approvingly. The model slips out of the robe. She i wearing very little underneath. Sarah tries hard to sound cheerful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "Oh, are you working? \f148 81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I didn’t know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "You didn’t call. This hurts, but Sarah forces a smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I don’t mind waiting. Unprompted, she goes to the corner and sits on a tall sto clutching her bag to her chest. She looks at the computer on the desk beside her and free Jack has been editing photos of Jesse from the shoot a fe days before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The wind, stronger now, whips the corner of the tent hard It sounds like a HEARTBEAT. Gigi stands motionless, changed halfway into her street clothes, haunted by the sounds. The OTHER MODEL from the shoot changes clothes beside her",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MODEL",
+          "text": "Did you take too much Percocet or something? Gigi resumes dressing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MODEL, (CONT'D)",
+          "text": "What do you think happened to Ruby? I bet she finally went off the deep end. I mean, it was bound to happen. Gigi is again fixated on the tent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MODEL, (CONT'D)",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Yes. Jesus. I heard about Ruby. Gigi storms out of the tent. \f149 150 151 152 82.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MODEL",
+          "text": "When did you become a bitch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The wind whips sand in the air. The sun has disappeared, the beach is misty, gloomy, ready for rain. The rhythmic SOUND OF THE TENT grows stronger, stronger.. It is a full heartbeat now. Gigi is pulled to the water, drawn by some magnetic force The HEARTBEAT grows louder. Gigi wades into the water up to her knees. She looks down searching for something. Gentle blue waves lap around her She stares at her reflection in the water. She reaches do and touches it, lovingly. Suddenly, the reflection transforms into JESSE’S FACE. A hand rises from the ocean, grabs her, pulling her complet underwater.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAY",
+          "text": "Gigi is pulled deeper, deeper. She kicks her legs, struggling for the surface.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gigi wrestles her way back to the beach. She is drenched caked in sand. She coughs, breathing hard, and looks out over the water, horrified. Was it all in her imagination? INT. JACK’S STUDIO - DAY 152 PULSING MUSIC blasts loud through the studio. Sarah is still slumped in the corner, watching the shoot. Bright light flashes across her face every time Jack snap photo. Her patience is diminishing at a rapid rate. Jack signals to the Model with his hand, indicating that are done. She high-fives him and heads back into the make room. Sarah sits up, hopeful. Then... \f153 83. The elevator opens and a dozen new MODELS walk out, chatt noisily. A few of them wave to Jack as they make their wa to the make-up room. Sarah furrows her brow. She crosses to Jack.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Are you still here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You hungry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I'm working.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "When will you be done? Jack looks up at her for the first time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Sarah -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hey, do I look different today? She smiles widely.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "No. He walks away, preparing for the next shoot. Sarah clench her jaw.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah walks quickly through the room, on the verge of tea her bag in hand. The MODELS bustle around, getting ready. Their sharp laughter makes Sarah prickle. A BRUNETTE MODEL runs into her, knocking the bag out of h hands. Sarah’s things go flying everywhere. She turns around, anticipating an apology, but the Brunette Model continues laughing and chatting with her friends, unaware",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Excuse me. \f154 155 156 157 84. The Model turns around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNETTE MODEL",
+          "text": "Yeah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You spilled my shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNETTE MODEL",
+          "text": "Sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Pick it up. Sarah throws open the bathroom door and enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRUNETTE MODEL",
+          "text": "(whispered) She’s always here. The other girls snicker.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah sits on the toilet seat, trying to pull herself together. She grabs a piece of tissue and wipes her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The MODELS giggle as they lean a chair under the bathroom doorknob, locking Sarah inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah takes a deep breath and stands to leave. She tosses the tissue, catching a glimpse of herself in the large bathroom mirror. She turns away quickly. She twists the doorknob, but the door is jammed. She trie it again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The chair wiggles violently. One of the models nods to another girl and points to the door. They share a smile. \f158 159 160 161 85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah bangs relentlessly on the bathroom door. She sees herself in the mirror and starts to panic. She i trapped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Hello? Can anyone hear me? INT. JACK’S STUDIO - DAY 159 The MUSIC continues to blast. Jack sits at the computer, editing the photos of Jesse, unaware of Sarah’s cries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah claws at the door, desperate to be free.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Someone let me out! She goes to the bathroom mirror. She tries with all her might to pull it from the wall, but it will not budge. Sh hits it with her fists, but it will not break. She looks fully at her reflection and screams hystericall",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gigi is damp and covered in sand. Mascara is smeared bene her eyes. She is arguing with the RECEPTIONIST, a conversation which has gone on for some time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "I’ve already told you -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Yes, but I’ve been waiting for an hour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "Like I said before, ma’am, you don’t have an appointment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "(an insult) Are you new?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "There’s no need for that tone. \f162 86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Please tell him I’m here. Gigi slumps back into a chair. She puts her head in her hands. A woman exits through the door beside reception. Gigi see her chance and runs through it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "Excuse me! Excuse me, what are you doing?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bright white doors to various patient rooms line the hall Gigi flings them all open, searching desperately for something. She opens the door to one room and a naked woman turns around. Hideous black tick marks cover her body, prepped surgery. Gigi back away. She slams into a doctor in a handsome tie standing in the doorway. It is DR. ANDREW, 43, charming, perfect smile. The fluorescent light from the hallway shi down on him, and he looks like an angel. Gigi throws her arms around his waist. He brushes some sa from her hair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Were you building a sandcastle? The Receptionist rounds the corner in hot pursuit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "I'm sorry - I tried to stop her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Annie -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "(annoyed) It’s Anna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Anna, please find a room. This is my best patient. Gigi beams at him. \f163 87.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The room is almost luxurious. Gigi sits on a table in a r while Dr. Andrew presses the skin around her nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "It’s healing nicely. Looks good. Open up. Gigi opens her robe and Dr. Andrew feels her breasts. For the first time we see small scars from her implants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "Does this hurt? Gigi shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "And I gave you a prescription for Vicodin, just in case?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "And Xanax.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Turn for me. Gigi turns to the side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "Everything looks fine. You’re good to go. He snaps off a pair of rubber gloves and tosses them in a metal can.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "Please - I need you to do something. Dr. Andrew sighs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "I told you, kiddo, four in one year is all I'll do. If you want to talk about a fifth this soon you’ll have to wait or go find somebody else, but I cannot give you my blessing. Your body can’t go through that kind of trauma -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "I need you to take it out. \f88.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Take what out?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "All of it. Gigi begins to cry. Dr. Andrew pats her hand, gently. He sits beside her and she melts into him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI, (CONT'D)",
+          "text": "I did something... I think - I can feel it inside me. I need you to take it out, okay? Can you just - can you just take it out? Please? Please? I can’t go home. I can’t leave until you do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Hey, hey. It’s okay. Look it isn’t uncommon. After something like this. You've put a foreign object into your body... Plenty of women feel this way. Plenty of women experience some sadness, discomfort, even depression... We talked about all of this, remember? Gigi nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "You'll be fine. If you want a mild anti-depressant call me and we can figure it out, okay? He starts to leave, but she clutches his hand so desperat that one of her nails breaks his skin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "Ow. Jesus. He looks at her, frightened and concerned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "Wait right here. Okay? Don’t go anywhere. Dr. Andrew leaves. Gigi gasps for breath, half smiles, simultaneously relieved and at a loss. She sees Dr. Andrew whispering to a NURSE in the hall. Th Nurse peers in the room, furrows her brow. \f89. Gigi backs away from the door, realizing he is not going help her. She looks around the room, desperate. What to d now? She sees her reflection in a metal cabinet, walks up to i Touches it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GIGI",
+          "text": "(whispers ) Jesse? Suddenly, the outrageously loud BEAT OF A HEART. Gigi cov her ears, as though someone had blasted music through headphones. She stumbles around the room, throwing drawers open. She spots something in one, reaches in... Dr. Andrew enters the room. Gigi’s back is to him as he steps inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW",
+          "text": "Gigi? Honey? Someone is on their way over here to talk to you, okay? Help you out. Okay? Kiddo? Can you hear me? Gigi turns to face him. She is holding a scalpel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "What are you doing? Gigi slices across both of her breasts. Blood and silicon ooze from the wounds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DR. ANDREW, (CONT'D)",
+          "text": "Jesus Christ! She jams the scalpel into her stomach. She pulls the scal down, cutting across her belly. Blood everywhere. She cri from the pain, brought to her knees. Her flesh rips open she makes one last cut and drops the scalpel on the groun She plunges a hand inside of her, searching for something Dr. Andrew runs from the room. She pulls her hand from her stomach. It is covered in blo empty. She looks at the blood pooling around her knees an realizes what she has done. \f164 90.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah sits in the corner of the bathroom, knees pulled to chest. Her face is red and hot from crying, but now she i still, calm. A NOISE from the opposite side of the door draws her attention up. The door opens, and light from the make-up room pours in. Jack appears in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "How long have you been in here? Sarah shrugs. He looks down at her, his expression pitiful. He sits on floor in front of her. She smiles a little at this unexpected gesture of kindness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "You have to stop this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Stop what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "This. Coming around all the time. Showing up wherever I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I thought you’d be happy to see me. She places a hand on his knee. He sighs. He puts his hand on hers and pats it lovingly before removing it. SARAH (CONT’D) (confused) We slept together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Three years ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You make it sound like I’m crazy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Well - Jack holds two fingers close together as if to say ‘just little crazy.’ \fgl. Sarah smiles at this. They share a small laugh. Her laughter ceases as a wave of realization passes over her face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "You're never going to love me. He does not respond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "Are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Sarah -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Why? Why won’t you love me? He looks to the ground, does not respond. We ZOOM IN slowly on her face as she speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH, (CONT'D)",
+          "text": "(a realization) I thought I could make you love me. I thought - But it’s too hard. All of it. All of it. Be young. Be thin. Be perfect. It’s too hard. (pointed) You have no idea what I’ve done. All for you. It was all for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (0.S.)",
+          "text": "What did you do? The camera stops. Time seems to stand still.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I ate a young virgin because I thought it would make me beautiful. Jack freezes, his mouth gaping. For a minute he thinks sh must be serious. Then his mouth begins to curl into a smi He starts to laugh. SARAH (CONT’D) I’m serious. It’s not a joke. He laughs harder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "What’s with you today? \f92.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "I don’t know. Something’s -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Different. He looks at her for a long time. He smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "Okay. He holds up one finger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK, (CONT'D)",
+          "text": "One drink. One. Sarah can hardly believe it. She holds up one finger to match his.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "One.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Just one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "I’1ll meet you after work. We can go wherever you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SARAH",
+          "text": "Just one, I swear. He starts to leave, changes his mind.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JACK",
+          "text": "You do have beautiful eyes. He goes. Sarah is very still for a moment. She tries to control he breathing, but she is overcome. She holds a hand to her heart and closes her eyes. Fat tears roll down her face. She weeps, convulsing, for a very long time. Deep, sharp exhales. Years of longing met in a moment. \f93. She is suddenly still. A look of disbelief crosses her fa Did she really get away with it? Did it really work? She scrambles off the floor and looks into the mirror. Tentative at first, she wipes away the tears and takes a moment to truly examines her face, turning this way and t She searches for some change. Her hands rise to her eyes. Her beautiful eyes. IMAGES FLASH through her mind: Jesse’s eye on the bathroo floor. Her hand picking it up. Putting it in her mouth. A smile creeps across her face. It worked. She begins to laugh. Wild, manic laughter escapes her lip She is the portrait of a deranged lunatic. She stretches top and bottom eyelids away from her eyes w her thumb and forefinger. Her mouth opens wide. Her eyes bulge out. She appears utterly grotesque. We slowly ZOOM IN on her eyes, growing wider and wider, h laughter growing louder and louder until finally... It stops.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1044"
+    }
+  ]
+}

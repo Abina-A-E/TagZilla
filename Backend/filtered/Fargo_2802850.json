@@ -1,0 +1,4843 @@
+{
+  "movie_id": "MOV668",
+  "scenes": [
+    {
+      "location": "CAR",
+      "characters": [
+        "FRONT DOOR",
+        "BLACK",
+        "A SHABBY MOTEL",
+        "MARGE'S CAR",
+        "ROOFTOP PARKING LOT",
+        "LISHEN A YOUR BULLSHIT FOR A WHOLE",
+        "NEARBY CUBICLE",
+        "BEEF STROGANOFF, SWEDISH MEATBALLS, BROILED TORSK, CHICKE",
+        "MILLE LACS LAKE",
+        "MARGE'S BEDROOM",
+        "THIRTY-SHIKSH FUCKIN' HOURZH",
+        "PARKING LOT",
+        "BACK TO THE TELEVISION SET",
+        "A BEDROOM",
+        "MASTER BATHROOM",
+        "HIGHWAY",
+        "MARGE AT THE GUSTAFSON OLDS GARAGE",
+        "GOT IT",
+        "... YOU FUCKIN' ASH-HOLE",
+        "FUCKIN' MONEY",
+        "THE ROAD",
+        "UPSTAIRS BATHROOM",
+        "FLORENTINE.",
+        "JERRY'S KITCHEN",
+        "MOTEL ROOM DOORWAY",
+        "FADE OUT",
+        "PICKIN' IT UP",
+        "JERRY'S CUBICLE",
+        "FADE IN",
+        "HOLD IN BLACK",
+        "LIVING ROOM",
+        "... ARE WE SHQUARE",
+        "CARLTON CELEBRITY ROOM",
+        "JERRY'S OFFICE",
+        "BATHROOM",
+        "THE DOWNTOWN RADISSON HOTEL",
+        "ROAD EXTERIOR",
+        "2",
+        "CAR",
+        "A GREEN FREEWAY SIGN",
+        "BRAINERD MAIN STREET",
+        "MARGE'S HOUSE",
+        "EMBERS FAMILY RESTAURANT",
+        "HOTEL BAR",
+        "THE CUBICLE",
+        "JERRY'S HOUSE",
+        "DOWN RAMP",
+        "GAEAR GRIMSRUD",
+        "FUCKIN' WEEK",
+        "UPSTAIRS BEDROOM",
+        "AN OIL PAINTING",
+        "JUST SHUT THE FUCK UP",
+        "MARGE AT A DRIVE-THROUGH",
+        "A PLAQUE",
+        "HOLD ON",
+        "RADISSON",
+        "EXIT BOOTH",
+        "KITCHEN OF LUNDEGAARD HOUSE",
+        "TAKIN' THAT FUCKIN' CAR",
+        "CHAIN RESTAURANT PHONE BOOTH",
+        "CARL SHOWALTER",
+        "INSIDE THE CUBICLE",
+        "HOTEL ROOM",
+        "DAYTON-RADISSON RAMP",
+        "CARL'S CAR",
+        "LATER",
+        "PLATE",
+        "BEDROOM",
+        "HOW THE FUCK DO WE SHPLITTA FUCKIN'",
+        "KITCHEN",
+        "JERRY LUNDEGAARD'S OFFICE",
+        "SHOT INNA FAISH",
+        "THE CRUISER",
+        "HARD CUT TO",
+        "FUCKIN' NOTISH ISH",
+        "OUTSIDE",
+        "GUSTAFSON OLDS GARAGE",
+        "DON'T EVER INTERRUPT ME, JERRY",
+        "ROAD",
+        "TELEVISION",
+        "FOYER",
+        "MARGE AND NORM AT A TABLE",
+        "A DIRTY BEDROOM",
+        "RAMP ROOF",
+        "UPSTAIRS LANDING",
+        "BRAINERD POLICE HEADQUARTERS",
+        "SCOTTY'S BEDROOM",
+        "PAUL BUNYAN",
+        "MOTEL ROOM",
+        "GUSTAFSON OLD GARAGE",
+        "LUNDEGAARD KITCHEN",
+        "BY THE STATE TROOPER'S CAR",
+        "LOBBY CORNER",
+        "THE CASHIER",
+        "DOWN IN THE DITCH",
+        "FUCKERZH MINE",
+        "TRACK",
+        "POLICE OFFICER",
+        "MARGE",
+        "BY THE WRECK"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Carl Showalter is driving.  Gaear Grimsrud stares blankly out. After a long beat:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where is Pancakes Hause?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We stop at Pancakes Hause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What're you, nuts?  We had pancakes for breakfast.  I gotta go somewhere I can get a shot and a beer - and a steak maybe. Not more fuckin' pancakes.  Come on. Grimsrud gives him a sour look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Come on, man.  Okay, here's an idea.  We'll stop outside of Brainerd.  I know a place there we can get laid.  Wuddya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm fuckin' hungry now, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, yeah, Jesus - I'm sayin', we'll stop for pancakes, then we'll get laid.  Wuddya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUSTAFSON OLDS GARAGE",
+          "text": "Jerry is sitting in his glassed-in salesman's cubicle jus off the showroom floor.  On the other side of his desk si an irate customer and his wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We sat here right in this room and went over this and over this!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, but that TruCoat -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I sat right here and said I didn't want no TruCoat!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, but I'm sayin', that TruCoat, you don't get it and you get oxidization problems.  It'll cost you a heck of lot more'n five hunnert -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're sittin' here, you're talkin' in circles!  You're talkin' like we didn't go over this already!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, but this TruCoat -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We had us a deal here for nine- teen-five.  You sat there and darned if you didn't tell me you'd get this car, these options, WITHOUT THE SEALANT, for nine- teen-five!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, I'm not sayin' I didn't -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You called me twenty minutes ago and said you had it!  Ready to make delivery, ya says!  Come on down and get it!  And here ya are and you're wastin' my time and you're wastin' my wife's time and I'm payin' nineteen-five for this vehicle here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, okay, I'll talk to my boss... He rises, and, as he leaves:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  See, they install that TruCoat at the factory, there's nothin' we can do, but I'll talk to my boss. The couple watch him go to a nearby cubicle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "These guys here - these guys! It's always the same!  It's always more!  He's a liar!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Please, dear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We went over this and over this -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "NEARBY CUBICLE",
+          "text": "Jerry sits perched on the desk of another salesman who is eating lunch as he watches a hockey game on a small porta TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you're goin' to the Gophers on Sunday?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You bet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You wouldn't have an extra ticket there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're playin' the Buckeyes!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya kiddin'!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY'S CUBICLE",
+          "text": "Jerry re-enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, he never done this before, but seein' as it's special circumstances and all, he says I can knock one hunnert off that TruCoat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One hundred!  You lied to me, Mr. Lundegaard.  You're a bald-faced liar! Jerry sits staring at his lap.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  A fucking liar -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bucky, please! Jerry mumbles into his lap:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One hunnert's the best we can do here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, for Christ's sake, where's my goddamn checkbook.  Let's get this over with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There is a restaurant with many big rigs parked nearby, a a motel with an outsize Paul Bunyan and Babe the Blue Ox flanking its sign:  BLUE OX MOTEL.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTEL ROOM",
+          "text": "Carl Showalter and Gaear Grimsrud are in the twin beds having sex with two truck-stop hookers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, Jesus, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There ya go, sugar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nnph.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah.  Yeah.  Oh, yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LATER",
+          "text": "The couples like in their respective beds, gazing at the offscreen TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-  Johnny's guests tonight will be Lee Majors, George Wendt, and Steve Boutsikaros from the San Diego Zoo, so keep that dial -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LUNDEGAARD KITCHEN",
+          "text": "We hear a morning show on television.  Jean Lundegaard is making coffee in the kitchen as Scott eats cereal at the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm talkin' about your potential.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(absently)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not a C student.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uhn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And yet you're gettin' C grades. It's this disparity there that concerns your dad and me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know what a disparity is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(testily)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.  Well, that's why we don't want ya goin' out fer hockey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, man! The phone rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  What's the big deal?  It's an hour -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hold on. She picks up the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, hiya, hon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, hiya, Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry around?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, he's still here - I'll catch him for ya. She holds the phone away and calls:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's Dad.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah... Jerry enters in shirtsleeves and tie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, okay...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, Dad, there is no fucking way -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Scott!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Say, let's watch the language - He takes the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin', Wade?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's goin' on there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, nothing, Wade.  How ya doin' there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stan Grossman looked at your proposal.  Says it's pretty sweet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No kiddin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We might be innarested.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No kiddin'!  I'd need the cash pretty quick there.  In order to close the deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come by at 2:30 and we'll talk about it.  If your numbers are right, Stan says its pretty sweet.  Stan Grossman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "2",
+          "text": "Click.  Dial tone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUSTAFSON OLD GARAGE",
+          "text": "Jerry wanders through the service area where cars are bei worked on.  He stops by an Indian in blue jeans who is looking at the underside of a car that sits on a hydrauli lift with a cage light hanging off its innards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Say, Shep, how ya doin' there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Say, ya know those two fellas ya put me in touch with, up there in Fargo?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Put you in touch with Grimsrud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, yah, but he had a buddy there.  He, uh -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I don't vouch for him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, that's okay, I just -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I vouch for Grimsrud.  Who's his buddy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carl somethin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Never heard of him.  Don't vouch for him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, that's okay, he's a buddy of the guy ya vouched for, so I'm not worryin'.  I just, I was wonderin', see, I gotta get in touch with 'em for, I might not need it anymore, sumpn's happenin', see -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Call 'em up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, well, see, I did that, and I haven't been able to get 'em, so I thought you maybe'd know an alternate number or what have ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nope. Jerry slaps his fist into his open palm and snaps his fingers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, well, real good, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CAR",
+          "text": "Carl is driving.  Grimsrud stares out front. After a beat:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Look at that.  Twin Cities. IDS Building, the big glass one. Tallest skyscraper in the Midwest. After the Sears, uh, Chicago... You never been to Minneapolis?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Would it kill you to say something?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"No.\" First thing you've said in the last four hours.  That's a, that's a fountain of conversation, man.  That's a geyser.  I mean, whoa, daddy, stand back, man.  Shit, I'm sittin' here driving, man, doin' all the driving, whole fuckin' way from Brainerd, drivin', tryin' to, you know, tryin' to chat, keep our spirits up, fight the boredom of the road, and you can't say one fucking thing just in the way of conversation. Grimsurd smokes, gazing out the window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Well, fuck it, I don't have to talk either, man.  See how you like it... He drives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Total silence...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY'S CUBICLE",
+          "text": "He is on the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, real good.  How you doin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pretty good, Mr. Lundegaard. You're damned hard to get on the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, it's pretty darned busy here, but that's the way we like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's for sure.  Now, I just need, on these last, these financing documents you sent us, I can't read the serial numbers of the vehicles on here, so I -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But I already got the, it's okay, the loans are in place, I already got the, the what, the -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, the three hundred and twenty thousand dollars, you got the money last month.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, so we're all set.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, but the vehicles you were borrowing on, I just can't read the serial numbers on your applicaton.  Maybe if you could just read them to me -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But the deal's already done, I already got the money -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, but we have an audit here, I just have to know that these vehicles you're financing with this money, that they really exist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, well, they exist all right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sure they do - ha ha!  But I can't read their serial numbers here.  So if you could read me -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, but see, I don't have 'em in front a me - why don't I just fax you over a copy -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, fax is no good, that's what I have and I can't read the darn thing -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, okay, I'll have my girl send you over a copy, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, because if I can't correlate this note with the specific vehicles, then I gotta call back that money -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, how much money was that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Three hundred and twenty thousand dollars.  See, I gotta correlate that money with the cars it's being lent on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, no problem, I'll just fax that over to ya, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no, fax is -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I mean send it over.  I'll shoot it right over to ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, real good, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TELEVISION",
+          "text": "A morning-show host in an apron stands behind a counter o kitchen set.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So I seperate the - how the heck do I get the egg out of the shell without breaking it? Jean Lundegaard is curled up on the couch with a cup of coffee, watching the television.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You just prick a little hole in the end and blow! Jean smiles as we hear laughter and applause from the stu audience.  She hears something else - a faint scraping so - and looks up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, here goes nothing. The scraping sound persists.  Jean sets down her coffee c and rises. From the studio audience:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Awoooo!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KITCHEN",
+          "text": "We track toward the back door.  A curtain is stretched ti across its window. Jean pulls the curtain back.  Bright sunlight amplified b snow floods in. A man in an orange ski mask looks up from the lock. Jean gasps, drops the curtain, rutns and runs into - - a taller man, also in a ski mask, already in the house. We hear the crack of the back-door window being smashed. The tall man - Gaear Grimsrud - grabs Jean's wrist. She screams, staring at her own imprisoned wrist, then wr her gaping mouth around Grimsrud's gloved thumb and bites down hard. He drops her wrist.  As Carl enters, she races up the stairs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Unguent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh? Grimsurd looks at his thumb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I need ... unguent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UPSTAIRS BEDROOM",
+          "text": "As the two men enter, a door at the far side is slamming shut.  A cord snakes in under the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MASTER BATHROOM",
+          "text": "Jean, sobbing, frantically pushes at buttons on the princ phone. The phone pops out of her hands, jangles across the tile floor, smashes against the door and then bounces away, it cord ripped free. With a groaning sound, the door shifts in its frame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BEDROOM",
+          "text": "Grimsrud has a crowbar jammed in between the bathroom doo and frame, and is working it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BATHROOM",
+          "text": "Jean crosses to a high window above the toilet and throws open.  Snow that had drifted against the window sifts lightly in.  Jean steps up onto the toilet. The door creaks, moving as one piece in its frame. Jean glances back as she steps up from the toilet seat to the tank. The groaning of the door ends with the wood around its kn splintering and the knob itself falling out onto the floo The door swings open. Grimsrud and Carl enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Room empty, window open. Carl strides to the window and hoists himself out. Grimsrud opens the medicine cabinet and delicately taps aside various bottles and tubes, seeking the proper ungue He finds a salve but after a moment sets it down, noticin something in the mirror. The shower curtain is drawn around the tub. He steps toward it. As he reaches for the curtain, it explodes outward, anima by thrashing limbs. Jean, screaming, tangled in the curtain, rips it off its rings and stumbles out into the bedroom.  Grimsrud follow",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BEDROOM",
+          "text": "Jean rushes toward the door, cloaked by the shower curtai but awkwardly trying to push it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UPSTAIRS LANDING",
+          "text": "Still thrashing, Jean crashes against the upstairs railin trips on the curtain and falls, thumping crazily down the stairs. Grimsrud trots down after her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wade sits behind his desk; another man rises as Jerry enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin' there, Stan?  How are ya, Wade? Stan Grossman shakes his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good to see ya again, Jerry.  If these numbers are right, this looks pretty sweet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, those numbers are all right, bleemee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is do-able.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Congratulations, Jerry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, thanks, Stan, it's a pretty -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What kind of finder's fee were you looking for?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The financials are pretty thorough, so the only thing we don't know is your fee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  My fee?  Wade, what the heck're you talkin' about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stan and I're okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're good to loan in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But we never talked about your fee for bringin' it to us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, but, Wade, see, I was bringin' you this deal for you to loan me the money to put in.  It's my deal here, see? Wade scowls, looks at Stan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry - we thought you were bringin' us an investment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, right -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're sayin' - what're you sayin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're sayin' that we put in all the money and you collect when it pays off?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no.  I - I'd, I'd - pay you back the principal, and interest - heck, I'd go - one over prime -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're not a bank, Jerry. Wade is angry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the heck, Jerry, if I wanted bank interest on seven hunnert'n fifty thousand I'd go to Midwest Federal.  Talk to Bill Diehl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's at Norstar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's at -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, see, I don't need a finder's fee, I need - finder's fee's, what, ten percent, heck that's not gonna do it for me.  I need the principal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry, we're not just going to give you seven hundred and fifty thousand dollars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the heck were you thinkin'? Heck, if I'm only gettin' bank interest, I'd look for complete security.  Heck, FDIC.  I don't see nothin' like that here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, but I - okay, I would, I'd guarantee ya your money back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not talkin' about your damn word, Jerry.  Geez, what the heck're you?...  Well, look, I don't want to cut you out of the loop, but his here's a good deal. I assume, if you're not innarested, you won't mind if we move on it independently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARKING LOT",
+          "text": "We are high and wide on the office building's parking lot Jerry emerges wrapped in a parka, his arms sticking stiff out at his sides, his breath vaporizing.  He goes to his car, opens its front door, pulls out a red plastic scrape and starts methodically scraping off the thin crust of ic that has developed on his windshield. The scrape-scrape-scrape sound carries in the frigid air. Jerry goes into a frenzy, banging the scraper against the windshield and the hood of his car. The tantrum passes.  Jerry stands pantin, staring at noth in particular. Scrape-scrape-scrape - he goes back to work on the windshield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRONT DOOR",
+          "text": "A beat, silent but for a key scraping at the lock. The door swings open and Jerry edges in, looking about, holding a sack of groceries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hon? He shuts the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Got the growshries... He has already seen the shower curtain on the floor.  He frowns, pokes at it with his foot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "UPSTAIRS BATHROOM",
+          "text": "Jerry walks in.  He sets the groceries down on the toilet tank. He looks at the open window, through which snow still sif in.  He shuts it. He picks up the small tube of uguent that sits on the sin frowns at it, puts it back in the medicine chest. He looks at the shower curtain rod holding empty rings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOYER",
+          "text": "Once again we are looking at the rumpled shower curtain. From another room:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, Wade, I - it's Jerry, I. Then, slightly more agitated.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, Wade, it's, I, it's Jerry... Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Wade, it's Jerry, I - we gotta talk, Wade, it's terrible... Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LIVING ROOM",
+          "text": "Jerry stands in wide shot, hands on hips, looking down at telephone. After a motionless beat he picks up the phone and punches a number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, Wade Gustafson, please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Hold in black. A slow tilt down from night sky brings the head of a larg paper-mache figure into frame.  It is a flannel-shirt woodsman carrying a double-edged ax over one shoulder.  A we hear the rumble of an approaching car, the continuing tilt and boom down brings us down the woodsman's body to pedestal. A sweep of headlights illuminates a sign on the pedestal: WELCOME TO BRAINDERD - HOME OF PAUL BUNYAN. The headlights sweep off and a car hums past and on into background.  The two-lane highway is otherwise empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carl drives.  Grimsrud smokes and gazes out the window. From the back seat we hear whimpering. Grimsrud turns to look. Jean lies bound and curled on the back seat underneath a tarpaulin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shut the fuck up or I'll throw you back in the trunk, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geez.  That's more'n I've heard you say all week. Grimsrud stares at him, then turns back to the window. At a loud WHOOP Carl starts and looks back out the rear window.  Fifty yards behind a state trooper has turned on his gumballs. Carl eases the car onto the shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah, shit, the tags... Grimsrud looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  It's just the tags.  I never put my tags on the car.  Don't worry, I'll take care of this. He looks into the back seat as the car bounces and slows the gravel shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Let's keep still back there, lady, or we're gonna have to, ya know, to shoot ya. Grimsrud stares at Carl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hey!  I'll take care of this! Both cars have stopped.  Carl looks up at the rear-view mirror. The trooper is stopped on the shoulder just behind them, writing in his citation book. Carl watches. We hear the trooper's door open. The trooper walks up the shoulder, one hand resting light on top of his holster, his breath steaming in the cold ni air. Carl opens his window as the trooper draws up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How can I help you, officer? The trooper scans the inside of the car, taking his time. Grimsrud smokes and gazes calmly out his window. Finally:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is a new car, then, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It certainly is, officer.  Still got that smell!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're required to display temporary tags, either in the plate area or taped inside the back window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Certainly -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can I see your license and registration please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Certainly. He reaches for his wallet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I was gonna tape up the temporary tag, ya know, to be in full compliance, but it, uh, it, uh ... must a slipped my mind... He extends his wallet toward the trooper, a folded fifty- dollar bill protruding from it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  So maybe the best thing would be to take care of that, right here in Brainerd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's this, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's my license and regis- tration.  I wanna be in compliance. He forces a laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I was just thinking I could take care of it right here.  In Brainerd. The policeman thoughtfully pats the fifty into the billfo and hands the billfold back into the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Put that back in your pocket, please. Carl's nervous smile fades.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  And step out of the car, please, sir. Grimsrud, smiling thinly, shakes his head. There is a whimpering sound. The policeman hesitates. Another sound. The policeman leans forward into the car, listening. Grimsrud reaches across Carl, grabs the trooper by the ha and slams his head down onto the car door. The policeman grunts, digs awkwardly for footing outside throws an arm for balance against the outside of the car. With his free hand, Grimsrud pops the glove compartment. brings a gun out and reaches across Carl and shoots - BAN into the back of the trooper's head. Jean screams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shut up. He releases the policeman. The policeman's head slides out the window and his body flops back onto the street. Carl looks out at the cop in the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(softly)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whoa...  Whoa, Daddy. Grimsrud takes the trooper's hat off of Carl's lap and sa it out the open window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You'll take care of it.  Boy, you are smooth smooth, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whoa, Daddy. Jean, for some reason, screams again.  Then stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clear him off the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. He gets out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carl leans down to hoist up the body. Headlights appear:  an oncoming car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Grimsrud notices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car approaches, slowing. Carl, with the trooper's body hoisted halfway up, is froz in the headlights. The car accelerates and roars past and away.  We just mak out the silhouettes of two occupants in front.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Grimsrud slides into the driver's seat.  He squeals into turn, the driver's door slamming shut with his spin. Small red tail lights fishtail up ahead.  The pursued car churns up fine snow. Grimsrud takes the cigarette from his mouth and stubs it his ashtray.  We hear the churning of the car wheels and pinging of snow clods and salt on the car's underside. In the back seat, Jean starts screaming. Grimsrud is not gaining on the tail lights. He fights with the wheel as his car swims on the road fac The red tail lights ahead start to turn.  With a distant crunching sound, they disappear. The headlights now show only empty road, starting to turn Grimsrud frowns and slows. His headlights show the car up ahead off the road, crumpl around a telephone pole, having failed to hold a turn. Grimsrud brakes. Jean slides off the back seat and thumps into the legwell Grimsrud sweeps his gun off the front seat, throws open h door and gets out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The wrecked car's headlights shine off into a snowfield abutting the highway.  A young man in a down parka is limping across the snowfield, away from the wrecked car. Grimsrud strides calmly out after the injured boy.  He raises his gun and fires. With a poof of feathers, a hole opens up in the boy's bac and he pitches into the snow. Grimsrud walks up to the wreck and peers in its half-open door. A young woman is trapped inside the twisted wreckage, injured. Snow swirls in the headlights of the wreck. Grimsrud raises his gun and fires.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "AN OIL PAINTING",
+          "text": "A blue-winged teal in flight over a swampy marshland.  Th room in which it hangs is dark.  We hear off-screen snori We track off to reveal an easel upon which we see a half- completed oil of a grey mallard. The continuing track reveals a couple in bed, sleeping. man, fortyish, pajama-clad, is big, and big-bellied.  His mouth is agape.  He snores.  His arms are flung over a wo in her thirties, wearing a nightie, mouth also open, not snoring. We hold for a long beat on their regular breathing and snoring. The phone rings. The woman stirs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, geez... She reaches for the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hi, it's Marge... The man stirs and clears his throat with a long deep rumb",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Oh, my.  Where?...  Yah... Oh, geez... The man sits up, gazes stupidly about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Okay.  There in a jif... Real good, then. She hangs up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  You can sleep, hon.  It's early yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gotta go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah. The man swings his legs out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll fix ya some eggs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's okay, hon.  I gotta run.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gotta eat a breakfast, Marge. I'll fix ya some eggs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, you can sleep, hon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya gotta eat a breakfast... He clears his throat with another deep rumble.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I'll fix ya some eggs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, Norm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PLATE",
+          "text": "Leavings of a huge plate of eggs, ham, toast. Wider, we see Marge now wearing a beige police uniform. patch on one arm says BRAINERD POLICE DEPARTMENT.  She we a heavy belt holding a revolver, walkie-talkie and variou other jangling police impedimenta.  Norm is in a dressing gown.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks, hon.  Time to shove off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Love ya, Margie. As she struggles into a parka:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Love ya, hon. He is exiting back to the bedroom; she exits out the fron door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dawn.  Marge is making her way down the icy front stoop t her prowler.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Norm sits back onto the bed, shrugging off his robe.  Off screen we hear the front door open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRONT DOOR",
+          "text": "Marge stamps the snow off her shoes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(off)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Prowler needs a jump.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HIGHWAY",
+          "text": "Two police cars and an ambulance sit idling at the side o the road, a pair of men inside each car. The first car's driver door opens and a figure in a parka emerges, holding two styrofoam cups.  His partner leans across the seat to close the door after him. The reverse shows Marge approaching from her own squad ca",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hiya, Lou.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Margie.  Thought you might need a little warm-up. He hands her one of the cups of coffee.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, thanks a bunch.  So what's the deal, now?  Gary says triple homicide?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, looks pretty bad.  Two of'm're over here. Marge looks around as they start walking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where is everybody?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well - it's cold, Margie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BY THE WRECK",
+          "text": "Laid out in the early morning light is the wrecked car, a pair of footprints leading out to a man in a bright orang parka face down in the bloodstained snow, and one pair of footsteps leading back to the road. Marge is peering into the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah, geez.  So...  Aw, geez. Here's the second one...  It's in the head and the ... hand there, I guess that's a defensive wound.  Okay. Marge looks up from the car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Where's the state trooper? Lou, up on the shoulder, jerks his thumb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Back there a good piece.  In the ditch next to his prowler. Marge looks around at the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, so we got a state trooper pulls someone over, we got a shooting, and these folks drive by, and we got a high-speed pursuit, ends here, and this execution-type deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'd be very surprised if our suspect was from Brainerd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah. Marge is studying the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  And I'll tell you what, from his footprints he looks like a big fella - Marge suddenly doubles over, putting her head between her knees down near the snow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya see something down there, Chief?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh - I just, I think I'm gonna barf.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geez, you okay, Margie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm fine - it's just morning sickness. She gets up, sweeping snow from her knees.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Well, that passed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Now I'm hungry again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You had breakfast yet, Margie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah.  Norm made some eggs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?  Well, what now, d'ya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's go take a look at that trooper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BY THE STATE TROOPER'S CAR",
+          "text": "Marge's prowler is parked nearby. Marge is on her hands and knees by a body down in the dit again looking at footprints in the snow.  She calls up to the road:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's two of 'em, Lou!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, this guy's smaller than his buddy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOWN IN THE DITCH",
+          "text": "In the foreground is the head of the state trooper, facin us.  Peering at it from behind, still on her hands and knees, is Marge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "For Pete's sake. She gets up, clapping the snow off her hands, and climbs of the ditch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How's it look, Marge?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, he's got his gun on his hip there, and he looks like a nice enough guy.  It's a real shame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You haven't monkeyed with his car there, have ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No way. She is looking at the prowler, which still idles on the shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Somebody shut his lights.  I guess the little guy sat in there, waitin' for his buddy t'come back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, woulda been cold out here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Heck, yah.  Ya think, is Dave open yet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't think he's mixed up in -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no, I just wanna get Norm some night crawlers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marge is driving; Lou sits next to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You look in his citation book?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah... He looks at his notebook.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Last vehicle he wrote in was a tan Ciera at 2:18 a.m. Under the plate number he put DLR - I figure they stopped him or shot him before he could finish fillin' out the tag number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So I got the state lookin' for a Ciera with a tag startin' DLR. They don't got no match yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not sure I agree with you a hunnert percent on your policework, there, Lou.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I think that vehicle there probly had dealer plates.  DLR?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh... Lou gazes out the window, thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Geez.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Say, Lou, ya hear the one about the guy who couldn't afford personalized plates, so he went and changed his name to J2L 4685?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, that's a good one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE ROAD",
+          "text": "The police car enters with a whoosh and hums down a strai ruled empty highway, cutting a landscape of flat and perf white.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EMBERS FAMILY RESTAURANT",
+          "text": "Jerry, Wade, and Stan Grossman sit in a booth, sipping coffee.  Outside the window, snow falls from a gunmetal s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-  All's I know is, ya got a problem, ya call a professional!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No!  They said no cops!  They were darned clear on that, Wade!  They said you call the cops and we -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, a course they're gonna say that!  But where's my protection? They got Jean here!  I give these sons a bitches a million dollars, where's my guarantee they're gonna let her go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, they -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A million dollars is a lot a damn money!  And there they are, they got my daughter!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, but think this thing through here, Wade.  Ya give 'em what they want, why wont' they let her go? You gotta listen to me on this one, Wade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Heck, you don't know!  You're just whistlin' Dixie here!  I'm sayin', the cops, they can advise us on this!  I'm sayin' call a professional!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No!  No cops!  That's final!  This is my deal here, Wade!  Jean is my wife here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I gotta tell ya, Wade, I'm leanin' to Jerry's viewpoint here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We gotta protect Jean.  These - we're not holdin' any cards here, Wade, they got all of 'em.  So they call the shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're darned tootin'!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah, dammit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm tellin' ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well...  Why don't we... He saws a finger under his nose.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Stan, I'm thinkin' we should offer 'em half a million.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now come on here, no way, Wade! No way!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're not horse-trading here, Wade, we just gotta bite the bullet on this thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What's the next step here, Jerry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're gonna call, give me instructions for a drop.  I'm supposed to have the money ready tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dammit!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE CASHIER",
+          "text": "She rings up two dollars forty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How was everything today?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, real good now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PARKING LOT",
+          "text": "Snow continues to fall.  Jerry and Stan stand bundled in their parkas and galoshes near a row of beached vehicles. Wade sits behind the wheel of an idling Lincoln, waiting Stan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.  We'll get the money together. Don't worry about it, Jerry.  Now, d'you want anyone at home, with you, until they call?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I - they don't want - they're just s'posed to be dealin' with me, they were real clear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah. Jerry pounds his mittened hands together against the cold",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya know, they said no one listenin' in, they'll be watchin', ya know. Maybe it's all bull, but like you said, Stan, they're callin' the shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.  And Scotty, is he gonna be all right?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, geez, Scotty.  I'll go talk to him. There is a tap at the horn from Wade, and Stan gets into Lincoln.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We'll call. The Lincoln spits snow as it grinds out of the lot and fishtails out onto the boulevard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCOTTY'S BEDROOM",
+          "text": "Scotty lies on the bed, weeping.  Jerry enters and perche uncomfortably on the edge of his bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  How ya doin' there, Scotty?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dad!  What're they doing?  Wuddya think they're doin' with Mom?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's okay, Scotty.  They're not gonna want to hurt her any. These men, they just want money, see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What if - what if sumpn goes wrong?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no, nothin's goin' wrong here. Grandad and I, we're - we're makin' sure this gets handled right. Scott snorfles and sits up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dad, I really think we should call the cops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No!  We can't let anyone know about this thing!  We gotta play ball with these guys - you ask Stan Grossman, he'll tell ya the same thing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, but -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're gonna get Mom back for ya, but we gotta play ball.  Ya know, that's the deal.  Now if Lorraine calls, or Sylvia, you just say that Mom is in Florida with Pearl and Marty... Scotty starts to weep again.  Jerry stares down at his la",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  That's the best we can do here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is a lakeside cabin surrounded by white.  A brown Cier with dealer plates is pulling into the drive. Grimsrud climbs out of the passenger seat as Carl climbs of the driver's.  Grimsrud opens the back door and, with arm on her elbow, helps Jean out.  She has her hands tied behind her and a black hood over her head. With a cry, she swings her elbow out of Grimsrud's grasp lurches away across the front lawn.  Grimsrud moves to retrieve her but Carl, grinning, lays a hand on his shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hold it. They both look out at the front lawn, Grimsrud expressionless, Carl smiling. With muffled cries, the hooded woman lurches across the unbroken snow, staggering this way and that, stumbling on the uneven terrain. She stops, stands still, her hooded head swaying. She lurches out in an arbitrary direction.  Going downhil she reels, staggers, and falls face-first into the snow, weeping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ha ha ha ha ha ha!  Jesus! Grimsrud, still expressionless, breaks away from Carl's restraining hand to retrieve her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAINERD POLICE HEADQUARTERS",
+          "text": "We track behind Marge as she makes her way across the flo greeting various officers.  She holds a small half-full paper sack. Beyond her we see a small glassed-in cublcle.  Norm sits the desk inside with a box lunch spread out in front of h There is lettering on the cubicle's glass door:  BRAINERD PD. CHIEF GUNDERSON. Marge enters and sits behind the desk, detaching her walk talkie from her utility belt to accomodate the seat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hiya, hon. She slides the paper sack toward him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Brought ya some lunch, Margie. What're those, night crawlers? He looks inside. The bottom of the sack is full of fat, crawling earthworm",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks, hon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You bet.  Thanks for lunch.  What do we got here, Arbie's?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh. She starts eating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  How's the paintin' goin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pretty good.  Found out the Hautmans are entering a painting this year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, hon, you're better'n them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're real good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're good, Norm, but you're better'n them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, ya think? He leans over and kisses her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah, ya got Arbie's all o'er me. Lou enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hiya, Norm, how's the paintin' goin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not too bad.  You know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How we doin' on that vehicle?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No motels registered any tan Ciera last night.  But the night before, two men checked into the Blue Ox registering a Ciera and leavin' the tag space blank.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geez, that's a good lead.  The Blue Ox, that's that trucker's joint out there on I-35?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Owner was on the desk then, said these two guys had company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marge's prowler is parked in an otherwise empty lot.  Sno drifts down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marge sits talking with two young women at one end of an elevated dance platform.  The club, not yet open for business, is deserted.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where you girls from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Chaska.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LeSeure.  But I went to high school in White Bear Lake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, I want you to tell me what these fellas looked like.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, the little guy, he was kinda funny-looking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In what way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I dunno.  Just funny-looking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can you be any more specific?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I couldn't really say.  He wasn't circumcised.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Was he funny-looking apart from that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you were having sex with the little fella, then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is there anything else you can tell me about him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.  Like I say, he was funny-looking. More'n most people even.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And what about the other fella?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He was a little older.  Looked like the Marlboro man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Maybe I'm sayin' that cause he smoked Marlboros.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A subconscious-type thing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, that can happen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They said they were goin' to the Twin Cities?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Is that useful to ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, you bet, yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is now dusk.  The brown Ciera with dealer plates still sits in the drive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We track in on Jean Lundegaard, who sits tied in a chair with the black hood still over her head.  As we track in, hear inarticulate cursing, intermittent banging and loud static. We track in on Gaear Grimsrud, who sits smoking a cigaret and expressionlessly gazing offscreen. We track in on Carl Showalter, who stands over an old bla and-white television.  It plays nothing but snow.  Carl i banging on it as he mutters:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...days ... be here for days with a - DAMMIT! - a goddamn mute ... nothin' to do ... and the fucking - DAMMIT!... Each \"dammit\" brings a pound of his fist on the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  TV doesn't even ... plug me in, man...  Gimmee a - DAMMIT! - signal...  Plug me into the ozone, baby...  Plug me into the ozone - FUCK!... With one last bang we cut:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BACK TO THE TELEVISION SET",
+          "text": "In extreme close-up an insect is lugging a worm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bark beetle carries the worm to the nest ... where it will feed its young for up to six weeks... A pull back from the screen reveals that we are in Marge' house. Marge and Norm are watching television in bed.  From the we hear insects chirring. After a long beat, silence except for the TV, Marge murmu still looking at the set:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Well, I'm turnin' in, Norm. Also looking at the TV:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Oh, yah? Marge rolls over and Norm continues to watch. We hold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BLACK",
+          "text": "Hold. A snowflake drops through the black. Another flake. It starts snowing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BRAINERD MAIN STREET",
+          "text": "The lone traffic light blinks slowly, steadily, red.  Sno sifts down.  There is no other movement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PAUL BUNYAN",
+          "text": "We are looking up at the bottom-lit statue.  Snow falls.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE'S HOUSE",
+          "text": "Snow drops away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE'S BEDROOM",
+          "text": "The bedroom is dark.  Norm is snoring. The phone rings. Marge gropes in the dark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, is this Marge?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Margie Olmstead?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Well, yah.  Who's this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is Mike Yanagita.  Ya know - Mike Yanagita.  Remember me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Mike Yanagita!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah! Marge props herself up next to the still-sleeping Norm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, yah, course I remember. How are ya?  What time is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, geez.  It's quarter to eleven. I hope I dint wake you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, that's okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I'm down in the Twin Cities and I was just watching on TV about these shootings up in Brainderd, and I saw you on the news there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought, geez, is that Margie Olmstead?  I can't believe it!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, that's me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, how the heck are ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, ya know.  Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah - how are you doon?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, pretty good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Heck, it's been such a long time, Mike.  It's great to hear from ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah...  Yah, yah.  Geeze, Margie!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUSTAFSON OLDS GARAGE",
+          "text": "Jerry is on the sales floor, showing a customer a vehicle",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, ya got yer, this loaded here, this has yer independent, uh, yer slipped differential, uh, yer rack- and-pinion steering, yer alarm and radar, and I can give it to ya with a heck of a sealant, this TruCoat stuff, it'll keep the salt off -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I don't need no sealant though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, you don't need that.  Now were you thinking of financing here? You oughta be aware a this GMAC plan they have now, it's really super -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry, ya got a call here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY'S CUBICLE",
+          "text": "He sits in and picks up his phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry Lundegaard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All right, Jerry, you got this phone to yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well ... yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Know who this is?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, yah, I got an idea.  How's that Ciera workin' out for ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Circumstances have changed, Jerry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, what do ya mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Things have changed.  Circumstances, Jerry.  Beyond the, uh ... acts of God, force majeure...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the - how's Jean? A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Who's Jean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My wife!  What the - how's -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, Jean's okay.  But there's three people up in Brainerd who aren't so okay, I'll tell ya that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the heck're you talkin' about? Let's just finish up this deal here -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Blood has been shed, Jerry. Jerry sits dumbly.  The voice solemnly repeats:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Blood has been shed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What the heck d'ya mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Three people.  In Brainerd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, geez.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's right.  And we need more money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The heck d'ya mean?  What a you guys got yourself mixed up in?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We need more -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This was s'posed to be a no-rough -stuff-type deal -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I'm sorry, but I just - I -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look.  I'm not gonna debate you, Jerry.  The price is now the whole amount.  We want the entire eighty thousand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, for Chrissakes here -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Blood has been shed.  We've incurred risks, Jerry.  I'm coming into town tomorrow.  Have the money ready.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now we had a deal here!  A deal's a deal!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "IS IT, JERRY?  You ask those three pour souls up in Brainerd if a deal's a deal!  Go ahead, ask 'em!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  The heck d'ya mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll see you tomorrow. Click. Jerry slams down the phone, which immediately rings.  He angrily snatches it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerome Lundegaard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is Reilly Deifenbach at GMAC. Sir, I have not yet recieved those vehicle IDs you promised me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah!  I ... those are in the mail.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Lundegaard, that very well may be.  I must inform you, however, that absent the reciept of those numbers by tomorrow afternoon, I will have to refer this matter to our legal department.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My patience is at an end.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good day, sir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE CUBICLE",
+          "text": "We are looking at Jerry's cubicle from across the showroo Noise muted by distance, we watch Jerry slam down the reciever, rise to his feet, fling the phone to the floor, raise his desk blotter high over his head with pens and pencils rolling off it and slam it onto his desktop. He stands for a moment, hands on hips, glaring. He stoops and picks up the phone, places it back on the desktop, starts picking up the pens and pencils.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACK",
+          "text": "On steam-table bins of food, each identified by a plaque:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FLORENTINE.",
+          "text": "A complementary track shows two rays being pushed along a buffet line, piled high with many foods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE AND NORM AT A TABLE",
+          "text": "They sit next to each other at a long cafateria-style Formica table, silently eating. A hip with a hissing walkie-talkie enters frame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hiya, Norm.  How ya doin', Margie? How's the fricasse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pretty darn good, ya want some?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I gotta - hey, Norm, I thought you were goin' fishin' up at Mile Lacs?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, after lunch. He goes back to his food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whatcha got there? Gary hands her a flimsy.  Marge takes it with one hand an looks, her other hand frozen with a forkful of food.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The numbers y'asked for, calls made from the lobby pay phone at the Blue Ox.  Two to Minneapolis that night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "First one's a trucking company, second one's a private residence. A Shep Proudfoot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh...  A what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shep Proudfoot.  That's a name.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, okay, I think I'll drive down there, then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah?  Twin Cities? Norm, who has been eating steadily throughout, looks over Marge with mild interest.  He stares for a beat as he finishes chewing, and them swallows and says:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Oh, yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "KITCHEN OF LUNDEGAARD HOUSE",
+          "text": "Jerry, Wade, and Stan Grossman sit around the kitchen tab It is night.  The scene is harshly toplit by a hanging fixture.  On the table are the remains of coffee and a cinammon filbert ring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dammit!  I wanna be a part a this thing!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, Wade!  They were real clear! They said they'd call tomorrow, with instructions, and it's gonna be delivered by me alone!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's my money, I'll deliver it - what do they care?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wade's got a point there.  I'll handle the call if you want, Jerry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no.  See - they, no, see, they only deal with me.  Ya feel this, this nervousness on the phone there, they're very - these guys're dangerous -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All the more reason!  I don't want you - with all due respect, Jerry - I don't want you mucking this up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The heck d'ya mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They want my money, they can deal with me.  Otherwise I'm goin' to a professional. He points at a briefcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  There's a million dollars here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, see -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, Jerry, you're not sellin' me a damn car.  It's my show here. That's that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's the way we prefer to handle it, Jerry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE DOWNTOWN RADISSON HOTEL",
+          "text": "Marge is at the reception desk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Real good.  How're you today, ma'am?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Real good.  I'm Mrs. Gunderson, I have a reservation. The clerk types into a computer console.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You sure do, Mrs. Gunderson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is there a phone down here, ya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LOBBY CORNER",
+          "text": "Marge is on a public phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Detective Sibert?  Yah, this is Marge Gunderson from up Brainerd, we spoke -  Yah.  Well, actually I'm in town here.  I had to do a few things in the Twin Cities, so I thought I'd check in with ya about that USIF search on Shep Proudfoot... Oh, yah?...  Well, maybe I'll go visit with him if I have the...  No, I can find that...  Well, thanks a bunch.  Say, d'ya happen to know a good place for lunch in the downtown area?...  Yah, the Radisson...  Oh, yah?  Is it reasonable?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A GREEN FREEWAY SIGN",
+          "text": "Through a windshield we see a sign for the MINNEAPOLIS INTERNATIONAL AIRPORT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROOFTOP PARKING LOT",
+          "text": "The brown Ciera enters and drives lazy S-curves around th few snow-covered cars parked on the roof of the lot. It stops by one car and Carl emerges.  He quickly scans t lot, then kneels in the snow at the back of the parked ca and starts unscrewing its license plate.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXIT BOOTH",
+          "text": "Carl pulls up and hands the attendant his ticket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, I decided not to park here. The attendant frowns uncomprehendingly at the ticket.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  What do you mean, you decided not to park here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, I just came in.  I decided not to park here. The attendant is still puzzled.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You, uh...  I'm sorry, sir, but -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I decided not to - I'm, uh, not taking the trip as it turns out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry, sir, we do have to charge you the four dollars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I just pulled in here.  I just fucking pulled in here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, see, there's a minimum charge of four dollars.  Long-term parking charges by the day. A car behind beeps.  Carl glances back, starts digging fo money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I guess you think, ya know, you're an authority figure.  With that stupid fucking uniform.  Huh, buddy? The attendant doesn't say anything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  King Clip-on Tie here.  Big fucking man. He is peeling off one dollar bills.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  You know, these are the limits of your life, man.  Ruler of your little fucking gate here.  There's your four dollars.  You pathetic piece of shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GUSTAFSON OLDS GARAGE",
+          "text": "Jerry is staring up, mouth agape, at the underside of a c on a hydraulic lift.  Bewildered, he looks about, then as a mechanic passing by, his voice raised over the din of t shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's Shep? The mechanic points.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Talkin' to a cop. Jerry looks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Cop? Marge and Shep face each other at the other end of the fl in a grimy and cluttered glassed-in cubicle.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Said she was a policewoman. Marge and Shep silently talk. Jerry stares, swallows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "- Wednesday night? Shep is shaking his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, you do reside their at 1425 Fremont Terrace?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anyone else residing there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, Mr. Proudfoot, this call came in past three in the morning. It's just hard for me to believe you can't remember anyone calling. Shep says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Now, I know you've had some problems, struggling with the narcotics, some other entanglements, currently on parole -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, associating with criminals, if you're the one they talked to, that right there would be a violation of your parole and would end with you back in Stillwater.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now, I saw some rough stuff on your priors, but nothing in the nature of a homicide... Shep stares at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I know you don't want to be an accessory to something like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nope.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So you think you might remember who those folks were who called ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY'S OFFICE",
+          "text": "Jerry is worriedly pacing behind his desk.  At a noise he looks up. Marge has stuck her head in the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Lundegaard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh?  Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wonder if I could take just a minute of your time here -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What...  What is it all about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh?  Do you mind if I sit down - I'm carrying quite a load here. Marge plops into the chair opposite him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  You're the owner here, Mr. Lundegaard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Naw, I...  Executive Sales Manager.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, you can help me.  My name's Marge Gunderson -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My father-in-law, he's the owner.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.  Well, I'm a police officer from up Brainerd investigating some malfeasance and I was just wondering if you've had any new vehicles stolen off the lot in the past couple of weeks - specifically a tan Cutlass Ciera? Jerry stares at her, his mouth open.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Mr. Lundegaard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Brainerd?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Yah.  Home a Paul Bunyan and Babe the Blue Ox.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Babe the Blue Ox?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, ya know we've got the big statue there.  So you haven't had any vehicles go missing, then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.  No, ma'am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okey-dokey, thanks a bunch.  I'll let you get back to your paperwork, then. As Marge rises, Jerry looks blankly down at the papers on the desk in front of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, okay. He looks up at Marge's retreating back.  He looks back do at the papers.  He looks over at the phone. he picks up the phone and dials four digits.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, gimmee Shep...  The heck d'ya mean?...  Well, where'd he go?  It's only...  No, I don't need a mechanic - oh, geez - I gotta talk to a friend of his, so, uh ... have him, uh ... oh, geez...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL BAR",
+          "text": "Marge enters.  She looks around the bar, a rather characterless, lowlit meeting place for business people.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marge? It is a bald, paunching man of about Marge's age, rising from a booth halfway back.  His features are broad, friendly, Asian-American.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mike! He approaches somewhat carefully, as if on his second dri They hug and head back toward the booth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geez!  You look great!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah - easy there - you do too! I'm expecting, ya know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I see that!  That's great! A waitress meets them at the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  What can I get ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just a Diet Coke. Again she glances about.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  This is a nice place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, ya know it's the Radisson, so it's pretty good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're livin' in Edina, then?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah, couple years now.  It's actually Eden Prarie - that school district.  So Chief Gunderson, then! So ya went and married Norm Son-of- a-Gunderson!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah, a long time ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Great.  What brings ya down - are ya down here on that homicide - if you're allowed, ya know, to discuss that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah, but there's not a heckuva lot to discuss.  What about you, Mike?  Are you married - you have kids?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, yah, I was married.  I was married to -  You mind if I sit over here? He is sliding out of his side of the booth and easing in next to Marge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I was married to Linda Cooksey -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I -  Mike - wyncha sit over there, I'd prefer that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh?  Oh, okay, I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, just so I can see ya, ya know. Don't have to turn my neck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, sure, I unnerstand, I didn't mean to -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no, that's fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, sorry, so I was married to Linda Cooksey - ya remember Linda? She was a year behind us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think I remember Linda, yah. She was - yah.  So things didn't work out, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And then I, and then I been workin' for Honeywell for a few years now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, they're a good outfit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, if you're an engineer, yah, you could do a lot worse.  Of course, it's not, uh, it's nothin' like your achievement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It sounds like you're doin' really super.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, well, I, uh ... it's not that it didn't work out -  Linda passed away.  She, uh...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I, uh...  She had leukemia, you know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I didn't...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was a tough, uh ... it was a long -  She fought real hard, Marge...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry, Mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, ya know, that's, uh - what can I say?... He holds up his drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Better times, huh? Marge clinks it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Better times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I was so...  I been so ... and then I saw you on TV, and I remembered, ya know...  I always liked you...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I always liked you, Mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I always liked ya so much...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's okay, Mike -  Should we get together another time, ya think?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No - I'm sorry!  It's just -  I been so lonely - then I saw you, and... He is weeping.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I'm sorry...  I shouldn't a done this...  I thought we'd have a really terrific time, and now I've...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's okay...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You were such a super lady ... and then I...  I been so lonely...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's okay, Mike...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARLTON CELEBRITY ROOM",
+          "text": "Carl Showalter is sitting at a small table with a tarty- looking blonde in a low-cut gown.  Each holds a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just in town on business.  Just in and out.  Ha ha!  A little of the old in-and-out!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wuddya do? Carl looks around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Have ya been to the Celebrity Room before?  With other, uh, clients?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't think so.  It's nice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, well, it depends on the artist. You know, Jose Feliciano, ya got no complaints.  Waiter! The reverse shows a disappearing waiter and the backs of many, many people sitting at tables between us and the ve distant stage.  Jose Feliciano, very small, performs on a spotlit stool.  The acoustics are poor. Carl grimaces.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  What is he, deaf?...  So, uh, how long have you been with the escort service?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't know.  Few munce.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya find the work interesting, do ya?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  What're you talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A DIRTY BEDROOM",
+          "text": "Carl is humping the escort. We hear the door burst open. The escort is grabbed and flung out of bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shep!  What the hell are you doing? I'm banging that girl!  Shep!  Jesus Ch - Shep slaps him hard, forehand, backhand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Fuck out of my house! He hauls him up -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shep!  Don't you dare fucking hit me, man!  Don't you - - punches him and flings him away. Carl hits a sofa and we see his bare legs disappear as he flips back over it. Shep enters frame to circle the sofa and kick at Carl beh it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Fuck outta here.  Put me back in Stillwater.  Little fucking shit. There is a knock at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hey!  Come on in there! Shep strides to the door, flings it open. A man in boxer shorts stands in the doorway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "C'mon, brother, it's late -  Unghh! Shep hits him twice, then grabs both of his ears and star banging his head against the wall. The hooker runs by, clutching her clothes, and Shep kicks her in the ass as she passes. He spins and goes back into the apartment. Carl is hopping desperately into his pants.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stay away from me, man!  Hey! Smoke a fuckin' peace pipe, man! Don't you dare fuckin' -  Unghh! After hitting him several times, Shep yanks Carl's belt o of his dangling pants and strangles him with it.  Carl gurgles.  Shep knees Carl repeatedly, then dumps him onto the floor and starts whipping him with the buckle end of belt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHAIN RESTAURANT PHONE BOOTH",
+          "text": "Carl listens to the phone ring at the other end.  His fac is deeply bruised and cut. Finally, through the phone...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All right, Jerry, I'm through fucking around.  You got the fucking money?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY'S KITCHEN",
+          "text": "Jerry is at the kitchen phone.  Through the door to the dining room we see Wade picking up an extension.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I got the money, but, uh -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't you fucking but me, Jerry. I want you with this money on the Dayton-Radisson parking ramp, top level, thirty minutes, and we'll wrap this up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, okay, but, uh -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're there in thirty minutes or I find you, Jerry, and I shoot you, and I shoot your fucking wife, and I shoot all your little fucking children, and I shoot 'em all in the back of their little fucking heads. Got it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah, well, you stay away from Scotty now -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, real good, then. The line goes dead. A door slams offscreen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wade, briefcase in hand, gets into his Cadillac, slams th door and peels out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wade's jaw works as he glares out at traffic.  He mumbles himself as he drives.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay ... here's your damn money, now where's my daughter?... Goddamn punk ... where's my damn daughter... He pulls out a gun, cracks the barrel, peers in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  You little punk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY'S HOUSE",
+          "text": "Jerry sits in the foyer, trying to pull on pair of galosh Scotty's voice comes from upstairs:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's okay, Scotty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where're you going?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Be back in a minute.  If Stan calls you, just tell him I went to Embers.  Oh, geez - Thunk! - his first boot goes on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RADISSON",
+          "text": "Marge sits on the bed in her hotel room, shoes off, massaging her feet.  The phone is pressed to her ear, and through it, we hear ringing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Norm?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MILLE LACS LAKE",
+          "text": "It is late evening, blowing storm.  A leisurely pan acros the bleak gray expanse finds a little hut in the middle o the frozen lake with a pickup truck parked next to it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They bitin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Norm has a cellular phone to his ear.  His feet are stretched out to an electric heater.  The interior is bat in soft orange light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, okay.  How's the hotel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, pretty good.  They bitin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, couple a muskies.  No pike yet.  How d'you feel?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not on your feet too much?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You shouldn't be on your feet too much, you got weight you're not used too.  How's the food down there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Had dinner at a place called the King's Table.  Buffet style.  It was pretty darn good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Was it reasonable?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, not too bad.  So it's nice up there?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, it's good.  No pike yet, but it's good.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DAYTON-RADISSON RAMP",
+          "text": "The top, open, level.  Snow blows.  A car sits idling. Another car pulls onto the roof.  It creeps over to the parked car and stops.  It continues to idle as its door opens and Wade steps out, carrying the briefcase. The door of the other car bangs open and Carl bounces out",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who the fuck are you?  Who the fuck are you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got your goddamn money, you little punk.  Now where's my daughter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am through fucking around!  Drop that fucking briefcase!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's my daughter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Fuck you, man!  Where's Jerry?  I gave SIMPLE FUCKING INSTRUCTIONS -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where's my damn daughter?  No Jean, no money!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Drop that fucking money!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No Jean, no money!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is this a fucking joke here? He pulls out a gun and fires into Wade's gut.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Is this a fucking joke?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Unghh ... oh, geez... He is on the pavement, clutching at his gut.  Snow swirls",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You fucking imbeciles! He bends down next to Wade to pick up the briefcase.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, for Christ ... oh, geez... Wade brings out his gun and fires at Carl's head, close b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh! Carl stumbles and falls back, and then stands up again. jaw is gouting blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Owwmm... One hand pressed to his jaw, he fires down at Wade severa times.  Blood streams through the hand pressed to his jaw",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Mmmmmphnck!  He fnkem shop me... He pockets the gun, picks up the briefcase one-handed, flings it into his car, gets in, peels out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOWN RAMP",
+          "text": "Carl screams down the ramp.  He takes a corner at high sp and swerves, just missing Jerry in his Olds on his way to the top.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jerry recovers from the near miss and continues up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, geez!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXIT BOOTH",
+          "text": "Carl squeals to a halt at the gate, still pressing his ha to his bleeding jaw.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ophhem ma fuchem gaphe!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "May I have your ticket, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAMP ROOF",
+          "text": "Jerry pulls to a halt next to Wade's idling Cadillac.  He gets out and walks slowly to Wade's body, prostrate in th swirling snow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh!  Oh, geez! He bends down, picks Wade up by the armpits and drags him over to the back of the Cadillac.  He drops Wade's body, walks to the driver's side of the car, pulls the keys and walks back to pop the trunk.  He wrestles Wade's body int the trunk, slams it shut and walks back to the scene of t shooting. He kicks at the snow with his galoshed feet, trying to hi the fresh bloodstains.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXIT BOOTH",
+          "text": "Jerry approaches in the Cadillac. The wooden gate barring the exit has been broken away.  T booth is empty. Jerry eases toward the street, looking over at the booth he passes. Inside the booth we see the awkwardly angled leg of a prostrate body.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car pulls into the driveway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FOYER",
+          "text": "Jerry enters and sits on the foyer chair to take off his galoshes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Dad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stan Grossman called.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Twice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Is everything okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah. Thoonk - the first boot comes off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Are you calling Stan?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well...  I'm goin' ta bed now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARL'S CAR",
+          "text": "Carl mumbles as he drives, underlit by the dim dash light one hand now holding a piece of rag to his shredded jaw.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Fnnkn ashlzh...  Fnk...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROAD",
+          "text": "Carl's car roars into frame, violently swirling the snow. Its red tail lights fishtail away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HARD CUT TO",
+          "text": "It is a starky sunny day.  We are cruising down a street humble lookalike houses. We pan right as we draw toward one house in particular. its driveway a man in a hooded parka shovels snow.  He notices the approaching car and gives its driver a wave. The driver is Gary, the Brainderd police officer.  He giv a finger-to-the-head salute and pulls over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTSIDE",
+          "text": "Gary slams his door shut and the other man plants his sho in the snow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How ya doin'?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Mohra?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Officer Olson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, right-o. The two men caucus the driveway without shaking hands and without standing particularly close.  They stand stiffly, arms down at their sides and breath streaming out of thei parka hoods.  Each has an awkward leaning-away posture, h drawn slightly back and chin tucked in, to keep his face from protruding into the cold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  So, I'm tendin' bar there at Ecklund &amp;&amp; Swedlin's last Tuesday and this little guy's drinkin' and he says, 'So where can a guy find some action - I'm goin' crazy down there at the lake.'  And I says, 'What kinda action?' and he says, 'Woman action, what do I look like,'  And I says 'Well, what do I look like, I don't arrange that kinda thing,' and he says, 'I'm goin' crazy out there at the lake' and I says, 'Well, this ain't that kinda place.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So he says, 'So I get it, so you think I'm some kinda jerk for askin',' only he doesn't use the word jerk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I unnerstand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And then he calls me a jerk and says the last guy who thought he was a jerk was dead now.  So I don't say nothin' and he says, 'What do ya think about that?'  So I says, 'Well, that don't sound like too good a deal for him then.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya got that right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And he says, 'Yah, that guy's dead and I don't mean a old age.'  And then he says, 'Geez, I'm goin' crazy out there at the lake.'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "White Bear Lake?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, Ecklund &amp;&amp; Swedlin's, that's closer ta Moose Lake, so I made that assumption.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So, ya know, he's drinkin', so I don't think a whole great deal of it, but Mrs. Mohra heard about the homicides out here and she thought I should call it in, so I called it in.  End a story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What'd this guy look like anyways?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, he was a little guy, kinda funny-lookin'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh - in what way?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just a general way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, well, thanks a bunch, Mr. Mohra.  You're right, it's probably nothin', but thanks for callin' her in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh sure.  They say she's gonna turn cold tomorrow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, got a front movin' in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ya got that right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CARL SHOWALTER",
+          "text": "In his car, now parked, one hand holding the rag pressed his mangled jaw.  He is staring down at something in the front seat next to him. His other hand holds open the briefcase.  It has money inside - a lot of money. Carl unfreezes, takes out one of the bank-wrapped wads an looks at it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Mmmnphh. He paws through the money in the briefcase to get a feeli for the amount.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Jeshush Shrist...  Jeshush fuchem Shrist! Excited, he counts out a bundle of bills and tosses it on the back seat. He starts to take the rag away from his chin but the laye pressed against his face sticks, its loose weave bound to his skin by clotted blood. He pulls very gently and winces as blood starts to flow again. He carefully tears the rag in half so that only a bit of remains adhering to his jaw.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is pulled over to the side of an untraveled road.  THe door opens and Carl emerges with the briefcase. He slogs through the snow, down a gulley and up the embankment to a barbed-wire fence.  He kneels at one of t fence posts and frantically digs into the snow with his b hands, throws in the briefcase and covers it back up. He stands and tries to beat the circulation back into his red, frozen hands. He looks to the right. A regular line of identical fence posts stretches away against unblemished white. He looks to the left. A regular line of identical fence posts stretches away against unblemished white. He looks at the fence post in front of him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mmmphh... He looks about the snowy vastness for a marker.  Finding none, he kicks the fence post a couple of times, failing scar or tilt it, then hurriedly plants a couple of sicks against the post. He bends down, scoops up a handful of snow, presses it against his wounded jaw, and lopes back to the idling car",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOTEL ROOM",
+          "text": "Marge has a packed overnight back sitting on the unmade b She is ready to leave, already wearing her parka, but is the phone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I'm leavin' this mornin', back up to Brainerd.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I'm sorry I won't see ya.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mm.  But ya think he's all right? I saw him last night and he's -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What'd he say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, it was nothin' specific he said, it just seemd like it all hit him really hard, his wife dyin' -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Linda.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Linda Cooksey?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.  No.  No.  They weren't - he, uh, he was bothering Linda for about, oh, for a good year. Really pestering her, wouldn't leave her alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So ... they didn't...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No.  No.  They never married. Mike's had psychiatric problems.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh.  Oh, my.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, he - he's been struggling. He's living with his parents now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh.  Geez.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, Linda's fine.  You should call her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geez.  Well - geez.  That's a suprise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE'S CAR",
+          "text": "Marge drives, gazing out at the road.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE AT A DRIVE-THROUGH",
+          "text": "She leans out of her open window and yells at the order panel:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hello?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE AT THE GUSTAFSON OLDS GARAGE",
+          "text": "She sits in the lot, eating a breakfast sandwich.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JERRY LUNDEGAARD'S OFFICE",
+          "text": "Jerry is at his desk using a blunt pencil to enter number onto a form.  Beneath the form is a piece of carbon paper and beneath that another form copy, which Jerry periodica checks.  The carbon-copy form shows thick smudgy, illegib entries. Jerry hums nervously. Glass rattles as someone taps at his door. Jerry looks up and freezes, mouth hanging open, brow knit with worry. Marge sticks her head in the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Lundegaard?  Sorry to bother you again.  Can I come in? She starts to enter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, no, I'm kinda - I'm kinda busy -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I unnerstand.  I'll keep it real short, then.  I'm on my way out of town, but I was just -  Do you mind if I sit down?  I'm carrying a bit of a load here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I - But she is already sitting into the chair opposite with a sigh of relieved weight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, it's this vehicle I asked you about yesterday.  I was just wondering -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, like I told ya, we haven't had any vehicles go missing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, are you sure, cause, I mean, how do you know?  Because, see, the crime I'm investigating, the perpetrators were driving a car with dealer plates.  And they called someone who works here, so it'd be quite a coincidence if they weren't, ya know, connected.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So how do you - have you done any kind of inventory recently?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The car's not from our lot, ma'am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "but do you know that for sure without -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, I would know.  I'm the Executive Sales Manager.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, but -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We run a pretty tight ship here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know, but - well, how do you establish that, sir?  Are the cars, uh, counted daily or what kind of -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ma'am, I answered your question. There is a silent beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I'm sorry, sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ma'am, I answered your question. I answered the darn -  I'm cooperating here, and I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, you have no call to get snippy with me.  I'm just doin' my job here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not, uh, I'm not arguin' here. I'm cooperating...  There's no, uh - we're doin' all we can... He trails off into silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir, could I talk to Mr. Gustafson? Jerry stares at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Mr. Lundegaard? Jerry explodes:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, heck, if you wanna, if you wanna play games here!  I'm workin' with ya on this thing, but I... He is getting angrily off his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay, I'll do a damned lot count!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sir?  Right now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure right now!  You're darned tootin'! He is yanking his parka from a hook behind the opened doo and grabbing a pair of galoshes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  If it's so damned imporant to ya!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm sorry, sir, I - Jerry has the parka slung over one arm and the galoshes pinched in his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, what the Christ! He stamps out the door. Marge stares. After a long moment her stare breaks.  She glances idly around the office. There is a framed picture facing away from her on the desktop.  She turns it to face her.  It is Scotty, holdin an accordion.  There is another picture of Jean. Marge looks at it, looks around, for some reason, at the ceiling. She looks at a trophy shelf on the wall behind her. She fiddles idly with a pencil.  She pulls a clipboard toward her.  It holds a form from the General Motors Fina Corporation. She looks idly around.  Her look abruptly locks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Oh, for Pete's sake. Jerry is easing his car around the near corner of the building. Marge's voice is flat with dismay:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Oh, for Pete's sake... She grabs the phone and punches in a number.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  For Pete's s- he's fleein' the interview.  He's feelin' the interview... Jerry makes a left turn into traffic.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Detective Sibert, please...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "POLICE OFFICER",
+          "text": "We are looking across a steam table at a man in blue.  He moves slowly to the right, pushing his tray along a cafeteria line.  Behind him, in the depth of the room, is eating area of long Formica tables at which sit a mix of uniformed and civilian-clothed police and staff. We are listening to an offscreen woman's voice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, so far we're just saying he's wanted for questioning in connection with a triple homicide.  Nobody at the dealship there's been much help guessing where he might go... The woman is entering frame sliding a tray.  Marge enters behind her, sliding her own.  We move laterally with them they slowly make their way along the line.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We called his house; his little boy said he hadn't been there.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And his wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She's visiting relatives in Florida. Now his boss, this guy Gustafson, he's also disappeared.  Nobody at his office knows where he is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Geez.  Looks like this thing goes higher than we thought.  You call his home?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His wife's in the hospital, has been for a couple months.  The big C.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, my.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And this Shep Proudfoot character, he's a little darling.  He's now wanted for assault and parole violation.  He clobbered a neighbor of his last night and another person who could be one of your perps, and he's at large.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Boy, this thing is really ... geez.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, they're all out on the wire. Well, you know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Well, I just can't thank you enough, Detective Sibert, this cooperation has been outstanding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah, well, we haven't had to run around like you.  When're you due?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "End a April.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Any others?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This'll be our first.  We've been waiting a long time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's wonderful.  Mm-mm.  It'll change your life, a course.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yah, I know that!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They can really take over, that's for sure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You have children? Detective Sibert pulls an accordion of plastic picture sleeves from her purse to show Marge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I thought you'd never ask.  The older one is Janet, she's nine, and the younger one is Morgan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, now he's adorable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's three now.  Course, not in that picture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, he's adorable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, he -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where'd you get him that parka? They have reached the end of the cafeteria line.  With a to the cashier, Detective Sibert indicates hers and Marge trays.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Both of these.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, no, I can't let you do that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, don't be silly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, okay - thank you, Detective.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, don't be silly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "GAEAR GRIMSRUD",
+          "text": "He sits eating a Swanson's TV dinner from a TV tray he ha set up in front of an easy chair. He watches the old black-and-white TV set whose image - i might be a game show - is still heavily ghosting and diffused by snow.  The audio crackles with interference. Despite the impenetrability of its image, it holds Grimsrud's complete attention. At the sound of the front door opening, Grimsrud looks up Carl enters, his face suppurating and raw. He reacts to Grimsrud's wordless look with a grotesque laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You should she zhe uzher guy! He glances around.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  The fuck happen a her? Jean sits slumped in a straight-backed chair facing the wall.  Her hooded head, resting on her chin, is motionles There is blood on the facing wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She started shrieking, you know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jezhush. He shakes his head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Well, I gotta muddy. He is plunking down eight bank-wrapped bundles on the tab",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  All of it.  All eighty gran. Forty for you... He makes one pile, pockets the rest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Forty for me.  Sho thishuzh it.  Adiosh. He slaps keys down on the table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  You c'n'ave my truck.  I'm takin' a Shiera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We split that. Carl looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HOW THE FUCK DO WE SHPLITTA FUCKIN'",
+          "text": "CAR?  Ya dummy!  Widda fuckin' chainshaw? Grimsrud looks sourly up.  There is a beat.  Finally:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One of us pays the other for half.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCKERZH MINE",
+          "text": "Carl waits for an argument, but only gets the steady sour look. Carl pulls out a gun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FUCKIN' WEEK",
+          "text": "A beat.  Carl returns Grimsrud's stare.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Are we shquare? Grimsrud says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "... ARE WE SHQUARE",
+          "text": "A beat. Disgusted, Carl pockets the gun and heads for the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Fuckin' ash-hole.  And if you shee your friend Shep Proudpfut, tell him I'm gonna NAIL hizh fuckin' ash.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OUTSIDE",
+          "text": "We are pulling Carl as he walks toward the car.  Behind h we see the cabin door opening.  Carl turns, reacting to t sound. Grimsrud is bounding out wearing mittens and a red hunter cap, but no overcoat.  He is holding an ax. Carl fumbles in his pocket for his gun. Grimsrud swings overhand, burying the ax in Carl's neck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGE",
+          "text": "In her cruiser, on her two-way.  Through it we hear Lou's voice, heavily filtered:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His wife.  This guy says she was kidnapped last Wednesday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The day of our homicides.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah. Marge is peering to one side as she drives, looking throu the bare trees that border the road on a declivity that r down to a large frozen lake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And this guy is...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Lundegaard's father-in-law's accountant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Gustafson's accountant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But we still haven't found Gustafson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(crackle)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "-  looking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sorry - didn't copy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still missing.  We're looking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Copy.  And Lundegaard too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.  Where are ya, Margie? We hear, distant but growing louder, harsh engine noise, of a chainsaw or lawnmower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, I'm almost back - I'm driving around Moose Lake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh.  Gary's loudmouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, the loudmouth.  So the whole state has it, Lundegaard and Gustafson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, it's over the wire, it's everywhere, they'll find 'em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Copy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We've got a -",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's the car!  There's the car! We are slowing as we approach a short driveway leading do to a cabin.  Parked in front is the brown Cutlass Ciera.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Whose car?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "My car!  My car!  Tan Ciera!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't go in!  Wait for back-up! Marge is straining to look.  The power-tool noise is loud here but still muffled, its source not yet visible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Chief Gunderson?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Copy.  Yah, send me back-up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, ma'am.  Are we the closest PD?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, Menominie only has Chief Perpich and he takes February off to go to Boundary Waters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ROAD EXTERIOR",
+          "text": "Marge pulls her prowler over some distance past the cabin She gets out, zips up her khaki parka and pulls up its fu lined hood. For a moment, she stands listening to the muffled roar of the power tool.  Then, with one curved arm half pressing against, half supporting her belly, she takes slow, ginge steps down the slope, through the deep snow, through the trees angling toward the cabin and the source of the grinding noise. She slogs from tree to tree, letting each one support her downhill-leaning weight for a moment before slogging to t next. The roar grows louder.  Marge stands panting by one tree, her breath vaporizing out of her snorkel hood.  She squin down toward the cabin's back lot. A tall man with his back to us, wearing a red plaid quilt jacket and a hunting cap with earflaps, is laboring over large power tool which his body blocks from view. Marge advances. The man is forcing downward something which engages the roaring power tool and makes harsh spluttering noises. The man is Grimsrud, his nose red and eyes watering from cold, hatflaps pulled down over his ears.  His breath ste as he sourly goes about his work, both hands pressing dow shod foot, as it if were the shaft of a butter churn. The roar is very loud. Marge slogs down to the next tree, panting, looking. Grimsrud forces more of the leg into the machine, which w can now see sprays small wet chunks out the bottom. Marge's eyes shift. A large dark form lies in the snow next to Grimsrud. Grimsrud works on, eyes watering.  With a grunt he bends down out of frame and then re-enters holding a thick log. He uses it to force the leg deeper into the machine. Marge is advancing.  She holds a gun extended toward Grimsrud, who is still turned away. Grimsrud rubs his nose with the back of his hand. Marge closes in, grimacing. Grimsrud's back strains as he puts his weight into the lo that pushes down into the machine. The dark shape in the snow next to his side is the rest o Carl Showalter's body. Marge has drawn to within twenty yards.  When she bellows sounds hollow and distant, her voice all but eaten up by roar of the power tool.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stop!  Police!  Turn around and hands up! Startled, Grimsrud scowls.  He turns to face her. He stares. Marge bellows again:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Hands up! Conscious of the noise, she shows with a twist of her shoulder the armpatch insignia.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Police! Grimsrud stares. With a quick twist, he reaches back for the log, hurls it Marge and then starts running away. Marge twists her body sideways, shielding herself. No need - the heavy log travels perhaps ten yards and lan in the snow several feet short of her. Grimsrud pants up the hill - slow going through the deep snow. Behind him:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Halt! She fires in the air. She lowers the gun and carefully sighs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Halt! She fires. Grimsrud still slogs up the hill - a miss. Marge sights again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Halt! She fires again. Grimsrud pitches forward.  He mutters in Swedish as he reaches down to clutch at his wounded leg. Marge walks toward him, gun trained on him as her other h reaches under her parka and gropes around her waist. It comes out with a pair of handcuffs, which she opens wi a snap of the wrist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  All right, buddy.  On your belly and your hands clasped behind you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE CRUISER",
+          "text": "Marge drives.  Grimsrud sits in the back seat, hands cuff behind him. For a long moment there, he is quiet - only engine hum an the periodic clomp of wheels on pavement seams - as Marge grimly shakes her head.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  So that was Mrs. Lundegaard in there? She glances up in the rear-view mirror. Grimsrud, cheeks sunk, eyes hollow, looks sourly out at t road. Marge shakes her head. At length:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I guess that was your accomplice in the wood chipper. Grimsrud's head bobs with bumps on the road; otherwise he motionless, reactionless, scowling and gazing out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  And those three people in Brainerd. No response. Marge, gazing forward, seems to be talking to herself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  And for what?  For a little bit of money. We hear distant sirens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  There's more to life than money, you know. She glances up in the rear-view mirror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Don't you know that?...  And here ya are, and it's a beautiful day... Grimsrud's hollow eyes stare out. The sirens are getting louder.  Marge pulls over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Well... She leans forward to the dash to give two short signallin WHOOPS on her siren. She turns on her flashers. She leans back with a creak and jangle of utilities. She stares forward, shakes her head.  We hear the dull cl of her flashers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I just don't unnerstand it. Outside it is snowing.  The sky, the earth, the road - al white. A squad car, gumballs spinning, punches through the white It approaches in slow motion. An ambulance punches through after it. Another squad car.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A SHABBY MOTEL",
+          "text": "It stands next to a highway on a snowy, windslept plain. One or two cars dot the parking lot along with an idling police cruiser.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MOTEL ROOM DOORWAY",
+          "text": "We are looking over the shoulders of two uniformed police who stand on either side of the door, their hands resting lightly on their holstered sidearms.  One of them raps at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Anderson... A title fades in:  OUTSIDE OF BISMARK, NORTH DAKOTA After a pause, muffled through the door:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Who?...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Anderson, is this your burgundy 88 out here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Just a sec.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Could you open the door, please?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Yah.  Yah, just a sec. We hear a clatter from inside.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Just a sec... One of the policemen unholsters his gun and nods to someo whose back enters - a superintendent holding a ring of ke This man turns a key in the door and then stands away. The two policemen, guns at the ready, bang into the motel room. The rough hand-held camera rushes in behind them as the t men give the room a two-handed sweep with their guns. The room is empty. Cop one indicates the open bathroom door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Dale! The two men charge the bathroom, belts jingling, guns at ready, jittery camera behind them rushing to keep pace. A man in boxer shorts is halfway out the bathroom window. The policemen holster their guns and charge the window, a drag Jerry Lundegaard back into the room. His flesh quivers as he thrashes and keens in short, piercing screams. The cops wrestle him to the floor but his palsied thrashi continues.  The policemen struggle to restrain him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Call an ambulance!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You got him okay? Cop One pinions Jerry's arms to the floor and Jerry burst into uncontrolled sobbing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, yah, call an ambulance. Jerry sobs and screams.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "A BEDROOM",
+          "text": "We are square on Norm, who sits in bed watching televisio After a long beat, Marge enters frame in a nightie and climbs into bed, with some effort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oooph! Norm reaches for her hand as both watch the television. At length Norm speaks, but keeps his eyes on the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They announced it. Marge looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They announced it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah. Marge looks at him, waiting for more, but Norm's eyes sta fixed on the television.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  So?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Three-cent stamp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Your mallard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Norm, that's terrific! Norm tries to suppress a smile of pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's just the three cent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's terrific!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hautman's blue-winged teal got the twenty-nine cent.  People don't much use the three-cent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, for Pete's - a course they do! Every time they raise the darned postage, people need the little stamps!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When they're stuck with a bunch a the old ones!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yah, I guess.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's terrific. Her eyes go back to the TV.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  I'm so proud a you, Norm. Norm murmurs:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love you, Margie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I love you, Norm. Both of them are watching the TV as Norm reaches out to r a hand on top of her stomach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "...  Two more months. Marge absently rests her own hand on top of his.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Two more months. Hold; fade out.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_669"
+    }
+  ]
+}

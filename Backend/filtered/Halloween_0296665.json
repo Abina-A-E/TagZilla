@@ -1,0 +1,96 @@
+{
+  "movie_id": "MOV834",
+  "scenes": [
+    {
+      "location": "CLASSROOM",
+      "time": "LATER THAT DAY",
+      "characters": [
+        "BEGIN FLASHBACK.",
+        "THE BELL RINGS"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "Students file into the class, sit in their assigned seats KERI stands behind a desk at the head of the class.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Good morning, class.  Mr. Elliot's out sick this week...turns out it was his appendix.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The students ad-lib \"COOL,\" \"ALRIGHT,\" \"YEAH.\" Your compassion is overwhelming.  But I'm sure you'll be happy to hear that he gave me the list of students who will be giving their oral reports today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The students groan. I thought so.  First up is Sarah Locke.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sarah crosses to the podium at the head of the class, stands behind it. She reads off a stack of index cards in front of her...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(rapidly) \"The Haddonfield Murders\" by Pamela Whittington.  A totally gruesome depiction of serial killer Michael Meyers' path of destruction in a small Illinois town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Keri sits up in her chair, uneasy.  Of all the books... During the following, we INTERCUT between the described flashbacks and Keri, as she struggles to maintain her composure as the memories come flooding back -- The riveting tale begins with young Meyers repeatedly stabbing his older sister to death on Halloween night in 1963.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BEGIN FLASHBACK.",
+          "text": "During the previous dialogue we see the correlating scene \"Halloween\" where young Michael Meyers in clown attire mu his sister. Years later Meyers escaped from Dr. Loomis' care at Smith's Grove Institution and returned home to Haddonfield. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "During the previous dialogue we once again see the correlating scene from \"Halloween\" where Michael escapes outside the gates of Smith's Grove in Dr. Loomis' station wagon. It was there that he stalked Laurie Strode...Meyers' younger sister...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see the correlating scene from \"Halloween\" where the Shape watches Laurie Strode through the screen door as sh approaches the old Meyers' house. What followed was a night of terror as Michael Meyers slaughtered one innocent victim after another. Strangled some... stabbed others... in the end it was a Halloween of unprecedented carnage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see a MONTAGE of murders from \"Halloween\" and \"Halloween II.\" END OF FLASHBACK. ON Keri, eyes swelling, struggling to keep the lid on her emotions... Ironically, Laurie survived that night, but was said to have died in a car accident years later... leaving behind her only daughter, Jamie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BEGIN FLASHBACK.",
+          "text": "During the previous dialogue, we see footage of young Jam from \"Halloween IV.\" The book maintains there is truth to the rumor that Laurie Strode is actually alive and well and living under a new identity.  Claiming that she gave up her daughter for adoption to protect the eight-year- old from her psychotic Uncle. Bad idea.  Last Halloween, Jamie's mutilated body was found in a barn just outside of Haddonfield.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Jamie's demise as depicted in \"Halloween VI.\" END FLASHBACK. ON Keri, unable to stand it any longer.  She grabs her ba heads for the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Keri darts out of the classroom. The students sit in stunned silence, baffled.  Sarah coll her cards and heads back to her seat... That was like so rude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "INT. GIRLS' RESTROOM - Minutes Later Keri bursts through the bathroom door...locks herself ins an empty stall...drops to her knees, barely making it ove the toilet before tossing up her breakfast.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_836"
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+{
+  "movie_id": "MOV320",
+  "scenes": [
+    {
+      "location": "WOODS",
+      "time": "DAY",
+      "characters": [
+        "14.",
+        "JASON",
+        "SOPHIE",
+        "RYAN, (0.S.)",
+        "SOPHIE, (V.O.)",
+        "CUT TO",
+        "MIKE, (CONT'D)",
+        "ELVIS, (CONT'D)",
+        "RICK, (CONT'D)",
+        "RYAN, (CONT'D)",
+        "JAMES, (CONT'D)",
+        "RYAN",
+        "MIKE",
+        "JAMES",
+        "ELVIS",
+        "TRACY, (CONT'D)",
+        "ANGELA",
+        "TRACY",
+        "CAMPFIRE",
+        "RICK",
+        "TRACY, (V.O.)",
+        "FADE IN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "WE SEE a girl standing in about a foot of snow. She faces the woods. Her face is in awe. She pans the woods up and down with her eyes. She steadily starts walking further and further...and starts gaining a faster pace as the epic-ness begins. Once she's in the woods, it grows very dark. She looks back for a moment...then back around to be struck in the face by a bright light. It fades and she can see a man standing on a small hill. She walks to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Jason?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "You shouldn't be here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Mom and Dad want you to come home now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "I can't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JASON",
+          "text": "He won't let me. The boy starts to quiver. Tracy grows scared. Blood begins to run from his mouth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "No...no...no... A chain saw rips through Jason's chest. Tracy screams! WE PAN BACK to reveal a masked man standing behind him, holding the machine. 2. \fTracy still screams as her brother is being ripped up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WE SEE Tracy lying in bed...eyes wide open. She's breathing heavy. She looks around, and then sits up. She sees her roommate staring at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Bad dream?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Yeah.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Same one?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Yeah, Soph, same one. Sophie drops her head...so does Tracy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WEE SEE sign that reads MAIN LODGE AND DINING. Tracy and Sophie run past it in a hurry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE, (V.O.)",
+          "text": "We are going to be so late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY, (V.O.)",
+          "text": "I know. Tracy gets up on the porch and gives her boyfriend, MIKE, a hug. The head counselor walks out, followed by another guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Alright everybody! Listen up. We got a lot of work ahead of us over the next few days so lock this place down for the winter. Two of the counselors hug each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As I was saying. We got a lot of work over the next few days so we can lock this place down. So I arranged for an extra set of hands. He puts his hand on a guy's shoulder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK, (CONT'D)",
+          "text": "So I want to you meet James. He's an old family friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Hey everybody.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "What's up, man? Everyone says hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "James is hitching his way to USC. He's a got full scholarship no less. Everyone awes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK, (CONT'D)",
+          "text": "I roped him into sticking around for a couple days, helping us. Let's get to it. Any volunteers who want to pair up with James for the day?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Me. I will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Okay. Nice to see your enthusiasm, Sophie. Oh, one more thing. We got some weather coming in so if you want to grab some extra blankets from the shed tonight, go ahead.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Who needs blankets?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Alright. Let's go everyone. Let's go. Everyone walks away except Ryan and Angela...they're \fkissing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK, (CONT'D)",
+          "text": "Ryan! Can I see you for a moment? Did you put the wood chipper back in the shed like I asked you to last night?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "I knew it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I'll take care of it right now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "No, it's too late. The rain last night ruined the motor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I'm sorry. It won't happen again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "It's just like the leaf blower.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "The leaf blower wasn't my fault.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "And the canoe paddles?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Look! Why are you always on my ass?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "Because you're a screw-up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "What'd you say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RICK",
+          "text": "You heard me. Look, I'm not impressed by your macho bull shit like your little girlfriend. I'm going to say this one: your screw ups are costing me a lot money and I don't like it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "So what are you going to do, Rick? Are you going to fire me, with only three days left? \fRyan walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Mike and Tracy walking to us. Tracy is carrying blankets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Ah, The trees are turning early this year.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Yeah. So much for our Indian summer, huh?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Yeah. It's kind of lonely here without all of the kids.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Do not tell me you miss them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "It's sad. The end of summer and everything. The two help each other spread the blanket over a close line.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY, (CONT'D)",
+          "text": "Don't you miss them?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Now that you bring it up. (pointing) Nah. They laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Come on, mister tough guy. Now you can't fool me. Inside you're just a geat big softy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Actually, you know that kid with the lazy eye? He kind of got to me a little bit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "\fThey EXT. They They (laughing) See. I knew it. smile at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (0.S.)",
+          "text": "I'd like to propose a toast. all come into frame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (CONT'D)",
+          "text": "To the end of camp. all toast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (CONT'D)",
+          "text": "May we not have to clean up another camper's puke for another ten months.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Or Elvis'.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "That shit is fucking nasty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "And now that the little bastards have gone home to their mommies and daddies, we can turn our thought to more adult pursuits. Angela looks up at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (CONT'D)",
+          "text": "So what's tonight's mischief?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "How about a game...of (cringes) Bloody Murder?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Great idea. Who's up for it? Elvis...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "Do I have to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Don't be a chicken shit, you're it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "Who's being a chicken shit? Everyone teases him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS, (CONT'D)",
+          "text": "Fuck you, okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "How about you Mike? You up for it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Yep, yep, yep, yep.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Tracy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Actually. I think I'm going to pass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Trace...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "It's fine. You guys have fun.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Trace...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Actually I'm really tired. I'm just going to go to bed early.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I thought we were gonna...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Not tonight, I'm serious. You guys have fun, okay? She kisses Mike and leaves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Let me walk you back. He leaves and follows her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Jesus. You guys are so \finsensitive.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "What?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Don't play innocent. You know exactly what you were doing. Mike of all people should know better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "I think I might have missed something.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Tracy's brother Jason disappeared up here about five years ago.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Disappeared?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Well, there was a series of murders that summer, and Jason's body was never found. The locals claim it was Trevor Moorehouse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "They claimed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Exactly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Mike and Tracy walk up to Tracy's cabin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I'm sorry, Tracy, that was--that was insensitive of me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "It's okay. I'm fine--really",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I just wasn't really thinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "\fThey kiss. It's okay. I didn't even mean to make a thing out of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Why don't you and I hang here while the others run around the woods like idiots?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE, (CONT'D)",
+          "text": "What do you say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Mike...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "What if I begged?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Mike.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "What if I cried?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Even if you cried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I'm sensing you're trying to tell me no.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Trust your senses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I've tried really hard to get close to you this summer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "Don't make a thing out of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I'm just saying I've tried so hard to be sensitive to your family situation. 10.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "My family situation? Is that really what you think of this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I didn't mean it to sound like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What did you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I can't get close to you. You put up this front.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "I'm tired of being treated like I've got six heads.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Then you shouldn't have told us about your brother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "What are you saying?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "I'm just saying it's a little confusing. You know, you either want the attention or you don't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "TRACY",
+          "text": "I don't think I want to talk about this anymore. She leaves and walks inside the cabin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Fine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Off in the distance.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "(mumbling) That's it. Ease up... There's laughter. 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (0.S.)",
+          "text": "Hey, you need a beer? Mike walks up to the fire where everyone else is",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (CONT'D)",
+          "text": "Hey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "\fAmen, brother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Got back kind of quick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Looks like somebody's not getting any tonight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Yeah. What else is new, man?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "James has been asking about Trevor Moorehouse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Fuck him. That guy's putting a serious dent in my sex life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Who was he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Somebody else tell that story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Trevor was the son of the meanest camp director that Placid Pines has ever seen. He had this habit of ratting on the counselors to his old man. Well, one year...several of the counselors got this half-assed plan to get back at them. But things got out of control, and before they knew it, Trevor was at the bottom of a ravine half dead with his face eaten by hungry birds.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "What happened to him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Well, naturally... 12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Naturally, he went to the hospital. Medical at first, then mental. His face was so badly disfigured that he always wore a mask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Yeah, how did you know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Every summer camp has a Trevor Moorehouse. Here, let me see. At some point he was either released, or he broke out of the mental hospital. Then it's said that he returned to Camp Placid Pines to forever seek out his revenge on the place and the people...that did this to him. How'd I do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Smart ass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Set up the new guy, huh? Nice try, boys. Trevor Moorehouse is just some fictitious local psychopath to get campers into bed at night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Fictitious local psychopath?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Did you really think I'd be stupid enough to fall for that?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "You think I'm making it up?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "I hope not. I would think you'd be able to come up with something a little better than the old Гўв‚¬Е“psychopath in the woods\" story.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Well then, tough guy. Since you've got nothing to fear you won't mind being \"It.\" They all laugh. 13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN, (CONT'D)",
+          "text": "Okay sports fans. It's time for a little game of -- Angela jumps up to Ryan, hugging.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Bloody Murder.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "\fAngela, do the honors. He hands her a blindfold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Of course. She walks over to James with it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Wait a minute. I didn't say anything --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "What's the matter, Jimbo? Huh? You having a little change of heart?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Scared?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "You afraid Trevor might break up the game?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "No. I just don't feel --",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Good! Then let the pretty lady blindfold you. Remember...there's nothing to fear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "But fear itself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Let the games begin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The group walks to a big tree in the middle of the woods. James is blindfolded.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "You've got to count to 20 before you can remove the blindfold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Okay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everybody ready?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Yeah!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Go! The group runs off to hide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "One-one thousand. Two-one thousand. Three-one thousand. Four-one thousand. Five-one thousand...eighteen-one thousand. Nineteen-one thousand. Twenty-one thousand. He turns around and removes the blindfold. He looks around. Nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES, (CONT'D)",
+          "text": "Oh, man. Me and my big mouth. James walks off to search for the rest of the group. Each of the people are hiding in a different location. James backs up into a tree and gasps.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "(peeking through trees) You're not in Compton anymore. James sees Mike gagging by a tree, back to him. Mike turns around. His neck is bloody as he holds it. He spits up blood. James begins to back up. 15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Oh-oh-oh! James turns around in horror. There's a hockey-masked figure with an axe coming up behind James.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Trevor -- Trevor Moorehouse! He screams as the masked man yells with the axe in the air. The yelling turns into laughter. \fMike is okay, and the man removes his mask. It is Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "(laughing) You were saying something about fictitious local psychopaths?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "We got him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Amen, brother.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELVIS",
+          "text": "What's going on?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "We're just having a little fun at James' expense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Tell him about the psychopath, then they come out dressed -- that's hot, baby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "That was beautiful with the blood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Thank you. Thank you very much.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "(pretend crying) Trevor Moorehouse! Oh my God!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Rick was right about you. James begins to walk away. 16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Yeah, well, what's that?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "You are an asshole.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "What did you say?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "I said you're an asshole. Ryan tackles James to the ground. Ryan falls first though.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on, man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Fuck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANGELA",
+          "text": "Break it up, guys! They restrain Ryan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "You're dead, you little fucker! Don't fuck with me! Fuck you, bitch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "(pointing) Get your little friend out of here before he gets hurt.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MIKE",
+          "text": "Easy! They all runs back to the cabin except for James and Sophie.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "You okay?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Yeah. He's not the first asshole I've had to deal with. He certainly won't be the last.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "I'm gonna head back up, but I'll see you in the morning. 17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Yeah, if I decide to stay.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Don't let that loser get to you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "We'll see.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOPHIE",
+          "text": "Good night.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JAMES",
+          "text": "Good night. \fSophie walks back to the camp.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "James sits there by himself.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_321"
+    }
+  ]
+}

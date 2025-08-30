@@ -1,0 +1,280 @@
+{
+  "movie_id": "MOV1691",
+  "scenes": [
+    {
+      "location": "CHICAGO OUTSKIRTS",
+      "time": "NIGHT",
+      "characters": [
+        "LISA",
+        "LARGE MAN, (0.8.)",
+        "SEAN, (CONT'D)",
+        "SEAN, (0.S.)",
+        "EDGAR, (0.8.)",
+        "SEAN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "The city skyline illuminates the clouded sky above. An elevated train blots out the view as it passes by at c proximity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Four PASSENGERS. They sit some distance from one another. SEAN, 30’s, is the best looking of the bunch. Crystal blu eyes. A fashionably worn leather jacket and shoes to matc He leans his head against a window towards the front of t car. The train comes to a stop. The door opens. LISA, 20’s, enters and finds a seat acros from Sean. She has on green hospital scrubs. Her hair is unnaturally BLACK. So is her fingernail polish. She reaches into her purse and pulls out a copy of “TWILIGHT”. She opens the book and begins to read. The tr continues. She looks up to digest something she just read. She catch Sean staring at her. He smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "I read all of those. Interesting take on vampires.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Me too. This one’s my fave though. Third time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Seems like everyone is infatuated with vampires these days. They either want to date one... or be one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You talking about the hair? He nods. She smiles. Pulls a lock of it into her view.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I got all vamped up for a costume party a couple of weeks ago. Just couldn’t seem to let the color go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "It suits you. I’m Sean.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Lisa. She dives back into her book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "I just have a hard time believing it would be so easy to be a vampire. She remains engrossed in her book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN, (CONT'D)",
+          "text": "In Bram’s version it wasn’t easy. Always hunted...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Bram? She looks up. Squints her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Bram Stoker? He wrote Dracula? Pretty much put vampires on the map.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Oh, I had to read that in high school. I thought it sucked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "You're a fan of vampires, yet you didn’t like Dracula? She shrugs her shoulders. Offers a guilty smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Nope, sorry. Thought it was boring.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Maybe being a vampire is not supposed to be so glamorous. Always hunted, truly cursed in love, and the decisions. \fSean shakes his head. Looks at the passengers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Decisions?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Who to kill. To live with the guilt of playing god.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I would think they would just eat animals. Like the Cullens. She points to her book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Humans eat animals. Not vampires.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Says you. I think it’s okay to make changes in the legend. Times change. People’s tastes differ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Because that’s not a curse. Seems more like a gift. Would you still want to be a vampire if you had to kill people? She crumples her face. Taps fingers on her chin.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I think so. They’re just so beautiful. So misunderstood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Really? Then humor me for a second. You're a vampire who likes to hunt on late night trains... He smiles. She rolls her eyes. He nods his head towards the other passengers. SEAN (CONT’D) Which one? She peruses the train. A thin OLD MAN, 70's, with a Hombu hat on his head sits towards the back of the car. A PLUMP WOMAN, 40's, ruffles through a purse the size of gym bag. She chews gum at a fevered pace. \fA LARGE MAN, 30's, rests his head against the window. He wears a sleeveless vest. Arms covered in tattoos. A banda on his head. Lisa smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "You don’t think I could do it, do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Then do it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "The big guy, with all the tatt’s. Sean studies him with her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Why him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Because he looks like a thug. Like he’s a gang member.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Who knows, he could be a big teddy bear. Maybe he’s a hard working guy, three children at home and a loving wife.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Or, maybe he’s gang member. Back to her book.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "So you would just pick people based on their looks?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Why not? Gotta feed right? Lisa laughs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Sooner or later, it would get to you... I think there’s a better candidate over there. Lisa purses her lips. Sean nods to the passengers again. takes them in. She",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then the fat woman. Sean gazes at the woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Why her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "I just have a problem with people who don‘t take care of themselves.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Maybe she has a thyroid problem, or low self esteem. Lisa sighs. Throws up her hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Then you pick one, Dr. Phil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "The old man. Sean stares at the old man with piercing eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "Why him? He looks harmless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "His name is Edgar Wilcox. He’s a retired auto worker. He actually does have three kids and a loving wife... Sean’s eyes return to Lisa.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN, (CONT'D)",
+          "text": "He’s also a pedophile. The train begins to slow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LISA",
+          "text": "How? Why do you know this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Because, it’s the best I can do. Sean stands. Lisa can see her reflection in the window be him, but not his. Her eyes widen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're gonna want to get off this train now. He walks towards the others. She fumbles her book trying get it into her purse. She hastens to the door. Bounces i anticipation of it’s opening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Edgar Wilcox? Lisa turns her back to them. Closes her eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDGAR, (0.8.)",
+          "text": "Yes. Do I know...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LARGE MAN, (0.8.)",
+          "text": "What the fuck? Oh my god! SCREAMS. Flesh TEARING. Heavy FOOTSTEPS in the car. Lisa covers her mouth. The doors open. EXT. TRAIN PLATFORM —- CONTINUOUS Lisa gets knocked over by the large man. The plump woman past. Lisa picks up her bag. Runs to the turn-stile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN, (0.S.)",
+          "text": "Lisa! She stops and turns. A mistake. Sean's blood spattered face is pressed up against the win He stares at her wide eyed, crazed. He licks his fangs as fingers rake crimson down the glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SEAN",
+          "text": "Ain't so pretty now, are we? The train doors shut. Lisa faints. Sean SCREAMS as the train resumes. FADE TO BLACK. THE END.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1693"
+    }
+  ]
+}

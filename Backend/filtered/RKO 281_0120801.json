@@ -1,0 +1,3128 @@
+{
+  "movie_id": "MOV1507",
+  "scenes": [
+    {
+      "location": "SOUND BOOTH",
+      "time": "NIGHT",
+      "characters": [
+        "INT DESERTED BAR. NEW YORK NIGHT",
+        "INT HOTEL. NEW YORK NIGHT",
+        "INT SAN SIMEON. STAIRWAY NIGHT",
+        "INT SAN SIMEON. ASSEMBLY ROOM NIGHT",
+        "JEWELRY STORE. BEVERLY HILLS",
+        "INT SAN SIMEON. SCREENING ROOM NIGHT",
+        "INT SCHAEFER'S OFFICE. RKO DAY",
+        "OF THE PRESS TO COMFORT THE AFFLICTED AND AFFLICT THE",
+        "WILLIAM RANDOLPH HEARST. PUBLISHER.\"",
+        "INT CHASEN'S RESTAURANT. PRIVATE ROOM DAY",
+        "COMFORTABLE.",
+        "INT SAN SIMEON. ROMAN POOL NIGHT",
+        "INT RKO BOARD ROOM. NEW YORK DAY",
+        "INT PALACE THEATER. LOBBY FOLLOWING",
+        "INT RECORDING STAGE DAY",
+        "INT. ELIZABETH ARDEN SALON. BEVERLY HILLS DAY",
+        "ROARS",
+        "INT. GIMBELS NEW YORK DAY",
+        "INT LONG HALLWAY. NEW YORK DAY",
+        "INT MANK'S HOUSE. SANTA MONICA DAY",
+        "INT SAN SIMEOM. MARION'S BEDROOM DAY",
+        "HILLS AROUND SAN SIMEON DAY",
+        "EXT NIGHTCLUB FOLLOWING",
+        "EXT PALACE THEATER. NEW YORK NIGHT",
+        "INT MAYER'S OFFICE. MGM DAY",
+        "DAY",
+        "EXT HOTEL ROOFTOP NIGHT",
+        "INT SAN SIMEON, ASSEMBLY ROOM DAY",
+        "THE END.",
+        "EXT RKO LOT DAY",
+        "EXT MAYER'S ESTATE DAY",
+        "INT NIGHTCLUB. HOLLYWOOD NIGHT",
+        "INT/EXT SAN SIMEON NIGHT",
+        "INT HALLWAY FOLLOWING",
+        "J. EDGAR HOOVER'S OFFICE",
+        "INT RECORDING STAGE FOLLOWING",
+        "EXT.",
+        "INT HOTEL ROOM. NEW YORK NIGHT",
+        "INT SAN SIMEON. ASSEMBLY ROOM DAY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "A few sound engineers and mixers work over recording pane Hermann and the orchestra as Welles, Toland and Mank ente",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You read Louella?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles shudders",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, but I can imagine. What am I today? A \"puny  upstart\" or a \"spoiled dilettante\" -- no, she  wouldn't know how to spell that",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(reads) \"And how is the country to feel when this industry  continues to employ bedraggled foreigners and  swarthy refugees instead of real Americans? Doesn't  Hollywood know there's a Depression on? Don't real  Americans deserve work?\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(laughs) Well, at least she's off KANE today",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No she's not. Don't you get it, ya lunk? She's  using code language to the studio bosses.  \"Bedraggled foreigners and swarthy refugees\" -- who  the hell do you think she's talking about?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(playfully) Hedy Lamarr?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jews. She's talking about Jews.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "beat ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles' smile fades.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who owns this town? Who runs every goddamn studio?  The tribe, baby. These fuckers hear the word \"Jew\"  and they start sweating. Like Ester Williams' pool  they start sweating.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(growing tense) So they're Jews. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is just the first shot. Maestro. Sooner or  later she's gonna use the word. And all those boys  know that there is only one thing this country hates  more than the coloreds and that's the Jews.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Christ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Me, I'm proud to be a Jew, I got no problem. You  don't like it, fuck you. But with these guys it's  like a dirty word. All they wanna be is good red- white-and-blue Americans, and the way they see it  you can't be a good American and a Jew. So Sam  Goldfish becomes Sam Goldwyn and David Selznick  becomes David 0. Selznick -- like anyone's gonna  think he's Irish for fuck's sake--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What does this have to do with--?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(dead serious) Believe you me, they're gonna do anything -- and I  mean absolutely anything -- to stop that word from  gettin' out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(sharply) What?! Are they going to kill me? Is that what  they're going to do?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "One of the sound technicians turns to Welles:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "SOUND TECHNICIAN Sorry, Mr. Welles, I can't really hear",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles, Mank and Toland quickly decamp to a hallway outsi recording stage...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They emerge into the hallway. Mank lights a cigar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) Let me tell you a story, son  So this was 1924,  right? Hearst was throwing a birthday party for  Thomas Ince, the old movie producer. They were all  on the old man's yacht taking a nice jaunt from  Pedro down to San Diego. Real foggy night it was.  This was Hearst, Marion, Ince, Charlie Chaplin,  Louella, the usual gorillas. So Hearst notices  Marion slip off with Chaplin -- she was screwing  everyone then -- and the old man goes nuts. Grabs  his revolver and starts shooting. Just like Tom Mix,  standing there blasting away through the fog. Boom - - boom -- boom -- and Thomas Ince takes a bullet  through the head. So now there's this dead guy lying  on the deck. You'll see how this could be quite an  embarrassment. So the empire goes into action. Nice  and quiet and Ince was cremated lickety-split. No  inquest and no police. It was right after this that  Hearst gives Louella her life-time contract. Just to  keep her all hush-hush.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat as Mank gazes at Welles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If he had known about KANE before you made it,  you'd be dead already.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(weakly) It's too late. The movie's made",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They won't let it out. Not Hearst. Not the other  studio heads--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You wrote the damn thing, Mank Aren't you going to  fight for it?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(bitterly) I told you this was going to happen! I told you he  was going to come after us! So we took the chance  anyway and we lost. That's how it goes, okay? I got  my check, kid, and so did you -- and that's what  it's all about -- so fuck it and move on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles leans forward in a sudden explosion of anger",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I WILL NOT MOVE ON! Let them do their worst! These  petty tyrants! These monstrous, small men Do they  think they can stop us? I Who are they?! Who are  they?! THEY ARE . .. ACCOUNTANTS I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bernard Hermann appears at a doorway from the recording s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We're ready. You want to hear it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles goes with Hermann into the stage. Toland and Mank silence. Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His next picture ... he wants to play Christ.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hope he's planning to start with the crucifixion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles sits at the back of the stage, deep in thought",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bernard Hermann raises his baton and prepares to conduct. shots of KANE -- fog shrouded Xanadu -- are projected on Hermann conducts and the orchestra plays.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We watch the first images of the film with the brilliant",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We pull back to reveal we are at ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst and Marion are sitting in the plush San Simeon scr surrounded by a passel of dachshunds. Five or six friends spread around the room. Joe Willicombe is also present.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We watch their faces as they watch CITIZEN KANE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "During this sequence we hear bits and pieces of KANE as w and Marion react.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Marion's initial amusement give way to a forced ne",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Hearst becoming increasingly uncomfortable, reacti almost writhing, as his soul is laid bare. Then his face Drained.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see Joe Willicombe, offended.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see the other guests, horrified and afraid to even so at Hearst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Finally, we hear the ending of the movie:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Throw that junk in, too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We hear Bernard Hermann's closing music begin to play out",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst abruptly stands, the final images of the film wash face.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Switch it off SWITCH IT OFF",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The film suddenly stops and lights come up around the scr",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Silence No one looks at Hearst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) Would everyone please leave",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The guests and Joe Willicombe solemnly file out A pause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well -- he got us, didn't he?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She stands and goes quickly to pour a drink. A forced lau",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Nailed us, hub? The crazy old man and his whore.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bought and p-p-paid for. Just like one of his  goddamn statues. Well at least in the movie he  married her!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This picture--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(deeply) I am not that woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know what I could have been. I know what I gave up to s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(pained) I mean he's even got the goddamn jigsaw puzzles",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She dissolves into sobs. He cradles her in the empty scre",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why did he do that to us?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst is as we have never seen him before. He is in a ti",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He paces back and forth violently like a caged animal, be increasingly manic and uncontrolled, clenching his fists Joe Willicombe:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And now of all times -- NOW -- when I am grasping  on with my fingernails to live at all this Orson We  lies -- this insect -- this reprehensible insect --  has the nerve TO CHALLENGE ME! To show my life as  some cheap sideshow -- A FREAK SHOW -- A DYING,  IMPOTENT OLD FREAK IN HIS CASTLE!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He smashes a collection of figurines and sends them saili room. Hearst's rage gives way to a darker passion:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(intensely) Mr. Willicombe -- you have seen me in adversity --  you have seen me take on the unions and the Congress  and the railroads -- and we have risen above -- we  have risen above. And if that dog Welles thinks he  can strike at me now -- when he thinks I'm weak when  he thinks I'm vulnerable -- then he does not fully  comprehend the man is facing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WILLICOMBE Mr. Welles can't know anything about the ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "difficulties  we're--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get me Louella Parsons, now!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Willicombe picks up a phone and begins dialing as Hearst",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This upstart -- this puny man -- how does he even  dare to imagine he could comprehend my life and my  world when he crawls with the other insects in the  sewer -- in the dung -- when we control every moment  of his life from the instant he is born to the  instant we decide that he will die! Does he have no  idea of the power that controls him?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Hearst, I have Miss Par'",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst snatches the phone from Willicombe",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(on phone) Miss Parsons, Mr. Hearst. Use the file",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He slams down the phone",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now get me J. Edgar Hoover",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "WILLICOMBE It's very late in Washington-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then wake him up!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Willicombe begins to dial",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(fervently) That insect thinks he knows me! He thinks he knows  my capabilities! When his neck is in my teeth and  his blood is in my throat then he will know WILLIAM  RANDOLPH HEARST!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louis B. Mayor's eyes are blinking behind his glasses",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In his glasses we can see vague reflections of a series o photographs showing sex acts and illicit assignations and mug shots.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We pull back to reveal Mayer flipping through a stack of notes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louella sits, smoking and supremely confident, across fro",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mayer finally closes the file and removes his glasses. He eyes. He rises unsteadily and goes to a liquor cabinet an himself a stiff drink. He gulps it down and then returns",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause and then he finally looks at Louella",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So what do we got here, L.B.? We got faggots and  commies and junkies. We got movie stars screwing  niggers and little girls. We got killers and  perverts and whores.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We got MGM and Warner Brothers and Columbia and  Disney and Fox.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We got Jews",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We got Hollywood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kill CITIZEN KANE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't give a shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The boss is working on some stuff and I'm working  on some stuff. Now I want all you boys working on  some stuff. Cause if it looks like this picture's  ever gonna come out -- I start running down the  street with these pictures like a screaming woman  with my throat cut, you follow?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bulldog-like FBI Director HOOVER sits erect at his desk. imposing FBI Seal catches the light.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He presses a button on his intercom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Agent McCabe, if you please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His secretary, clean-cut FBI agent McCABE, enters quickly pad. Agent McCabe scribbles as Hoover dictates:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Open a new file. Heading: Welles, Orson. Native  born. Communist.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion and Joe Willicombe sit in deck chairs under the bl Marion absently pets a dachshund in her lap. Servants sta with lunch and trays of iced tea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They watch Hearst riding a horse in the distance A pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How bad is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Miss Davies--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Come on Joe. How bad is it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's finished",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst gallops up to them. A servant helps him down from strides briskly to Marion and Willicombe as:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I've been thinking about the Tribune in Chicago.  The Examiner just can't make any headway.  Circulation is still down. I think we should buy the  Tribune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion glances to Willicombe and then looks at Hearst wit tenderness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure, Pops. That's a swell idea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Manks pounding away at a typewriter in his tiny beach hou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He grumbles to himself as he types:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "... and Rita Hayworth says: \"You see, he truly was  the Son of God\" ... big Toland lighting effect ...  blah, blah, blah ...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A knock at the door. Mank answers it. Clean-cut FBI Agent outside. He flashes his badge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Mr. Mankiewicz, I'm Special Agent McCabe of the  Federal Bureau of Investigation. Might I have a  moment of your time?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure, kid, come in. I'm writing the crucifixion and  it's a bitch. Sit down",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Agent McCabe sits and snaps open a note pad",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  I would like to ask you a few questions about Mr.  Welles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You guys after Orson too?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Mr. Mankiewicz.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shoot",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Are you aware of Mr. Welles' Communist  affiliations?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shit, Orson's no pink. He's everything else under  the sun, but he's no pink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Are you aware of Mr. Welles' Communist  affiliations?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, I am not",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Do you have any knowledge of Communists working  within the motion picture industry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Do you have any knowledge of Communists working  within the motion picture industry?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Are you now or have you ever been a member of, or  affiliated with, the Communist Party or any of its  front organizations in the United States?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stop it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Are you now or have you ever been a member of--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you better leave",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  Are you now or have you--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(grim) Get the fuck outta my house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Agent McCabe snaps his note pad closed and stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "AGENT McCABE  (crisply) Thank you for your time, Mr. Mankiewicz. We'll be  in touch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Agent McCabe leaves",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(calling after him) Don't bother, you low-life prick",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mank slams the door",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He stands for a moment, pale, and then goes to the kitche himself a stiff drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion is pouring a drink as well. She quickly fills a gl and then begins striding back and forth across the Assemb",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst sits quietly at one of the jigsaw puzzles He occas absently puts a piece in place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She has clearly been at him for some time",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then you explain it to me?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's nothing to explain",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A million dollars a year on art and st-st-statues  and there's nothing to explain?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I will not defend my life to you--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm not asking you to defend anything. But we're in  a pickle and we gotta talk about it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We are in no \"pickle\" -- as you would  euphemistically have it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gotta wake up now. Pops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There is nothing to discuss-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't have any money left, okay?! That's the  truth. I don't wanna say it, nobody else will say  it, but it's the truth. You spent it all. You can't  buy the Tribune in Chicago -- you can't buy ^ g-g- goddamn thing. Now you better face up to it--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are being typically theatrical, Marion. I need  the Tribune to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't need it! That's the problem you always  think you need everything--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion spins to a medieval arras cloth hanging from one w",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That -- did you need that? How much did that cost?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's 12th Century. From Deauville -- in France.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I know where Deauville is for C-C-Christ's sake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You needn't use that language with me",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Did you need it? Did you need any of it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wanted it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's a different between want and",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(tightly) Not for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(frustrated) But why? Just so you can show it all off -- just so  everyone can see what a b-b-big man you are?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He stands quickly",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(angrily) That's right. You've captured me exactly.  Goodnight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You will not walk out on me",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are repellant when you drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tough shit. We need to t-t-talk about this--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are slovenly and unattractive and I won't (he  mercilessly mimics her) t-t-t-tolerate it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A cold beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Fuck you, Mr. Kane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(darkly) I will not have this in my home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I just want to understand--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(suddenly) No, you don't. You want to condemn me, like  everyone else. You want to point to the pathetic,  old man grown lunatic with his spending -- trapped  in his ridiculous",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "castle -- still fighting old battles he will never  win with Pulitzer and Roosevelt and Hollywood--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't want you to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There is nothing to understand but this:   I am a  man who could have been great, but was not.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He leaves ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A silent scene as we see Marion rummaging through some dr vanity table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A suitcase can be seen on the bed behind her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She removes various jewelry cases and pours an astounding into a black leather pouch.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion sits with Carole Lombard in a secluded section of salon.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A quiet scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When I met him I was just 20. And he was 55. I saw  the gold ring and just grabbed on. And he was going  to make me a star.  ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And he did.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When I was making movies I kept begging him to let  me do comedies. Silly stuff, you know. But Pops  doesn't get comedy too well so he kept putting me in  all those godawful p-p-period dramas.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Carole Lombard smiles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I did my best but, well, you know me",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thing that bothers me now, though, looking back is  that I really think I could have been something ...  special.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thinking like that is only gonna drive you nuts You  were a great star and you had a good run. That  oughta be enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah. But all of a sudden it's not",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know this CITIZEN KANE picture? About Pops and  everything?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Uh-huh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The character that's supposed to be me, Susan  Alexander--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion, everyone knows you're not like that--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But I am That's the killer, honey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This little girl comes from nowhere and gets discovered b And maybe she has some real talent way deep down. But he and he makes the decisions. And somewhere along the way . lost.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's hell when you gotta look back and say,  goddamn, what I could have been.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion enters a posh Beverly Hills jewelry shop. She is w sunglasses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She nervously goes to the counter and the SHOP OWNER glid Marion, the entire experience is humiliating. This result stutter becoming increasingly more pronounced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "May I help you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I, um, need an estimate on some jewelry I might  wish to sell. But d-d-discretion is very important  to me b-b-because I don't want anyone t-t-to, um,  know that--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Excuse me, I hope this isn't rude, but aren't you  Marion Davies?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well, this is a great pleasure. Miss Davies! I just  saw that ENCHANTMENT is playing at a the Tivoli, the  revival house in Santa Monica. That was a fine  picture!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not one of them today has what you had, Miss  Davies. Not one of them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you -- b-b-but I'd really like t-t-to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course, of course. How can we be of service?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As I said I have some j-j-j-j- (she simply can't  get the word out) that I might wish t-t-to sell and  I wanted an estimate--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Surely My pleasure, Miss Davies..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion removes the leather pouch from her purse and pours collection of jewelry on a black felt tablet on the count",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(awed) My Lord. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion removes her sunglasses and looks at him. Her eyes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How much for the lot?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles is pursuing Schaefer as they stride through the bu backlot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What do you want me to do, Orson? Radio City won't  premiere the picture. Louella threatened them with  some bullshit about",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then find another theater",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You don't think I've tried? No one is willing to  open the picture",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then we'll open it in Detroit or Dallas or  Kalamazoo for God's sake! We'll show it in goddamn  circus tents and--!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Listen to me. The press ban is killing us and the  distributors won't book it. And meantime I'm dealing  with the stockholders in New York who are scared  shitless -- and I'm this far from getting fired  myself -- and you don't have a friend in the world  but me right now. So you have got to trust that I'll  do what I can to--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(desperately) \"Do what you can\"?! That's not good enough I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Well it' s all you've got !",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(suddenly) You're with them, aren't you? You're going to bury  my movie. They bought you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(turning away) For Christ's sake, shut up--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Why don't you just have the guts to admit it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(spinning on him) How dare you talk to me like that! Do you think I'm  like all the rest of those pirates?! Like Mayer and  Warner? Is that what you think--?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's just that my movie is so-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(savagely) \"Your movie\" -- I am so sick of that! It's your  movie -- but it's his life! Did you ever think about  that?! Did you ever think about that old man and  Marion having to watch as you tore them apart?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I didn't--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you every think for one second that you might  have some responsibility for what you're doing?! For  cutting and slashing everything in your way so you  can have your goddamn movie?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That soulless monster gets no tears from me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who the fuck are you trying to kid? You are that  soulless monster.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer turns and stomps away Welles stands, lost for a dream factory",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In a bit of a daze, Welles slowly begins walking through bustle of loud activity in a corner of the lot draws his",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A bulldozer and a dozen workmen are busy tearing down the large white mansion. They strip the wood off and toss it incinerator.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles sees Schaefer standing before all this activity, d thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles goes to him and they stand together in silence for they watch the house being razed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Recognize ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles shakes his head",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's Tara. From GONE WITH THE WIND",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pause as they watch Scarlett O'Hara's dream mansion being",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's ... sad",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Not really. It's only a set, after all Just lumber.  .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) You know, we make all these pictures, we turn em  out one after another, without thinking most of the  time. Just like making toasters or Packards or  toothpaste. But then sometimes ... something amazing  happens and you get a GONE WITH THE WIND.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Or a CITIZEN KANE",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And no one can ever take that away from you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They gaze at the destruction of Tara as we hear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "... and in financial news, rumors continue to swirl  around the head of publishing baron William Randolph  Hearst. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst sits in a wicker chair by the shimmering in-door R for Hearst and the single chair, the pool is deserted and furniture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst is staring at the gold and blue mosaic of tiles re water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "As we hear:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "... Sources report that the Hearst Empire is  facing some rocky times ahead as the press lord is  facing mounting debts and shrinking revenues due to  over expansion and fiscal mismanagement that have  resulted in...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The radio voice fades to silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The silence continues but for the haunting echo of a lion the distance. Then Hearst hears the sound of footsteps ec tile. He looks up. It is Marion. She walks around the poo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Without a word she hands him a check.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is made out to William Randolph Hearst in the amount o dollars and is signed Marion Davies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long pause. He looks up at her, profoundly moved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I started out as a gold-digger, ya know But goddamn  if I didn't fall in love with the guy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A row of six shining limousines are lined up in front of enormous house. The chauffeurs stand together and chat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mayer sits in the glorious back garden of his house. Six gathered around him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mayer nods his head to each as we pan around the faces",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Zanuck ... Mr. Warner ... Mr. Cohn Mr. Disney  .. . Mr. Goldwyn . . . Mr. Selznick.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you all for coming. You got my memo. What do we do?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's a fucking punk, why does Hearst give a shit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's enough that he does",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Would Louella really do it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In a New York minute",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I say to hell with Louella and to hell with Hearst!  Bring 'em on. We can take em.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We all didn't make GONE WITH THE WIND, ya know.  Some of us gotta look at this checkbook-wise.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who isn't hurting already? All this Jew talk and  these Communist rumors. Look, he's boycotting RKO  ads right now -- but how long before he takes on  Warners or Fox or Columbia?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goddamn right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And if Hearst goes public with all this filthy  private lives stuff, Hollywood's sunk. He's got us  nailed. Dates. Times. Photographs for God's sake.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I don't mean to be funny, but what could he have on  Mickey Mouse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He's got you so tied in with J. Edgar Hoover and  America First that you might as well put on a brown  shirt and kiss those happy little kiddies so-long.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(suddenly) Have any of you actually seen the movie?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I have. It's probably the greatest motion picture  ever made. Nothing's going to be the same after  this. With this one movie he's changed the way we  see--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who the fuck cares?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do. And so should all of you--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get off the soapbox--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Selznick stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I want no part of this. We should be marching into  George Schaefer's office and standing with him. He's  one of us!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "David-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If I ever got into trouble I'd like to think that  you all would be with me -- not planning to stab me  in the back like a bunch of ... a bunch of ...  producers!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He storms off",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Mayer) Your son-in-law meshuaena.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Laughter",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(nervously) He's got me and Hoover?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Relax, Walt, at least he don't have you screwing  Snow White. I got fucking Errol Flynn on my payroll!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Mayer) You're a smart man, L.B. I suspect you would not  have called us here without a plan. Give over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We will buy the movie and we will destroy it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We will assemble a fund between us -- privately,  'not studio money -- we will assemble this fund and  we will go to George Schaefer and we will buy the  negative and every print of CITIZEN KANE and we will  burn them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long pause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "If I do not hear an objection to this agenda in the  next five seconds I will assume the motion has  carried.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Five seconds tick by as we focus on the titans of Hollywo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Very well, my associates will be in touch to  arrange payment. Thank you for your time.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "KANE composer Bernard Hermann again stands before the orc arm poised, waiting to begin conducting. He is about to r music for the deep-focus Thatcher/Bernstein/Kane scene fr KANE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles sits nearby, supervising everything. Welles nods a screen the scene from KANE begins and Hermann starts cond orchestra plays.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The music carries into and gradually fades during.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In a scene eerily reminiscent of the Thatcher/Bernstein/K Marion sits in the extreme foreground, a man we do not kn middle distance at a desk and Hearst stands far away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst has his back to them and stares out a window.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The new man is MR. LEWIS, a tight banker from New York, 5",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks over a thick legal document on the desk as he sp",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "LEWIS You will retain some editorial control over the rem",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "newspapers but the actual ownership will go to the Conser Committee and the banks. We will be immediately closing 1 papers and the wire services. And we will be liquidating as soon as possible. Most of the land in Mexico as well a collection of art and antiquities--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) Mr. Hearst spent his life collecting that art.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(ignoring her) We've been in touch with Gimbels in New York and  they've agreed to hold a special sale. They're  giving over an entire floor for the merchandise.  You'll have to go there in person to sign the bill  of sale, by the way.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(softly, not turning) I'll have to sell the animals.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And we don't know whether we'll be able to retain  the castle. The land has some capital and we might  keep it on as an investment. Maybe break it up into  smaller units for housing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long pause Hearst finally turns and walks to them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(to Lewis) When will it come out? When will the public know?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We can't keep it a secret, sir. Once we announce  the Gimbels sale and start liquidating the assets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(pained) This is your whole life. Pops. Don't do it. We'll  find another way..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long beat as he looks at her. Then he quickly signs the the desk. He puts down the pen and leaves the room withou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Marion sits nestled on a sweeping marble stairway Weeping",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A swank benefit dinner is in progress A band plays",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A banner hangs over the nightclub stage: CHILDREN'S MILK 1940",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We float through the elegant crowd and spy Louis B. Mayer Clark Gable and Carole Lombard; all manner of movie stars brokers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We also spy Schaefer sitting with Mank and Toland and a f and women.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The evening's EMCEE takes the stage",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Next up we have a real treat. It's Orson Welles.  Now, during the rehearsal for the benefit tonight  Orson banished everyone from the club so he could  proceed in utmost secrecy. But you all know how  Orson is!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Laughter from the crowd",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So, lets give a big round of applause for Mr. Orson  Welles and Miss Rita Hayworth.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Polite applause as Welles bounds to the stage with RITA H the band begins to play a buoyant tune.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer practically drops his fork",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles is dressed in a padded costume and made up in a wa suggest no one but William Randolph Hearst. Rita Hayworth a manner mightily like Marion Davies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Louella glances to Mayer, daggers. Some knowing laughter audience. Particularly Mank",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A line of chorus girls hoof on and join Welles and Rita H row of harsh footlights snap on, giving the scene a resem \"Charlie Kane\" dance in CITIZEN KANE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And Welles launches into a jaunty song and dance version \"DISGUSTINGLY RICH\" an almost unknown Rodgers and Hart so has wickedly changed some of the lines. '",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I'll buy everything I wear at Saks. I'll print  gossip and I'll call it facts",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Swear like a trooper, Live in a stupor--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Just disgustingly rich!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I'll make money and I'll make it quick, Starting  little wars I think are slick. Smother her in  sables, Like Betty Grable's-- Just disgustingly  rich.  \"I'll build a castle, That'll cost a passel.  And as a resident, I will pan the president I'll  aspire, Higher and Higher. \"I'll get married and  I'll buy a girl, So darn pretty that your head will  swirl",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Swimming in highballs-- Stewed to the eyeballs--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Just disgustingly rich!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles, Rita Hayworth and the chorines do a nifty soft-sh Schaefer turns to Mank:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(seriously) He truly doesn't care if he ever works again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, ain't it swell?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles and Rita Hayworth conclude their little dance brea resumes the song:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Ev'ry summer I will sail the sea, On my little  yacht the Normandie, Pet my little dachshund  friends, Kiss Louella's big rear end, Just  disgustingly rich.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About here Louella storms out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I'll eat salmon, I'll play backgammon. Turn breakfast in I'll take Thomas Ince to lunch I'll aspire, Higher and Hi",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About here Louis B Mayer and a few others storm out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"He'll be photographed with Myrna Loy, Just to  prove he is a glamour boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Perfumed and scented, Slightly demented-- Just  disgustingly rich",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I'll get my capers, Into his papers. Hoping his  folly would Lead me out to Hollywood. I'll aspire,  Higher and higher.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "About here Schaefer buries his face in his hands",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"In the funnies and the valentines, We'll be  pictured drinking Ballantine's. Dopey and screwy,  Voting for Dewey.  Just disgustingly-- Too, too  disgustingly-- Riiiiich! \"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles and Rita Hayworth conclude the number with a big f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Some applause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mank stands and applauds loudly. Laughing. Welles bows so",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Later that night, Welles is about to climb into his limou the nightclub with Rita Hayworth when Schaefer suddenly a grabs his lapel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(happily) George- -!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Without a word, Schaefer pulls Welles roughly into an all nightclub. He slams Welles into the alley wall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(brutally) This isn' t some kinda fucking game! You know how  many people RKO employs?! You know how many people  depend on what we do for a living?!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I really think you're",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You wanna commit suicide, fine! You got some death- wish, fine! But you will not drag this company down  with you!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was a -joke, George",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer slaps Welles firmly across the face. Welles is s",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There are no jokes! There are people making a  living. There is food on the table!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer glares at him and then rages off",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles straightens his suit and then, with a shaking hand a cigar. He tries to laugh, but cannot.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer sits at his desk, absolutely dazed. Speechless",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "B. Mayer sits across from him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where did this money come from?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It came.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "800,000 dollars fully covers the production budget  and a little more. Hell, George, you even make a  profit on the deal.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Very generous",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And we gotta be clear here. I need the negative and  every existing print.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "To do what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That's for me to decide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're going to destroy it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, maybe put it on the shelf until the old man  kicks it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're lying to me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We already made the same offer to the stockholders.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer is stunned.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You talked to New York?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You talked to Mr. Swanbeck?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pause. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get out",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're bettin' on an inside straight this time.  You'll never pull it off.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Get out. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mayer stands and smiles",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This picture, George, it'll just break your heart.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mayer goes. Schaefer sits, smelling defeat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We linger on Schaefer as a haunting echo of \"I CAN'T GET heard. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We float through the estate as we hear the ghostly strain Berigan's recording of \"I CAN'T GET STARTED.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is a sad journey.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "By this time many of the ornate antiquities have been rem castle and it resembles Welles' stark and dreary Xanadu a",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I've flown around the world in a plane, I've  settled revolutions in Spain, And the North Pole I  have charted, Still I can't get started with you...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We float past the private zoo, now empty, the cages hangi move past the tennis courts, empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"On the golf course I'm under par, Metro Goldwyn  has asked me to star, I've got a house, a show  place, Still I can't get no place with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We float into the castle itself and through the stripped- Screening Room and the Assembly Room and the Great Dining",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All are mere shadows of their past glory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Cause you're so supreme, Lyrics I write of you, I  dream, dream day and night of you And I scheme just  for the sight of you, Baby, what good does it do...?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We finally float into the ballroom",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A record of \"I CAN'T GET STARTED\" spins forlornly on a tu",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And Marion and Hearst are having a quiet, poignant dance the middle of the empty ballroom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"I've been consulted by Franklin D. Greta Garbo has  had me to tea, Still I'm broken hearted Cause I  can't get started with you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They finally stop dancing and stand swaying gently. Then swaying.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(gently) Ah, Miss Davies, the times we have seen",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She holds him closely as \"I CAN'T GET STARTED\" concludes ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles has booked a private room at Chasen's. A long banq contains cans of sterno heating various dishes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Large photographs of the American West and renderings fro CHRIST are scattered around other tables.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles wanders around the renderings with Gregg Toland an carries a plate of food and consumes as:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See, this is the Great Salt Lake -- we do the  baptism here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Great scene where John the Baptist pulls your head  out of the water and says, \"Look up, and behold your  destiny\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Is that from one of the Gospels?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Kinda.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "George! Enter And Behold",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer blinks at the massive photos and renderings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You're not still mad at me, I hope",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "No, we're jake. But listen-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Look, not a single scene shot in the studio! We've  found natural locations for the whole story--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hold on a sec. I got news. We finally found  somewhere to premiere KANE but--",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I told you! Where? Grauman's? El Capitan? Or did  Radio City come crawling back?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Palace in New York. But Orson there's something  else.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles stops eating",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I think you better sit down",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(evenly) I don't want to sit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The bosses -- the other studios -- they want to buy  the film and destroy it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Absolute silence",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They came to me with an offer. 800,000 for the  negative and all the prints.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And they went to the stockholders in New York.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) Oh God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I been talking to Swanbeck in New York and...  Orson, I think they're gonna take it A long pause as  Welles looks at Schaefer",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles suddenly FLINGS his plate of food in Schaefer's di",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "YOU STUPID, LITTLE MAN! HOW COULD YOU HAVE LET THIS  HAPPEN?! I GAVE YOU MY SOUL AND NOW YOU'RE GOING TO  SELL IT!?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This ain't George's doing--!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles- rampages around the room",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I PUT MY LIFE INTO THAT PICTURE -- EVERYTHING I'VE  BEEN -- EVERYTHING I COULD BE---IT'S CITIZEN KANE! - - IT'S ALL CITIZEN KANE!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And in a screaming, bellowing fury, Welles tears apart th",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In a scene sharply reminiscent of Kane destroying Susan's Welles rampages around the room, upsetting tables and sma everything in reach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles finally grabs a flaming can of sterno and flings i Schaefer knocks it away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then Welles stands in spent exhaustion, panting. One of h bleeding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks at Schaefer. A pause. Then:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let . . . me . . . talk to them. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "New York ... The stockholders",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Give me one chance. And then you will never have to see m",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The entire two-acre fifth floor of Gimbels is in chaos",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A large banner is suspended at one end of the floor; \"The Collection.\" It is the first day of the sale and it is mo",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst and Marion, alone in a crowd, walk wordlessly thro mayhem.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everywhere around them hundreds of eager customers strike snatching up useless junk and treasured antiques.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see bits and pieces of San Simeon in the jumble",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They pass a man and his wife, holding up Marion's -BLESS sampler:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Old man Hearst owned this and I'm getting it for  two bits I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst and Marion continue to walk, finally arriving at t containing the true, expensive treasures.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst watches as customers pick up and fondle his life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He glances at a framed front page of the San Francisco Ex date is March 4, 1887. In a large box on the page is: \"IT",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I can't sell this. How much are they asking?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(gently) Pops ... let it go. Just ... let it go",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks at her. A long moment. He tenderly touches her f",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then: ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes, I think I shall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He takes her hand and leads her away as we pull up and ta entire fifth floor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is a stunning KANE-like image of rows and rows of merc high. Of junk and jewels. Of Charles Foster Kane and Will Hearst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles sits brooding in his hotel room. His invincible en gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He is deep in thought, listlessly shuffling and reshuffli cards in one hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He aimlessly shuffles through the cards and plucks one ou",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Six of spades",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He glances at the card. It is the nine of hearts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He shuffles through the cards again and pulls out another",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Six of spades",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks at the card. It is the two of clubs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "His attention is now fully on the cards. He shuffles them and snatches out a card. He looks at it and then tosses i shuffles again, working the trick, again it fails. He tos card away. He continues, ;' more quickly, to attempt the fails again. And ' again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "With a frightened moan Welles flings the entire deck away bolts out of the room...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles emerges from a stairway on the roof of his hotel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He marches to the edge of the roof and leans against a ra for air.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Everywhere below him the shimmering lights of Manhattan t flash; cabs and neon and noise. The night sky above him i stars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks away from the city and up to the stars -- they c fully. He stares and stares at the impossible chaos of be lights.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long moment as Welles gazes at the stars. The city belo noise seem to disappear and Welles stands, safe and at pe silent dome of stars.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The stars are reflected in his huge, dark eyes",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Magically, the stars in his eyes give way to the vague sh sitting around a table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles looks at the men.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Today.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We pull back to see we are at ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles stands at the head of a long conference table. Tit 1941",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Around the table are gathered a group of stern businessme also present.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles looks at the men. And he speaks. For once, his usu overwrought, theatrical tones are gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He speaks simply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Today a man from Germany invaded Greece. He has  already swallowed Poland and Denmark and Norway and  Belgium. He is bombing London as I speak. Everywhere  this man goes he crushes the life and the freedom of  his subjects. He sews yellow stars onto their  lapels. He takes their voices.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In this country we still have our voices. And we can sing And we can argue with them. And we can be heard. Because for the moment . . . free. No one can tell us what to say it, can they? We have no brown shirt thugs here ruling ou we? No one can take our voices, can they? Because we are",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am one voice and that is all. My picture is one voice. in Europe now -- and Americans soon will be -- so that we the tyrants and the dictators. Will you send a message ac country that one man can take away our voices?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So ... who is Mr. Hearst and who is Mr. Welles? Mr. Hears palace of brick and mortar and starting little wars and c high. I built a palace of illusion. My castle Xanadu is a painting and camera trick. It's nothing but . . . a dream",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Today you have a chance to let the dream triumph. For onc",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He gazes at them and then slowly walks out of the room ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles sits quietly on a bench in a long hallway in a tal",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer emerges from an office and goes to him. He sits",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We open on May 1st.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles slowly nods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Orson, what you said in there. Did you mean it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles looks at him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Does it matter? They believed it",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He stands and begins walking away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Orson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles stops, not turning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes. It matters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles continues down the hall ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Title: APRIL 30, 1941 Welles is rushing to catch an eleva doors close",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He nips in at the last minute and punches his button. He",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The elevator is deserted but for one other person: Willia Hearst.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles and Hearst recognize each other instantly. As the ascends the two men look at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A very long pause as we watch their faces -- the young ma man -- both men of mad grandeur and malevolent passion an inspiration -- both men of incalculable achievement and m poignancy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Finally:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mr. Hearst, we've met once before, my name is Orson  Welles and I've got a movie opening tomorrow night  at the Palace. I would be pleased to get you  tickets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause as Hearst regards Welles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then Hearst carefully reaches over and presses the stop b elevator. The elevator stops.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An exceedingly quiet exchange:",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A pause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I wonder. Do you have any idea what you have done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Intimately. For every sin you have placed on my  head I could give you a hundred others. I have been  swimming in blood my entire life. But I retain a  belief, perhaps you will think it old fashioned,  undoubtedly you will, but I believe that private  lives should not be public property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Elegant words, sir, when you have made your name  and your fortune on slander and innuendo and gossip.  In your papers you taught the world how to look  under every rock. I learned at the knee of the  master.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So where does that leave us, Mr. Welles? What kind  of sad future are we two making? A future where men  will do anything to sell their newspapers and their  movies? A future where no price is too high for fame  and power? When we will all scratch each other to  pieces just to be heard?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Can you truly envision such ... horror.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hearst presses the stop button again and the elevator beg",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The doors opens on Hearst's floor and he leaves the eleva",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The doors are about to shut on Welles when he leans forwa",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "CHARLES FOSTER KANE WOULD HAVE ACCEPTED I",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The doors shut on Welles and we remain with Hearst as he down the long hotel hallway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He walks with dignity. ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is the premiere of CITIZEN KANE, at last.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Palace Theater swarms with tuxedos and dress gowns as New York and Hollywood descend from limousines and slowly the packed lobby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "On the Palace marquee \"ORSON WELLES\" is spelled out in en foot tall electric letters. Below that is \"CITIZEN KANE\" electric letters. Above the marquee is a series of toweri neon Charles Foster Kanes and the words \"IT'S TERRIFIC.\"",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Title; MAY l, 1941",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We float down and enter the crowded lobby with the patron",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We swirl with the throng of patrons in the lobby as they theater and finally find Welles and Schaefer huddled toge in a corner of the lobby.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They are studiously ignored and snubbed by all the movie filtering past.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They're cutting us dead, every goddamn one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They are ignored by a few more people",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Beat",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It's my birthday this week. I'll be 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Happy birthday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mank fights through the crowd",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Monstro! Ran into Walter Winchell outside He wants  to play Herod in the picture. Hiya, George.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Herman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(lighting a cigar) So ain't this just the bee's knees? The high  muckey-mucks dolled up all Aztec-like for the human  sacrifice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You gonna watch?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hell, I know how it ends. (He calls to a passing stranger) Hey, Rosebud's the sled!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mank!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Face it, Orson, they're gonna hate it. I told you,  not enough closeups and too many scenes with a bunch  of New York actors.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(pained) Oh God. . .",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Relax, George. It's gonna go great. Trust me. Have  I ever lied to you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Schaefer looks at him for a moment",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know something, Orson, you haven't done  anything but lie to me from the moment we met. But,  ya know, I'd do it again in a second.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It was fun, wasn't it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) It was the best, kid",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So, on to the Life Of Christ!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Without me. I'm afraid. I got the axe this morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Shit",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "George...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Forget it. Cause you know something..",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When I'm an old coot playing dominoes down in Miami Beach from now, I'll say, \"Hey, you kids ever heard of a guy na Hearst?\" And they'll say, \"Nope. Never heard of him.\" And say, \"Hey, you ever heard of a picture called CITIZEN KAN will have. That's enough for me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Pats Welles arm and goes into the theater",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(softly) What have I done?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Aw, cheer up, George'll probably be running Fox by  the morning. Let's get a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mank pulls at Welles' arm.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But the picture...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Mank stops and looks at him deeply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "(quietly) Kid, you know how it ends too. It ends sadly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He pulls Welles away from the theater and down the street",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We watch the faces",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In the flickering blue light we watch the audience as we Hermann's evocative and haunting opening music to CITIZEN",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We slowly move across a sea of faces as the music plays. especially the movie people, what they are seeing is a re revolution. It is a whole new way of seeing the world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We see their amazement as they are mesmerized -- and thei they are challenged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And we see George Schaefer, quietly proud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Bernard Hermann's opening music continues to play until w hear;",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\"Rosebud...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And the world of movies is forever changed ",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Welles and Mank are sitting in a rundown, deserted bar",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know, all this nightmare we went through with  Hearst. The whole thing... And in the end, probably  no one will ever remember the picture anyway.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah, you're probably right.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A beat. Mank takes a drink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'll tell ya something, kid. When you make your  masterpiece at 26 it's a bitch. I mean. where do you  go from here?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A long pause",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Then Welles speaks, softly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will burn. Burn up. Burn out.  But oh, what a flame",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He looks at Mank and toasts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And Orson Welles smiles. Indomitable.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_1558"
+    }
+  ]
+}

@@ -1,0 +1,4143 @@
+{
+  "movie_id": "MOV129",
+  "scenes": [
+    {
+      "location": "DARKENED GLOBE STAGE 1",
+      "time": "LATE AFTERNOON",
+      "characters": [
+        "EXT STRATFORD COUNTRYSIDE TWILIGHT 96",
+        "EXT NEW PLACE NIGHT 58",
+        "ANNE",
+        "JOHN HALL",
+        "WILL",
+        "INT. NEW PLACE",
+        "O/S REVELLER",
+        "THE MAP OF STRATFORD 40",
+        "JUDITH, (V.O.)",
+        "PICKED OUT.",
+        "EXT NEW PLACE GARDEN DAY 29",
+        "LANDLADY",
+        "EXT HALLS CROFT NIGHT 17",
+        "EXT HALLS CROFT DAY 45",
+        "THE QUAINT ENVIRONS OF THE MARKET TOWN. THE NAME NEW PLAC",
+        "O/S VOICE",
+        "SUSANNA",
+        "JUDITH, (CONT'D)",
+        "MARIA",
+        "JUDGE",
+        "MARGARET",
+        "23, 24, 25....",
+        "OFFICER",
+        "CLERK",
+        "WILL, (V.O.)",
+        "YOUNG WOMAN",
+        "JOHN LANE, (CONT'D)",
+        "FRANCIS",
+        "INT NEW PLACE DAY",
+        "MARGARET'S MOTHER",
+        "BOY, (CONT'D)",
+        "BOY, (V.O.)",
+        "EXT NEW PLACE NIGHT 19",
+        "CHORUS",
+        "JUDITH",
+        "PUSH IN ON A PERIOD MAP OF STRATFORD UPON AVON WHICH LAYS",
+        "ELIZABETH",
+        "QUINEY",
+        "HALL",
+        "EDWARD WOOLMER, (CONT'D)",
+        "EXT NEW PLACE DAY 109",
+        "0/S VOICE",
+        "SUSANNA, (V.O.)",
+        "DOUGLAS",
+        "IT...",
+        "JONSON",
+        "JOHN LANE",
+        "HENRY, (CONT'D)",
+        "SIR THOMAS",
+        "EXT HALLS CROFT NIGHT",
+        "JONSON, (CONT'D)",
+        "WILL, (CONT'D)",
+        "QUINEY, (CONT'D)",
+        "EXT NEW PLACE DAY 33",
+        "STRATFORD LANDLADY",
+        "SUSANNA, (CONT'D)",
+        "RAFE SMITH",
+        "EXT RAFE SMITS SHOP NIGHT 60",
+        "INT. THE GREAT HALL NEW PLACE",
+        "EXT NEW PLACE NIGHT",
+        "WILL, (V.0.)",
+        "EXT HALLS CROFT- DAY 31",
+        "HENRY",
+        "SOUTHAMPTON",
+        "EXT. NEW PLACE",
+        "ANNE, (CONT'D)",
+        "BOY",
+        "SCHOOL MASTER",
+        "LANDLADY, (CONT'D)",
+        "SOUTHAMPTON, (CONT'D)",
+        "ACTOR PLAYING AARON",
+        "MARGARET'S FATHER",
+        "SIR THOMAS, (CONT'D)",
+        "EDWARD WOOLMER"
+      ],
+      "dialogues": [
+        {
+          "speaker": "Unknown",
+          "text": "One actor, (The Chorus), is performing the opening Prolog of ALL IS TRUE.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CHORUS",
+          "text": "Be sad, as we would make ye think ye see The very persons of our noble story As they were living; think you see them great, Then in a moment, see, How soon this mightiness meets misery: And, if you can be merry then, I'll say, A man may weep upon his wedding- day. Card: During Act 1 Scene 4 a misjudged stage effect began fire. \fAll Is True - Shooting Script 2. The map. Fire flicks viciously through the drawn image of Globe Theatre. CUT.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An explosive crack of fire . A figure stands silhouetted against the frame-filling flames. Shouts and screams and panic off screen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Low wide shot of a grey, smoking, empty wasteland. A figu stands in the smoldering aftermath of the fire. Close on the figure, who slowly turns to face us. Not the Shakespeare of the famous portrait, but simply the man. A haunted man. CARD. The Globe Theatre burned entirely to the ground. CARD. William Shakespeare never wrote another play.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "PICKED OUT.",
+          "text": "INT. THE SHAKESPEARE’S LIVING ROOM - EVENING 6 Shakespeare’s family, Anne, Susanna, and Judith sit toget",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "He writes the life of a King? And calls it All is True? Your father has some nerve. Susanna defensive of her father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "No doubt the specific events will be true. And the people involved. The rest is anybody’s guess. It might be true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Nothing is ever true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "The word of God is true. Judith raises a contemptuous eyebrow. \f10 All Is True - Shooting Script 3.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Noise. Flaming torches. A group of righteous Puritans are protesting outside the tavern. Amongst their leaders is D John Hall (Susanna’s husband).",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Be not deceived! Neither drunkards, nor fornicators, nor idolaters, nor adulterers, shall inherit the kingdom of God. A messenger rushes up to a puritan who glances at the mes and then shares it with John Hall. Hall Knows he must lea",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A thump of hooves. A horse gallops across the wide lowlan of the garden of England.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "An exhausted Will sits in the partially covered booth of Inn. A frail boy (11) watches him. Will barely notices th child. The boy wears a ragged cloak against the chill, hi face partly hid. The boy sees that Will’s cloak is burned",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "We heard a theatre burned Sir? Which one was it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Mine. Will has scarcely glanced at him.. INT. THE SHAKESPEARE’S LIVING ROOM - DAY 10 John Hall has brought news. The family are shocked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "A fire?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "A furnace. We must prepare ourselves for the worst. It is in God’s hands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Well don’t sound so bloody pleased about it. \f11 All Is True - Shooting Script 4.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will nurses a mug of ale. Eyes far away. Deep in thought. landlady brings bread and cheese. A Romany. Hard bitten b with good reason. Will’s attention is far away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY",
+          "text": "Don’t see a lot of strangers. (beat) Name’s Dotia. It’s my pub. Will ignores her. The Landlady becomes wary.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY, (CONT'D)",
+          "text": "And who might you be?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "(startled) Who am I? He looks away again. Almost to himself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Who am I? (far away) I... I have worked in the theatre. This exchange has confirmed her suspicions.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY",
+          "text": "Right then. I’1l have the reckoning before you eat if it’s all the same to you. A look from Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY, (CONT'D)",
+          "text": "I seen you strolling player types before.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "And?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY",
+          "text": "An’ you ain’t exactly gen’lemen.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I am exactly a gentleman and Non sanz droict. (the landlady doesn’t understand) “Not without right”. You might see it on my Coat of Arms. He reaches into his bag and pulls out a heavy bag of coin He tosses a gold coin down. The landlady’s eyes widen. \f12 All Is True - Shooting Script 5.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Gentleman enough for you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will preoccupied still. About to leave. The Boy is there, ignored by Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "You're Shakespeare. The poet. You tell stories.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I used to.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "I had a story. But it was never finished. Will is fastening his cloak against the chill. Irritated this nonsense.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY, (CONT'D)",
+          "text": "Will you finish it for me? Please? Will is becoming impatient for his horse. Looks to the ta door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I’m done with stories lad. And I wouldn't know how to finish yours.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY, (V.O.)",
+          "text": "Yes you would. Of course you would. Light thickens in the silent dusk. Will ignores the child stares at the road ahead, as he waits, fearful, wondering After a moment, he looks back around. The boy has gone. T Landlady comes to the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Where’s the Boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY",
+          "text": "What Boy?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "The lad who took my horse?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "LANDLADY",
+          "text": "No boy here. We found your horse untethered. Will shivers. He looks out at the gloomy light. He looks back at the Landlady who clearly has seen and he nothing. \f13 14 15 16 17 All Is True - Shooting Script 6.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Moving closer across the map of the town, which now featu the famous Clopton Bridge.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Puritans still protest the tavern. Will walks past. The tavern protest continues. A man emerges from the Tave John Lane, a surly drunkard. He glances furiously at the Puritans and spits on the ground. They stare menacingly b",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "Will outside his house. He pauses at the front door to lo at the Coat of Arms that hangs above it. He seems to take strength from this. INT. THE SHAKESPEARE’S KITCHEN - NIGHT 16 Will has returned and at table with the family. Will is silent, shaken. It is uneasy reunion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I rejoice to see you safe Father in Law. We all do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I thank you for it John.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "God burned your theatre but spared you. Thus is he both wise and merciful. Perhaps this is offered as comfort but it doesn’t give an Will looks at John for a moment then stares once more int the fire. Remembering. Thinking. Anne breaks the silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "And when Will you return to London? Will looks at her blankly. The significance of this sinks slowly in for his family.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HALLS CROFT NIGHT 17",
+          "text": "The upstairs windows lit by candle. \f18 19 20 21 All Is True - Shooting Script 7. INT. HALL’S CROFT BEDCHAMBER- NIGHT 18 Susanna and John Hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I always thought he’d end his life in London. Its where he lived.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "It doesn’t matter where he lived, or where he dies, all that matters is who will be his heir.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I am his heir. And our daughter Elizabeth after me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Not if your sister gives hima grandson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Or we do. There is coldness and disappointment as they meet each other’s eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT NEW PLACE NIGHT 19",
+          "text": "Candles at two separate windows upstairs. INT. JUDITH’S BED CHAMBER - NIGHT 20 Judith lies alone, her face is blank. But there are tears her cheeks. She seems to cry without emotion. Damaged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anne is in the room. Will at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Good night Husband. Anne begins to close the door on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "Twenty years Will. We’ve seen you less and less. Will accepts the admonishment in silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "To us you are a guest. And a guest must have the best bed. Rest well. \f22 23 24 All Is True - Shooting Script 8. Will is saddened but can only retreat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A contemplative Will takes in the familiar countryside as walks. Children are playing. He takes pleasure in their play. Two young women approach.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG WOMAN",
+          "text": "Mr. Shakespeare? Is it true what they say? That you are he? The great poet?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Poet certainly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "YOUNG WOMAN",
+          "text": "Such an honour. Still traumatized, he takes pleasure at this attention. I in stark contrast to his reception at home.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will is walking along the once familiar street. He feels a stranger but one who has earned his right to be there. wears fine clothes and takes pride that people greet him. a figure of respect. “Mr. Shakespeare.” “An honour sir” “ heard you had come to live amongst us once more, such excitement”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will stands by a name plaque outside Stratford Grammar. H mind is filled with memories. He listens at a window. He hears a class of teenage boys being instructed by their teacher. He hears a stern voice call out “William Shakespeare!” It was just a memory. The voice that called Will was the current master come out to greet him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCHOOL MASTER",
+          "text": "Mr. Shakespeare isn’t it? I saw you looking in. Please, perhaps a few words of inspiration for the boys?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I... forgive me.. I think not. Will turns away but then he turns back. \f25 26 27 All Is True - Shooting Script",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Tell them... Tell them to get money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCHOOL MASTER",
+          "text": "Money sir?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Money. Money and property.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SCHOOL MASTER",
+          "text": "No words of wisdom? Philosophy? Food for the soul? Will considers this for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Money.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "INT. THE SHAKESPEARE’S KITCHEN - EVENING",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I thought perhaps, I would make a garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "We've got a garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Not a kitchen Garden. Or a flower garden. But a special one. For Hamnet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Hamnet’s in Paradise. He doesn’t need a garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Perhaps I do. Anne shrugs as if to say “do as you please”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HALLS CROFT NIGHT",
+          "text": "Through the windows we see the Hall family at 25 The second best house in the town sits quietly in the 26 Dinner. Anne, Judith and Will. They eat in silence for so time. Eventually Will breaks it. 27 supper. \f28 29 30 All Is True - Shooting Script 10. INT. HALL’S CROFT - NIGHT 28 Susanna, John and Elizabeth Hall. Also in silence. Susann throws a discreet smile at little Elizabeth to momentaril break the grimness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Your father’s mind is on his legacy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Your mind is on his legacy. John does not like her tone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "And therefore must be yours. For I am your husband and what concerns me concerns you. John Hall gives Susanna a long and significant look.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT NEW PLACE GARDEN DAY 29",
+          "text": "Will, like a stranger in a strange land, walks through th existing plants and flowers, scouting for his new plan. H very engaged.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will digging. Enjoying the air. The buzzing insects. The little birds that try to steal his seeds. Anne brings him water. Will leans upon his spade, puffed",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Digging up roots. Heavy work.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "You'll find that. Will drinks long and deep. A thought amuses him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I once uprooted an entire Wood and moved it across a stage to Dunsinane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Bit different in the real world. A beat as their familiar akwardness settles.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He showed such promise Anne. \f31 32 All Is True - Shooting Script 11.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "You scarcely knew him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I knew him. Through his poems.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "You say poems.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes poems. Childish scribbles perhaps, but wit and mischief in every line.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Well. (beat) He’1l write no more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "No. And nor shall I. She looks at him. Turns and walks away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "It’s not Hamnet you mourn. It’s yourself.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I mourn my son! She keeps walking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Now. You mourn him now. At the time you wrote The Merry Wives of Windsor. He tries to return to his digging but gives it up. He lay aside his spade and heads into the lane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HALLS CROFT- DAY 31",
+          "text": "Will is at the door of Susanna’s house. He knocks and Sus answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will is walking with Susanna. Elizabeth runs about playin",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Its an adjustment. She must learn to be a wife once more. They walk on. Birds twitter. Elizabeth laughs and skips. \f33 34 All Is True - Shooting Script 12.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (CONT'D)",
+          "text": "My husband thinks you’ve come home to die.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Really? I’ve just bought a pension. I can’t die for at least ten years or I’ll be ruined. A small moment of levity between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "So why are you come home? No more stories left to write?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Susanna, I have lived so long in imaginary worlds that I believe I've lost sight of what is real, of what is true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Judith says nothing is true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Judith is 28 and a spinster. That is true. Will walks on. Susanna calls after him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Will you write no more Father? Will either doesn’t hear or simply doesn’t answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT NEW PLACE DAY 33",
+          "text": "The work in the garden goes on. Will still clearing and rearranging the existing plants. INT. THE SHAKESPEARE’S KITCHEN - DAY 34 Anne and Judith are preparing food together. Will is seen them both in the garden beyond.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "When Father dies I will be destitute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "No child. A third of his fortune comes to me, while I live.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "While you live. You’re older than him, remember. \fAll Is True - Shooting Script 13.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Susanna will never see you want.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Susanna will obey her husband. I will get nothing. Which is what I deserve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith. If you won’t forgive yourself. How can you expect God to?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I don’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will and Susanna have arrived at a glade with a body of water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I ran here on the day I was sacked from the school.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I know Father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "When I was the son of an Alderman I had a free education. But the son of a thief? I thought my world had ended. Will looks about him. Remembering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I loved this place. You children loved it too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Yes, we came here every day. Although Hamnet never went in the water. He wasn’t bold like Judith. Or even me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "But his mind was bold. (memories) Once he brought me here, to show me what he’d written. I told him then that I was the proudest father in the Kingdom. I still am. Will turns away. Susanna so sad for him. \f36 37 38 39 All Is True - Shooting Script 14.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "Big broad sweeping vista from the garden. The leaves in t Green Wood are turning. Time is passing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will works on his garden. Now digging, cutting turf, Gardening is hard. Anne emerges.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Husband! Its Sunday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Sunday?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "This isn’t London. If you miss church here they fine you. INT. THE SHAKESPEARE’S LIVING ROOM — MORNING 38 Susanna and John and Elizabeth have arrived in their Sund best. Judith and Anne also. Will comes down buttoning his smart doublet trying to be the happy family man.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Well well! Here we all are. How sweet you look Elizabeth. Shall we be off?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I must needs first answer nature’s call.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Nature seems to like your company. It calls every five minutes. Hall scowls and leaves, unbuttoning his cod piece as he g he’s in a hurry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "The family are leaving the house for Church. Will pauses outside the front door, picking up little Elizabeth he sh her the Coat of Arms above the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "What’s that Little Lizzie? The little girl is proud to know the answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELIZABETH",
+          "text": "Our Coat of Arms Grandfather. \f40 4l All Is True - Shooting Script 15.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "That's right. Which hangs upon the second best house in Stratford. The house of a gentleman. The woman are unimpressed but Will takes great satisfacti and casts another look at the shield before leading the family to church.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "THE MAP OF STRATFORD 40",
+          "text": "Featuring the picturesque church of Holy Trinity. INT. HOLY TRINITY CHURCH —- MORNING 4l The congregation are at Sunday Service. The Shakespeare’s enter. Many townsfolk tip their hats to an important fami Will is pleased to accept their greetings. They take their places in the second row. In the far more impressive side box are the Lucy family, the grandest fam of them all. Sir Thomas Lucy nods curtly at Will. Will fe this slight.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Ah Shakespeare! Another Sunday and still you occupy your family pew. I pray that you are never obliged to vacate it. As your Father was. This cuts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I am not my Father Sir Thomas. The congregation continues to assemble. Rafe Smith, a haberdasher enters. Susanna catches his eye and there is brief moment of connection. Will notices this. John Hall also notices it too. He whispers to Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I am happy that you have friends in the town Susanna. But kindly be discreet about it. Susanna reddens, there is a secret here. A group of giggling girls surround a handsome man, Tom Quiney. Quiney sees Judith and gives her a broad smile. S does not return it. The girls sneer, they don’t like Judi The Puritans don’t like Tom Quiney. The little congregati is a labyrinth of small town conflicts and alliances. We sense a story in every face, only some of them will we follow. The Vicar, Edward Woolmer enters. Music begins. \f42 43 All Is True - Shooting Script 16.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will works in his garden. He makes slow but steady progre Now cutting shapes and tracks in the earth with knife and trowel. Messy and content. John Hall approaches.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I joy to see you dig Sir. At last given up on your plays to distract the mob from our Lord. Will considers this for a moment. A lark sings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Does the Lark song distract you from your God John?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Of course not. It is evidence of God.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Well then. Perhaps for some, I was a Lark? Will offers this with gentle twinkle. John Hall is slight floored, he is about to attempt an answer but realizes he hasn't really got one. He gathers his dignity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I came to ask a favour Father in Law. But I am loath to distract a man from his labours. Will you call when you are done with your garden? Will nods. John departs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "People go about their business. Susanna walks to the tave She is greeted with respect as a wealthy doctors wife. Ha are tipped. Susanna passes Tom Quiney’s Wine and Tobacco shop. Quiney calls out cheerfully.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "Good day to you Mrs. Hall. Tell your sister I have a fine Rhenish Wine delivered. She may have a bottle gratis for a single smile. Susanna puts her nose in the air with disdain and walks o \f44 45 46 47 48 All Is True - Shooting Script 17.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Tavern is also a Post House. Susanna enters and approaches the Landlady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STRATFORD LANDLADY",
+          "text": "Package for you Mrs Hall. Frank! A nervous boy rushes forward but he is clumsy and trips. drops it and inside a bottle is heard to break. As the boy tries to gather up the parcel spots of silver liquid are seen amongst the straw. A man is watching. It is John Lane. He drinks sullenly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE",
+          "text": "Mercury Mrs. Hall?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "My husband is a doctor.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE",
+          "text": "She said the parcel was for you. John Lane looks once more at the mercury and turns back t his drink. Susanna, begins furiously to gather up what is left of her parcel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HALLS CROFT DAY 45",
+          "text": "Will is entering John and Susanna’s house. INT. HALL’S CROFT - DAY 46 John is appealing to Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "The reformation is but half completed Father in Law. The Vicar of Holy Trinity is a recalcitrant. It is intolerable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John Lane sullenly drinks his ale, crosses himself discre and leaves the Tavern. INT. HALL’S CROFT - DAY 48 John Hall and Will continue their conversation. \fAll Is True - Shooting Script 18.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "You are an influential man. If you were to lend your voice to ours. Will considers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Susanna is walking past the shops. She pauses outside a haberdashery, then enters. Rafe Smith (35) is at the coun",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Good day to you Mr. Smith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "Mrs. Hall. There is moment. A connection. A spark exists here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I need cloth. A loose weave. To make a summer dress. Black.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "Black? For summer? Perhaps this blue.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "My husband does not approve of fancy stuff.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "If your husband had his way Mrs. Hall my shop would be a very dull place. All in mourning and nobody dead. Tension crackles between them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Our Saviour wore only simple cloth, and he was divine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "As are you Susanna. In any cloth. Susanna reddens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Mr. Smith. I am a married woman.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "Unhappily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "That is not... I should tell my husband. \fAll Is True - Shooting Script 19.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "Will you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "(beat) He knows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Susanna is emerging from the Haberdashers. John Lane watc Across the street Quiney in his wine shop has also seen. a small town. Everybody knows everybody. Secrets are hard hide.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. NEW PLACE",
+          "text": "The kitchen. Will dines with Anne and Judith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "John Hall wants my help to remove Woolmer as Vicar of Holy Trinity I thought he knew me better.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "He thinks you like him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I’m a good actor. Perhaps Anne takes this in a different way to what Will intended.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I try to like him. For Sue’s sake. But John is a...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Hypocritical shit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "A Puritan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "That’s funny isn’t it? A Puritan, who wants to close all the theatres, will have all of William Shakespeare’s estate - Don’t you think that’s funny? I think it’s funny. Will is taken aback by her gleefully angry tone. \f52 53 54 55 56 All Is True - Shooting Script 20. INT. HALL’S CROFT - EVENING 52 John Hall slumbers by the fire. Susanna rises and quietly makes for the door. EXT. HALL’S CROFT - EVENING 53 It is dark. The front door opens and Susanna slips out. Across the street John Lane has been watching. Susanna glances about furtively but does not see Lane. She scurri off into the night. Lane follows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. NEW PLACE",
+          "text": "There has been a silence. Now Will answers Judith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "For what it’s worth Judith I have no intention of leaving my estate to John Hall.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "No you'll leave it to the sainted Susanna and by law her property is his. As is her body - for all the use he makes of it! Even in her wild mood Judith knows she’s gone too far.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rafe Smith’s Haberdashery. Susanna steals through the sha and up to the door. Smith lets her in. John Lane is watch",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. NEW PLACE",
+          "text": "Will, Judith and Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "You are grown hard Judith. There was a time when you were such a simple, joyful soul.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Was I Father? When was that? Will doesn’t answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (CONT'D)",
+          "text": "Before Hamnet died? Is that it? (beat) Before Hamnet died. And I survived. \f57 58 59 60 All Is True - Shooting Script 21.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith. Don’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "It’s what he thinks. Every time he reads those bloody poems, which aren’t even that good! He thinks why did she survive not him?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "The golden boy is gone and he’s left with the girl. The useless, pointless girl. Oh she was a pretty thing once that girl. A simple joyful soul. But look at her now? Angry bitch. Still hanging around. Why did the wrong twin die. Will doesn’t answer. Because he knows there is some truth what she says. INT. HALL’S CROFT - NIGHT 57 John Hall still sleeps before the fire. Susanna opens the door and creeps back in. As she passes on her way to the stair his eyes open. He wasn’t asleep at all and she knew too. They stare at each other but say nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT NEW PLACE NIGHT 58",
+          "text": "The lonely candles at the windows. A passer by looks up t the great house. INT. ANNES’S BEDROOM - NIGHT 59 Anne prepares for bed. Will appears at the door.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I never gave her cause. I never said an unkind word.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "You've spent so long putting words into other people’s mouths, you think it only matters what is said. She closes the door on him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT RAFE SMITS SHOP NIGHT 60",
+          "text": "The locked up shop. No light. \f61 62 63 64 65 66 67 All Is True - Shooting Script",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Rafe sits alone on his bed, deep in thought. The bed is 22. 61 unmade, the covers rumpled. He gathers them up and breath them in.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT HALLS CROFT NIGHT",
+          "text": "Darkness. Cold. INT. SUSANNA’S CHAMBER - NIGHT Susanna lies in bed. Eyes wide open. She hears pissing. INT. JOHN HALL’S CHAMBER - NIGHT John is pissing in his chamber pot. He is uncomfortable. Unhappily he returns to bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT NEW PLACE NIGHT",
+          "text": "All asleep bar one. INT. THE SHAKESPEARE’S KITCHEN - NIGHT Judith sits alone drinking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Time is passing. Will works on his garden. He is rolling lengths of turf in front of a rich bank of flowers. Now an earnest young student appears at the gate. Henry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Mr. Shakespeare? I don’t want to pester you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Good. Excellent news. Cheerio then.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "It’s just that I wanted to ask...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "The best way to get started as a writer is to start writing. Cheerio.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "No really could I... 62 63 64 65 66 67 \fAll Is True - Shooting Script 23.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I don’t have a favourite play. I admire all my fellow dramatists equally. And yes I do think women should be allowed to perform the female roles as is the practice on the continent. Now please. If you'll excuse me. Will returns to his digging. Defeated, Henry almost leave but doesn’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "I have come all the way from Cambridge to see you. I left my college without leave.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "(wearily) And that was your choice. Henry gets the message. Starts to walk away. Stops and tu One last go.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "I just want to ask - how you knew.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Knew what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Everything.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "My friend I don’t even know how to keep the slugs out of the Hollyhocks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "(impatient) The world is full of gardeners. I mean everything that matters. Will raises an eyebrow at this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY, (CONT'D)",
+          "text": "There is no corner of this world which you have not explored. No geography of the soul you can not navigate. How? How do you know? Finally Will is forced to engage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "What I know. If I know it. And I don’t say that I do. I have - (a moment to consider) Imagined. \fAll Is True - Shooting Script 24.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "But they say you left school at fourteen... You’ve never travelled. Imagined? From what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "From my self!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Your self?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes! Everything I’ve ever done. Everything I’ve ever seen, every book I’ve ever read, and every conversation I have ever had, including, God help me, this one. You will find the whole of me in every word I ever wrote. My thoughts, my feelings, my dreams. If you would be a playwright and speak for others then speak first for yourself. Search within. Consider the contents of your own soul. Your humanity. For that is the business of the theatre. Everything else is just stage directions. Henry is trying to take it all in. Will takes a little pi and tries to sum it up in a more kindly tone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Write what you are, what you know, what you feel and what you can imagine my friend. And if you are honest then whatever you write all is true. Henry wants to reply but can’t think what to say.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Now please. If you can’t save my hollyhocks, leave me to mourn the dead. Will returns to his digging. Henry is confused but also strangely inspired. He knows he should leave but can not resist pushing his luck.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY",
+          "text": "Then why.... Will looks up. Fierce now. The boy’s being rude. Henry returns his stare. \f68 69 All Is True - Shooting Script 25.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HENRY, (CONT'D)",
+          "text": "Why did you stop? Why do you write no more? A beat. Is Will considering an answer? Another beat. If h was he doesn’t give it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Cheerio. Will turns his back. This time it’s final.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Judith approaches Tom Quiney’s wine and tobacco shop. INT. QUINEY’S WINE SHOP - DAY 69 Judith enters. Her usual cold self. But she knows Quiney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Good morning Tom Quiney. A barrel of Huffcap ale and three flagons of Malmesey wine to be delivered to New Place if you would. On our account. Tom is a cheerful, flirtatious fellow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "Your usual order and my usual reply. Marry me Judith. I would help bring back your smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Yes and every other maid in the county’s. You chase them all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "But I only ever propose to one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I'd think you'd tire of it. Quiney’s cheerful mask slips a little.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "I remember a girl. The prettiest and happiest in town. And I remember her laugh and I remember kiss chase. I'd like to see the woman that girl should have become. Because it surely isn’t you. \f70 71 All Is True - Shooting Script 26.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Time for a break. Will sits amongst his gardening tools. has his satchel of Hamnet’s verse and is reading. Some li which catches his eye. It makes him smile, almost laugh.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Oh my son. My pretty chicken. My golden lad. Anne emerges.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "It’s Sunday. Will carefully puts his precious pages away. INT. HOLY TRINITY CHURCH —- MORNING 71 The congregation are at Sunday Service. The Lucy family arrive. Will attempts to greet them as equals, but again Thomas merely nods curtly at the Shakespeare's. Will pain and embarrassed. Rafe Smith enters. For a moment he catches Susanna’s eye. they share a secret. Will notices this and turns to look at Hall who is also staring at Rafe Smith. The dissolute John Lane is at the back. Tense. Sweating, perhaps discreetly drinking. He stares at Susanna and the Rafe Smith. Building up to something. The Vicar Edward Woolmer begins the service. Quiney bustles in late with a pretty girl, Margaret Wheel following. Both a little disheveled. Now the service is almost over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "Our reading today was from the first chapter of Corinthians “I beseech ye bretheren, in the name of Jesus, that there be no divisions among you” (beat) There is division in our town. The Puritans protest against the old ways. The feastings, the merriment and customs long practised. Some of you resent this I know but I charge you remember Corinthians! These good Christians act from honest faith. They are upright citizens, decent and pious.... \fAll Is True - Shooting Script 27. Suddenly John Lane jumps up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE",
+          "text": "Are they Mr. Woolmer! Are they? Or are they fornicators! General shock",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE, (CONT'D)",
+          "text": "There is wickedness in this church Mr. Woolmer! Puritan wickedness. He points at Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE, (CONT'D)",
+          "text": "I have seen Susanna Hall creep from her husband’s house to Rafe Smith’s chamber in the night! Card: In the summer of 1613 John Lane, yeoman of Stratfor publicly accused Shakespeare’s elder daughter Susanna of infidelity with Rafe Smith the Haberdasher. Susanna mortified. Will stunned. The congregation in upro etc. John Hall leaps to his feet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "This slander will be answered!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE",
+          "text": "This slander will be proved! You'll no more tell us how best to save our souls Doctor Hall. Not while your Puritan wives fornicate worse than whores and then send to London for Mercury to physic what they got of it! Card: John Lane compounded his charge by stating that Sus had contracted Gonorrhea. The tumult grows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "Silence! This is a house of God! And I am master here! Edward Woolmer the Vicar glares at John Hall. Sensing a dangerous rival. Will is red faced with anger and shame. He catches the patronizing look of Sir Thomas Lucy, half censure, half p As the congregation bustle out, all talking of the scanda Sir Thomas Lucy pauses over Will. \f74 All Is True - Shooting Script 28.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Well well Sir. You Shakespeare's are never far from a scandal are you? Will is mortified. Sir Thomas glances at Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS, (CONT'D)",
+          "text": "I suppose she gets it from her Grandfather. Fixed the price of Wool didn’t he? Bad business. And illegal money lending to boot! Goodness! He was a busy fellow. No wonder they chucked him off the council. Will who is pretty dumb struck. Anne however hit’s back.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Every family has it’s dark Horse, Sir Thomas, Even the Lucy’s. Or perhaps it is another Thomas Lucy who's niece ran off with a serving man in 1600? Sir Thomas, moves on in fury. INT. THE SHAKESPEARE’S LIVING ROOM - EVENING 74 The family assemble. All sit in shocked silence. Will ent",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I have instructed my lawyers. We shall sue him for slander.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "A public trial?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "It is a public slander.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "John Lane is a dangerous man. We can be sure he did not stage his attack without some idea of how to prove it. Beat. Will turns to Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Prove it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "How can you ask?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Because your husband fears he can. \f75 76 All Is True - Shooting Script 29. John Hall is thrown by this. He had not expected Will to place such an astute interpretation on his remark.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I mean that I fear he has constructed a convincing lie. Judith seems almost to revel in Susanna’s discomfort.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Well now. What a disaster. And that it should befall such a fine and blameless family as ours. Will is determined.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "The Shakespeare’s will not be ruined twice.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Susanna hurries along. All eyes turn on her. Very differe from the respect she’s used to. The town seems to be turn against her, reveling in her shame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A packed court full of gawping towns folk. The Shakespear family enter. Some snigger, some snarl. The Puritan eleme are tight lipped between shame and righteous anger. CARD: The trial of John Lane for the slander of Susanna Shakespeare was convened at The Consistory Court, Worcest",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Bring forward the accused. A Clerk stands.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Call John Lane. There is a pause. The Judge is impatient. An officer ente",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICER",
+          "text": "John Lane is not here you Honour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Not here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "OFFICER",
+          "text": "He has disappeared. \fAll Is True - Shooting Script 30.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDGE",
+          "text": "Susanna Shakespeare has been most foully used. The crowd erupts. CARD: John Lane failed to attend his trial. The case bein uncontested, he was convicted of slander, and excommunica 77 INT. THE SHAKESPEARE’S LIVING ROOM —- EVENING 77 Anne and Will sit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Why? Why did this man slander our Sue?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "My guess is to damage her husband. John Hall is a Puritan, and would make Holy Trinity and all the town likewise. John Lane on the other hand likes his cakes and ale.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Then why did he not attend the court and press his case? Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I discussed the matter with him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Discussed? Discussed what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I asked him if he’d ever seen Titus Andronicus.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Flashback. Will has met John Lane.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE",
+          "text": "What do I know of plays? Get away from me. I shall see you and your whore daughter in Court.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "It concerns a Moorish villain named Aaron. And the African who played him was magnificent and terrifying. \f79 80 All Is True - Shooting Script 31.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A performance of Titus. Intimidating passion and violence",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ACTOR PLAYING AARON",
+          "text": "To kill a man, or else devise his death, Ravish a maid, or plot the way to do it. Accuse some innocent and forswear myself, Set deadly enmity between two friends, Make poor men's cattle break their necks; Set fire on barns and hay-stacks in the night, And bid the owners quench them with their tears. Oft have I digg'd up dead men from their graves, And set them upright at their dear friends' doors, Tut, I have done a thousand dreadful things As willingly as one would kill a fly, And nothing grieves me heartily indeed But that I cannot do ten thousand more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Flashback. Will still talks with John Lane who is pretty scared.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Mighty like a lion. Strong as a bear. I saw this man tear the heart from a fool who wronged him and eat it raw! Lane is fearful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And yet - he could be tender too. And one day his wild heart was tamed. He loved my daughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN LANE",
+          "text": "Susanna?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Ay. Susanna. Their love could never be of course. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f81 82 All Is True - Shooting Script 32.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "But he swore that if ever she had need, his sword, his claws and his teeth would either defend her or kill for her. Should I tell him of Susanna’s current distress? John Lane is suitably nervous. INT. THE SHAKESPEARE’S LIVING ROOM - NIGHT 81 Will and Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Will. I saw Titus. Aaron was played by the sweetest chap you could hope to meet. I talked to him for an hour afterwards at the George Inn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes, He was a lovely fellow Wife, but John Lane doesn’t know that, and I’ve never let the truth get in the way of a good story. A moment of levity. Anne for the first time a little less cold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "All men fear what they do not know Anne and I’1l wager John Lane has never laid eyes on an African. Anne once more reflective.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Do you think there was any truth in it? In what Lane said? About Susanna?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Well. There is coldness between them. We’ve seen that. Something they both recognize in themselves. INT. HALL’S CROFT - EVENING 82 Susanna and John Hall sit in grim silence. She stitches, reads the Bible. Will’s voice-over comments on the scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (V.O.)",
+          "text": "‘Tis five years since she and John have had a child. John rises. \f83 84 85 86 87 All Is True - Shooting Script 33.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I’m going to bed. Good night. He leaves. Susanna sad and alone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (V.O.)",
+          "text": "And Susanna certainly knows this Rafe Smith.... INT. RAFE SMITH’S SHOP - MORNING 83 A past moment. Susanna is buying material. Rafe holds som cloth against her body as if to say “look, this would sui you”. It is physical, fun, she blushes coyly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Another past moment. Susanna is hurrying from the tavern the broken package of Mercury.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (V.O.)",
+          "text": "She did send to London for Mercury. Mercury is a cure for Pox. A drop or two more falls to the street as she hurries alo Susanna is nervous and embarrassed. INT. THE SHAKESPEARE’S KITCHEN - EVENING 85 Will and Anne together.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Sue is not poxed Will. I’d know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He then?....a poxed man is ever pissing. INT. THE SHAKESPEARE’S LIVING ROOM - MORNING 86 Flashback to the Sunday morning they went to church when said he must answer nature’s call. Susanna has just made comment about nature liking Hall’s company.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "HALL",
+          "text": "Have you some objection to my visiting the privy? INT. HALL’S CROFT - NIGHT 87 John Hall in his bed chamber, sweating and in pain. He ta a little bottle and swigs at it. \fAll Is True - Shooting Script 34. 88 INT. THE SHAKESPEARE’S LIVING ROOM - EVENING 88 Back with Will and Anne’s conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Is that why she bares no more children? Did she seek comfort elsewhere?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Susanna stealing into Smith’s house. 90 INT. SMITH’S BED - NIGHT 90 Smith and Susanna are making passionate love.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "The Devil will take both our souls for this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "RAFE SMITH",
+          "text": "But we go there by way of Heaven. 91 INT. THE SHAKESPEARE’S KITCHEN - EVENING 91 Will and Anne still talking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Susanna is a God fearing woman. She would not betray her husband. Judith appears at the door. She’s been listening.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Maybe it wasn’t a betrayal?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Judith?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Maybe he told her to do it. 92 INT. HALL’S CROFT - EVENING 92 Susanna and John Hall sit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "It will be either your womb or your sister’s which secures your father’s fortune. John stares at her. Then returns to reading his Bible. \f93 94 95 All Is True - Shooting Script 35. INT. THE SHAKESPEARE’S LIVING ROOM - DAY 93 Judith confronting a shocked Anne and Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Well it’s a thought isn’t it? And frankly Father, if you got a grandson by it. Would you care if it were true? Will decides not to answer this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I care that Susanna is free from slander. That you may be sure is true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Nothing is ever true.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Once more Will walks with Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "You think my husband is trying to whore me to get a bigger house? Will a bit flummoxed. Susanna is not usually so forthrigh",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (CONT'D)",
+          "text": "We should not seek to lift the veil on other peoples marriages Father. All are complex. To understand one, you have to live it. (beat) And you’re hardly an expert there. Susanna walks on. Will can only follow, chastened.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A change of season. Time is passing. Will works in his garden. Some progress has been made on design. Some curves, and turns in the rails of turf, but hard. He is hot. He is very tired. The heat of the sun starts to play tricks with his eyes as he shades them fro the glare. As he works a boy leans on the fence. It is th boy from the tavern, he masks his eyes against the Sun, h face once more in shadow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Got any berries? \fAll Is True - Shooting Script 36.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Eventually. I have planted a mulberry tree.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Well then, you’ve got time to finish my story while we wait. The boy has removed his hands. For the first time his fac clear. Will’s eyes focus through the haze. Is it his son?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Hamnet? Is it you? The boy seems half lost in the haze.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "I wrote you another poem today. Would you like to hear it?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I want nothing more in this world. The boys cheerfulness suddenly gives way to rising anger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "Well you'll have to wait won’t you! Like I waited. I had a poem before for you but you never came! The sickness came instead and still you didn’t come though Mother promised you would! Now the boy emerges from the haze but in a horrifying vis transformation he becomes a plague victim. Great sores on face. Will recoils in horror as the boy confronts him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY, (CONT'D)",
+          "text": "I had a poem for you! You never came. Will recoils in horror as the boy confronts him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Hamnet! Anne’s voice intrudes upon the vision.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Will? Will spins around to her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "You're shouting.... He turns back, there is no boy. There was no boy. \f96 97 All Is True - Shooting Script 37.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He was here Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "He'll always be here Will. Now we see that from an upper window Judith has been watc the scene. Again there are tears on her cheeks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT STRATFORD COUNTRYSIDE TWILIGHT 96",
+          "text": "The gorgeous meadow in the last rays. INT. THE SHAKESPEARE’S KITCHEN - EVENING 97 Will dines with Anne and Judith. The mood is sombre.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "In London now the plays are just finished. Will is doing his best.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Taverns full.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "If you’re missing London. Why don’t you go back there? This is getting hard for Will. He is prepared to eat humb pie but this is relentless.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Do you wish I would Daughter?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "It doesn’t matter what I wish but what you wish. And it isn’t to be with us.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "You’ve come back to mourn Hamnet! To mourn your blessed departed son and dig a bloody garden for him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "That’s enough Judith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "We mourned him Father! We mourned him when he died. And we mourned him thereafter. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f98 All Is True - Shooting Script 38.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (CONT'D)",
+          "text": "Now it seems we must begin again as if his grave was freshly dug because suddenly you've found time to mourn him too!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Hold your tongue! Respect your Father even if you can’t respect yourself. That was a hard blow. Judith is in many ways a sorry sigh Careless of her appearance. Often with a glass in her han",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "If you are done with mourning him at least honour his memory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "How can you say I don’t?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Then start living up to it! If you can not match his talent, try to match his goodness and his diligence. You are wasting your life! Judith stares at her father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I know what you think’s the purpose of a woman’s life. I know what you want from me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Seasons change. In the montage, we see a quiet Will getti on with building this garden as best he can. Thoughtful, if all that Judith has said sits with him. Preoccupies hi Occasionally he looks about him. For signs of the boy. Th are none. Buds blossom. Leafs fall. Will is measuring parts of the garden using twine and whe He is assisted by a serving girl, Maria. Will counts off yards.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "23, 24, 25....",
+          "text": "Maria is inclined to chat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Bit of a change from making plays in London. Will leans on his stick, happy for a break. He likes her. considers her point. \fAll Is True - Shooting Script 38A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "In some ways yes Maria. In others. Rather similar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Similar? I don’t see how. A light of enthusiasm begins to shine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Well, today we take the measure of our stage.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "A garden ain't a play. Will enjoying himself. A relief from the grim family mood",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "A play, a garden, a fresh baked loaf like the ones you bake each morning. All begin with an idea. A compulsion to create a thing of beauty, or need.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Bread begins with yeast and flour.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Exactly! Now you're getting it! Ingredients! Brambles, bushes. Yeast, flour. Verses, players. They're nothing without a dream! Which will not be denied and which endures in spite of all adversity. The weather will turn, the bugs will infest. The oven will cool and the flour will mould. Your fellow worker - in my case, a brilliant lunatic actor called Dick Burbage - will interfere and demand a bigger show for a smaller budget, anda shorter play with a much longer part for himself. And all of these trials must be countered and overcome without ever loosing sight of the dream itself!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "And what does it feel like when all of that works?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "How does fresh baked bread smell?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARIA",
+          "text": "Wonderful. \fAll Is True - Shooting Script 38B. He smiles at her as if to say ‘exactly!’. That’s his poin Maria is smiling too at his half comical passion.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "Will is hurrying up the garden path. Excited, he has a le in his hand. 100 INT. THE SHAKESPEARE’S KITCHEN - MORNING 100 Will rushes in. Anne is cooking.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Anne! Anne. Anne. The Earl of Southampton makes a progress North. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAnne does All Is True - Shooting Script 39.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "He writes that since he passes this way he will spend an hour or two in talk with me. not share Will’s excitement.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Did you hear me wife? The Earl of Southampton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "I heard you. And I recall the day I first heard about your friend the Earl of Southampton.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Wife?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Same day I heard there’d been a book of poems published. Sonnets they told me. Will is completely thrown. He was not expecting this. Will ata",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "Perhaps you thought because I couldn’t read them I wouldn’t mind. But plenty of people can read. Even in our little town. Including one of your own daughters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Anne - Those sonnets were published illegally. Without my knowledge or consent.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "But you wrote ‘em Will. And people read ‘em. And after they’d read them they started asking “Who are they then?” “Who’s this dark lady he’s so in love with?”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "They were just poems...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "And the Beautiful boy Will? The Fair youth? loss.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "Don’t answer. I didn’t want to know then and I don’t want to know now. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f107 All Is True - Shooting Script 40.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "But I do know who some people said he was. And now it seems he’s to come to my house a’calling. Will pretty shame faced.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "All these years you’ve worried about your reputation Will. Have you even once considered mine?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "Will and family at their gate. All in their best awaiting great visitor. Will is very excited.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I will introduce you but do not address him unless he addresses you. On my nod must you all depart and leave us to our talk.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "He’s just a man Father.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He is an Earl Susanna. (to Elizabeth) Do you hear that Lizzie, your Grandpa is to drink wine with an Earl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ELIZABETH",
+          "text": "Because you are a gentleman! The little girl points excitedly at the Coat of Arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes! Because I am a gentleman! Sir Thomas Lucy, his wife and servant approach on foot, a in their Sunday best.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Ah Shakespeare. I heard word of your distinguished visitor. My men tell me that he is even now approaching the town. Of course you will introduce me. Will taken aback. He hadn’t expected this. Anne assumes h will tell Lucy to mind his own business, but Will buckles superior rank and says nothing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS, (CONT'D)",
+          "text": "I shall suggest he comes on to Charlecote to take his ease. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAll Is True - Shooting Script 41.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS, (CONT'D)",
+          "text": "Bit more what he’s used to. Naturally I shall ask that you join us... (glancing at Anne) Just you I think. We shouldn’t wish to tire his Grace. Clattering horses are heard.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Welcome to Stratford Upon Avon Your Grace. The very impressive Earl of Southampton eyes Lucy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "And you are?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Sir Thomas Lucy of Charlecote Manor your Grace and Member of Parliament for this district. May I have the honour of introducing my wife....",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Have we business?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Well I...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Is there some petition which you are come to present?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Oh no Your Grace I thought only to invite you to...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Then kindly remove yourself, Sir Thomas. I want none of your company. I am here to visit the greatest man in the kingdom. After His Majesty of course. Southampton turns to Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON, (CONT'D)",
+          "text": "Will! \fAll Is True - Shooting Script 42.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. THE GREAT HALL NEW PLACE",
+          "text": "Will and Southampton talking by the fire.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Damn impudence. A grubby little Member of Parliment. They'll sell a knighthood to anybody these days.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He has snubbed me many times.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "But why do you let him snub you Will? What is he? The son of a son. Nothing more. All his pride and strut comes from no greater achievement than having been spat from the dick of a previous nonentity. I’m the same.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "No! (N.B Wriothesley pronounced ‘Wrizzly”, as in grizzly.)",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "I’m the son of a son Will. Henry Wriothesley son of Henry Wriothesley and if I were not the son of Henry Wriothesley then your Thomas Lucy, son of Thomas Lucy would not grace me with a sneer. You on the other hand are...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "The son of a thief.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "The son of Apollo! God of poetry! God of truth! The finest, the most complete and the most beautiful mind I'll warrant that ever existed in this world. Will is of course delighted and deeply moved. Southampton stares at him for a few moments.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON, (CONT'D)",
+          "text": "So why are you so small Will?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Small?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Why are you are such a little man? \fAll Is True - Shooting Script 42a.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Your Grace? \fAll Is True - Shooting Script 43.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "You can enchant the multitude with the scratch of your quill. Yet you cringe before a cur like Sir Thomas Lucy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Cringe?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Your talent has a greater scope than all the other poets combined and yet you’ve led the smallest life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I don’t think I’ve led a small life your Grace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Oh come now Will! Compared to Kyd? Or Marlowe! What a man. What a life! Spy! Adventurer! Fucked for England! Boys. Girls. Boys and girls. He knew how to live.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He is dead of course, My Lord. So, you know, win some lose some.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "They are all dead Will. Marlowe, Greene...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Who called me upstart...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": ".+..Crow! You see! Still you care. Still it rankles. Kyd, Nashe, Spenser, Oxford. All dead. Booze and passion, sex and violence killed ‘em all. Life killed them. And you? You survived.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes. I survived.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "With your nice house...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Several houses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "And your Coat of Arms. How much did that cost you Will? \fAll Is True - Shooting Script 43A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Twenty pounds. \fAll Is True - Shooting Script 44.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Twenty pounds. The man who wrote Hamlet and Henry the fifth, Macbeth and Romeo and Juliet paid twenty pounds for the name of gentlemen. Oh Will. Will. Why do you care? Will pours more wine and thinks about his answer.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "My father was once fined for not attending Church. Can you guess why he didn’t go?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Priest too Protestant? I’ve heard it rumoured there’s a whiff of Papery about you Shakespeare’s.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Nothing so spiritual. He could not attend church because he owed money to most of the congregation. A beat. Then Southampton roars with laughter.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "I think I’d have liked your Dad!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes. People did. They drink in silence for a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "You must write again Will. London needs you. We have only Jonson now.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Who laughs at me because I speak no Greek and don’t care wether Bohemia has a coast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Christ Will why do you care what he thinks! You wrote King Lear.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I care because it matters Your Grace! In England it matters. I have what I have upon my own merit and for that I am suspect! Perhaps I will always be suspect. But I have my money and I have my houses and I have my Coat of Arms. \fAll Is True - Shooting Script 45.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "You have your verse! Great Christ man you have your poetry. Such poetry. Such beautiful, beautiful poetry.... Southampton’s eyes grow a little misty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON, (CONT'D)",
+          "text": "And some of it. Some of it was writ for me. A long beat, they stare at each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes your Grace. For you. Another beat. There is love here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "I have grown old. As you said in your sonnets that I would, you bastard. But the beauty I inspired in you will be forever young. And a thousand years from now when people read those lines, I shall be young. Alive still in the minds of lovers yet unborn.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "They were only meant for you Your Grace. Not for any other living soul nor any yet to live. Just you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "It was only flattery of course. Flattery that was my due.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes. Just flattery. Except. I spoke from deep within my heart. They stare deep at one another.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Well. I was younger then. Younger and prettier.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Beautiful your Grace. As you will ever be. When, in disgrace with fortune and men’s eyes, I all alone beweep my outcast state, And trouble deaf heaven with my bootless cries, (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAll Is True - Shooting Script",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And look upon myself and curse my fate, Wishing me like to one more rich in hope, Featured like him, like him with friends possessed, Desiring this man’s art and that man’s scope, With what I most enjoy contented least; Yet in these thoughts myself almost despising, Haply I think on thee, and then my state, (Like to the lark at break of day arising From sullen earth) sings hymns at heaven’s gate; For thy sweet love remembered such wealth brings That then I scorn to change my state with kings.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Yes, well. As I say. Just flattery.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Not flattery. Truth. And I always dared to hope...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Hope Will?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "That, perhaps in some small way it was reciprocated. A tiny change of atmosphere. Will doesn’t pick it up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "Reciprocated?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "That perhaps you also... Suddenly Southampton’s face is cold.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "You forget yourself Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON",
+          "text": "As a poet you have no equal. And I, like anyone with brain and heart am your humble servant. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f109 All Is True - Shooting Script 47.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON, (CONT'D)",
+          "text": "But as a man Will it is not your place to love me and hanging a twenty pound shield above your door will never make it so. Will is crushed. Southampton’s good humour returns, he sl Will on the back and drains his glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON, (CONT'D)",
+          "text": "I must be off. Goodbye Will Shakespeare. It was the poet I came to visit and it is the poet of whom I take my leave. Southampton stands, Will gets to his feet of course, but is sad, unable to make a merry parting. Southampton smile friendly, conciliatory smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SOUTHAMPTON, (CONT'D)",
+          "text": "When, in disgrace with fortune and men’s eyes, I all alone beweep my outcast state, And trouble deaf heaven with my bootless cries, And look upon myself and curse my fate, Wishing me like to one more rich in hope, Featured like him, like him with friends possessed, Desiring this man’s art and that man’s scope, With what I most enjoy contented least; Yet in these thoughts myself almost despising, Haply I think on thee, and then my state, (Like to the lark at break of day arising From sullen earth) sings hymns at heaven’s gate; For thy sweet love remembered such wealth brings That then I scorn to change my state with kings",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT NEW PLACE DAY 109",
+          "text": "The Southampton party leaves. His Grace does not look bac Will stands very still watching the procession go. The re of the family start to move back into the house. Anne sta there too, a little apart. There is nothing to say. \f110 111 112 All Is True - Shooting Script 48.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Judith approaching Tom Quiney’s wine and tobacco shop. INT. QUINEY’S WINE SHOP - MORNING 111 Judith enters. Quiney as ever jolly and boisterous.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "A glass Miss Shakespeare? To toast this sunny morning?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I need no excuse for a glass of wine Mr. Quiney. Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "There is another pleasure, equally heady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "And plenty of country girls for you to get it with.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "Your looks won’t last forever Jude.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "And I shall be glad when they’re gone because I shall be no more bothered by the likes of you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will has been working hard. Working to forget. Will and Douglas are at work again on the garden border. are planting grasses where previously they measured. Doug begins another conversation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Sir. I suppose you’ve writ down all sorts of men.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Indeed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "And now you grow flowers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Trying. \f113 All Is True - Shooting Script 48A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Which do you like better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Which do you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Flowers Sir. They’re beautiful.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Aren’t people?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Some. I suppose But they’re cruel and selfish too.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "And flowers?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "DOUGLAS",
+          "text": "Aren't.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "But every flower fights for the light. One will strangle and starve another to survive. All they care about is their place in the Sun. Every one will put itself before it’s neighbour. But sometimes, we do not. Once in a while, god knows not very often, we’ll reach to help another up towards the Sun. I like flowers. But I like people better. Douglas smiles he likes the answer. They return to work. Later Anne brings Will some water. An arm round the shoul An attempt to restore normality. They slowly walk back towards the house. INT. THE SHAKESPEARE’S KITCHEN - EVENING 113 The family sit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I notice that your friend the Earl didn’t bring his wife with him on his travels. Perhaps he doesn’t find female company to his taste. If this was a jibe Will ignores it. \fAll Is True - Shooting Script 49.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I’m sure that His Grace and the Countess Elizabeth are most happy in their marriage. Possible discreetly raised eye brows from Anne and Judith",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "As I would wish you to be Judith. Why are you still unwed? You are pretty enough I think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I don’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Then look in your glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I have no glass.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (CONT'D)",
+          "text": "I didn’t like the person I saw in it. Will getting a little irritated at her endless negativity",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Good God Daughter that’s a bleak thought since the only company you keep is your own.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "But there it is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "But what of children? All women want children.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Apparently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Don’t you want a child?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Do you want me to replace Hamnet for you Father? This is brutal. Will absorbs the blow. Tries to be reasonable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I meant for your own sake. A husband, children. For comfort, companionship. \fAll Is True - Shooting Script 50.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "She's seen that marriage may not bring you either. Will’s anger begins slowly to boil.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Is that it Judith? Have you seen your mother’s misery, and thought better to be a spinster than shackled to a man who neglects you?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "I did not say I was miserable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "No wife you didn’t, but though I put words into other people's mouths, I too can occasionally see beyond what is merely said. Anne shrugs. Quite suddenly Will explodes. Fist on table.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And I will take no more of this! I have worked ceaselessly on behalf of this family...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "On your own behalf-",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "And I am head of this family! I have given you a fine house and servants. I have sent you money all your life. Is that not Comfort? You have two beautiful daughters, a brilliant son and a husband who though absent, kept you always in his thoughts! Is that not companionship? In abundance? Anne’s face suggests this is a stretch. Will doubles down",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I have raised this family up! Through my genius I have brought fame and fortune to this house. Yes my genius! Would you have had me ignore that? Ignore a gift from God almighty so that I could be a bloody glove maker, and you might feel a bit more appreciated! It’s a hard blow. Will’s defense is to go deeper. \fAll Is True - Shooting Script 51.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Hamnet died and I wasn’t here. I know that. The plague took him and I wasn’t here. But the plague has taken millions and it would have taken him whether I was in London, or in Stratford, or on that godforsaken highway. We lost our boy! We lost our beautiful, brilliant brilliant boy and I wasn’t there... Anne has merely bit her lip at all of this. Now, suddenly is Judith who answers Will. Jumping up and shouting.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Hamnet wasn’t brilliant!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "What? A beat. Judith knows she has begun something which now ca not be stopped.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "He was beautiful but he wasn’t brilliant.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith. Don’t.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "What do you mean?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I wrote them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Wrote what?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith I said don’t!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "The poems. There’s no turning back. Judith grabs at Will’s satchel a takes out the precious sheaf of papers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (CONT'D)",
+          "text": "The verses you hold so dear! With wit and mischief in every line. I made them up. Hamnet only wrote them down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "She helped him a little that’s all. \fAll Is True - Shooting Script 52.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I made them up! All of them. Hamnet was sweet and kind but he was no poet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "No! He was....",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "He wasn’t!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Brilliant.... Anne realizes the game is up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "No Will! He was just an ordinary little boy. You would have seen it in a moment had you ever looked.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I looked!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "And you saw what you wanted to see. You saw yourself!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith! Enough.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Myself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "A boy with a mind as big and bold as yours. But happy, with a father who appreciated his genius. Well Hamnet might not have been a genius but he was clever enough to know that he could never live up to what you wanted him to be! He dreaded your visits! Will is devastated. Anne tries to explain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "We didn’t plan it. Not when it began. It was only that Jude was always making up stories, conjuring rhymes... One day Hamnet wrote one of hers down for practise with his pen. You found it and thought it was his and praised him so.... Will tries to come to terms with all this. Judith has been holding the sheaf of papers. \f114 All Is True - Shooting Script 53.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "So are they worthless now?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "They aren’t his.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Will you read them no more? Sit in the Sun and chuckle at their wit?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "They are not his.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "No! They’re mine and so I will do what I please with them. She throws them on the fire. For a moment it seems as if will jump up and pull them out. But he doesn’t. He watche them burn. INT. THE SHAKESPEARE’S KITCHEN - NIGHT 114 It is very late. Will now sits alone. The empty satchel i his lap. Anne appears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Judith tried to teach herself to write you know. After Hamnet died. But she never had the patience. Not like Sue. A moment of silence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "I should have liked to have been able to write a few letters. Particularly married to you! Remember our wedding day? Me, older and pregnant, you this strange, clever lad of 18. I knew what people thought. I couldn’t even sign the register, had to make a stupid mark. I felt so foolish. Will looks at her, he hadn’t known that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE, (CONT'D)",
+          "text": "Then you went off and become the greatest writer in England! With a wife at home who couldn’t read a single word. I sometimes wondered wether that bothered you at all. (beat) But why would it? You were hardly here. \fAll Is True - Shooting Script 54. They both sit in the firelight with their thoughts.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will walks with Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "I didn’t know it was she who wrote the verse. But then Judith and Hamnet were inseparable. I wasn’t allowed into their world.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Why did she never tell me?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Out of loyalty to Hamnet I suppose. He wanted you to believe him brilliant in life. Why would he wish it any less in death?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "It was cruel.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Cruel for her I think.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "For Judith?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Would you want to be denied credit for your verse? Have people think someone else writ them? Someone better educated?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "No. No I shouldn’t like it at all.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Well look at them afresh. Celebrate your living daughter rather than your dead son. Perhaps Judith will finally smile again. Will is beginning to have some understanding of his insensitivity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "She burned them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Burned them? Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Because I am a fool. \fAll Is True - Shooting Script 55. Will walks on. Susanna follows.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Father. Why do you write no more? Will still does not wish to answer this. But slowly, he tries.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "On the morning after the theatre burnt, I stood there, among the ruins, determined to begin again. To write another play. My greatest yet. To open another theatre. Even greater. He pauses. Collecting his thoughts. Susanna listens.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And so I looked inside my self. Into my soul. I looked, as so often I had looked before. And this time... I found - Nothing. There was nothing there. I was as barren as the smoking ruins on which I stood. I was alone and frightened, and I realised this terrible thing. I realised that it just didn’t matter to me anymore. And there on that sad morning I knew that I would never write again. My soul was empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Your soul isn’t empty Father. Your soul has the whole world in it. But even if it was, I’m glad. For it’s brought you home. Will is very moved. 116 INT. JUDITH’S BED CHAMBER - NIGHT 116 Judith in her room. Will appears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "You lost your son. Any man would mourn. A daughter is nothing. Destined only to become the property of another man. Or fade away. \fAll Is True - Shooting Script 56.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "You mustn’t fade Judith. Why don’t you write again?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Father you know I can not write.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I could teach you. For a moment Judith is taken aback. This is such a potent resetting of their relationship. But it is too late.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I have no verse in me any more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Why?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Because the wrong twin died.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "No. Plague took him. Plague makes no judgements. It is just plague.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I wish a plague had taken me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Judith. Why do you hate yourself?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I have stolen Hamnet from you twice. Once by surviving him, and now by taking your dream of him away.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "You have given me a new dream. My beautiful daughter, the Poet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "A woman can not be a poet. A woman is put upon this Earth for but one reason. I know my duty now. I will make amends for stealing Hamnet from you. I promise I will make amends.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will digs. Anne joins him. Beat.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I am glad Hamnet didn’t write the poems. \f118 119 120 Anne looks at the garden. It is still pretty grim. smiles. All Is True - Shooting Script",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Glad?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I know him better now. It is love not ambition that will blossom in this garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Well it had better because it doesn’t seem like much else has blossomed yet.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I am a poor gardener. It’s true. I found it much easier to create things with words.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Life’s like that. Would you like me to help? 57. She She smiles. He smiles. Together they begin to work on the garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anne gets ready for bed. Will appears.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Goodnight my love.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Stay Will. For comfort. With me. In our second best bed. Will smiles. He enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Judith is approaching Quiney’s wine shop. EXT. HALL’S CROFT - DAY Anne is approaching Susanna’s house. She knocks Susanna answers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Susanna. There is something I should like your help with. 118 119 120 at the door. \fAll Is True - Shooting Script 58. 121 INT. QUINEY’S WINE SHOP - DAY 121 Judith enters. She closes the door and stares at Quiney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I will take that glass of Rhennish wine with you Tom Quiney. 122 INT. HALL’S CROFT - EVENING 122 Susanna and John Hall. She stitching, he with his bible.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Your sister has been seen in Thomas Quiney’s shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Quiney supplies wine to my father’s house.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "She was not ordering wine. She was drinking it. With Quiney. She was inside for half an hour or more.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Is this the faith your Puritan brothers practise? Spying on women?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "They were quite public in their merry making. They went later together to the tavern.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "If Judith is reaching for a little happiness then I am glad of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Sinning will not make her happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Really? Then let us hope it makes her unhappiness a little more bearable.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "That is a wicked thing to say. Remember your scripture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "What I remember is a little girl who smiled a lot. I should like to see what that smile looks like on the woman that girl became. \f123 124 125 All Is True - Shooting Script 59.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "A reputation once lost can not be refound.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Mine was.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Yours was not lost! It was defamed by a convicted drunkard and suspected Papist. Judith must drop this Quiney. He is debauched.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "If only those without sin were allowed to marry, there would be precious few weddings. INT. QUINEY’S WINE SHOP - EVENING 123 Quiney and Judith kissing.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "You know that I am not a good man. There have been women. Many women.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I have seen too little of life. You’ve seen too much. Between us perhaps we may begin again.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The hustle and bustle of a tiny market town. Quiney and Judith walk together. She is still sombre and serious but buys her a piece of fruit from a stall, maybe even juggle some? He wins a smile. The first we have seen! Margaret Wheeler is watching. She is both sad and bitter. Quiney sees her but manages to prevent Judith doing so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will and Anne work together in the garden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "He has a good business with his wine and tobacco shop.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "And people will always want those.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Unless John and his Puritan friends have their way. \f126 All Is True - Shooting Script 60.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "I've known the Quiney family all my life. They can be a wild and merry crew, but good hearted. Will glad to hear it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A poor lodging in a near by village. Quiney is visiting. Margaret Wheeler (who we saw him with at the church). She sits with her parents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "I can not see you anymore Margaret I’m sorry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET",
+          "text": "Because of Judith Shakespeare?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "I never made you promise Margaret you know that. If we sinned we sinned together. Margaret’s father speaks.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET'S FATHER",
+          "text": "She’s with child. This is a big blow.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "Can you be sure it’s mine? Margaret reddens, perhaps she can’t be sure. Her father i though and takes up a hatchet from the fire side.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET'S FATHER",
+          "text": "You dare ask it? Dare again! The Father is intimidating, but Quiney holds his ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "Margaret has many friends at the tavern.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET",
+          "text": "I’m certain... I think... I believe it’s yours Tom. Honestly I do. Quiney is not a bad man. He and Margaret have been friend",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "I have a wine shop. My family is prosperous. You will always have money for the child, always. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f127 128 All Is True - Shooting Script 61.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY, (CONT'D)",
+          "text": "And for your comfort too, a small dowry that you might find a husband who will take your child as his own. Margaret's father puts down his axe.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY, (CONT'D)",
+          "text": "I hope that in return you will not name me as the father. Margaret is sad but she knows it’s the best deal she’1l g Her father knows this also. He nods grimly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John Hall enters. He approaches the Landlady.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STRATFORD LANDLADY",
+          "text": "Well well. Doctor Hall. I did not look to see you in the Tavern. Has all your preachifying given you a thirst?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "A cup of water if you please.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STRATFORD LANDLADY",
+          "text": "I shall charge you pottage. There is water at the pump. John Hall puts a coin down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Tom Quiney the Vintner drinks here does he not?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "STRATFORD LANDLADY",
+          "text": "Since he was a boy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I would have you tell me what company he has kept of late. What female company. Hall puts another couple of coins down.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. NEW PLACE",
+          "text": "Will in his study. A serving girl shows in his lawyer Fra Collins. Will is a feeling happy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Francis Collins! Come in! Come in! You'll take some wine? Maria! A jug of wine if you please. \fAll Is True - Shooting Script 62.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANCIS",
+          "text": "I am relived to see you in such high spirits Will. When a man sends for his lawyer it is not always so.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Judith’s getting married!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANCIS",
+          "text": "No! Congratulations! It was a crime that such a pretty girl remained unwed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Well crime no longer! And thus would I amend my Will to include my new Son in Law Tom Quiney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANCIS",
+          "text": "Quiney is it? Wine and tobacco. Good trade.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Can’t think of better. Also we must of course make provision for his and Judith’s male issue. The wine arrives. Will fills their glasses for a toast.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "My grandsons!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANCIS",
+          "text": "Many of them! They drink. Will has a mischievous glint in his eye.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "And I wish also to leave something for Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANCIS",
+          "text": "Anne? If she survives you she will have a third by law.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Oh she’1ll survive me. I have little doubt of that. She’s years older and ten times tougher. But I don’t mean money! She’1ll have more of that than she can spend. I had in mind a piece of furniture.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "FRANCIS",
+          "text": "Furniture? But Anne will live here and have the use of every stick. \f130 131 132 133 All Is True - Shooting Script 63.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "A specific piece of furniture. Which when it is no longer ours must be hers. And I hope that in it will she smile and think of me. Will drinks happily. Francis shrugs and gets papers and p",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The congregation gathers. A merry scene as townsfolk go i the church. Quiney arrives with his brother, there is muc back slapping as they make their way in. Margaret Wheeler and her parents attend. She is heavily pregnant and ashamed that all pity her unmarried conditio Her father’s face shows angry defiance. INT. HOLY TRINITY CHURCH —- MORNING 131 Quiney enters. He sees that amongst the happy faces Marga sits grimly and tearfully at the back with her mother and father. Quiney catches Margaret's eye but he can not read face. Now Susanna and John Hall enter, John Hall sees Margaret and note that Quiney is looking at her.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now Will arrives with Judith. A happy morning.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The vicar Edward Woolmer is officiating over the wedding.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "Before I pronounce you man and wife I must ask this congregation does any know of any reason why these two should not wed. This is a tense moment for Quiney. His eyes flick to Margaret, her face a mask, her father shifts in his pew, he speak? Will John Hall? Hall is watching intently. None speak. The Vicar continues and completes the service",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER, (CONT'D)",
+          "text": "I now pronounce you man and wife. Judith turns for a moment to her father. She smiles at hi she is doing this for him but she is happy. She turns bac Quiney and embraces him \f135 136 137 All Is True - Shooting Script 64. CARD: On the tenth of February 1616 at Holy Trinity Churc Stratford Upon Avon, Judith Shakespeare then aged 31, mar Thomas Quiney, the local Vintner and tobacconist whom she known all her life.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The happy throng emerge. Margaret (her head bowed in sham over her very pregnant body) slips away with her parents. John Hall follows them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. NEW PLACE",
+          "text": "The wedding feast. A great cheering. This is a happy and joyous affair.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "John Hall is confronting Margaret and her parents.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Who is the father girl?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET",
+          "text": "I will not tell. John Hall glances at the well stocked shelves. Wine. Food pile of what are clearly new blankets and sheets.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "This house is blessed with a goodly abundance. Your silence has been bought. Margaret and her parents stare defiance at the two purita",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT. NEW PLACE",
+          "text": "Will is making a speech to the rapt crowd",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "«++. One son in law owns a wine shop the other one wants to close it. (laughter) A happy balance I think, balance in nature always appealed to me and a happy balance is what I feel now at this wonderful feast. You all know the Shakespeare’s. You knew my father when he was your Mayor, and you also knew him in less happy times... \fAll Is True - Shooting Script 65. A reveller calls out cheekily.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "O/S REVELLER",
+          "text": "He certainly knew the price of wool!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Of course he did! He made it up himself! Laughter and some ‘woos’. Will is being pretty honest.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I know that sometimes we Shakespeare’s have been our own worst enemies. And sometimes we have had the worst of enemies. Will looks at Susanna who gives him a little smile. Anoth voice calls out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "0/S VOICE",
+          "text": "If ever John Lane shows his face around here again he’1ll have the nose cut off it! All cheer at that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "We have had our ups and downs but I flatter myself that after my father’s shall we say ‘creative’ approach to matters financial I have brought some small credit to my home town. Another cheer and another voice shouts out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "O/S VOICE",
+          "text": "The world will know of Stratford On Avon because of you sir! More cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "And although I no longer have a son... and show me a family in this town that has not lost at least one child... I have two beautiful daughters. So perhaps one day I shall have a grandson. Susanna is embarrassed by this. Judith smiles at Quiney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "For that I look to you Tom and you also John! Be about your business both of you! \f138 139 All Is True - Shooting Script 66. Much good natured cheering. Quiney raises his mug. Hall d his best to produce a grim smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "For family is everything and today, I could not be more proud of mine. More cheers. There are calls for “the Groom”. Quiney stan",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "My friends. I have known Judith all my life. And I have loved her near as long. I remember her as a happy child and I remember the shadow that fell on her when she lost that other half of herself. That twin soul with whom she entered this world. I have asked her for her hand many times across the years. I don’t know what it was that finally caused her to say yes, all I can say is that I am happy for it and my dearest hope on this our wedding day is that I can bring into Judith’s life a little of the happiness that has forsaken her for so long. Judith is touched. Anne and Will too. All cheer. INT. JUDITH AND QUINEY’S BED CHAMBER - NIGHT 138 It is their wedding night. They stand before each other.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I saw Margaret Wheeler in the Church today Tom.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "I know it Judith and I have confessed all to you. I can not undo what is done. All I can say is that her child and she will not want. They embrace and begin to make love. CARD: Shortly after their wedding Judith and Tom Quiney conceived a child.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Wide shot. Hustle and bustle of a market town. Judith and Quiney walk hand in hand. They are happy. \f140 141 142 143 144 All Is True - Shooting Script 67.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Margaret is in labour. It’s a bad one. She’s screaming. H mother is trying to help but gives up.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET'S MOTHER",
+          "text": "The child is breech.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "MARGARET'S FATHER",
+          "text": "We must send for Doctor Hall. INT. THE SHAKESPEARE’S KITCHEN - DAY 141 Quiney and Judith are visiting Will and Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Pregnant?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "It’s very early Father but I believe I am.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Oh my sweet girl.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Margaret is screaming, the baby is not coming. Dr Hall is doing what he can but he knows it’s desperate. He takes t grim forceps from his bag. INT. THE SHAKESPEARE’S KITCHEN - DAY 143 Susanna has joined the family gathering.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Sister. I am truly happy for you.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Where is John? He should be here.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "He was called out... toa confinement. Judith and Quiney know who that is.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Margaret's screams reach a terrible crescendo. Then silen Her writhing body falls still. All know immediately that is gone. John Hall works feverishly at the limp body but no avail. \f145 146 All Is True - Shooting Script 68.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "The child has departed with it’s mother. INT. THE SHAKESPEARE’S KITCHEN - DAY 145 A merry conversation is in progress. Judith and Quiney laughing with Will and Anne. Even Susanna laughs merrily. John Hall enters. Perhaps still blood splattered. Clearly something is wrong.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "Quiney. Margaret Wheeler has died in childbirth along with her baby. The child has no name. It will not enter heaven without one. Quiney knows what he must do.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Margaret's parents are burying their daughter and grandch Tom Quiney and Judith are also there and stand some way apart. Judith with her hand on her own belly lost ina confusion of thoughts. The service ends. The parents turn to walk away. They pau before Quiney and Judith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Mr. Wheeler. Mrs. Wheeler. I’m so sorry. CARD: Margaret Wheeler, former lover to Thomas Quiney was buried with her child on 16th March 1616. CARD: On 25th of March 1616 Shakespeare once more amended Will, striking out provisions made for his new son in law",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "INT NEW PLACE DAY",
+          "text": "Will has signed and lays down his pen. He looks so sad. F once John Hall is moved.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JOHN HALL",
+          "text": "I take no pleasure in Judith’s distress Father in Law. Or yours. It grieves me.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I know that. John. \f149 150 All Is True - Shooting Script 69.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Bawdy court is assembling. Pious, grim figures. CARD: On March 26th 1616 Tom Quiney was tried before the Bawdy Court in the same church in which he had been marri six weeks earlier. He made a full confession. Thomas Quiney stands before the Court and congregation.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "QUINEY",
+          "text": "I got her with child. It was carnal copulation out of wedlock and I am sorry for it. Sorry for the agony it has caused to her family and sorry for the shame I have brought on mine.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "The sentence of the court is that you shall parade yourself in open penance, clad only in a white sheet for three Sundays before this congregation. Will feels once more the weight of shame.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will is walking in the High Street, still in smart clothe but looking older and sadder. He is no longer greeted wit respect, instead he gets smirks or looks of sympathy, he catches people pointing. Sir Thomas Lucy walks by.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Well well Mr. Shakespeare. How very unfortunate. Seems your daughter’s wedding was rushed for a reason. Like your own eh? The apple doesn’t fall far from the tree. Damn me you Shakespeare’s are a scandalous lot eh? Perhaps being an illiterate farm girl your wife was unable to teach your girls morals. Well well. Must be getting on. Can’t loll about thinking pretty thoughts all day like you poets. I must to business. Lucy is about to walk on. Will stops him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Business Sir Thomas? \fAll Is True - Shooting Script 69A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SIR THOMAS",
+          "text": "Yes yes business. A large estate like Charlecote Manor doesn’t run itself ye’ know.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Oh I thought you meant a real business. Like building, owning and operating London’s largest theatre for instance. Sir Thomas about to speak but Will ploughs on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Actors, carpenters, seamstresses, crew. Bribes to pay, security to mount, politics to navigate. Fifteen hundred paying public each afternoon, to be fed, watered, and given a spectacle which must be ever greater than the last. 170 Royal performances for our Queen and our king. Have you ever considered the cost and logistics of mounting the Battle of Shrewsbury in the banqueting hall at Hampton Court? Please don’t. It would make you very, very tired. And yet Sir Thomas, in all the years I ran my vast, complex and spectacularly successful business I also did find time to think and write down those pretty thoughts you mentioned, which in my experience brought immense pleasure to those seeking respite from this vale of tears, and without which the whole thing would have been as pointless as..? Well, as pointless as you Sir Thomas. Will about to leave but then has a final thought.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And since you brought her up, my wife Anne has more wisdom and decency in her daily shit than you have in your entire body. Lucy is a little shaken but walks on with dignity. Will c after him. \f151 152 153 154 All Is True - Shooting Script 70.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I wish I had poached your bloody deer! Will walks on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Another day. Anne works alone. The garden is blooming but Anne is sad for Will seems to have forsaken it. Will emerges from the house",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Will you work with me a while Husband? You could put some beer about for the slugs.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "By the look of things Anne you do better without me. I think I shall walk a little. He heads for the garden gate. Then pauses.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "She did it for you Will. You wanted a grandson. She returns to her digging. Will walks on.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will sits watching the children play. Once more he thinks sees the boy. Once more when he looks again the boy has g Something occurs to Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will is walking towards the church. He pauses at the graveyard wall. Will enters and walks to his son's grave. The Stone reads “Hamnet Shakespeare. 1585 to 1596”. He stands in contemplation. Then walks into the church. INT. HOLY TRINITY CHURCH —- MORNING 154 Will walks through the empty church. He sits in a pew wit his thoughts. The vicar enters. \f155 All Is True - Shooting Script 71.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "Mr. Shakespeare. In church and it isn’t Sunday? Dare I hope that you are seeking to know God a little better?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "People who claim to know God feel entitled to speak for him. I prefer to maintain a respectful distance. Which I imagine God appreciates. May I see the Church register?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The Chancery. Will sits at the desk. Woolmer busies himse with the registers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "You did not attend the funeral? The question is a painful one.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I was travelling home. The news arrived in London after I had left. By the time I arrived he lay in the ground.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EDWARD WOOLMER",
+          "text": "It was summer. No corpse remains unburied long. Particularly a plague corpse. Here is the page. August 1596. Will looks at the entry for Hamnet’s death. The Year 1596 His eye moves up and down the column. From the deaths recorded in 1596 to those in 95 and then 97. Will traces his finger across the Hamnet’s entry. Almost trying to touch the boy. Will is remembering...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I'd brought him a pen knife. A special one with a folding blade. His name engraved upon the handle. (beat) How he would have loved that knife. Will takes out the knife which is old now, and opens it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I keep it with me still... There is a pot of quills on the desk. Will takes one. \f159 All Is True - Shooting Script 72.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Do you mind? Woolmer nods. Will begins to cut the quill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And whenever I cut a new nib, I imagine that my hand is his hand. Grown to be a man... Will watches his hand as he cuts at the quill.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Trimming his quill with the knife his father gave him - on that joyful home coming long ago. Will has cut a beautiful nib. He dips it in ink.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And when I dip the ink and mark the page, it’s still his hand I see and the words that I write are his. He writes a word or two.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And then I tell myself that it isn’t me who thinks of him at all, but that I am dead, while Hamnet lives, and thinks of me. Will lays down the quill and folds the knife away. Edward Woolmer glances down at the page Will has written on. He wrote “Hamnet Shakespeare”.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "People often ask how I have writ so much. How I found the energy and dedication to sit alone at my desk writing play after play after play. The answer's simple, I was always in the company of my son. He gives way to grief. Edward Woolmer stand silently.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Will has returned to Hamnet’s grave. He reads the inscrip again. Year of death 1596. Will glances at the other graves close by, the years of d 1594, 1597, 1597, 1598. Will is thinking. \f160 162 163 164 All Is True - Shooting Script 73. HALL’S CROFT - DAY 160 Will has gone to talk with Susanna.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "It began and ended so quickly.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "It is always so with the plague.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "The four of us had supped that night. We were usually a merry crowd we four at table but that night I recall Hamnet was quiet. The illness already in his system no doubt. Judith teased him as she always did but that night could win no smile in return.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now it is a flashback we see Anne wake with a start. She heard Judith’s voice shout “Hamnet!” Susanna’s voice over continues to describe the scene.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "Mother told me she was awoken that night by Judith’s cry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still in flash back. Anne enters the children’s room. Fir she sees Judith crying in fear. Judith points to Hamnet w he lies already becoming plague ridden.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "Mother bid Hamnet come at once with her to save Judith from infection.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still in flashback. Anne is leading the stricken boy to t woods.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "She knew already that Hamnet could not survive and so did her best to isolate him from all but herself. But Judith disobeyed and followed. Judith is following Anne and Hamnet. \fAll Is True - Shooting Script 74.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "It was a warm night. The air was sweet and Hamnet begged to be taken to his favourite place.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hamnet, now with pustules fully breaking out lies on the lit grass beside the water. He screams in fear and pain.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "They nursed him through the night with cool water from the brook and prayer. Mother did as best she could to keep Judith and herself from contact with his sores and by God's mercy neither was infected. Dawn now. Hamnet dies.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "He left them as the Sun rose. Mother sent Judith for blankets and thread to make a shroud. Cross fade. Anne has stitched blankets around the corpse, completely containing it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA, (V.O.)",
+          "text": "When the plague is involved it’s best not to linger too long saying goodbye. When I awoke she’d sent for the graves-men. Hamnet was already in his coffin. 167 INT. HALL’S CROFT - DAY 167 Back in the present. Susanna still with Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Judith never smiled again. Will is thinking. He sees greater tragedy in his mind eve than that which has been described. 168 INT. THE SHAKESPEARE’S KITCHEN - EVENING 168 Later Will and Anne before the fire. Judith enters.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "You sent for me Father? \fAll Is True - Shooting Script 75.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes Judith. Thank you for coming. Your new home is comfortable I hope?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "There’s much to do but my husband is working hard. He is a good man despite the shame he brought us. Will swallows. It’s still a painful memory.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I visited Hamnet’s grave today. I read his name in the Parish Register.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "I am glad of it.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Anne I have known the plague. Many times in London did it strike and all the theatres must be closed. Neither Anne or Judith reply.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Yes, I have known the plague. And I was thinking today that Black Death is a scythe it is not a dagger.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "How so?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Never once did I see it strike a single person, and then depart. Anne and Judith remain silent. Will is wrestling with a question he does not want to ask.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "How did Hamnet die? Neither Anne nor Judith show any emotion. But now we see tear rolling from Judith’s expressionless eyes.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "His death is recorded in the Parish register but with no mention of the cause.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Plague husband. The priest pronounced it at his funeral. \f169 170 All Is True - Shooting Script 76.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Because that is what you told him. And also what no doubt you told the grave’s men when they arrived in the greenwood to find him stitched up in his shroud. In all their minds a remembered scene...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hamnet’s shrouded corpse lies in the grass, a sad bundle. Little Judith is being comforted by Anne. Two Grave’s men have arrived. Heavily cloaked men wearing the horrible be nosed masks used to ward off plague. They have a great sh They approach the bundled corpse warily. Like hook beaked vultures gathering round carrion. They lift it quickly an fearfully, perhaps even manipulating it with hooked poles Nobody wants to contact with a plaque victim any longer t necessary. They dump it on the sheet and drag the corpse bundle away. CARD: Hamnet Shakespeare died on or around the 9th of Aug 1596 and was buried on the 11th. INT. THE SHAKESPEARE’S KITCHEN - EVENING 170 We are back in the moment, Will is still quietly question Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "When I look at other graves around about Hamnet’s and at his name in the register. I see that no scythe swung through this town in the summer of 1596. Five children only were taken and three of those were new born’s. Not like in other plague years. Why in 1597 even dozens were cut down. (beat) Wife. How did Hamnet die?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "He died of plague. Will stares hard at Anne, his heart in torment. She retur his stare with stony defiance. Then Judith speaks. Slowly scarcely with emotion. Her eyes distant, her voice tonele",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "I woke Mother in the night with my cry. \f171 172 173 174 All Is True - Shooting Script 77. Once more we see the scene in flashback. This time descri by Judith in Voice Over.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Again in flashback we see Anne wake with a start. She has heard Judith’s voice shout “Hamnet!”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still in flash back. Anne enters the children’s room. Fir she sees Judith crying in fear. Judith points but this ti to an empty place in the bed.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (V.O.)",
+          "text": "Hamnet’s bed was empty.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Still in flashback. Anne rushing through the wood.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (V.O.)",
+          "text": "Mother searched the house and then thought of the Greenwood Pond that was his favourite place even though he couldn’t swim and would never go in the water. Judith emerges from the house and follows Anne.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Anne approaches the water with Judith behind her. They wa to the edge and now, in the Moonlight they see Hamnet, de floating like Ophelia. He is surrounded not by lilies but torn pages of paper.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (V.O.)",
+          "text": "Around him, torn and shredded floated the final verses I had conjured and which he had writ. The ones prepared for your return. Anne moves towards the water to get Hamnet’s corpse.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (V.O.)",
+          "text": "Mother sent me for blankets and thread. So that none would know how Hamnet died. \fAll Is True - Shooting Script 78. 176 INT. THE SHAKESPEARE’S KITCHEN - EVENING 176 Back in the present Judith has told her story. Anne speak with hollow firmness.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "That’s your story Judith and you have carried it’s burden ever since. But I say he died of plague. The vicar spake it at his grave and God accepts it. Millions have died of it and Hamnet entered Heaven amongst that host. Jesus would not have denied him his place whatever Judith thinks we saw. Will is too broken to speak. Instead Judith cries out.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Of course he’s in Heaven! Hamnet didn’t kill himself, he only threw himself upon the water. It was I that caused it. I killed him! I killed my brother!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "No Judith! It isn’t so! Judith turns to Will, utterly distraught.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "He wanted to please you so much. All he cared about was your love and all you cared about was him! I was jealous... I was jealous... Hamnet went to school. I helped in the kitchen because I was a girl. I wanted your approval too. I wanted your love... Will is numb.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH, (CONT'D)",
+          "text": "So I told him I would tell you! That this time you would know which twin had writ the verse. I didn’t mean it! I wouldn’t have done it. I loved him. But he believed me... He couldn't face your disappointment. Judith sobs in abject misery. Anne comforts Judith.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "He died of plague Judith. God accepts that. It was only a little lie. He was only a little boy. Will gets up unsteadily, puts on his cloak and leaves. \f177 178 All Is True - Shooting Script 79.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A wild night. Will stumbles through the woods. He calls o",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Hamnet! He thinks he sees the Boy again. Somewhere in the woods. boy runs. Will crashes after him. Rain lashing down. Will has arrived at the pond. He stares at he still Moon water. Almost delirious he grabs at a rock and puts it in shirt. Gathering another he wades into the water. When it deep enough he plunges under. The rocks aren’t heavy enough. He surfaces but plunges ag Then he sees the boy standing on the bank. The boy smiles. Will stops. He stands waste deep in the water.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "You finished it. Will doesn’t understand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY, (CONT'D)",
+          "text": "My story’s done. Go home now. I can rest. Will reaches out his hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Hamnet please. Stay a moment.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "BOY",
+          "text": "We are such stuff As dreams are made on, and our little life Is rounded with a sleep. The boy is gone.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "A few people are up and about. Milk churns are being cart Bread baked. Will walks home through the town, a filthy a disheveled figure, soaked through. A stark contrast to th proud man in his fine clothes. A few faces turn. \f179 180 All Is True - Shooting Script 80. EXT. NEW PLACE —- MORNING 179 Will arrives home, a sorry, shivering figure. Anne opens door to him. She looks on him with pity and with love. Wi seems so diminished.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I think perhaps I have caught a little chill. CARD: In April 1616 Shakespeare was visited by his friend rival Ben Jonson INT. THE SHAKESPEARE’S HALL —- NIGHT 180 Will, wrapped in rugs and seeming rather ill is dining wi Jonson.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "Christ Will! You have had a time of it! Both daughters caught up in scandals. Good for them!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Yes. So far retirement hasn't exactly brought me the peace I’d hoped for. Jonson sups deep. He is a confident, bold, opinionated ma but also astute and he loves Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "In my experience Will no one ever gets what they hope for. But they do tend to get what they deserve.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "You think I got what I deserve?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "Not all of it perhaps but something certainly. You lost a son. No man deserves that but most men suffer it. I myself have lost a daughter and a son.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I know my friend.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "But you have two daughters still, who love you and a wife to share your bed. I have none of that. Mine own Anne despises me. \fAll Is True - Shooting Script 81.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Well you publicly insult her and call her ‘shrew’. Can you blame her?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "I didn’t say she had no cause only that she does. Like your Anne (wife?). She loves William Shakespeare. But she won’t put up with the monster. You tell me that Southampton says you've lived a little life. What an arse! You have conquered England and returned victorious to the bosom of your family? Is that little?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Perhaps the second part.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "The second part is the best part! You made it home Will. How many other conquerors can say as much? What poets? Anyone can die alone and despised. Marlowe was murdered and no one can agree on which of his many enemies did it, Greene died in poverty, estranged from all who knew him. Kyd the same. No one knows how Tom Nashe died but if his filthy dildo poem’s are anything to go by it wasn’t in the bosom of his family. Will laughs which brings on a coughing fit.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON, (CONT'D)",
+          "text": "And I? Well while I am not dead I may soon be for I am out of favour with the king and none will speak for me. But you Will. You made it home. Any of us might wish we had half your ‘littleness’.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "(chuckling) Well, perhaps put like that.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "You have kept your friends too, even me and I am a waspish fellow. Hemming and Condell are feverishly seeking out your scripts intent that all should be published and your genius be preserved down the ages. (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\fAll Is True - Shooting Script 81A.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON, (CONT'D)",
+          "text": "Name another writer the bloody actors have revered like that? Yes we tease you Will. I’ve done it myself. A lot. ‘Not without right’. \f180c 181 All Is True - Shooting Script 82. Will puts a bit of mustard on his ham in salute.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Or as you kindly put it publicly, “Not without Mustard”",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "But you have your family and your friends, a full fire and a full belly. And oh, by the way you have written the greatest body of plays that ever were or will be. Damn your eyes you bastard! Yes my friend, I think you got what you deserved. Will is much moved by all of this.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Ben. I have an idea. EXT. JUDITH'’S CHAMBER WINDOW- NIGHT 180c Will and Jonson outside on the street.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Judith!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Father?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Shhh! Don’t wake your husband.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "What do you want?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "We're going to the pub. Wanna come?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "EXT. NEW PLACE",
+          "text": "Will and Jonson both drunk have got a ladder and Jonson a are setting it beneath Will’s Coat of Arms. Judith stops them.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "You’re both too drunk for ladders. Just hold the bottom. The pregnant Judith begins to climb. \f182 183 All Is True - Shooting Script 83.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The two playwrights and Judith are making their way tipsi up the street carrying the Coat of Arms.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "They enter and to everyone’s astonishment plonk it on the bar.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "The Shakespeare Coat of Arms. It cost me twenty quid. Who wants it for nothing? General surprise. Judith smiles. She understands what thi means to Will.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "Hang it above the bar if you wish for I have no more need of it. You all know me anyway! I’m the son of a dodgy trader and my wife was three months knocked up when I took her to the altar. One of my girls married a carnal copulator no offense Jude...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "None taken Father, he did tell the entire town.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "And the other one married a Puritan.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Which personally I think is worse!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Here here!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "Bloody right!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Some people think I poached one of Lucy’s stags which I didn’t but I wish I had.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "And never mind stags anyway you once stole an entire theatre.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Very true. \f183a 184 All Is True - Shooting Script 84.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JONSON",
+          "text": "I was there!",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I worked too hard, drank too little and worried too much about what arseholes like you lot thought of me. Good natured cheers.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "I took my extremely long suffering wife for granted, neglected my beautiful, clever daughters. He looks at Judith who returns his smile.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "And expected too much of my beloved son. Apart from all that, I wrote 37 plays, some of which I admit were rather long but all of which are works of absolute genius. Except possibly The Two Gentlemen of Verona.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (CONT'D)",
+          "text": "My name is William Shakespeare. And I am not a gentleman. All cheer. Judith hugs Will. The party begins. EXT NEW PLACE DAWN 183a A crisp spring morning. INT. ANNES’S BEDROOM - MORNING 184 Will lies in bed. He’s weak and ill. The chill is worse. dying. Anne, Judith and Sue enter. Judith now showing her pregnancy.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Father. It’s a special day. And Mother and Sue have prepared a special present. Susanna takes a document and hands it to him.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "Goodness. What’s this?",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Its our marriage licence Will. 34 years ago I put my mark to it. \f185 All Is True - Shooting Script 85.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "And now... There is a little bureau, Susanna produces quill and ink. Anne sits and with great care signs the licence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Anne.... Shakespeare. Will smiles and looks at the licence.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "You have a beautiful hand.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Sue is teaching me also and by the time you are better I shall have written you a poem. Will smiles with deep and special pleasure.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "You will need a pen knife then. This is yours. Will takes Hamnet’s knife from his pocket and gives it he",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "And what should you like to do today Father? On this special day? He smiles. He is at peace.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL",
+          "text": "I know a bank where the wild thyme blows... As the poem continues in voice over...",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is beautiful now, a graphic maze garden of beautifully arranged grasses. A knot garden of charm and symmetry. Th ladies lead Will to a seat and gather around him while li Elizabeth plays. Standing apart but also included are Hal and Quiney.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (V.O.)",
+          "text": "Where oxlips and the nodding violet grows, Quite overcanopied with luscious woodbine, With sweet musk roses and with eglantine. There sleeps Titania sometime of the night, (MORE )",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "\f186 All Is True - Shooting Script 86.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "WILL, (V.0.)",
+          "text": "Lulled in these flowers with dances and delight. CARD: William Shakespeare died on 23th April 1616 in the where he was born. It was his birthday.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is Will’s funeral. Music. A sombre, respectful congregation. Now Anne, Judith and Susanna stand together the dais. They have a piece of paper. First Anne reads, i a little faltering but loud and proud.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "ANNE",
+          "text": "Fear no more the heat o the sun. Judith reads the second line. Also falteringly. It is heartbreakingly poignant, Anne and Judith finally beginni to read Will’s poetry.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "JUDITH",
+          "text": "Nor the furious winters rages Now Susanna takes over. She of course reads with confiden and beautiful clarity.",
+          "sentiment": "neutral"
+        },
+        {
+          "speaker": "SUSANNA",
+          "text": "Thou thy worldy task hast done, Home art gone, and ta’en thy wages Golden lads and girls all must As chimney sweepers come to dust As the verses continue, we move away down the church, and fade to black. A final card William Shakespeare, 1564 - 1616, writer. CARD: Anne Died 9 years later. Will had bequeathed her his second best bed. Judith Quiney had three boys. All died young. Elizabeth Hall, Susanna’s only child married twice but ha children. She died aged 61, the last of Shakespeare’s line.",
+          "sentiment": "neutral"
+        }
+      ],
+      "movie_id": "scene_128"
+    }
+  ]
+}
